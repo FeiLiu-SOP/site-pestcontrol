@@ -141,29 +141,30 @@ function stateLabelForBait(stateCode: string, stateFromFm: string | undefined): 
   if (fm.length > 2) return fm;
   return stateCode;
 }
-function buildBaitPool2Titles(opts: {
-  service: string;
-  city: string;
-  stateCode: string;
-  stateFm: string | undefined;
-  zLabel: string | null;
-  pick: number;
-}): { pageTitle: string; pageH1: string } {
-  const stateToken = stateLabelForBait(opts.stateCode, opts.stateFm);
-  const { service, city, zLabel, pick } = opts;
-  if (pick === 0 && zLabel) {
-    const pageTitle = `${zLabel} Home Protection: ${city} Emergency ${service} (Verified)`;
-    const pageH1 = `${zLabel} Home Protection — ${city} Emergency ${service}`;
-    return { pageTitle, pageH1 };
+
+const PEST_TITLE_BRAND_SUFFIX = " | Rockwell Property Defense Network";
+function withPestTitleBrand(raw: string): string {
+  const t = raw.trim();
+  if (t.endsWith("Rockwell Property Defense Network")) return t;
+  return `${t}${PEST_TITLE_BRAND_SUFFIX}`;
+}
+
+/** site-pestcontrol: conversion templates + brand suffix on `<title>` (stableHash pick 0|1|2; pick 1 needs zLabel). */
+function buildBaitPool2Titles(opts: { city: string; zLabel: string | null; pick: number }): {
+  pageTitle: string;
+  pageH1: string;
+} {
+  const { city, zLabel, pick } = opts;
+  if (pick === 0) {
+    const core = `Free ${city} Pest Inspection: 100% Clear Guarantee | Child & Pet Safe`;
+    return { pageTitle: withPestTitleBrand(core), pageH1: core };
   }
-  if (pick === 1) {
-    const pageTitle = `${city} ${service} — 24/7 coordinated intake (${stateToken})`;
-    const pageH1 = `${city} ${service}: regional coordination desk (${stateToken})`;
-    return { pageTitle, pageH1 };
+  if (pick === 1 && zLabel) {
+    const core = `Stop Termite Damage in ${city}: Protect Your ${zLabel} Home Equity`;
+    return { pageTitle: withPestTitleBrand(core), pageH1: core };
   }
-  const pageTitle = `Maintenance intensity signal in ${city}. Coordinated ${service} planning.`;
-  const pageH1 = `Maintenance intensity signal in ${city} — coordinated ${service} planning`;
-  return { pageTitle, pageH1 };
+  const core = `2026 ${city} Infestation Audit: Same-Day Response & Verified Dispatch`;
+  return { pageTitle: withPestTitleBrand(core), pageH1: core };
 }
 const zRaw = post.data.zillowHomeValueUsd;
 const zUsd =
@@ -178,16 +179,13 @@ const zLabelExact =
       }).format(zUsd)
     : null;
 let baitPick = stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|bait2`) % 3;
-if (baitPick === 0 && !zLabel) {
-  baitPick = 1 + (stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|bait2NoZ`) % 2);
+if (baitPick === 1 && !zLabel) {
+  baitPick = stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|bait2NoZPest`) % 2 === 0 ? 0 : 2;
 }
 const baitHead =
   pageCity && stateCodeFromSlug
     ? buildBaitPool2Titles({
-        service: pageNicheLabel,
         city: pageCity,
-        stateCode: stateCodeFromSlug,
-        stateFm: post.data.state,
         zLabel,
         pick: baitPick,
       })
@@ -197,34 +195,59 @@ const isFinancialPressureMode =
   zUsd >= HIGH_VALUE_USD_TRIGGER &&
   zLabelExact != null &&
   pageCity != null;
-/** `<title>` / JSON-LD: high physical value → fixed “financial pressure” line; else stableHash pool / frontmatter. */
+
+const h1PestLead = pageCity
+  ? `Verified ${pageCity} Exterminators — 100% Eradication Guarantee — `
+  : `Verified Exterminators — 100% Eradication Guarantee — `;
+
+/** `<title>` / JSON-LD */
 const pageTitle = isFinancialPressureMode
-  ? `${zLabelExact} asset stewardship brief: ${pageCity} ${pageNicheLabel} (coordinated intake)`
-  : baitHead?.pageTitle ?? post.data.title;
-/** Visible `<h1>` fallback when no Zillow USD (high-value tier uses dedicated markup below). */
+  ? withPestTitleBrand(`URGENT: ${zLabelExact} ${pageCity} Asset Defense | Termite & Structural Risk Map`)
+  : baitHead?.pageTitle ?? withPestTitleBrand(post.data.title);
+
+/** Visible `<h1>` fallback (plain-text branch). */
 const pageH1Plain =
   zLabelExact && pageCity
-    ? `${pageCity} infrastructure stewardship — ${zLabelExact} median context`
+    ? `${h1PestLead}${pageCity} infrastructure stewardship — ${zLabelExact} median context`
     : zLabelExact
-      ? `Infrastructure stewardship — ${zLabelExact} median context`
+      ? `${h1PestLead}Infrastructure stewardship — ${zLabelExact} median context`
       : pageCity
-        ? `${pageCity} infrastructure stewardship — protecting your property systems`
-        : post.data.title;
+        ? `${h1PestLead}${pageCity} infrastructure stewardship — protecting your property systems`
+        : `${h1PestLead}${post.data.title}`;
+
+const pestUsgsAuditLine = zLabelExact
+  ? `Our USGS-integrated audit flags structural vulnerabilities that standard pest companies miss. Protect your ${zLabelExact} asset today.`
+  : `Our USGS-integrated audit flags structural vulnerabilities that standard pest companies miss. Protect your property asset today.`;
+
+function pestMetaLead(): string {
+  if (pageCity) {
+    return `Don't let pests eat your equity. Our verified ${pageCity} dispatch node provides 100% child-safe eradication and structural risk reports.`;
+  }
+  if (stateCodeFromSlug) {
+    return `Don't let pests eat your equity. Our verified ${stateCodeFromSlug} dispatch node provides 100% child-safe eradication and structural risk reports.`;
+  }
+  return `Don't let pests eat your equity. Our verified dispatch node provides 100% child-safe eradication and structural risk reports.`;
+}
+
 const pageMetaDescriptionDefault = clipMetaDescription(
   (() => {
+    const lead = `${pestMetaLead()} `;
     const base = post.data.description;
-    if (zLabelExact && !base.includes(zLabelExact)) {
-      if (pageCity && stateCodeFromSlug) {
-        return `${base} Benchmark median home value near ${zLabelExact} (${pageCity} ${stateCodeFromSlug} market context).`;
+    const tail = (() => {
+      if (zLabelExact && !base.includes(zLabelExact)) {
+        if (pageCity && stateCodeFromSlug) {
+          return `${base} Benchmark median home value near ${zLabelExact} (${pageCity} ${stateCodeFromSlug} market context).`;
+        }
+        return `${base} Benchmark median home value near ${zLabelExact}.`;
       }
-      return `${base} Benchmark median home value near ${zLabelExact}.`;
-    }
-    return base;
+      return base;
+    })();
+    return `${lead}${tail}`;
   })(),
 );
 const pageMetaDescription = isFinancialPressureMode
   ? clipMetaDescription(
-      `Local ${pageCity} home value benchmark: ${zLabelExact}. Regional infrastructure maintenance coordination and documented intake.`,
+      `${pestMetaLead()} Local benchmark: ${zLabelExact}. Termite and structural risk coordination with documented intake.`,
     )
   : pageMetaDescriptionDefault;
 function pickFaqSubset<T>(items: T[], seedText: string, count: number): T[] {
@@ -666,6 +689,14 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
         color: #b91c1c;
         font-weight: 600;
       }
+      .pest-usgs-audit-line {
+        margin: 0.65rem auto 0;
+        width: min(800px, 92vw);
+        padding: 0 1.25rem;
+        font-size: 0.92rem;
+        line-height: 1.45;
+        color: #334155;
+      }
       .pest-zip-dispatch-pulse {
         margin: 0.45rem 0 0;
         font-size: 0.86rem;
@@ -820,24 +851,30 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
             domPrefix={domPrefix}
           />
         )}
+        {isFinancialPressureMode ? null : (
+          <p class="pest-usgs-audit-line">{pestUsgsAuditLine}</p>
+        )}
         {pestInsuranceEquityNote ? <p class="pest-equity-insurance-note">{pestInsuranceEquityNote}</p> : null}
         <section class="hero-flood-alert-band" aria-label="Service area headline">
           <h1>
             {
               isFinancialPressureMode ? (
                 <>
+                  {h1PestLead}
                   {`${pageCity} ${pageNicheLabel} - Property Protection: `}
                   <span class="h1-zmoney">{zLabelExact}</span>
                 </>
               ) : zLabelExact ? (
                 pageCity ? (
                   <>
+                    {h1PestLead}
                     {`${pageCity} infrastructure stewardship — `}
                     <span class="h1-zmoney">{zLabelExact}</span>
                     {" median context"}
                   </>
                 ) : (
                   <>
+                    {h1PestLead}
                     {"Infrastructure stewardship — "}
                     <span class="h1-zmoney">{zLabelExact}</span>
                     {" median context"}
@@ -861,6 +898,7 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
             domPrefix={domPrefix}
           />
         ) : null}
+        {isFinancialPressureMode ? <p class="pest-usgs-audit-line">{pestUsgsAuditLine}</p> : null}
         {zUsd != null ? (
           <MarketDataView
             seed={entrySlug}
