@@ -39,6 +39,7 @@ import {
 import { resolvePageLocation } from "../lib/location";
 import {
   buildBaitPool2TitlesRoofing,
+  buildRoofingH1,
   buildRoofingPageTitle,
   ROOFING_META_MAX,
 } from "../lib/roofing-serp-title";
@@ -360,6 +361,7 @@ const roofingConvHead =
         zLabelExact,
         highValue: isRoofingHighValue,
         slug: entrySlug,
+        stateCode: stateCodeFromSlug ?? "US",
       })
     : null;
 const roofingSerpOverride = isRoofingHub ? getRoofingSerpOverride(entrySlug) : null;
@@ -577,12 +579,12 @@ const pageH1Plain = isWaterDamageHub
       : isRoofingHub
       ? roofingSerpOverride?.pageH1 ??
         roofingConvHead?.pageH1 ??
-        (pageCity ? `${pageCity} Roofing & Asset Defense` : post.data.title)
+        (pageCity ? buildRoofingH1(pageCity, isRoofingHighValue) : post.data.title)
     : isPestControlHub
       ? pestSerpOverride?.pageH1 ??
         pestConvHead?.pageH1 ??
         (pageCity
-          ? buildPestH1({ city: pageCity, zLabel, zLabelExact })
+          ? buildPestH1({ city: pageCity, zLabel, zLabelExact, highValue: isPestHighValue })
           : post.data.title)
     : zLabelForPublicSurface && pageCity
       ? `${pageCity} infrastructure stewardship — ${zLabelForPublicSurface} median context`
