@@ -13,7 +13,7 @@
                     "dev:water-damage":  "cross-env ACTIVE_COLLECTION=water-damage astro dev --host --port 4321",
                     "dev:siding-services":  "cross-env ACTIVE_COLLECTION=siding-services astro dev --host --port 4321",
                     "dev:plumbing-v2":  "cross-env ACTIVE_COLLECTION=plumbing-v2 astro dev --host --port 4321",
-                    "build":  "astro build \u0026\u0026 node ./scripts/nest-hub-segment.mjs pestcontrol \u0026\u0026 node ./scripts/write-pages-assetsignore.mjs",
+                    "build":  "astro build \u0026\u0026 node ./scripts/nest-hub-segment.mjs pestcontrol \u0026\u0026 rm -rf dist/pestcontrol/images/thumbnails dist/images/thumbnails",
                     "build:roofing":  "cross-env ACTIVE_COLLECTION=roofing astro build",
                     "build:plumbing":  "cross-env ACTIVE_COLLECTION=plumbing astro build",
                     "build:pestcontrol":  "cross-env ACTIVE_COLLECTION=pestcontrol astro build \u0026\u0026 node ./scripts/nest-hub-segment.mjs pestcontrol",
