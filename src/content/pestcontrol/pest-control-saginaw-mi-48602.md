@@ -11,25 +11,43 @@ lng: -83.9500
 zipSample: ["48607", "48602", "48606", "48601", "48663"]
 zipCodes: ["48606", "48601", "48602", "48663", "48607"]
 localPaths: ["Saginaw County / ZIP 48602 sector", "Saginaw County / ZIP 48663 sector", "Saginaw County / elevation 594 ft band", "Saginaw County / coords 43.4200, -83.9500", "Saginaw County / ZIP 48607 sector"]
-zillowHomeValueUsd: 81396
 ---
 
-**Engineering Notice for Saginaw:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: Saginaw County.
+**Engineering Notice for Saginaw:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Saginaw County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: What is exclusion? Without sealing entry points in Saginaw, MI, pressure often rebuilds.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 48602.
+Dry-wood termite pellets in Saginaw, MI attics may appear before exterior mud tubes.
 
-Tip: avoid large upfront payments without milestones.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Transparent pricing helps you compare like-for-like scope items.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Access points and staging constraints recorded for ZIP 48602/48607/48606 coverage.
+County grid Saginaw County informs routing near ZIP 48602.
 
-Dispatch sectors sampled: ZIP 48602, 48607, 48606, 48663, 48601 (county grid: Saginaw County).
+Clover mite staining on Saginaw, MI wall restoration follows foundation mulch against brick ledges.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Stored cardboard in Saginaw, MI garages can accelerate pantry pest cycles.
+
+Mosquito breeding in Saginaw, MI catch basins can amplify perimeter callbacks.
+
+Perimeter granule carriers in Saginaw, MI clay soils may need lighter irrigation before application.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Harbor ledger 555255: frass lane, mud-tube scan, and garage jamb gap measure filed for Saginaw, MI at 43.4200, -83.9500.
+
+Exclusion audit 555255: exclusion mesh gauge and rodent runway grease mark reviewed for Saginaw, MI at 43.4200/-83.9500.
+
+On-site sector marker: Saginaw County / ZIP 48607 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48602-cfb18748

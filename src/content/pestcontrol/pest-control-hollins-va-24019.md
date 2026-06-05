@@ -11,26 +11,37 @@ lng: -79.9500
 zipSample: ["24020", "24019", "24050"]
 zipCodes: ["24020", "24050", "24019"]
 localPaths: ["Roanoke County / elevation 1112 ft band", "Roanoke County / primary ZIP 24019", "Roanoke County / coords 37.3400, -79.9500", "Roanoke County / ZIP 24050 sector", "Roanoke County / ZIP 24019 sector"]
-zillowHomeValueUsd: 306172
 ---
 
-**Engineering Notice for Hollins:** Structural loading calculated based on 1112 ft terrain assessment. Regional dispatch grid: Roanoke County.
+**Engineering Notice for Hollins:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Roanoke County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hollins, VA, but intake notes help reduce delays.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Date bait station lids when servicing Hollins, VA perimeter lines.
 
-Field note: Access points and staging constraints recorded for ZIP 24050/24019/24020 coverage.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Wind exposure category reviewed for ZIP sector 24050/24019/24020.
+Silverfish activity in Hollins, VA attics tracks cardboard storage and ridge vent gaps.
 
-Dispatch sectors sampled: ZIP 24050, 24019, 24020 (county grid: Roanoke County).
+Yellow jacket nests in Hollins, VA soffit cavities peak in late summer routing windows.
+
+State note: Hollins, VA commercial kitchens may require separate documentation for audit visits.
+
+Attic misting in Hollins, VA requires combustion air clearance verified before fans restart.
+
+Attic fogging in Hollins, VA requires combustion appliance shutoff verification first.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Perimeter dossier 498260: bait station anchor map and mulch bridge risk flagged for Hollins, VA county Roanoke County (ZIP 24019).
+
+On-site sector marker: Roanoke County / ZIP 24020 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-24019-c203725f

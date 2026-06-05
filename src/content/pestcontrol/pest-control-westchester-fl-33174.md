@@ -11,27 +11,39 @@ lng: -80.3500
 zipSample: ["33199", "33174", "33144", "33165", "33155"]
 zipCodes: ["33155", "33199", "33174", "33165", "33144"]
 localPaths: ["Miami-Dade County / ZIP 33199 sector", "Miami-Dade County / primary ZIP 33174", "Miami-Dade County / ZIP 33144 sector", "Miami-Dade County / ZIP 33174 sector", "Miami-Dade County / coords 25.7500, -80.3500"]
-zillowHomeValueUsd: 442066
 ---
 
-**Engineering Notice for Westchester:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Westchester:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+We coordinate Westchester, FL pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33174.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Tip: confirm licensing and insurance before approving work.
+Monitoring boards in Westchester, FL crawlspaces stay 72 hours before snap traps are reset.
 
-Homeowners in Westchester, FL often face sudden pest control problems that require fast action.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Westchester, FL.
 
-We coordinate local dispatch coverage around Westchester, FL and nearby ZIP sectors.
+Step: label treatment zones for occupant re-entry timing.
 
-Field note: Connection points spot-checked where accessible (ZIP 33199/33165/33144 zone).
+Step: separate bait rotation schedules from crack-and-crevice applications in Westchester, FL.
 
-Field note: Wind exposure category reviewed for ZIP sector 33199/33165/33144.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 33199, 33165, 33144, 33174, 33155 (county grid: Miami-Dade County).
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Material note: Perimeter granules in Westchester, FL may need reapplication after heavy irrigation.
+
+Silverfish activity in Westchester, FL attics tracks cardboard storage and ridge vent gaps.
+
+Attic insulation disturbance in Westchester, FL may indicate wildlife nesting routes.
+
+Zone map 792486: attic insulation disturbance trace and pantry pest source logged for Westchester, FL sector 33174.
+
+Seasonal cue 792486: cluster fly attic staging reviewed for Westchester, FL soffit cavities.
+
+ZIP-corridor snapshot for Westchester, FL: sampled sectors include 33199, 33165, 33155, 33144, 33174; county routing grid remains Miami-Dade County.
 
 Service reference: FL-33174-49be2ed3

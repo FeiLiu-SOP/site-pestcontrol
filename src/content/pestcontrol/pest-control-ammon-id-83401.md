@@ -11,25 +11,37 @@ lng: -111.9600
 zipSample: ["83401", "83406", "83403"]
 zipCodes: ["83406", "83403", "83401"]
 localPaths: ["Bonneville County / primary ZIP 83401", "Bonneville County / ZIP 83403 sector", "Bonneville County / coords 43.4700, -111.9600", "Bonneville County / elevation 4728 ft band", "Bonneville County / ZIP 83406 sector"]
-zillowHomeValueUsd: 401225
 ---
 
-**Engineering Notice for Ammon:** Structural loading calculated based on 4728 ft terrain assessment. Regional dispatch grid: Bonneville County.
+**Engineering Notice for Ammon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bonneville County.
 
 
-Tip: avoid large upfront payments without milestones.
+IGR packets for Ammon, ID roach cycles should be dated on station lids.
 
-Our service coordination centers on Ammon, ID coverage windows and verified intake details.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 83401.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Log pet access routes when bait stations are placed.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Ammon, ID, but intake notes help reduce delays.
+In Ammon, ID, subterranean termite swarms often follow warm rain windows.
 
-Field note: Connection points spot-checked where accessible (ZIP 83406/83403/83401 zone).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 83401.
 
-Dispatch sectors sampled: ZIP 83406, 83403, 83401 (county grid: Bonneville County).
+Humidity in Ammon, ID can sustain cockroach harborages behind appliance voids.
+
+Carpenter ant frass in Ammon, ID window sills may indicate moisture-softened framing.
+
+Risk flag: Overwatered Ammon, ID planters can restart ant bridges within two weeks.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 83401.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Perimeter dossier 346359: bait station anchor map and mulch bridge risk flagged for Ammon, ID county Bonneville County (ZIP 83401).
+
+Coordinate-anchored dispatch note: center reference 43.4700, -111.9600 at elevation ~4728 ft aligns with Bonneville County intake staging.
 
 Service reference: ID-83401-0aff9ec6

@@ -11,26 +11,41 @@ lng: -111.6500
 zipSample: ["84601", "84602", "84603", "84606", "84604"]
 zipCodes: ["84601", "84606", "84603", "84604", "84605", "84602"]
 localPaths: ["Utah County / primary ZIP 84606", "Utah County / ZIP 84604 sector", "Utah County / ZIP 84602 sector", "Utah County / ZIP 84601 sector", "Utah County / ZIP 84603 sector"]
-zillowHomeValueUsd: 430213
 ---
 
-**Engineering Notice for Provo:** Structural loading calculated based on 4626 ft terrain assessment. Regional dispatch grid: Utah County.
+**Engineering Notice for Provo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Utah County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Provo, UT, but intake notes help reduce delays.
+IGR packets for Provo, UT roach cycles should be dated on station lids.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 84606.
 
-Tip: avoid large upfront payments without milestones.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Tip: address recurring issues early to prevent bigger damage.
+Dry-wood termite pellets in Provo, UT attics may appear before exterior mud tubes.
 
-Homeowners in Provo, UT often face sudden pest control problems that require fast action.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 84606.
 
-Field note: Connection points spot-checked where accessible (ZIP 84603/84605/84606 zone).
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84603/84605/84606.
+FAQ: What is exclusion? Without sealing entry points in Provo, UT, pressure often rebuilds.
 
-Dispatch sectors sampled: ZIP 84603, 84605, 84606, 84602, 84601 (county grid: Utah County).
+Wildlife odors in Provo, UT crawlspaces may attract secondary pest activity.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Risk flag: Overwatered Provo, UT planters can restart ant bridges within two weeks.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Cluster fly attic staging in Provo, UT peaks on south-facing voids after sunny thaw days.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Monitoring boards in Provo, UT crawlspaces stay 72 hours before snap traps are reset.
+
+Species trace 580427: re-entry interval label and conducive moisture note keyed to Provo, UT elevation 4626 ft.
+
+On-site sector marker: Utah County / primary ZIP 84606 — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84606-454e503a

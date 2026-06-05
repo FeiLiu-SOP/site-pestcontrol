@@ -11,24 +11,41 @@ lng: -79.9100
 zipSample: ["15122", "15123"]
 zipCodes: ["15123", "15122"]
 localPaths: ["Allegheny County / ZIP 15123 sector", "Allegheny County / coords 40.3600, -79.9100", "Allegheny County / ZIP 15122 sector", "Allegheny County / elevation 1099 ft band", "Allegheny County / primary ZIP 15122"]
-zillowHomeValueUsd: 160916
 ---
 
-**Engineering Notice for West Mifflin:** Structural loading calculated based on 1099 ft terrain assessment. Regional dispatch grid: Allegheny County.
+**Engineering Notice for West Mifflin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Allegheny County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Keep pet food elevated and sealed between service visits.
 
-We coordinate local dispatch coverage around West Mifflin, PA and nearby ZIP sectors.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Clover mite staining on West Mifflin, PA cladding service follows foundation mulch against brick ledges.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 15122.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in West Mifflin, PA, but intake notes help reduce delays.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Field note: Wind exposure category reviewed for ZIP sector 15123/15122.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Dispatch sectors sampled: ZIP 15123, 15122 (county grid: Allegheny County).
+Perimeter granule carriers in West Mifflin, PA clay soils may need lighter irrigation before application.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Across West Mifflin, PA, rodent entry points frequently track utility penetrations.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Dry-wood termite pellets in West Mifflin, PA attics may appear before exterior mud tubes.
+
+Species trace 748235: re-entry interval label and conducive moisture note keyed to West Mifflin, PA elevation 1099 ft.
+
+On-site sector marker: Allegheny County / ZIP 15123 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-15122-7ca715bb

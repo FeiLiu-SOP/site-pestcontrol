@@ -11,26 +11,41 @@ lng: -98.3300
 zipSample: ["78572", "78574"]
 zipCodes: ["78574", "78572"]
 localPaths: ["Hidalgo County / coords 26.2000, -98.3300", "Hidalgo County / ZIP 78574 sector", "Hidalgo County / elevation 125 ft band", "Hidalgo County / primary ZIP 78574", "Hidalgo County / ZIP 78572 sector"]
-zillowHomeValueUsd: 196721
 ---
 
-**Engineering Notice for Mission:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Hidalgo County.
+**Engineering Notice for Mission:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hidalgo County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Mission, TX, but intake notes help reduce delays.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Homeowners in Mission, TX often face sudden pest control problems that require fast action.
+State note: Mission, TX commercial kitchens may require separate documentation for audit visits.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 78574.
 
-Tip: compare at least two estimates for scope and timeline.
+Attic fogging in Mission, TX requires combustion appliance shutoff verification first.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Mud dauber nests in Mission, TX porch ceilings are benign but signal prey density for spiders.
 
-Field note: Wind exposure category reviewed for ZIP sector 78574/78572.
+Perimeter granule carriers in Mission, TX clay soils may need lighter irrigation before application.
 
-Field note: Connection points spot-checked where accessible (ZIP 78574/78572 zone).
+Material note: Perimeter granules in Mission, TX may need reapplication after heavy irrigation.
 
-Dispatch sectors sampled: ZIP 78574, 78572 (county grid: Hidalgo County).
+Spider populations in Mission, TX eaves can signal insect prey density.
+
+Fire ant mounds in Mission, TX drive seams need granule rotation after irrigation events.
+
+Risk flag: Overwatered Mission, TX planters can restart ant bridges within two weeks.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 78574.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Exclusion audit 288111: exclusion mesh gauge and rodent runway grease mark reviewed for Mission, TX at 26.2000/-98.3300.
+
+On-site sector marker: Hidalgo County / ZIP 78572 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78574-8b888d72

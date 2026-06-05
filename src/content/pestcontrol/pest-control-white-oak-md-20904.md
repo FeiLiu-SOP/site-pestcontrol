@@ -11,24 +11,39 @@ lng: -76.9900
 zipSample: ["20904", "20903", "20901"]
 zipCodes: ["20903", "20904", "20901"]
 localPaths: ["Montgomery County / coords 39.0500, -76.9900", "Montgomery County / elevation 404 ft band", "Montgomery County / ZIP 20901 sector", "Montgomery County / ZIP 20904 sector", "Montgomery County / ZIP 20903 sector"]
-zillowHomeValueUsd: 592828
 ---
 
-**Engineering Notice for White Oak:** Structural loading calculated based on 404 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for White Oak:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.
 
 
-Tip: request a written scope before work starts.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-In White Oak, MD, seasonal demand can change scheduling windows.
+Attic fogging in White Oak, MD requires combustion appliance shutoff verification first.
 
-We coordinate local dispatch coverage around White Oak, MD and nearby ZIP sectors.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Homeowners in White Oak, MD often face sudden pest control problems that require fast action.
+Dry-wood termite pellets in White Oak, MD attics may appear before exterior mud tubes.
 
-Field note: Connection points spot-checked where accessible (ZIP 20901/20903/20904 zone).
+Perimeter granule carriers in White Oak, MD clay soils may need lighter irrigation before application.
 
-Dispatch sectors sampled: ZIP 20901, 20903, 20904 (county grid: Montgomery County).
+Exclusion gaps at garage jambs in White Oak, MD are common rodent access points.
+
+Flea pupae survive vacuuming in White Oak, MD carpet fibers unless heat treatment follows.
+
+Humidity in White Oak, MD can sustain cockroach harborages behind appliance voids.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Cluster fly attic staging in White Oak, MD peaks on south-facing voids after sunny thaw days.
+
+Intercept log 687836: bed bug intercept count staged before White Oak, MD interior gel zones.
+
+Exclusion audit 687836: exclusion mesh gauge and rodent runway grease mark reviewed for White Oak, MD at 39.0500/-76.9900.
+
+On-site sector marker: Montgomery County / ZIP 20901 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20904-36277809

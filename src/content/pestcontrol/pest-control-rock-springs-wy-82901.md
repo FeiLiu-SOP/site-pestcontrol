@@ -11,25 +11,37 @@ lng: -109.2200
 zipSample: ["82901", "82902"]
 zipCodes: ["82901", "82902"]
 localPaths: ["Sweetwater County / ZIP 82902 sector", "Sweetwater County / ZIP 82901 sector", "Sweetwater County / primary ZIP 82901", "Sweetwater County / coords 41.5900, -109.2200", "Sweetwater County / elevation 6283 ft band"]
-zillowHomeValueUsd: 289214
 ---
 
-**Engineering Notice for Rock Springs:** Structural loading calculated based on 6283 ft terrain assessment. Regional dispatch grid: Sweetwater County.
+**Engineering Notice for Rock Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sweetwater County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic fogging in Rock Springs, WY requires combustion appliance shutoff verification first.
 
-Our service coordination centers on Rock Springs, WY coverage windows and verified intake details.
+Perimeter mulch beds in Rock Springs, WY should be reviewed for ant bridge paths.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 82901.
+Tip: Date bait station lids when servicing Rock Springs, WY perimeter lines.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Rock Springs, WY, but intake notes help reduce delays.
+Step: map entry points with photo logs before sealing.
 
-Field note: Access points and staging constraints recorded for ZIP 82902/82901 coverage.
+Step: separate bait rotation schedules from crack-and-crevice applications in Rock Springs, WY.
 
-Dispatch sectors sampled: ZIP 82902, 82901 (county grid: Sweetwater County).
+Exclusion gaps at garage jambs in Rock Springs, WY are common rodent access points.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Rock Springs, WY.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+In Rock Springs, WY, subterranean termite swarms often follow warm rain windows.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Species trace 165762: re-entry interval label and conducive moisture note keyed to Rock Springs, WY elevation 6283 ft.
+
+On-site sector marker: Sweetwater County / elevation 6283 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WY-82901-e534b148

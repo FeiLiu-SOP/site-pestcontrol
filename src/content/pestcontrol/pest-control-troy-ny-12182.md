@@ -11,24 +11,37 @@ lng: -73.6800
 zipSample: ["12181", "12182", "12180"]
 zipCodes: ["12180", "12181", "12182"]
 localPaths: ["Rensselaer County / primary ZIP 12182", "Rensselaer County / ZIP 12180 sector", "Rensselaer County / elevation 249 ft band", "Rensselaer County / ZIP 12181 sector", "Rensselaer County / ZIP 12182 sector"]
-zillowHomeValueUsd: 256192
 ---
 
-**Engineering Notice for Troy:** Structural loading calculated based on 249 ft terrain assessment. Regional dispatch grid: Rensselaer County.
+**Engineering Notice for Troy:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rensselaer County.
 
 
-Tip: request a written scope before work starts.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Troy, NY, but intake notes help reduce delays.
+Dry-wood termite pellets in Troy, NY attics may appear before exterior mud tubes.
 
-Structured milestones protect both sides when scheduling work.
+Drain fly biofilm in Troy, NY floor drains signals grease traps need service before gel baits.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Moisture pathway inspection logged near ZIP 12182/12181/12180 intake.
+Earwig harborages in Troy, NY meter boxes often follow drip irrigation overspray.
 
-Dispatch sectors sampled: ZIP 12182, 12181, 12180 (county grid: Rensselaer County).
+Carpenter ant frass in Troy, NY window sills may indicate moisture-softened framing.
+
+Perimeter granule carriers in Troy, NY clay soils may need lighter irrigation before application.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+We coordinate Troy, NY pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Humidity in Troy, NY can sustain cockroach harborages behind appliance voids.
+
+Exclusion audit 229563: exclusion mesh gauge and rodent runway grease mark reviewed for Troy, NY at 42.7400/-73.6800.
+
+Regional mesh label Rensselaer County: moisture and logistics baselines are keyed to Troy, NY before niche-specific work begins.
 
 Service reference: NY-12182-3d6c67f4

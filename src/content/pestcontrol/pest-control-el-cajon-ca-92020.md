@@ -11,26 +11,39 @@ lng: -116.9600
 zipSample: ["92021", "92019", "92020"]
 zipCodes: ["92021", "92020", "92019"]
 localPaths: ["San Diego County / ZIP 92020 sector", "San Diego County / elevation 430 ft band", "San Diego County / primary ZIP 92020", "San Diego County / coords 32.8000, -116.9600", "San Diego County / ZIP 92021 sector"]
-zillowHomeValueUsd: 840297
 ---
 
-**Engineering Notice for El Cajon:** Structural loading calculated based on 430 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for El Cajon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 92020.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in El Cajon, CA, but intake notes help reduce delays.
+Fire ant mounds in El Cajon, CA drive seams need granule rotation after irrigation events.
 
-Local conditions in El Cajon, CA can affect timelines and material choices.
+Attic insulation disturbance in El Cajon, CA may indicate wildlife nesting routes.
 
-Our service coordination centers on El Cajon, CA coverage windows and verified intake details.
+Earwig harborages in El Cajon, CA meter boxes often follow drip irrigation overspray.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Perimeter granules in El Cajon, CA may need reapplication after heavy irrigation.
 
-Field note: Access points and staging constraints recorded for ZIP 92021/92019/92020 coverage.
+Flea pupae survive vacuuming in El Cajon, CA carpet fibers unless heat treatment follows.
 
-Field note: Wind exposure category reviewed for ZIP sector 92021/92019/92020.
+Step: verify attic access safety before insulation disturbance.
 
-Dispatch sectors sampled: ZIP 92021, 92019, 92020 (county grid: San Diego County).
+FAQ: Why schedule quarterly instead of monthly in El Cajon, CA? Species pressure and label intervals dictate cadence.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Attic misting in El Cajon, CA requires combustion air clearance verified before fans restart.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Bird mites in El Cajon, CA exhaust vents can persist after host nests are removed.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 92020.
+
+Perimeter dossier 895870: bait station anchor map and mulch bridge risk flagged for El Cajon, CA county San Diego County (ZIP 92020).
+
+Regional mesh label San Diego County: moisture and logistics baselines are keyed to El Cajon, CA before niche-specific work begins.
 
 Service reference: CA-92020-d43f2c1a

@@ -11,26 +11,39 @@ lng: -71.0200
 zipSample: ["02305", "02302", "02301", "02304", "02303"]
 zipCodes: ["02302", "02301", "02303", "02305", "02304"]
 localPaths: ["Plymouth County / ZIP 02304 sector", "Plymouth County / coords 42.0800, -71.0200", "Plymouth County / ZIP 02305 sector", "Plymouth County / ZIP 02303 sector", "Plymouth County / ZIP 02302 sector"]
-zillowHomeValueUsd: 513430
 ---
 
-**Engineering Notice for Brockton:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Plymouth County.
+**Engineering Notice for Brockton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Plymouth County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+We coordinate Brockton, MA pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Tip: address recurring issues early to prevent bigger damage.
+Fire ant mounds in Brockton, MA drive seams need granule rotation after irrigation events.
 
-Tip: avoid large upfront payments without milestones.
+Step: map entry points with photo logs before sealing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Perimeter granules in Brockton, MA may need reapplication after heavy irrigation.
 
-Field note: Wind exposure category reviewed for ZIP sector 02304/02302/02305.
+Tip: Date bait station lids when servicing Brockton, MA perimeter lines.
 
-Field note: Connection points spot-checked where accessible (ZIP 02304/02302/02305 zone).
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Dispatch sectors sampled: ZIP 02304, 02302, 02305, 02303, 02301 (county grid: Plymouth County).
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Carpenter ant frass in Brockton, MA window sills may indicate moisture-softened framing.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Brockton, MA.
+
+Silverfish activity in Brockton, MA attics tracks cardboard storage and ridge vent gaps.
+
+Clover mite staining on Brockton, MA wall restoration follows foundation mulch against brick ledges.
+
+Zone map 808516: attic insulation disturbance trace and pantry pest source logged for Brockton, MA sector 02301.
+
+Species trace 808516: re-entry interval label and conducive moisture note keyed to Brockton, MA elevation 135 ft.
+
+Primary postal anchor 02301 with multi-ZIP overlap in Brockton; field packets tag Plymouth County for county-grid reconciliation.
 
 Service reference: MA-02301-ad2087d3

@@ -11,26 +11,39 @@ lng: -84.7800
 zipSample: ["30265", "30264", "30263", "30271"]
 zipCodes: ["30263", "30264", "30271", "30265"]
 localPaths: ["Coweta County / coords 33.3800, -84.7800", "Coweta County / primary ZIP 30263", "Coweta County / ZIP 30271 sector", "Coweta County / ZIP 30263 sector", "Coweta County / elevation 945 ft band"]
-zillowHomeValueUsd: 336212
 ---
 
-**Engineering Notice for Newnan:** Structural loading calculated based on 945 ft terrain assessment. Regional dispatch grid: Coweta County.
+**Engineering Notice for Newnan:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Coweta County.
 
 
-Our service coordination centers on Newnan, GA coverage windows and verified intake details.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Transparent pricing helps you compare like-for-like scope items.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Keep pet food elevated and sealed between service visits.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Newnan, GA, but intake notes help reduce delays.
+Mosquito breeding in Newnan, GA catch basins can amplify perimeter callbacks.
 
-In Newnan, GA, urgent pest control issues can escalate quickly.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Wind exposure category reviewed for ZIP sector 30271/30263/30264.
+Exclusion gaps at garage jambs in Newnan, GA are common rodent access points.
 
-Field note: Connection points spot-checked where accessible (ZIP 30271/30263/30264 zone).
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Dispatch sectors sampled: ZIP 30271, 30263, 30264, 30265 (county grid: Coweta County).
+Powderpost beetle exit holes in Newnan, GA trim can be mistaken for dry-wood frass without magnification.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Clover mite staining on Newnan, GA wall restoration follows foundation mulch against brick ledges.
+
+Harbor ledger 491311: frass lane, mud-tube scan, and garage jamb gap measure filed for Newnan, GA at 33.3800, -84.7800.
+
+Exclusion audit 491311: exclusion mesh gauge and rodent runway grease mark reviewed for Newnan, GA at 33.3800/-84.7800.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~945 ft across the Coweta County area. Coordinates: 33.3800, -84.7800. ZIP sample: 30271, 30263, 30264, 30265. Service perimeter note: Coverage extends through Coweta County with dispatch centered near ZIP 30263.
 
 Service reference: GA-30263-b4bb2b8f

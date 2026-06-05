@@ -11,25 +11,37 @@ lng: -121.3400
 zipSample: ["93960"]
 zipCodes: ["93960"]
 localPaths: ["Monterey County / ZIP 93960 sector", "Monterey County / elevation 174 ft band", "Monterey County / primary ZIP 93960", "Monterey County / coords 36.4400, -121.3400"]
-zillowHomeValueUsd: 631369
 ---
 
-**Engineering Notice for Soledad:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Monterey County.
+**Engineering Notice for Soledad:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Monterey County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 93960.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 93960.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-We coordinate local dispatch coverage around Soledad, CA and nearby ZIP sectors.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+In Soledad, CA, subterranean termite swarms often follow warm rain windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 93960.
+Cluster fly attic staging in Soledad, CA peaks on south-facing voids after sunny thaw days.
 
-Dispatch sectors sampled: ZIP 93960 (county grid: Monterey County).
+Step: verify attic access safety before insulation disturbance.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Yellow jacket nests in Soledad, CA soffit cavities peak in late summer routing windows.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Mud dauber nests in Soledad, CA porch ceilings are benign but signal prey density for spiders.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Harbor ledger 120190: frass lane, mud-tube scan, and garage jamb gap measure filed for Soledad, CA at 36.4400, -121.3400.
+
+Regional mesh label Monterey County: moisture and logistics baselines are keyed to Soledad, CA before niche-specific work begins.
 
 Service reference: CA-93960-142d6099

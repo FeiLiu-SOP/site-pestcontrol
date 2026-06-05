@@ -11,26 +11,41 @@ lng: -117.1100
 zipSample: ["92596", "92563"]
 zipCodes: ["92596", "92563"]
 localPaths: ["Riverside County / primary ZIP 92563", "Riverside County / coords 33.6000, -117.1100", "Riverside County / elevation 1365 ft band", "Riverside County / ZIP 92596 sector", "Riverside County / ZIP 92563 sector"]
-zillowHomeValueUsd: 693235
 ---
 
-**Engineering Notice for French Valley:** Structural loading calculated based on 1365 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for French Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 92563.
 
-Our service coordination centers on French Valley, CA coverage windows and verified intake details.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: What is exclusion? Without sealing entry points in French Valley, CA, pressure often rebuilds.
 
-Field note: Connection points spot-checked where accessible (ZIP 92596/92563 zone).
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Field note: Access points and staging constraints recorded for ZIP 92596/92563 coverage.
+Earwig harborages in French Valley, CA meter boxes often follow drip irrigation overspray.
 
-Dispatch sectors sampled: ZIP 92596, 92563 (county grid: Riverside County).
+Attic misting in French Valley, CA requires combustion air clearance verified before fans restart.
+
+Carpenter ant frass in French Valley, CA window sills may indicate moisture-softened framing.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Mud dauber nests in French Valley, CA porch ceilings are benign but signal prey density for spiders.
+
+Risk flag: In French Valley, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Perimeter dossier 588292: bait station anchor map and mulch bridge risk flagged for French Valley, CA county Riverside County (ZIP 92563).
+
+ZIP-corridor snapshot for French Valley, CA: sampled sectors include 92563, 92596; county routing grid remains Riverside County.
 
 Service reference: CA-92563-2f299c8d

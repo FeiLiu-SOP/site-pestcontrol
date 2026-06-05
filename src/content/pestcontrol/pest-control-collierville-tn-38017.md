@@ -11,24 +11,41 @@ lng: -89.7000
 zipSample: ["38027", "38017", "38139"]
 zipCodes: ["38139", "38027", "38017"]
 localPaths: ["Shelby County / ZIP 38017 sector", "Shelby County / elevation 361 ft band", "Shelby County / ZIP 38027 sector", "Shelby County / ZIP 38139 sector", "Shelby County / primary ZIP 38017"]
-zillowHomeValueUsd: 512191
 ---
 
-**Engineering Notice for Collierville:** Structural loading calculated based on 361 ft terrain assessment. Regional dispatch grid: Shelby County.
+**Engineering Notice for Collierville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Shelby County.
 
 
-Our service coordination centers on Collierville, TN coverage windows and verified intake details.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Clear documentation helps align materials, labor, and timeline.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Tip: avoid large upfront payments without milestones.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Wind exposure category reviewed for ZIP sector 38017/38139/38027.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Collierville, TN.
 
-Dispatch sectors sampled: ZIP 38017, 38139, 38027 (county grid: Shelby County).
+In Collierville, TN, subterranean termite swarms often follow warm rain windows.
+
+Risk flag: Overwatered Collierville, TN planters can restart ant bridges within two weeks.
+
+Attic fogging in Collierville, TN requires combustion appliance shutoff verification first.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Powderpost beetle exit holes in Collierville, TN trim can be mistaken for dry-wood frass without magnification.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Yellow jacket nests in Collierville, TN soffit cavities peak in late summer routing windows.
+
+Tip: Date bait station lids when servicing Collierville, TN perimeter lines.
+
+Seasonal cue 527982: cluster fly attic staging reviewed for Collierville, TN soffit cavities.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~361 ft across the Shelby County area. Coordinates: 35.0500, -89.7000. ZIP sample: 38017, 38027, 38139. Service perimeter note: Coverage extends through Shelby County with dispatch centered near ZIP 38017.
 
 Service reference: TN-38017-83c022e4

@@ -11,26 +11,41 @@ lng: -92.9600
 zipSample: ["55128"]
 zipCodes: ["55128"]
 localPaths: ["Washington County / ZIP 55128 sector", "Washington County / elevation 1056 ft band", "Washington County / coords 44.9900, -92.9600", "Washington County / primary ZIP 55128"]
-zillowHomeValueUsd: 353744
 ---
 
-**Engineering Notice for Oakdale:** Structural loading calculated based on 1056 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Oakdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Oakdale, MN, but intake notes help reduce delays.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Tip: request a written scope before work starts.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Oakdale, MN.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-In Oakdale, MN, urgent pest control issues can escalate quickly.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Bird mites in Oakdale, MN exhaust vents can persist after host nests are removed.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55128.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Field note: Moisture pathway inspection logged near ZIP 55128 intake.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Dispatch sectors sampled: ZIP 55128 (county grid: Washington County).
+Yellow jacket nests in Oakdale, MN soffit cavities peak in late summer routing windows.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Fire ant mounds in Oakdale, MN drive seams need granule rotation after irrigation events.
+
+County grid Washington County informs routing near ZIP 55128.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 55128.
+
+IGR packets for Oakdale, MN roach cycles should be dated on station lids.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Seasonal cue 696104: cluster fly attic staging reviewed for Oakdale, MN soffit cavities.
+
+On-site sector marker: Washington County / coords 44.9900, -92.9600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55128-2b110d0c

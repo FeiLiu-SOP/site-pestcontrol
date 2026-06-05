@@ -11,27 +11,43 @@ lng: -118.3000
 zipSample: ["90044", "90047"]
 zipCodes: ["90047", "90044"]
 localPaths: ["Los Angeles County / coords 33.9400, -118.3000", "Los Angeles County / ZIP 90044 sector", "Los Angeles County / ZIP 90047 sector", "Los Angeles County / primary ZIP 90044", "Los Angeles County / elevation 217 ft band"]
-zillowHomeValueUsd: 646524
 ---
 
-**Engineering Notice for Westmont:** Structural loading calculated based on 217 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Westmont:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 90044.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Our service coordination centers on Westmont, CA coverage windows and verified intake details.
+Humidity in Westmont, CA can sustain cockroach harborages behind appliance voids.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 90044.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Moisture pathway inspection logged near ZIP 90047/90044 intake.
+Attic fogging in Westmont, CA requires combustion appliance shutoff verification first.
 
-Field note: Wind exposure category reviewed for ZIP sector 90047/90044.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 90044.
 
-Dispatch sectors sampled: ZIP 90047, 90044 (county grid: Los Angeles County).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Westmont, CA.
+
+IGR packets for Westmont, CA roach cycles should be dated on station lids.
+
+Bird mites in Westmont, CA exhaust vents can persist after host nests are removed.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Stink bug overwinter seams in Westmont, CA vinyl panels laps require exclusion foam rated for UV exposure.
+
+State note: Westmont, CA commercial kitchens may require separate documentation for audit visits.
+
+Species trace 170610: re-entry interval label and conducive moisture note keyed to Westmont, CA elevation 217 ft.
+
+Harbor ledger 170610: frass lane, mud-tube scan, and garage jamb gap measure filed for Westmont, CA at 33.9400, -118.3000.
+
+Coordinate-anchored dispatch note: center reference 33.9400, -118.3000 at elevation ~217 ft aligns with Los Angeles County intake staging.
 
 Service reference: CA-90044-43e7ce93

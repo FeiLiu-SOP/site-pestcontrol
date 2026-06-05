@@ -11,24 +11,39 @@ lng: -69.7300
 zipSample: ["04330", "04333", "04338", "04332", "04336"]
 zipCodes: ["04332", "04330", "04338", "04333", "04336"]
 localPaths: ["Kennebec County / ZIP 04338 sector", "Kennebec County / ZIP 04333 sector", "Kennebec County / ZIP 04332 sector", "Kennebec County / coords 44.3300, -69.7300", "Kennebec County / ZIP 04330 sector"]
-zillowHomeValueUsd: 285963
 ---
 
-**Engineering Notice for Augusta:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Kennebec County.
+**Engineering Notice for Augusta:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kennebec County.
 
 
-Tip: request a written scope before work starts.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Augusta, ME, but intake notes help reduce delays.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Carpenter ant frass in Augusta, ME window sills may indicate moisture-softened framing.
 
-In Augusta, ME, seasonal demand can change scheduling windows.
+Silverfish activity in Augusta, ME attics tracks cardboard storage and ridge vent gaps.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 04336/04338/04333.
+Request an inspection with species ID before treatment. Serving ZIP Code: 04330.
 
-Dispatch sectors sampled: ZIP 04336, 04338, 04333, 04332, 04330 (county grid: Kennebec County).
+Dry-wood termite pellets in Augusta, ME attics may appear before exterior mud tubes.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 04330.
+
+Fire ant mounds in Augusta, ME drive seams need granule rotation after irrigation events.
+
+Stink bug overwinter seams in Augusta, ME wall restoration laps require exclusion foam rated for UV exposure.
+
+Intercept log 971813: bed bug intercept count staged before Augusta, ME interior gel zones.
+
+Perimeter dossier 971813: bait station anchor map and mulch bridge risk flagged for Augusta, ME county Kennebec County (ZIP 04330).
+
+On-site sector marker: Kennebec County / ZIP 04330 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: ME-04330-00ceb1c2

@@ -11,24 +11,39 @@ lng: -82.3000
 zipSample: ["33579", "33569", "33568", "33578"]
 zipCodes: ["33569", "33579", "33578", "33568"]
 localPaths: ["Hillsborough County / primary ZIP 33579", "Hillsborough County / ZIP 33578 sector", "Hillsborough County / elevation 85 ft band", "Hillsborough County / ZIP 33568 sector", "Hillsborough County / coords 27.8200, -82.3000"]
-zillowHomeValueUsd: 387160
 ---
 
-**Engineering Notice for Riverview:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Riverview:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.
 
 
-In Riverview, FL, seasonal demand can change scheduling windows.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 33579.
 
-Tip: compare at least two estimates for scope and timeline.
+Stink bug overwinter seams in Riverview, FL cladding service laps require exclusion foam rated for UV exposure.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Riverview, FL, but intake notes help reduce delays.
+Dry-wood termite pellets in Riverview, FL attics may appear before exterior mud tubes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wildlife odors in Riverview, FL crawlspaces may attract secondary pest activity.
 
-Field note: Wind exposure category reviewed for ZIP sector 33568/33579/33578.
+Cluster fly attic staging in Riverview, FL peaks on south-facing voids after sunny thaw days.
 
-Dispatch sectors sampled: ZIP 33568, 33579, 33578, 33569 (county grid: Hillsborough County).
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+We coordinate Riverview, FL pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Attic misting in Riverview, FL requires combustion air clearance verified before fans restart.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Carpenter ant frass in Riverview, FL window sills may indicate moisture-softened framing.
+
+Silverfish activity in Riverview, FL attics tracks cardboard storage and ridge vent gaps.
+
+Exclusion audit 562733: exclusion mesh gauge and rodent runway grease mark reviewed for Riverview, FL at 27.8200/-82.3000.
+
+Zone map 562733: attic insulation disturbance trace and pantry pest source logged for Riverview, FL sector 33579.
+
+On-site sector marker: Hillsborough County / primary ZIP 33579 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33579-bc059403

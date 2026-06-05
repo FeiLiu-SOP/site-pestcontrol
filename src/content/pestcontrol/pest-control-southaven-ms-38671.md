@@ -11,25 +11,39 @@ lng: -89.9800
 zipSample: ["38672", "38651", "38671"]
 zipCodes: ["38672", "38651", "38671"]
 localPaths: ["DeSoto County / primary ZIP 38671", "DeSoto County / elevation 331 ft band", "DeSoto County / ZIP 38672 sector", "DeSoto County / ZIP 38651 sector", "DeSoto County / coords 34.9500, -89.9800"]
-zillowHomeValueUsd: 235188
 ---
 
-**Engineering Notice for Southaven:** Structural loading calculated based on 331 ft terrain assessment. Regional dispatch grid: DeSoto County.
+**Engineering Notice for Southaven:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeSoto County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Log pet access routes when bait stations are placed.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Bird mites in Southaven, MS exhaust vents can persist after host nests are removed.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify attic access safety before insulation disturbance.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 38671.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-We coordinate local dispatch coverage around Southaven, MS and nearby ZIP sectors.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Wind exposure category reviewed for ZIP sector 38671/38651/38672.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 38671.
 
-Dispatch sectors sampled: ZIP 38671, 38651, 38672 (county grid: DeSoto County).
+Powderpost beetle exit holes in Southaven, MS trim can be mistaken for dry-wood frass without magnification.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 38671.
+
+Earwig harborages in Southaven, MS meter boxes often follow drip irrigation overspray.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Stink bug overwinter seams in Southaven, MS wall restoration laps require exclusion foam rated for UV exposure.
+
+Zone map 236725: attic insulation disturbance trace and pantry pest source logged for Southaven, MS sector 38671.
+
+Seasonal cue 236725: cluster fly attic staging reviewed for Southaven, MS soffit cavities.
+
+On-site sector marker: DeSoto County / elevation 331 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-38671-fcc3a315

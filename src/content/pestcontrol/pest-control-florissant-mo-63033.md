@@ -11,24 +11,39 @@ lng: -90.3300
 zipSample: ["63033", "63031", "63032"]
 zipCodes: ["63031", "63033", "63032"]
 localPaths: ["St. Louis County / coords 38.8000, -90.3300", "St. Louis County / elevation 535 ft band", "St. Louis County / primary ZIP 63033", "St. Louis County / ZIP 63033 sector", "St. Louis County / ZIP 63031 sector"]
-zillowHomeValueUsd: 196440
 ---
 
-**Engineering Notice for Florissant:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Florissant:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Tip: confirm licensing and insurance before approving work.
+Yellow jacket nests in Florissant, MO soffit cavities peak in late summer routing windows.
 
-We coordinate local dispatch coverage around Florissant, MO and nearby ZIP sectors.
+Mosquito breeding in Florissant, MO catch basins can amplify perimeter callbacks.
 
-Step: share symptoms and recent history so the intake notes are complete.
+IGR packets for Florissant, MO roach cycles should be dated on station lids.
 
-Field note: Wind exposure category reviewed for ZIP sector 63032/63033/63031.
+Risk flag: Overwatered Florissant, MO planters can restart ant bridges within two weeks.
 
-Dispatch sectors sampled: ZIP 63032, 63033, 63031 (county grid: St. Louis County).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 63033.
+
+Flea pupae survive vacuuming in Florissant, MO carpet fibers unless heat treatment follows.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Tip: Trim vegetation 12 inches from exterior cladding to reduce ant bridges.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Bird mites in Florissant, MO exhaust vents can persist after host nests are removed.
+
+Perimeter dossier 242299: bait station anchor map and mulch bridge risk flagged for Florissant, MO county St. Louis County (ZIP 63033).
+
+Zone map 242299: attic insulation disturbance trace and pantry pest source logged for Florissant, MO sector 63033.
+
+On-site sector marker: St. Louis County / ZIP 63032 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63033-a0775a54

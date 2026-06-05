@@ -11,26 +11,43 @@ lng: -78.1700
 zipSample: ["22601", "22604"]
 zipCodes: ["22601", "22604"]
 localPaths: ["Winchester County / coords 39.1700, -78.1700", "Winchester County / elevation 745 ft band", "Winchester County / ZIP 22601 sector", "Winchester County / primary ZIP 22601", "Winchester County / ZIP 22604 sector"]
-zillowHomeValueUsd: 353246
 ---
 
-**Engineering Notice for Winchester:** Structural loading calculated based on 745 ft terrain assessment. Regional dispatch grid: Winchester County.
+**Engineering Notice for Winchester:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Winchester County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Winchester, VA, but intake notes help reduce delays.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Winchester, VA.
 
-Tip: address recurring issues early to prevent bigger damage.
+IGR packets for Winchester, VA roach cycles should be dated on station lids.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: In Winchester, VA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Tip: confirm licensing and insurance before approving work.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 22601.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Fire ant mounds in Winchester, VA drive seams need granule rotation after irrigation events.
 
-Field note: Wind exposure category reviewed for ZIP sector 22604/22601.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 22604/22601.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Dispatch sectors sampled: ZIP 22604, 22601 (county grid: Winchester County).
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Winchester, VA.
+
+Powderpost beetle exit holes in Winchester, VA trim can be mistaken for dry-wood frass without magnification.
+
+FAQ: Can bed bugs spread room-to-room in Winchester, VA row homes? Wall voids and shared ducts accelerate transfer.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Drain fly biofilm in Winchester, VA floor drains signals grease traps need service before gel baits.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 22601.
+
+Zone map 123595: attic insulation disturbance trace and pantry pest source logged for Winchester, VA sector 22601.
+
+Intercept log 123595: bed bug intercept count staged before Winchester, VA interior gel zones.
+
+On-site sector marker: Winchester County / ZIP 22604 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22601-dfdbb206

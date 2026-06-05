@@ -11,25 +11,41 @@ lng: -88.7900
 zipSample: ["39564", "39566"]
 zipCodes: ["39564", "39566"]
 localPaths: ["Jackson County / ZIP 39566 sector", "Jackson County / ZIP 39564 sector", "Jackson County / coords 30.4100, -88.7900", "Jackson County / primary ZIP 39564", "Jackson County / elevation 39 ft band"]
-zillowHomeValueUsd: 268060
 ---
 
-**Engineering Notice for Ocean Springs:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Jackson County.
+**Engineering Notice for Ocean Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jackson County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Wildlife odors in Ocean Springs, MS crawlspaces may attract secondary pest activity.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Earwig harborages in Ocean Springs, MS meter boxes often follow drip irrigation overspray.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: label treatment zones for occupant re-entry timing.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 39564.
+Carpenter ant frass in Ocean Springs, MS window sills may indicate moisture-softened framing.
 
-We coordinate local dispatch coverage around Ocean Springs, MS and nearby ZIP sectors.
+State note: Ocean Springs, MS commercial kitchens may require separate documentation for audit visits.
 
-Field note: Moisture pathway inspection logged near ZIP 39564/39566 intake.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 39564.
 
-Dispatch sectors sampled: ZIP 39564, 39566 (county grid: Jackson County).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 39564.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Seasonal pest pressure in Ocean Springs, MS shifts between moisture ants and dry-wood vectors.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Bird mites in Ocean Springs, MS exhaust vents can persist after host nests are removed.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Species trace 268974: re-entry interval label and conducive moisture note keyed to Ocean Springs, MS elevation 39 ft.
+
+Zone map 268974: attic insulation disturbance trace and pantry pest source logged for Ocean Springs, MS sector 39564.
+
+Regional mesh label Jackson County: moisture and logistics baselines are keyed to Ocean Springs, MS before niche-specific work begins.
 
 Service reference: MS-39564-15490a9c

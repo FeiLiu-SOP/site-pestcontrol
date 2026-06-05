@@ -11,26 +11,39 @@ lng: -95.8500
 zipSample: ["51501", "51503", "51502"]
 zipCodes: ["51501", "51502", "51503"]
 localPaths: ["Pottawattamie County / ZIP 51502 sector", "Pottawattamie County / ZIP 51501 sector", "Pottawattamie County / primary ZIP 51503", "Pottawattamie County / elevation 974 ft band", "Pottawattamie County / coords 41.2400, -95.8500"]
-zillowHomeValueUsd: 301033
 ---
 
-**Engineering Notice for Council Bluffs:** Structural loading calculated based on 974 ft terrain assessment. Regional dispatch grid: Pottawattamie County.
+**Engineering Notice for Council Bluffs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pottawattamie County.
 
 
-Tip: confirm licensing and insurance before approving work.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Local conditions in Council Bluffs, IA can affect timelines and material choices.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-We coordinate local dispatch coverage around Council Bluffs, IA and nearby ZIP sectors.
+In Council Bluffs, IA, subterranean termite swarms often follow warm rain windows.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Powderpost beetle exit holes in Council Bluffs, IA trim can be mistaken for dry-wood frass without magnification.
 
-Field note: Connection points spot-checked where accessible (ZIP 51502/51503/51501 zone).
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Access points and staging constraints recorded for ZIP 51502/51503/51501 coverage.
+Seasonal pest pressure in Council Bluffs, IA shifts between moisture ants and dry-wood vectors.
 
-Dispatch sectors sampled: ZIP 51502, 51503, 51501 (county grid: Pottawattamie County).
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Flea pupae survive vacuuming in Council Bluffs, IA carpet fibers unless heat treatment follows.
+
+FAQ: Why schedule quarterly instead of monthly in Council Bluffs, IA? Species pressure and label intervals dictate cadence.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Species trace 587993: re-entry interval label and conducive moisture note keyed to Council Bluffs, IA elevation 974 ft.
+
+Seasonal cue 587993: cluster fly attic staging reviewed for Council Bluffs, IA soffit cavities.
+
+On-site sector marker: Pottawattamie County / ZIP 51501 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-51503-15e7de31

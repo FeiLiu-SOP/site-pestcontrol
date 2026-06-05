@@ -11,24 +11,39 @@ lng: -82.9900
 zipSample: ["43004", "43272", "43223", "43202", "43203"]
 zipCodes: ["43110", "43251", "43210", "43272", "43201", "43205", "43109", "43017", "43268", "43229", "43260", "43204"]
 localPaths: ["Franklin County / primary ZIP 43109", "Franklin County / ZIP 43004 sector", "Franklin County / coords 39.9900, -82.9900", "Franklin County / ZIP 43272 sector", "Franklin County / ZIP 43223 sector"]
-zillowHomeValueUsd: 274423
 ---
 
-**Engineering Notice for Columbus:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Columbus:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Franklin County.
 
 
-Our service coordination centers on Columbus, OH coverage windows and verified intake details.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Columbus, OH.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Log pet access routes when bait stations are placed.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Wind exposure category reviewed for ZIP sector 43227/43214/43002.
+Step: separate bait rotation schedules from crack-and-crevice applications in Columbus, OH.
 
-Dispatch sectors sampled: ZIP 43227, 43214, 43002, 43110, 43229 (county grid: Franklin County).
+FAQ: Why schedule quarterly instead of monthly in Columbus, OH? Species pressure and label intervals dictate cadence.
+
+Perimeter granule carriers in Columbus, OH clay soils may need lighter irrigation before application.
+
+Bird mites in Columbus, OH exhaust vents can persist after host nests are removed.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Step: verify attic access safety before insulation disturbance.
+
+Humidity in Columbus, OH can sustain cockroach harborages behind appliance voids.
+
+Species trace 254201: re-entry interval label and conducive moisture note keyed to Columbus, OH elevation 804 ft.
+
+Seasonal cue 254201: cluster fly attic staging reviewed for Columbus, OH soffit cavities.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Franklin County and primary ZIP 43109. Terrain reference: 804 ft. Center point: 39.9900, -82.9900. ZIP sample: 43270, 43230, 43268, 43220, 43223. Regional routing note: Franklin County traffic flow is balanced around ZIP 43109 service demand.
 
 Service reference: OH-43109-cb16c77d

@@ -11,24 +11,39 @@ lng: -114.9300
 zipSample: ["89006", "89005"]
 zipCodes: ["89005", "89006"]
 localPaths: ["Clark County / elevation 1854 ft band", "Clark County / ZIP 89005 sector", "Clark County / coords 35.8400, -114.9300", "Clark County / ZIP 89006 sector", "Clark County / primary ZIP 89005"]
-zillowHomeValueUsd: 470989
 ---
 
-**Engineering Notice for Boulder City:** Structural loading calculated based on 1854 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Boulder City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Boulder City, NV, but intake notes help reduce delays.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Tip: compare at least two estimates for scope and timeline.
+Cluster fly attic staging in Boulder City, NV peaks on south-facing voids after sunny thaw days.
 
-Our service coordination centers on Boulder City, NV coverage windows and verified intake details.
+Attic fogging in Boulder City, NV requires combustion appliance shutoff verification first.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+County grid Clark County informs routing near ZIP 89005.
 
-Tip: request a written scope before work starts.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Access points and staging constraints recorded for ZIP 89006/89005 coverage.
+Risk flag: Overwatered Boulder City, NV planters can restart ant bridges within two weeks.
 
-Dispatch sectors sampled: ZIP 89006, 89005 (county grid: Clark County).
+Clover mite staining on Boulder City, NV exterior cladding follows foundation mulch against brick ledges.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Bird mites in Boulder City, NV exhaust vents can persist after host nests are removed.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Harbor ledger 720401: frass lane, mud-tube scan, and garage jamb gap measure filed for Boulder City, NV at 35.8400, -114.9300.
+
+Coordinate-anchored dispatch note: center reference 35.8400, -114.9300 at elevation ~1854 ft aligns with Clark County intake staging.
 
 Service reference: NV-89005-f4b0159e

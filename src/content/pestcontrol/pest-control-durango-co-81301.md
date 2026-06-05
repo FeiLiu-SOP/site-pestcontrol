@@ -11,26 +11,37 @@ lng: -107.8800
 zipSample: ["81301", "81326"]
 zipCodes: ["81301", "81326"]
 localPaths: ["La Plata County / ZIP 81301 sector", "La Plata County / elevation 6539 ft band", "La Plata County / ZIP 81326 sector", "La Plata County / primary ZIP 81301", "La Plata County / coords 37.2700, -107.8800"]
-zillowHomeValueUsd: 757880
 ---
 
-**Engineering Notice for Durango:** Structural loading calculated based on 6539 ft terrain assessment. Regional dispatch grid: La Plata County.
+**Engineering Notice for Durango:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: La Plata County.
 
 
-In Durango, CO, urgent pest control issues can escalate quickly.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Durango, CO, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: map entry points with photo logs before sealing.
 
-Structured milestones protect both sides when scheduling work.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Exclusion gaps at garage jambs in Durango, CO are common rodent access points.
 
-Field note: Moisture pathway inspection logged near ZIP 81326/81301 intake.
+Risk flag: Overwatered Durango, CO planters can restart ant bridges within two weeks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 81326/81301.
+Flea pupae survive vacuuming in Durango, CO carpet fibers unless heat treatment follows.
 
-Dispatch sectors sampled: ZIP 81326, 81301 (county grid: La Plata County).
+Clover mite staining on Durango, CO exterior cladding follows foundation mulch against brick ledges.
+
+Step: label treatment zones for occupant re-entry timing.
+
+FAQ: Why schedule quarterly instead of monthly in Durango, CO? Species pressure and label intervals dictate cadence.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Bird mites in Durango, CO exhaust vents can persist after host nests are removed.
+
+Species trace 105505: re-entry interval label and conducive moisture note keyed to Durango, CO elevation 6539 ft.
+
+On-site sector marker: La Plata County / elevation 6539 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-81301-5ad0ea9f

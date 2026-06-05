@@ -11,24 +11,39 @@ lng: -110.9800
 zipSample: ["85742", "85737", "85704", "85755"]
 zipCodes: ["85742", "85755", "85737", "85704"]
 localPaths: ["Pima County / elevation 2740 ft band", "Pima County / primary ZIP 85755", "Pima County / ZIP 85737 sector", "Pima County / ZIP 85742 sector", "Pima County / coords 32.4200, -110.9800"]
-zillowHomeValueUsd: 513212
 ---
 
-**Engineering Notice for Oro Valley:** Structural loading calculated based on 2740 ft terrain assessment. Regional dispatch grid: Pima County.
+**Engineering Notice for Oro Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pima County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Request an inspection with species ID before treatment. Serving ZIP Code: 85755.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Oro Valley, AZ, but intake notes help reduce delays.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-In Oro Valley, AZ, seasonal demand can change scheduling windows.
+Bird mites in Oro Valley, AZ exhaust vents can persist after host nests are removed.
 
-Tip: avoid large upfront payments without milestones.
+Carpenter ant frass in Oro Valley, AZ window sills may indicate moisture-softened framing.
 
-Tip: confirm licensing and insurance before approving work.
+Attic fogging in Oro Valley, AZ requires combustion appliance shutoff verification first.
 
-Field note: Wind exposure category reviewed for ZIP sector 85742/85704/85737.
+Earwig harborages in Oro Valley, AZ meter boxes often follow drip irrigation overspray.
 
-Dispatch sectors sampled: ZIP 85742, 85704, 85737, 85755 (county grid: Pima County).
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 85755.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Mud dauber nests in Oro Valley, AZ porch ceilings are benign but signal prey density for spiders.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Oro Valley, AZ.
+
+Step: record station placement maps for follow-up visits.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Oro Valley, AZ.
+
+Zone map 420064: attic insulation disturbance trace and pantry pest source logged for Oro Valley, AZ sector 85755.
+
+Species trace 420064: re-entry interval label and conducive moisture note keyed to Oro Valley, AZ elevation 2740 ft.
+
+On-site sector marker: Pima County / elevation 2740 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85755-c207c28b

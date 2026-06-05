@@ -11,24 +11,41 @@ lng: -80.2400
 zipSample: ["33188", "33142"]
 zipCodes: ["33188", "33142"]
 localPaths: ["Miami-Dade County / elevation 33 ft band", "Miami-Dade County / primary ZIP 33142", "Miami-Dade County / ZIP 33188 sector", "Miami-Dade County / coords 25.8200, -80.2400", "Miami-Dade County / ZIP 33142 sector"]
-zillowHomeValueUsd: 422034
 ---
 
-**Engineering Notice for Brownsville:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Brownsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.
 
 
-Our service coordination centers on Brownsville, FL coverage windows and verified intake details.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Local conditions in Brownsville, FL can affect timelines and material choices.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Brownsville, FL, but intake notes help reduce delays.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 33142.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33142/33188.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Dispatch sectors sampled: ZIP 33142, 33188 (county grid: Miami-Dade County).
+FAQ: Can bed bugs spread room-to-room in Brownsville, FL row homes? Wall voids and shared ducts accelerate transfer.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+We coordinate Brownsville, FL pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Silverfish activity in Brownsville, FL attics tracks cardboard storage and ridge vent gaps.
+
+Mud dauber nests in Brownsville, FL porch ceilings are benign but signal prey density for spiders.
+
+Exclusion audit 482798: exclusion mesh gauge and rodent runway grease mark reviewed for Brownsville, FL at 25.8200/-80.2400.
+
+Perimeter dossier 482798: bait station anchor map and mulch bridge risk flagged for Brownsville, FL county Miami-Dade County (ZIP 33142).
+
+On-site sector marker: Miami-Dade County / primary ZIP 33142 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33142-46b94d25

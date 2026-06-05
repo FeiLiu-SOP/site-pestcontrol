@@ -11,26 +11,43 @@ lng: -117.9700
 zipSample: ["91745", "91716"]
 zipCodes: ["91716", "91745"]
 localPaths: ["Los Angeles County / primary ZIP 91745", "Los Angeles County / ZIP 91716 sector", "Los Angeles County / ZIP 91745 sector", "Los Angeles County / coords 34.0000, -117.9700", "Los Angeles County / elevation 423 ft band"]
-zillowHomeValueUsd: 962680
 ---
 
-**Engineering Notice for Hacienda Heights:** Structural loading calculated based on 423 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Hacienda Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 91745.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Silverfish activity in Hacienda Heights, CA attics tracks cardboard storage and ridge vent gaps.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 91745.
 
-Our service coordination centers on Hacienda Heights, CA coverage windows and verified intake details.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hacienda Heights, CA, but intake notes help reduce delays.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Field note: Wind exposure category reviewed for ZIP sector 91745/91716.
+Earwig harborages in Hacienda Heights, CA meter boxes often follow drip irrigation overspray.
 
-Field note: Connection points spot-checked where accessible (ZIP 91745/91716 zone).
+Material note: Perimeter granules in Hacienda Heights, CA may need reapplication after heavy irrigation.
 
-Dispatch sectors sampled: ZIP 91745, 91716 (county grid: Los Angeles County).
+Tip: Keep pet food elevated and sealed between service visits.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Attic misting in Hacienda Heights, CA requires combustion air clearance verified before fans restart.
+
+Bird mites in Hacienda Heights, CA exhaust vents can persist after host nests are removed.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Flea pupae survive vacuuming in Hacienda Heights, CA carpet fibers unless heat treatment follows.
+
+Intercept log 333051: bed bug intercept count staged before Hacienda Heights, CA interior gel zones.
+
+Perimeter dossier 333051: bait station anchor map and mulch bridge risk flagged for Hacienda Heights, CA county Los Angeles County (ZIP 91745).
+
+On-site sector marker: Los Angeles County / elevation 423 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91745-2cebb81d

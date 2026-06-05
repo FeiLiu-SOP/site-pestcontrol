@@ -11,27 +11,39 @@ lng: -76.4800
 zipSample: ["21236", "21237"]
 zipCodes: ["21236", "21237"]
 localPaths: ["Baltimore County / elevation 148 ft band", "Baltimore County / primary ZIP 21237", "Baltimore County / ZIP 21236 sector", "Baltimore County / coords 39.3600, -76.4800", "Baltimore County / ZIP 21237 sector"]
-zillowHomeValueUsd: 316060
 ---
 
-**Engineering Notice for Rossville:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Rossville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 21237.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Rossville, MD, but intake notes help reduce delays.
+Perimeter granule carriers in Rossville, MD clay soils may need lighter irrigation before application.
 
-We coordinate local dispatch coverage around Rossville, MD and nearby ZIP sectors.
+Yellow jacket nests in Rossville, MD soffit cavities peak in late summer routing windows.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Perimeter granules in Rossville, MD may need reapplication after heavy irrigation.
 
-Field note: Access points and staging constraints recorded for ZIP 21237/21236 coverage.
+Across Rossville, MD, rodent entry points frequently track utility penetrations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 21237/21236.
+Perimeter mulch beds in Rossville, MD should be reviewed for ant bridge paths.
 
-Dispatch sectors sampled: ZIP 21237, 21236 (county grid: Baltimore County).
+IGR packets for Rossville, MD roach cycles should be dated on station lids.
+
+Drain fly biofilm in Rossville, MD floor drains signals grease traps need service before gel baits.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Step: record station placement maps for follow-up visits.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Harbor ledger 427138: frass lane, mud-tube scan, and garage jamb gap measure filed for Rossville, MD at 39.3600, -76.4800.
+
+On-site sector marker: Baltimore County / ZIP 21237 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21237-db9567f8

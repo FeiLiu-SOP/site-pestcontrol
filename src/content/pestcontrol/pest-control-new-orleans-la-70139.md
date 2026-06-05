@@ -11,26 +11,37 @@ lng: -89.9300
 zipSample: ["70162", "70118", "70167", "70139", "70142"]
 zipCodes: ["70124", "70116", "70162", "70156", "70175", "70181", "70177", "70114", "70195", "70158", "70142", "70152"]
 localPaths: ["Orleans Parish / primary ZIP 70139", "Orleans Parish / ZIP 70162 sector", "Orleans Parish / ZIP 70139 sector", "Orleans Parish / ZIP 70167 sector", "Orleans Parish / elevation 33 ft band"]
-zillowHomeValueUsd: 364577
 ---
 
-**Engineering Notice for New Orleans:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Orleans Parish.
+**Engineering Notice for New Orleans:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orleans Parish.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in New Orleans, LA, but intake notes help reduce delays.
+Carpenter ant frass in New Orleans, LA window sills may indicate moisture-softened framing.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Keep pet food elevated and sealed between service visits.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+State note: New Orleans, LA commercial kitchens may require separate documentation for audit visits.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Yellow jacket nests in New Orleans, LA soffit cavities peak in late summer routing windows.
 
-In New Orleans, LA, urgent pest control issues can escalate quickly.
+FAQ: Why schedule quarterly instead of monthly in New Orleans, LA? Species pressure and label intervals dictate cadence.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 70159/70189/70127.
+Exclusion gaps at garage jambs in New Orleans, LA are common rodent access points.
 
-Field note: Wind exposure category reviewed for ZIP sector 70159/70189/70127.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Dispatch sectors sampled: ZIP 70159, 70189, 70127, 70139, 70187 (county grid: Orleans Parish).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Monitoring boards in New Orleans, LA crawlspaces stay 72 hours before snap traps are reset.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 70139.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in New Orleans, LA.
+
+Perimeter dossier 278953: bait station anchor map and mulch bridge risk flagged for New Orleans, LA county Orleans Parish (ZIP 70139).
+
+On-site sector marker: Orleans Parish / ZIP 70187 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70139-ebcf4291

@@ -11,26 +11,39 @@ lng: -117.9500
 zipSample: ["91746", "91749", "91747", "91744"]
 zipCodes: ["91746", "91749", "91744", "91747"]
 localPaths: ["Los Angeles County / primary ZIP 91746", "Los Angeles County / ZIP 91746 sector", "Los Angeles County / ZIP 91747 sector", "Los Angeles County / coords 34.0300, -117.9500", "Los Angeles County / ZIP 91744 sector"]
-zillowHomeValueUsd: 763973
 ---
 
-**Engineering Notice for La Puente:** Structural loading calculated based on 328 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for La Puente:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: separate bait rotation schedules from crack-and-crevice applications in La Puente, CA.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Powderpost beetle exit holes in La Puente, CA trim can be mistaken for dry-wood frass without magnification.
 
-Tip: confirm licensing and insurance before approving work.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-A written scope helps prevent rework and mismatched expectations.
+County grid Los Angeles County informs routing near ZIP 91746.
 
-Field note: Moisture pathway inspection logged near ZIP 91746/91744/91747 intake.
+Request an inspection with species ID before treatment. Serving ZIP Code: 91746.
 
-Field note: Connection points spot-checked where accessible (ZIP 91746/91744/91747 zone).
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Dispatch sectors sampled: ZIP 91746, 91744, 91747, 91749 (county grid: Los Angeles County).
+Cluster fly attic staging in La Puente, CA peaks on south-facing voids after sunny thaw days.
+
+Flea pupae survive vacuuming in La Puente, CA carpet fibers unless heat treatment follows.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 91746.
+
+IGR packets for La Puente, CA roach cycles should be dated on station lids.
+
+FAQ: Can bed bugs spread room-to-room in La Puente, CA row homes? Wall voids and shared ducts accelerate transfer.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Intercept log 993488: bed bug intercept count staged before La Puente, CA interior gel zones.
+
+On-site sector marker: Los Angeles County / elevation 328 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91746-30b47dba

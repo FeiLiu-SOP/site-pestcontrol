@@ -11,26 +11,41 @@ lng: -90.7100
 zipSample: ["52001", "52004", "52002", "52099", "52003"]
 zipCodes: ["52001", "52002", "52099", "52004", "52003"]
 localPaths: ["Dubuque County / ZIP 52099 sector", "Dubuque County / ZIP 52001 sector", "Dubuque County / primary ZIP 52002", "Dubuque County / elevation 820 ft band", "Dubuque County / ZIP 52003 sector"]
-zillowHomeValueUsd: 339212
 ---
 
-**Engineering Notice for Dubuque:** Structural loading calculated based on 820 ft terrain assessment. Regional dispatch grid: Dubuque County.
+**Engineering Notice for Dubuque:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dubuque County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Tip: confirm licensing and insurance before approving work.
+Perimeter granule carriers in Dubuque, IA clay soils may need lighter irrigation before application.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+County grid Dubuque County informs routing near ZIP 52002.
 
-Our service coordination centers on Dubuque, IA coverage windows and verified intake details.
+Powderpost beetle exit holes in Dubuque, IA trim can be mistaken for dry-wood frass without magnification.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Field note: Wind exposure category reviewed for ZIP sector 52004/52001/52099.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 52004/52001/52099.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Dispatch sectors sampled: ZIP 52004, 52001, 52099, 52003, 52002 (county grid: Dubuque County).
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Material note: Perimeter granules in Dubuque, IA may need reapplication after heavy irrigation.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Dubuque, IA.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Perimeter dossier 949073: bait station anchor map and mulch bridge risk flagged for Dubuque, IA county Dubuque County (ZIP 52002).
+
+Harbor ledger 949073: frass lane, mud-tube scan, and garage jamb gap measure filed for Dubuque, IA at 42.5000, -90.7100.
+
+Primary postal anchor 52002 with multi-ZIP overlap in Dubuque; field packets tag Dubuque County for county-grid reconciliation.
 
 Service reference: IA-52002-ae63ef1a

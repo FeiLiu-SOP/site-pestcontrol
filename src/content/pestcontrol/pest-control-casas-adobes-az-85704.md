@@ -11,24 +11,39 @@ lng: -111.0100
 zipSample: ["85704", "85742", "85752", "85741"]
 zipCodes: ["85742", "85704", "85741", "85752"]
 localPaths: ["Pima County / ZIP 85704 sector", "Pima County / ZIP 85752 sector", "Pima County / elevation 2411 ft band", "Pima County / ZIP 85742 sector", "Pima County / ZIP 85741 sector"]
-zillowHomeValueUsd: 448221
 ---
 
-**Engineering Notice for Casas Adobes:** Structural loading calculated based on 2411 ft terrain assessment. Regional dispatch grid: Pima County.
+**Engineering Notice for Casas Adobes:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pima County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Tip: avoid large upfront payments without milestones.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Casas Adobes, AZ, but intake notes help reduce delays.
+Flea pupae survive vacuuming in Casas Adobes, AZ carpet fibers unless heat treatment follows.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Bird mites in Casas Adobes, AZ exhaust vents can persist after host nests are removed.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Field note: Moisture pathway inspection logged near ZIP 85741/85742/85704 intake.
+Carpenter ant frass in Casas Adobes, AZ window sills may indicate moisture-softened framing.
 
-Dispatch sectors sampled: ZIP 85741, 85742, 85704, 85752 (county grid: Pima County).
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Powderpost beetle exit holes in Casas Adobes, AZ trim can be mistaken for dry-wood frass without magnification.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Attic fogging in Casas Adobes, AZ requires combustion appliance shutoff verification first.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Harbor ledger 350888: frass lane, mud-tube scan, and garage jamb gap measure filed for Casas Adobes, AZ at 32.3400, -111.0100.
+
+Intercept log 350888: bed bug intercept count staged before Casas Adobes, AZ interior gel zones.
+
+Coordinate-anchored dispatch note: center reference 32.3400, -111.0100 at elevation ~2411 ft aligns with Pima County intake staging.
 
 Service reference: AZ-85704-a842acc1

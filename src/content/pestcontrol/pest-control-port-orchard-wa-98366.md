@@ -11,26 +11,37 @@ lng: -122.6600
 zipSample: ["98367", "98366"]
 zipCodes: ["98367", "98366"]
 localPaths: ["Kitsap County / primary ZIP 98366", "Kitsap County / elevation 236 ft band", "Kitsap County / coords 47.5200, -122.6600", "Kitsap County / ZIP 98367 sector", "Kitsap County / ZIP 98366 sector"]
-zillowHomeValueUsd: 503683
 ---
 
-**Engineering Notice for Port Orchard:** Structural loading calculated based on 236 ft terrain assessment. Regional dispatch grid: Kitsap County.
+**Engineering Notice for Port Orchard:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kitsap County.
 
 
-In Port Orchard, WA, urgent pest control issues can escalate quickly.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Port Orchard, WA, but intake notes help reduce delays.
+Fire ant mounds in Port Orchard, WA drive seams need granule rotation after irrigation events.
 
-Our service coordination centers on Port Orchard, WA coverage windows and verified intake details.
+Stink bug overwinter seams in Port Orchard, WA vinyl panels laps require exclusion foam rated for UV exposure.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Tip: confirm licensing and insurance before approving work.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98366/98367.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Field note: Moisture pathway inspection logged near ZIP 98366/98367 intake.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Dispatch sectors sampled: ZIP 98366, 98367 (county grid: Kitsap County).
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Stored cardboard in Port Orchard, WA garages can accelerate pantry pest cycles.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Perimeter mulch beds in Port Orchard, WA should be reviewed for ant bridge paths.
+
+Perimeter dossier 812589: bait station anchor map and mulch bridge risk flagged for Port Orchard, WA county Kitsap County (ZIP 98366).
+
+On-site sector marker: Kitsap County / coords 47.5200, -122.6600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98366-397b65cb

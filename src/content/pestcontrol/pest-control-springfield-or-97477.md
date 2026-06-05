@@ -11,26 +11,43 @@ lng: -122.9800
 zipSample: ["97477", "97475", "97478", "97403"]
 zipCodes: ["97478", "97475", "97403", "97477"]
 localPaths: ["Lane County / elevation 479 ft band", "Lane County / ZIP 97477 sector", "Lane County / ZIP 97403 sector", "Lane County / coords 44.0500, -122.9800", "Lane County / ZIP 97478 sector"]
-zillowHomeValueUsd: 399513
 ---
 
-**Engineering Notice for Springfield:** Structural loading calculated based on 479 ft terrain assessment. Regional dispatch grid: Lane County.
+**Engineering Notice for Springfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lane County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Step: separate bait rotation schedules from crack-and-crevice applications in Springfield, OR.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Bird mites in Springfield, OR exhaust vents can persist after host nests are removed.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Why schedule quarterly instead of monthly in Springfield, OR? Species pressure and label intervals dictate cadence.
 
-Tip: request a written scope before work starts.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Field note: Access points and staging constraints recorded for ZIP 97477/97478/97475 coverage.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Field note: Wind exposure category reviewed for ZIP sector 97477/97478/97475.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Dispatch sectors sampled: ZIP 97477, 97478, 97475, 97403 (county grid: Lane County).
+County grid Lane County informs routing near ZIP 97477.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 97477.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 97477.
+
+Mud dauber nests in Springfield, OR porch ceilings are benign but signal prey density for spiders.
+
+Monitoring boards in Springfield, OR crawlspaces stay 72 hours before snap traps are reset.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 97477.
+
+Exclusion audit 596087: exclusion mesh gauge and rodent runway grease mark reviewed for Springfield, OR at 44.0500/-122.9800.
+
+Perimeter dossier 596087: bait station anchor map and mulch bridge risk flagged for Springfield, OR county Lane County (ZIP 97477).
+
+Coordinate-anchored dispatch note: center reference 44.0500, -122.9800 at elevation ~479 ft aligns with Lane County intake staging.
 
 Service reference: OR-97477-575f76c9

@@ -11,27 +11,37 @@ lng: -72.3000
 zipSample: ["03431", "03435"]
 zipCodes: ["03435", "03431"]
 localPaths: ["Cheshire County / primary ZIP 03431", "Cheshire County / ZIP 03435 sector", "Cheshire County / coords 42.9500, -72.3000", "Cheshire County / elevation 509 ft band", "Cheshire County / ZIP 03431 sector"]
-zillowHomeValueUsd: 342888
 ---
 
-**Engineering Notice for Keene:** Structural loading calculated based on 509 ft terrain assessment. Regional dispatch grid: Cheshire County.
+**Engineering Notice for Keene:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cheshire County.
 
 
-Tip: avoid large upfront payments without milestones.
+Dry-wood termite pellets in Keene, NH attics may appear before exterior mud tubes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Keene, NH.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Carpenter ant frass in Keene, NH window sills may indicate moisture-softened framing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 03431.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Wind exposure category reviewed for ZIP sector 03431/03435.
+Material note: Perimeter granules in Keene, NH may need reapplication after heavy irrigation.
 
-Field note: Moisture pathway inspection logged near ZIP 03431/03435 intake.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Dispatch sectors sampled: ZIP 03431, 03435 (county grid: Cheshire County).
+Drain fly biofilm in Keene, NH floor drains signals grease traps need service before gel baits.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Perimeter mulch beds in Keene, NH should be reviewed for ant bridge paths.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Seasonal cue 876600: cluster fly attic staging reviewed for Keene, NH soffit cavities.
+
+ZIP-corridor snapshot for Keene, NH: sampled sectors include 03431, 03435; county routing grid remains Cheshire County.
 
 Service reference: NH-03431-be44155e

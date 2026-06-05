@@ -11,24 +11,37 @@ lng: -81.9300
 zipSample: ["32158", "32159"]
 zipCodes: ["32159", "32158"]
 localPaths: ["Lake County / ZIP 32158 sector", "Lake County / elevation 105 ft band", "Lake County / ZIP 32159 sector", "Lake County / primary ZIP 32159", "Lake County / coords 28.9200, -81.9300"]
-zillowHomeValueUsd: 318731
 ---
 
-**Engineering Notice for Lady Lake:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Lady Lake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-In Lady Lake, FL, seasonal demand can change scheduling windows.
+Step: verify attic access safety before insulation disturbance.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lady Lake, FL, but intake notes help reduce delays.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Can bed bugs spread room-to-room in Lady Lake, FL row homes? Wall voids and shared ducts accelerate transfer.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Wind exposure category reviewed for ZIP sector 32159/32158.
+Mosquito breeding in Lady Lake, FL catch basins can amplify perimeter callbacks.
 
-Dispatch sectors sampled: ZIP 32159, 32158 (county grid: Lake County).
+Yellow jacket nests in Lady Lake, FL soffit cavities peak in late summer routing windows.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+State note: Lady Lake, FL commercial kitchens may require separate documentation for audit visits.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 32159.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Harbor ledger 478383: frass lane, mud-tube scan, and garage jamb gap measure filed for Lady Lake, FL at 28.9200, -81.9300.
+
+On-site sector marker: Lake County / coords 28.9200, -81.9300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32159-1c6c3f3a

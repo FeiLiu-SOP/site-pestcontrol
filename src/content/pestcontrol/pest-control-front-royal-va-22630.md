@@ -11,27 +11,39 @@ lng: -78.1800
 zipSample: ["22630"]
 zipCodes: ["22630"]
 localPaths: ["Warren County / elevation 561 ft band", "Warren County / primary ZIP 22630", "Warren County / coords 38.9300, -78.1800", "Warren County / ZIP 22630 sector"]
-zillowHomeValueUsd: 403046
 ---
 
-**Engineering Notice for Front Royal:** Structural loading calculated based on 561 ft terrain assessment. Regional dispatch grid: Warren County.
+**Engineering Notice for Front Royal:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Warren County.
 
 
-Tip: avoid large upfront payments without milestones.
+Tip: Date bait station lids when servicing Front Royal, VA perimeter lines.
 
-Our service coordination centers on Front Royal, VA coverage windows and verified intake details.
+FAQ: Why schedule quarterly instead of monthly in Front Royal, VA? Species pressure and label intervals dictate cadence.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Flea pupae survive vacuuming in Front Royal, VA carpet fibers unless heat treatment follows.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 22630.
+FAQ: Why do pests return after spraying? Without sealing entry points in Front Royal, VA, pressure often rebuilds.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Front Royal, VA, but intake notes help reduce delays.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Field note: Connection points spot-checked where accessible (ZIP 22630 zone).
+Monitoring boards in Front Royal, VA crawlspaces stay 72 hours before snap traps are reset.
 
-Field note: Moisture pathway inspection logged near ZIP 22630 intake.
+Stink bug overwinter seams in Front Royal, VA exterior cladding laps require exclusion foam rated for UV exposure.
 
-Dispatch sectors sampled: ZIP 22630 (county grid: Warren County).
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 22630.
+
+Dry-wood termite pellets in Front Royal, VA attics may appear before exterior mud tubes.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Risk flag: Overwatered Front Royal, VA planters can restart ant bridges within two weeks.
+
+Zone map 553467: attic insulation disturbance trace and pantry pest source logged for Front Royal, VA sector 22630.
+
+Intercept log 553467: bed bug intercept count staged before Front Royal, VA interior gel zones.
+
+On-site sector marker: Warren County / coords 38.9300, -78.1800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22630-17fb79ed

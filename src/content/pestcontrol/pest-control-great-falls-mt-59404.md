@@ -11,24 +11,39 @@ lng: -111.3000
 zipSample: ["59406", "59401", "59405", "59404"]
 zipCodes: ["59404", "59401", "59405", "59406"]
 localPaths: ["Cascade County / elevation 3327 ft band", "Cascade County / ZIP 59405 sector", "Cascade County / ZIP 59401 sector", "Cascade County / ZIP 59404 sector", "Cascade County / ZIP 59406 sector"]
-zillowHomeValueUsd: 386898
 ---
 
-**Engineering Notice for Great Falls:** Structural loading calculated based on 3327 ft terrain assessment. Regional dispatch grid: Cascade County.
+**Engineering Notice for Great Falls:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cascade County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In Great Falls, MT, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Monitoring boards in Great Falls, MT crawlspaces stay 72 hours before snap traps are reset.
 
-Our service coordination centers on Great Falls, MT coverage windows and verified intake details.
+Bird mites in Great Falls, MT exhaust vents can persist after host nests are removed.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Cluster fly attic staging in Great Falls, MT peaks on south-facing voids after sunny thaw days.
 
-Field note: Connection points spot-checked where accessible (ZIP 59405/59406/59404 zone).
+Humidity in Great Falls, MT can sustain cockroach harborages behind appliance voids.
 
-Dispatch sectors sampled: ZIP 59405, 59406, 59404, 59401 (county grid: Cascade County).
+Tip: Date bait station lids when servicing Great Falls, MT perimeter lines.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+IGR packets for Great Falls, MT roach cycles should be dated on station lids.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Carpenter ant frass in Great Falls, MT window sills may indicate moisture-softened framing.
+
+Harbor ledger 440308: frass lane, mud-tube scan, and garage jamb gap measure filed for Great Falls, MT at 47.5000, -111.3000.
+
+ZIP-corridor snapshot for Great Falls, MT: sampled sectors include 59406, 59405, 59404, 59401; county routing grid remains Cascade County.
 
 Service reference: MT-59404-74e5ac06

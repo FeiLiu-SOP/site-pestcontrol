@@ -11,25 +11,39 @@ lng: -88.0200
 zipSample: ["60516", "60515"]
 zipCodes: ["60515", "60516"]
 localPaths: ["DuPage County / coords 41.7900, -88.0200", "DuPage County / primary ZIP 60515", "DuPage County / ZIP 60516 sector", "DuPage County / ZIP 60515 sector", "DuPage County / elevation 732 ft band"]
-zillowHomeValueUsd: 497640
 ---
 
-**Engineering Notice for Downers Grove:** Structural loading calculated based on 732 ft terrain assessment. Regional dispatch grid: DuPage County.
+**Engineering Notice for Downers Grove:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 60515.
+Fire ant mounds in Downers Grove, IL drive seams need granule rotation after irrigation events.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Downers Grove, IL, but intake notes help reduce delays.
+Tip: Date bait station lids when servicing Downers Grove, IL perimeter lines.
 
-Tip: request a written scope before work starts.
+Risk flag: In Downers Grove, IL, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-We coordinate local dispatch coverage around Downers Grove, IL and nearby ZIP sectors.
+IGR packets for Downers Grove, IL roach cycles should be dated on station lids.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Connection points spot-checked where accessible (ZIP 60516/60515 zone).
+Mosquito breeding in Downers Grove, IL catch basins can amplify perimeter callbacks.
 
-Dispatch sectors sampled: ZIP 60516, 60515 (county grid: DuPage County).
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+We coordinate Downers Grove, IL pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Bird mites in Downers Grove, IL exhaust vents can persist after host nests are removed.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Harbor ledger 998406: frass lane, mud-tube scan, and garage jamb gap measure filed for Downers Grove, IL at 41.7900, -88.0200.
+
+Seasonal cue 998406: cluster fly attic staging reviewed for Downers Grove, IL soffit cavities.
+
+On-site sector marker: DuPage County / primary ZIP 60515 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60515-b5d980e7

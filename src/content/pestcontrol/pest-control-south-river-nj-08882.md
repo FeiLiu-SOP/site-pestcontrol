@@ -11,26 +11,37 @@ lng: -74.3800
 zipSample: ["08882"]
 zipCodes: ["08882"]
 localPaths: ["Middlesex County / primary ZIP 08882", "Middlesex County / ZIP 08882 sector", "Middlesex County / coords 40.4500, -74.3800", "Middlesex County / elevation 23 ft band"]
-zillowHomeValueUsd: 528570
 ---
 
-**Engineering Notice for South River:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for South River:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Perimeter granule carriers in South River, NJ clay soils may need lighter irrigation before application.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in South River, NJ, but intake notes help reduce delays.
+Dry-wood termite pellets in South River, NJ attics may appear before exterior mud tubes.
 
-Homeowners in South River, NJ often face sudden pest control problems that require fast action.
+Perimeter mulch beds in South River, NJ should be reviewed for ant bridge paths.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+In South River, NJ, subterranean termite swarms often follow warm rain windows.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Stored cardboard in South River, NJ garages can accelerate pantry pest cycles.
 
-Field note: Wind exposure category reviewed for ZIP sector 08882.
+Monitoring boards in South River, NJ crawlspaces stay 72 hours before snap traps are reset.
 
-Field note: Connection points spot-checked where accessible (ZIP 08882 zone).
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in South River, NJ.
 
-Dispatch sectors sampled: ZIP 08882 (county grid: Middlesex County).
+Wildlife odors in South River, NJ crawlspaces may attract secondary pest activity.
+
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Carpenter ant frass in South River, NJ window sills may indicate moisture-softened framing.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 08882.
+
+Harbor ledger 302598: frass lane, mud-tube scan, and garage jamb gap measure filed for South River, NJ at 40.4500, -74.3800.
+
+Coordinate-anchored dispatch note: center reference 40.4500, -74.3800 at elevation ~23 ft aligns with Middlesex County intake staging.
 
 Service reference: NJ-08882-71b540c7

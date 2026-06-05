@@ -11,26 +11,41 @@ lng: -73.0700
 zipSample: ["06401"]
 zipCodes: ["06401"]
 localPaths: ["Naugatuck Valley County / elevation 131 ft band", "Naugatuck Valley County / ZIP 06401 sector", "Naugatuck Valley County / coords 41.3400, -73.0700", "Naugatuck Valley County / primary ZIP 06401"]
-zillowHomeValueUsd: 374368
 ---
 
-**Engineering Notice for Ansonia:** Structural loading calculated based on 131 ft terrain assessment. Regional dispatch grid: Naugatuck Valley County.
+**Engineering Notice for Ansonia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Naugatuck Valley County.
 
 
-We coordinate local dispatch coverage around Ansonia, CT and nearby ZIP sectors.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Tip: request a written scope before work starts.
+Perimeter granule carriers in Ansonia, CT clay soils may need lighter irrigation before application.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Structured milestones protect both sides when scheduling work.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Ansonia, CT, but intake notes help reduce delays.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Moisture pathway inspection logged near ZIP 06401 intake.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 06401.
 
-Field note: Access points and staging constraints recorded for ZIP 06401 coverage.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Dispatch sectors sampled: ZIP 06401 (county grid: Naugatuck Valley County).
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Material note: Perimeter granules in Ansonia, CT may need reapplication after heavy irrigation.
+
+Tip: Trim vegetation 12 inches from cladding service to reduce ant bridges.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Spider populations in Ansonia, CT eaves can signal insect prey density.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Powderpost beetle exit holes in Ansonia, CT trim can be mistaken for dry-wood frass without magnification.
+
+Intercept log 213776: bed bug intercept count staged before Ansonia, CT interior gel zones.
+
+On-site sector marker: Naugatuck Valley County / primary ZIP 06401 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CT-06401-b571aec7

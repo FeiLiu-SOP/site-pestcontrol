@@ -11,24 +11,39 @@ lng: -122.2600
 zipSample: ["94503"]
 zipCodes: ["94503"]
 localPaths: ["Napa County / elevation 62 ft band", "Napa County / coords 38.1800, -122.2600", "Napa County / primary ZIP 94503", "Napa County / ZIP 94503 sector"]
-zillowHomeValueUsd: 748801
 ---
 
-**Engineering Notice for American Canyon:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Napa County.
+**Engineering Notice for American Canyon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Napa County.
 
 
-Local conditions in American Canyon, CA can affect timelines and material choices.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+County grid Napa County informs routing near ZIP 94503.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Attic misting in American Canyon, CA requires combustion air clearance verified before fans restart.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify attic access safety before insulation disturbance.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Field note: Moisture pathway inspection logged near ZIP 94503 intake.
+Fire ant mounds in American Canyon, CA drive seams need granule rotation after irrigation events.
 
-Dispatch sectors sampled: ZIP 94503 (county grid: Napa County).
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+FAQ: Why schedule quarterly instead of monthly in American Canyon, CA? Species pressure and label intervals dictate cadence.
+
+FAQ: Can bed bugs spread room-to-room in American Canyon, CA row homes? Wall voids and shared ducts accelerate transfer.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+State note: American Canyon, CA commercial kitchens may require separate documentation for audit visits.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 94503.
+
+Zone map 827707: attic insulation disturbance trace and pantry pest source logged for American Canyon, CA sector 94503.
+
+Seasonal cue 827707: cluster fly attic staging reviewed for American Canyon, CA soffit cavities.
+
+Regional mesh label Napa County: moisture and logistics baselines are keyed to American Canyon, CA before niche-specific work begins.
 
 Service reference: CA-94503-529521c3

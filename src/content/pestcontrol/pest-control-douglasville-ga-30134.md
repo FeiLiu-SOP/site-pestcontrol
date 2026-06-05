@@ -11,27 +11,37 @@ lng: -84.7100
 zipSample: ["30122", "30154", "30135", "30134", "30133"]
 zipCodes: ["30135", "30133", "30122", "30154", "30134"]
 localPaths: ["Douglas County / ZIP 30134 sector", "Douglas County / ZIP 30154 sector", "Douglas County / coords 33.7400, -84.7100", "Douglas County / primary ZIP 30134", "Douglas County / elevation 994 ft band"]
-zillowHomeValueUsd: 285447
 ---
 
-**Engineering Notice for Douglasville:** Structural loading calculated based on 994 ft terrain assessment. Regional dispatch grid: Douglas County.
+**Engineering Notice for Douglasville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Douglas County.
 
 
-We coordinate local dispatch coverage around Douglasville, GA and nearby ZIP sectors.
+State note: Douglasville, GA commercial kitchens may require separate documentation for audit visits.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 30134.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Douglasville, GA, but intake notes help reduce delays.
+Clover mite staining on Douglasville, GA exterior cladding follows foundation mulch against brick ledges.
 
-Local conditions in Douglasville, GA can affect timelines and material choices.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Access points and staging constraints recorded for ZIP 30154/30134/30133 coverage.
+Fire ant mounds in Douglasville, GA drive seams need granule rotation after irrigation events.
 
-Field note: Wind exposure category reviewed for ZIP sector 30154/30134/30133.
+County grid Douglas County informs routing near ZIP 30134.
 
-Dispatch sectors sampled: ZIP 30154, 30134, 30133, 30122, 30135 (county grid: Douglas County).
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Spider populations in Douglasville, GA eaves can signal insect prey density.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+FAQ: What is exclusion? Without sealing entry points in Douglasville, GA, pressure often rebuilds.
+
+Step: map entry points with photo logs before sealing.
+
+Seasonal cue 691884: cluster fly attic staging reviewed for Douglasville, GA soffit cavities.
+
+On-site sector marker: Douglas County / primary ZIP 30134 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30134-20ea7783

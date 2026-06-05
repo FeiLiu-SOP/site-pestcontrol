@@ -11,26 +11,41 @@ lng: -81.8300
 zipSample: ["33994", "33966", "33901", "33916", "33902"]
 zipCodes: ["33916", "33902", "33966", "33913", "33905", "33907", "33901", "33994"]
 localPaths: ["Lee County / coords 26.6200, -81.8300", "Lee County / ZIP 33994 sector", "Lee County / ZIP 33966 sector", "Lee County / primary ZIP 33913", "Lee County / ZIP 33901 sector"]
-zillowHomeValueUsd: 444965
 ---
 
-**Engineering Notice for Fort Myers:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Lee County.
+**Engineering Notice for Fort Myers:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lee County.
 
 
-Tip: avoid large upfront payments without milestones.
+Cluster fly attic staging in Fort Myers, FL peaks on south-facing voids after sunny thaw days.
 
-Our service coordination centers on Fort Myers, FL coverage windows and verified intake details.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Local conditions in Fort Myers, FL can affect timelines and material choices.
+Earwig harborages in Fort Myers, FL meter boxes often follow drip irrigation overspray.
 
-Transparent pricing helps you compare like-for-like scope items.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 33913.
 
-Field note: Connection points spot-checked where accessible (ZIP 33913/33901/33994 zone).
+Step: verify attic access safety before insulation disturbance.
 
-Field note: Moisture pathway inspection logged near ZIP 33913/33901/33994 intake.
+State note: Fort Myers, FL commercial kitchens may require separate documentation for audit visits.
 
-Dispatch sectors sampled: ZIP 33913, 33901, 33994, 33966, 33916 (county grid: Lee County).
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Tip: Log pet access routes when bait stations are placed.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Fort Myers, FL.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Intercept log 573573: bed bug intercept count staged before Fort Myers, FL interior gel zones.
+
+Perimeter dossier 573573: bait station anchor map and mulch bridge risk flagged for Fort Myers, FL county Lee County (ZIP 33913).
+
+Primary postal anchor 33913 with multi-ZIP overlap in Fort Myers; field packets tag Lee County for county-grid reconciliation.
 
 Service reference: FL-33913-36705326

@@ -11,26 +11,39 @@ lng: -84.8700
 zipSample: ["37312", "37311", "37320"]
 zipCodes: ["37311", "37312", "37320"]
 localPaths: ["Bradley County / elevation 817 ft band", "Bradley County / ZIP 37312 sector", "Bradley County / ZIP 37320 sector", "Bradley County / coords 35.1800, -84.8700", "Bradley County / primary ZIP 37312"]
-zillowHomeValueUsd: 350232
 ---
 
-**Engineering Notice for Cleveland:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Bradley County.
+**Engineering Notice for Cleveland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bradley County.
 
 
-Our service coordination centers on Cleveland, TN coverage windows and verified intake details.
+Step: record station placement maps for follow-up visits.
 
-Transparent pricing helps you compare like-for-like scope items.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Why schedule quarterly instead of monthly in Cleveland, TN? Species pressure and label intervals dictate cadence.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Cleveland, TN, but intake notes help reduce delays.
+Wildlife odors in Cleveland, TN crawlspaces may attract secondary pest activity.
 
-Tip: request a written scope before work starts.
+Exclusion gaps at garage jambs in Cleveland, TN are common rodent access points.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 37312/37320/37311.
+Earwig harborages in Cleveland, TN meter boxes often follow drip irrigation overspray.
 
-Field note: Wind exposure category reviewed for ZIP sector 37312/37320/37311.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Dispatch sectors sampled: ZIP 37312, 37320, 37311 (county grid: Bradley County).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Carpenter ant frass in Cleveland, TN window sills may indicate moisture-softened framing.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+IGR packets for Cleveland, TN roach cycles should be dated on station lids.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Species trace 540090: re-entry interval label and conducive moisture note keyed to Cleveland, TN elevation 817 ft.
+
+Perimeter dossier 540090: bait station anchor map and mulch bridge risk flagged for Cleveland, TN county Bradley County (ZIP 37312).
+
+Primary postal anchor 37312 with multi-ZIP overlap in Cleveland; field packets tag Bradley County for county-grid reconciliation.
 
 Service reference: TN-37312-52389350

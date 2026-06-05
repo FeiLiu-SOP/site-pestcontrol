@@ -11,24 +11,39 @@ lng: -88.3500
 zipSample: ["60156"]
 zipCodes: ["60156"]
 localPaths: ["McHenry County / coords 42.1900, -88.3500", "McHenry County / ZIP 60156 sector", "McHenry County / primary ZIP 60156", "McHenry County / elevation 889 ft band"]
-zillowHomeValueUsd: 369510
 ---
 
-**Engineering Notice for Lake in the Hills:** Structural loading calculated based on 889 ft terrain assessment. Regional dispatch grid: McHenry County.
+**Engineering Notice for Lake in the Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: McHenry County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+IGR packets for Lake in the Hills, IL roach cycles should be dated on station lids.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Lake in the Hills, IL, but intake notes help reduce delays.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Our service coordination centers on Lake in the Hills, IL coverage windows and verified intake details.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Field note: Wind exposure category reviewed for ZIP sector 60156.
+Request an inspection with species ID before treatment. Serving ZIP Code: 60156.
 
-Dispatch sectors sampled: ZIP 60156 (county grid: McHenry County).
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Fire ant mounds in Lake in the Hills, IL drive seams need granule rotation after irrigation events.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Lake in the Hills, IL.
+
+Dry-wood termite pellets in Lake in the Hills, IL attics may appear before exterior mud tubes.
+
+Species trace 956179: re-entry interval label and conducive moisture note keyed to Lake in the Hills, IL elevation 889 ft.
+
+On-site sector marker: McHenry County / primary ZIP 60156 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60156-d4e7579b

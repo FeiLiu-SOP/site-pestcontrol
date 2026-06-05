@@ -11,24 +11,37 @@ lng: -80.1900
 zipSample: ["33023"]
 zipCodes: ["33023"]
 localPaths: ["Broward County / elevation 30 ft band", "Broward County / ZIP 33023 sector", "Broward County / primary ZIP 33023", "Broward County / coords 25.9800, -80.1900"]
-zillowHomeValueUsd: 450415
 ---
 
-**Engineering Notice for West Park:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Broward County.
+**Engineering Notice for West Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.
 
 
-Structured milestones protect both sides when scheduling work.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Why schedule quarterly instead of monthly in West Park, FL? Species pressure and label intervals dictate cadence.
 
-We coordinate local dispatch coverage around West Park, FL and nearby ZIP sectors.
+Attic fogging in West Park, FL requires combustion appliance shutoff verification first.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Perimeter granule carriers in West Park, FL clay soils may need lighter irrigation before application.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Wind exposure category reviewed for ZIP sector 33023.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Dispatch sectors sampled: ZIP 33023 (county grid: Broward County).
+In West Park, FL, subterranean termite swarms often follow warm rain windows.
+
+Dry-wood termite pellets in West Park, FL attics may appear before exterior mud tubes.
+
+Humidity in West Park, FL can sustain cockroach harborages behind appliance voids.
+
+Risk flag: In West Park, FL, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Powderpost beetle exit holes in West Park, FL trim can be mistaken for dry-wood frass without magnification.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Species trace 655151: re-entry interval label and conducive moisture note keyed to West Park, FL elevation 30 ft.
+
+On-site sector marker: Broward County / elevation 30 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33023-71e54112

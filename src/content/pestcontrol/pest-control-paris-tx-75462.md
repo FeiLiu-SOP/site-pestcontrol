@@ -11,26 +11,43 @@ lng: -95.5500
 zipSample: ["75462", "75461", "75460"]
 zipCodes: ["75461", "75462", "75460"]
 localPaths: ["Lamar County / ZIP 75461 sector", "Lamar County / ZIP 75460 sector", "Lamar County / coords 33.6700, -95.5500", "Lamar County / elevation 614 ft band", "Lamar County / ZIP 75462 sector"]
-zillowHomeValueUsd: 277691
 ---
 
-**Engineering Notice for Paris:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Lamar County.
+**Engineering Notice for Paris:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lamar County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Paris, TX, but intake notes help reduce delays.
+Attic fogging in Paris, TX requires combustion appliance shutoff verification first.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Paris, TX.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-We coordinate local dispatch coverage around Paris, TX and nearby ZIP sectors.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Field note: Access points and staging constraints recorded for ZIP 75460/75461/75462 coverage.
+Attic misting in Paris, TX requires combustion air clearance verified before fans restart.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75460/75461/75462.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Dispatch sectors sampled: ZIP 75460, 75461, 75462 (county grid: Lamar County).
+Flea pupae survive vacuuming in Paris, TX carpet fibers unless heat treatment follows.
+
+Risk flag: In Paris, TX, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Paris, TX, pressure often rebuilds.
+
+Carpenter ant frass in Paris, TX window sills may indicate moisture-softened framing.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+FAQ: Can bed bugs spread room-to-room in Paris, TX row homes? Wall voids and shared ducts accelerate transfer.
+
+Perimeter dossier 349588: bait station anchor map and mulch bridge risk flagged for Paris, TX county Lamar County (ZIP 75462).
+
+Harbor ledger 349588: frass lane, mud-tube scan, and garage jamb gap measure filed for Paris, TX at 33.6700, -95.5500.
+
+On-site sector marker: Lamar County / ZIP 75462 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75462-390f8459

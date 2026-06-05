@@ -11,26 +11,43 @@ lng: -87.6800
 zipSample: ["54220"]
 zipCodes: ["54220"]
 localPaths: ["Manitowoc County / ZIP 54220 sector", "Manitowoc County / coords 44.1000, -87.6800", "Manitowoc County / elevation 630 ft band", "Manitowoc County / primary ZIP 54220"]
-zillowHomeValueUsd: 236137
 ---
 
-**Engineering Notice for Manitowoc:** Structural loading calculated based on 630 ft terrain assessment. Regional dispatch grid: Manitowoc County.
+**Engineering Notice for Manitowoc:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Manitowoc County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 54220.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Mosquito breeding in Manitowoc, WI catch basins can amplify perimeter callbacks.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Fire ant mounds in Manitowoc, WI drive seams need granule rotation after irrigation events.
 
-Field note: Access points and staging constraints recorded for ZIP 54220 coverage.
+Flea pupae survive vacuuming in Manitowoc, WI carpet fibers unless heat treatment follows.
 
-Field note: Wind exposure category reviewed for ZIP sector 54220.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Dispatch sectors sampled: ZIP 54220 (county grid: Manitowoc County).
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Attic insulation disturbance in Manitowoc, WI may indicate wildlife nesting routes.
+
+State note: Manitowoc, WI commercial kitchens may require separate documentation for audit visits.
+
+Material note: Perimeter granules in Manitowoc, WI may need reapplication after heavy irrigation.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Species trace 912970: re-entry interval label and conducive moisture note keyed to Manitowoc, WI elevation 630 ft.
+
+Perimeter dossier 912970: bait station anchor map and mulch bridge risk flagged for Manitowoc, WI county Manitowoc County (ZIP 54220).
+
+On-site sector marker: Manitowoc County / elevation 630 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-54220-d9cafce1

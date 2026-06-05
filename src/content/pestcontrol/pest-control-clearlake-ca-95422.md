@@ -11,27 +11,43 @@ lng: -122.6300
 zipSample: ["95422", "95424"]
 zipCodes: ["95422", "95424"]
 localPaths: ["Lake County / primary ZIP 95422", "Lake County / elevation 1362 ft band", "Lake County / coords 38.9600, -122.6300", "Lake County / ZIP 95424 sector", "Lake County / ZIP 95422 sector"]
-zillowHomeValueUsd: 202416
 ---
 
-**Engineering Notice for Clearlake:** Structural loading calculated based on 1362 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Clearlake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Clearlake, CA.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: What is exclusion? Without sealing entry points in Clearlake, CA, pressure often rebuilds.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Carpenter ant frass in Clearlake, CA window sills may indicate moisture-softened framing.
 
-Transparent pricing helps you compare like-for-like scope items.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 95422.
+Earwig harborages in Clearlake, CA meter boxes often follow drip irrigation overspray.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 95424/95422.
+Drain fly biofilm in Clearlake, CA floor drains signals grease traps need service before gel baits.
 
-Field note: Moisture pathway inspection logged near ZIP 95424/95422 intake.
+Yellow jacket nests in Clearlake, CA soffit cavities peak in late summer routing windows.
 
-Dispatch sectors sampled: ZIP 95424, 95422 (county grid: Lake County).
+Tip: Keep pet food elevated and sealed between service visits.
+
+Stored cardboard in Clearlake, CA garages can accelerate pantry pest cycles.
+
+We coordinate Clearlake, CA pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Perimeter granule carriers in Clearlake, CA clay soils may need lighter irrigation before application.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Mosquito breeding in Clearlake, CA catch basins can amplify perimeter callbacks.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Seasonal cue 804122: cluster fly attic staging reviewed for Clearlake, CA soffit cavities.
+
+Harbor ledger 804122: frass lane, mud-tube scan, and garage jamb gap measure filed for Clearlake, CA at 38.9600, -122.6300.
+
+Primary postal anchor 95422 with multi-ZIP overlap in Clearlake; field packets tag Lake County for county-grid reconciliation.
 
 Service reference: CA-95422-c4be9086

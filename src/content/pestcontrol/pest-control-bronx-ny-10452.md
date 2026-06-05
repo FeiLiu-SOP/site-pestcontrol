@@ -11,24 +11,39 @@ lng: -73.8700
 zipSample: ["10473", "10465", "10470", "10466", "10454"]
 zipCodes: ["10459", "10461", "10465", "10458", "10453", "10463", "10455", "10454", "10456", "10451", "10460", "10457"]
 localPaths: ["Bronx County / primary ZIP 10452", "Bronx County / elevation 62 ft band", "Bronx County / coords 40.8500, -73.8700", "Bronx County / ZIP 10470 sector", "Bronx County / ZIP 10454 sector"]
-zillowHomeValueUsd: 319065
 ---
 
-**Engineering Notice for Bronx:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Bronx County.
+**Engineering Notice for Bronx:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bronx County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: record station placement maps for follow-up visits.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Bird mites in Bronx, NY exhaust vents can persist after host nests are removed.
 
-Tip: request a written scope before work starts.
+County grid Bronx County informs routing near ZIP 10452.
 
-Tip: address recurring issues early to prevent bigger damage.
+Dry-wood termite pellets in Bronx, NY attics may appear before exterior mud tubes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Earwig harborages in Bronx, NY meter boxes often follow drip irrigation overspray.
 
-Field note: Access points and staging constraints recorded for ZIP 10456/10457/10455 coverage.
+Yellow jacket nests in Bronx, NY soffit cavities peak in late summer routing windows.
 
-Dispatch sectors sampled: ZIP 10456, 10457, 10455, 10451, 10460 (county grid: Bronx County).
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 10452.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Powderpost beetle exit holes in Bronx, NY trim can be mistaken for dry-wood frass without magnification.
+
+Attic fogging in Bronx, NY requires combustion appliance shutoff verification first.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Seasonal cue 347989: cluster fly attic staging reviewed for Bronx, NY soffit cavities.
+
+Species trace 347989: re-entry interval label and conducive moisture note keyed to Bronx, NY elevation 62 ft.
+
+Regional mesh label Bronx County: moisture and logistics baselines are keyed to Bronx, NY before niche-specific work begins.
 
 Service reference: NY-10452-1e5e249c

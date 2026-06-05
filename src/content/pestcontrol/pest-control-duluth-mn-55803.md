@@ -11,24 +11,39 @@ lng: -92.1400
 zipSample: ["55810", "55805", "55812", "55803", "55815"]
 zipCodes: ["55808", "55811", "55816", "55805", "55804", "55815", "55802", "55807", "55806", "55803", "55812", "55810"]
 localPaths: ["St. Louis County / ZIP 55805 sector", "St. Louis County / ZIP 55810 sector", "St. Louis County / ZIP 55815 sector", "St. Louis County / ZIP 55803 sector", "St. Louis County / primary ZIP 55803"]
-zillowHomeValueUsd: 341369
 ---
 
-**Engineering Notice for Duluth:** Structural loading calculated based on 1047 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Duluth:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.
 
 
-We coordinate local dispatch coverage around Duluth, MN and nearby ZIP sectors.
+Clover mite staining on Duluth, MN vinyl panels follows foundation mulch against brick ledges.
 
-Tip: confirm licensing and insurance before approving work.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Duluth, MN, but intake notes help reduce delays.
+FAQ: Why schedule quarterly instead of monthly in Duluth, MN? Species pressure and label intervals dictate cadence.
 
-Tip: address recurring issues early to prevent bigger damage.
+Attic fogging in Duluth, MN requires combustion appliance shutoff verification first.
 
-Field note: Moisture pathway inspection logged near ZIP 55805/55803/55808 intake.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Dispatch sectors sampled: ZIP 55805, 55803, 55808, 55807, 55802 (county grid: St. Louis County).
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Tip: Date bait station lids when servicing Duluth, MN perimeter lines.
+
+Yellow jacket nests in Duluth, MN soffit cavities peak in late summer routing windows.
+
+Perimeter dossier 662946: bait station anchor map and mulch bridge risk flagged for Duluth, MN county St. Louis County (ZIP 55803).
+
+Intercept log 662946: bed bug intercept count staged before Duluth, MN interior gel zones.
+
+**Regional Infrastructure Brief:** Service coverage aligns with St. Louis County and primary ZIP 55803. Terrain reference: 1047 ft. Center point: 46.7800, -92.1400. ZIP sample: 55806, 55807, 55812, 55810, 55803. Logistics priority: Serving residential sectors across St. Louis County and north-east ZIP 55803 grid.
 
 Service reference: MN-55803-be0639e6

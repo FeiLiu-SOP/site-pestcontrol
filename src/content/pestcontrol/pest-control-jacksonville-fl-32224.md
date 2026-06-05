@@ -11,26 +11,37 @@ lng: -81.6700
 zipSample: ["32228", "32220", "32254", "32216", "32227"]
 zipCodes: ["32221", "32227", "32207", "32201", "32236", "32231", "32256", "32229", "32250", "32217", "32209", "32210"]
 localPaths: ["Duval County / elevation 46 ft band", "Duval County / ZIP 32216 sector", "Duval County / ZIP 32228 sector", "Duval County / coords 30.3300, -81.6700", "Duval County / ZIP 32254 sector"]
-zillowHomeValueUsd: 454169
 ---
 
-**Engineering Notice for Jacksonville:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Duval County.
+**Engineering Notice for Jacksonville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Duval County.
 
 
-We coordinate local dispatch coverage around Jacksonville, FL and nearby ZIP sectors.
+Tip: Log pet access routes when bait stations are placed.
 
-Tip: confirm licensing and insurance before approving work.
+Drain fly biofilm in Jacksonville, FL floor drains signals grease traps need service before gel baits.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Earwig harborages in Jacksonville, FL meter boxes often follow drip irrigation overspray.
 
-Tip: compare at least two estimates for scope and timeline.
+Request an inspection with species ID before treatment. Serving ZIP Code: 32224.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 32224.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 32231/32255/32225.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Field note: Connection points spot-checked where accessible (ZIP 32231/32255/32225 zone).
+County grid Duval County informs routing near ZIP 32224.
 
-Dispatch sectors sampled: ZIP 32231, 32255, 32225, 32241, 32223 (county grid: Duval County).
+Material note: Perimeter granules in Jacksonville, FL may need reapplication after heavy irrigation.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Exclusion audit 927649: exclusion mesh gauge and rodent runway grease mark reviewed for Jacksonville, FL at 30.3300/-81.6700.
+
+On-site sector marker: Duval County / ZIP 32250 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32224-0949881b

@@ -11,27 +11,43 @@ lng: -96.9700
 zipSample: ["75039", "75015", "75326", "75063", "75014"]
 zipCodes: ["75368", "75061", "75038", "75014", "75063", "75016", "75039", "75015", "75017", "75059", "75060", "75062"]
 localPaths: ["Dallas County / ZIP 75326 sector", "Dallas County / coords 32.8600, -96.9700", "Dallas County / elevation 577 ft band", "Dallas County / ZIP 75063 sector", "Dallas County / primary ZIP 75063"]
-zillowHomeValueUsd: 610902
 ---
 
-**Engineering Notice for Irving:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for Irving:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.
 
 
-We coordinate local dispatch coverage around Irving, TX and nearby ZIP sectors.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: request a written scope before work starts.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Clear documentation helps align materials, labor, and timeline.
+Carpenter ant frass in Irving, TX window sills may indicate moisture-softened framing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Irving, TX, but intake notes help reduce delays.
+FAQ: Can bed bugs spread room-to-room in Irving, TX row homes? Wall voids and shared ducts accelerate transfer.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 75063.
+Attic misting in Irving, TX requires combustion air clearance verified before fans restart.
 
-Field note: Wind exposure category reviewed for ZIP sector 75017/75061/75063.
+Stink bug overwinter seams in Irving, TX exterior cladding laps require exclusion foam rated for UV exposure.
 
-Field note: Connection points spot-checked where accessible (ZIP 75017/75061/75063 zone).
+Mud dauber nests in Irving, TX porch ceilings are benign but signal prey density for spiders.
 
-Dispatch sectors sampled: ZIP 75017, 75061, 75063, 75038, 75062 (county grid: Dallas County).
+Humidity in Irving, TX can sustain cockroach harborages behind appliance voids.
+
+In Irving, TX, subterranean termite swarms often follow warm rain windows.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Tip: Date bait station lids when servicing Irving, TX perimeter lines.
+
+FAQ: Why schedule quarterly instead of monthly in Irving, TX? Species pressure and label intervals dictate cadence.
+
+Species trace 782860: re-entry interval label and conducive moisture note keyed to Irving, TX elevation 577 ft.
+
+Zone map 782860: attic insulation disturbance trace and pantry pest source logged for Irving, TX sector 75063.
+
+Coordinate-anchored dispatch note: center reference 32.8600, -96.9700 at elevation ~577 ft aligns with Dallas County intake staging.
 
 Service reference: TX-75063-352826a8

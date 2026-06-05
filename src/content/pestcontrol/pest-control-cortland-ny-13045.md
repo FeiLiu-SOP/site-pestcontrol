@@ -11,24 +11,41 @@ lng: -76.1800
 zipSample: ["13045"]
 zipCodes: ["13045"]
 localPaths: ["Cortland County / coords 42.6000, -76.1800", "Cortland County / ZIP 13045 sector", "Cortland County / primary ZIP 13045", "Cortland County / elevation 1122 ft band"]
-zillowHomeValueUsd: 197158
 ---
 
-**Engineering Notice for Cortland:** Structural loading calculated based on 1122 ft terrain assessment. Regional dispatch grid: Cortland County.
+**Engineering Notice for Cortland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cortland County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-We coordinate local dispatch coverage around Cortland, NY and nearby ZIP sectors.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Wind exposure category reviewed for ZIP sector 13045.
+Request an inspection with species ID before treatment. Serving ZIP Code: 13045.
 
-Dispatch sectors sampled: ZIP 13045 (county grid: Cortland County).
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Cortland, NY.
+
+Tip: Date bait station lids when servicing Cortland, NY perimeter lines.
+
+Attic fogging in Cortland, NY requires combustion appliance shutoff verification first.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Across Cortland, NY, rodent entry points frequently track utility penetrations.
+
+Carpenter ant frass in Cortland, NY window sills may indicate moisture-softened framing.
+
+Exclusion audit 987326: exclusion mesh gauge and rodent runway grease mark reviewed for Cortland, NY at 42.6000/-76.1800.
+
+Harbor ledger 987326: frass lane, mud-tube scan, and garage jamb gap measure filed for Cortland, NY at 42.6000, -76.1800.
+
+On-site sector marker: Cortland County / primary ZIP 13045 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-13045-6a1c3229

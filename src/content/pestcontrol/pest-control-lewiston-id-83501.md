@@ -11,24 +11,39 @@ lng: -116.9900
 zipSample: ["83501"]
 zipCodes: ["83501"]
 localPaths: ["Nez Perce County / ZIP 83501 sector", "Nez Perce County / elevation 1286 ft band", "Nez Perce County / coords 46.3900, -116.9900", "Nez Perce County / primary ZIP 83501"]
-zillowHomeValueUsd: 382323
 ---
 
-**Engineering Notice for Lewiston:** Structural loading calculated based on 1286 ft terrain assessment. Regional dispatch grid: Nez Perce County.
+**Engineering Notice for Lewiston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nez Perce County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Yellow jacket nests in Lewiston, ID soffit cavities peak in late summer routing windows.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic fogging in Lewiston, ID requires combustion appliance shutoff verification first.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 83501.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lewiston, ID, but intake notes help reduce delays.
+Earwig harborages in Lewiston, ID meter boxes often follow drip irrigation overspray.
 
-Field note: Moisture pathway inspection logged near ZIP 83501 intake.
+Carpenter ant frass in Lewiston, ID window sills may indicate moisture-softened framing.
 
-Dispatch sectors sampled: ZIP 83501 (county grid: Nez Perce County).
+Risk flag: In Lewiston, ID, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+IGR packets for Lewiston, ID roach cycles should be dated on station lids.
+
+In Lewiston, ID, subterranean termite swarms often follow warm rain windows.
+
+Flea pupae survive vacuuming in Lewiston, ID carpet fibers unless heat treatment follows.
+
+Wildlife odors in Lewiston, ID crawlspaces may attract secondary pest activity.
+
+Cluster fly attic staging in Lewiston, ID peaks on south-facing voids after sunny thaw days.
+
+Exclusion audit 670940: exclusion mesh gauge and rodent runway grease mark reviewed for Lewiston, ID at 46.3900/-116.9900.
+
+Intercept log 670940: bed bug intercept count staged before Lewiston, ID interior gel zones.
+
+ZIP-corridor snapshot for Lewiston, ID: sampled sectors include 83501; county routing grid remains Nez Perce County.
 
 Service reference: ID-83501-41095284

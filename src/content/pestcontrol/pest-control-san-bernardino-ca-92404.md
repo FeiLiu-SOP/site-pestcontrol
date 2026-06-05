@@ -11,24 +11,37 @@ lng: -117.2900
 zipSample: ["92403", "92406", "92413", "92418", "92408"]
 zipCodes: ["92427", "92407", "92423", "92411", "92418", "92401", "92346", "92413", "92410", "92405", "92408", "92404"]
 localPaths: ["San Bernardino County / ZIP 92406 sector", "San Bernardino County / ZIP 92408 sector", "San Bernardino County / ZIP 92413 sector", "San Bernardino County / coords 34.1400, -117.2900", "San Bernardino County / elevation 1201 ft band"]
-zillowHomeValueUsd: 480007
 ---
 
-**Engineering Notice for San Bernardino:** Structural loading calculated based on 1201 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for San Bernardino:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.
 
 
-Tip: avoid large upfront payments without milestones.
+Step: verify attic access safety before insulation disturbance.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Carpenter ant frass in San Bernardino, CA window sills may indicate moisture-softened framing.
 
-Tip: confirm licensing and insurance before approving work.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Exclusion gaps at garage jambs in San Bernardino, CA are common rodent access points.
 
-In San Bernardino, CA, urgent pest control issues can escalate quickly.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Field note: Connection points spot-checked where accessible (ZIP 92423/92401/92408 zone).
+Stink bug overwinter seams in San Bernardino, CA cladding service laps require exclusion foam rated for UV exposure.
 
-Dispatch sectors sampled: ZIP 92423, 92401, 92408, 92410, 92413 (county grid: San Bernardino County).
+State note: San Bernardino, CA commercial kitchens may require separate documentation for audit visits.
+
+Tip: Date bait station lids when servicing San Bernardino, CA perimeter lines.
+
+Tip: Trim vegetation 12 inches from exterior cladding to reduce ant bridges.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+FAQ: Can bed bugs spread room-to-room in San Bernardino, CA row homes? Wall voids and shared ducts accelerate transfer.
+
+Spider populations in San Bernardino, CA eaves can signal insect prey density.
+
+Seasonal cue 293887: cluster fly attic staging reviewed for San Bernardino, CA soffit cavities.
+
+**Regional Infrastructure Brief:** Response coverage aligns with San Bernardino County and primary ZIP 92404. Terrain reference: 1201 ft. Center point: 34.1400, -117.2900. ZIP sample: 92411, 92415, 92418, 92403, 92427. Logistics priority: Serving residential sectors across San Bernardino County and north-east ZIP 92404 grid.
 
 Service reference: CA-92404-505e5fe6

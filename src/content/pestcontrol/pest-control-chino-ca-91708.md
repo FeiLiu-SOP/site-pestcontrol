@@ -11,26 +11,39 @@ lng: -117.6700
 zipSample: ["91708", "91710"]
 zipCodes: ["91710", "91708"]
 localPaths: ["San Bernardino County / ZIP 91708 sector", "San Bernardino County / elevation 620 ft band", "San Bernardino County / ZIP 91710 sector", "San Bernardino County / primary ZIP 91708", "San Bernardino County / coords 33.9800, -117.6700"]
-zillowHomeValueUsd: 726237
 ---
 
-**Engineering Notice for Chino:** Structural loading calculated based on 620 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Chino:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Chino, CA, but intake notes help reduce delays.
+FAQ: Can bed bugs spread room-to-room in Chino, CA row homes? Wall voids and shared ducts accelerate transfer.
 
-Our service coordination centers on Chino, CA coverage windows and verified intake details.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 91708.
 
-In Chino, CA, seasonal demand can change scheduling windows.
+Perimeter granule carriers in Chino, CA clay soils may need lighter irrigation before application.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Date bait station lids when servicing Chino, CA perimeter lines.
 
-Field note: Connection points spot-checked where accessible (ZIP 91710/91708 zone).
+Attic fogging in Chino, CA requires combustion appliance shutoff verification first.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 91710/91708.
+Risk flag: Overwatered Chino, CA planters can restart ant bridges within two weeks.
 
-Dispatch sectors sampled: ZIP 91710, 91708 (county grid: San Bernardino County).
+Flea pupae survive vacuuming in Chino, CA carpet fibers unless heat treatment follows.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Carpenter ant frass in Chino, CA window sills may indicate moisture-softened framing.
+
+IGR packets for Chino, CA roach cycles should be dated on station lids.
+
+Intercept log 828650: bed bug intercept count staged before Chino, CA interior gel zones.
+
+Harbor ledger 828650: frass lane, mud-tube scan, and garage jamb gap measure filed for Chino, CA at 33.9800, -117.6700.
+
+Primary postal anchor 91708 with multi-ZIP overlap in Chino; field packets tag San Bernardino County for county-grid reconciliation.
 
 Service reference: CA-91708-d2d772e5

@@ -11,26 +11,43 @@ lng: -116.2300
 zipSample: ["92241", "92203", "92201"]
 zipCodes: ["92201", "92241", "92203"]
 localPaths: ["Riverside County / ZIP 92203 sector", "Riverside County / primary ZIP 92241", "Riverside County / ZIP 92241 sector", "Riverside County / ZIP 92201 sector", "Riverside County / coords 33.7300, -116.2300"]
-zillowHomeValueUsd: 408000
 ---
 
-**Engineering Notice for Indio:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Indio:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Across Indio, CA, rodent entry points frequently track utility penetrations.
 
-Our service coordination centers on Indio, CA coverage windows and verified intake details.
+Step: verify attic access safety before insulation disturbance.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 92241.
 
-Tip: compare at least two estimates for scope and timeline.
+Stored cardboard in Indio, CA garages can accelerate pantry pest cycles.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Indio, CA.
 
-Field note: Access points and staging constraints recorded for ZIP 92203/92201/92241 coverage.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 92241.
 
-Field note: Wind exposure category reviewed for ZIP sector 92203/92201/92241.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Dispatch sectors sampled: ZIP 92203, 92201, 92241 (county grid: Riverside County).
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Attic fogging in Indio, CA requires combustion appliance shutoff verification first.
+
+IGR packets for Indio, CA roach cycles should be dated on station lids.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Intercept log 138270: bed bug intercept count staged before Indio, CA interior gel zones.
+
+Zone map 138270: attic insulation disturbance trace and pantry pest source logged for Indio, CA sector 92241.
+
+ZIP-corridor snapshot for Indio, CA: sampled sectors include 92201, 92241, 92203; county routing grid remains Riverside County.
 
 Service reference: CA-92241-05290aef

@@ -11,24 +11,37 @@ lng: -75.8800
 zipSample: ["18769", "18701", "18710", "18766", "18762"]
 zipCodes: ["18702", "18705", "18711", "18766", "18701", "18765", "18767", "18773", "18710", "18762", "18703", "18769"]
 localPaths: ["Luzerne County / ZIP 18769 sector", "Luzerne County / primary ZIP 18702", "Luzerne County / ZIP 18762 sector", "Luzerne County / ZIP 18766 sector", "Luzerne County / ZIP 18701 sector"]
-zillowHomeValueUsd: 168251
 ---
 
-**Engineering Notice for Wilkes-Barre:** Structural loading calculated based on 554 ft terrain assessment. Regional dispatch grid: Luzerne County.
+**Engineering Notice for Wilkes-Barre:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Luzerne County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Homeowners in Wilkes-Barre, PA often face sudden pest control problems that require fast action.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Across Wilkes-Barre, PA, rodent entry points frequently track utility penetrations.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 18702.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Wilkes-Barre, PA.
 
-Field note: Moisture pathway inspection logged near ZIP 18703/18767/18711 intake.
+Drain fly biofilm in Wilkes-Barre, PA floor drains signals grease traps need service before gel baits.
 
-Dispatch sectors sampled: ZIP 18703, 18767, 18711, 18773, 18710 (county grid: Luzerne County).
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Wildlife odors in Wilkes-Barre, PA crawlspaces may attract secondary pest activity.
+
+Earwig harborages in Wilkes-Barre, PA meter boxes often follow drip irrigation overspray.
+
+Cluster fly attic staging in Wilkes-Barre, PA peaks on south-facing voids after sunny thaw days.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Seasonal cue 905357: cluster fly attic staging reviewed for Wilkes-Barre, PA soffit cavities.
+
+On-site sector marker: Luzerne County / ZIP 18711 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-18702-b3427dd5

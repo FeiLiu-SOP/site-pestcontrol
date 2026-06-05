@@ -11,27 +11,39 @@ lng: -73.6500
 zipSample: ["11552"]
 zipCodes: ["11552"]
 localPaths: ["Nassau County / elevation 69 ft band", "Nassau County / coords 40.7000, -73.6500", "Nassau County / ZIP 11552 sector", "Nassau County / primary ZIP 11552"]
-zillowHomeValueUsd: 786243
 ---
 
-**Engineering Notice for West Hempstead:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for West Hempstead:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.
 
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Overwatered West Hempstead, NY planters can restart ant bridges within two weeks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in West Hempstead, NY, but intake notes help reduce delays.
+Powderpost beetle exit holes in West Hempstead, NY trim can be mistaken for dry-wood frass without magnification.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 11552.
+IGR packets for West Hempstead, NY roach cycles should be dated on station lids.
 
-Field note: Connection points spot-checked where accessible (ZIP 11552 zone).
+Drain fly biofilm in West Hempstead, NY floor drains signals grease traps need service before gel baits.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11552.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Dispatch sectors sampled: ZIP 11552 (county grid: Nassau County).
+Step: verify attic access safety before insulation disturbance.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 11552.
+
+Attic misting in West Hempstead, NY requires combustion air clearance verified before fans restart.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in West Hempstead, NY.
+
+Bird mites in West Hempstead, NY exhaust vents can persist after host nests are removed.
+
+Exclusion audit 675047: exclusion mesh gauge and rodent runway grease mark reviewed for West Hempstead, NY at 40.7000/-73.6500.
+
+Perimeter dossier 675047: bait station anchor map and mulch bridge risk flagged for West Hempstead, NY county Nassau County (ZIP 11552).
+
+On-site sector marker: Nassau County / ZIP 11552 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11552-9540f297

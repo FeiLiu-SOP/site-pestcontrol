@@ -11,26 +11,41 @@ lng: -79.0400
 zipSample: ["27517", "27515", "27516", "27514", "27599"]
 zipCodes: ["27517", "27516", "27514", "27515", "27599"]
 localPaths: ["Orange County / ZIP 27517 sector", "Orange County / ZIP 27516 sector", "Orange County / ZIP 27599 sector", "Orange County / coords 35.9300, -79.0400", "Orange County / ZIP 27514 sector"]
-zillowHomeValueUsd: 642681
 ---
 
-**Engineering Notice for Chapel Hill:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Chapel Hill:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.
 
 
-We coordinate local dispatch coverage around Chapel Hill, NC and nearby ZIP sectors.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Tip: confirm licensing and insurance before approving work.
+Exclusion gaps at garage jambs in Chapel Hill, NC are common rodent access points.
 
-Tip: address recurring issues early to prevent bigger damage.
+Clover mite staining on Chapel Hill, NC exterior cladding follows foundation mulch against brick ledges.
 
-Local conditions in Chapel Hill, NC can affect timelines and material choices.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Connection points spot-checked where accessible (ZIP 27517/27514/27516 zone).
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Moisture pathway inspection logged near ZIP 27517/27514/27516 intake.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Dispatch sectors sampled: ZIP 27517, 27514, 27516, 27599, 27515 (county grid: Orange County).
+Cluster fly attic staging in Chapel Hill, NC peaks on south-facing voids after sunny thaw days.
+
+Drain fly biofilm in Chapel Hill, NC floor drains signals grease traps need service before gel baits.
+
+Flea pupae survive vacuuming in Chapel Hill, NC carpet fibers unless heat treatment follows.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 27599.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Tip: Date bait station lids when servicing Chapel Hill, NC perimeter lines.
+
+Seasonal cue 874142: cluster fly attic staging reviewed for Chapel Hill, NC soffit cavities.
+
+Exclusion audit 874142: exclusion mesh gauge and rodent runway grease mark reviewed for Chapel Hill, NC at 35.9300/-79.0400.
+
+Regional mesh label Orange County: moisture and logistics baselines are keyed to Chapel Hill, NC before niche-specific work begins.
 
 Service reference: NC-27599-2337402a

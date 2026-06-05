@@ -11,26 +11,41 @@ lng: -90.2100
 zipSample: ["63138"]
 zipCodes: ["63138"]
 localPaths: ["St. Louis County / ZIP 63138 sector", "St. Louis County / elevation 531 ft band", "St. Louis County / primary ZIP 63138", "St. Louis County / coords 38.7900, -90.2100"]
-zillowHomeValueUsd: 148371
 ---
 
-**Engineering Notice for Spanish Lake:** Structural loading calculated based on 531 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Spanish Lake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Drain fly biofilm in Spanish Lake, MO floor drains signals grease traps need service before gel baits.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Stink bug overwinter seams in Spanish Lake, MO wall restoration laps require exclusion foam rated for UV exposure.
 
-Tip: confirm licensing and insurance before approving work.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-We coordinate local dispatch coverage around Spanish Lake, MO and nearby ZIP sectors.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 63138.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Field note: Wind exposure category reviewed for ZIP sector 63138.
+Attic fogging in Spanish Lake, MO requires combustion appliance shutoff verification first.
 
-Field note: Connection points spot-checked where accessible (ZIP 63138 zone).
+Bird mites in Spanish Lake, MO exhaust vents can persist after host nests are removed.
 
-Dispatch sectors sampled: ZIP 63138 (county grid: St. Louis County).
+Silverfish activity in Spanish Lake, MO attics tracks cardboard storage and ridge vent gaps.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Fire ant mounds in Spanish Lake, MO drive seams need granule rotation after irrigation events.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Spanish Lake, MO.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Tip: Trim vegetation 12 inches from cladding service to reduce ant bridges.
+
+Spider populations in Spanish Lake, MO eaves can signal insect prey density.
+
+Zone map 482335: attic insulation disturbance trace and pantry pest source logged for Spanish Lake, MO sector 63138.
+
+Regional mesh label St. Louis County: moisture and logistics baselines are keyed to Spanish Lake, MO before niche-specific work begins.
 
 Service reference: MO-63138-3ca393cb

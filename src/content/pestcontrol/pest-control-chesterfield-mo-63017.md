@@ -11,25 +11,37 @@ lng: -90.5800
 zipSample: ["63017", "63006", "63005"]
 zipCodes: ["63017", "63006", "63005"]
 localPaths: ["St. Louis County / ZIP 63017 sector", "St. Louis County / elevation 505 ft band", "St. Louis County / coords 38.6600, -90.5800", "St. Louis County / ZIP 63005 sector", "St. Louis County / primary ZIP 63017"]
-zillowHomeValueUsd: 552566
 ---
 
-**Engineering Notice for Chesterfield:** Structural loading calculated based on 505 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Chesterfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 63017.
+Mud dauber nests in Chesterfield, MO porch ceilings are benign but signal prey density for spiders.
 
-We coordinate local dispatch coverage around Chesterfield, MO and nearby ZIP sectors.
+Stink bug overwinter seams in Chesterfield, MO exterior cladding laps require exclusion foam rated for UV exposure.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Chesterfield, MO.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Clover mite staining on Chesterfield, MO exterior cladding follows foundation mulch against brick ledges.
 
-Field note: Wind exposure category reviewed for ZIP sector 63005/63017/63006.
+Wildlife odors in Chesterfield, MO crawlspaces may attract secondary pest activity.
 
-Dispatch sectors sampled: ZIP 63005, 63017, 63006 (county grid: St. Louis County).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Dry-wood termite pellets in Chesterfield, MO attics may appear before exterior mud tubes.
+
+Attic misting in Chesterfield, MO requires combustion air clearance verified before fans restart.
+
+Material note: Perimeter granules in Chesterfield, MO may need reapplication after heavy irrigation.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Perimeter dossier 654160: bait station anchor map and mulch bridge risk flagged for Chesterfield, MO county St. Louis County (ZIP 63017).
+
+On-site sector marker: St. Louis County / elevation 505 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63017-d59d070c

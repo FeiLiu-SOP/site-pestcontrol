@@ -11,24 +11,37 @@ lng: -122.4200
 zipSample: ["94083", "94080"]
 zipCodes: ["94083", "94080"]
 localPaths: ["San Mateo County / ZIP 94083 sector", "San Mateo County / ZIP 94080 sector", "San Mateo County / coords 37.6500, -122.4200", "San Mateo County / elevation 20 ft band", "San Mateo County / primary ZIP 94080"]
-zillowHomeValueUsd: 1239963
 ---
 
-**Engineering Notice for South San Francisco:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: San Mateo County.
+**Engineering Notice for South San Francisco:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Mateo County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Why schedule quarterly instead of monthly in South San Francisco, CA? Species pressure and label intervals dictate cadence.
 
-Tip: address recurring issues early to prevent bigger damage.
+Flea pupae survive vacuuming in South San Francisco, CA carpet fibers unless heat treatment follows.
 
-Tip: request a written scope before work starts.
+Earwig harborages in South San Francisco, CA meter boxes often follow drip irrigation overspray.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in South San Francisco, CA, but intake notes help reduce delays.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-A written scope helps prevent rework and mismatched expectations.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Field note: Connection points spot-checked where accessible (ZIP 94080/94083 zone).
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Dispatch sectors sampled: ZIP 94080, 94083 (county grid: San Mateo County).
+Request an inspection with species ID before treatment. Serving ZIP Code: 94080.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Clover mite staining on South San Francisco, CA vinyl panels follows foundation mulch against brick ledges.
+
+State note: South San Francisco, CA commercial kitchens may require separate documentation for audit visits.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Harbor ledger 768998: frass lane, mud-tube scan, and garage jamb gap measure filed for South San Francisco, CA at 37.6500, -122.4200.
+
+Regional mesh label San Mateo County: moisture and logistics baselines are keyed to South San Francisco, CA before niche-specific work begins.
 
 Service reference: CA-94080-f9851b61

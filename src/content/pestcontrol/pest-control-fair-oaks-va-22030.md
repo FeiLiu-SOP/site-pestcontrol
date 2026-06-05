@@ -11,25 +11,41 @@ lng: -77.3600
 zipSample: ["22033", "22030", "22035"]
 zipCodes: ["22033", "22035", "22030"]
 localPaths: ["Fairfax County / coords 38.8700, -77.3600", "Fairfax County / elevation 420 ft band", "Fairfax County / ZIP 22035 sector", "Fairfax County / ZIP 22033 sector", "Fairfax County / ZIP 22030 sector"]
-zillowHomeValueUsd: 819609
 ---
 
-**Engineering Notice for Fair Oaks:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Fair Oaks:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Date bait station lids when servicing Fair Oaks, VA perimeter lines.
 
-Tip: compare at least two estimates for scope and timeline.
+Yellow jacket nests in Fair Oaks, VA soffit cavities peak in late summer routing windows.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: label treatment zones for occupant re-entry timing.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 22030.
+Drain fly biofilm in Fair Oaks, VA floor drains signals grease traps need service before gel baits.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Fair Oaks, VA, but intake notes help reduce delays.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Connection points spot-checked where accessible (ZIP 22035/22033/22030 zone).
+Tip: Keep pet food elevated and sealed between service visits.
 
-Dispatch sectors sampled: ZIP 22035, 22033, 22030 (county grid: Fairfax County).
+IGR packets for Fair Oaks, VA roach cycles should be dated on station lids.
+
+Step: record station placement maps for follow-up visits.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Fire ant mounds in Fair Oaks, VA drive seams need granule rotation after irrigation events.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 22030.
+
+Bird mites in Fair Oaks, VA exhaust vents can persist after host nests are removed.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+FAQ: Can bed bugs spread room-to-room in Fair Oaks, VA row homes? Wall voids and shared ducts accelerate transfer.
+
+Species trace 378459: re-entry interval label and conducive moisture note keyed to Fair Oaks, VA elevation 420 ft.
+
+Regional mesh label Fairfax County: moisture and logistics baselines are keyed to Fair Oaks, VA before niche-specific work begins.
 
 Service reference: VA-22030-2fa43c0b

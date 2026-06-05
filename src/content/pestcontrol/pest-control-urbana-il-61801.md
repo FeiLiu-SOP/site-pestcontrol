@@ -11,25 +11,39 @@ lng: -88.2000
 zipSample: ["61801", "61803", "61802"]
 zipCodes: ["61802", "61803", "61801"]
 localPaths: ["Champaign County / elevation 741 ft band", "Champaign County / coords 40.1100, -88.2000", "Champaign County / primary ZIP 61801", "Champaign County / ZIP 61802 sector", "Champaign County / ZIP 61803 sector"]
-zillowHomeValueUsd: 186119
 ---
 
-**Engineering Notice for Urbana:** Structural loading calculated based on 741 ft terrain assessment. Regional dispatch grid: Champaign County.
+**Engineering Notice for Urbana:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Champaign County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic fogging in Urbana, IL requires combustion appliance shutoff verification first.
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Our service coordination centers on Urbana, IL coverage windows and verified intake details.
+Request an inspection with species ID before treatment. Serving ZIP Code: 61801.
 
-Tip: address recurring issues early to prevent bigger damage.
+Silverfish activity in Urbana, IL attics tracks cardboard storage and ridge vent gaps.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 61801.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 61801.
 
-Field note: Connection points spot-checked where accessible (ZIP 61802/61801/61803 zone).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Dispatch sectors sampled: ZIP 61802, 61801, 61803 (county grid: Champaign County).
+Tip: Trim vegetation 12 inches from cladding service to reduce ant bridges.
+
+Flea pupae survive vacuuming in Urbana, IL carpet fibers unless heat treatment follows.
+
+Perimeter granule carriers in Urbana, IL clay soils may need lighter irrigation before application.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Urbana, IL.
+
+Dry-wood termite pellets in Urbana, IL attics may appear before exterior mud tubes.
+
+Intercept log 244511: bed bug intercept count staged before Urbana, IL interior gel zones.
+
+Species trace 244511: re-entry interval label and conducive moisture note keyed to Urbana, IL elevation 741 ft.
+
+Regional mesh label Champaign County: moisture and logistics baselines are keyed to Urbana, IL before niche-specific work begins.
 
 Service reference: IL-61801-d34a84bc

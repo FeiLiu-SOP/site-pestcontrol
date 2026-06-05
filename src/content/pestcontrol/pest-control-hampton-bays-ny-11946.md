@@ -11,26 +11,43 @@ lng: -72.5200
 zipSample: ["11946"]
 zipCodes: ["11946"]
 localPaths: ["Suffolk County / ZIP 11946 sector", "Suffolk County / elevation 20 ft band", "Suffolk County / primary ZIP 11946", "Suffolk County / coords 40.8700, -72.5200"]
-zillowHomeValueUsd: 933939
 ---
 
-**Engineering Notice for Hampton Bays:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Hampton Bays:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
 
 
-In Hampton Bays, NY, urgent pest control issues can escalate quickly.
+Wildlife odors in Hampton Bays, NY crawlspaces may attract secondary pest activity.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Overwatered Hampton Bays, NY planters can restart ant bridges within two weeks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Yellow jacket nests in Hampton Bays, NY soffit cavities peak in late summer routing windows.
 
-Our service coordination centers on Hampton Bays, NY coverage windows and verified intake details.
+Tip: Keep pet food elevated and sealed between service visits.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hampton Bays, NY, but intake notes help reduce delays.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Moisture pathway inspection logged near ZIP 11946 intake.
+FAQ: Can bed bugs spread room-to-room in Hampton Bays, NY row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Connection points spot-checked where accessible (ZIP 11946 zone).
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Dispatch sectors sampled: ZIP 11946 (county grid: Suffolk County).
+FAQ: What is exclusion? Without sealing entry points in Hampton Bays, NY, pressure often rebuilds.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Hampton Bays, NY.
+
+Attic fogging in Hampton Bays, NY requires combustion appliance shutoff verification first.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Hampton Bays, NY.
+
+Stored cardboard in Hampton Bays, NY garages can accelerate pantry pest cycles.
+
+Silverfish activity in Hampton Bays, NY attics tracks cardboard storage and ridge vent gaps.
+
+Step: map entry points with photo logs before sealing.
+
+Harbor ledger 169867: frass lane, mud-tube scan, and garage jamb gap measure filed for Hampton Bays, NY at 40.8700, -72.5200.
+
+Zone map 169867: attic insulation disturbance trace and pantry pest source logged for Hampton Bays, NY sector 11946.
+
+On-site sector marker: Suffolk County / elevation 20 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11946-ea17c18b

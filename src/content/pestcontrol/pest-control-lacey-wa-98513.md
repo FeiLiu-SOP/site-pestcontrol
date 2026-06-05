@@ -11,24 +11,39 @@ lng: -122.7900
 zipSample: ["98503", "98513", "98509", "98516"]
 zipCodes: ["98509", "98503", "98516", "98513"]
 localPaths: ["Thurston County / ZIP 98516 sector", "Thurston County / ZIP 98503 sector", "Thurston County / ZIP 98513 sector", "Thurston County / coords 47.0500, -122.7900", "Thurston County / elevation 174 ft band"]
-zillowHomeValueUsd: 507958
 ---
 
-**Engineering Notice for Lacey:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Thurston County.
+**Engineering Notice for Lacey:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Thurston County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Keep pet food elevated and sealed between service visits.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Lacey, WA, but intake notes help reduce delays.
+Step: map entry points with photo logs before sealing.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Transparent pricing helps you compare like-for-like scope items.
+Powderpost beetle exit holes in Lacey, WA trim can be mistaken for dry-wood frass without magnification.
 
-Field note: Wind exposure category reviewed for ZIP sector 98513/98503/98516.
+Bird mites in Lacey, WA exhaust vents can persist after host nests are removed.
 
-Dispatch sectors sampled: ZIP 98513, 98503, 98516, 98509 (county grid: Thurston County).
+Humidity in Lacey, WA can sustain cockroach harborages behind appliance voids.
+
+State note: Lacey, WA commercial kitchens may require separate documentation for audit visits.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Monitoring boards in Lacey, WA crawlspaces stay 72 hours before snap traps are reset.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Perimeter dossier 193183: bait station anchor map and mulch bridge risk flagged for Lacey, WA county Thurston County (ZIP 98513).
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~174 ft across the Thurston County area. Coordinates: 47.0500, -122.7900. ZIP sample: 98509, 98516, 98513, 98503. Logistics priority: Serving residential sectors across Thurston County and north-east ZIP 98513 grid.
 
 Service reference: WA-98513-b1df2cbb

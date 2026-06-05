@@ -11,26 +11,39 @@ lng: -87.3800
 zipSample: ["47804", "47803", "47807", "47802", "47801"]
 zipCodes: ["47801", "47802", "47807", "47809", "47804", "47803", "47808"]
 localPaths: ["Vigo County / ZIP 47802 sector", "Vigo County / ZIP 47807 sector", "Vigo County / coords 39.4700, -87.3800", "Vigo County / ZIP 47804 sector", "Vigo County / primary ZIP 47804"]
-zillowHomeValueUsd: 101357
 ---
 
-**Engineering Notice for Terre Haute:** Structural loading calculated based on 518 ft terrain assessment. Regional dispatch grid: Vigo County.
+**Engineering Notice for Terre Haute:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Vigo County.
 
 
-In Terre Haute, IN, urgent pest control issues can escalate quickly.
+Perimeter granule carriers in Terre Haute, IN clay soils may need lighter irrigation before application.
 
-Tip: avoid large upfront payments without milestones.
+Step: verify attic access safety before insulation disturbance.
 
-Our service coordination centers on Terre Haute, IN coverage windows and verified intake details.
+FAQ: Why do pests return after spraying? Without sealing entry points in Terre Haute, IN, pressure often rebuilds.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Terre Haute, IN, but intake notes help reduce delays.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Connection points spot-checked where accessible (ZIP 47803/47808/47809 zone).
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Moisture pathway inspection logged near ZIP 47803/47808/47809 intake.
+Powderpost beetle exit holes in Terre Haute, IN trim can be mistaken for dry-wood frass without magnification.
 
-Dispatch sectors sampled: ZIP 47803, 47808, 47809, 47804, 47801 (county grid: Vigo County).
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Stink bug overwinter seams in Terre Haute, IN cladding service laps require exclusion foam rated for UV exposure.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Terre Haute, IN.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Intercept log 229616: bed bug intercept count staged before Terre Haute, IN interior gel zones.
+
+Seasonal cue 229616: cluster fly attic staging reviewed for Terre Haute, IN soffit cavities.
+
+On-site sector marker: Vigo County / ZIP 47802 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-47804-04e1b014

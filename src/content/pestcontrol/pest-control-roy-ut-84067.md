@@ -11,26 +11,39 @@ lng: -112.0500
 zipSample: ["84067"]
 zipCodes: ["84067"]
 localPaths: ["Weber County / elevation 4383 ft band", "Weber County / ZIP 84067 sector", "Weber County / coords 41.1700, -112.0500", "Weber County / primary ZIP 84067"]
-zillowHomeValueUsd: 436565
 ---
 
-**Engineering Notice for Roy:** Structural loading calculated based on 4383 ft terrain assessment. Regional dispatch grid: Weber County.
+**Engineering Notice for Roy:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Weber County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Stink bug overwinter seams in Roy, UT cladding service laps require exclusion foam rated for UV exposure.
 
-Our service coordination centers on Roy, UT coverage windows and verified intake details.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Roy, UT, but intake notes help reduce delays.
+Mud dauber nests in Roy, UT porch ceilings are benign but signal prey density for spiders.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Date bait station lids when servicing Roy, UT perimeter lines.
 
-Tip: confirm licensing and insurance before approving work.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Field note: Moisture pathway inspection logged near ZIP 84067 intake.
+Monitoring boards in Roy, UT crawlspaces stay 72 hours before snap traps are reset.
 
-Field note: Connection points spot-checked where accessible (ZIP 84067 zone).
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Dispatch sectors sampled: ZIP 84067 (county grid: Weber County).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Perimeter granule carriers in Roy, UT clay soils may need lighter irrigation before application.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Cluster fly attic staging in Roy, UT peaks on south-facing voids after sunny thaw days.
+
+Bird mites in Roy, UT exhaust vents can persist after host nests are removed.
+
+Zone map 837480: attic insulation disturbance trace and pantry pest source logged for Roy, UT sector 84067.
+
+On-site sector marker: Weber County / coords 41.1700, -112.0500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84067-d626fb89

@@ -11,25 +11,41 @@ lng: -110.7400
 zipSample: ["85749", "85748"]
 zipCodes: ["85749", "85748"]
 localPaths: ["Pima County / elevation 2667 ft band", "Pima County / primary ZIP 85749", "Pima County / coords 32.2700, -110.7400", "Pima County / ZIP 85749 sector", "Pima County / ZIP 85748 sector"]
-zillowHomeValueUsd: 649158
 ---
 
-**Engineering Notice for Tanque Verde:** Structural loading calculated based on 2667 ft terrain assessment. Regional dispatch grid: Pima County.
+**Engineering Notice for Tanque Verde:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pima County.
 
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Homeowners in Tanque Verde, AZ often face sudden pest control problems that require fast action.
+Request an inspection with species ID before treatment. Serving ZIP Code: 85749.
 
-Our service coordination centers on Tanque Verde, AZ coverage windows and verified intake details.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 85749.
+State note: Tanque Verde, AZ commercial kitchens may require separate documentation for audit visits.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Moisture pathway inspection logged near ZIP 85748/85749 intake.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Dispatch sectors sampled: ZIP 85748, 85749 (county grid: Pima County).
+Attic insulation disturbance in Tanque Verde, AZ may indicate wildlife nesting routes.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+FAQ: What is exclusion? Without sealing entry points in Tanque Verde, AZ, pressure often rebuilds.
+
+Fire ant mounds in Tanque Verde, AZ drive seams need granule rotation after irrigation events.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Attic misting in Tanque Verde, AZ requires combustion air clearance verified before fans restart.
+
+Earwig harborages in Tanque Verde, AZ meter boxes often follow drip irrigation overspray.
+
+Seasonal cue 558074: cluster fly attic staging reviewed for Tanque Verde, AZ soffit cavities.
+
+Species trace 558074: re-entry interval label and conducive moisture note keyed to Tanque Verde, AZ elevation 2667 ft.
+
+On-site sector marker: Pima County / primary ZIP 85749 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85749-26b9adeb

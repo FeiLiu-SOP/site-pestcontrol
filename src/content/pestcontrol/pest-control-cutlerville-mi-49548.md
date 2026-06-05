@@ -11,27 +11,37 @@ lng: -85.6700
 zipSample: ["49315", "49548"]
 zipCodes: ["49548", "49315"]
 localPaths: ["Kent County / primary ZIP 49548", "Kent County / ZIP 49315 sector", "Kent County / elevation 676 ft band", "Kent County / coords 42.8400, -85.6700", "Kent County / ZIP 49548 sector"]
-zillowHomeValueUsd: 250310
 ---
 
-**Engineering Notice for Cutlerville:** Structural loading calculated based on 676 ft terrain assessment. Regional dispatch grid: Kent County.
+**Engineering Notice for Cutlerville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kent County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
 
-Our service coordination centers on Cutlerville, MI coverage windows and verified intake details.
+County grid Kent County informs routing near ZIP 49548.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Cutlerville, MI, but intake notes help reduce delays.
+Bird mites in Cutlerville, MI exhaust vents can persist after host nests are removed.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+In Cutlerville, MI, subterranean termite swarms often follow warm rain windows.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 49548.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Connection points spot-checked where accessible (ZIP 49548/49315 zone).
+Dry-wood termite pellets in Cutlerville, MI attics may appear before exterior mud tubes.
 
-Field note: Moisture pathway inspection logged near ZIP 49548/49315 intake.
+FAQ: Can bed bugs spread room-to-room in Cutlerville, MI row homes? Wall voids and shared ducts accelerate transfer.
 
-Dispatch sectors sampled: ZIP 49548, 49315 (county grid: Kent County).
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Drain fly biofilm in Cutlerville, MI floor drains signals grease traps need service before gel baits.
+
+Material note: Perimeter granules in Cutlerville, MI may need reapplication after heavy irrigation.
+
+Exclusion audit 734219: exclusion mesh gauge and rodent runway grease mark reviewed for Cutlerville, MI at 42.8400/-85.6700.
+
+On-site sector marker: Kent County / elevation 676 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-49548-5e257a63

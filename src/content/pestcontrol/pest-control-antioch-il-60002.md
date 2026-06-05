@@ -11,24 +11,41 @@ lng: -88.0700
 zipSample: ["60002"]
 zipCodes: ["60002"]
 localPaths: ["Lake County / elevation 787 ft band", "Lake County / ZIP 60002 sector", "Lake County / coords 42.4700, -88.0700", "Lake County / primary ZIP 60002"]
-zillowHomeValueUsd: 344700
 ---
 
-**Engineering Notice for Antioch:** Structural loading calculated based on 787 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Antioch:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+State note: Antioch, IL commercial kitchens may require separate documentation for audit visits.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Why schedule quarterly instead of monthly in Antioch, IL? Species pressure and label intervals dictate cadence.
 
-Tip: request a written scope before work starts.
+FAQ: Can bed bugs spread room-to-room in Antioch, IL row homes? Wall voids and shared ducts accelerate transfer.
 
-Our service coordination centers on Antioch, IL coverage windows and verified intake details.
+Fire ant mounds in Antioch, IL drive seams need granule rotation after irrigation events.
 
-Field note: Connection points spot-checked where accessible (ZIP 60002 zone).
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Dispatch sectors sampled: ZIP 60002 (county grid: Lake County).
+Tip: Keep pet food elevated and sealed between service visits.
+
+Carpenter ant frass in Antioch, IL window sills may indicate moisture-softened framing.
+
+Attic fogging in Antioch, IL requires combustion appliance shutoff verification first.
+
+Bird mites in Antioch, IL exhaust vents can persist after host nests are removed.
+
+Risk flag: Overwatered Antioch, IL planters can restart ant bridges within two weeks.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Tip: Trim vegetation 12 inches from vinyl panels to reduce ant bridges.
+
+Intercept log 925043: bed bug intercept count staged before Antioch, IL interior gel zones.
+
+Perimeter dossier 925043: bait station anchor map and mulch bridge risk flagged for Antioch, IL county Lake County (ZIP 60002).
+
+On-site sector marker: Lake County / ZIP 60002 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60002-40ef8d90

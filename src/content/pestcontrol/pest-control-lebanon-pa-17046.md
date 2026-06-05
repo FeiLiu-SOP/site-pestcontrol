@@ -11,26 +11,37 @@ lng: -76.4200
 zipSample: ["17046", "17042"]
 zipCodes: ["17042", "17046"]
 localPaths: ["Lebanon County / primary ZIP 17046", "Lebanon County / elevation 463 ft band", "Lebanon County / ZIP 17042 sector", "Lebanon County / coords 40.3400, -76.4200", "Lebanon County / ZIP 17046 sector"]
-zillowHomeValueUsd: 258512
 ---
 
-**Engineering Notice for Lebanon:** Structural loading calculated based on 463 ft terrain assessment. Regional dispatch grid: Lebanon County.
+**Engineering Notice for Lebanon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lebanon County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Date bait station lids when servicing Lebanon, PA perimeter lines.
 
-Tip: address recurring issues early to prevent bigger damage.
+Stink bug overwinter seams in Lebanon, PA exterior cladding laps require exclusion foam rated for UV exposure.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Monitoring boards in Lebanon, PA crawlspaces stay 72 hours before snap traps are reset.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Lebanon, PA, but intake notes help reduce delays.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Cluster fly attic staging in Lebanon, PA peaks on south-facing voids after sunny thaw days.
 
-Field note: Wind exposure category reviewed for ZIP sector 17046/17042.
+Yellow jacket nests in Lebanon, PA soffit cavities peak in late summer routing windows.
 
-Field note: Moisture pathway inspection logged near ZIP 17046/17042 intake.
+Attic fogging in Lebanon, PA requires combustion appliance shutoff verification first.
 
-Dispatch sectors sampled: ZIP 17046, 17042 (county grid: Lebanon County).
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Attic misting in Lebanon, PA requires combustion air clearance verified before fans restart.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Lebanon, PA.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Seasonal cue 113581: cluster fly attic staging reviewed for Lebanon, PA soffit cavities.
+
+Primary postal anchor 17046 with multi-ZIP overlap in Lebanon; field packets tag Lebanon County for county-grid reconciliation.
 
 Service reference: PA-17046-507f0b43

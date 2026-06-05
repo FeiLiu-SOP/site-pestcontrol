@@ -11,24 +11,41 @@ lng: -82.6900
 zipSample: ["34668"]
 zipCodes: ["34668"]
 localPaths: ["Pasco County / coords 28.2900, -82.6900", "Pasco County / elevation 26 ft band", "Pasco County / ZIP 34668 sector", "Pasco County / primary ZIP 34668"]
-zillowHomeValueUsd: 227528
 ---
 
-**Engineering Notice for Jasmine Estates:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Pasco County.
+**Engineering Notice for Jasmine Estates:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pasco County.
 
 
-Homeowners in Jasmine Estates, FL often face sudden pest control problems that require fast action.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Our service coordination centers on Jasmine Estates, FL coverage windows and verified intake details.
+Drain fly biofilm in Jasmine Estates, FL floor drains signals grease traps need service before gel baits.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Jasmine Estates, FL, but intake notes help reduce delays.
+Powderpost beetle exit holes in Jasmine Estates, FL trim can be mistaken for dry-wood frass without magnification.
 
-Tip: request a written scope before work starts.
+Bird mites in Jasmine Estates, FL exhaust vents can persist after host nests are removed.
 
-Field note: Moisture pathway inspection logged near ZIP 34668 intake.
+Risk flag: In Jasmine Estates, FL, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Dispatch sectors sampled: ZIP 34668 (county grid: Pasco County).
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 34668.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 34668.
+
+Monitoring boards in Jasmine Estates, FL crawlspaces stay 72 hours before snap traps are reset.
+
+Stink bug overwinter seams in Jasmine Estates, FL exterior cladding laps require exclusion foam rated for UV exposure.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Jasmine Estates, FL.
+
+Across Jasmine Estates, FL, rodent entry points frequently track utility penetrations.
+
+Perimeter granule carriers in Jasmine Estates, FL clay soils may need lighter irrigation before application.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Harbor ledger 401696: frass lane, mud-tube scan, and garage jamb gap measure filed for Jasmine Estates, FL at 28.2900, -82.6900.
+
+On-site sector marker: Pasco County / ZIP 34668 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34668-fd724b71

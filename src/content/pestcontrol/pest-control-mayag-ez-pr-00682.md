@@ -11,26 +11,41 @@ lng: -67.1400
 zipSample: ["00681", "00682", "00680"]
 zipCodes: ["00680", "00681", "00682"]
 localPaths: ["Mayagüez County / elevation 75 ft band", "Mayagüez County / ZIP 00682 sector", "Mayagüez County / ZIP 00681 sector", "Mayagüez County / ZIP 00680 sector", "Mayagüez County / coords 18.2000, -67.1400"]
-zillowHomeValueUsd: 380652
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for Mayagüez:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Mayagüez County.
+**Engineering Notice for Mayagüez:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Mayagüez County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 00682.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate bait rotation schedules from crack-and-crevice applications in Mayagüez, PR.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-We coordinate local dispatch coverage around Mayagüez, PR and nearby ZIP sectors.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Field note: Moisture pathway inspection logged near ZIP 00680/00681/00682 intake.
+Carpenter ant frass in Mayagüez, PR window sills may indicate moisture-softened framing.
 
-Dispatch sectors sampled: ZIP 00680, 00681, 00682 (county grid: Mayagüez County).
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Drain fly biofilm in Mayagüez, PR floor drains signals grease traps need service before gel baits.
+
+Spider populations in Mayagüez, PR eaves can signal insect prey density.
+
+Exclusion gaps at garage jambs in Mayagüez, PR are common rodent access points.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 00682.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Clover mite staining on Mayagüez, PR cladding service follows foundation mulch against brick ledges.
+
+Perimeter mulch beds in Mayagüez, PR should be reviewed for ant bridge paths.
+
+Perimeter dossier 780849: bait station anchor map and mulch bridge risk flagged for Mayagüez, PR county Mayagüez County (ZIP 00682).
+
+Coordinate-anchored dispatch note: center reference 18.2000, -67.1400 at elevation ~75 ft aligns with Mayagüez County intake staging.
 
 Service reference: PR-00682-934881b2

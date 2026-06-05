@@ -11,24 +11,41 @@ lng: -77.8000
 zipSample: ["27804", "27803", "27801"]
 zipCodes: ["27803", "27804", "27801"]
 localPaths: ["Nash County / elevation 102 ft band", "Nash County / ZIP 27801 sector", "Nash County / ZIP 27804 sector", "Nash County / primary ZIP 27803", "Nash County / ZIP 27803 sector"]
-zillowHomeValueUsd: 206735
 ---
 
-**Engineering Notice for Rocky Mount:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Nash County.
+**Engineering Notice for Rocky Mount:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nash County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Earwig harborages in Rocky Mount, NC meter boxes often follow drip irrigation overspray.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Date bait station lids when servicing Rocky Mount, NC perimeter lines.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Rocky Mount, NC, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-We coordinate local dispatch coverage around Rocky Mount, NC and nearby ZIP sectors.
+Attic insulation disturbance in Rocky Mount, NC may indicate wildlife nesting routes.
 
-Field note: Access points and staging constraints recorded for ZIP 27803/27804/27801 coverage.
+Yellow jacket nests in Rocky Mount, NC soffit cavities peak in late summer routing windows.
 
-Dispatch sectors sampled: ZIP 27803, 27804, 27801 (county grid: Nash County).
+Spider populations in Rocky Mount, NC eaves can signal insect prey density.
+
+In Rocky Mount, NC, subterranean termite swarms often follow warm rain windows.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Exclusion gaps at garage jambs in Rocky Mount, NC are common rodent access points.
+
+We coordinate Rocky Mount, NC pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Material note: Perimeter granules in Rocky Mount, NC may need reapplication after heavy irrigation.
+
+Step: record station placement maps for follow-up visits.
+
+Perimeter dossier 770321: bait station anchor map and mulch bridge risk flagged for Rocky Mount, NC county Nash County (ZIP 27803).
+
+Zone map 770321: attic insulation disturbance trace and pantry pest source logged for Rocky Mount, NC sector 27803.
+
+On-site sector marker: Nash County / primary ZIP 27803 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-27803-5681126e

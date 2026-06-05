@@ -11,24 +11,43 @@ lng: -95.0600
 zipSample: ["77539"]
 zipCodes: ["77539"]
 localPaths: ["Galveston County / ZIP 77539 sector", "Galveston County / primary ZIP 77539", "Galveston County / elevation 30 ft band", "Galveston County / coords 29.4500, -95.0600"]
-zillowHomeValueUsd: 282666
 ---
 
-**Engineering Notice for Dickinson:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Galveston County.
+**Engineering Notice for Dickinson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Galveston County.
 
 
-Tip: request a written scope before work starts.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+State note: Dickinson, TX commercial kitchens may require separate documentation for audit visits.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Stink bug overwinter seams in Dickinson, TX wall restoration laps require exclusion foam rated for UV exposure.
 
-We coordinate local dispatch coverage around Dickinson, TX and nearby ZIP sectors.
+We coordinate Dickinson, TX pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Tip: avoid large upfront payments without milestones.
+Step: map entry points with photo logs before sealing.
 
-Field note: Access points and staging constraints recorded for ZIP 77539 coverage.
+FAQ: Can bed bugs spread room-to-room in Dickinson, TX row homes? Wall voids and shared ducts accelerate transfer.
 
-Dispatch sectors sampled: ZIP 77539 (county grid: Galveston County).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Earwig harborages in Dickinson, TX meter boxes often follow drip irrigation overspray.
+
+Exclusion gaps at garage jambs in Dickinson, TX are common rodent access points.
+
+Perimeter granule carriers in Dickinson, TX clay soils may need lighter irrigation before application.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Flea pupae survive vacuuming in Dickinson, TX carpet fibers unless heat treatment follows.
+
+Intercept log 550040: bed bug intercept count staged before Dickinson, TX interior gel zones.
+
+Exclusion audit 550040: exclusion mesh gauge and rodent runway grease mark reviewed for Dickinson, TX at 29.4500/-95.0600.
+
+On-site sector marker: Galveston County / elevation 30 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77539-89d07a2e

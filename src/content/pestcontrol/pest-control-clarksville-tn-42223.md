@@ -11,25 +11,37 @@ lng: -87.3400
 zipSample: ["37043", "37041", "37042", "42223", "37044"]
 zipCodes: ["37041", "37040", "37042", "42223", "37043", "37044"]
 localPaths: ["Montgomery County / elevation 495 ft band", "Montgomery County / ZIP 37042 sector", "Montgomery County / coords 36.5700, -87.3400", "Montgomery County / ZIP 37044 sector", "Montgomery County / ZIP 37043 sector"]
-zillowHomeValueUsd: 292146
 ---
 
-**Engineering Notice for Clarksville:** Structural loading calculated based on 495 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Clarksville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: What is exclusion? Without sealing entry points in Clarksville, TN, pressure often rebuilds.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Clarksville, TN, but intake notes help reduce delays.
+Perimeter granule carriers in Clarksville, TN clay soils may need lighter irrigation before application.
 
-Tip: compare at least two estimates for scope and timeline.
+Fire ant mounds in Clarksville, TN drive seams need granule rotation after irrigation events.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 42223.
+IGR packets for Clarksville, TN roach cycles should be dated on station lids.
 
-Tip: confirm licensing and insurance before approving work.
+Step: label treatment zones for occupant re-entry timing.
 
-Field note: Access points and staging constraints recorded for ZIP 37043/37042/37040 coverage.
+Carpenter ant frass in Clarksville, TN window sills may indicate moisture-softened framing.
 
-Dispatch sectors sampled: ZIP 37043, 37042, 37040, 37044, 37041 (county grid: Montgomery County).
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Clarksville, TN.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Stored cardboard in Clarksville, TN garages can accelerate pantry pest cycles.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 42223.
+
+FAQ: Can bed bugs spread room-to-room in Clarksville, TN row homes? Wall voids and shared ducts accelerate transfer.
+
+Exclusion audit 783020: exclusion mesh gauge and rodent runway grease mark reviewed for Clarksville, TN at 36.5700/-87.3400.
+
+On-site sector marker: Montgomery County / elevation 495 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-42223-b5e90a56

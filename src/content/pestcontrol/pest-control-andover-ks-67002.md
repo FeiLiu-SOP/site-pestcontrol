@@ -11,24 +11,41 @@ lng: -97.1400
 zipSample: ["67002"]
 zipCodes: ["67002"]
 localPaths: ["Butler County / primary ZIP 67002", "Butler County / elevation 1345 ft band", "Butler County / coords 37.6900, -97.1400", "Butler County / ZIP 67002 sector"]
-zillowHomeValueUsd: 325665
 ---
 
-**Engineering Notice for Andover:** Structural loading calculated based on 1345 ft terrain assessment. Regional dispatch grid: Butler County.
+**Engineering Notice for Andover:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Butler County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Why schedule quarterly instead of monthly in Andover, KS? Species pressure and label intervals dictate cadence.
 
-We coordinate local dispatch coverage around Andover, KS and nearby ZIP sectors.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic fogging in Andover, KS requires combustion appliance shutoff verification first.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Andover, KS, but intake notes help reduce delays.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 67002.
+FAQ: Can bed bugs spread room-to-room in Andover, KS row homes? Wall voids and shared ducts accelerate transfer.
 
-Dispatch sectors sampled: ZIP 67002 (county grid: Butler County).
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Stink bug overwinter seams in Andover, KS wall restoration laps require exclusion foam rated for UV exposure.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+State note: Andover, KS commercial kitchens may require separate documentation for audit visits.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Flea pupae survive vacuuming in Andover, KS carpet fibers unless heat treatment follows.
+
+Zone map 899837: attic insulation disturbance trace and pantry pest source logged for Andover, KS sector 67002.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~1345 ft across the Butler County area. Coordinates: 37.6900, -97.1400. ZIP sample: 67002. Logistics priority: Serving residential sectors across Butler County and north-east ZIP 67002 grid.
 
 Service reference: KS-67002-0e6ffc45

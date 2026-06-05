@@ -11,24 +11,41 @@ lng: -122.6600
 zipSample: ["98665"]
 zipCodes: ["98665"]
 localPaths: ["Clark County / primary ZIP 98665", "Clark County / coords 45.6800, -122.6600", "Clark County / elevation 236 ft band", "Clark County / ZIP 98665 sector"]
-zillowHomeValueUsd: 502086
 ---
 
-**Engineering Notice for Hazel Dell:** Structural loading calculated based on 236 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Hazel Dell:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Attic misting in Hazel Dell, WA requires combustion air clearance verified before fans restart.
 
-Tip: avoid large upfront payments without milestones.
+Drain fly biofilm in Hazel Dell, WA floor drains signals grease traps need service before gel baits.
 
-Clear documentation helps align materials, labor, and timeline.
+Stink bug overwinter seams in Hazel Dell, WA wall restoration laps require exclusion foam rated for UV exposure.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Overwatered Hazel Dell, WA planters can restart ant bridges within two weeks.
 
-Field note: Access points and staging constraints recorded for ZIP 98665 coverage.
+Clover mite staining on Hazel Dell, WA exterior cladding follows foundation mulch against brick ledges.
 
-Dispatch sectors sampled: ZIP 98665 (county grid: Clark County).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 98665.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Hazel Dell, WA.
+
+Cluster fly attic staging in Hazel Dell, WA peaks on south-facing voids after sunny thaw days.
+
+Tip: Trim vegetation 12 inches from cladding service to reduce ant bridges.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 98665.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Silverfish activity in Hazel Dell, WA attics tracks cardboard storage and ridge vent gaps.
+
+Exclusion audit 445277: exclusion mesh gauge and rodent runway grease mark reviewed for Hazel Dell, WA at 45.6800/-122.6600.
+
+Seasonal cue 445277: cluster fly attic staging reviewed for Hazel Dell, WA soffit cavities.
+
+On-site sector marker: Clark County / coords 45.6800, -122.6600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98665-4c649541

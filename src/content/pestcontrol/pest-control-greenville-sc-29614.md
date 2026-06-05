@@ -11,26 +11,43 @@ lng: -82.3600
 zipSample: ["29604", "29616", "29602", "29609", "29607"]
 zipCodes: ["29609", "29616", "29604", "29602", "29605", "29614", "29603", "29601", "29607", "29612"]
 localPaths: ["Greenville County / primary ZIP 29614", "Greenville County / ZIP 29616 sector", "Greenville County / ZIP 29607 sector", "Greenville County / ZIP 29602 sector", "Greenville County / coords 34.8400, -82.3600"]
-zillowHomeValueUsd: 380732
 ---
 
-**Engineering Notice for Greenville:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Greenville County.
+**Engineering Notice for Greenville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Greenville County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: What is exclusion? Without sealing entry points in Greenville, SC, pressure often rebuilds.
 
-Tip: avoid large upfront payments without milestones.
+Clover mite staining on Greenville, SC vinyl panels follows foundation mulch against brick ledges.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Perimeter granules in Greenville, SC may need reapplication after heavy irrigation.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Greenville, SC, but intake notes help reduce delays.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 29614.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Access points and staging constraints recorded for ZIP 29609/29607/29614 coverage.
+Bird mites in Greenville, SC exhaust vents can persist after host nests are removed.
 
-Field note: Connection points spot-checked where accessible (ZIP 29609/29607/29614 zone).
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Dispatch sectors sampled: ZIP 29609, 29607, 29614, 29603, 29602 (county grid: Greenville County).
+Cluster fly attic staging in Greenville, SC peaks on south-facing voids after sunny thaw days.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Greenville, SC.
+
+Powderpost beetle exit holes in Greenville, SC trim can be mistaken for dry-wood frass without magnification.
+
+Flea pupae survive vacuuming in Greenville, SC carpet fibers unless heat treatment follows.
+
+Yellow jacket nests in Greenville, SC soffit cavities peak in late summer routing windows.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Intercept log 522257: bed bug intercept count staged before Greenville, SC interior gel zones.
+
+Seasonal cue 522257: cluster fly attic staging reviewed for Greenville, SC soffit cavities.
+
+On-site sector marker: Greenville County / ZIP 29604 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29614-b85d37aa

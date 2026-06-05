@@ -11,26 +11,41 @@ lng: -84.6500
 zipSample: ["30122"]
 zipCodes: ["30122"]
 localPaths: ["Douglas County / primary ZIP 30122", "Douglas County / ZIP 30122 sector", "Douglas County / elevation 988 ft band", "Douglas County / coords 33.7800, -84.6500"]
-zillowHomeValueUsd: 275771
 ---
 
-**Engineering Notice for Lithia Springs:** Structural loading calculated based on 988 ft terrain assessment. Regional dispatch grid: Douglas County.
+**Engineering Notice for Lithia Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Douglas County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Perimeter mulch beds in Lithia Springs, GA should be reviewed for ant bridge paths.
 
-We coordinate local dispatch coverage around Lithia Springs, GA and nearby ZIP sectors.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Wind exposure category reviewed for ZIP sector 30122.
+FAQ: Why do pests return after spraying? Without sealing entry points in Lithia Springs, GA, pressure often rebuilds.
 
-Field note: Access points and staging constraints recorded for ZIP 30122 coverage.
+Step: map entry points with photo logs before sealing.
 
-Dispatch sectors sampled: ZIP 30122 (county grid: Douglas County).
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Wildlife odors in Lithia Springs, GA crawlspaces may attract secondary pest activity.
+
+Spider populations in Lithia Springs, GA eaves can signal insect prey density.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Lithia Springs, GA.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 30122.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Lithia Springs, GA.
+
+Seasonal cue 240749: cluster fly attic staging reviewed for Lithia Springs, GA soffit cavities.
+
+Exclusion audit 240749: exclusion mesh gauge and rodent runway grease mark reviewed for Lithia Springs, GA at 33.7800/-84.6500.
+
+Primary postal anchor 30122 with multi-ZIP overlap in Lithia Springs; field packets tag Douglas County for county-grid reconciliation.
 
 Service reference: GA-30122-a7109eee

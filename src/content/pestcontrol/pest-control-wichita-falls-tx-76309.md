@@ -11,24 +11,39 @@ lng: -98.5300
 zipSample: ["76306", "76305", "76310", "76309", "76301"]
 zipCodes: ["76307", "76305", "76302", "76301", "76306", "76309", "76310", "76311", "76308"]
 localPaths: ["Wichita County / elevation 961 ft band", "Wichita County / ZIP 76310 sector", "Wichita County / ZIP 76301 sector", "Wichita County / ZIP 76309 sector", "Wichita County / primary ZIP 76309"]
-zillowHomeValueUsd: 121392
 ---
 
-**Engineering Notice for Wichita Falls:** Structural loading calculated based on 961 ft terrain assessment. Regional dispatch grid: Wichita County.
+**Engineering Notice for Wichita Falls:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wichita County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: record station placement maps for follow-up visits.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Yellow jacket nests in Wichita Falls, TX soffit cavities peak in late summer routing windows.
 
-Local conditions in Wichita Falls, TX can affect timelines and material choices.
+Mud dauber nests in Wichita Falls, TX porch ceilings are benign but signal prey density for spiders.
 
-Tip: address recurring issues early to prevent bigger damage.
+We coordinate Wichita Falls, TX pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Wichita Falls, TX, but intake notes help reduce delays.
+Stink bug overwinter seams in Wichita Falls, TX exterior cladding laps require exclusion foam rated for UV exposure.
 
-Field note: Access points and staging constraints recorded for ZIP 76302/76301/76306 coverage.
+Carpenter ant frass in Wichita Falls, TX window sills may indicate moisture-softened framing.
 
-Dispatch sectors sampled: ZIP 76302, 76301, 76306, 76307, 76305 (county grid: Wichita County).
+Wildlife odors in Wichita Falls, TX crawlspaces may attract secondary pest activity.
+
+Across Wichita Falls, TX, rodent entry points frequently track utility penetrations.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 76309.
+
+Attic insulation disturbance in Wichita Falls, TX may indicate wildlife nesting routes.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Wichita Falls, TX.
+
+Exclusion audit 555795: exclusion mesh gauge and rodent runway grease mark reviewed for Wichita Falls, TX at 33.9100/-98.5300.
+
+On-site sector marker: Wichita County / ZIP 76302 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76309-0c7d075c

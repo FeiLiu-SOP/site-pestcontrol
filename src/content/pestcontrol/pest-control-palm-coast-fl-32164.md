@@ -11,26 +11,43 @@ lng: -81.2500
 zipSample: ["32142", "32164", "32143", "32136", "32135"]
 zipCodes: ["32136", "32142", "32143", "32135", "32164", "32137"]
 localPaths: ["Flagler County / elevation 46 ft band", "Flagler County / ZIP 32143 sector", "Flagler County / ZIP 32142 sector", "Flagler County / ZIP 32136 sector", "Flagler County / coords 29.5400, -81.2500"]
-zillowHomeValueUsd: 322301
 ---
 
-**Engineering Notice for Palm Coast:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Flagler County.
+**Engineering Notice for Palm Coast:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Flagler County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+IGR packets for Palm Coast, FL roach cycles should be dated on station lids.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Powderpost beetle exit holes in Palm Coast, FL trim can be mistaken for dry-wood frass without magnification.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-We coordinate local dispatch coverage around Palm Coast, FL and nearby ZIP sectors.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Field note: Moisture pathway inspection logged near ZIP 32136/32143/32135 intake.
+Yellow jacket nests in Palm Coast, FL soffit cavities peak in late summer routing windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 32136/32143/32135.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Dispatch sectors sampled: ZIP 32136, 32143, 32135, 32137, 32142 (county grid: Flagler County).
+Tip: Keep pet food elevated and sealed between service visits.
+
+State note: Palm Coast, FL commercial kitchens may require separate documentation for audit visits.
+
+In Palm Coast, FL, subterranean termite swarms often follow warm rain windows.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Dry-wood termite pellets in Palm Coast, FL attics may appear before exterior mud tubes.
+
+Attic misting in Palm Coast, FL requires combustion air clearance verified before fans restart.
+
+Zone map 402533: attic insulation disturbance trace and pantry pest source logged for Palm Coast, FL sector 32164.
+
+Species trace 402533: re-entry interval label and conducive moisture note keyed to Palm Coast, FL elevation 46 ft.
+
+On-site sector marker: Flagler County / ZIP 32137 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32164-30bed37c

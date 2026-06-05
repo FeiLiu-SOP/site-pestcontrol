@@ -11,26 +11,39 @@ lng: -115.0400
 zipSample: ["89122"]
 zipCodes: ["89122"]
 localPaths: ["Clark County / ZIP 89122 sector", "Clark County / elevation 1667 ft band", "Clark County / coords 36.1000, -115.0400", "Clark County / primary ZIP 89122"]
-zillowHomeValueUsd: 356245
 ---
 
-**Engineering Notice for Whitney:** Structural loading calculated based on 1667 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Whitney:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: label treatment zones for occupant re-entry timing.
 
-Tip: request a written scope before work starts.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Whitney, NV.
 
-Tip: address recurring issues early to prevent bigger damage.
+Exclusion gaps at garage jambs in Whitney, NV are common rodent access points.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Field note: Wind exposure category reviewed for ZIP sector 89122.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Access points and staging constraints recorded for ZIP 89122 coverage.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Dispatch sectors sampled: ZIP 89122 (county grid: Clark County).
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+State note: Whitney, NV commercial kitchens may require separate documentation for audit visits.
+
+Mosquito breeding in Whitney, NV catch basins can amplify perimeter callbacks.
+
+Intercept log 699754: bed bug intercept count staged before Whitney, NV interior gel zones.
+
+Coordinate-anchored dispatch note: center reference 36.1000, -115.0400 at elevation ~1667 ft aligns with Clark County intake staging.
 
 Service reference: NV-89122-f2783f4b

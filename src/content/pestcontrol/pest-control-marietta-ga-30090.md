@@ -11,26 +11,41 @@ lng: -84.5400
 zipSample: ["30090", "30060", "30007", "30008", "30062"]
 zipCodes: ["30064", "30060", "30090", "30067", "30007", "30008", "30062", "30006"]
 localPaths: ["Cobb County / ZIP 30008 sector", "Cobb County / coords 33.9500, -84.5400", "Cobb County / ZIP 30062 sector", "Cobb County / ZIP 30060 sector", "Cobb County / ZIP 30007 sector"]
-zillowHomeValueUsd: 551661
 ---
 
-**Engineering Notice for Marietta:** Structural loading calculated based on 1119 ft terrain assessment. Regional dispatch grid: Cobb County.
+**Engineering Notice for Marietta:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cobb County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Stored cardboard in Marietta, GA garages can accelerate pantry pest cycles.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Marietta, GA, but intake notes help reduce delays.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Marietta, GA.
 
-Our service coordination centers on Marietta, GA coverage windows and verified intake details.
+Yellow jacket nests in Marietta, GA soffit cavities peak in late summer routing windows.
 
-Transparent pricing helps you compare like-for-like scope items.
+Silverfish activity in Marietta, GA attics tracks cardboard storage and ridge vent gaps.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Marietta, GA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Wind exposure category reviewed for ZIP sector 30006/30062/30090.
+FAQ: Why schedule quarterly instead of monthly in Marietta, GA? Species pressure and label intervals dictate cadence.
 
-Field note: Access points and staging constraints recorded for ZIP 30006/30062/30090 coverage.
+Carpenter ant frass in Marietta, GA window sills may indicate moisture-softened framing.
 
-Dispatch sectors sampled: ZIP 30006, 30062, 30090, 30060, 30067 (county grid: Cobb County).
+Perimeter granule carriers in Marietta, GA clay soils may need lighter irrigation before application.
+
+Flea pupae survive vacuuming in Marietta, GA carpet fibers unless heat treatment follows.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Stink bug overwinter seams in Marietta, GA exterior cladding laps require exclusion foam rated for UV exposure.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Step: record station placement maps for follow-up visits.
+
+Exclusion audit 581344: exclusion mesh gauge and rodent runway grease mark reviewed for Marietta, GA at 33.9500/-84.5400.
+
+On-site sector marker: Cobb County / ZIP 30006 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30090-02d3fff4

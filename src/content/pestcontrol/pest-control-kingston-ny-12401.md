@@ -11,26 +11,39 @@ lng: -74.0000
 zipSample: ["12401", "12402"]
 zipCodes: ["12402", "12401"]
 localPaths: ["Ulster County / primary ZIP 12401", "Ulster County / ZIP 12401 sector", "Ulster County / coords 41.9300, -74.0000", "Ulster County / ZIP 12402 sector", "Ulster County / elevation 190 ft band"]
-zillowHomeValueUsd: 380921
 ---
 
-**Engineering Notice for Kingston:** Structural loading calculated based on 190 ft terrain assessment. Regional dispatch grid: Ulster County.
+**Engineering Notice for Kingston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ulster County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Attic fogging in Kingston, NY requires combustion appliance shutoff verification first.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Kingston, NY, but intake notes help reduce delays.
+Fire ant mounds in Kingston, NY drive seams need granule rotation after irrigation events.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Perimeter granules in Kingston, NY may need reapplication after heavy irrigation.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Field note: Access points and staging constraints recorded for ZIP 12402/12401 coverage.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Kingston, NY.
 
-Field note: Connection points spot-checked where accessible (ZIP 12402/12401 zone).
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Dispatch sectors sampled: ZIP 12402, 12401 (county grid: Ulster County).
+Step: record station placement maps for follow-up visits.
+
+FAQ: Why schedule quarterly instead of monthly in Kingston, NY? Species pressure and label intervals dictate cadence.
+
+Attic misting in Kingston, NY requires combustion air clearance verified before fans restart.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Intercept log 137258: bed bug intercept count staged before Kingston, NY interior gel zones.
+
+Harbor ledger 137258: frass lane, mud-tube scan, and garage jamb gap measure filed for Kingston, NY at 41.9300, -74.0000.
+
+Regional mesh label Ulster County: moisture and logistics baselines are keyed to Kingston, NY before niche-specific work begins.
 
 Service reference: NY-12401-6e69da2c

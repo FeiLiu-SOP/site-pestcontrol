@@ -11,24 +11,37 @@ lng: -87.9200
 zipSample: ["60078", "60090"]
 zipCodes: ["60090", "60078"]
 localPaths: ["Cook County / coords 42.1300, -87.9200", "Cook County / ZIP 60090 sector", "Cook County / primary ZIP 60090", "Cook County / elevation 653 ft band", "Cook County / ZIP 60078 sector"]
-zillowHomeValueUsd: 305424
 ---
 
-**Engineering Notice for Wheeling:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Wheeling:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-We coordinate local dispatch coverage around Wheeling, IL and nearby ZIP sectors.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: compare at least two estimates for scope and timeline.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Local conditions in Wheeling, IL can affect timelines and material choices.
+Step: label treatment zones for occupant re-entry timing.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Wheeling, IL, but intake notes help reduce delays.
+Carpenter ant frass in Wheeling, IL window sills may indicate moisture-softened framing.
 
-Field note: Wind exposure category reviewed for ZIP sector 60090/60078.
+Request an inspection with species ID before treatment. Serving ZIP Code: 60090.
 
-Dispatch sectors sampled: ZIP 60090, 60078 (county grid: Cook County).
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Wheeling, IL.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Wheeling, IL, pressure often rebuilds.
+
+We coordinate Wheeling, IL pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Risk flag: Overwatered Wheeling, IL planters can restart ant bridges within two weeks.
+
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+Clover mite staining on Wheeling, IL wall restoration follows foundation mulch against brick ledges.
+
+Zone map 455598: attic insulation disturbance trace and pantry pest source logged for Wheeling, IL sector 60090.
+
+Regional mesh label Cook County: moisture and logistics baselines are keyed to Wheeling, IL before niche-specific work begins.
 
 Service reference: IL-60090-58fe9200

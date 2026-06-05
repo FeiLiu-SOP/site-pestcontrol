@@ -11,26 +11,41 @@ lng: -70.8800
 zipSample: ["03821", "03820"]
 zipCodes: ["03821", "03820"]
 localPaths: ["Strafford County / ZIP 03820 sector", "Strafford County / coords 43.1900, -70.8800", "Strafford County / ZIP 03821 sector", "Strafford County / elevation 125 ft band", "Strafford County / primary ZIP 03820"]
-zillowHomeValueUsd: 537679
 ---
 
-**Engineering Notice for Dover:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Strafford County.
+**Engineering Notice for Dover:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Strafford County.
 
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Dover, NH.
 
-Our service coordination centers on Dover, NH coverage windows and verified intake details.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Humidity in Dover, NH can sustain cockroach harborages behind appliance voids.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Local conditions in Dover, NH can affect timelines and material choices.
+Attic fogging in Dover, NH requires combustion appliance shutoff verification first.
 
-Field note: Wind exposure category reviewed for ZIP sector 03820/03821.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 03820.
 
-Field note: Access points and staging constraints recorded for ZIP 03820/03821 coverage.
+Cluster fly attic staging in Dover, NH peaks on south-facing voids after sunny thaw days.
 
-Dispatch sectors sampled: ZIP 03820, 03821 (county grid: Strafford County).
+Silverfish activity in Dover, NH attics tracks cardboard storage and ridge vent gaps.
+
+Carpenter ant frass in Dover, NH window sills may indicate moisture-softened framing.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Step: verify attic access safety before insulation disturbance.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Harbor ledger 542212: frass lane, mud-tube scan, and garage jamb gap measure filed for Dover, NH at 43.1900, -70.8800.
+
+Seasonal cue 542212: cluster fly attic staging reviewed for Dover, NH soffit cavities.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~125 ft across the Strafford County area. Coordinates: 43.1900, -70.8800. ZIP sample: 03821, 03820. Service perimeter note: Coverage extends through Strafford County with dispatch centered near ZIP 03820.
 
 Service reference: NH-03820-c36c9592

@@ -11,27 +11,39 @@ lng: -116.4900
 zipSample: ["83669"]
 zipCodes: ["83669"]
 localPaths: ["Ada County / ZIP 83669 sector", "Ada County / elevation 2467 ft band", "Ada County / primary ZIP 83669", "Ada County / coords 43.7000, -116.4900"]
-zillowHomeValueUsd: 575283
 ---
 
-**Engineering Notice for Star:** Structural loading calculated based on 2467 ft terrain assessment. Regional dispatch grid: Ada County.
+**Engineering Notice for Star:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ada County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Star, ID, but intake notes help reduce delays.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: What is exclusion? Without sealing entry points in Star, ID, pressure often rebuilds.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 83669.
+IGR packets for Star, ID roach cycles should be dated on station lids.
 
-Tip: avoid large upfront payments without milestones.
+Perimeter granule carriers in Star, ID clay soils may need lighter irrigation before application.
 
-Field note: Connection points spot-checked where accessible (ZIP 83669 zone).
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Wind exposure category reviewed for ZIP sector 83669.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 83669.
 
-Dispatch sectors sampled: ZIP 83669 (county grid: Ada County).
+Risk flag: In Star, ID, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+FAQ: Why schedule quarterly instead of monthly in Star, ID? Species pressure and label intervals dictate cadence.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Material note: Perimeter granules in Star, ID may need reapplication after heavy irrigation.
+
+Clover mite staining on Star, ID vinyl panels follows foundation mulch against brick ledges.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Zone map 865415: attic insulation disturbance trace and pantry pest source logged for Star, ID sector 83669.
+
+On-site sector marker: Ada County / coords 43.7000, -116.4900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: ID-83669-9bdaa245

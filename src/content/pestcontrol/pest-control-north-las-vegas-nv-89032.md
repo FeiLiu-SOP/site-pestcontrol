@@ -11,24 +11,39 @@ lng: -115.0900
 zipSample: ["89033", "89087", "89084", "89031", "89086"]
 zipCodes: ["89085", "89032", "89084", "89081", "89115", "89033", "89087", "89031", "89030", "89086"]
 localPaths: ["Clark County / primary ZIP 89032", "Clark County / ZIP 89084 sector", "Clark County / elevation 2096 ft band", "Clark County / ZIP 89031 sector", "Clark County / ZIP 89087 sector"]
-zillowHomeValueUsd: 392512
 ---
 
-**Engineering Notice for North Las Vegas:** Structural loading calculated based on 2096 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for North Las Vegas:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.
 
 
-Structured milestones protect both sides when scheduling work.
+In North Las Vegas, NV, subterranean termite swarms often follow warm rain windows.
 
-Local conditions in North Las Vegas, NV can affect timelines and material choices.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Tip: avoid large upfront payments without milestones.
+Clover mite staining on North Las Vegas, NV vinyl panels follows foundation mulch against brick ledges.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in North Las Vegas, NV, but intake notes help reduce delays.
+State note: North Las Vegas, NV commercial kitchens may require separate documentation for audit visits.
 
-Field note: Moisture pathway inspection logged near ZIP 89085/89030/89081 intake.
+FAQ: Why schedule quarterly instead of monthly in North Las Vegas, NV? Species pressure and label intervals dictate cadence.
 
-Dispatch sectors sampled: ZIP 89085, 89030, 89081, 89033, 89032 (county grid: Clark County).
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Material note: Perimeter granules in North Las Vegas, NV may need reapplication after heavy irrigation.
+
+FAQ: What is exclusion? Without sealing entry points in North Las Vegas, NV, pressure often rebuilds.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 89032.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Risk flag: In North Las Vegas, NV, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Seasonal cue 312791: cluster fly attic staging reviewed for North Las Vegas, NV soffit cavities.
+
+Exclusion audit 312791: exclusion mesh gauge and rodent runway grease mark reviewed for North Las Vegas, NV at 36.2900/-115.0900.
+
+Coordinate-anchored dispatch note: center reference 36.2900, -115.0900 at elevation ~2096 ft aligns with Clark County intake staging.
 
 Service reference: NV-89032-1e4a5f8b

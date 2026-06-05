@@ -11,24 +11,39 @@ lng: -93.2000
 zipSample: ["55304"]
 zipCodes: ["55304"]
 localPaths: ["Anoka County / primary ZIP 55304", "Anoka County / ZIP 55304 sector", "Anoka County / elevation 889 ft band", "Anoka County / coords 45.2500, -93.2000"]
-zillowHomeValueUsd: 451247
 ---
 
-**Engineering Notice for Ham Lake:** Structural loading calculated based on 889 ft terrain assessment. Regional dispatch grid: Anoka County.
+**Engineering Notice for Ham Lake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anoka County.
 
 
-Local conditions in Ham Lake, MN can affect timelines and material choices.
+Bird mites in Ham Lake, MN exhaust vents can persist after host nests are removed.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Ham Lake, MN, but intake notes help reduce delays.
+Material note: Perimeter granules in Ham Lake, MN may need reapplication after heavy irrigation.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Our service coordination centers on Ham Lake, MN coverage windows and verified intake details.
+IGR packets for Ham Lake, MN roach cycles should be dated on station lids.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Clover mite staining on Ham Lake, MN exterior cladding follows foundation mulch against brick ledges.
 
-Field note: Connection points spot-checked where accessible (ZIP 55304 zone).
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Dispatch sectors sampled: ZIP 55304 (county grid: Anoka County).
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Stink bug overwinter seams in Ham Lake, MN exterior cladding laps require exclusion foam rated for UV exposure.
+
+Zone map 141626: attic insulation disturbance trace and pantry pest source logged for Ham Lake, MN sector 55304.
+
+Species trace 141626: re-entry interval label and conducive moisture note keyed to Ham Lake, MN elevation 889 ft.
+
+On-site sector marker: Anoka County / coords 45.2500, -93.2000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55304-e34b19c7

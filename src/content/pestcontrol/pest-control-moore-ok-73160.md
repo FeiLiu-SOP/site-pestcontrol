@@ -11,26 +11,39 @@ lng: -97.4800
 zipSample: ["73160", "73153"]
 zipCodes: ["73160", "73153"]
 localPaths: ["Cleveland County / primary ZIP 73160", "Cleveland County / ZIP 73153 sector", "Cleveland County / elevation 1227 ft band", "Cleveland County / ZIP 73160 sector", "Cleveland County / coords 35.3300, -97.4800"]
-zillowHomeValueUsd: 223870
 ---
 
-**Engineering Notice for Moore:** Structural loading calculated based on 1227 ft terrain assessment. Regional dispatch grid: Cleveland County.
+**Engineering Notice for Moore:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cleveland County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Moore, OK, but intake notes help reduce delays.
+We coordinate Moore, OK pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-We coordinate local dispatch coverage around Moore, OK and nearby ZIP sectors.
+FAQ: Why schedule quarterly instead of monthly in Moore, OK? Species pressure and label intervals dictate cadence.
 
-Tip: request a written scope before work starts.
+Risk flag: Overwatered Moore, OK planters can restart ant bridges within two weeks.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Attic misting in Moore, OK requires combustion air clearance verified before fans restart.
 
-Local conditions in Moore, OK can affect timelines and material choices.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Wind exposure category reviewed for ZIP sector 73160/73153.
+IGR packets for Moore, OK roach cycles should be dated on station lids.
 
-Field note: Moisture pathway inspection logged near ZIP 73160/73153 intake.
+Risk flag: In Moore, OK, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Dispatch sectors sampled: ZIP 73160, 73153 (county grid: Cleveland County).
+Cluster fly attic staging in Moore, OK peaks on south-facing voids after sunny thaw days.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Mud dauber nests in Moore, OK porch ceilings are benign but signal prey density for spiders.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Attic insulation disturbance in Moore, OK may indicate wildlife nesting routes.
+
+Seasonal cue 524891: cluster fly attic staging reviewed for Moore, OK soffit cavities.
+
+Zone map 524891: attic insulation disturbance trace and pantry pest source logged for Moore, OK sector 73160.
+
+ZIP-corridor snapshot for Moore, OK: sampled sectors include 73160, 73153; county routing grid remains Cleveland County.
 
 Service reference: OK-73160-735cea3e

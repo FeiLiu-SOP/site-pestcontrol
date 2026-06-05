@@ -11,24 +11,39 @@ lng: -80.6400
 zipSample: ["28027", "28025", "28026"]
 zipCodes: ["28027", "28025", "28026"]
 localPaths: ["Cabarrus County / ZIP 28025 sector", "Cabarrus County / elevation 646 ft band", "Cabarrus County / ZIP 28027 sector", "Cabarrus County / primary ZIP 28025", "Cabarrus County / coords 35.3900, -80.6400"]
-zillowHomeValueUsd: 342338
 ---
 
-**Engineering Notice for Concord:** Structural loading calculated based on 646 ft terrain assessment. Regional dispatch grid: Cabarrus County.
+**Engineering Notice for Concord:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cabarrus County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Why do pests return after spraying? Without sealing entry points in Concord, NC, pressure often rebuilds.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Why schedule quarterly instead of monthly in Concord, NC? Species pressure and label intervals dictate cadence.
 
-Transparent pricing helps you compare like-for-like scope items.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Concord, NC, but intake notes help reduce delays.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Concord, NC.
 
-Tip: request a written scope before work starts.
+Seasonal pest pressure in Concord, NC shifts between moisture ants and dry-wood vectors.
 
-Field note: Access points and staging constraints recorded for ZIP 28026/28027/28025 coverage.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Dispatch sectors sampled: ZIP 28026, 28027, 28025 (county grid: Cabarrus County).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Risk flag: In Concord, NC, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Perimeter granule carriers in Concord, NC clay soils may need lighter irrigation before application.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Perimeter dossier 291629: bait station anchor map and mulch bridge risk flagged for Concord, NC county Cabarrus County (ZIP 28025).
+
+On-site sector marker: Cabarrus County / ZIP 28026 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28025-e50107c4

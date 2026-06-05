@@ -11,26 +11,41 @@ lng: -92.6600
 zipSample: ["71730", "71731"]
 zipCodes: ["71730", "71731"]
 localPaths: ["Union County / primary ZIP 71730", "Union County / ZIP 71730 sector", "Union County / coords 33.2200, -92.6600", "Union County / elevation 240 ft band", "Union County / ZIP 71731 sector"]
-zillowHomeValueUsd: 135034
 ---
 
-**Engineering Notice for El Dorado:** Structural loading calculated based on 240 ft terrain assessment. Regional dispatch grid: Union County.
+**Engineering Notice for El Dorado:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Union County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in El Dorado, AR, but intake notes help reduce delays.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Tip: request a written scope before work starts.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Tip: compare at least two estimates for scope and timeline.
+We coordinate El Dorado, AR pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Transparent pricing helps you compare like-for-like scope items.
+Perimeter granule carriers in El Dorado, AR clay soils may need lighter irrigation before application.
 
-We coordinate local dispatch coverage around El Dorado, AR and nearby ZIP sectors.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Field note: Access points and staging constraints recorded for ZIP 71731/71730 coverage.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 71730.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 71731/71730.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Dispatch sectors sampled: ZIP 71731, 71730 (county grid: Union County).
+Tip: Keep pet food elevated and sealed between service visits.
+
+Cluster fly attic staging in El Dorado, AR peaks on south-facing voids after sunny thaw days.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Dry-wood termite pellets in El Dorado, AR attics may appear before exterior mud tubes.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Yellow jacket nests in El Dorado, AR soffit cavities peak in late summer routing windows.
+
+Zone map 461397: attic insulation disturbance trace and pantry pest source logged for El Dorado, AR sector 71730.
+
+Perimeter dossier 461397: bait station anchor map and mulch bridge risk flagged for El Dorado, AR county Union County (ZIP 71730).
+
+On-site sector marker: Union County / ZIP 71731 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-71730-7b836200

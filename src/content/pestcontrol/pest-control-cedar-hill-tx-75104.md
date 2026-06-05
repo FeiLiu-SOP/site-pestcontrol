@@ -11,24 +11,39 @@ lng: -96.9600
 zipSample: ["75104", "75106"]
 zipCodes: ["75106", "75104"]
 localPaths: ["Dallas County / primary ZIP 75104", "Dallas County / ZIP 75104 sector", "Dallas County / ZIP 75106 sector", "Dallas County / elevation 810 ft band", "Dallas County / coords 32.5800, -96.9600"]
-zillowHomeValueUsd: 310977
 ---
 
-**Engineering Notice for Cedar Hill:** Structural loading calculated based on 810 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for Cedar Hill:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+State note: Cedar Hill, TX commercial kitchens may require separate documentation for audit visits.
 
-Homeowners in Cedar Hill, TX often face sudden pest control problems that require fast action.
+Humidity in Cedar Hill, TX can sustain cockroach harborages behind appliance voids.
 
-Our service coordination centers on Cedar Hill, TX coverage windows and verified intake details.
+Attic fogging in Cedar Hill, TX requires combustion appliance shutoff verification first.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Local conditions in Cedar Hill, TX can affect timelines and material choices.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Field note: Moisture pathway inspection logged near ZIP 75104/75106 intake.
+Monitoring boards in Cedar Hill, TX crawlspaces stay 72 hours before snap traps are reset.
 
-Dispatch sectors sampled: ZIP 75104, 75106 (county grid: Dallas County).
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Powderpost beetle exit holes in Cedar Hill, TX trim can be mistaken for dry-wood frass without magnification.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 75104.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Across Cedar Hill, TX, rodent entry points frequently track utility penetrations.
+
+Intercept log 994626: bed bug intercept count staged before Cedar Hill, TX interior gel zones.
+
+Perimeter dossier 994626: bait station anchor map and mulch bridge risk flagged for Cedar Hill, TX county Dallas County (ZIP 75104).
+
+On-site sector marker: Dallas County / primary ZIP 75104 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75104-33fdb9f6

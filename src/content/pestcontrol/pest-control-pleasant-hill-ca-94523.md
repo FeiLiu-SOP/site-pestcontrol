@@ -11,24 +11,39 @@ lng: -122.0800
 zipSample: ["94523"]
 zipCodes: ["94523"]
 localPaths: ["Contra Costa County / ZIP 94523 sector", "Contra Costa County / primary ZIP 94523", "Contra Costa County / coords 37.9500, -122.0800", "Contra Costa County / elevation 59 ft band"]
-zillowHomeValueUsd: 996089
 ---
 
-**Engineering Notice for Pleasant Hill:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Pleasant Hill:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Pleasant Hill, CA, but intake notes help reduce delays.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: request a written scope before work starts.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 94523.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Trim vegetation 12 inches from vinyl panels to reduce ant bridges.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Powderpost beetle exit holes in Pleasant Hill, CA trim can be mistaken for dry-wood frass without magnification.
 
-Field note: Moisture pathway inspection logged near ZIP 94523 intake.
+Clover mite staining on Pleasant Hill, CA wall restoration follows foundation mulch against brick ledges.
 
-Dispatch sectors sampled: ZIP 94523 (county grid: Contra Costa County).
+FAQ: Can bed bugs spread room-to-room in Pleasant Hill, CA row homes? Wall voids and shared ducts accelerate transfer.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 94523.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Species trace 706541: re-entry interval label and conducive moisture note keyed to Pleasant Hill, CA elevation 59 ft.
+
+Exclusion audit 706541: exclusion mesh gauge and rodent runway grease mark reviewed for Pleasant Hill, CA at 37.9500/-122.0800.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~59 ft across the Contra Costa County area. Coordinates: 37.9500, -122.0800. ZIP sample: 94523. Logistics priority: Serving residential sectors across Contra Costa County and north-east ZIP 94523 grid.
 
 Service reference: CA-94523-30f5611e

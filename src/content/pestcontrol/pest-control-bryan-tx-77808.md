@@ -11,24 +11,37 @@ lng: -96.3800
 zipSample: ["77801", "77803", "77805", "77802", "77808"]
 zipCodes: ["77805", "77802", "77807", "77803", "77801", "77806", "77808"]
 localPaths: ["Brazos County / ZIP 77805 sector", "Brazos County / primary ZIP 77808", "Brazos County / elevation 358 ft band", "Brazos County / ZIP 77803 sector", "Brazos County / ZIP 77802 sector"]
-zillowHomeValueUsd: 426175
 ---
 
-**Engineering Notice for Bryan:** Structural loading calculated based on 358 ft terrain assessment. Regional dispatch grid: Brazos County.
+**Engineering Notice for Bryan:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brazos County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-We coordinate local dispatch coverage around Bryan, TX and nearby ZIP sectors.
+Dry-wood termite pellets in Bryan, TX attics may appear before exterior mud tubes.
 
-Tip: avoid large upfront payments without milestones.
+Fire ant mounds in Bryan, TX drive seams need granule rotation after irrigation events.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Tip: request a written scope before work starts.
+IGR packets for Bryan, TX roach cycles should be dated on station lids.
 
-Field note: Wind exposure category reviewed for ZIP sector 77806/77807/77808.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Dispatch sectors sampled: ZIP 77806, 77807, 77808, 77805, 77803 (county grid: Brazos County).
+Earwig harborages in Bryan, TX meter boxes often follow drip irrigation overspray.
+
+Perimeter granule carriers in Bryan, TX clay soils may need lighter irrigation before application.
+
+Step: record station placement maps for follow-up visits.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Cluster fly attic staging in Bryan, TX peaks on south-facing voids after sunny thaw days.
+
+Tip: Date bait station lids when servicing Bryan, TX perimeter lines.
+
+Intercept log 445787: bed bug intercept count staged before Bryan, TX interior gel zones.
+
+Coordinate-anchored dispatch note: center reference 30.6600, -96.3800 at elevation ~358 ft aligns with Brazos County intake staging.
 
 Service reference: TX-77808-d03f26bb

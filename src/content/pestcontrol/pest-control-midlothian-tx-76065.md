@@ -11,24 +11,39 @@ lng: -96.9900
 zipSample: ["76065"]
 zipCodes: ["76065"]
 localPaths: ["Ellis County / elevation 787 ft band", "Ellis County / ZIP 76065 sector", "Ellis County / coords 32.4700, -96.9900", "Ellis County / primary ZIP 76065"]
-zillowHomeValueUsd: 455495
 ---
 
-**Engineering Notice for Midlothian:** Structural loading calculated based on 787 ft terrain assessment. Regional dispatch grid: Ellis County.
+**Engineering Notice for Midlothian:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ellis County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Our service coordination centers on Midlothian, TX coverage windows and verified intake details.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Connection points spot-checked where accessible (ZIP 76065 zone).
+Yellow jacket nests in Midlothian, TX soffit cavities peak in late summer routing windows.
 
-Dispatch sectors sampled: ZIP 76065 (county grid: Ellis County).
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 76065.
+
+Carpenter ant frass in Midlothian, TX window sills may indicate moisture-softened framing.
+
+Clover mite staining on Midlothian, TX exterior cladding follows foundation mulch against brick ledges.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Fire ant mounds in Midlothian, TX drive seams need granule rotation after irrigation events.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Perimeter dossier 609007: bait station anchor map and mulch bridge risk flagged for Midlothian, TX county Ellis County (ZIP 76065).
+
+Zone map 609007: attic insulation disturbance trace and pantry pest source logged for Midlothian, TX sector 76065.
+
+On-site sector marker: Ellis County / ZIP 76065 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76065-39db51e0

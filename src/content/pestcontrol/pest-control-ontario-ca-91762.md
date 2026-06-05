@@ -11,24 +11,37 @@ lng: -117.6100
 zipSample: ["91761", "91758", "91743", "91762", "91764"]
 zipCodes: ["91764", "91761", "91762", "91758", "91743"]
 localPaths: ["San Bernardino County / ZIP 91758 sector", "San Bernardino County / coords 34.0400, -117.6100", "San Bernardino County / ZIP 91743 sector", "San Bernardino County / primary ZIP 91762", "San Bernardino County / ZIP 91762 sector"]
-zillowHomeValueUsd: 684536
 ---
 
-**Engineering Notice for Ontario:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Ontario:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-We coordinate local dispatch coverage around Ontario, CA and nearby ZIP sectors.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 91762.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: separate bait rotation schedules from crack-and-crevice applications in Ontario, CA.
 
-Tip: address recurring issues early to prevent bigger damage.
+Earwig harborages in Ontario, CA meter boxes often follow drip irrigation overspray.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Seasonal pest pressure in Ontario, CA shifts between moisture ants and dry-wood vectors.
 
-Field note: Wind exposure category reviewed for ZIP sector 91743/91762/91758.
+Mud dauber nests in Ontario, CA porch ceilings are benign but signal prey density for spiders.
 
-Dispatch sectors sampled: ZIP 91743, 91762, 91758, 91764, 91761 (county grid: San Bernardino County).
+IGR packets for Ontario, CA roach cycles should be dated on station lids.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Across Ontario, CA, rodent entry points frequently track utility penetrations.
+
+Attic fogging in Ontario, CA requires combustion appliance shutoff verification first.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Flea pupae survive vacuuming in Ontario, CA carpet fibers unless heat treatment follows.
+
+Harbor ledger 143578: frass lane, mud-tube scan, and garage jamb gap measure filed for Ontario, CA at 34.0400, -117.6100.
+
+Coordinate-anchored dispatch note: center reference 34.0400, -117.6100 at elevation ~866 ft aligns with San Bernardino County intake staging.
 
 Service reference: CA-91762-9351d1f2

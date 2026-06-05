@@ -11,26 +11,43 @@ lng: -122.4200
 zipSample: ["98445", "98387"]
 zipCodes: ["98445", "98387"]
 localPaths: ["Pierce County / coords 47.1000, -122.4200", "Pierce County / ZIP 98387 sector", "Pierce County / primary ZIP 98387", "Pierce County / elevation 374 ft band", "Pierce County / ZIP 98445 sector"]
-zillowHomeValueUsd: 509421
 ---
 
-**Engineering Notice for Spanaway:** Structural loading calculated based on 374 ft terrain assessment. Regional dispatch grid: Pierce County.
+**Engineering Notice for Spanaway:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pierce County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Keep pet food elevated and sealed between service visits.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Spanaway, WA, but intake notes help reduce delays.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Attic fogging in Spanaway, WA requires combustion appliance shutoff verification first.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Can bed bugs spread room-to-room in Spanaway, WA row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Moisture pathway inspection logged near ZIP 98445/98387 intake.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Access points and staging constraints recorded for ZIP 98445/98387 coverage.
+Clover mite staining on Spanaway, WA cladding service follows foundation mulch against brick ledges.
 
-Dispatch sectors sampled: ZIP 98445, 98387 (county grid: Pierce County).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Attic misting in Spanaway, WA requires combustion air clearance verified before fans restart.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Spanaway, WA.
+
+Silverfish activity in Spanaway, WA attics tracks cardboard storage and ridge vent gaps.
+
+Perimeter dossier 651887: bait station anchor map and mulch bridge risk flagged for Spanaway, WA county Pierce County (ZIP 98387).
+
+Species trace 651887: re-entry interval label and conducive moisture note keyed to Spanaway, WA elevation 374 ft.
+
+Regional mesh label Pierce County: moisture and logistics baselines are keyed to Spanaway, WA before niche-specific work begins.
 
 Service reference: WA-98387-d01b19d0

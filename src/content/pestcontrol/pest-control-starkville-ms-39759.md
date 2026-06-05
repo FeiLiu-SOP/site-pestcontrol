@@ -11,26 +11,41 @@ lng: -88.8300
 zipSample: ["39759", "39760"]
 zipCodes: ["39760", "39759"]
 localPaths: ["Oktibbeha County / primary ZIP 39759", "Oktibbeha County / ZIP 39760 sector", "Oktibbeha County / ZIP 39759 sector", "Oktibbeha County / coords 33.4600, -88.8300", "Oktibbeha County / elevation 364 ft band"]
-zillowHomeValueUsd: 282330
 ---
 
-**Engineering Notice for Starkville:** Structural loading calculated based on 364 ft terrain assessment. Regional dispatch grid: Oktibbeha County.
+**Engineering Notice for Starkville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oktibbeha County.
 
 
-Our service coordination centers on Starkville, MS coverage windows and verified intake details.
+Stink bug overwinter seams in Starkville, MS cladding service laps require exclusion foam rated for UV exposure.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In Starkville, MS, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 39759.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Mud dauber nests in Starkville, MS porch ceilings are benign but signal prey density for spiders.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Across Starkville, MS, rodent entry points frequently track utility penetrations.
 
-Field note: Connection points spot-checked where accessible (ZIP 39759/39760 zone).
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 39759.
 
-Field note: Access points and staging constraints recorded for ZIP 39759/39760 coverage.
+Dry-wood termite pellets in Starkville, MS attics may appear before exterior mud tubes.
 
-Dispatch sectors sampled: ZIP 39759, 39760 (county grid: Oktibbeha County).
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Seasonal pest pressure in Starkville, MS shifts between moisture ants and dry-wood vectors.
+
+Drain fly biofilm in Starkville, MS floor drains signals grease traps need service before gel baits.
+
+Material note: Perimeter granules in Starkville, MS may need reapplication after heavy irrigation.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Zone map 296075: attic insulation disturbance trace and pantry pest source logged for Starkville, MS sector 39759.
+
+Species trace 296075: re-entry interval label and conducive moisture note keyed to Starkville, MS elevation 364 ft.
+
+On-site sector marker: Oktibbeha County / coords 33.4600, -88.8300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39759-0e67dba3

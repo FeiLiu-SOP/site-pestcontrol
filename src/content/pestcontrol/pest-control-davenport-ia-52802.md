@@ -11,27 +11,41 @@ lng: -90.6100
 zipSample: ["52806", "52803", "52809", "52804", "52801"]
 zipCodes: ["52805", "52803", "52802", "52809", "52801", "52807", "52804", "52808", "52806"]
 localPaths: ["Scott County / primary ZIP 52802", "Scott County / ZIP 52806 sector", "Scott County / ZIP 52803 sector", "Scott County / ZIP 52809 sector", "Scott County / ZIP 52801 sector"]
-zillowHomeValueUsd: 107012
 ---
 
-**Engineering Notice for Davenport:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Scott County.
+**Engineering Notice for Davenport:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Scott County.
 
 
-We coordinate local dispatch coverage around Davenport, IA and nearby ZIP sectors.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Tip: compare at least two estimates for scope and timeline.
+Silverfish activity in Davenport, IA attics tracks cardboard storage and ridge vent gaps.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: In Davenport, IA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 52802.
+County grid Scott County informs routing near ZIP 52802.
 
-Field note: Access points and staging constraints recorded for ZIP 52806/52809/52805 coverage.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Davenport, IA.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 52806/52809/52805.
+Material note: Perimeter granules in Davenport, IA may need reapplication after heavy irrigation.
 
-Dispatch sectors sampled: ZIP 52806, 52809, 52805, 52808, 52804 (county grid: Scott County).
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Attic misting in Davenport, IA requires combustion air clearance verified before fans restart.
+
+Earwig harborages in Davenport, IA meter boxes often follow drip irrigation overspray.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 52802.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 52802.
+
+FAQ: What is exclusion? Without sealing entry points in Davenport, IA, pressure often rebuilds.
+
+Perimeter granule carriers in Davenport, IA clay soils may need lighter irrigation before application.
+
+Intercept log 166023: bed bug intercept count staged before Davenport, IA interior gel zones.
+
+Primary postal anchor 52802 with multi-ZIP overlap in Davenport; field packets tag Scott County for county-grid reconciliation.
 
 Service reference: IA-52802-70d5f5dc

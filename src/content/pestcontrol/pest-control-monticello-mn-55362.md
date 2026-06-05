@@ -11,24 +11,43 @@ lng: -93.8000
 zipSample: ["55362"]
 zipCodes: ["55362"]
 localPaths: ["Wright County / primary ZIP 55362", "Wright County / ZIP 55362 sector", "Wright County / elevation 948 ft band", "Wright County / coords 45.3000, -93.8000"]
-zillowHomeValueUsd: 353436
 ---
 
-**Engineering Notice for Monticello:** Structural loading calculated based on 948 ft terrain assessment. Regional dispatch grid: Wright County.
+**Engineering Notice for Monticello:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wright County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Homeowners in Monticello, MN often face sudden pest control problems that require fast action.
+Carpenter ant frass in Monticello, MN window sills may indicate moisture-softened framing.
 
-Tip: request a written scope before work starts.
+Fire ant mounds in Monticello, MN drive seams need granule rotation after irrigation events.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Monticello, MN, but intake notes help reduce delays.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Our service coordination centers on Monticello, MN coverage windows and verified intake details.
+Attic misting in Monticello, MN requires combustion air clearance verified before fans restart.
 
-Field note: Moisture pathway inspection logged near ZIP 55362 intake.
+Risk flag: In Monticello, MN, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Dispatch sectors sampled: ZIP 55362 (county grid: Wright County).
+Monitoring boards in Monticello, MN crawlspaces stay 72 hours before snap traps are reset.
+
+Step: map entry points with photo logs before sealing.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Tip: Trim vegetation 12 inches from vinyl panels to reduce ant bridges.
+
+Powderpost beetle exit holes in Monticello, MN trim can be mistaken for dry-wood frass without magnification.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Earwig harborages in Monticello, MN meter boxes often follow drip irrigation overspray.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 55362.
+
+Seasonal cue 580943: cluster fly attic staging reviewed for Monticello, MN soffit cavities.
+
+Species trace 580943: re-entry interval label and conducive moisture note keyed to Monticello, MN elevation 948 ft.
+
+On-site sector marker: Wright County / elevation 948 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55362-36182abf

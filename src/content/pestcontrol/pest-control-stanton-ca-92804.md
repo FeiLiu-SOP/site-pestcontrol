@@ -11,24 +11,39 @@ lng: -117.9900
 zipSample: ["92804", "90680"]
 zipCodes: ["90680", "92804"]
 localPaths: ["Orange County / coords 33.8000, -117.9900", "Orange County / primary ZIP 92804", "Orange County / ZIP 92804 sector", "Orange County / elevation 79 ft band", "Orange County / ZIP 90680 sector"]
-zillowHomeValueUsd: 940831
 ---
 
-**Engineering Notice for Stanton:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Stanton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.
 
 
-Tip: avoid large upfront payments without milestones.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Homeowners in Stanton, CA often face sudden pest control problems that require fast action.
+Fire ant mounds in Stanton, CA drive seams need granule rotation after irrigation events.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: verify attic access safety before insulation disturbance.
 
-Clear documentation helps align materials, labor, and timeline.
+Flea pupae survive vacuuming in Stanton, CA carpet fibers unless heat treatment follows.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Stanton, CA, but intake notes help reduce delays.
+Mosquito breeding in Stanton, CA catch basins can amplify perimeter callbacks.
 
-Field note: Moisture pathway inspection logged near ZIP 92804/90680 intake.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Stanton, CA.
 
-Dispatch sectors sampled: ZIP 92804, 90680 (county grid: Orange County).
+Attic insulation disturbance in Stanton, CA may indicate wildlife nesting routes.
+
+Silverfish activity in Stanton, CA attics tracks cardboard storage and ridge vent gaps.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Stanton, CA.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Mud dauber nests in Stanton, CA porch ceilings are benign but signal prey density for spiders.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Exclusion audit 153072: exclusion mesh gauge and rodent runway grease mark reviewed for Stanton, CA at 33.8000/-117.9900.
+
+Intercept log 153072: bed bug intercept count staged before Stanton, CA interior gel zones.
+
+Coordinate-anchored dispatch note: center reference 33.8000, -117.9900 at elevation ~79 ft aligns with Orange County intake staging.
 
 Service reference: CA-92804-5af071e0

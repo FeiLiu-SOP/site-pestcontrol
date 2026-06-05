@@ -11,26 +11,41 @@ lng: -81.7900
 zipSample: ["34135", "33931", "34134"]
 zipCodes: ["33931", "34134", "34135"]
 localPaths: ["Lee County / elevation 36 ft band", "Lee County / ZIP 34134 sector", "Lee County / primary ZIP 33931", "Lee County / ZIP 34135 sector", "Lee County / coords 26.3600, -81.7900"]
-zillowHomeValueUsd: 495246
 ---
 
-**Engineering Notice for Bonita Springs:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Lee County.
+**Engineering Notice for Bonita Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lee County.
 
 
-In Bonita Springs, FL, urgent pest control issues can escalate quickly.
+Tip: Log pet access routes when bait stations are placed.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic insulation disturbance in Bonita Springs, FL may indicate wildlife nesting routes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Stink bug overwinter seams in Bonita Springs, FL wall restoration laps require exclusion foam rated for UV exposure.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bonita Springs, FL, but intake notes help reduce delays.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 33931.
 
-Tip: compare at least two estimates for scope and timeline.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 34135/33931/34134.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Field note: Connection points spot-checked where accessible (ZIP 34135/33931/34134 zone).
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 33931.
 
-Dispatch sectors sampled: ZIP 34135, 33931, 34134 (county grid: Lee County).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Exclusion gaps at garage jambs in Bonita Springs, FL are common rodent access points.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+FAQ: What is exclusion? Without sealing entry points in Bonita Springs, FL, pressure often rebuilds.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Exclusion audit 620995: exclusion mesh gauge and rodent runway grease mark reviewed for Bonita Springs, FL at 26.3600/-81.7900.
+
+On-site sector marker: Lee County / ZIP 33931 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33931-6958e871

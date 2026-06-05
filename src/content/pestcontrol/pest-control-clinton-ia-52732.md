@@ -11,26 +11,39 @@ lng: -90.2400
 zipSample: ["52736", "52734", "52733", "52732"]
 zipCodes: ["52734", "52736", "52733", "52732"]
 localPaths: ["Clinton County / ZIP 52736 sector", "Clinton County / ZIP 52733 sector", "Clinton County / coords 41.8400, -90.2400", "Clinton County / elevation 663 ft band", "Clinton County / ZIP 52732 sector"]
-zillowHomeValueUsd: 127176
 ---
 
-**Engineering Notice for Clinton:** Structural loading calculated based on 663 ft terrain assessment. Regional dispatch grid: Clinton County.
+**Engineering Notice for Clinton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clinton County.
 
 
-We coordinate local dispatch coverage around Clinton, IA and nearby ZIP sectors.
+IGR packets for Clinton, IA roach cycles should be dated on station lids.
 
-Homeowners in Clinton, IA often face sudden pest control problems that require fast action.
+Powderpost beetle exit holes in Clinton, IA trim can be mistaken for dry-wood frass without magnification.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Earwig harborages in Clinton, IA meter boxes often follow drip irrigation overspray.
 
-Field note: Wind exposure category reviewed for ZIP sector 52736/52732/52733.
+Cluster fly attic staging in Clinton, IA peaks on south-facing voids after sunny thaw days.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 52736/52732/52733.
+County grid Clinton County informs routing near ZIP 52732.
 
-Dispatch sectors sampled: ZIP 52736, 52732, 52733, 52734 (county grid: Clinton County).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Material note: Perimeter granules in Clinton, IA may need reapplication after heavy irrigation.
+
+Monitoring boards in Clinton, IA crawlspaces stay 72 hours before snap traps are reset.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Attic misting in Clinton, IA requires combustion air clearance verified before fans restart.
+
+Tip: Date bait station lids when servicing Clinton, IA perimeter lines.
+
+Harbor ledger 612154: frass lane, mud-tube scan, and garage jamb gap measure filed for Clinton, IA at 41.8400, -90.2400.
+
+On-site sector marker: Clinton County / ZIP 52736 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-52732-30951bf9

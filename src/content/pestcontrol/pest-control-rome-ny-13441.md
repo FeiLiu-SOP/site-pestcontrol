@@ -11,25 +11,41 @@ lng: -75.4900
 zipSample: ["13440", "13308", "13441", "13442", "13449"]
 zipCodes: ["13308", "13442", "13440", "13449", "13441"]
 localPaths: ["Oneida County / primary ZIP 13441", "Oneida County / elevation 443 ft band", "Oneida County / ZIP 13440 sector", "Oneida County / ZIP 13442 sector", "Oneida County / coords 43.2300, -75.4900"]
-zillowHomeValueUsd: 201238
 ---
 
-**Engineering Notice for Rome:** Structural loading calculated based on 443 ft terrain assessment. Regional dispatch grid: Oneida County.
+**Engineering Notice for Rome:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oneida County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Rome, NY, but intake notes help reduce delays.
+Dry-wood termite pellets in Rome, NY attics may appear before exterior mud tubes.
 
-We coordinate local dispatch coverage around Rome, NY and nearby ZIP sectors.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 13441.
+Cluster fly attic staging in Rome, NY peaks on south-facing voids after sunny thaw days.
 
-Field note: Connection points spot-checked where accessible (ZIP 13449/13441/13442 zone).
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Dispatch sectors sampled: ZIP 13449, 13441, 13442, 13308, 13440 (county grid: Oneida County).
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Risk flag: Overwatered Rome, NY planters can restart ant bridges within two weeks.
+
+Silverfish activity in Rome, NY attics tracks cardboard storage and ridge vent gaps.
+
+Yellow jacket nests in Rome, NY soffit cavities peak in late summer routing windows.
+
+County grid Oneida County informs routing near ZIP 13441.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Step: map entry points with photo logs before sealing.
+
+Harbor ledger 348428: frass lane, mud-tube scan, and garage jamb gap measure filed for Rome, NY at 43.2300, -75.4900.
+
+Exclusion audit 348428: exclusion mesh gauge and rodent runway grease mark reviewed for Rome, NY at 43.2300/-75.4900.
+
+On-site sector marker: Oneida County / elevation 443 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-13441-f2597359

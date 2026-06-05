@@ -11,24 +11,37 @@ lng: -87.4700
 zipSample: ["46373", "46311"]
 zipCodes: ["46311", "46373"]
 localPaths: ["Lake County / ZIP 46311 sector", "Lake County / elevation 702 ft band", "Lake County / coords 41.4400, -87.4700", "Lake County / primary ZIP 46373", "Lake County / ZIP 46373 sector"]
-zillowHomeValueUsd: 448528
 ---
 
-**Engineering Notice for St. John:** Structural loading calculated based on 702 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for St. John:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Tip: address recurring issues early to prevent bigger damage.
+Wildlife odors in St. John, IN crawlspaces may attract secondary pest activity.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Clover mite staining on St. John, IN cladding service follows foundation mulch against brick ledges.
 
-Homeowners in St. John, IN often face sudden pest control problems that require fast action.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Our service coordination centers on St. John, IN coverage windows and verified intake details.
+Attic insulation disturbance in St. John, IN may indicate wildlife nesting routes.
 
-Field note: Moisture pathway inspection logged near ZIP 46311/46373 intake.
+Drain fly biofilm in St. John, IN floor drains signals grease traps need service before gel baits.
 
-Dispatch sectors sampled: ZIP 46311, 46373 (county grid: Lake County).
+Spider populations in St. John, IN eaves can signal insect prey density.
+
+Flea pupae survive vacuuming in St. John, IN carpet fibers unless heat treatment follows.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Earwig harborages in St. John, IN meter boxes often follow drip irrigation overspray.
+
+In St. John, IN, subterranean termite swarms often follow warm rain windows.
+
+We coordinate St. John, IN pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Intercept log 447010: bed bug intercept count staged before St. John, IN interior gel zones.
+
+On-site sector marker: Lake County / ZIP 46373 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46373-cb01f71b

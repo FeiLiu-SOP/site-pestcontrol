@@ -11,25 +11,37 @@ lng: -89.0600
 zipSample: ["61107", "61110", "61114", "61126", "61101"]
 zipCodes: ["61105", "61110", "61108", "61126", "61101", "61102", "61104", "61109", "61114", "61125", "61103", "61107"]
 localPaths: ["Winnebago County / ZIP 61126 sector", "Winnebago County / coords 42.2600, -89.0600", "Winnebago County / primary ZIP 61101", "Winnebago County / ZIP 61110 sector", "Winnebago County / elevation 735 ft band"]
-zillowHomeValueUsd: 111558
 ---
 
-**Engineering Notice for Rockford:** Structural loading calculated based on 735 ft terrain assessment. Regional dispatch grid: Winnebago County.
+**Engineering Notice for Rockford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Winnebago County.
 
 
-Our service coordination centers on Rockford, IL coverage windows and verified intake details.
+Request an inspection with species ID before treatment. Serving ZIP Code: 61101.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 61101.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Rockford, IL.
 
-Tip: compare at least two estimates for scope and timeline.
+Fire ant mounds in Rockford, IL drive seams need granule rotation after irrigation events.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Rockford, IL, but intake notes help reduce delays.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Field note: Wind exposure category reviewed for ZIP sector 61105/61109/61102.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 61105, 61109, 61102, 61125, 61101 (county grid: Winnebago County).
+Earwig harborages in Rockford, IL meter boxes often follow drip irrigation overspray.
+
+Yellow jacket nests in Rockford, IL soffit cavities peak in late summer routing windows.
+
+Risk flag: Overwatered Rockford, IL planters can restart ant bridges within two weeks.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Drain fly biofilm in Rockford, IL floor drains signals grease traps need service before gel baits.
+
+Zone map 963380: attic insulation disturbance trace and pantry pest source logged for Rockford, IL sector 61101.
+
+**Regional Infrastructure Brief:** Grid anchor set to Winnebago County. Reference elevation: 735 ft. Primary coordinates: 42.2600, -89.0600. ZIP sample: 61103, 61104, 61109, 61105, 61125. Regional routing note: Winnebago County traffic flow is balanced around ZIP 61101 service demand.
 
 Service reference: IL-61101-648ae6ae

@@ -11,26 +11,39 @@ lng: -88.2300
 zipSample: ["60185", "60186"]
 zipCodes: ["60185", "60186"]
 localPaths: ["DuPage County / elevation 768 ft band", "DuPage County / ZIP 60186 sector", "DuPage County / coords 41.9000, -88.2300", "DuPage County / primary ZIP 60185", "DuPage County / ZIP 60185 sector"]
-zillowHomeValueUsd: 382815
 ---
 
-**Engineering Notice for West Chicago:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: DuPage County.
+**Engineering Notice for West Chicago:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Mud dauber nests in West Chicago, IL porch ceilings are benign but signal prey density for spiders.
 
-Structured milestones protect both sides when scheduling work.
+Seasonal pest pressure in West Chicago, IL shifts between moisture ants and dry-wood vectors.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 60185.
 
-We coordinate local dispatch coverage around West Chicago, IL and nearby ZIP sectors.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Moisture pathway inspection logged near ZIP 60185/60186 intake.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60185/60186.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in West Chicago, IL.
 
-Dispatch sectors sampled: ZIP 60185, 60186 (county grid: DuPage County).
+State note: West Chicago, IL commercial kitchens may require separate documentation for audit visits.
+
+IGR packets for West Chicago, IL roach cycles should be dated on station lids.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Drain fly biofilm in West Chicago, IL floor drains signals grease traps need service before gel baits.
+
+Earwig harborages in West Chicago, IL meter boxes often follow drip irrigation overspray.
+
+Species trace 179445: re-entry interval label and conducive moisture note keyed to West Chicago, IL elevation 768 ft.
+
+Perimeter dossier 179445: bait station anchor map and mulch bridge risk flagged for West Chicago, IL county DuPage County (ZIP 60185).
+
+On-site sector marker: DuPage County / ZIP 60185 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60185-50eda947

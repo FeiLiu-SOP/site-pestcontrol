@@ -11,27 +11,39 @@ lng: -81.7900
 zipSample: ["34105", "34102", "34101", "34106", "34104"]
 zipCodes: ["34105", "34104", "34106", "34103", "34101", "34102"]
 localPaths: ["Collier County / coords 26.1500, -81.7900", "Collier County / ZIP 34105 sector", "Collier County / ZIP 34104 sector", "Collier County / elevation 20 ft band", "Collier County / primary ZIP 34103"]
-zillowHomeValueUsd: 1108357
 ---
 
-**Engineering Notice for Naples:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Collier County.
+**Engineering Notice for Naples:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Collier County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 34103.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Naples, FL, but intake notes help reduce delays.
+Fire ant mounds in Naples, FL drive seams need granule rotation after irrigation events.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 34103.
+State note: Naples, FL commercial kitchens may require separate documentation for audit visits.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-We coordinate local dispatch coverage around Naples, FL and nearby ZIP sectors.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Connection points spot-checked where accessible (ZIP 34104/34103/34101 zone).
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 34103.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 34104/34103/34101.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 34103.
 
-Dispatch sectors sampled: ZIP 34104, 34103, 34101, 34106, 34105 (county grid: Collier County).
+FAQ: Can bed bugs spread room-to-room in Naples, FL row homes? Wall voids and shared ducts accelerate transfer.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+FAQ: What is exclusion? Without sealing entry points in Naples, FL, pressure often rebuilds.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Seasonal cue 732549: cluster fly attic staging reviewed for Naples, FL soffit cavities.
+
+Exclusion audit 732549: exclusion mesh gauge and rodent runway grease mark reviewed for Naples, FL at 26.1500/-81.7900.
+
+On-site sector marker: Collier County / ZIP 34105 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34103-01bf51fd

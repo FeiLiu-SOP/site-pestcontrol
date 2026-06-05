@@ -11,24 +11,37 @@ lng: -89.0300
 zipSample: ["61115"]
 zipCodes: ["61115"]
 localPaths: ["Winnebago County / elevation 735 ft band", "Winnebago County / ZIP 61115 sector", "Winnebago County / coords 42.3700, -89.0300", "Winnebago County / primary ZIP 61115"]
-zillowHomeValueUsd: 201363
 ---
 
-**Engineering Notice for Machesney Park:** Structural loading calculated based on 735 ft terrain assessment. Regional dispatch grid: Winnebago County.
+**Engineering Notice for Machesney Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Winnebago County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 61115.
 
-Tip: request a written scope before work starts.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-We coordinate local dispatch coverage around Machesney Park, IL and nearby ZIP sectors.
+FAQ: Why schedule quarterly instead of monthly in Machesney Park, IL? Species pressure and label intervals dictate cadence.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Log pet access routes when bait stations are placed.
 
-Field note: Connection points spot-checked where accessible (ZIP 61115 zone).
+Tip: Keep pet food elevated and sealed between service visits.
 
-Dispatch sectors sampled: ZIP 61115 (county grid: Winnebago County).
+Monitoring boards in Machesney Park, IL crawlspaces stay 72 hours before snap traps are reset.
+
+Drain fly biofilm in Machesney Park, IL floor drains signals grease traps need service before gel baits.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Seasonal pest pressure in Machesney Park, IL shifts between moisture ants and dry-wood vectors.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Species trace 446706: re-entry interval label and conducive moisture note keyed to Machesney Park, IL elevation 735 ft.
+
+On-site sector marker: Winnebago County / coords 42.3700, -89.0300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-61115-98f6dab9

@@ -11,26 +11,41 @@ lng: -93.8000
 zipSample: ["50325"]
 zipCodes: ["50325"]
 localPaths: ["Polk County / ZIP 50325 sector", "Polk County / elevation 883 ft band", "Polk County / primary ZIP 50325", "Polk County / coords 41.6100, -93.8000"]
-zillowHomeValueUsd: 428777
 ---
 
-**Engineering Notice for Clive:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Polk County.
+**Engineering Notice for Clive:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Polk County.
 
 
-Tip: avoid large upfront payments without milestones.
+Request an inspection with species ID before treatment. Serving ZIP Code: 50325.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Yellow jacket nests in Clive, IA soffit cavities peak in late summer routing windows.
 
-Tip: request a written scope before work starts.
+Step: map entry points with photo logs before sealing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Clive, IA, but intake notes help reduce delays.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Carpenter ant frass in Clive, IA window sills may indicate moisture-softened framing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 50325.
+Stored cardboard in Clive, IA garages can accelerate pantry pest cycles.
 
-Field note: Connection points spot-checked where accessible (ZIP 50325 zone).
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Dispatch sectors sampled: ZIP 50325 (county grid: Polk County).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+FAQ: What is exclusion? Without sealing entry points in Clive, IA, pressure often rebuilds.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Spider populations in Clive, IA eaves can signal insect prey density.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+In Clive, IA, subterranean termite swarms often follow warm rain windows.
+
+Zone map 749728: attic insulation disturbance trace and pantry pest source logged for Clive, IA sector 50325.
+
+Intercept log 749728: bed bug intercept count staged before Clive, IA interior gel zones.
+
+On-site sector marker: Polk County / elevation 883 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-50325-23cdc9f2

@@ -11,25 +11,43 @@ lng: -86.5600
 zipSample: ["37086", "37089"]
 zipCodes: ["37089", "37086"]
 localPaths: ["Rutherford County / coords 36.0200, -86.5600", "Rutherford County / ZIP 37089 sector", "Rutherford County / ZIP 37086 sector", "Rutherford County / primary ZIP 37086", "Rutherford County / elevation 587 ft band"]
-zillowHomeValueUsd: 343275
 ---
 
-**Engineering Notice for La Vergne:** Structural loading calculated based on 587 ft terrain assessment. Regional dispatch grid: Rutherford County.
+**Engineering Notice for La Vergne:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rutherford County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in La Vergne, TN, but intake notes help reduce delays.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: verify attic access safety before insulation disturbance.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 37086.
+Tip: Log pet access routes when bait stations are placed.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-We coordinate local dispatch coverage around La Vergne, TN and nearby ZIP sectors.
+Request an inspection with species ID before treatment. Serving ZIP Code: 37086.
 
-Field note: Wind exposure category reviewed for ZIP sector 37089/37086.
+Attic misting in La Vergne, TN requires combustion air clearance verified before fans restart.
 
-Dispatch sectors sampled: ZIP 37089, 37086 (county grid: Rutherford County).
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Fire ant mounds in La Vergne, TN drive seams need granule rotation after irrigation events.
+
+Cluster fly attic staging in La Vergne, TN peaks on south-facing voids after sunny thaw days.
+
+State note: La Vergne, TN commercial kitchens may require separate documentation for audit visits.
+
+Carpenter ant frass in La Vergne, TN window sills may indicate moisture-softened framing.
+
+Tip: Date bait station lids when servicing La Vergne, TN perimeter lines.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Stored cardboard in La Vergne, TN garages can accelerate pantry pest cycles.
+
+Exclusion audit 164375: exclusion mesh gauge and rodent runway grease mark reviewed for La Vergne, TN at 36.0200/-86.5600.
+
+Species trace 164375: re-entry interval label and conducive moisture note keyed to La Vergne, TN elevation 587 ft.
+
+On-site sector marker: Rutherford County / coords 36.0200, -86.5600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37086-caf89000

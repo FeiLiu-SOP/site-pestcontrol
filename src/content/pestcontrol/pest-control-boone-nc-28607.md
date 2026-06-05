@@ -11,26 +11,41 @@ lng: -81.6700
 zipSample: ["28608", "28607"]
 zipCodes: ["28607", "28608"]
 localPaths: ["Watauga County / coords 36.2100, -81.6700", "Watauga County / ZIP 28607 sector", "Watauga County / primary ZIP 28607", "Watauga County / elevation 3235 ft band", "Watauga County / ZIP 28608 sector"]
-zillowHomeValueUsd: 491982
 ---
 
-**Engineering Notice for Boone:** Structural loading calculated based on 3235 ft terrain assessment. Regional dispatch grid: Watauga County.
+**Engineering Notice for Boone:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Watauga County.
 
 
-Tip: avoid large upfront payments without milestones.
+Mud dauber nests in Boone, NC porch ceilings are benign but signal prey density for spiders.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Stored cardboard in Boone, NC garages can accelerate pantry pest cycles.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Boone, NC, but intake notes help reduce delays.
+Tip: Log pet access routes when bait stations are placed.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Structured milestones protect both sides when scheduling work.
+Monitoring boards in Boone, NC crawlspaces stay 72 hours before snap traps are reset.
 
-Field note: Connection points spot-checked where accessible (ZIP 28608/28607 zone).
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
 
-Field note: Moisture pathway inspection logged near ZIP 28608/28607 intake.
+FAQ: Why schedule quarterly instead of monthly in Boone, NC? Species pressure and label intervals dictate cadence.
 
-Dispatch sectors sampled: ZIP 28608, 28607 (county grid: Watauga County).
+Stink bug overwinter seams in Boone, NC cladding service laps require exclusion foam rated for UV exposure.
+
+FAQ: Can bed bugs spread room-to-room in Boone, NC row homes? Wall voids and shared ducts accelerate transfer.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 28607.
+
+Carpenter ant frass in Boone, NC window sills may indicate moisture-softened framing.
+
+IGR packets for Boone, NC roach cycles should be dated on station lids.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Perimeter dossier 448683: bait station anchor map and mulch bridge risk flagged for Boone, NC county Watauga County (ZIP 28607).
+
+Zone map 448683: attic insulation disturbance trace and pantry pest source logged for Boone, NC sector 28607.
+
+On-site sector marker: Watauga County / ZIP 28608 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28607-0944c9e4

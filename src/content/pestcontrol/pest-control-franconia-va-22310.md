@@ -11,27 +11,37 @@ lng: -77.1600
 zipSample: ["22315", "22310"]
 zipCodes: ["22310", "22315"]
 localPaths: ["Fairfax County / ZIP 22310 sector", "Fairfax County / elevation 249 ft band", "Fairfax County / ZIP 22315 sector", "Fairfax County / primary ZIP 22310", "Fairfax County / coords 38.7700, -77.1600"]
-zillowHomeValueUsd: 673043
 ---
 
-**Engineering Notice for Franconia:** Structural loading calculated based on 249 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Franconia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: map entry points with photo logs before sealing.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 22310.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Our service coordination centers on Franconia, VA coverage windows and verified intake details.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+In Franconia, VA, subterranean termite swarms often follow warm rain windows.
 
-Field note: Wind exposure category reviewed for ZIP sector 22315/22310.
+Carpenter ant frass in Franconia, VA window sills may indicate moisture-softened framing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 22315/22310.
+Bird mites in Franconia, VA exhaust vents can persist after host nests are removed.
 
-Dispatch sectors sampled: ZIP 22315, 22310 (county grid: Fairfax County).
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+IGR packets for Franconia, VA roach cycles should be dated on station lids.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Mud dauber nests in Franconia, VA porch ceilings are benign but signal prey density for spiders.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Seasonal cue 346070: cluster fly attic staging reviewed for Franconia, VA soffit cavities.
+
+Coordinate-anchored dispatch note: center reference 38.7700, -77.1600 at elevation ~249 ft aligns with Fairfax County intake staging.
 
 Service reference: VA-22310-67052fcb

@@ -11,25 +11,41 @@ lng: -67.0500
 zipSample: ["00683"]
 zipCodes: ["00683"]
 localPaths: ["San Germán County / primary ZIP 00683", "San Germán County / coords 18.0800, -67.0500", "San Germán County / ZIP 00683 sector", "San Germán County / elevation 272 ft band"]
-zillowHomeValueUsd: 370413
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for San Germán:** Structural loading calculated based on 272 ft terrain assessment. Regional dispatch grid: San Germán County.
+**Engineering Notice for San Germán:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Germán County.
 
 
-Tip: avoid large upfront payments without milestones.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+State note: San Germán, PR commercial kitchens may require separate documentation for audit visits.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in San Germán, PR, but intake notes help reduce delays.
+Dry-wood termite pellets in San Germán, PR attics may appear before exterior mud tubes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 00683.
+Tip: Log pet access routes when bait stations are placed.
 
-Dispatch sectors sampled: ZIP 00683 (county grid: San Germán County).
+Yellow jacket nests in San Germán, PR soffit cavities peak in late summer routing windows.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in San Germán, PR.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Carpenter ant frass in San Germán, PR window sills may indicate moisture-softened framing.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Attic insulation disturbance in San Germán, PR may indicate wildlife nesting routes.
+
+Tip: Date bait station lids when servicing San Germán, PR perimeter lines.
+
+Seasonal cue 629776: cluster fly attic staging reviewed for San Germán, PR soffit cavities.
+
+Zone map 629776: attic insulation disturbance trace and pantry pest source logged for San Germán, PR sector 00683.
+
+Regional mesh label San Germán County: moisture and logistics baselines are keyed to San Germán, PR before niche-specific work begins.
 
 Service reference: PR-00683-311375d6

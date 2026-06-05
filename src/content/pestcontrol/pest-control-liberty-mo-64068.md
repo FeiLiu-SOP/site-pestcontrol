@@ -11,26 +11,37 @@ lng: -94.4200
 zipSample: ["64068", "64069"]
 zipCodes: ["64068", "64069"]
 localPaths: ["Clay County / coords 39.2400, -94.4200", "Clay County / ZIP 64069 sector", "Clay County / elevation 876 ft band", "Clay County / primary ZIP 64068", "Clay County / ZIP 64068 sector"]
-zillowHomeValueUsd: 326529
 ---
 
-**Engineering Notice for Liberty:** Structural loading calculated based on 876 ft terrain assessment. Regional dispatch grid: Clay County.
+**Engineering Notice for Liberty:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clay County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Flea pupae survive vacuuming in Liberty, MO carpet fibers unless heat treatment follows.
 
-Transparent pricing helps you compare like-for-like scope items.
+Monitoring boards in Liberty, MO crawlspaces stay 72 hours before snap traps are reset.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Liberty, MO, but intake notes help reduce delays.
+Carpenter ant frass in Liberty, MO window sills may indicate moisture-softened framing.
 
-Our service coordination centers on Liberty, MO coverage windows and verified intake details.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 64068/64069.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Connection points spot-checked where accessible (ZIP 64068/64069 zone).
+State note: Liberty, MO commercial kitchens may require separate documentation for audit visits.
 
-Dispatch sectors sampled: ZIP 64068, 64069 (county grid: Clay County).
+FAQ: What is exclusion? Without sealing entry points in Liberty, MO, pressure often rebuilds.
+
+We coordinate Liberty, MO pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Material note: Perimeter granules in Liberty, MO may need reapplication after heavy irrigation.
+
+Tip: Date bait station lids when servicing Liberty, MO perimeter lines.
+
+FAQ: Can bed bugs spread room-to-room in Liberty, MO row homes? Wall voids and shared ducts accelerate transfer.
+
+Harbor ledger 677622: frass lane, mud-tube scan, and garage jamb gap measure filed for Liberty, MO at 39.2400, -94.4200.
+
+On-site sector marker: Clay County / ZIP 64069 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-64068-0271fdb2

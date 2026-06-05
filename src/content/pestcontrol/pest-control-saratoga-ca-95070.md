@@ -11,24 +11,39 @@ lng: -122.0300
 zipSample: ["95071", "95070"]
 zipCodes: ["95070", "95071"]
 localPaths: ["Santa Clara County / ZIP 95071 sector", "Santa Clara County / coords 37.2700, -122.0300", "Santa Clara County / ZIP 95070 sector", "Santa Clara County / elevation 417 ft band", "Santa Clara County / primary ZIP 95070"]
-zillowHomeValueUsd: 4178204
 ---
 
-**Engineering Notice for Saratoga:** Structural loading calculated based on 417 ft terrain assessment. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Saratoga:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Clara County.
 
 
-Tip: avoid large upfront payments without milestones.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 95070.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Saratoga, CA.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Powderpost beetle exit holes in Saratoga, CA trim can be mistaken for dry-wood frass without magnification.
 
-In Saratoga, CA, seasonal demand can change scheduling windows.
+Risk flag: In Saratoga, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-We coordinate local dispatch coverage around Saratoga, CA and nearby ZIP sectors.
+Request an inspection with species ID before treatment. Serving ZIP Code: 95070.
 
-Field note: Moisture pathway inspection logged near ZIP 95070/95071 intake.
+Yellow jacket nests in Saratoga, CA soffit cavities peak in late summer routing windows.
 
-Dispatch sectors sampled: ZIP 95070, 95071 (county grid: Santa Clara County).
+In Saratoga, CA, subterranean termite swarms often follow warm rain windows.
+
+FAQ: Why schedule quarterly instead of monthly in Saratoga, CA? Species pressure and label intervals dictate cadence.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Mosquito breeding in Saratoga, CA catch basins can amplify perimeter callbacks.
+
+Monitoring boards in Saratoga, CA crawlspaces stay 72 hours before snap traps are reset.
+
+Fire ant mounds in Saratoga, CA drive seams need granule rotation after irrigation events.
+
+Exclusion audit 371967: exclusion mesh gauge and rodent runway grease mark reviewed for Saratoga, CA at 37.2700/-122.0300.
+
+Species trace 371967: re-entry interval label and conducive moisture note keyed to Saratoga, CA elevation 417 ft.
+
+Coordinate-anchored dispatch note: center reference 37.2700, -122.0300 at elevation ~417 ft aligns with Santa Clara County intake staging.
 
 Service reference: CA-95070-325ebdb6

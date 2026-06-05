@@ -11,24 +11,39 @@ lng: -86.6300
 zipSample: ["35043", "35051"]
 zipCodes: ["35043", "35051"]
 localPaths: ["Shelby County / elevation 548 ft band", "Shelby County / coords 33.3300, -86.6300", "Shelby County / primary ZIP 35051", "Shelby County / ZIP 35043 sector", "Shelby County / ZIP 35051 sector"]
-zillowHomeValueUsd: 322549
 ---
 
-**Engineering Notice for Chelsea:** Structural loading calculated based on 548 ft terrain assessment. Regional dispatch grid: Shelby County.
+**Engineering Notice for Chelsea:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Shelby County.
 
 
-Local conditions in Chelsea, AL can affect timelines and material choices.
+Attic misting in Chelsea, AL requires combustion air clearance verified before fans restart.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Monitoring boards in Chelsea, AL crawlspaces stay 72 hours before snap traps are reset.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Carpenter ant frass in Chelsea, AL window sills may indicate moisture-softened framing.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Date bait station lids when servicing Chelsea, AL perimeter lines.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Field note: Access points and staging constraints recorded for ZIP 35043/35051 coverage.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Dispatch sectors sampled: ZIP 35043, 35051 (county grid: Shelby County).
+Cluster fly attic staging in Chelsea, AL peaks on south-facing voids after sunny thaw days.
+
+Wildlife odors in Chelsea, AL crawlspaces may attract secondary pest activity.
+
+Tip: Log pet access routes when bait stations are placed.
+
+FAQ: Can bed bugs spread room-to-room in Chelsea, AL row homes? Wall voids and shared ducts accelerate transfer.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Exclusion audit 568212: exclusion mesh gauge and rodent runway grease mark reviewed for Chelsea, AL at 33.3300/-86.6300.
+
+ZIP-corridor snapshot for Chelsea, AL: sampled sectors include 35051, 35043; county routing grid remains Shelby County.
 
 Service reference: AL-35051-7a3bd8b5

@@ -11,26 +11,39 @@ lng: -92.4000
 zipSample: ["72113"]
 zipCodes: ["72113"]
 localPaths: ["Pulaski County / coords 34.8500, -92.4000", "Pulaski County / ZIP 72113 sector", "Pulaski County / elevation 299 ft band", "Pulaski County / primary ZIP 72113"]
-zillowHomeValueUsd: 303740
 ---
 
-**Engineering Notice for Maumelle:** Structural loading calculated based on 299 ft terrain assessment. Regional dispatch grid: Pulaski County.
+**Engineering Notice for Maumelle:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pulaski County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: record station placement maps for follow-up visits.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Cluster fly attic staging in Maumelle, AR peaks on south-facing voids after sunny thaw days.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Maumelle, AR, but intake notes help reduce delays.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: request a written scope before work starts.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Connection points spot-checked where accessible (ZIP 72113 zone).
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Wind exposure category reviewed for ZIP sector 72113.
+Exclusion gaps at garage jambs in Maumelle, AR are common rodent access points.
 
-Dispatch sectors sampled: ZIP 72113 (county grid: Pulaski County).
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 72113.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Maumelle, AR.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Maumelle, AR.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Perimeter dossier 996805: bait station anchor map and mulch bridge risk flagged for Maumelle, AR county Pulaski County (ZIP 72113).
+
+On-site sector marker: Pulaski County / ZIP 72113 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-72113-27018e43

@@ -11,26 +11,39 @@ lng: -111.9600
 zipSample: ["84065", "84096"]
 zipCodes: ["84065", "84096"]
 localPaths: ["Salt Lake County / ZIP 84065 sector", "Salt Lake County / elevation 4547 ft band", "Salt Lake County / primary ZIP 84065", "Salt Lake County / coords 40.5200, -111.9600", "Salt Lake County / ZIP 84096 sector"]
-zillowHomeValueUsd: 643109
 ---
 
-**Engineering Notice for Riverton:** Structural loading calculated based on 4547 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Riverton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Salt Lake County.
 
 
-In Riverton, UT, seasonal demand can change scheduling windows.
+Stored cardboard in Riverton, UT garages can accelerate pantry pest cycles.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Riverton, UT, but intake notes help reduce delays.
+Material note: Perimeter granules in Riverton, UT may need reapplication after heavy irrigation.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Connection points spot-checked where accessible (ZIP 84096/84065 zone).
+Carpenter ant frass in Riverton, UT window sills may indicate moisture-softened framing.
 
-Field note: Wind exposure category reviewed for ZIP sector 84096/84065.
+FAQ: Why schedule quarterly instead of monthly in Riverton, UT? Species pressure and label intervals dictate cadence.
 
-Dispatch sectors sampled: ZIP 84096, 84065 (county grid: Salt Lake County).
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+County grid Salt Lake County informs routing near ZIP 84065.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+FAQ: Can bed bugs spread room-to-room in Riverton, UT row homes? Wall voids and shared ducts accelerate transfer.
+
+Powderpost beetle exit holes in Riverton, UT trim can be mistaken for dry-wood frass without magnification.
+
+Perimeter dossier 176332: bait station anchor map and mulch bridge risk flagged for Riverton, UT county Salt Lake County (ZIP 84065).
+
+On-site sector marker: Salt Lake County / elevation 4547 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84065-f8099075

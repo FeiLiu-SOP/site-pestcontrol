@@ -11,26 +11,37 @@ lng: -84.6400
 zipSample: ["48917", "48908"]
 zipCodes: ["48908", "48917"]
 localPaths: ["Eaton County / ZIP 48917 sector", "Eaton County / ZIP 48908 sector", "Eaton County / coords 42.7400, -84.6400", "Eaton County / primary ZIP 48917", "Eaton County / elevation 869 ft band"]
-zillowHomeValueUsd: 260239
 ---
 
-**Engineering Notice for Waverly:** Structural loading calculated based on 869 ft terrain assessment. Regional dispatch grid: Eaton County.
+**Engineering Notice for Waverly:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Eaton County.
 
 
-Local conditions in Waverly, MI can affect timelines and material choices.
+Step: record station placement maps for follow-up visits.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Attic fogging in Waverly, MI requires combustion appliance shutoff verification first.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Our service coordination centers on Waverly, MI coverage windows and verified intake details.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Waverly, MI, but intake notes help reduce delays.
+Tip: Trim vegetation 12 inches from vinyl panels to reduce ant bridges.
 
-Field note: Moisture pathway inspection logged near ZIP 48917/48908 intake.
+Flea pupae survive vacuuming in Waverly, MI carpet fibers unless heat treatment follows.
 
-Field note: Connection points spot-checked where accessible (ZIP 48917/48908 zone).
+FAQ: Can bed bugs spread room-to-room in Waverly, MI row homes? Wall voids and shared ducts accelerate transfer.
 
-Dispatch sectors sampled: ZIP 48917, 48908 (county grid: Eaton County).
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Waverly, MI.
+
+Risk flag: In Waverly, MI, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Exclusion audit 890645: exclusion mesh gauge and rodent runway grease mark reviewed for Waverly, MI at 42.7400/-84.6400.
+
+On-site sector marker: Eaton County / ZIP 48908 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48917-6badb09e

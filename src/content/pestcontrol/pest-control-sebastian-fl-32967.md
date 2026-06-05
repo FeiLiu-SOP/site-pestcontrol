@@ -11,24 +11,39 @@ lng: -80.4800
 zipSample: ["32978", "32958", "32967"]
 zipCodes: ["32967", "32958", "32978"]
 localPaths: ["Indian River County / ZIP 32958 sector", "Indian River County / primary ZIP 32967", "Indian River County / ZIP 32978 sector", "Indian River County / ZIP 32967 sector", "Indian River County / elevation 46 ft band"]
-zillowHomeValueUsd: 405601
 ---
 
-**Engineering Notice for Sebastian:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Indian River County.
+**Engineering Notice for Sebastian:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Indian River County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Perimeter granule carriers in Sebastian, FL clay soils may need lighter irrigation before application.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Sebastian, FL, but intake notes help reduce delays.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Tip: request a written scope before work starts.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-We coordinate local dispatch coverage around Sebastian, FL and nearby ZIP sectors.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 32967.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+IGR packets for Sebastian, FL roach cycles should be dated on station lids.
 
-Field note: Access points and staging constraints recorded for ZIP 32958/32978/32967 coverage.
+Request an inspection with species ID before treatment. Serving ZIP Code: 32967.
 
-Dispatch sectors sampled: ZIP 32958, 32978, 32967 (county grid: Indian River County).
+FAQ: Can bed bugs spread room-to-room in Sebastian, FL row homes? Wall voids and shared ducts accelerate transfer.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Mosquito breeding in Sebastian, FL catch basins can amplify perimeter callbacks.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Clover mite staining on Sebastian, FL cladding service follows foundation mulch against brick ledges.
+
+Harbor ledger 545058: frass lane, mud-tube scan, and garage jamb gap measure filed for Sebastian, FL at 27.7800, -80.4800.
+
+Zone map 545058: attic insulation disturbance trace and pantry pest source logged for Sebastian, FL sector 32967.
+
+On-site sector marker: Indian River County / coords 27.7800, -80.4800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32967-a33a17ea

@@ -11,26 +11,43 @@ lng: -122.1600
 zipSample: ["94622", "94579", "94578", "94577"]
 zipCodes: ["94577", "94578", "94579", "94622"]
 localPaths: ["Alameda County / coords 37.7100, -122.1600", "Alameda County / ZIP 94579 sector", "Alameda County / elevation 20 ft band", "Alameda County / ZIP 94577 sector", "Alameda County / ZIP 94622 sector"]
-zillowHomeValueUsd: 788029
 ---
 
-**Engineering Notice for San Leandro:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Alameda County.
+**Engineering Notice for San Leandro:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alameda County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Tip: address recurring issues early to prevent bigger damage.
+Attic fogging in San Leandro, CA requires combustion appliance shutoff verification first.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Tip: compare at least two estimates for scope and timeline.
+IGR packets for San Leandro, CA roach cycles should be dated on station lids.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Field note: Access points and staging constraints recorded for ZIP 94622/94579/94578 coverage.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Wind exposure category reviewed for ZIP sector 94622/94579/94578.
+Stink bug overwinter seams in San Leandro, CA exterior cladding laps require exclusion foam rated for UV exposure.
 
-Dispatch sectors sampled: ZIP 94622, 94579, 94578, 94577 (county grid: Alameda County).
+Risk flag: Overwatered San Leandro, CA planters can restart ant bridges within two weeks.
+
+Mud dauber nests in San Leandro, CA porch ceilings are benign but signal prey density for spiders.
+
+FAQ: Can bed bugs spread room-to-room in San Leandro, CA row homes? Wall voids and shared ducts accelerate transfer.
+
+Perimeter granule carriers in San Leandro, CA clay soils may need lighter irrigation before application.
+
+Yellow jacket nests in San Leandro, CA soffit cavities peak in late summer routing windows.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Intercept log 852361: bed bug intercept count staged before San Leandro, CA interior gel zones.
+
+Zone map 852361: attic insulation disturbance trace and pantry pest source logged for San Leandro, CA sector 94578.
+
+On-site sector marker: Alameda County / ZIP 94579 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94578-d5357426

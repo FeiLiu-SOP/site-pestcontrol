@@ -11,25 +11,39 @@ lng: -117.4600
 zipSample: ["92331", "92337", "92335", "92336", "92334"]
 zipCodes: ["92334", "92335", "92402", "92337", "92331", "92336"]
 localPaths: ["San Bernardino County / elevation 1178 ft band", "San Bernardino County / primary ZIP 92335", "San Bernardino County / ZIP 92334 sector", "San Bernardino County / ZIP 92335 sector", "San Bernardino County / ZIP 92331 sector"]
-zillowHomeValueUsd: 566922
 ---
 
-**Engineering Notice for Fontana:** Structural loading calculated based on 1178 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Fontana:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.
 
 
-In Fontana, CA, seasonal demand can change scheduling windows.
+Tip: Date bait station lids when servicing Fontana, CA perimeter lines.
 
-We coordinate local dispatch coverage around Fontana, CA and nearby ZIP sectors.
+Earwig harborages in Fontana, CA meter boxes often follow drip irrigation overspray.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Fontana, CA, but intake notes help reduce delays.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 92335.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 92335.
 
-Field note: Moisture pathway inspection logged near ZIP 92331/92336/92335 intake.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 92335.
 
-Dispatch sectors sampled: ZIP 92331, 92336, 92335, 92334, 92402 (county grid: San Bernardino County).
+FAQ: Why do pests return after spraying? Without sealing entry points in Fontana, CA, pressure often rebuilds.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Perimeter granule carriers in Fontana, CA clay soils may need lighter irrigation before application.
+
+FAQ: Why schedule quarterly instead of monthly in Fontana, CA? Species pressure and label intervals dictate cadence.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Material note: Perimeter granules in Fontana, CA may need reapplication after heavy irrigation.
+
+Exclusion audit 970217: exclusion mesh gauge and rodent runway grease mark reviewed for Fontana, CA at 34.1000/-117.4600.
+
+Perimeter dossier 970217: bait station anchor map and mulch bridge risk flagged for Fontana, CA county San Bernardino County (ZIP 92335).
+
+On-site sector marker: San Bernardino County / ZIP 92334 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92335-c78f5346

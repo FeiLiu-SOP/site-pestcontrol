@@ -11,27 +11,39 @@ lng: -86.8700
 zipSample: ["37172"]
 zipCodes: ["37172"]
 localPaths: ["Robertson County / coords 36.4900, -86.8700", "Robertson County / primary ZIP 37172", "Robertson County / elevation 728 ft band", "Robertson County / ZIP 37172 sector"]
-zillowHomeValueUsd: 336498
 ---
 
-**Engineering Notice for Springfield:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Robertson County.
+**Engineering Notice for Springfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Robertson County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Springfield, TN, but intake notes help reduce delays.
+Wildlife odors in Springfield, TN crawlspaces may attract secondary pest activity.
 
-Our service coordination centers on Springfield, TN coverage windows and verified intake details.
+Step: separate bait rotation schedules from crack-and-crevice applications in Springfield, TN.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 37172.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 37172.
 
-Tip: request a written scope before work starts.
+Attic fogging in Springfield, TN requires combustion appliance shutoff verification first.
 
-Clear documentation helps align materials, labor, and timeline.
+Carpenter ant frass in Springfield, TN window sills may indicate moisture-softened framing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 37172.
+Earwig harborages in Springfield, TN meter boxes often follow drip irrigation overspray.
 
-Field note: Moisture pathway inspection logged near ZIP 37172 intake.
+Attic misting in Springfield, TN requires combustion air clearance verified before fans restart.
 
-Dispatch sectors sampled: ZIP 37172 (county grid: Robertson County).
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Dry-wood termite pellets in Springfield, TN attics may appear before exterior mud tubes.
+
+Mud dauber nests in Springfield, TN porch ceilings are benign but signal prey density for spiders.
+
+Seasonal cue 633369: cluster fly attic staging reviewed for Springfield, TN soffit cavities.
+
+Species trace 633369: re-entry interval label and conducive moisture note keyed to Springfield, TN elevation 728 ft.
+
+On-site sector marker: Robertson County / coords 36.4900, -86.8700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37172-f9d8db16

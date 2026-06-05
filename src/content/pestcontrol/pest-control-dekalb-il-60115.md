@@ -11,25 +11,39 @@ lng: -88.7500
 zipSample: ["60115"]
 zipCodes: ["60115"]
 localPaths: ["DeKalb County / ZIP 60115 sector", "DeKalb County / primary ZIP 60115", "DeKalb County / elevation 889 ft band", "DeKalb County / coords 41.9300, -88.7500"]
-zillowHomeValueUsd: 252751
 ---
 
-**Engineering Notice for DeKalb:** Structural loading calculated based on 889 ft terrain assessment. Regional dispatch grid: DeKalb County.
+**Engineering Notice for DeKalb:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeKalb County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Attic insulation disturbance in DeKalb, IL may indicate wildlife nesting routes.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 60115.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in DeKalb, IL, but intake notes help reduce delays.
+Risk flag: In DeKalb, IL, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Flea pupae survive vacuuming in DeKalb, IL carpet fibers unless heat treatment follows.
 
-We coordinate local dispatch coverage around DeKalb, IL and nearby ZIP sectors.
+Step: record station placement maps for follow-up visits.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60115.
+Perimeter mulch beds in DeKalb, IL should be reviewed for ant bridge paths.
 
-Dispatch sectors sampled: ZIP 60115 (county grid: DeKalb County).
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 60115.
+
+Powderpost beetle exit holes in DeKalb, IL trim can be mistaken for dry-wood frass without magnification.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Yellow jacket nests in DeKalb, IL soffit cavities peak in late summer routing windows.
+
+Bird mites in DeKalb, IL exhaust vents can persist after host nests are removed.
+
+Silverfish activity in DeKalb, IL attics tracks cardboard storage and ridge vent gaps.
+
+IGR packets for DeKalb, IL roach cycles should be dated on station lids.
+
+Seasonal cue 247239: cluster fly attic staging reviewed for DeKalb, IL soffit cavities.
+
+Regional mesh label DeKalb County: moisture and logistics baselines are keyed to DeKalb, IL before niche-specific work begins.
 
 Service reference: IL-60115-e84122e9

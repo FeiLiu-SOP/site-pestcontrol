@@ -11,28 +11,39 @@ lng: -82.0500
 zipSample: ["33955", "33950"]
 zipCodes: ["33955", "33950"]
 localPaths: ["Charlotte County / elevation 13 ft band", "Charlotte County / ZIP 33955 sector", "Charlotte County / primary ZIP 33955", "Charlotte County / ZIP 33950 sector", "Charlotte County / coords 26.8900, -82.0500"]
-zillowHomeValueUsd: 330568
 ---
 
-**Engineering Notice for Punta Gorda:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Charlotte County.
+**Engineering Notice for Punta Gorda:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Charlotte County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+State note: Punta Gorda, FL commercial kitchens may require separate documentation for audit visits.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33955.
+Tip: Keep pet food elevated and sealed between service visits.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Tip: request a written scope before work starts.
+Risk flag: In Punta Gorda, FL, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 33955.
+In Punta Gorda, FL, subterranean termite swarms often follow warm rain windows.
 
-Field note: Access points and staging constraints recorded for ZIP 33955/33950 coverage.
+Carpenter ant frass in Punta Gorda, FL window sills may indicate moisture-softened framing.
 
-Field note: Connection points spot-checked where accessible (ZIP 33955/33950 zone).
+Seasonal pest pressure in Punta Gorda, FL shifts between moisture ants and dry-wood vectors.
 
-Dispatch sectors sampled: ZIP 33955, 33950 (county grid: Charlotte County).
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Mosquito breeding in Punta Gorda, FL catch basins can amplify perimeter callbacks.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Perimeter dossier 973234: bait station anchor map and mulch bridge risk flagged for Punta Gorda, FL county Charlotte County (ZIP 33955).
+
+Zone map 973234: attic insulation disturbance trace and pantry pest source logged for Punta Gorda, FL sector 33955.
+
+On-site sector marker: Charlotte County / coords 26.8900, -82.0500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33955-18813424

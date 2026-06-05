@@ -11,27 +11,41 @@ lng: -92.9100
 zipSample: ["50158"]
 zipCodes: ["50158"]
 localPaths: ["Marshall County / primary ZIP 50158", "Marshall County / ZIP 50158 sector", "Marshall County / coords 42.0300, -92.9100", "Marshall County / elevation 902 ft band"]
-zillowHomeValueUsd: 174165
 ---
 
-**Engineering Notice for Marshalltown:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Marshall County.
+**Engineering Notice for Marshalltown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marshall County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Stink bug overwinter seams in Marshalltown, IA vinyl panels laps require exclusion foam rated for UV exposure.
 
-Tip: avoid large upfront payments without milestones.
+Mud dauber nests in Marshalltown, IA porch ceilings are benign but signal prey density for spiders.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 50158.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-In Marshalltown, IA, seasonal demand can change scheduling windows.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Moisture pathway inspection logged near ZIP 50158 intake.
+Request an inspection with species ID before treatment. Serving ZIP Code: 50158.
 
-Field note: Connection points spot-checked where accessible (ZIP 50158 zone).
+Cluster fly attic staging in Marshalltown, IA peaks on south-facing voids after sunny thaw days.
 
-Dispatch sectors sampled: ZIP 50158 (county grid: Marshall County).
+Tip: Log pet access routes when bait stations are placed.
+
+Earwig harborages in Marshalltown, IA meter boxes often follow drip irrigation overspray.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Carpenter ant frass in Marshalltown, IA window sills may indicate moisture-softened framing.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Exclusion audit 855031: exclusion mesh gauge and rodent runway grease mark reviewed for Marshalltown, IA at 42.0300/-92.9100.
+
+Primary postal anchor 50158 with multi-ZIP overlap in Marshalltown; field packets tag Marshall County for county-grid reconciliation.
 
 Service reference: IA-50158-f2842750

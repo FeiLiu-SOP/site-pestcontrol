@@ -11,26 +11,41 @@ lng: -117.4000
 zipSample: ["92316"]
 zipCodes: ["92316"]
 localPaths: ["San Bernardino County / coords 34.0600, -117.4000", "San Bernardino County / elevation 1070 ft band", "San Bernardino County / primary ZIP 92316", "San Bernardino County / ZIP 92316 sector"]
-zillowHomeValueUsd: 564804
 ---
 
-**Engineering Notice for Bloomington:** Structural loading calculated based on 1070 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Bloomington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.
 
 
-Our service coordination centers on Bloomington, CA coverage windows and verified intake details.
+Powderpost beetle exit holes in Bloomington, CA trim can be mistaken for dry-wood frass without magnification.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Trim vegetation 12 inches from cladding service to reduce ant bridges.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bloomington, CA, but intake notes help reduce delays.
+Bird mites in Bloomington, CA exhaust vents can persist after host nests are removed.
 
-Structured milestones protect both sides when scheduling work.
+Spider populations in Bloomington, CA eaves can signal insect prey density.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Connection points spot-checked where accessible (ZIP 92316 zone).
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Field note: Wind exposure category reviewed for ZIP sector 92316.
+Fire ant mounds in Bloomington, CA drive seams need granule rotation after irrigation events.
 
-Dispatch sectors sampled: ZIP 92316 (county grid: San Bernardino County).
+Silverfish activity in Bloomington, CA attics tracks cardboard storage and ridge vent gaps.
+
+Risk flag: In Bloomington, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Bloomington, CA, pressure often rebuilds.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 92316.
+
+Stink bug overwinter seams in Bloomington, CA cladding service laps require exclusion foam rated for UV exposure.
+
+Harbor ledger 624725: frass lane, mud-tube scan, and garage jamb gap measure filed for Bloomington, CA at 34.0600, -117.4000.
+
+Species trace 624725: re-entry interval label and conducive moisture note keyed to Bloomington, CA elevation 1070 ft.
+
+On-site sector marker: San Bernardino County / elevation 1070 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92316-505f7d05

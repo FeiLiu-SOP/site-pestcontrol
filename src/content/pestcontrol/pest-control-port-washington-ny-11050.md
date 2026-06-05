@@ -11,24 +11,39 @@ lng: -73.6800
 zipSample: ["11050"]
 zipCodes: ["11050"]
 localPaths: ["Nassau County / primary ZIP 11050", "Nassau County / elevation 187 ft band", "Nassau County / coords 40.8300, -73.6800", "Nassau County / ZIP 11050 sector"]
-zillowHomeValueUsd: 1301402
 ---
 
-**Engineering Notice for Port Washington:** Structural loading calculated based on 187 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Port Washington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Yellow jacket nests in Port Washington, NY soffit cavities peak in late summer routing windows.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Port Washington, NY, but intake notes help reduce delays.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-We coordinate local dispatch coverage around Port Washington, NY and nearby ZIP sectors.
+Cluster fly attic staging in Port Washington, NY peaks on south-facing voids after sunny thaw days.
 
-Field note: Access points and staging constraints recorded for ZIP 11050 coverage.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Dispatch sectors sampled: ZIP 11050 (county grid: Nassau County).
+Mud dauber nests in Port Washington, NY porch ceilings are benign but signal prey density for spiders.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+IGR packets for Port Washington, NY roach cycles should be dated on station lids.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Port Washington, NY.
+
+Flea pupae survive vacuuming in Port Washington, NY carpet fibers unless heat treatment follows.
+
+Intercept log 224811: bed bug intercept count staged before Port Washington, NY interior gel zones.
+
+On-site sector marker: Nassau County / coords 40.8300, -73.6800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11050-659ae1e9

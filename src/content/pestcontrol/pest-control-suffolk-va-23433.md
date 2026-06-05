@@ -11,24 +11,43 @@ lng: -76.6400
 zipSample: ["23436", "23435", "23438", "23432", "23434"]
 zipCodes: ["23437", "23432", "23435", "23434", "23436", "23433", "23438", "23439"]
 localPaths: ["Suffolk County / coords 36.7000, -76.6400", "Suffolk County / ZIP 23438 sector", "Suffolk County / ZIP 23436 sector", "Suffolk County / ZIP 23432 sector", "Suffolk County / ZIP 23434 sector"]
-zillowHomeValueUsd: 555304
 ---
 
-**Engineering Notice for Suffolk:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Suffolk:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Suffolk, VA, but intake notes help reduce delays.
+Silverfish activity in Suffolk, VA attics tracks cardboard storage and ridge vent gaps.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Date bait station lids when servicing Suffolk, VA perimeter lines.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-We coordinate local dispatch coverage around Suffolk, VA and nearby ZIP sectors.
+County grid Suffolk County informs routing near ZIP 23433.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 23435/23438/23436.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Dispatch sectors sampled: ZIP 23435, 23438, 23436, 23439, 23434 (county grid: Suffolk County).
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Mosquito breeding in Suffolk, VA catch basins can amplify perimeter callbacks.
+
+Cluster fly attic staging in Suffolk, VA peaks on south-facing voids after sunny thaw days.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Suffolk, VA.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Stink bug overwinter seams in Suffolk, VA wall restoration laps require exclusion foam rated for UV exposure.
+
+Risk flag: Overwatered Suffolk, VA planters can restart ant bridges within two weeks.
+
+Species trace 658521: re-entry interval label and conducive moisture note keyed to Suffolk, VA elevation 82 ft.
+
+Exclusion audit 658521: exclusion mesh gauge and rodent runway grease mark reviewed for Suffolk, VA at 36.7000/-76.6400.
+
+On-site sector marker: Suffolk County / ZIP 23438 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-23433-5e43d109

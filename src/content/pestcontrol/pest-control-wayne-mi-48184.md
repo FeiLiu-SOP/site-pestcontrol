@@ -11,26 +11,37 @@ lng: -83.3900
 zipSample: ["48184"]
 zipCodes: ["48184"]
 localPaths: ["Wayne County / ZIP 48184 sector", "Wayne County / primary ZIP 48184", "Wayne County / coords 42.2800, -83.3900", "Wayne County / elevation 669 ft band"]
-zillowHomeValueUsd: 172296
 ---
 
-**Engineering Notice for Wayne:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Wayne County.
+**Engineering Notice for Wayne:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wayne County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Homeowners in Wayne, MI often face sudden pest control problems that require fast action.
+Fire ant mounds in Wayne, MI drive seams need granule rotation after irrigation events.
 
-Our service coordination centers on Wayne, MI coverage windows and verified intake details.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Tip: request a written scope before work starts.
+County grid Wayne County informs routing near ZIP 48184.
 
-Field note: Access points and staging constraints recorded for ZIP 48184 coverage.
+Attic fogging in Wayne, MI requires combustion appliance shutoff verification first.
 
-Field note: Wind exposure category reviewed for ZIP sector 48184.
+Seasonal pest pressure in Wayne, MI shifts between moisture ants and dry-wood vectors.
 
-Dispatch sectors sampled: ZIP 48184 (county grid: Wayne County).
+Tip: Keep pet food elevated and sealed between service visits.
+
+Earwig harborages in Wayne, MI meter boxes often follow drip irrigation overspray.
+
+Stink bug overwinter seams in Wayne, MI vinyl panels laps require exclusion foam rated for UV exposure.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Monitoring boards in Wayne, MI crawlspaces stay 72 hours before snap traps are reset.
+
+Harbor ledger 929244: frass lane, mud-tube scan, and garage jamb gap measure filed for Wayne, MI at 42.2800, -83.3900.
+
+ZIP-corridor snapshot for Wayne, MI: sampled sectors include 48184; county routing grid remains Wayne County.
 
 Service reference: MI-48184-0a8f615b

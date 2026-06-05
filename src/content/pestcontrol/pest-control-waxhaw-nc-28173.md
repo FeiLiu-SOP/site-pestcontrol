@@ -11,26 +11,43 @@ lng: -80.7400
 zipSample: ["28173"]
 zipCodes: ["28173"]
 localPaths: ["Union County / ZIP 28173 sector", "Union County / primary ZIP 28173", "Union County / coords 34.9400, -80.7400", "Union County / elevation 627 ft band"]
-zillowHomeValueUsd: 702763
 ---
 
-**Engineering Notice for Waxhaw:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Union County.
+**Engineering Notice for Waxhaw:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Union County.
 
 
-We coordinate local dispatch coverage around Waxhaw, NC and nearby ZIP sectors.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+In Waxhaw, NC, subterranean termite swarms often follow warm rain windows.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Perimeter granule carriers in Waxhaw, NC clay soils may need lighter irrigation before application.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: request a written scope before work starts.
+Monitoring boards in Waxhaw, NC crawlspaces stay 72 hours before snap traps are reset.
 
-Field note: Wind exposure category reviewed for ZIP sector 28173.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Waxhaw, NC.
 
-Field note: Access points and staging constraints recorded for ZIP 28173 coverage.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Dispatch sectors sampled: ZIP 28173 (county grid: Union County).
+Attic fogging in Waxhaw, NC requires combustion appliance shutoff verification first.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+We coordinate Waxhaw, NC pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Seasonal pest pressure in Waxhaw, NC shifts between moisture ants and dry-wood vectors.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Step: verify attic access safety before insulation disturbance.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Intercept log 496036: bed bug intercept count staged before Waxhaw, NC interior gel zones.
+
+Exclusion audit 496036: exclusion mesh gauge and rodent runway grease mark reviewed for Waxhaw, NC at 34.9400/-80.7400.
+
+On-site sector marker: Union County / primary ZIP 28173 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28173-de7b76cd

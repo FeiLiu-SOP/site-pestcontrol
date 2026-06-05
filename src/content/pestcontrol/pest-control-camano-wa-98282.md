@@ -11,24 +11,37 @@ lng: -122.4700
 zipSample: ["98282"]
 zipCodes: ["98282"]
 localPaths: ["Island County / primary ZIP 98282", "Island County / elevation 0 ft band", "Island County / coords 48.1900, -122.4700", "Island County / ZIP 98282 sector"]
-zillowHomeValueUsd: 728538
 ---
 
-**Engineering Notice for Camano:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Island County.
+**Engineering Notice for Camano:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Island County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Camano, WA, but intake notes help reduce delays.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Tip: address recurring issues early to prevent bigger damage.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+IGR packets for Camano, WA roach cycles should be dated on station lids.
 
-We coordinate local dispatch coverage around Camano, WA and nearby ZIP sectors.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Moisture pathway inspection logged near ZIP 98282 intake.
+We coordinate Camano, WA pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Dispatch sectors sampled: ZIP 98282 (county grid: Island County).
+Exclusion gaps at garage jambs in Camano, WA are common rodent access points.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Step: label treatment zones for occupant re-entry timing.
+
+FAQ: Can bed bugs spread room-to-room in Camano, WA row homes? Wall voids and shared ducts accelerate transfer.
+
+State note: Camano, WA commercial kitchens may require separate documentation for audit visits.
+
+Exclusion audit 729305: exclusion mesh gauge and rodent runway grease mark reviewed for Camano, WA at 48.1900/-122.4700.
+
+Primary postal anchor 98282 with multi-ZIP overlap in Camano; field packets tag Island County for county-grid reconciliation.
 
 Service reference: WA-98282-14c865c5

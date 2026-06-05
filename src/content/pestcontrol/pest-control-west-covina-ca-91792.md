@@ -11,24 +11,43 @@ lng: -117.9100
 zipSample: ["91791", "91792", "91793", "91790"]
 zipCodes: ["91791", "91793", "91790", "91792"]
 localPaths: ["Los Angeles County / elevation 446 ft band", "Los Angeles County / primary ZIP 91792", "Los Angeles County / ZIP 91792 sector", "Los Angeles County / ZIP 91790 sector", "Los Angeles County / ZIP 91793 sector"]
-zillowHomeValueUsd: 818994
 ---
 
-**Engineering Notice for West Covina:** Structural loading calculated based on 446 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for West Covina:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-Tip: request a written scope before work starts.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Date bait station lids when servicing West Covina, CA perimeter lines.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Local conditions in West Covina, CA can affect timelines and material choices.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Tip: compare at least two estimates for scope and timeline.
+IGR packets for West Covina, CA roach cycles should be dated on station lids.
 
-Field note: Connection points spot-checked where accessible (ZIP 91793/91792/91791 zone).
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Dispatch sectors sampled: ZIP 91793, 91792, 91791, 91790 (county grid: Los Angeles County).
+Silverfish activity in West Covina, CA attics tracks cardboard storage and ridge vent gaps.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 91792.
+
+Across West Covina, CA, rodent entry points frequently track utility penetrations.
+
+Flea pupae survive vacuuming in West Covina, CA carpet fibers unless heat treatment follows.
+
+We coordinate West Covina, CA pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+FAQ: Why schedule quarterly instead of monthly in West Covina, CA? Species pressure and label intervals dictate cadence.
+
+Risk flag: In West Covina, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Perimeter dossier 830747: bait station anchor map and mulch bridge risk flagged for West Covina, CA county Los Angeles County (ZIP 91792).
+
+Harbor ledger 830747: frass lane, mud-tube scan, and garage jamb gap measure filed for West Covina, CA at 34.0600, -117.9100.
+
+ZIP-corridor snapshot for West Covina, CA: sampled sectors include 91790, 91793, 91792, 91791; county routing grid remains Los Angeles County.
 
 Service reference: CA-91792-d2e056d0

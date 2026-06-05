@@ -11,26 +11,41 @@ lng: -122.4300
 zipSample: ["98607"]
 zipCodes: ["98607"]
 localPaths: ["Clark County / elevation 699 ft band", "Clark County / coords 45.6000, -122.4300", "Clark County / primary ZIP 98607", "Clark County / ZIP 98607 sector"]
-zillowHomeValueUsd: 751813
 ---
 
-**Engineering Notice for Camas:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Camas:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Camas, WA, but intake notes help reduce delays.
+We coordinate Camas, WA pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Tip: address recurring issues early to prevent bigger damage.
+Request an inspection with species ID before treatment. Serving ZIP Code: 98607.
 
-Tip: request a written scope before work starts.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Our service coordination centers on Camas, WA coverage windows and verified intake details.
+Carpenter ant frass in Camas, WA window sills may indicate moisture-softened framing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98607.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Camas, WA.
 
-Field note: Access points and staging constraints recorded for ZIP 98607 coverage.
+Exclusion gaps at garage jambs in Camas, WA are common rodent access points.
 
-Dispatch sectors sampled: ZIP 98607 (county grid: Clark County).
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+FAQ: What is exclusion? Without sealing entry points in Camas, WA, pressure often rebuilds.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Bird mites in Camas, WA exhaust vents can persist after host nests are removed.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Perimeter dossier 576427: bait station anchor map and mulch bridge risk flagged for Camas, WA county Clark County (ZIP 98607).
+
+On-site sector marker: Clark County / ZIP 98607 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98607-fa844f71

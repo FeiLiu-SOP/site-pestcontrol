@@ -11,24 +11,43 @@ lng: -93.3600
 zipSample: ["70665", "70663"]
 zipCodes: ["70663", "70665"]
 localPaths: ["Calcasieu Parish / elevation 43 ft band", "Calcasieu Parish / ZIP 70665 sector", "Calcasieu Parish / ZIP 70663 sector", "Calcasieu Parish / coords 30.2300, -93.3600", "Calcasieu Parish / primary ZIP 70663"]
-zillowHomeValueUsd: 177416
 ---
 
-**Engineering Notice for Sulphur:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Calcasieu Parish.
+**Engineering Notice for Sulphur:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Calcasieu Parish.
 
 
-Local conditions in Sulphur, LA can affect timelines and material choices.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Sulphur, LA, but intake notes help reduce delays.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Carpenter ant frass in Sulphur, LA window sills may indicate moisture-softened framing.
 
-Our service coordination centers on Sulphur, LA coverage windows and verified intake details.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Tip: confirm licensing and insurance before approving work.
+Cluster fly attic staging in Sulphur, LA peaks on south-facing voids after sunny thaw days.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 70663/70665.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Dispatch sectors sampled: ZIP 70663, 70665 (county grid: Calcasieu Parish).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 70663.
+
+Risk flag: Overwatered Sulphur, LA planters can restart ant bridges within two weeks.
+
+Bird mites in Sulphur, LA exhaust vents can persist after host nests are removed.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Wildlife odors in Sulphur, LA crawlspaces may attract secondary pest activity.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+County grid Calcasieu Parish informs routing near ZIP 70663.
+
+Mud dauber nests in Sulphur, LA porch ceilings are benign but signal prey density for spiders.
+
+Intercept log 663757: bed bug intercept count staged before Sulphur, LA interior gel zones.
+
+Seasonal cue 663757: cluster fly attic staging reviewed for Sulphur, LA soffit cavities.
+
+On-site sector marker: Calcasieu Parish / primary ZIP 70663 — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70663-2e5b0f70

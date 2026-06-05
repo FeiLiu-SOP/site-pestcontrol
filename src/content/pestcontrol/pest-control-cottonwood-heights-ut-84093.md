@@ -11,25 +11,39 @@ lng: -111.8100
 zipSample: ["84093", "84171", "84121"]
 zipCodes: ["84093", "84171", "84121"]
 localPaths: ["Salt Lake County / primary ZIP 84093", "Salt Lake County / coords 40.6100, -111.8100", "Salt Lake County / ZIP 84121 sector", "Salt Lake County / ZIP 84171 sector", "Salt Lake County / elevation 4849 ft band"]
-zillowHomeValueUsd: 800622
 ---
 
-**Engineering Notice for Cottonwood Heights:** Structural loading calculated based on 4849 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Cottonwood Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Salt Lake County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic fogging in Cottonwood Heights, UT requires combustion appliance shutoff verification first.
 
-Tip: confirm licensing and insurance before approving work.
+Stink bug overwinter seams in Cottonwood Heights, UT wall restoration laps require exclusion foam rated for UV exposure.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: record station placement maps for follow-up visits.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 84093.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84121/84093/84171.
+Tip: Trim vegetation 12 inches from cladding service to reduce ant bridges.
 
-Dispatch sectors sampled: ZIP 84121, 84093, 84171 (county grid: Salt Lake County).
+Tip: Date bait station lids when servicing Cottonwood Heights, UT perimeter lines.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Risk flag: In Cottonwood Heights, UT, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Exclusion gaps at garage jambs in Cottonwood Heights, UT are common rodent access points.
+
+Harbor ledger 477964: frass lane, mud-tube scan, and garage jamb gap measure filed for Cottonwood Heights, UT at 40.6100, -111.8100.
+
+Regional mesh label Salt Lake County: moisture and logistics baselines are keyed to Cottonwood Heights, UT before niche-specific work begins.
 
 Service reference: UT-84093-d228a43d

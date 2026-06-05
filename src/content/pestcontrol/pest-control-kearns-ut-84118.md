@@ -11,27 +11,39 @@ lng: -112.0100
 zipSample: ["84118"]
 zipCodes: ["84118"]
 localPaths: ["Salt Lake County / coords 40.6500, -112.0100", "Salt Lake County / elevation 4692 ft band", "Salt Lake County / ZIP 84118 sector", "Salt Lake County / primary ZIP 84118"]
-zillowHomeValueUsd: 450854
 ---
 
-**Engineering Notice for Kearns:** Structural loading calculated based on 4692 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Kearns:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Salt Lake County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 84118.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Monitoring boards in Kearns, UT crawlspaces stay 72 hours before snap traps are reset.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 84118.
 
-Clear documentation helps align materials, labor, and timeline.
+Cluster fly attic staging in Kearns, UT peaks on south-facing voids after sunny thaw days.
 
-Field note: Access points and staging constraints recorded for ZIP 84118 coverage.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84118.
+Humidity in Kearns, UT can sustain cockroach harborages behind appliance voids.
 
-Dispatch sectors sampled: ZIP 84118 (county grid: Salt Lake County).
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Flea pupae survive vacuuming in Kearns, UT carpet fibers unless heat treatment follows.
+
+Mud dauber nests in Kearns, UT porch ceilings are benign but signal prey density for spiders.
+
+Bird mites in Kearns, UT exhaust vents can persist after host nests are removed.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Intercept log 689944: bed bug intercept count staged before Kearns, UT interior gel zones.
+
+On-site sector marker: Salt Lake County / ZIP 84118 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84118-704901ee

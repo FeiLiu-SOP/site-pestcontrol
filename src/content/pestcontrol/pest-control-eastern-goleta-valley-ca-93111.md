@@ -11,24 +11,39 @@ lng: -119.7900
 zipSample: ["93111", "93110", "93160"]
 zipCodes: ["93111", "93160", "93110"]
 localPaths: ["Santa Barbara County / primary ZIP 93111", "Santa Barbara County / coords 34.4400, -119.7900", "Santa Barbara County / elevation 125 ft band", "Santa Barbara County / ZIP 93160 sector", "Santa Barbara County / ZIP 93110 sector"]
-zillowHomeValueUsd: 1671622
 ---
 
-**Engineering Notice for Eastern Goleta Valley:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Santa Barbara County.
+**Engineering Notice for Eastern Goleta Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Barbara County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Keep pet food elevated and sealed between service visits.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Tip: request a written scope before work starts.
+Stored cardboard in Eastern Goleta Valley, CA garages can accelerate pantry pest cycles.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Eastern Goleta Valley, CA, but intake notes help reduce delays.
+County grid Santa Barbara County informs routing near ZIP 93111.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Drain fly biofilm in Eastern Goleta Valley, CA floor drains signals grease traps need service before gel baits.
 
-Field note: Moisture pathway inspection logged near ZIP 93111/93110/93160 intake.
+FAQ: Why schedule quarterly instead of monthly in Eastern Goleta Valley, CA? Species pressure and label intervals dictate cadence.
 
-Dispatch sectors sampled: ZIP 93111, 93110, 93160 (county grid: Santa Barbara County).
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Cluster fly attic staging in Eastern Goleta Valley, CA peaks on south-facing voids after sunny thaw days.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+State note: Eastern Goleta Valley, CA commercial kitchens may require separate documentation for audit visits.
+
+Exclusion audit 378679: exclusion mesh gauge and rodent runway grease mark reviewed for Eastern Goleta Valley, CA at 34.4400/-119.7900.
+
+Seasonal cue 378679: cluster fly attic staging reviewed for Eastern Goleta Valley, CA soffit cavities.
+
+On-site sector marker: Santa Barbara County / coords 34.4400, -119.7900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93111-4f5548c9

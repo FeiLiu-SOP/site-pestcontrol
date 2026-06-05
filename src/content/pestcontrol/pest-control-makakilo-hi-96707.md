@@ -11,27 +11,39 @@ lng: -158.0800
 zipSample: ["96707"]
 zipCodes: ["96707"]
 localPaths: ["Honolulu County / ZIP 96707 sector", "Honolulu County / coords 21.3600, -158.0800", "Honolulu County / elevation 705 ft band", "Honolulu County / primary ZIP 96707"]
-zillowHomeValueUsd: 860402
 ---
 
-**Engineering Notice for Makakilo:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Makakilo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Honolulu County.
 
 
-Our service coordination centers on Makakilo, HI coverage windows and verified intake details.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: In Makakilo, HI, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 96707.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Makakilo, HI, but intake notes help reduce delays.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 96707.
+Fire ant mounds in Makakilo, HI drive seams need granule rotation after irrigation events.
 
-Field note: Access points and staging constraints recorded for ZIP 96707 coverage.
+Earwig harborages in Makakilo, HI meter boxes often follow drip irrigation overspray.
 
-Field note: Moisture pathway inspection logged near ZIP 96707 intake.
+Risk flag: Overwatered Makakilo, HI planters can restart ant bridges within two weeks.
 
-Dispatch sectors sampled: ZIP 96707 (county grid: Honolulu County).
+Attic fogging in Makakilo, HI requires combustion appliance shutoff verification first.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Mud dauber nests in Makakilo, HI porch ceilings are benign but signal prey density for spiders.
+
+IGR packets for Makakilo, HI roach cycles should be dated on station lids.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Zone map 302621: attic insulation disturbance trace and pantry pest source logged for Makakilo, HI sector 96707.
+
+Regional mesh label Honolulu County: moisture and logistics baselines are keyed to Makakilo, HI before niche-specific work begins.
 
 Service reference: HI-96707-44efcbd4

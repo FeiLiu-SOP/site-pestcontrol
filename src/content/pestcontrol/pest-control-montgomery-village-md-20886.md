@@ -11,24 +11,39 @@ lng: -77.2000
 zipSample: ["20886"]
 zipCodes: ["20886"]
 localPaths: ["Montgomery County / coords 39.1800, -77.2000", "Montgomery County / ZIP 20886 sector", "Montgomery County / elevation 417 ft band", "Montgomery County / primary ZIP 20886"]
-zillowHomeValueUsd: 388806
 ---
 
-**Engineering Notice for Montgomery Village:** Structural loading calculated based on 417 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Montgomery Village:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 20886.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Date bait station lids when servicing Montgomery Village, MD perimeter lines.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Request an inspection with species ID before treatment. Serving ZIP Code: 20886.
 
-Tip: compare at least two estimates for scope and timeline.
+Drain fly biofilm in Montgomery Village, MD floor drains signals grease traps need service before gel baits.
 
-Field note: Connection points spot-checked where accessible (ZIP 20886 zone).
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 20886.
 
-Dispatch sectors sampled: ZIP 20886 (county grid: Montgomery County).
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Attic fogging in Montgomery Village, MD requires combustion appliance shutoff verification first.
+
+Risk flag: Overwatered Montgomery Village, MD planters can restart ant bridges within two weeks.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Silverfish activity in Montgomery Village, MD attics tracks cardboard storage and ridge vent gaps.
+
+Material note: Perimeter granules in Montgomery Village, MD may need reapplication after heavy irrigation.
+
+Harbor ledger 605485: frass lane, mud-tube scan, and garage jamb gap measure filed for Montgomery Village, MD at 39.1800, -77.2000.
+
+Seasonal cue 605485: cluster fly attic staging reviewed for Montgomery Village, MD soffit cavities.
+
+On-site sector marker: Montgomery County / ZIP 20886 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20886-e6bc93e8

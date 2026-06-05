@@ -11,27 +11,37 @@ lng: -118.2400
 zipSample: ["91224", "91214", "91021", "91020"]
 zipCodes: ["91214", "91020", "91224", "91021"]
 localPaths: ["Los Angeles County / ZIP 91020 sector", "Los Angeles County / ZIP 91224 sector", "Los Angeles County / coords 34.2300, -118.2400", "Los Angeles County / ZIP 91021 sector", "Los Angeles County / ZIP 91214 sector"]
-zillowHomeValueUsd: 1257874
 ---
 
-**Engineering Notice for La Crescenta-Montrose:** Structural loading calculated based on 1844 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for La Crescenta-Montrose:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-We coordinate local dispatch coverage around La Crescenta-Montrose, CA and nearby ZIP sectors.
+Exclusion gaps at garage jambs in La Crescenta-Montrose, CA are common rodent access points.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+County grid Los Angeles County informs routing near ZIP 91214.
 
-Tip: avoid large upfront payments without milestones.
+Bird mites in La Crescenta-Montrose, CA exhaust vents can persist after host nests are removed.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 91214.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Moisture pathway inspection logged near ZIP 91224/91020/91214 intake.
+Carpenter ant frass in La Crescenta-Montrose, CA window sills may indicate moisture-softened framing.
 
-Field note: Connection points spot-checked where accessible (ZIP 91224/91020/91214 zone).
+Fire ant mounds in La Crescenta-Montrose, CA drive seams need granule rotation after irrigation events.
 
-Dispatch sectors sampled: ZIP 91224, 91020, 91214, 91021 (county grid: Los Angeles County).
+Yellow jacket nests in La Crescenta-Montrose, CA soffit cavities peak in late summer routing windows.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in La Crescenta-Montrose, CA.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 91214.
+
+Perimeter granule carriers in La Crescenta-Montrose, CA clay soils may need lighter irrigation before application.
+
+Zone map 573167: attic insulation disturbance trace and pantry pest source logged for La Crescenta-Montrose, CA sector 91214.
+
+On-site sector marker: Los Angeles County / ZIP 91214 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91214-6eb67457

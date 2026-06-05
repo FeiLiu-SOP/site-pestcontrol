@@ -11,26 +11,39 @@ lng: -94.7400
 zipSample: ["66117", "66105", "66110", "66104", "66109"]
 zipCodes: ["66111", "66112", "66118", "66106", "66117", "66103", "66104", "66110", "66105", "66101", "66119", "66102"]
 localPaths: ["Wyandotte County / ZIP 66105 sector", "Wyandotte County / coords 39.1200, -94.7400", "Wyandotte County / primary ZIP 66101", "Wyandotte County / ZIP 66104 sector", "Wyandotte County / ZIP 66110 sector"]
-zillowHomeValueUsd: 123553
 ---
 
-**Engineering Notice for Kansas City:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Wyandotte County.
+**Engineering Notice for Kansas City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wyandotte County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Kansas City, KS, but intake notes help reduce delays.
+Drain fly biofilm in Kansas City, KS floor drains signals grease traps need service before gel baits.
 
-Tip: compare at least two estimates for scope and timeline.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: request a written scope before work starts.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep pet food elevated and sealed between service visits.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Perimeter mulch beds in Kansas City, KS should be reviewed for ant bridge paths.
 
-Field note: Access points and staging constraints recorded for ZIP 66115/66101/66105 coverage.
+Stink bug overwinter seams in Kansas City, KS vinyl panels laps require exclusion foam rated for UV exposure.
 
-Field note: Wind exposure category reviewed for ZIP sector 66115/66101/66105.
+Attic misting in Kansas City, KS requires combustion air clearance verified before fans restart.
 
-Dispatch sectors sampled: ZIP 66115, 66101, 66105, 66102, 66111 (county grid: Wyandotte County).
+Powderpost beetle exit holes in Kansas City, KS trim can be mistaken for dry-wood frass without magnification.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Cluster fly attic staging in Kansas City, KS peaks on south-facing voids after sunny thaw days.
+
+Material note: Perimeter granules in Kansas City, KS may need reapplication after heavy irrigation.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Intercept log 221870: bed bug intercept count staged before Kansas City, KS interior gel zones.
+
+On-site sector marker: Wyandotte County / coords 39.1200, -94.7400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: KS-66101-edc6c3a7

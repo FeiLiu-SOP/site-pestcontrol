@@ -11,26 +11,39 @@ lng: -119.8600
 zipSample: ["93118", "93117"]
 zipCodes: ["93117", "93118"]
 localPaths: ["Santa Barbara County / primary ZIP 93117", "Santa Barbara County / ZIP 93118 sector", "Santa Barbara County / elevation 46 ft band", "Santa Barbara County / ZIP 93117 sector", "Santa Barbara County / coords 34.4400, -119.8600"]
-zillowHomeValueUsd: 1378723
 ---
 
-**Engineering Notice for Goleta:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Santa Barbara County.
+**Engineering Notice for Goleta:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Barbara County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Goleta, CA, but intake notes help reduce delays.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Local conditions in Goleta, CA can affect timelines and material choices.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Tip: request a written scope before work starts.
+Risk flag: In Goleta, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 93117/93118.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Moisture pathway inspection logged near ZIP 93117/93118 intake.
+Risk flag: Overwatered Goleta, CA planters can restart ant bridges within two weeks.
 
-Dispatch sectors sampled: ZIP 93117, 93118 (county grid: Santa Barbara County).
+State note: Goleta, CA commercial kitchens may require separate documentation for audit visits.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Yellow jacket nests in Goleta, CA soffit cavities peak in late summer routing windows.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+FAQ: Why schedule quarterly instead of monthly in Goleta, CA? Species pressure and label intervals dictate cadence.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 93117.
+
+Perimeter dossier 371737: bait station anchor map and mulch bridge risk flagged for Goleta, CA county Santa Barbara County (ZIP 93117).
+
+Regional mesh label Santa Barbara County: moisture and logistics baselines are keyed to Goleta, CA before niche-specific work begins.
 
 Service reference: CA-93117-0cbcde3f

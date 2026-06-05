@@ -11,26 +11,39 @@ lng: -74.3500
 zipSample: ["12078"]
 zipCodes: ["12078"]
 localPaths: ["Fulton County / elevation 804 ft band", "Fulton County / ZIP 12078 sector", "Fulton County / coords 43.0500, -74.3500", "Fulton County / primary ZIP 12078"]
-zillowHomeValueUsd: 170574
 ---
 
-**Engineering Notice for Gloversville:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Fulton County.
+**Engineering Notice for Gloversville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fulton County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Dry-wood termite pellets in Gloversville, NY attics may appear before exterior mud tubes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Mud dauber nests in Gloversville, NY porch ceilings are benign but signal prey density for spiders.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Gloversville, NY, but intake notes help reduce delays.
+Mosquito breeding in Gloversville, NY catch basins can amplify perimeter callbacks.
 
-Our service coordination centers on Gloversville, NY coverage windows and verified intake details.
+Attic insulation disturbance in Gloversville, NY may indicate wildlife nesting routes.
 
-Field note: Moisture pathway inspection logged near ZIP 12078 intake.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Connection points spot-checked where accessible (ZIP 12078 zone).
+Drain fly biofilm in Gloversville, NY floor drains signals grease traps need service before gel baits.
 
-Dispatch sectors sampled: ZIP 12078 (county grid: Fulton County).
+Monitoring boards in Gloversville, NY crawlspaces stay 72 hours before snap traps are reset.
+
+Tip: Date bait station lids when servicing Gloversville, NY perimeter lines.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Across Gloversville, NY, rodent entry points frequently track utility penetrations.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Species trace 854420: re-entry interval label and conducive moisture note keyed to Gloversville, NY elevation 804 ft.
+
+Intercept log 854420: bed bug intercept count staged before Gloversville, NY interior gel zones.
+
+On-site sector marker: Fulton County / primary ZIP 12078 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-12078-e5b6b0fa

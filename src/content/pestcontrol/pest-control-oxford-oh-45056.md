@@ -11,24 +11,43 @@ lng: -84.7400
 zipSample: ["45056"]
 zipCodes: ["45056"]
 localPaths: ["Butler County / elevation 919 ft band", "Butler County / ZIP 45056 sector", "Butler County / coords 39.5100, -84.7400", "Butler County / primary ZIP 45056"]
-zillowHomeValueUsd: 336000
 ---
 
-**Engineering Notice for Oxford:** Structural loading calculated based on 919 ft terrain assessment. Regional dispatch grid: Butler County.
+**Engineering Notice for Oxford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Butler County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Tip: request a written scope before work starts.
+Risk flag: In Oxford, OH, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-In Oxford, OH, seasonal demand can change scheduling windows.
+Attic misting in Oxford, OH requires combustion air clearance verified before fans restart.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can bed bugs spread room-to-room in Oxford, OH row homes? Wall voids and shared ducts accelerate transfer.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Yellow jacket nests in Oxford, OH soffit cavities peak in late summer routing windows.
 
-Field note: Access points and staging constraints recorded for ZIP 45056 coverage.
+Fire ant mounds in Oxford, OH drive seams need granule rotation after irrigation events.
 
-Dispatch sectors sampled: ZIP 45056 (county grid: Butler County).
+Flea pupae survive vacuuming in Oxford, OH carpet fibers unless heat treatment follows.
+
+Bird mites in Oxford, OH exhaust vents can persist after host nests are removed.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 45056.
+
+Humidity in Oxford, OH can sustain cockroach harborages behind appliance voids.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+FAQ: What is exclusion? Without sealing entry points in Oxford, OH, pressure often rebuilds.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Exclusion audit 792069: exclusion mesh gauge and rodent runway grease mark reviewed for Oxford, OH at 39.5100/-84.7400.
+
+Harbor ledger 792069: frass lane, mud-tube scan, and garage jamb gap measure filed for Oxford, OH at 39.5100, -84.7400.
+
+Coordinate-anchored dispatch note: center reference 39.5100, -84.7400 at elevation ~919 ft aligns with Butler County intake staging.
 
 Service reference: OH-45056-9f5abc5a

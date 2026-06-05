@@ -11,26 +11,41 @@ lng: -85.5900
 zipSample: ["49005", "49008", "49074", "49006", "49019"]
 zipCodes: ["49074", "49019", "49007", "49001", "49005", "49008", "49006"]
 localPaths: ["Kalamazoo County / elevation 784 ft band", "Kalamazoo County / ZIP 49008 sector", "Kalamazoo County / ZIP 49019 sector", "Kalamazoo County / primary ZIP 49001", "Kalamazoo County / ZIP 49006 sector"]
-zillowHomeValueUsd: 163343
 ---
 
-**Engineering Notice for Kalamazoo:** Structural loading calculated based on 784 ft terrain assessment. Regional dispatch grid: Kalamazoo County.
+**Engineering Notice for Kalamazoo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kalamazoo County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Kalamazoo, MI, but intake notes help reduce delays.
+Seasonal pest pressure in Kalamazoo, MI shifts between moisture ants and dry-wood vectors.
 
-Transparent pricing helps you compare like-for-like scope items.
+State note: Kalamazoo, MI commercial kitchens may require separate documentation for audit visits.
 
-We coordinate local dispatch coverage around Kalamazoo, MI and nearby ZIP sectors.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Overwatered Kalamazoo, MI planters can restart ant bridges within two weeks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Moisture pathway inspection logged near ZIP 49007/49074/49005 intake.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 49007/49074/49005.
+Stored cardboard in Kalamazoo, MI garages can accelerate pantry pest cycles.
 
-Dispatch sectors sampled: ZIP 49007, 49074, 49005, 49001, 49006 (county grid: Kalamazoo County).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 49001.
+
+Stink bug overwinter seams in Kalamazoo, MI vinyl panels laps require exclusion foam rated for UV exposure.
+
+Flea pupae survive vacuuming in Kalamazoo, MI carpet fibers unless heat treatment follows.
+
+FAQ: Can bed bugs spread room-to-room in Kalamazoo, MI row homes? Wall voids and shared ducts accelerate transfer.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Kalamazoo, MI.
+
+Step: record station placement maps for follow-up visits.
+
+Zone map 246804: attic insulation disturbance trace and pantry pest source logged for Kalamazoo, MI sector 49001.
+
+On-site sector marker: Kalamazoo County / ZIP 49019 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-49001-109d3226

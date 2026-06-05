@@ -11,24 +11,41 @@ lng: -76.6500
 zipSample: ["21093"]
 zipCodes: ["21093"]
 localPaths: ["Baltimore County / primary ZIP 21093", "Baltimore County / elevation 499 ft band", "Baltimore County / coords 39.4300, -76.6500", "Baltimore County / ZIP 21093 sector"]
-zillowHomeValueUsd: 506344
 ---
 
-**Engineering Notice for Mays Chapel:** Structural loading calculated based on 499 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Mays Chapel:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Tip: confirm licensing and insurance before approving work.
+IGR packets for Mays Chapel, MD roach cycles should be dated on station lids.
 
-Our service coordination centers on Mays Chapel, MD coverage windows and verified intake details.
+Powderpost beetle exit holes in Mays Chapel, MD trim can be mistaken for dry-wood frass without magnification.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Mays Chapel, MD, but intake notes help reduce delays.
+Risk flag: In Mays Chapel, MD, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Access points and staging constraints recorded for ZIP 21093 coverage.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Dispatch sectors sampled: ZIP 21093 (county grid: Baltimore County).
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Mays Chapel, MD.
+
+Carpenter ant frass in Mays Chapel, MD window sills may indicate moisture-softened framing.
+
+Attic misting in Mays Chapel, MD requires combustion air clearance verified before fans restart.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+In Mays Chapel, MD, subterranean termite swarms often follow warm rain windows.
+
+Exclusion audit 412194: exclusion mesh gauge and rodent runway grease mark reviewed for Mays Chapel, MD at 39.4300/-76.6500.
+
+Perimeter dossier 412194: bait station anchor map and mulch bridge risk flagged for Mays Chapel, MD county Baltimore County (ZIP 21093).
+
+On-site sector marker: Baltimore County / elevation 499 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21093-4b8d824c

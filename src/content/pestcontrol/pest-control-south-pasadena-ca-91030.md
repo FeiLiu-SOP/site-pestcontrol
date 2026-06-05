@@ -11,24 +11,37 @@ lng: -118.1600
 zipSample: ["91030", "91031"]
 zipCodes: ["91031", "91030"]
 localPaths: ["Los Angeles County / elevation 653 ft band", "Los Angeles County / primary ZIP 91030", "Los Angeles County / ZIP 91030 sector", "Los Angeles County / coords 34.1100, -118.1600", "Los Angeles County / ZIP 91031 sector"]
-zillowHomeValueUsd: 1693538
 ---
 
-**Engineering Notice for South Pasadena:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for South Pasadena:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 91030.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in South Pasadena, CA, but intake notes help reduce delays.
+Tip: Date bait station lids when servicing South Pasadena, CA perimeter lines.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Our service coordination centers on South Pasadena, CA coverage windows and verified intake details.
+Mosquito breeding in South Pasadena, CA catch basins can amplify perimeter callbacks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 91031/91030.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Dispatch sectors sampled: ZIP 91031, 91030 (county grid: Los Angeles County).
+Flea pupae survive vacuuming in South Pasadena, CA carpet fibers unless heat treatment follows.
+
+Stink bug overwinter seams in South Pasadena, CA vinyl panels laps require exclusion foam rated for UV exposure.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Attic insulation disturbance in South Pasadena, CA may indicate wildlife nesting routes.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+Seasonal cue 543029: cluster fly attic staging reviewed for South Pasadena, CA soffit cavities.
+
+On-site sector marker: Los Angeles County / primary ZIP 91030 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91030-c5d4a374

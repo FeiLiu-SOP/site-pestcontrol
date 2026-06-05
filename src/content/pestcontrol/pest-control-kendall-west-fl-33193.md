@@ -11,26 +11,43 @@ lng: -80.4400
 zipSample: ["33193", "33185"]
 zipCodes: ["33193", "33185"]
 localPaths: ["Miami-Dade County / coords 25.7100, -80.4400", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / primary ZIP 33193", "Miami-Dade County / ZIP 33193 sector", "Miami-Dade County / ZIP 33185 sector"]
-zillowHomeValueUsd: 443198
 ---
 
-**Engineering Notice for Kendall West:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Kendall West:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Kendall West, FL, but intake notes help reduce delays.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Kendall West, FL, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-We coordinate local dispatch coverage around Kendall West, FL and nearby ZIP sectors.
+Flea pupae survive vacuuming in Kendall West, FL carpet fibers unless heat treatment follows.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Cluster fly attic staging in Kendall West, FL peaks on south-facing voids after sunny thaw days.
 
-Field note: Wind exposure category reviewed for ZIP sector 33193/33185.
+Drain fly biofilm in Kendall West, FL floor drains signals grease traps need service before gel baits.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33193/33185.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Dispatch sectors sampled: ZIP 33193, 33185 (county grid: Miami-Dade County).
+Step: verify attic access safety before insulation disturbance.
+
+Earwig harborages in Kendall West, FL meter boxes often follow drip irrigation overspray.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 33193.
+
+Perimeter mulch beds in Kendall West, FL should be reviewed for ant bridge paths.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+State note: Kendall West, FL commercial kitchens may require separate documentation for audit visits.
+
+Bird mites in Kendall West, FL exhaust vents can persist after host nests are removed.
+
+Seasonal cue 779909: cluster fly attic staging reviewed for Kendall West, FL soffit cavities.
+
+Harbor ledger 779909: frass lane, mud-tube scan, and garage jamb gap measure filed for Kendall West, FL at 25.7100, -80.4400.
+
+ZIP-corridor snapshot for Kendall West, FL: sampled sectors include 33185, 33193; county routing grid remains Miami-Dade County.
 
 Service reference: FL-33193-ad0d63e8

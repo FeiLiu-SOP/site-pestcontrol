@@ -11,24 +11,39 @@ lng: -99.3200
 zipSample: ["67601"]
 zipCodes: ["67601"]
 localPaths: ["Ellis County / elevation 2047 ft band", "Ellis County / ZIP 67601 sector", "Ellis County / primary ZIP 67601", "Ellis County / coords 38.8800, -99.3200"]
-zillowHomeValueUsd: 254479
 ---
 
-**Engineering Notice for Hays:** Structural loading calculated based on 2047 ft terrain assessment. Regional dispatch grid: Ellis County.
+**Engineering Notice for Hays:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ellis County.
 
 
-We coordinate local dispatch coverage around Hays, KS and nearby ZIP sectors.
+Bird mites in Hays, KS exhaust vents can persist after host nests are removed.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Tip: compare at least two estimates for scope and timeline.
+Clover mite staining on Hays, KS cladding service follows foundation mulch against brick ledges.
 
-Tip: confirm licensing and insurance before approving work.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 67601.
+Risk flag: In Hays, KS, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Dispatch sectors sampled: ZIP 67601 (county grid: Ellis County).
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 67601.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Hays, KS.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Powderpost beetle exit holes in Hays, KS trim can be mistaken for dry-wood frass without magnification.
+
+Yellow jacket nests in Hays, KS soffit cavities peak in late summer routing windows.
+
+Harbor ledger 685314: frass lane, mud-tube scan, and garage jamb gap measure filed for Hays, KS at 38.8800, -99.3200.
+
+Seasonal cue 685314: cluster fly attic staging reviewed for Hays, KS soffit cavities.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~2047 ft across the Ellis County area. Coordinates: 38.8800, -99.3200. ZIP sample: 67601. Service perimeter note: Coverage extends through Ellis County with dispatch centered near ZIP 67601.
 
 Service reference: KS-67601-7431acc3

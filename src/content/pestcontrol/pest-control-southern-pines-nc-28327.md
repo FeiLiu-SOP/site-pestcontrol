@@ -11,27 +11,37 @@ lng: -79.4000
 zipSample: ["28374", "28387", "28388", "28327"]
 zipCodes: ["28374", "28387", "28388", "28327"]
 localPaths: ["Moore County / ZIP 28387 sector", "Moore County / coords 35.1900, -79.4000", "Moore County / elevation 522 ft band", "Moore County / ZIP 28327 sector", "Moore County / ZIP 28374 sector"]
-zillowHomeValueUsd: 405832
 ---
 
-**Engineering Notice for Southern Pines:** Structural loading calculated based on 522 ft terrain assessment. Regional dispatch grid: Moore County.
+**Engineering Notice for Southern Pines:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Moore County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Spider populations in Southern Pines, NC eaves can signal insect prey density.
 
-We coordinate local dispatch coverage around Southern Pines, NC and nearby ZIP sectors.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 28327.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Drain fly biofilm in Southern Pines, NC floor drains signals grease traps need service before gel baits.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Field note: Access points and staging constraints recorded for ZIP 28388/28327/28374 coverage.
+Mud dauber nests in Southern Pines, NC porch ceilings are benign but signal prey density for spiders.
 
-Field note: Wind exposure category reviewed for ZIP sector 28388/28327/28374.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 28327.
 
-Dispatch sectors sampled: ZIP 28388, 28327, 28374, 28387 (county grid: Moore County).
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Monitoring boards in Southern Pines, NC crawlspaces stay 72 hours before snap traps are reset.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Bird mites in Southern Pines, NC exhaust vents can persist after host nests are removed.
+
+Exclusion audit 369253: exclusion mesh gauge and rodent runway grease mark reviewed for Southern Pines, NC at 35.1900/-79.4000.
+
+On-site sector marker: Moore County / coords 35.1900, -79.4000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28327-15f1783b

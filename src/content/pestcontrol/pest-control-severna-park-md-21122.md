@@ -11,24 +11,41 @@ lng: -76.5700
 zipSample: ["21146", "21122", "21123", "21108"]
 zipCodes: ["21122", "21108", "21123", "21146"]
 localPaths: ["Anne Arundel County / ZIP 21122 sector", "Anne Arundel County / coords 39.0900, -76.5700", "Anne Arundel County / ZIP 21146 sector", "Anne Arundel County / elevation 82 ft band", "Anne Arundel County / ZIP 21108 sector"]
-zillowHomeValueUsd: 454577
 ---
 
-**Engineering Notice for Severna Park:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Anne Arundel County.
+**Engineering Notice for Severna Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anne Arundel County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+In Severna Park, MD, subterranean termite swarms often follow warm rain windows.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 21122.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: map entry points with photo logs before sealing.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 21122/21123/21108.
+Request an inspection with species ID before treatment. Serving ZIP Code: 21122.
 
-Dispatch sectors sampled: ZIP 21122, 21123, 21108, 21146 (county grid: Anne Arundel County).
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 21122.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 21122.
+
+Tip: Date bait station lids when servicing Severna Park, MD perimeter lines.
+
+Perimeter dossier 907412: bait station anchor map and mulch bridge risk flagged for Severna Park, MD county Anne Arundel County (ZIP 21122).
+
+Zone map 907412: attic insulation disturbance trace and pantry pest source logged for Severna Park, MD sector 21122.
+
+On-site sector marker: Anne Arundel County / elevation 82 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21122-5221f9f3

@@ -11,24 +11,39 @@ lng: -91.8200
 zipSample: ["70563", "70562", "70560"]
 zipCodes: ["70563", "70562", "70560"]
 localPaths: ["Iberia Parish / ZIP 70562 sector", "Iberia Parish / ZIP 70563 sector", "Iberia Parish / ZIP 70560 sector", "Iberia Parish / elevation 36 ft band", "Iberia Parish / primary ZIP 70560"]
-zillowHomeValueUsd: 112910
 ---
 
-**Engineering Notice for New Iberia:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Iberia Parish.
+**Engineering Notice for New Iberia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Iberia Parish.
 
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in New Iberia, LA, but intake notes help reduce delays.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Our service coordination centers on New Iberia, LA coverage windows and verified intake details.
+Step: verify attic access safety before insulation disturbance.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-In New Iberia, LA, urgent pest control issues can escalate quickly.
+Drain fly biofilm in New Iberia, LA floor drains signals grease traps need service before gel baits.
 
-Field note: Wind exposure category reviewed for ZIP sector 70560/70563/70562.
+Risk flag: In New Iberia, LA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Dispatch sectors sampled: ZIP 70560, 70563, 70562 (county grid: Iberia Parish).
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in New Iberia, LA.
+
+State note: New Iberia, LA commercial kitchens may require separate documentation for audit visits.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+IGR packets for New Iberia, LA roach cycles should be dated on station lids.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 70560.
+
+FAQ: Can bed bugs spread room-to-room in New Iberia, LA row homes? Wall voids and shared ducts accelerate transfer.
+
+Seasonal cue 423324: cluster fly attic staging reviewed for New Iberia, LA soffit cavities.
+
+Zone map 423324: attic insulation disturbance trace and pantry pest source logged for New Iberia, LA sector 70560.
+
+Primary postal anchor 70560 with multi-ZIP overlap in New Iberia; field packets tag Iberia Parish for county-grid reconciliation.
 
 Service reference: LA-70560-541cbbfb

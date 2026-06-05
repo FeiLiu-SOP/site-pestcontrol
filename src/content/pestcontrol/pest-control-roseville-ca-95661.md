@@ -11,27 +11,41 @@ lng: -121.3200
 zipSample: ["95661", "95678", "95747"]
 zipCodes: ["95661", "95678", "95747"]
 localPaths: ["Placer County / ZIP 95747 sector", "Placer County / primary ZIP 95661", "Placer County / coords 38.7700, -121.3200", "Placer County / ZIP 95678 sector", "Placer County / ZIP 95661 sector"]
-zillowHomeValueUsd: 692366
 ---
 
-**Engineering Notice for Roseville:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Placer County.
+**Engineering Notice for Roseville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Placer County.
 
 
-Our service coordination centers on Roseville, CA coverage windows and verified intake details.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: confirm licensing and insurance before approving work.
+IGR packets for Roseville, CA roach cycles should be dated on station lids.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 95661.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Roseville, CA, but intake notes help reduce delays.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 95661.
 
-Field note: Access points and staging constraints recorded for ZIP 95747/95661/95678 coverage.
+Mud dauber nests in Roseville, CA porch ceilings are benign but signal prey density for spiders.
 
-Field note: Connection points spot-checked where accessible (ZIP 95747/95661/95678 zone).
+Yellow jacket nests in Roseville, CA soffit cavities peak in late summer routing windows.
 
-Dispatch sectors sampled: ZIP 95747, 95661, 95678 (county grid: Placer County).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Stored cardboard in Roseville, CA garages can accelerate pantry pest cycles.
+
+Humidity in Roseville, CA can sustain cockroach harborages behind appliance voids.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 95661.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Roseville, CA, pressure often rebuilds.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Zone map 413138: attic insulation disturbance trace and pantry pest source logged for Roseville, CA sector 95661.
+
+Species trace 413138: re-entry interval label and conducive moisture note keyed to Roseville, CA elevation 148 ft.
+
+On-site sector marker: Placer County / coords 38.7700, -121.3200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95661-886bd937

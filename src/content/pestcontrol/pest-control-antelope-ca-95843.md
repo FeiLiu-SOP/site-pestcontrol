@@ -11,26 +11,41 @@ lng: -121.3600
 zipSample: ["95843"]
 zipCodes: ["95843"]
 localPaths: ["Sacramento County / elevation 128 ft band", "Sacramento County / primary ZIP 95843", "Sacramento County / ZIP 95843 sector", "Sacramento County / coords 38.7200, -121.3600"]
-zillowHomeValueUsd: 503956
 ---
 
-**Engineering Notice for Antelope:** Structural loading calculated based on 128 ft terrain assessment. Regional dispatch grid: Sacramento County.
+**Engineering Notice for Antelope:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sacramento County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+County grid Sacramento County informs routing near ZIP 95843.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Stink bug overwinter seams in Antelope, CA exterior cladding laps require exclusion foam rated for UV exposure.
 
-We coordinate local dispatch coverage around Antelope, CA and nearby ZIP sectors.
+FAQ: Can bed bugs spread room-to-room in Antelope, CA row homes? Wall voids and shared ducts accelerate transfer.
 
-Tip: address recurring issues early to prevent bigger damage.
+State note: Antelope, CA commercial kitchens may require separate documentation for audit visits.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: label treatment zones for occupant re-entry timing.
 
-Field note: Connection points spot-checked where accessible (ZIP 95843 zone).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Field note: Wind exposure category reviewed for ZIP sector 95843.
+Earwig harborages in Antelope, CA meter boxes often follow drip irrigation overspray.
 
-Dispatch sectors sampled: ZIP 95843 (county grid: Sacramento County).
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Antelope, CA.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 95843.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Across Antelope, CA, rodent entry points frequently track utility penetrations.
+
+Exclusion gaps at garage jambs in Antelope, CA are common rodent access points.
+
+Harbor ledger 674712: frass lane, mud-tube scan, and garage jamb gap measure filed for Antelope, CA at 38.7200, -121.3600.
+
+Perimeter dossier 674712: bait station anchor map and mulch bridge risk flagged for Antelope, CA county Sacramento County (ZIP 95843).
+
+Primary postal anchor 95843 with multi-ZIP overlap in Antelope; field packets tag Sacramento County for county-grid reconciliation.
 
 Service reference: CA-95843-ebe2588e

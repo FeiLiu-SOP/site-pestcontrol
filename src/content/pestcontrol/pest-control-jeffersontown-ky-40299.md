@@ -11,24 +11,39 @@ lng: -85.5700
 zipSample: ["40224", "40223", "40220", "40299"]
 zipCodes: ["40299", "40223", "40224", "40220"]
 localPaths: ["Jefferson County / primary ZIP 40299", "Jefferson County / ZIP 40224 sector", "Jefferson County / ZIP 40223 sector", "Jefferson County / ZIP 40299 sector", "Jefferson County / elevation 659 ft band"]
-zillowHomeValueUsd: 338880
 ---
 
-**Engineering Notice for Jeffersontown:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Jeffersontown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.
 
 
-Structured milestones protect both sides when scheduling work.
+Step: record station placement maps for follow-up visits.
 
-Tip: address recurring issues early to prevent bigger damage.
+IGR packets for Jeffersontown, KY roach cycles should be dated on station lids.
 
-We coordinate local dispatch coverage around Jeffersontown, KY and nearby ZIP sectors.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Silverfish activity in Jeffersontown, KY attics tracks cardboard storage and ridge vent gaps.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Jeffersontown, KY, but intake notes help reduce delays.
+Step: label treatment zones for occupant re-entry timing.
 
-Field note: Connection points spot-checked where accessible (ZIP 40224/40299/40220 zone).
+Attic insulation disturbance in Jeffersontown, KY may indicate wildlife nesting routes.
 
-Dispatch sectors sampled: ZIP 40224, 40299, 40220, 40223 (county grid: Jefferson County).
+FAQ: Why schedule quarterly instead of monthly in Jeffersontown, KY? Species pressure and label intervals dictate cadence.
+
+Mosquito breeding in Jeffersontown, KY catch basins can amplify perimeter callbacks.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 40299.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Species trace 382244: re-entry interval label and conducive moisture note keyed to Jeffersontown, KY elevation 659 ft.
+
+Intercept log 382244: bed bug intercept count staged before Jeffersontown, KY interior gel zones.
+
+On-site sector marker: Jefferson County / ZIP 40299 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-40299-b7185c52

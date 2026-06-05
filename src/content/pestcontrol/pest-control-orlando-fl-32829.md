@@ -11,26 +11,41 @@ lng: -81.3400
 zipSample: ["32854", "32808", "32861", "32807", "32835"]
 zipCodes: ["32819", "32885", "32856", "32802", "32854", "32872", "32811", "32839", "32897", "32827", "32877", "32835"]
 localPaths: ["Orange County / ZIP 32807 sector", "Orange County / coords 28.4800, -81.3400", "Orange County / ZIP 32835 sector", "Orange County / ZIP 32808 sector", "Orange County / ZIP 32861 sector"]
-zillowHomeValueUsd: 406884
 ---
 
-**Engineering Notice for Orlando:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Orlando:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Orlando, FL, but intake notes help reduce delays.
+Material note: Perimeter granules in Orlando, FL may need reapplication after heavy irrigation.
 
-We coordinate local dispatch coverage around Orlando, FL and nearby ZIP sectors.
+Yellow jacket nests in Orlando, FL soffit cavities peak in late summer routing windows.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: confirm licensing and insurance before approving work.
+Earwig harborages in Orlando, FL meter boxes often follow drip irrigation overspray.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 32832/32803/32856.
+Drain fly biofilm in Orlando, FL floor drains signals grease traps need service before gel baits.
 
-Field note: Moisture pathway inspection logged near ZIP 32832/32803/32856 intake.
+Bird mites in Orlando, FL exhaust vents can persist after host nests are removed.
 
-Dispatch sectors sampled: ZIP 32832, 32803, 32856, 32807, 32814 (county grid: Orange County).
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+FAQ: Why schedule quarterly instead of monthly in Orlando, FL? Species pressure and label intervals dictate cadence.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Cluster fly attic staging in Orlando, FL peaks on south-facing voids after sunny thaw days.
+
+Attic insulation disturbance in Orlando, FL may indicate wildlife nesting routes.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Orlando, FL.
+
+We coordinate Orlando, FL pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Intercept log 972758: bed bug intercept count staged before Orlando, FL interior gel zones.
+
+Coordinate-anchored dispatch note: center reference 28.4800, -81.3400 at elevation ~108 ft aligns with Orange County intake staging.
 
 Service reference: FL-32829-68e87f35

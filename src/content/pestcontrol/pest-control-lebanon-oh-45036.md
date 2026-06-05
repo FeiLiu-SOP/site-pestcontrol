@@ -11,24 +11,39 @@ lng: -84.2100
 zipSample: ["45036"]
 zipCodes: ["45036"]
 localPaths: ["Warren County / coords 39.4300, -84.2100", "Warren County / elevation 764 ft band", "Warren County / primary ZIP 45036", "Warren County / ZIP 45036 sector"]
-zillowHomeValueUsd: 405118
 ---
 
-**Engineering Notice for Lebanon:** Structural loading calculated based on 764 ft terrain assessment. Regional dispatch grid: Warren County.
+**Engineering Notice for Lebanon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Warren County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Silverfish activity in Lebanon, OH attics tracks cardboard storage and ridge vent gaps.
 
-We coordinate local dispatch coverage around Lebanon, OH and nearby ZIP sectors.
+Request an inspection with species ID before treatment. Serving ZIP Code: 45036.
 
-Local conditions in Lebanon, OH can affect timelines and material choices.
+Step: label treatment zones for occupant re-entry timing.
 
-Tip: confirm licensing and insurance before approving work.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Date bait station lids when servicing Lebanon, OH perimeter lines.
 
-Field note: Access points and staging constraints recorded for ZIP 45036 coverage.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Dispatch sectors sampled: ZIP 45036 (county grid: Warren County).
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 45036.
+
+FAQ: Can bed bugs spread room-to-room in Lebanon, OH row homes? Wall voids and shared ducts accelerate transfer.
+
+Carpenter ant frass in Lebanon, OH window sills may indicate moisture-softened framing.
+
+FAQ: What is exclusion? Without sealing entry points in Lebanon, OH, pressure often rebuilds.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Lebanon, OH.
+
+County grid Warren County informs routing near ZIP 45036.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Harbor ledger 774145: frass lane, mud-tube scan, and garage jamb gap measure filed for Lebanon, OH at 39.4300, -84.2100.
+
+On-site sector marker: Warren County / primary ZIP 45036 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-45036-0ae82608

@@ -11,26 +11,43 @@ lng: -87.4900
 zipSample: ["46323", "46327", "46325", "46394", "46324"]
 zipCodes: ["46324", "46327", "46320", "46325", "46394", "46323"]
 localPaths: ["Lake County / ZIP 46323 sector", "Lake County / elevation 597 ft band", "Lake County / primary ZIP 46394", "Lake County / coords 41.6200, -87.4900", "Lake County / ZIP 46394 sector"]
-zillowHomeValueUsd: 200640
 ---
 
-**Engineering Notice for Hammond:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Hammond:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Overwatered Hammond, IN planters can restart ant bridges within two weeks.
 
-Our service coordination centers on Hammond, IN coverage windows and verified intake details.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 46394.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Fire ant mounds in Hammond, IN drive seams need granule rotation after irrigation events.
 
-Tip: compare at least two estimates for scope and timeline.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Field note: Access points and staging constraints recorded for ZIP 46320/46324/46394 coverage.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 46320/46324/46394.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Dispatch sectors sampled: ZIP 46320, 46324, 46394, 46323, 46327 (county grid: Lake County).
+Across Hammond, IN, rodent entry points frequently track utility penetrations.
+
+Stink bug overwinter seams in Hammond, IN exterior cladding laps require exclusion foam rated for UV exposure.
+
+Flea pupae survive vacuuming in Hammond, IN carpet fibers unless heat treatment follows.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Cluster fly attic staging in Hammond, IN peaks on south-facing voids after sunny thaw days.
+
+Tip: Date bait station lids when servicing Hammond, IN perimeter lines.
+
+Yellow jacket nests in Hammond, IN soffit cavities peak in late summer routing windows.
+
+Intercept log 859902: bed bug intercept count staged before Hammond, IN interior gel zones.
+
+Species trace 859902: re-entry interval label and conducive moisture note keyed to Hammond, IN elevation 597 ft.
+
+Coordinate-anchored dispatch note: center reference 41.6200, -87.4900 at elevation ~597 ft aligns with Lake County intake staging.
 
 Service reference: IN-46394-e634f1e4

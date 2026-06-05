@@ -11,26 +11,37 @@ lng: -96.0700
 zipSample: ["68128", "68138", "68133", "68046"]
 zipCodes: ["68046", "68128", "68138", "68133"]
 localPaths: ["Sarpy County / ZIP 68138 sector", "Sarpy County / ZIP 68128 sector", "Sarpy County / primary ZIP 68046", "Sarpy County / ZIP 68133 sector", "Sarpy County / elevation 1047 ft band"]
-zillowHomeValueUsd: 409096
 ---
 
-**Engineering Notice for Papillion:** Structural loading calculated based on 1047 ft terrain assessment. Regional dispatch grid: Sarpy County.
+**Engineering Notice for Papillion:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sarpy County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Why do pests return after spraying? Without sealing entry points in Papillion, NE, pressure often rebuilds.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 68046.
 
-Our service coordination centers on Papillion, NE coverage windows and verified intake details.
+Step: verify attic access safety before insulation disturbance.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 68046/68133/68138.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Field note: Wind exposure category reviewed for ZIP sector 68046/68133/68138.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Dispatch sectors sampled: ZIP 68046, 68133, 68138, 68128 (county grid: Sarpy County).
+Wildlife odors in Papillion, NE crawlspaces may attract secondary pest activity.
+
+Clover mite staining on Papillion, NE exterior cladding follows foundation mulch against brick ledges.
+
+Yellow jacket nests in Papillion, NE soffit cavities peak in late summer routing windows.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Exclusion audit 671934: exclusion mesh gauge and rodent runway grease mark reviewed for Papillion, NE at 41.1500/-96.0700.
+
+On-site sector marker: Sarpy County / coords 41.1500, -96.0700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NE-68046-b564e1ba

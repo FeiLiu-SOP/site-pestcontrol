@@ -11,25 +11,41 @@ lng: -70.2700
 zipSample: ["04109", "04122", "04102", "04103", "04124"]
 zipCodes: ["04122", "04101", "04102", "04019", "04108", "04103", "04104", "04112", "04116", "04123", "04124", "04109"]
 localPaths: ["Cumberland County / ZIP 04122 sector", "Cumberland County / ZIP 04109 sector", "Cumberland County / primary ZIP 04101", "Cumberland County / ZIP 04103 sector", "Cumberland County / ZIP 04102 sector"]
-zillowHomeValueUsd: 653878
 ---
 
-**Engineering Notice for Portland:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Cumberland County.
+**Engineering Notice for Portland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cumberland County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 04101.
+Drain fly biofilm in Portland, ME floor drains signals grease traps need service before gel baits.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Across Portland, ME, rodent entry points frequently track utility penetrations.
 
-Tip: request a written scope before work starts.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Portland, ME, but intake notes help reduce delays.
+Cluster fly attic staging in Portland, ME peaks on south-facing voids after sunny thaw days.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: verify attic access safety before insulation disturbance.
 
-Field note: Moisture pathway inspection logged near ZIP 04123/04122/04103 intake.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Dispatch sectors sampled: ZIP 04123, 04122, 04103, 04019, 04104 (county grid: Cumberland County).
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 04101.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 04101.
+
+Silverfish activity in Portland, ME attics tracks cardboard storage and ridge vent gaps.
+
+Material note: Perimeter granules in Portland, ME may need reapplication after heavy irrigation.
+
+IGR packets for Portland, ME roach cycles should be dated on station lids.
+
+Zone map 447188: attic insulation disturbance trace and pantry pest source logged for Portland, ME sector 04101.
+
+Intercept log 447188: bed bug intercept count staged before Portland, ME interior gel zones.
+
+On-site sector marker: Cumberland County / ZIP 04103 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: ME-04101-b71ff58e

@@ -11,24 +11,39 @@ lng: -118.3500
 zipSample: ["90304", "90250", "90310", "90251"]
 zipCodes: ["90251", "90250", "90304", "90310"]
 localPaths: ["Los Angeles County / coords 33.9100, -118.3500", "Los Angeles County / ZIP 90250 sector", "Los Angeles County / ZIP 90251 sector", "Los Angeles County / elevation 79 ft band", "Los Angeles County / primary ZIP 90304"]
-zillowHomeValueUsd: 738997
 ---
 
-**Engineering Notice for Hawthorne:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Hawthorne:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Why schedule quarterly instead of monthly in Hawthorne, CA? Species pressure and label intervals dictate cadence.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 90304.
 
-Tip: address recurring issues early to prevent bigger damage.
+Mud dauber nests in Hawthorne, CA porch ceilings are benign but signal prey density for spiders.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Local conditions in Hawthorne, CA can affect timelines and material choices.
+FAQ: Can bed bugs spread room-to-room in Hawthorne, CA row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Wind exposure category reviewed for ZIP sector 90304/90250/90251.
+Material note: Perimeter granules in Hawthorne, CA may need reapplication after heavy irrigation.
 
-Dispatch sectors sampled: ZIP 90304, 90250, 90251, 90310 (county grid: Los Angeles County).
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Step: label treatment zones for occupant re-entry timing.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Flea pupae survive vacuuming in Hawthorne, CA carpet fibers unless heat treatment follows.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Hawthorne, CA.
+
+Species trace 513261: re-entry interval label and conducive moisture note keyed to Hawthorne, CA elevation 79 ft.
+
+On-site sector marker: Los Angeles County / primary ZIP 90304 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90304-86c82433

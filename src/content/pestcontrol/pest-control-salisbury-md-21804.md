@@ -11,26 +11,41 @@ lng: -75.5900
 zipSample: ["21804", "21801"]
 zipCodes: ["21804", "21801"]
 localPaths: ["Wicomico County / elevation 39 ft band", "Wicomico County / primary ZIP 21804", "Wicomico County / ZIP 21801 sector", "Wicomico County / coords 38.3800, -75.5900", "Wicomico County / ZIP 21804 sector"]
-zillowHomeValueUsd: 249323
 ---
 
-**Engineering Notice for Salisbury:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Wicomico County.
+**Engineering Notice for Salisbury:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wicomico County.
 
 
-Tip: avoid large upfront payments without milestones.
+Attic misting in Salisbury, MD requires combustion air clearance verified before fans restart.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Our service coordination centers on Salisbury, MD coverage windows and verified intake details.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Tip: request a written scope before work starts.
+In Salisbury, MD, subterranean termite swarms often follow warm rain windows.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+IGR packets for Salisbury, MD roach cycles should be dated on station lids.
 
-Field note: Wind exposure category reviewed for ZIP sector 21804/21801.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 21804/21801.
+Wildlife odors in Salisbury, MD crawlspaces may attract secondary pest activity.
 
-Dispatch sectors sampled: ZIP 21804, 21801 (county grid: Wicomico County).
+Drain fly biofilm in Salisbury, MD floor drains signals grease traps need service before gel baits.
+
+Monitoring boards in Salisbury, MD crawlspaces stay 72 hours before snap traps are reset.
+
+Perimeter mulch beds in Salisbury, MD should be reviewed for ant bridge paths.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 21804.
+
+Risk flag: In Salisbury, MD, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Exclusion audit 533595: exclusion mesh gauge and rodent runway grease mark reviewed for Salisbury, MD at 38.3800/-75.5900.
+
+Primary postal anchor 21804 with multi-ZIP overlap in Salisbury; field packets tag Wicomico County for county-grid reconciliation.
 
 Service reference: MD-21804-cce280de

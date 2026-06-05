@@ -11,24 +11,43 @@ lng: -77.4900
 zipSample: ["22412", "22401", "22404"]
 zipCodes: ["22412", "22404", "22401"]
 localPaths: ["Fredericksburg County / ZIP 22404 sector", "Fredericksburg County / ZIP 22412 sector", "Fredericksburg County / ZIP 22401 sector", "Fredericksburg County / elevation 131 ft band", "Fredericksburg County / coords 38.3000, -77.4900"]
-zillowHomeValueUsd: 466786
 ---
 
-**Engineering Notice for Fredericksburg:** Structural loading calculated based on 131 ft terrain assessment. Regional dispatch grid: Fredericksburg County.
+**Engineering Notice for Fredericksburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fredericksburg County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Drain fly biofilm in Fredericksburg, VA floor drains signals grease traps need service before gel baits.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Mud dauber nests in Fredericksburg, VA porch ceilings are benign but signal prey density for spiders.
 
-Local conditions in Fredericksburg, VA can affect timelines and material choices.
+Attic fogging in Fredericksburg, VA requires combustion appliance shutoff verification first.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Tip: request a written scope before work starts.
+IGR packets for Fredericksburg, VA roach cycles should be dated on station lids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 22401/22404/22412.
+County grid Fredericksburg County informs routing near ZIP 22401.
 
-Dispatch sectors sampled: ZIP 22401, 22404, 22412 (county grid: Fredericksburg County).
+Carpenter ant frass in Fredericksburg, VA window sills may indicate moisture-softened framing.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Step: label treatment zones for occupant re-entry timing.
+
+In Fredericksburg, VA, subterranean termite swarms often follow warm rain windows.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Powderpost beetle exit holes in Fredericksburg, VA trim can be mistaken for dry-wood frass without magnification.
+
+FAQ: What is exclusion? Without sealing entry points in Fredericksburg, VA, pressure often rebuilds.
+
+Earwig harborages in Fredericksburg, VA meter boxes often follow drip irrigation overspray.
+
+Exclusion audit 639709: exclusion mesh gauge and rodent runway grease mark reviewed for Fredericksburg, VA at 38.3000/-77.4900.
+
+Harbor ledger 639709: frass lane, mud-tube scan, and garage jamb gap measure filed for Fredericksburg, VA at 38.3000, -77.4900.
+
+Coordinate-anchored dispatch note: center reference 38.3000, -77.4900 at elevation ~131 ft aligns with Fredericksburg County intake staging.
 
 Service reference: VA-22401-2059ab46

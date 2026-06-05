@@ -11,24 +11,37 @@ lng: -84.3300
 zipSample: ["30324", "30329", "30033", "30359"]
 zipCodes: ["30033", "30324", "30329", "30359"]
 localPaths: ["DeKalb County / ZIP 30324 sector", "DeKalb County / elevation 1017 ft band", "DeKalb County / primary ZIP 30329", "DeKalb County / coords 33.8200, -84.3300", "DeKalb County / ZIP 30359 sector"]
-zillowHomeValueUsd: 524003
 ---
 
-**Engineering Notice for North Druid Hills:** Structural loading calculated based on 1017 ft terrain assessment. Regional dispatch grid: DeKalb County.
+**Engineering Notice for North Druid Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeKalb County.
 
 
-Tip: request a written scope before work starts.
+Tip: Date bait station lids when servicing North Druid Hills, GA perimeter lines.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+State note: North Druid Hills, GA commercial kitchens may require separate documentation for audit visits.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Local conditions in North Druid Hills, GA can affect timelines and material choices.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Field note: Moisture pathway inspection logged near ZIP 30359/30033/30324 intake.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in North Druid Hills, GA.
 
-Dispatch sectors sampled: ZIP 30359, 30033, 30324, 30329 (county grid: DeKalb County).
+FAQ: What is exclusion? Without sealing entry points in North Druid Hills, GA, pressure often rebuilds.
+
+Dry-wood termite pellets in North Druid Hills, GA attics may appear before exterior mud tubes.
+
+FAQ: Can bed bugs spread room-to-room in North Druid Hills, GA row homes? Wall voids and shared ducts accelerate transfer.
+
+Step: record station placement maps for follow-up visits.
+
+Bird mites in North Druid Hills, GA exhaust vents can persist after host nests are removed.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Perimeter dossier 215531: bait station anchor map and mulch bridge risk flagged for North Druid Hills, GA county DeKalb County (ZIP 30329).
+
+Regional mesh label DeKalb County: moisture and logistics baselines are keyed to North Druid Hills, GA before niche-specific work begins.
 
 Service reference: GA-30329-668c5fb4

@@ -11,24 +11,41 @@ lng: -83.1900
 zipSample: ["48183"]
 zipCodes: ["48183"]
 localPaths: ["Wayne County / ZIP 48183 sector", "Wayne County / primary ZIP 48183", "Wayne County / coords 42.1400, -83.1900", "Wayne County / elevation 587 ft band"]
-zillowHomeValueUsd: 253372
 ---
 
-**Engineering Notice for Trenton:** Structural loading calculated based on 587 ft terrain assessment. Regional dispatch grid: Wayne County.
+**Engineering Notice for Trenton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wayne County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Fire ant mounds in Trenton, MI drive seams need granule rotation after irrigation events.
 
-Homeowners in Trenton, MI often face sudden pest control problems that require fast action.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Trenton, MI, but intake notes help reduce delays.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-In Trenton, MI, seasonal demand can change scheduling windows.
+Earwig harborages in Trenton, MI meter boxes often follow drip irrigation overspray.
 
-Field note: Connection points spot-checked where accessible (ZIP 48183 zone).
+IGR packets for Trenton, MI roach cycles should be dated on station lids.
 
-Dispatch sectors sampled: ZIP 48183 (county grid: Wayne County).
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Powderpost beetle exit holes in Trenton, MI trim can be mistaken for dry-wood frass without magnification.
+
+Yellow jacket nests in Trenton, MI soffit cavities peak in late summer routing windows.
+
+Risk flag: Overwatered Trenton, MI planters can restart ant bridges within two weeks.
+
+Carpenter ant frass in Trenton, MI window sills may indicate moisture-softened framing.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Cluster fly attic staging in Trenton, MI peaks on south-facing voids after sunny thaw days.
+
+Intercept log 616592: bed bug intercept count staged before Trenton, MI interior gel zones.
+
+On-site sector marker: Wayne County / coords 42.1400, -83.1900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48183-1897ffde

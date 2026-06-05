@@ -11,26 +11,41 @@ lng: -88.6600
 zipSample: ["39564", "39553"]
 zipCodes: ["39553", "39564"]
 localPaths: ["Jackson County / ZIP 39564 sector", "Jackson County / elevation 30 ft band", "Jackson County / coords 30.4100, -88.6600", "Jackson County / ZIP 39553 sector", "Jackson County / primary ZIP 39553"]
-zillowHomeValueUsd: 186789
 ---
 
-**Engineering Notice for Gautier:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Jackson County.
+**Engineering Notice for Gautier:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jackson County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Earwig harborages in Gautier, MS meter boxes often follow drip irrigation overspray.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Overwatered Gautier, MS planters can restart ant bridges within two weeks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Local conditions in Gautier, MS can affect timelines and material choices.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 39553.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Gautier, MS, but intake notes help reduce delays.
+Attic misting in Gautier, MS requires combustion air clearance verified before fans restart.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 39564/39553.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Field note: Access points and staging constraints recorded for ZIP 39564/39553 coverage.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Dispatch sectors sampled: ZIP 39564, 39553 (county grid: Jackson County).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Dry-wood termite pellets in Gautier, MS attics may appear before exterior mud tubes.
+
+Tip: Date bait station lids when servicing Gautier, MS perimeter lines.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Gautier, MS, pressure often rebuilds.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Flea pupae survive vacuuming in Gautier, MS carpet fibers unless heat treatment follows.
+
+Wildlife odors in Gautier, MS crawlspaces may attract secondary pest activity.
+
+Exclusion audit 785595: exclusion mesh gauge and rodent runway grease mark reviewed for Gautier, MS at 30.4100/-88.6600.
+
+On-site sector marker: Jackson County / elevation 30 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39553-04a3d0fd

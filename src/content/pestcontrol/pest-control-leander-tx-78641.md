@@ -11,26 +11,37 @@ lng: -97.8600
 zipSample: ["78641", "78646"]
 zipCodes: ["78646", "78641"]
 localPaths: ["Williamson County / primary ZIP 78641", "Williamson County / ZIP 78641 sector", "Williamson County / ZIP 78646 sector", "Williamson County / elevation 1024 ft band", "Williamson County / coords 30.5700, -97.8600"]
-zillowHomeValueUsd: 432223
 ---
 
-**Engineering Notice for Leander:** Structural loading calculated based on 1024 ft terrain assessment. Regional dispatch grid: Williamson County.
+**Engineering Notice for Leander:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Williamson County.
 
 
-Local conditions in Leander, TX can affect timelines and material choices.
+Stored cardboard in Leander, TX garages can accelerate pantry pest cycles.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Perimeter granules in Leander, TX may need reapplication after heavy irrigation.
 
-Our service coordination centers on Leander, TX coverage windows and verified intake details.
+Powderpost beetle exit holes in Leander, TX trim can be mistaken for dry-wood frass without magnification.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 78641.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Leander, TX, but intake notes help reduce delays.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Leander, TX.
 
-Field note: Wind exposure category reviewed for ZIP sector 78641/78646.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Access points and staging constraints recorded for ZIP 78641/78646 coverage.
+County grid Williamson County informs routing near ZIP 78641.
 
-Dispatch sectors sampled: ZIP 78641, 78646 (county grid: Williamson County).
+Across Leander, TX, rodent entry points frequently track utility penetrations.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Perimeter granule carriers in Leander, TX clay soils may need lighter irrigation before application.
+
+Attic fogging in Leander, TX requires combustion appliance shutoff verification first.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Zone map 181438: attic insulation disturbance trace and pantry pest source logged for Leander, TX sector 78641.
+
+On-site sector marker: Williamson County / elevation 1024 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78641-0f06db51

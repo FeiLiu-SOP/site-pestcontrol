@@ -11,24 +11,39 @@ lng: -95.2900
 zipSample: ["77511", "77583", "77512"]
 zipCodes: ["77512", "77583", "77511"]
 localPaths: ["Brazoria County / elevation 46 ft band", "Brazoria County / ZIP 77512 sector", "Brazoria County / primary ZIP 77511", "Brazoria County / ZIP 77583 sector", "Brazoria County / coords 29.3900, -95.2900"]
-zillowHomeValueUsd: 295834
 ---
 
-**Engineering Notice for Alvin:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Brazoria County.
+**Engineering Notice for Alvin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brazoria County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 77511.
 
-Transparent pricing helps you compare like-for-like scope items.
+Powderpost beetle exit holes in Alvin, TX trim can be mistaken for dry-wood frass without magnification.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Mud dauber nests in Alvin, TX porch ceilings are benign but signal prey density for spiders.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Dry-wood termite pellets in Alvin, TX attics may appear before exterior mud tubes.
 
-Tip: request a written scope before work starts.
+Flea pupae survive vacuuming in Alvin, TX carpet fibers unless heat treatment follows.
 
-Field note: Connection points spot-checked where accessible (ZIP 77583/77511/77512 zone).
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Dispatch sectors sampled: ZIP 77583, 77511, 77512 (county grid: Brazoria County).
+IGR packets for Alvin, TX roach cycles should be dated on station lids.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Alvin, TX.
+
+Risk flag: Overwatered Alvin, TX planters can restart ant bridges within two weeks.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Perimeter dossier 745762: bait station anchor map and mulch bridge risk flagged for Alvin, TX county Brazoria County (ZIP 77511).
+
+Intercept log 745762: bed bug intercept count staged before Alvin, TX interior gel zones.
+
+On-site sector marker: Brazoria County / primary ZIP 77511 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77511-462f09b2

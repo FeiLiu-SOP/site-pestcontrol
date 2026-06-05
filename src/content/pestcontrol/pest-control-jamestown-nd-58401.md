@@ -11,26 +11,39 @@ lng: -98.6900
 zipSample: ["58402", "58401", "58405"]
 zipCodes: ["58402", "58401", "58405"]
 localPaths: ["Stutsman County / primary ZIP 58401", "Stutsman County / coords 46.9100, -98.6900", "Stutsman County / ZIP 58405 sector", "Stutsman County / ZIP 58401 sector", "Stutsman County / ZIP 58402 sector"]
-zillowHomeValueUsd: 230261
 ---
 
-**Engineering Notice for Jamestown:** Structural loading calculated based on 1424 ft terrain assessment. Regional dispatch grid: Stutsman County.
+**Engineering Notice for Jamestown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Stutsman County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Exclusion gaps at garage jambs in Jamestown, ND are common rodent access points.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 58401.
 
-Tip: address recurring issues early to prevent bigger damage.
+Monitoring boards in Jamestown, ND crawlspaces stay 72 hours before snap traps are reset.
 
-Homeowners in Jamestown, ND often face sudden pest control problems that require fast action.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Wind exposure category reviewed for ZIP sector 58401/58402/58405.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Field note: Moisture pathway inspection logged near ZIP 58401/58402/58405 intake.
+Wildlife odors in Jamestown, ND crawlspaces may attract secondary pest activity.
 
-Dispatch sectors sampled: ZIP 58401, 58402, 58405 (county grid: Stutsman County).
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+FAQ: What is exclusion? Without sealing entry points in Jamestown, ND, pressure often rebuilds.
+
+Mud dauber nests in Jamestown, ND porch ceilings are benign but signal prey density for spiders.
+
+Stored cardboard in Jamestown, ND garages can accelerate pantry pest cycles.
+
+Spider populations in Jamestown, ND eaves can signal insect prey density.
+
+Species trace 151105: re-entry interval label and conducive moisture note keyed to Jamestown, ND elevation 1424 ft.
+
+Harbor ledger 151105: frass lane, mud-tube scan, and garage jamb gap measure filed for Jamestown, ND at 46.9100, -98.6900.
+
+On-site sector marker: Stutsman County / coords 46.9100, -98.6900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: ND-58401-3fd8c691

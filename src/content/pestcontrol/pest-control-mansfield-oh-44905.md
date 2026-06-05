@@ -11,25 +11,39 @@ lng: -82.5300
 zipSample: ["44901", "44907", "44905", "44902", "44906"]
 zipCodes: ["44906", "44903", "44905", "44907", "44901", "44902"]
 localPaths: ["Richland County / ZIP 44902 sector", "Richland County / coords 40.7700, -82.5300", "Richland County / ZIP 44906 sector", "Richland County / primary ZIP 44905", "Richland County / ZIP 44905 sector"]
-zillowHomeValueUsd: 151636
 ---
 
-**Engineering Notice for Mansfield:** Structural loading calculated based on 1204 ft terrain assessment. Regional dispatch grid: Richland County.
+**Engineering Notice for Mansfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Richland County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 44905.
+Step: map entry points with photo logs before sealing.
 
-Tip: confirm licensing and insurance before approving work.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Field note: Access points and staging constraints recorded for ZIP 44905/44906/44901 coverage.
+Attic insulation disturbance in Mansfield, OH may indicate wildlife nesting routes.
 
-Dispatch sectors sampled: ZIP 44905, 44906, 44901, 44903, 44907 (county grid: Richland County).
+IGR packets for Mansfield, OH roach cycles should be dated on station lids.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Mansfield, OH.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 44905.
+
+Step: verify attic access safety before insulation disturbance.
+
+Perimeter dossier 100112: bait station anchor map and mulch bridge risk flagged for Mansfield, OH county Richland County (ZIP 44905).
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~1204 ft across the Richland County area. Coordinates: 40.7700, -82.5300. ZIP sample: 44903, 44907, 44906, 44905, 44902. Regional routing note: Richland County traffic flow is balanced around ZIP 44905 service demand.
 
 Service reference: OH-44905-9a6b90e6

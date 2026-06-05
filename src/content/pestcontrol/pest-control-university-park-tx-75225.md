@@ -11,27 +11,41 @@ lng: -96.7900
 zipSample: ["75225", "75205", "75275"]
 zipCodes: ["75225", "75205", "75275"]
 localPaths: ["Dallas County / ZIP 75275 sector", "Dallas County / coords 32.8500, -96.7900", "Dallas County / ZIP 75225 sector", "Dallas County / ZIP 75205 sector", "Dallas County / elevation 571 ft band"]
-zillowHomeValueUsd: 2057933
 ---
 
-**Engineering Notice for University Park:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for University Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 75225.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Cluster fly attic staging in University Park, TX peaks on south-facing voids after sunny thaw days.
 
-We coordinate local dispatch coverage around University Park, TX and nearby ZIP sectors.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75225/75275/75205.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Field note: Moisture pathway inspection logged near ZIP 75225/75275/75205 intake.
+Monitoring boards in University Park, TX crawlspaces stay 72 hours before snap traps are reset.
 
-Dispatch sectors sampled: ZIP 75225, 75275, 75205 (county grid: Dallas County).
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 75225.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Fire ant mounds in University Park, TX drive seams need granule rotation after irrigation events.
+
+We coordinate University Park, TX pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Attic misting in University Park, TX requires combustion air clearance verified before fans restart.
+
+Risk flag: In University Park, TX, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Perimeter dossier 568893: bait station anchor map and mulch bridge risk flagged for University Park, TX county Dallas County (ZIP 75225).
+
+Seasonal cue 568893: cluster fly attic staging reviewed for University Park, TX soffit cavities.
+
+On-site sector marker: Dallas County / ZIP 75275 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75225-77cec637

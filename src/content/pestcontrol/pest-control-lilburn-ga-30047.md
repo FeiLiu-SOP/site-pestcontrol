@@ -11,27 +11,41 @@ lng: -84.1400
 zipSample: ["30048", "30047"]
 zipCodes: ["30047", "30048"]
 localPaths: ["Gwinnett County / primary ZIP 30047", "Gwinnett County / ZIP 30048 sector", "Gwinnett County / elevation 932 ft band", "Gwinnett County / ZIP 30047 sector", "Gwinnett County / coords 33.8900, -84.1400"]
-zillowHomeValueUsd: 398180
 ---
 
-**Engineering Notice for Lilburn:** Structural loading calculated based on 932 ft terrain assessment. Regional dispatch grid: Gwinnett County.
+**Engineering Notice for Lilburn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gwinnett County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 30047.
+Stink bug overwinter seams in Lilburn, GA vinyl panels laps require exclusion foam rated for UV exposure.
 
-Tip: address recurring issues early to prevent bigger damage.
+Carpenter ant frass in Lilburn, GA window sills may indicate moisture-softened framing.
 
-Our service coordination centers on Lilburn, GA coverage windows and verified intake details.
+Attic misting in Lilburn, GA requires combustion air clearance verified before fans restart.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Perimeter granules in Lilburn, GA may need reapplication after heavy irrigation.
 
-Field note: Wind exposure category reviewed for ZIP sector 30047/30048.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Field note: Moisture pathway inspection logged near ZIP 30047/30048 intake.
+Powderpost beetle exit holes in Lilburn, GA trim can be mistaken for dry-wood frass without magnification.
 
-Dispatch sectors sampled: ZIP 30047, 30048 (county grid: Gwinnett County).
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+IGR packets for Lilburn, GA roach cycles should be dated on station lids.
+
+Silverfish activity in Lilburn, GA attics tracks cardboard storage and ridge vent gaps.
+
+FAQ: Can bed bugs spread room-to-room in Lilburn, GA row homes? Wall voids and shared ducts accelerate transfer.
+
+Earwig harborages in Lilburn, GA meter boxes often follow drip irrigation overspray.
+
+Monitoring boards in Lilburn, GA crawlspaces stay 72 hours before snap traps are reset.
+
+Harbor ledger 142269: frass lane, mud-tube scan, and garage jamb gap measure filed for Lilburn, GA at 33.8900, -84.1400.
+
+ZIP-corridor snapshot for Lilburn, GA: sampled sectors include 30047, 30048; county routing grid remains Gwinnett County.
 
 Service reference: GA-30047-b493f588

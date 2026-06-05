@@ -11,27 +11,39 @@ lng: -90.1300
 zipSample: ["39130", "39110"]
 zipCodes: ["39130", "39110"]
 localPaths: ["Madison County / elevation 344 ft band", "Madison County / coords 32.4700, -90.1300", "Madison County / primary ZIP 39110", "Madison County / ZIP 39110 sector", "Madison County / ZIP 39130 sector"]
-zillowHomeValueUsd: 410045
 ---
 
-**Engineering Notice for Madison:** Structural loading calculated based on 344 ft terrain assessment. Regional dispatch grid: Madison County.
+**Engineering Notice for Madison:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Madison County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Overwatered Madison, MS planters can restart ant bridges within two weeks.
 
-In Madison, MS, seasonal demand can change scheduling windows.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 39110.
+Spider populations in Madison, MS eaves can signal insect prey density.
 
-Tip: avoid large upfront payments without milestones.
+Earwig harborages in Madison, MS meter boxes often follow drip irrigation overspray.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Monitoring boards in Madison, MS crawlspaces stay 72 hours before snap traps are reset.
 
-Field note: Moisture pathway inspection logged near ZIP 39130/39110 intake.
+Clover mite staining on Madison, MS vinyl panels follows foundation mulch against brick ledges.
 
-Field note: Wind exposure category reviewed for ZIP sector 39130/39110.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Dispatch sectors sampled: ZIP 39130, 39110 (county grid: Madison County).
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Silverfish activity in Madison, MS attics tracks cardboard storage and ridge vent gaps.
+
+Exclusion gaps at garage jambs in Madison, MS are common rodent access points.
+
+Attic fogging in Madison, MS requires combustion appliance shutoff verification first.
+
+Tip: Trim vegetation 12 inches from vinyl panels to reduce ant bridges.
+
+Seasonal cue 275301: cluster fly attic staging reviewed for Madison, MS soffit cavities.
+
+Harbor ledger 275301: frass lane, mud-tube scan, and garage jamb gap measure filed for Madison, MS at 32.4700, -90.1300.
+
+On-site sector marker: Madison County / ZIP 39110 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39110-a22c0be2

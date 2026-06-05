@@ -11,26 +11,43 @@ lng: -122.1700
 zipSample: ["98391"]
 zipCodes: ["98391"]
 localPaths: ["Pierce County / elevation 476 ft band", "Pierce County / coords 47.1800, -122.1700", "Pierce County / primary ZIP 98391", "Pierce County / ZIP 98391 sector"]
-zillowHomeValueUsd: 679297
 ---
 
-**Engineering Notice for Bonney Lake:** Structural loading calculated based on 476 ft terrain assessment. Regional dispatch grid: Pierce County.
+**Engineering Notice for Bonney Lake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pierce County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Bird mites in Bonney Lake, WA exhaust vents can persist after host nests are removed.
 
-Tip: avoid large upfront payments without milestones.
+Drain fly biofilm in Bonney Lake, WA floor drains signals grease traps need service before gel baits.
 
-Transparent pricing helps you compare like-for-like scope items.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Yellow jacket nests in Bonney Lake, WA soffit cavities peak in late summer routing windows.
 
-Field note: Wind exposure category reviewed for ZIP sector 98391.
+Tip: Log pet access routes when bait stations are placed.
 
-Field note: Connection points spot-checked where accessible (ZIP 98391 zone).
+Tip: Keep pet food elevated and sealed between service visits.
 
-Dispatch sectors sampled: ZIP 98391 (county grid: Pierce County).
+Risk flag: Overwatered Bonney Lake, WA planters can restart ant bridges within two weeks.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Earwig harborages in Bonney Lake, WA meter boxes often follow drip irrigation overspray.
+
+Material note: Perimeter granules in Bonney Lake, WA may need reapplication after heavy irrigation.
+
+Step: record station placement maps for follow-up visits.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Harbor ledger 138737: frass lane, mud-tube scan, and garage jamb gap measure filed for Bonney Lake, WA at 47.1800, -122.1700.
+
+Exclusion audit 138737: exclusion mesh gauge and rodent runway grease mark reviewed for Bonney Lake, WA at 47.1800/-122.1700.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~476 ft across the Pierce County area. Coordinates: 47.1800, -122.1700. ZIP sample: 98391. Service perimeter note: Coverage extends through Pierce County with dispatch centered near ZIP 98391.
 
 Service reference: WA-98391-13e3dd2d

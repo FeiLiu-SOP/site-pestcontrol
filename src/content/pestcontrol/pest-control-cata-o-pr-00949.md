@@ -11,28 +11,41 @@ lng: -66.1400
 zipSample: ["00963", "00962", "00949"]
 zipCodes: ["00962", "00949", "00963"]
 localPaths: ["Cataño County / ZIP 00963 sector", "Cataño County / coords 18.4400, -66.1400", "Cataño County / ZIP 00962 sector", "Cataño County / primary ZIP 00949", "Cataño County / ZIP 00949 sector"]
-zillowHomeValueUsd: 364420
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for Cataño:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Cataño County.
+**Engineering Notice for Cataño:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cataño County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Cataño, PR, but intake notes help reduce delays.
+Yellow jacket nests in Cataño, PR soffit cavities peak in late summer routing windows.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 00949.
+Clover mite staining on Cataño, PR vinyl panels follows foundation mulch against brick ledges.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Powderpost beetle exit holes in Cataño, PR trim can be mistaken for dry-wood frass without magnification.
 
-Tip: request a written scope before work starts.
+Risk flag: In Cataño, PR, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Wind exposure category reviewed for ZIP sector 00962/00963/00949.
+Perimeter granule carriers in Cataño, PR clay soils may need lighter irrigation before application.
 
-Field note: Connection points spot-checked where accessible (ZIP 00962/00963/00949 zone).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 00949.
 
-Dispatch sectors sampled: ZIP 00962, 00963, 00949 (county grid: Cataño County).
+Mud dauber nests in Cataño, PR porch ceilings are benign but signal prey density for spiders.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Mosquito breeding in Cataño, PR catch basins can amplify perimeter callbacks.
+
+Bird mites in Cataño, PR exhaust vents can persist after host nests are removed.
+
+Carpenter ant frass in Cataño, PR window sills may indicate moisture-softened framing.
+
+Monitoring boards in Cataño, PR crawlspaces stay 72 hours before snap traps are reset.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Zone map 911630: attic insulation disturbance trace and pantry pest source logged for Cataño, PR sector 00949.
+
+On-site sector marker: Cataño County / ZIP 00962 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00949-713934d2

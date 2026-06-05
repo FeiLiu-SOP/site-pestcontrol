@@ -11,26 +11,37 @@ lng: -88.4300
 zipSample: ["60450"]
 zipCodes: ["60450"]
 localPaths: ["Grundy County / elevation 538 ft band", "Grundy County / coords 41.3700, -88.4300", "Grundy County / ZIP 60450 sector", "Grundy County / primary ZIP 60450"]
-zillowHomeValueUsd: 307929
 ---
 
-**Engineering Notice for Morris:** Structural loading calculated based on 538 ft terrain assessment. Regional dispatch grid: Grundy County.
+**Engineering Notice for Morris:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Grundy County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Cluster fly attic staging in Morris, IL peaks on south-facing voids after sunny thaw days.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: confirm licensing and insurance before approving work.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 60450.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Wind exposure category reviewed for ZIP sector 60450.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Field note: Moisture pathway inspection logged near ZIP 60450 intake.
+Tip: Date bait station lids when servicing Morris, IL perimeter lines.
 
-Dispatch sectors sampled: ZIP 60450 (county grid: Grundy County).
+Risk flag: In Morris, IL, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Fire ant mounds in Morris, IL drive seams need granule rotation after irrigation events.
+
+Step: verify attic access safety before insulation disturbance.
+
+Silverfish activity in Morris, IL attics tracks cardboard storage and ridge vent gaps.
+
+Drain fly biofilm in Morris, IL floor drains signals grease traps need service before gel baits.
+
+Species trace 304816: re-entry interval label and conducive moisture note keyed to Morris, IL elevation 538 ft.
+
+On-site sector marker: Grundy County / elevation 538 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60450-839862be

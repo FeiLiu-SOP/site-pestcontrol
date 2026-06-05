@@ -11,26 +11,39 @@ lng: -96.6300
 zipSample: ["75040", "75047", "75042", "75049", "75041"]
 zipCodes: ["75049", "75042", "75043", "75044", "75041", "75047", "75046", "75040"]
 localPaths: ["Dallas County / ZIP 75049 sector", "Dallas County / ZIP 75042 sector", "Dallas County / elevation 535 ft band", "Dallas County / coords 32.9100, -96.6300", "Dallas County / ZIP 75041 sector"]
-zillowHomeValueUsd: 289503
 ---
 
-**Engineering Notice for Garland:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for Garland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.
 
 
-Homeowners in Garland, TX often face sudden pest control problems that require fast action.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-We coordinate local dispatch coverage around Garland, TX and nearby ZIP sectors.
+Flea pupae survive vacuuming in Garland, TX carpet fibers unless heat treatment follows.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Mud dauber nests in Garland, TX porch ceilings are benign but signal prey density for spiders.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: label treatment zones for occupant re-entry timing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75046/75047/75043.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Moisture pathway inspection logged near ZIP 75046/75047/75043 intake.
+Powderpost beetle exit holes in Garland, TX trim can be mistaken for dry-wood frass without magnification.
 
-Dispatch sectors sampled: ZIP 75046, 75047, 75043, 75042, 75049 (county grid: Dallas County).
+Bird mites in Garland, TX exhaust vents can persist after host nests are removed.
+
+We coordinate Garland, TX pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Step: record station placement maps for follow-up visits.
+
+FAQ: What is exclusion? Without sealing entry points in Garland, TX, pressure often rebuilds.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Intercept log 227975: bed bug intercept count staged before Garland, TX interior gel zones.
+
+Exclusion audit 227975: exclusion mesh gauge and rodent runway grease mark reviewed for Garland, TX at 32.9100/-96.6300.
+
+Primary postal anchor 75043 with multi-ZIP overlap in Garland; field packets tag Dallas County for county-grid reconciliation.
 
 Service reference: TX-75043-ed23ecf1

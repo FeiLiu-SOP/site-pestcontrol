@@ -11,24 +11,39 @@ lng: -72.9200
 zipSample: ["06502", "06521", "06520", "06501", "06511"]
 zipCodes: ["06511", "06505", "06531", "06508", "06515", "06506", "06502", "06535", "06512", "06513", "06503", "06520"]
 localPaths: ["South Central Connecticut County / ZIP 06501 sector", "South Central Connecticut County / ZIP 06521 sector", "South Central Connecticut County / coords 41.3100, -72.9200", "South Central Connecticut County / primary ZIP 06519", "South Central Connecticut County / ZIP 06511 sector"]
-zillowHomeValueUsd: 295603
 ---
 
-**Engineering Notice for New Haven:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: South Central Connecticut County.
+**Engineering Notice for New Haven:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: South Central Connecticut County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Yellow jacket nests in New Haven, CT soffit cavities peak in late summer routing windows.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in New Haven, CT, but intake notes help reduce delays.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: record station placement maps for follow-up visits.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+IGR packets for New Haven, CT roach cycles should be dated on station lids.
 
-Tip: compare at least two estimates for scope and timeline.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Field note: Moisture pathway inspection logged near ZIP 06505/06536/06510 intake.
+Spider populations in New Haven, CT eaves can signal insect prey density.
 
-Dispatch sectors sampled: ZIP 06505, 06536, 06510, 06534, 06506 (county grid: South Central Connecticut County).
+Fire ant mounds in New Haven, CT drive seams need granule rotation after irrigation events.
+
+Cluster fly attic staging in New Haven, CT peaks on south-facing voids after sunny thaw days.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+FAQ: Can bed bugs spread room-to-room in New Haven, CT row homes? Wall voids and shared ducts accelerate transfer.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Tip: Date bait station lids when servicing New Haven, CT perimeter lines.
+
+Exclusion audit 662981: exclusion mesh gauge and rodent runway grease mark reviewed for New Haven, CT at 41.3100/-72.9200.
+
+Coordinate-anchored dispatch note: center reference 41.3100, -72.9200 at elevation ~49 ft aligns with South Central Connecticut County intake staging.
 
 Service reference: CT-06519-adb64bdb

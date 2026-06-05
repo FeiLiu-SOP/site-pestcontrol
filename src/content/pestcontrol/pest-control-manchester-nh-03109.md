@@ -11,24 +11,37 @@ lng: -71.4400
 zipSample: ["03109", "03101", "03102", "03108", "03104"]
 zipCodes: ["03109", "03103", "03105", "03104", "03102", "03108", "03101", "03111"]
 localPaths: ["Hillsborough County / ZIP 03108 sector", "Hillsborough County / ZIP 03102 sector", "Hillsborough County / ZIP 03109 sector", "Hillsborough County / coords 42.9800, -71.4400", "Hillsborough County / primary ZIP 03109"]
-zillowHomeValueUsd: 461130
 ---
 
-**Engineering Notice for Manchester:** Structural loading calculated based on 266 ft terrain assessment. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Manchester:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Log pet access routes when bait stations are placed.
 
-Our service coordination centers on Manchester, NH coverage windows and verified intake details.
+Tip: Date bait station lids when servicing Manchester, NH perimeter lines.
 
-Homeowners in Manchester, NH often face sudden pest control problems that require fast action.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Manchester, NH.
 
-A written scope helps prevent rework and mismatched expectations.
+Earwig harborages in Manchester, NH meter boxes often follow drip irrigation overspray.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Manchester, NH, but intake notes help reduce delays.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 03103/03105/03104.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 03109.
 
-Dispatch sectors sampled: ZIP 03103, 03105, 03104, 03109, 03108 (county grid: Hillsborough County).
+Request an inspection with species ID before treatment. Serving ZIP Code: 03109.
+
+Perimeter granule carriers in Manchester, NH clay soils may need lighter irrigation before application.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Attic insulation disturbance in Manchester, NH may indicate wildlife nesting routes.
+
+Mud dauber nests in Manchester, NH porch ceilings are benign but signal prey density for spiders.
+
+We coordinate Manchester, NH pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Harbor ledger 322476: frass lane, mud-tube scan, and garage jamb gap measure filed for Manchester, NH at 42.9800, -71.4400.
+
+On-site sector marker: Hillsborough County / ZIP 03102 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NH-03109-d89d00cc

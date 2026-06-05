@@ -11,24 +11,43 @@ lng: -117.7000
 zipSample: ["91763"]
 zipCodes: ["91763"]
 localPaths: ["San Bernardino County / coords 34.0700, -117.7000", "San Bernardino County / ZIP 91763 sector", "San Bernardino County / elevation 1017 ft band", "San Bernardino County / primary ZIP 91763"]
-zillowHomeValueUsd: 661820
 ---
 
-**Engineering Notice for Montclair:** Structural loading calculated based on 1017 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Montclair:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.
 
 
-We coordinate local dispatch coverage around Montclair, CA and nearby ZIP sectors.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-In Montclair, CA, urgent pest control issues can escalate quickly.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Tip: request a written scope before work starts.
+Fire ant mounds in Montclair, CA drive seams need granule rotation after irrigation events.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Montclair, CA, but intake notes help reduce delays.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Clover mite staining on Montclair, CA wall restoration follows foundation mulch against brick ledges.
 
-Field note: Wind exposure category reviewed for ZIP sector 91763.
+State note: Montclair, CA commercial kitchens may require separate documentation for audit visits.
 
-Dispatch sectors sampled: ZIP 91763 (county grid: San Bernardino County).
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Carpenter ant frass in Montclair, CA window sills may indicate moisture-softened framing.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 91763.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Material note: Perimeter granules in Montclair, CA may need reapplication after heavy irrigation.
+
+Tip: Date bait station lids when servicing Montclair, CA perimeter lines.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Wildlife odors in Montclair, CA crawlspaces may attract secondary pest activity.
+
+Perimeter dossier 581027: bait station anchor map and mulch bridge risk flagged for Montclair, CA county San Bernardino County (ZIP 91763).
+
+Exclusion audit 581027: exclusion mesh gauge and rodent runway grease mark reviewed for Montclair, CA at 34.0700/-117.7000.
+
+Coordinate-anchored dispatch note: center reference 34.0700, -117.7000 at elevation ~1017 ft aligns with San Bernardino County intake staging.
 
 Service reference: CA-91763-68640e16

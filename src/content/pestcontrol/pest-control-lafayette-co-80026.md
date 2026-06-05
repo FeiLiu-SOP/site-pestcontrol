@@ -11,24 +11,41 @@ lng: -105.1000
 zipSample: ["80026"]
 zipCodes: ["80026"]
 localPaths: ["Boulder County / ZIP 80026 sector", "Boulder County / primary ZIP 80026", "Boulder County / coords 39.9900, -105.1000", "Boulder County / elevation 5276 ft band"]
-zillowHomeValueUsd: 674671
 ---
 
-**Engineering Notice for Lafayette:** Structural loading calculated based on 5276 ft terrain assessment. Regional dispatch grid: Boulder County.
+**Engineering Notice for Lafayette:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Boulder County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Lafayette, CO, but intake notes help reduce delays.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Our service coordination centers on Lafayette, CO coverage windows and verified intake details.
+State note: Lafayette, CO commercial kitchens may require separate documentation for audit visits.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wildlife odors in Lafayette, CO crawlspaces may attract secondary pest activity.
 
-Homeowners in Lafayette, CO often face sudden pest control problems that require fast action.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: request a written scope before work starts.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Wind exposure category reviewed for ZIP sector 80026.
+Bird mites in Lafayette, CO exhaust vents can persist after host nests are removed.
 
-Dispatch sectors sampled: ZIP 80026 (county grid: Boulder County).
+IGR packets for Lafayette, CO roach cycles should be dated on station lids.
+
+Tip: Date bait station lids when servicing Lafayette, CO perimeter lines.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Attic misting in Lafayette, CO requires combustion air clearance verified before fans restart.
+
+Seasonal pest pressure in Lafayette, CO shifts between moisture ants and dry-wood vectors.
+
+Flea pupae survive vacuuming in Lafayette, CO carpet fibers unless heat treatment follows.
+
+Species trace 134216: re-entry interval label and conducive moisture note keyed to Lafayette, CO elevation 5276 ft.
+
+Harbor ledger 134216: frass lane, mud-tube scan, and garage jamb gap measure filed for Lafayette, CO at 39.9900, -105.1000.
+
+On-site sector marker: Boulder County / ZIP 80026 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80026-86282640

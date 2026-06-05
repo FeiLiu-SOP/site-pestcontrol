@@ -11,26 +11,37 @@ lng: -123.2100
 zipSample: ["95482", "95418"]
 zipCodes: ["95482", "95418"]
 localPaths: ["Mendocino County / elevation 650 ft band", "Mendocino County / coords 39.1500, -123.2100", "Mendocino County / ZIP 95482 sector", "Mendocino County / primary ZIP 95482", "Mendocino County / ZIP 95418 sector"]
-zillowHomeValueUsd: 477190
 ---
 
-**Engineering Notice for Ukiah:** Structural loading calculated based on 650 ft terrain assessment. Regional dispatch grid: Mendocino County.
+**Engineering Notice for Ukiah:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Mendocino County.
 
 
-Structured milestones protect both sides when scheduling work.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Ukiah, CA, but intake notes help reduce delays.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: request a written scope before work starts.
+Monitoring boards in Ukiah, CA crawlspaces stay 72 hours before snap traps are reset.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Flea pupae survive vacuuming in Ukiah, CA carpet fibers unless heat treatment follows.
 
-Field note: Connection points spot-checked where accessible (ZIP 95418/95482 zone).
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Wind exposure category reviewed for ZIP sector 95418/95482.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Dispatch sectors sampled: ZIP 95418, 95482 (county grid: Mendocino County).
+Spider populations in Ukiah, CA eaves can signal insect prey density.
+
+Cluster fly attic staging in Ukiah, CA peaks on south-facing voids after sunny thaw days.
+
+Mosquito breeding in Ukiah, CA catch basins can amplify perimeter callbacks.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Risk flag: Overwatered Ukiah, CA planters can restart ant bridges within two weeks.
+
+Perimeter dossier 505075: bait station anchor map and mulch bridge risk flagged for Ukiah, CA county Mendocino County (ZIP 95482).
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Mendocino County. Reference elevation: 650 ft. Primary coordinates: 39.1500, -123.2100. ZIP sample: 95482, 95418. Service perimeter note: Coverage extends through Mendocino County with dispatch centered near ZIP 95482.
 
 Service reference: CA-95482-d10774f7

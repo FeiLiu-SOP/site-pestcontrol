@@ -11,26 +11,37 @@ lng: -117.9700
 zipSample: ["91744", "91746"]
 zipCodes: ["91746", "91744"]
 localPaths: ["Los Angeles County / coords 34.0500, -117.9700", "Los Angeles County / primary ZIP 91746", "Los Angeles County / ZIP 91746 sector", "Los Angeles County / ZIP 91744 sector", "Los Angeles County / elevation 328 ft band"]
-zillowHomeValueUsd: 763974
 ---
 
-**Engineering Notice for West Puente Valley:** Structural loading calculated based on 328 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for West Puente Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Perimeter granule carriers in West Puente Valley, CA clay soils may need lighter irrigation before application.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Attic misting in West Puente Valley, CA requires combustion air clearance verified before fans restart.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 91746.
 
-Our service coordination centers on West Puente Valley, CA coverage windows and verified intake details.
+FAQ: Why schedule quarterly instead of monthly in West Puente Valley, CA? Species pressure and label intervals dictate cadence.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Drain fly biofilm in West Puente Valley, CA floor drains signals grease traps need service before gel baits.
 
-Field note: Access points and staging constraints recorded for ZIP 91746/91744 coverage.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Wind exposure category reviewed for ZIP sector 91746/91744.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Dispatch sectors sampled: ZIP 91746, 91744 (county grid: Los Angeles County).
+Step: separate bait rotation schedules from crack-and-crevice applications in West Puente Valley, CA.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+In West Puente Valley, CA, subterranean termite swarms often follow warm rain windows.
+
+Fire ant mounds in West Puente Valley, CA drive seams need granule rotation after irrigation events.
+
+FAQ: Can bed bugs spread room-to-room in West Puente Valley, CA row homes? Wall voids and shared ducts accelerate transfer.
+
+Zone map 181487: attic insulation disturbance trace and pantry pest source logged for West Puente Valley, CA sector 91746.
+
+Regional mesh label Los Angeles County: moisture and logistics baselines are keyed to West Puente Valley, CA before niche-specific work begins.
 
 Service reference: CA-91746-adf419fb

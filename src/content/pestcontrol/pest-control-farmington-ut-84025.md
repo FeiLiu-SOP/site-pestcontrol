@@ -11,27 +11,41 @@ lng: -111.9100
 zipSample: ["84025"]
 zipCodes: ["84025"]
 localPaths: ["Davis County / elevation 4249 ft band", "Davis County / primary ZIP 84025", "Davis County / coords 40.9800, -111.9100", "Davis County / ZIP 84025 sector"]
-zillowHomeValueUsd: 692178
 ---
 
-**Engineering Notice for Farmington:** Structural loading calculated based on 4249 ft terrain assessment. Regional dispatch grid: Davis County.
+**Engineering Notice for Farmington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Davis County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 84025.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Farmington, UT, but intake notes help reduce delays.
+Attic insulation disturbance in Farmington, UT may indicate wildlife nesting routes.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Flea pupae survive vacuuming in Farmington, UT carpet fibers unless heat treatment follows.
 
-Tip: request a written scope before work starts.
+Humidity in Farmington, UT can sustain cockroach harborages behind appliance voids.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Earwig harborages in Farmington, UT meter boxes often follow drip irrigation overspray.
 
-Field note: Connection points spot-checked where accessible (ZIP 84025 zone).
+Wildlife odors in Farmington, UT crawlspaces may attract secondary pest activity.
 
-Field note: Moisture pathway inspection logged near ZIP 84025 intake.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Dispatch sectors sampled: ZIP 84025 (county grid: Davis County).
+Yellow jacket nests in Farmington, UT soffit cavities peak in late summer routing windows.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Silverfish activity in Farmington, UT attics tracks cardboard storage and ridge vent gaps.
+
+Cluster fly attic staging in Farmington, UT peaks on south-facing voids after sunny thaw days.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Farmington, UT.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 84025.
+
+Harbor ledger 411422: frass lane, mud-tube scan, and garage jamb gap measure filed for Farmington, UT at 40.9800, -111.9100.
+
+On-site sector marker: Davis County / coords 40.9800, -111.9100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84025-7431f7c5

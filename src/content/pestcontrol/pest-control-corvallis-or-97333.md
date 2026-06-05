@@ -11,26 +11,43 @@ lng: -123.2800
 zipSample: ["97333", "97330", "97331", "97339"]
 zipCodes: ["97333", "97330", "97331", "97339"]
 localPaths: ["Benton County / primary ZIP 97333", "Benton County / elevation 259 ft band", "Benton County / coords 44.5700, -123.2800", "Benton County / ZIP 97339 sector", "Benton County / ZIP 97333 sector"]
-zillowHomeValueUsd: 523683
 ---
 
-**Engineering Notice for Corvallis:** Structural loading calculated based on 259 ft terrain assessment. Regional dispatch grid: Benton County.
+**Engineering Notice for Corvallis:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Benton County.
 
 
-Tip: request a written scope before work starts.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Stink bug overwinter seams in Corvallis, OR cladding service laps require exclusion foam rated for UV exposure.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: verify attic access safety before insulation disturbance.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Field note: Wind exposure category reviewed for ZIP sector 97339/97331/97330.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Field note: Access points and staging constraints recorded for ZIP 97339/97331/97330 coverage.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Dispatch sectors sampled: ZIP 97339, 97331, 97330, 97333 (county grid: Benton County).
+Carpenter ant frass in Corvallis, OR window sills may indicate moisture-softened framing.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Cluster fly attic staging in Corvallis, OR peaks on south-facing voids after sunny thaw days.
+
+Drain fly biofilm in Corvallis, OR floor drains signals grease traps need service before gel baits.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Fire ant mounds in Corvallis, OR drive seams need granule rotation after irrigation events.
+
+Exclusion audit 738414: exclusion mesh gauge and rodent runway grease mark reviewed for Corvallis, OR at 44.5700/-123.2800.
+
+Species trace 738414: re-entry interval label and conducive moisture note keyed to Corvallis, OR elevation 259 ft.
+
+On-site sector marker: Benton County / elevation 259 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97333-0406c5e7

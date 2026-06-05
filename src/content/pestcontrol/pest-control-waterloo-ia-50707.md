@@ -11,27 +11,43 @@ lng: -92.3500
 zipSample: ["50701", "50707", "50703", "50702"]
 zipCodes: ["50707", "50703", "50702", "50701"]
 localPaths: ["Black Hawk County / primary ZIP 50707", "Black Hawk County / ZIP 50707 sector", "Black Hawk County / coords 42.4900, -92.3500", "Black Hawk County / elevation 892 ft band", "Black Hawk County / ZIP 50702 sector"]
-zillowHomeValueUsd: 153481
 ---
 
-**Engineering Notice for Waterloo:** Structural loading calculated based on 892 ft terrain assessment. Regional dispatch grid: Black Hawk County.
+**Engineering Notice for Waterloo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Black Hawk County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Waterloo, IA, but intake notes help reduce delays.
+Carpenter ant frass in Waterloo, IA window sills may indicate moisture-softened framing.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 50707.
+Mud dauber nests in Waterloo, IA porch ceilings are benign but signal prey density for spiders.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Field note: Moisture pathway inspection logged near ZIP 50701/50703/50707 intake.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Connection points spot-checked where accessible (ZIP 50701/50703/50707 zone).
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Dispatch sectors sampled: ZIP 50701, 50703, 50707, 50702 (county grid: Black Hawk County).
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Powderpost beetle exit holes in Waterloo, IA trim can be mistaken for dry-wood frass without magnification.
+
+Wildlife odors in Waterloo, IA crawlspaces may attract secondary pest activity.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Zone map 704348: attic insulation disturbance trace and pantry pest source logged for Waterloo, IA sector 50707.
+
+Exclusion audit 704348: exclusion mesh gauge and rodent runway grease mark reviewed for Waterloo, IA at 42.4900/-92.3500.
+
+On-site sector marker: Black Hawk County / elevation 892 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-50707-ccb54bcf

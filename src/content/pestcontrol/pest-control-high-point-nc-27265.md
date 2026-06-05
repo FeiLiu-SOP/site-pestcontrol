@@ -11,24 +11,39 @@ lng: -79.9900
 zipSample: ["27265", "27262", "27264", "27235", "27261"]
 zipCodes: ["27262", "27260", "27264", "27282", "27263", "27265", "27268", "27261", "27235"]
 localPaths: ["Guilford County / ZIP 27262 sector", "Guilford County / primary ZIP 27265", "Guilford County / coords 35.9900, -79.9900", "Guilford County / ZIP 27264 sector", "Guilford County / ZIP 27261 sector"]
-zillowHomeValueUsd: 302094
 ---
 
-**Engineering Notice for High Point:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Guilford County.
+**Engineering Notice for High Point:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Guilford County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Tip: confirm licensing and insurance before approving work.
+Step: verify attic access safety before insulation disturbance.
 
-Our service coordination centers on High Point, NC coverage windows and verified intake details.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Field note: Wind exposure category reviewed for ZIP sector 27262/27261/27263.
+Cluster fly attic staging in High Point, NC peaks on south-facing voids after sunny thaw days.
 
-Dispatch sectors sampled: ZIP 27262, 27261, 27263, 27282, 27268 (county grid: Guilford County).
+Bird mites in High Point, NC exhaust vents can persist after host nests are removed.
+
+Perimeter granule carriers in High Point, NC clay soils may need lighter irrigation before application.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in High Point, NC, pressure often rebuilds.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 27265.
+
+Intercept log 646737: bed bug intercept count staged before High Point, NC interior gel zones.
+
+Coordinate-anchored dispatch note: center reference 35.9900, -79.9900 at elevation ~886 ft aligns with Guilford County intake staging.
 
 Service reference: NC-27265-00e78eb7

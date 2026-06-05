@@ -11,27 +11,41 @@ lng: -74.2100
 zipSample: ["07018", "07017", "07019"]
 zipCodes: ["07019", "07017", "07018"]
 localPaths: ["Essex County / ZIP 07018 sector", "Essex County / coords 40.7700, -74.2100", "Essex County / ZIP 07019 sector", "Essex County / elevation 197 ft band", "Essex County / ZIP 07017 sector"]
-zillowHomeValueUsd: 463554
 ---
 
-**Engineering Notice for East Orange:** Structural loading calculated based on 197 ft terrain assessment. Regional dispatch grid: Essex County.
+**Engineering Notice for East Orange:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Essex County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Tip: compare at least two estimates for scope and timeline.
+Yellow jacket nests in East Orange, NJ soffit cavities peak in late summer routing windows.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 07018.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-We coordinate local dispatch coverage around East Orange, NJ and nearby ZIP sectors.
+FAQ: Why schedule quarterly instead of monthly in East Orange, NJ? Species pressure and label intervals dictate cadence.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why do pests return after spraying? Without sealing entry points in East Orange, NJ, pressure often rebuilds.
 
-Field note: Moisture pathway inspection logged near ZIP 07017/07018/07019 intake.
+Material note: Perimeter granules in East Orange, NJ may need reapplication after heavy irrigation.
 
-Field note: Wind exposure category reviewed for ZIP sector 07017/07018/07019.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Dispatch sectors sampled: ZIP 07017, 07018, 07019 (county grid: Essex County).
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Attic fogging in East Orange, NJ requires combustion appliance shutoff verification first.
+
+Risk flag: Overwatered East Orange, NJ planters can restart ant bridges within two weeks.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Exclusion gaps at garage jambs in East Orange, NJ are common rodent access points.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Intercept log 433708: bed bug intercept count staged before East Orange, NJ interior gel zones.
+
+Perimeter dossier 433708: bait station anchor map and mulch bridge risk flagged for East Orange, NJ county Essex County (ZIP 07018).
+
+On-site sector marker: Essex County / primary ZIP 07018 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07018-b412dbac

@@ -11,26 +11,37 @@ lng: -78.6400
 zipSample: ["27698", "27676", "27675", "27636", "27619"]
 zipCodes: ["27604", "27656", "27658", "27616", "27608", "27640", "27614", "27603", "27626", "27634", "27607", "27676"]
 localPaths: ["Wake County / ZIP 27698 sector", "Wake County / ZIP 27675 sector", "Wake County / ZIP 27676 sector", "Wake County / ZIP 27619 sector", "Wake County / elevation 344 ft band"]
-zillowHomeValueUsd: 443651
 ---
 
-**Engineering Notice for Raleigh:** Structural loading calculated based on 344 ft terrain assessment. Regional dispatch grid: Wake County.
+**Engineering Notice for Raleigh:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wake County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Raleigh, NC.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Our service coordination centers on Raleigh, NC coverage windows and verified intake details.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-In Raleigh, NC, seasonal demand can change scheduling windows.
+Attic misting in Raleigh, NC requires combustion air clearance verified before fans restart.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: map entry points with photo logs before sealing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 27636/27634/27616.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Moisture pathway inspection logged near ZIP 27636/27634/27616 intake.
+FAQ: Can bed bugs spread room-to-room in Raleigh, NC row homes? Wall voids and shared ducts accelerate transfer.
 
-Dispatch sectors sampled: ZIP 27636, 27634, 27616, 27622, 27614 (county grid: Wake County).
+Exclusion gaps at garage jambs in Raleigh, NC are common rodent access points.
+
+Silverfish activity in Raleigh, NC attics tracks cardboard storage and ridge vent gaps.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Humidity in Raleigh, NC can sustain cockroach harborages behind appliance voids.
+
+Seasonal cue 312735: cluster fly attic staging reviewed for Raleigh, NC soffit cavities.
+
+ZIP-corridor snapshot for Raleigh, NC: sampled sectors include 27634, 27604, 27658, 27619, 27690, 27624, 27661, 27675; county routing grid remains Wake County.
 
 Service reference: NC-27617-d03cd370

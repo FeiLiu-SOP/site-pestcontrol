@@ -11,26 +11,39 @@ lng: -119.7200
 zipSample: ["93130", "93101", "93120", "93121", "93190"]
 zipCodes: ["93109", "93105", "93121", "93101", "93102", "93190", "93103", "93120", "93130", "93140"]
 localPaths: ["Santa Barbara County / coords 34.4300, -119.7200", "Santa Barbara County / ZIP 93190 sector", "Santa Barbara County / ZIP 93101 sector", "Santa Barbara County / primary ZIP 93105", "Santa Barbara County / elevation 138 ft band"]
-zillowHomeValueUsd: 1912131
 ---
 
-**Engineering Notice for Santa Barbara:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Santa Barbara County.
+**Engineering Notice for Santa Barbara:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Barbara County.
 
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Santa Barbara, CA, but intake notes help reduce delays.
+Across Santa Barbara, CA, rodent entry points frequently track utility penetrations.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Our service coordination centers on Santa Barbara, CA coverage windows and verified intake details.
+IGR packets for Santa Barbara, CA roach cycles should be dated on station lids.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Field note: Moisture pathway inspection logged near ZIP 93121/93130/93102 intake.
+Stink bug overwinter seams in Santa Barbara, CA vinyl panels laps require exclusion foam rated for UV exposure.
 
-Field note: Wind exposure category reviewed for ZIP sector 93121/93130/93102.
+FAQ: What is exclusion? Without sealing entry points in Santa Barbara, CA, pressure often rebuilds.
 
-Dispatch sectors sampled: ZIP 93121, 93130, 93102, 93103, 93140 (county grid: Santa Barbara County).
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Material note: Perimeter granules in Santa Barbara, CA may need reapplication after heavy irrigation.
+
+State note: Santa Barbara, CA commercial kitchens may require separate documentation for audit visits.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Attic fogging in Santa Barbara, CA requires combustion appliance shutoff verification first.
+
+Exclusion audit 417853: exclusion mesh gauge and rodent runway grease mark reviewed for Santa Barbara, CA at 34.4300/-119.7200.
+
+Seasonal cue 417853: cluster fly attic staging reviewed for Santa Barbara, CA soffit cavities.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Santa Barbara County and primary ZIP 93105. Terrain reference: 138 ft. Center point: 34.4300, -119.7200. ZIP sample: 93120, 93190, 93101, 93130, 93105. Logistics priority: Serving residential sectors across Santa Barbara County and north-east ZIP 93105 grid.
 
 Service reference: CA-93105-feec260d

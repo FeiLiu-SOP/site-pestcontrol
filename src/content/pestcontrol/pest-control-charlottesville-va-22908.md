@@ -11,27 +11,41 @@ lng: -78.4900
 zipSample: ["22901", "22903", "22906", "22905", "22902"]
 zipCodes: ["22908", "22903", "22909", "22901", "22902", "22906", "22905", "22904"]
 localPaths: ["Charlottesville County / coords 38.0400, -78.4900", "Charlottesville County / primary ZIP 22908", "Charlottesville County / ZIP 22903 sector", "Charlottesville County / ZIP 22905 sector", "Charlottesville County / ZIP 22902 sector"]
-zillowHomeValueUsd: 533788
 ---
 
-**Engineering Notice for Charlottesville:** Structural loading calculated based on 456 ft terrain assessment. Regional dispatch grid: Charlottesville County.
+**Engineering Notice for Charlottesville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Charlottesville County.
 
 
-In Charlottesville, VA, urgent pest control issues can escalate quickly.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Charlottesville, VA.
 
-Tip: request a written scope before work starts.
+Risk flag: Overwatered Charlottesville, VA planters can restart ant bridges within two weeks.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 22908.
+Step: verify attic access safety before insulation disturbance.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Wind exposure category reviewed for ZIP sector 22901/22904/22906.
+Humidity in Charlottesville, VA can sustain cockroach harborages behind appliance voids.
 
-Field note: Access points and staging constraints recorded for ZIP 22901/22904/22906 coverage.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Dispatch sectors sampled: ZIP 22901, 22904, 22906, 22905, 22908 (county grid: Charlottesville County).
+Carpenter ant frass in Charlottesville, VA window sills may indicate moisture-softened framing.
+
+Drain fly biofilm in Charlottesville, VA floor drains signals grease traps need service before gel baits.
+
+Wildlife odors in Charlottesville, VA crawlspaces may attract secondary pest activity.
+
+Flea pupae survive vacuuming in Charlottesville, VA carpet fibers unless heat treatment follows.
+
+Tip: Trim vegetation 12 inches from vinyl panels to reduce ant bridges.
+
+Powderpost beetle exit holes in Charlottesville, VA trim can be mistaken for dry-wood frass without magnification.
+
+Stink bug overwinter seams in Charlottesville, VA vinyl panels laps require exclusion foam rated for UV exposure.
+
+Seasonal cue 865101: cluster fly attic staging reviewed for Charlottesville, VA soffit cavities.
+
+On-site sector marker: Charlottesville County / elevation 456 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22908-f0437163

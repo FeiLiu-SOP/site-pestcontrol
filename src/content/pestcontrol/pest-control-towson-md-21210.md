@@ -11,26 +11,41 @@ lng: -76.6200
 zipSample: ["21286", "21252", "21204", "21285", "21239"]
 zipCodes: ["21209", "21139", "21239", "21212", "21252", "21286", "21284", "21204", "21210", "21285"]
 localPaths: ["Baltimore County / elevation 364 ft band", "Baltimore County / ZIP 21285 sector", "Baltimore County / ZIP 21286 sector", "Baltimore County / coords 39.3900, -76.6200", "Baltimore County / ZIP 21204 sector"]
-zillowHomeValueUsd: 477956
 ---
 
-**Engineering Notice for Towson:** Structural loading calculated based on 364 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Towson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Mosquito breeding in Towson, MD catch basins can amplify perimeter callbacks.
 
-Tip: request a written scope before work starts.
+FAQ: Why schedule quarterly instead of monthly in Towson, MD? Species pressure and label intervals dictate cadence.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Towson, MD, but intake notes help reduce delays.
+Step: record station placement maps for follow-up visits.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 21210.
 
-Field note: Access points and staging constraints recorded for ZIP 21210/21204/21212 coverage.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Moisture pathway inspection logged near ZIP 21210/21204/21212 intake.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Dispatch sectors sampled: ZIP 21210, 21204, 21212, 21239, 21285 (county grid: Baltimore County).
+Attic misting in Towson, MD requires combustion air clearance verified before fans restart.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Towson, MD.
+
+Risk flag: In Towson, MD, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+State note: Towson, MD commercial kitchens may require separate documentation for audit visits.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Intercept log 769642: bed bug intercept count staged before Towson, MD interior gel zones.
+
+ZIP-corridor snapshot for Towson, MD: sampled sectors include 21284, 21212, 21286, 21209, 21239, 21252, 21204, 21139; county routing grid remains Baltimore County.
 
 Service reference: MD-21210-8259e1ee

@@ -11,24 +11,43 @@ lng: -94.5300
 zipSample: ["64012"]
 zipCodes: ["64012"]
 localPaths: ["Cass County / primary ZIP 64012", "Cass County / ZIP 64012 sector", "Cass County / coords 38.8200, -94.5300", "Cass County / elevation 1109 ft band"]
-zillowHomeValueUsd: 286612
 ---
 
-**Engineering Notice for Belton:** Structural loading calculated based on 1109 ft terrain assessment. Regional dispatch grid: Cass County.
+**Engineering Notice for Belton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cass County.
 
 
-Tip: avoid large upfront payments without milestones.
+Clover mite staining on Belton, MO wall restoration follows foundation mulch against brick ledges.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Overwatered Belton, MO planters can restart ant bridges within two weeks.
 
-Tip: address recurring issues early to prevent bigger damage.
+Cluster fly attic staging in Belton, MO peaks on south-facing voids after sunny thaw days.
 
-We coordinate local dispatch coverage around Belton, MO and nearby ZIP sectors.
+Stink bug overwinter seams in Belton, MO cladding service laps require exclusion foam rated for UV exposure.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Belton, MO, but intake notes help reduce delays.
+Across Belton, MO, rodent entry points frequently track utility penetrations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 64012.
+Yellow jacket nests in Belton, MO soffit cavities peak in late summer routing windows.
 
-Dispatch sectors sampled: ZIP 64012 (county grid: Cass County).
+We coordinate Belton, MO pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 64012.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 64012.
+
+Mud dauber nests in Belton, MO porch ceilings are benign but signal prey density for spiders.
+
+Drain fly biofilm in Belton, MO floor drains signals grease traps need service before gel baits.
+
+Flea pupae survive vacuuming in Belton, MO carpet fibers unless heat treatment follows.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Species trace 577255: re-entry interval label and conducive moisture note keyed to Belton, MO elevation 1109 ft.
+
+Intercept log 577255: bed bug intercept count staged before Belton, MO interior gel zones.
+
+ZIP-corridor snapshot for Belton, MO: sampled sectors include 64012; county routing grid remains Cass County.
 
 Service reference: MO-64012-a1a1c8c8

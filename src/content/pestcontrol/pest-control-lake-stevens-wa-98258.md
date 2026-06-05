@@ -11,25 +11,39 @@ lng: -122.1000
 zipSample: ["98258"]
 zipCodes: ["98258"]
 localPaths: ["Snohomish County / primary ZIP 98258", "Snohomish County / coords 48.0000, -122.1000", "Snohomish County / elevation 262 ft band", "Snohomish County / ZIP 98258 sector"]
-zillowHomeValueUsd: 714383
 ---
 
-**Engineering Notice for Lake Stevens:** Structural loading calculated based on 262 ft terrain assessment. Regional dispatch grid: Snohomish County.
+**Engineering Notice for Lake Stevens:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Snohomish County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: What is exclusion? Without sealing entry points in Lake Stevens, WA, pressure often rebuilds.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 98258.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 98258.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Tip: request a written scope before work starts.
+FAQ: Why schedule quarterly instead of monthly in Lake Stevens, WA? Species pressure and label intervals dictate cadence.
 
-Field note: Connection points spot-checked where accessible (ZIP 98258 zone).
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Dispatch sectors sampled: ZIP 98258 (county grid: Snohomish County).
+Monitoring boards in Lake Stevens, WA crawlspaces stay 72 hours before snap traps are reset.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 98258.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 98258.
+
+Bird mites in Lake Stevens, WA exhaust vents can persist after host nests are removed.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Lake Stevens, WA.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Zone map 120877: attic insulation disturbance trace and pantry pest source logged for Lake Stevens, WA sector 98258.
+
+On-site sector marker: Snohomish County / ZIP 98258 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98258-96ae1e78

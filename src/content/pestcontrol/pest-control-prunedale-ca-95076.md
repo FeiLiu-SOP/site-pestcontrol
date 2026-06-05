@@ -11,26 +11,41 @@ lng: -121.6600
 zipSample: ["95012", "93907", "95076", "95004"]
 zipCodes: ["95076", "93907", "95004", "95012"]
 localPaths: ["Monterey County / ZIP 95012 sector", "Monterey County / coords 36.8100, -121.6600", "Monterey County / ZIP 95004 sector", "Monterey County / elevation 387 ft band", "Monterey County / ZIP 95076 sector"]
-zillowHomeValueUsd: 839536
 ---
 
-**Engineering Notice for Prunedale:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Monterey County.
+**Engineering Notice for Prunedale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Monterey County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Prunedale, CA, but intake notes help reduce delays.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-A written scope helps prevent rework and mismatched expectations.
+Silverfish activity in Prunedale, CA attics tracks cardboard storage and ridge vent gaps.
 
-Tip: request a written scope before work starts.
+Monitoring boards in Prunedale, CA crawlspaces stay 72 hours before snap traps are reset.
 
-In Prunedale, CA, seasonal demand can change scheduling windows.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 95076.
 
-Our service coordination centers on Prunedale, CA coverage windows and verified intake details.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Field note: Connection points spot-checked where accessible (ZIP 95076/95004/95012 zone).
+FAQ: What is exclusion? Without sealing entry points in Prunedale, CA, pressure often rebuilds.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 95076/95004/95012.
+Tip: Date bait station lids when servicing Prunedale, CA perimeter lines.
 
-Dispatch sectors sampled: ZIP 95076, 95004, 95012, 93907 (county grid: Monterey County).
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Attic misting in Prunedale, CA requires combustion air clearance verified before fans restart.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Prunedale, CA.
+
+Cluster fly attic staging in Prunedale, CA peaks on south-facing voids after sunny thaw days.
+
+In Prunedale, CA, subterranean termite swarms often follow warm rain windows.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Harbor ledger 737621: frass lane, mud-tube scan, and garage jamb gap measure filed for Prunedale, CA at 36.8100, -121.6600.
+
+Intercept log 737621: bed bug intercept count staged before Prunedale, CA interior gel zones.
+
+On-site sector marker: Monterey County / ZIP 95004 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95076-c76e5633

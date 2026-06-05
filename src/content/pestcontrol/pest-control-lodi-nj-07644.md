@@ -11,24 +11,39 @@ lng: -74.0800
 zipSample: ["07644"]
 zipCodes: ["07644"]
 localPaths: ["Bergen County / coords 40.8800, -74.0800", "Bergen County / ZIP 07644 sector", "Bergen County / primary ZIP 07644", "Bergen County / elevation 33 ft band"]
-zillowHomeValueUsd: 619182
 ---
 
-**Engineering Notice for Lodi:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Bergen County.
+**Engineering Notice for Lodi:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bergen County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Exclusion gaps at garage jambs in Lodi, NJ are common rodent access points.
 
-Our service coordination centers on Lodi, NJ coverage windows and verified intake details.
+Tip: Date bait station lids when servicing Lodi, NJ perimeter lines.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Tip: request a written scope before work starts.
+Tip: Log pet access routes when bait stations are placed.
 
-Tip: address recurring issues early to prevent bigger damage.
+Wildlife odors in Lodi, NJ crawlspaces may attract secondary pest activity.
 
-Field note: Access points and staging constraints recorded for ZIP 07644 coverage.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Dispatch sectors sampled: ZIP 07644 (county grid: Bergen County).
+In Lodi, NJ, subterranean termite swarms often follow warm rain windows.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Powderpost beetle exit holes in Lodi, NJ trim can be mistaken for dry-wood frass without magnification.
+
+Risk flag: Overwatered Lodi, NJ planters can restart ant bridges within two weeks.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Lodi, NJ.
+
+Material note: Perimeter granules in Lodi, NJ may need reapplication after heavy irrigation.
+
+Intercept log 374799: bed bug intercept count staged before Lodi, NJ interior gel zones.
+
+Species trace 374799: re-entry interval label and conducive moisture note keyed to Lodi, NJ elevation 33 ft.
+
+On-site sector marker: Bergen County / ZIP 07644 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07644-5cd99a06

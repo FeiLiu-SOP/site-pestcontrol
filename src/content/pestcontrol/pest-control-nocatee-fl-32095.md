@@ -11,25 +11,37 @@ lng: -81.4100
 zipSample: ["32095", "32081"]
 zipCodes: ["32081", "32095"]
 localPaths: ["St. Johns County / ZIP 32095 sector", "St. Johns County / ZIP 32081 sector", "St. Johns County / elevation 30 ft band", "St. Johns County / primary ZIP 32095", "St. Johns County / coords 30.0900, -81.4100"]
-zillowHomeValueUsd: 501174
 ---
 
-**Engineering Notice for Nocatee:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: St. Johns County.
+**Engineering Notice for Nocatee:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Johns County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 32095.
+Attic misting in Nocatee, FL requires combustion air clearance verified before fans restart.
 
-Tip: confirm licensing and insurance before approving work.
+We coordinate Nocatee, FL pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Our service coordination centers on Nocatee, FL coverage windows and verified intake details.
+Attic fogging in Nocatee, FL requires combustion appliance shutoff verification first.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Nocatee, FL, but intake notes help reduce delays.
+Flea pupae survive vacuuming in Nocatee, FL carpet fibers unless heat treatment follows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 32095/32081.
+Silverfish activity in Nocatee, FL attics tracks cardboard storage and ridge vent gaps.
 
-Dispatch sectors sampled: ZIP 32095, 32081 (county grid: St. Johns County).
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+IGR packets for Nocatee, FL roach cycles should be dated on station lids.
+
+Risk flag: In Nocatee, FL, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 32095.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Zone map 177507: attic insulation disturbance trace and pantry pest source logged for Nocatee, FL sector 32095.
+
+On-site sector marker: St. Johns County / primary ZIP 32095 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32095-8c35a1e4

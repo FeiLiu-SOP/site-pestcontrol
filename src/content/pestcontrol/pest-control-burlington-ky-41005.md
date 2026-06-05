@@ -11,25 +11,39 @@ lng: -84.7200
 zipSample: ["41005"]
 zipCodes: ["41005"]
 localPaths: ["Boone County / primary ZIP 41005", "Boone County / elevation 837 ft band", "Boone County / coords 39.0200, -84.7200", "Boone County / ZIP 41005 sector"]
-zillowHomeValueUsd: 323803
 ---
 
-**Engineering Notice for Burlington:** Structural loading calculated based on 837 ft terrain assessment. Regional dispatch grid: Boone County.
+**Engineering Notice for Burlington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Boone County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Burlington, KY, but intake notes help reduce delays.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 41005.
+IGR packets for Burlington, KY roach cycles should be dated on station lids.
 
-Local conditions in Burlington, KY can affect timelines and material choices.
+FAQ: Can bed bugs spread room-to-room in Burlington, KY row homes? Wall voids and shared ducts accelerate transfer.
 
-We coordinate local dispatch coverage around Burlington, KY and nearby ZIP sectors.
+Powderpost beetle exit holes in Burlington, KY trim can be mistaken for dry-wood frass without magnification.
 
-Tip: request a written scope before work starts.
+Bird mites in Burlington, KY exhaust vents can persist after host nests are removed.
 
-Field note: Connection points spot-checked where accessible (ZIP 41005 zone).
+Seasonal pest pressure in Burlington, KY shifts between moisture ants and dry-wood vectors.
 
-Dispatch sectors sampled: ZIP 41005 (county grid: Boone County).
+Clover mite staining on Burlington, KY vinyl panels follows foundation mulch against brick ledges.
+
+Perimeter mulch beds in Burlington, KY should be reviewed for ant bridge paths.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Dry-wood termite pellets in Burlington, KY attics may appear before exterior mud tubes.
+
+Step: record station placement maps for follow-up visits.
+
+Perimeter dossier 982762: bait station anchor map and mulch bridge risk flagged for Burlington, KY county Boone County (ZIP 41005).
+
+On-site sector marker: Boone County / elevation 837 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-41005-ca7045d4

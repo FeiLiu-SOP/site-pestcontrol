@@ -11,25 +11,39 @@ lng: -76.5700
 zipSample: ["13021", "13024", "13022"]
 zipCodes: ["13021", "13022", "13024"]
 localPaths: ["Cayuga County / ZIP 13021 sector", "Cayuga County / elevation 669 ft band", "Cayuga County / coords 42.9300, -76.5700", "Cayuga County / ZIP 13022 sector", "Cayuga County / primary ZIP 13021"]
-zillowHomeValueUsd: 214972
 ---
 
-**Engineering Notice for Auburn:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Cayuga County.
+**Engineering Notice for Auburn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cayuga County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 13021.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-We coordinate local dispatch coverage around Auburn, NY and nearby ZIP sectors.
+Step: record station placement maps for follow-up visits.
 
-Tip: compare at least two estimates for scope and timeline.
+Monitoring boards in Auburn, NY crawlspaces stay 72 hours before snap traps are reset.
 
-Tip: address recurring issues early to prevent bigger damage.
+IGR packets for Auburn, NY roach cycles should be dated on station lids.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Auburn, NY, but intake notes help reduce delays.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Auburn, NY.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 13022/13021/13024.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Auburn, NY.
 
-Dispatch sectors sampled: ZIP 13022, 13021, 13024 (county grid: Cayuga County).
+Clover mite staining on Auburn, NY vinyl panels follows foundation mulch against brick ledges.
+
+Risk flag: In Auburn, NY, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Humidity in Auburn, NY can sustain cockroach harborages behind appliance voids.
+
+Drain fly biofilm in Auburn, NY floor drains signals grease traps need service before gel baits.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Earwig harborages in Auburn, NY meter boxes often follow drip irrigation overspray.
+
+Fire ant mounds in Auburn, NY drive seams need granule rotation after irrigation events.
+
+Intercept log 228957: bed bug intercept count staged before Auburn, NY interior gel zones.
+
+Primary postal anchor 13021 with multi-ZIP overlap in Auburn; field packets tag Cayuga County for county-grid reconciliation.
 
 Service reference: NY-13021-2758781c

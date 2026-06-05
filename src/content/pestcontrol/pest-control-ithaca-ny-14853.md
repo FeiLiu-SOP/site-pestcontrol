@@ -11,24 +11,39 @@ lng: -76.5000
 zipSample: ["14851", "14853", "14850"]
 zipCodes: ["14850", "14853", "14851"]
 localPaths: ["Tompkins County / primary ZIP 14853", "Tompkins County / ZIP 14850 sector", "Tompkins County / ZIP 14851 sector", "Tompkins County / ZIP 14853 sector", "Tompkins County / elevation 404 ft band"]
-zillowHomeValueUsd: 404529
 ---
 
-**Engineering Notice for Ithaca:** Structural loading calculated based on 404 ft terrain assessment. Regional dispatch grid: Tompkins County.
+**Engineering Notice for Ithaca:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tompkins County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-We coordinate local dispatch coverage around Ithaca, NY and nearby ZIP sectors.
+Risk flag: In Ithaca, NY, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Silverfish activity in Ithaca, NY attics tracks cardboard storage and ridge vent gaps.
 
-Field note: Wind exposure category reviewed for ZIP sector 14851/14853/14850.
+In Ithaca, NY, subterranean termite swarms often follow warm rain windows.
 
-Dispatch sectors sampled: ZIP 14851, 14853, 14850 (county grid: Tompkins County).
+Request an inspection with species ID before treatment. Serving ZIP Code: 14853.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Monitoring boards in Ithaca, NY crawlspaces stay 72 hours before snap traps are reset.
+
+Mosquito breeding in Ithaca, NY catch basins can amplify perimeter callbacks.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+IGR packets for Ithaca, NY roach cycles should be dated on station lids.
+
+Harbor ledger 211696: frass lane, mud-tube scan, and garage jamb gap measure filed for Ithaca, NY at 42.4400, -76.5000.
+
+ZIP-corridor snapshot for Ithaca, NY: sampled sectors include 14850, 14853, 14851; county routing grid remains Tompkins County.
 
 Service reference: NY-14853-4791b234

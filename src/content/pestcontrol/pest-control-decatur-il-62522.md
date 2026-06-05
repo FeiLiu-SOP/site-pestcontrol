@@ -11,27 +11,41 @@ lng: -88.9300
 zipSample: ["62526", "62525", "62523", "62521", "62524"]
 zipCodes: ["62521", "62526", "62522", "62523", "62525", "62524"]
 localPaths: ["Macon County / ZIP 62523 sector", "Macon County / ZIP 62524 sector", "Macon County / ZIP 62521 sector", "Macon County / coords 39.8600, -88.9300", "Macon County / elevation 682 ft band"]
-zillowHomeValueUsd: 90394
 ---
 
-**Engineering Notice for Decatur:** Structural loading calculated based on 682 ft terrain assessment. Regional dispatch grid: Macon County.
+**Engineering Notice for Decatur:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Macon County.
 
 
-Tip: request a written scope before work starts.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 62522.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic insulation disturbance in Decatur, IL may indicate wildlife nesting routes.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 62522.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Our service coordination centers on Decatur, IL coverage windows and verified intake details.
+Attic fogging in Decatur, IL requires combustion appliance shutoff verification first.
 
-Homeowners in Decatur, IL often face sudden pest control problems that require fast action.
+Bird mites in Decatur, IL exhaust vents can persist after host nests are removed.
 
-Field note: Wind exposure category reviewed for ZIP sector 62524/62521/62526.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 62524/62521/62526.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Dispatch sectors sampled: ZIP 62524, 62521, 62526, 62523, 62525 (county grid: Macon County).
+Earwig harborages in Decatur, IL meter boxes often follow drip irrigation overspray.
+
+Tip: Trim vegetation 12 inches from vinyl panels to reduce ant bridges.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 62522.
+
+Perimeter dossier 654006: bait station anchor map and mulch bridge risk flagged for Decatur, IL county Macon County (ZIP 62522).
+
+Zone map 654006: attic insulation disturbance trace and pantry pest source logged for Decatur, IL sector 62522.
+
+On-site sector marker: Macon County / coords 39.8600, -88.9300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-62522-70d7a105

@@ -11,26 +11,43 @@ lng: -89.1400
 zipSample: ["39443", "39441", "39440", "39442"]
 zipCodes: ["39442", "39443", "39440", "39441"]
 localPaths: ["Jones County / primary ZIP 39440", "Jones County / ZIP 39441 sector", "Jones County / ZIP 39442 sector", "Jones County / ZIP 39440 sector", "Jones County / coords 31.7000, -89.1400"]
-zillowHomeValueUsd: 112692
 ---
 
-**Engineering Notice for Laurel:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Jones County.
+**Engineering Notice for Laurel:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jones County.
 
 
-Tip: request a written scope before work starts.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Homeowners in Laurel, MS often face sudden pest control problems that require fast action.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-We coordinate local dispatch coverage around Laurel, MS and nearby ZIP sectors.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Powderpost beetle exit holes in Laurel, MS trim can be mistaken for dry-wood frass without magnification.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Earwig harborages in Laurel, MS meter boxes often follow drip irrigation overspray.
 
-Field note: Wind exposure category reviewed for ZIP sector 39441/39440/39442.
+Drain fly biofilm in Laurel, MS floor drains signals grease traps need service before gel baits.
 
-Field note: Connection points spot-checked where accessible (ZIP 39441/39440/39442 zone).
+Risk flag: Overwatered Laurel, MS planters can restart ant bridges within two weeks.
 
-Dispatch sectors sampled: ZIP 39441, 39440, 39442, 39443 (county grid: Jones County).
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Clover mite staining on Laurel, MS vinyl panels follows foundation mulch against brick ledges.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Attic misting in Laurel, MS requires combustion air clearance verified before fans restart.
+
+Perimeter dossier 544130: bait station anchor map and mulch bridge risk flagged for Laurel, MS county Jones County (ZIP 39440).
+
+Seasonal cue 544130: cluster fly attic staging reviewed for Laurel, MS soffit cavities.
+
+On-site sector marker: Jones County / ZIP 39442 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39440-b0f0301e

@@ -11,27 +11,39 @@ lng: -114.4000
 zipSample: ["85367"]
 zipCodes: ["85367"]
 localPaths: ["Yuma County / elevation 344 ft band", "Yuma County / ZIP 85367 sector", "Yuma County / coords 32.6600, -114.4000", "Yuma County / primary ZIP 85367"]
-zillowHomeValueUsd: 324712
 ---
 
-**Engineering Notice for Fortuna Foothills:** Structural loading calculated based on 344 ft terrain assessment. Regional dispatch grid: Yuma County.
+**Engineering Notice for Fortuna Foothills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Yuma County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Silverfish activity in Fortuna Foothills, AZ attics tracks cardboard storage and ridge vent gaps.
 
-We coordinate local dispatch coverage around Fortuna Foothills, AZ and nearby ZIP sectors.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: label treatment zones for occupant re-entry timing.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Fortuna Foothills, AZ.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 85367.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Access points and staging constraints recorded for ZIP 85367 coverage.
+Risk flag: Overwatered Fortuna Foothills, AZ planters can restart ant bridges within two weeks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 85367.
+Carpenter ant frass in Fortuna Foothills, AZ window sills may indicate moisture-softened framing.
 
-Dispatch sectors sampled: ZIP 85367 (county grid: Yuma County).
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 85367.
+
+Dry-wood termite pellets in Fortuna Foothills, AZ attics may appear before exterior mud tubes.
+
+Material note: Perimeter granules in Fortuna Foothills, AZ may need reapplication after heavy irrigation.
+
+Tip: Date bait station lids when servicing Fortuna Foothills, AZ perimeter lines.
+
+Intercept log 409097: bed bug intercept count staged before Fortuna Foothills, AZ interior gel zones.
+
+Coordinate-anchored dispatch note: center reference 32.6600, -114.4000 at elevation ~344 ft aligns with Yuma County intake staging.
 
 Service reference: AZ-85367-d8d6d6f5

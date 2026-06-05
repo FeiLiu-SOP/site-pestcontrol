@@ -11,24 +11,41 @@ lng: -97.1500
 zipSample: ["76034"]
 zipCodes: ["76034"]
 localPaths: ["Tarrant County / ZIP 76034 sector", "Tarrant County / coords 32.8900, -97.1500", "Tarrant County / elevation 653 ft band", "Tarrant County / primary ZIP 76034"]
-zillowHomeValueUsd: 912150
 ---
 
-**Engineering Notice for Colleyville:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Colleyville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tarrant County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Request an inspection with species ID before treatment. Serving ZIP Code: 76034.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 76034.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Fire ant mounds in Colleyville, TX drive seams need granule rotation after irrigation events.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Colleyville, TX, but intake notes help reduce delays.
+Attic insulation disturbance in Colleyville, TX may indicate wildlife nesting routes.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Access points and staging constraints recorded for ZIP 76034 coverage.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Dispatch sectors sampled: ZIP 76034 (county grid: Tarrant County).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Colleyville, TX, pressure often rebuilds.
+
+Attic fogging in Colleyville, TX requires combustion appliance shutoff verification first.
+
+Silverfish activity in Colleyville, TX attics tracks cardboard storage and ridge vent gaps.
+
+FAQ: Can bed bugs spread room-to-room in Colleyville, TX row homes? Wall voids and shared ducts accelerate transfer.
+
+Earwig harborages in Colleyville, TX meter boxes often follow drip irrigation overspray.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 76034.
+
+Intercept log 162265: bed bug intercept count staged before Colleyville, TX interior gel zones.
+
+Harbor ledger 162265: frass lane, mud-tube scan, and garage jamb gap measure filed for Colleyville, TX at 32.8900, -97.1500.
+
+Coordinate-anchored dispatch note: center reference 32.8900, -97.1500 at elevation ~653 ft aligns with Tarrant County intake staging.
 
 Service reference: TX-76034-f147235a

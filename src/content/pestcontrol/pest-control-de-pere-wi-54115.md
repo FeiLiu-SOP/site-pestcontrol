@@ -11,24 +11,41 @@ lng: -88.0800
 zipSample: ["54344", "54115"]
 zipCodes: ["54344", "54115"]
 localPaths: ["Brown County / coords 44.4300, -88.0800", "Brown County / elevation 620 ft band", "Brown County / primary ZIP 54115", "Brown County / ZIP 54115 sector", "Brown County / ZIP 54344 sector"]
-zillowHomeValueUsd: 417720
 ---
 
-**Engineering Notice for De Pere:** Structural loading calculated based on 620 ft terrain assessment. Regional dispatch grid: Brown County.
+**Engineering Notice for De Pere:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brown County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Tip: avoid large upfront payments without milestones.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in De Pere, WI, but intake notes help reduce delays.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Connection points spot-checked where accessible (ZIP 54115/54344 zone).
+Spider populations in De Pere, WI eaves can signal insect prey density.
 
-Dispatch sectors sampled: ZIP 54115, 54344 (county grid: Brown County).
+Step: separate bait rotation schedules from crack-and-crevice applications in De Pere, WI.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Clover mite staining on De Pere, WI vinyl panels follows foundation mulch against brick ledges.
+
+Monitoring boards in De Pere, WI crawlspaces stay 72 hours before snap traps are reset.
+
+Cluster fly attic staging in De Pere, WI peaks on south-facing voids after sunny thaw days.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 54115.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+State note: De Pere, WI commercial kitchens may require separate documentation for audit visits.
+
+Intercept log 565021: bed bug intercept count staged before De Pere, WI interior gel zones.
+
+Coordinate-anchored dispatch note: center reference 44.4300, -88.0800 at elevation ~620 ft aligns with Brown County intake staging.
 
 Service reference: WI-54115-e6315197

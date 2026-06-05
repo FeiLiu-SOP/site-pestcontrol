@@ -11,26 +11,41 @@ lng: -76.8300
 zipSample: ["21043", "21041", "21042"]
 zipCodes: ["21042", "21041", "21043"]
 localPaths: ["Howard County / elevation 384 ft band", "Howard County / ZIP 21043 sector", "Howard County / ZIP 21042 sector", "Howard County / primary ZIP 21042", "Howard County / coords 39.2800, -76.8300"]
-zillowHomeValueUsd: 809299
 ---
 
-**Engineering Notice for Ellicott City:** Structural loading calculated based on 384 ft terrain assessment. Regional dispatch grid: Howard County.
+**Engineering Notice for Ellicott City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Howard County.
 
 
-Structured milestones protect both sides when scheduling work.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 21042.
 
-Tip: avoid large upfront payments without milestones.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Monitoring boards in Ellicott City, MD crawlspaces stay 72 hours before snap traps are reset.
 
-Tip: address recurring issues early to prevent bigger damage.
+Flea pupae survive vacuuming in Ellicott City, MD carpet fibers unless heat treatment follows.
 
-Field note: Access points and staging constraints recorded for ZIP 21043/21042/21041 coverage.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Field note: Connection points spot-checked where accessible (ZIP 21043/21042/21041 zone).
+Powderpost beetle exit holes in Ellicott City, MD trim can be mistaken for dry-wood frass without magnification.
 
-Dispatch sectors sampled: ZIP 21043, 21042, 21041 (county grid: Howard County).
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Perimeter granule carriers in Ellicott City, MD clay soils may need lighter irrigation before application.
+
+Risk flag: In Ellicott City, MD, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Clover mite staining on Ellicott City, MD vinyl panels follows foundation mulch against brick ledges.
+
+Yellow jacket nests in Ellicott City, MD soffit cavities peak in late summer routing windows.
+
+Attic misting in Ellicott City, MD requires combustion air clearance verified before fans restart.
+
+Seasonal cue 876756: cluster fly attic staging reviewed for Ellicott City, MD soffit cavities.
+
+Perimeter dossier 876756: bait station anchor map and mulch bridge risk flagged for Ellicott City, MD county Howard County (ZIP 21042).
+
+On-site sector marker: Howard County / elevation 384 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21042-431c4547

@@ -11,27 +11,41 @@ lng: -94.5300
 zipSample: ["72761"]
 zipCodes: ["72761"]
 localPaths: ["Benton County / elevation 1152 ft band", "Benton County / ZIP 72761 sector", "Benton County / coords 36.1800, -94.5300", "Benton County / primary ZIP 72761"]
-zillowHomeValueUsd: 282542
 ---
 
-**Engineering Notice for Siloam Springs:** Structural loading calculated based on 1152 ft terrain assessment. Regional dispatch grid: Benton County.
+**Engineering Notice for Siloam Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Benton County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Siloam Springs, AR.
 
-A written scope helps prevent rework and mismatched expectations.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 72761.
+Bird mites in Siloam Springs, AR exhaust vents can persist after host nests are removed.
 
-Tip: request a written scope before work starts.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+IGR packets for Siloam Springs, AR roach cycles should be dated on station lids.
 
-Field note: Access points and staging constraints recorded for ZIP 72761 coverage.
+Step: separate bait rotation schedules from crack-and-crevice applications in Siloam Springs, AR.
 
-Field note: Wind exposure category reviewed for ZIP sector 72761.
+Mud dauber nests in Siloam Springs, AR porch ceilings are benign but signal prey density for spiders.
 
-Dispatch sectors sampled: ZIP 72761 (county grid: Benton County).
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Carpenter ant frass in Siloam Springs, AR window sills may indicate moisture-softened framing.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Cluster fly attic staging in Siloam Springs, AR peaks on south-facing voids after sunny thaw days.
+
+FAQ: Why schedule quarterly instead of monthly in Siloam Springs, AR? Species pressure and label intervals dictate cadence.
+
+Monitoring boards in Siloam Springs, AR crawlspaces stay 72 hours before snap traps are reset.
+
+Intercept log 561777: bed bug intercept count staged before Siloam Springs, AR interior gel zones.
+
+Species trace 561777: re-entry interval label and conducive moisture note keyed to Siloam Springs, AR elevation 1152 ft.
+
+On-site sector marker: Benton County / elevation 1152 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-72761-7372a56f

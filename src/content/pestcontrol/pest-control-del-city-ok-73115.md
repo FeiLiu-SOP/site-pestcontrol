@@ -11,26 +11,39 @@ lng: -97.4400
 zipSample: ["73115", "73117"]
 zipCodes: ["73117", "73115"]
 localPaths: ["Oklahoma County / ZIP 73115 sector", "Oklahoma County / ZIP 73117 sector", "Oklahoma County / coords 35.4500, -97.4400", "Oklahoma County / elevation 1227 ft band", "Oklahoma County / primary ZIP 73115"]
-zillowHomeValueUsd: 138420
 ---
 
-**Engineering Notice for Del City:** Structural loading calculated based on 1227 ft terrain assessment. Regional dispatch grid: Oklahoma County.
+**Engineering Notice for Del City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oklahoma County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: In Del City, OK, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Del City, OK, but intake notes help reduce delays.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Access points and staging constraints recorded for ZIP 73117/73115 coverage.
+Spider populations in Del City, OK eaves can signal insect prey density.
 
-Field note: Connection points spot-checked where accessible (ZIP 73117/73115 zone).
+Monitoring boards in Del City, OK crawlspaces stay 72 hours before snap traps are reset.
 
-Dispatch sectors sampled: ZIP 73117, 73115 (county grid: Oklahoma County).
+Bird mites in Del City, OK exhaust vents can persist after host nests are removed.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Earwig harborages in Del City, OK meter boxes often follow drip irrigation overspray.
+
+Intercept log 157525: bed bug intercept count staged before Del City, OK interior gel zones.
+
+Species trace 157525: re-entry interval label and conducive moisture note keyed to Del City, OK elevation 1227 ft.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Oklahoma County. Reference elevation: 1227 ft. Primary coordinates: 35.4500, -97.4400. ZIP sample: 73115, 73117. Service perimeter note: Coverage extends through Oklahoma County with dispatch centered near ZIP 73115.
 
 Service reference: OK-73115-4b1bc0d2

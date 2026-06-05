@@ -11,26 +11,41 @@ lng: -120.0100
 zipSample: ["98944"]
 zipCodes: ["98944"]
 localPaths: ["Yakima County / ZIP 98944 sector", "Yakima County / coords 46.3200, -120.0100", "Yakima County / elevation 732 ft band", "Yakima County / primary ZIP 98944"]
-zillowHomeValueUsd: 323242
 ---
 
-**Engineering Notice for Sunnyside:** Structural loading calculated based on 732 ft terrain assessment. Regional dispatch grid: Yakima County.
+**Engineering Notice for Sunnyside:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Yakima County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Perimeter granule carriers in Sunnyside, WA clay soils may need lighter irrigation before application.
 
-Tip: avoid large upfront payments without milestones.
+We coordinate Sunnyside, WA pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Perimeter mulch beds in Sunnyside, WA should be reviewed for ant bridge paths.
 
-Our service coordination centers on Sunnyside, WA coverage windows and verified intake details.
+Step: separate bait rotation schedules from crack-and-crevice applications in Sunnyside, WA.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Sunnyside, WA, but intake notes help reduce delays.
+Fire ant mounds in Sunnyside, WA drive seams need granule rotation after irrigation events.
 
-Field note: Wind exposure category reviewed for ZIP sector 98944.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Field note: Connection points spot-checked where accessible (ZIP 98944 zone).
+FAQ: Why schedule quarterly instead of monthly in Sunnyside, WA? Species pressure and label intervals dictate cadence.
 
-Dispatch sectors sampled: ZIP 98944 (county grid: Yakima County).
+Bird mites in Sunnyside, WA exhaust vents can persist after host nests are removed.
+
+Mud dauber nests in Sunnyside, WA porch ceilings are benign but signal prey density for spiders.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Silverfish activity in Sunnyside, WA attics tracks cardboard storage and ridge vent gaps.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Drain fly biofilm in Sunnyside, WA floor drains signals grease traps need service before gel baits.
+
+Risk flag: Overwatered Sunnyside, WA planters can restart ant bridges within two weeks.
+
+Harbor ledger 752152: frass lane, mud-tube scan, and garage jamb gap measure filed for Sunnyside, WA at 46.3200, -120.0100.
+
+On-site sector marker: Yakima County / primary ZIP 98944 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98944-727b8b47

@@ -11,26 +11,37 @@ lng: -102.7900
 zipSample: ["58602", "58601"]
 zipCodes: ["58601", "58602"]
 localPaths: ["Stark County / elevation 2467 ft band", "Stark County / ZIP 58601 sector", "Stark County / coords 46.8900, -102.7900", "Stark County / primary ZIP 58601", "Stark County / ZIP 58602 sector"]
-zillowHomeValueUsd: 319283
 ---
 
-**Engineering Notice for Dickinson:** Structural loading calculated based on 2467 ft terrain assessment. Regional dispatch grid: Stark County.
+**Engineering Notice for Dickinson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Stark County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+State note: Dickinson, ND commercial kitchens may require separate documentation for audit visits.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Carpenter ant frass in Dickinson, ND window sills may indicate moisture-softened framing.
 
-Homeowners in Dickinson, ND often face sudden pest control problems that require fast action.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-In Dickinson, ND, seasonal demand can change scheduling windows.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Dickinson, ND, but intake notes help reduce delays.
+Monitoring boards in Dickinson, ND crawlspaces stay 72 hours before snap traps are reset.
 
-Field note: Access points and staging constraints recorded for ZIP 58602/58601 coverage.
+Dry-wood termite pellets in Dickinson, ND attics may appear before exterior mud tubes.
 
-Field note: Connection points spot-checked where accessible (ZIP 58602/58601 zone).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Dispatch sectors sampled: ZIP 58602, 58601 (county grid: Stark County).
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Dickinson, ND.
+
+Material note: Perimeter granules in Dickinson, ND may need reapplication after heavy irrigation.
+
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Dickinson, ND.
+
+Exclusion gaps at garage jambs in Dickinson, ND are common rodent access points.
+
+Species trace 759511: re-entry interval label and conducive moisture note keyed to Dickinson, ND elevation 2467 ft.
+
+ZIP-corridor snapshot for Dickinson, ND: sampled sectors include 58601, 58602; county routing grid remains Stark County.
 
 Service reference: ND-58601-8a72ae6e

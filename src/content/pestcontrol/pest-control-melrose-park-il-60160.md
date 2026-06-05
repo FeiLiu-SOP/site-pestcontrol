@@ -11,26 +11,39 @@ lng: -87.8600
 zipSample: ["60161", "60160"]
 zipCodes: ["60160", "60161"]
 localPaths: ["Cook County / ZIP 60161 sector", "Cook County / primary ZIP 60160", "Cook County / coords 41.9000, -87.8600", "Cook County / elevation 643 ft band", "Cook County / ZIP 60160 sector"]
-zillowHomeValueUsd: 311350
 ---
 
-**Engineering Notice for Melrose Park:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Melrose Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Stink bug overwinter seams in Melrose Park, IL cladding service laps require exclusion foam rated for UV exposure.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Our service coordination centers on Melrose Park, IL coverage windows and verified intake details.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Melrose Park, IL, but intake notes help reduce delays.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Melrose Park, IL.
 
-Field note: Wind exposure category reviewed for ZIP sector 60160/60161.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Field note: Moisture pathway inspection logged near ZIP 60160/60161 intake.
+Step: verify attic access safety before insulation disturbance.
 
-Dispatch sectors sampled: ZIP 60160, 60161 (county grid: Cook County).
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+State note: Melrose Park, IL commercial kitchens may require separate documentation for audit visits.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Attic misting in Melrose Park, IL requires combustion air clearance verified before fans restart.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Zone map 797787: attic insulation disturbance trace and pantry pest source logged for Melrose Park, IL sector 60160.
+
+Perimeter dossier 797787: bait station anchor map and mulch bridge risk flagged for Melrose Park, IL county Cook County (ZIP 60160).
+
+On-site sector marker: Cook County / primary ZIP 60160 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60160-1d6f9b75

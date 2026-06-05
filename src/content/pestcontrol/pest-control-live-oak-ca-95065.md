@@ -11,27 +11,39 @@ lng: -121.9800
 zipSample: ["95062", "95065"]
 zipCodes: ["95062", "95065"]
 localPaths: ["Santa Cruz County / coords 36.9900, -121.9800", "Santa Cruz County / ZIP 95062 sector", "Santa Cruz County / ZIP 95065 sector", "Santa Cruz County / elevation 112 ft band", "Santa Cruz County / primary ZIP 95065"]
-zillowHomeValueUsd: 1351082
 ---
 
-**Engineering Notice for Live Oak:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Santa Cruz County.
+**Engineering Notice for Live Oak:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Cruz County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Live Oak, CA.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Live Oak, CA, but intake notes help reduce delays.
+Earwig harborages in Live Oak, CA meter boxes often follow drip irrigation overspray.
 
-Tip: avoid large upfront payments without milestones.
+Mud dauber nests in Live Oak, CA porch ceilings are benign but signal prey density for spiders.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 95065.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 95065.
 
-Field note: Wind exposure category reviewed for ZIP sector 95062/95065.
+Flea pupae survive vacuuming in Live Oak, CA carpet fibers unless heat treatment follows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 95062/95065.
+Step: verify attic access safety before insulation disturbance.
 
-Dispatch sectors sampled: ZIP 95062, 95065 (county grid: Santa Cruz County).
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Humidity in Live Oak, CA can sustain cockroach harborages behind appliance voids.
+
+Perimeter granule carriers in Live Oak, CA clay soils may need lighter irrigation before application.
+
+State note: Live Oak, CA commercial kitchens may require separate documentation for audit visits.
+
+Exclusion audit 956329: exclusion mesh gauge and rodent runway grease mark reviewed for Live Oak, CA at 36.9900/-121.9800.
+
+Seasonal cue 956329: cluster fly attic staging reviewed for Live Oak, CA soffit cavities.
+
+On-site sector marker: Santa Cruz County / coords 36.9900, -121.9800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95065-39d9064c

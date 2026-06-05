@@ -11,26 +11,41 @@ lng: -90.2800
 zipSample: ["63125"]
 zipCodes: ["63125"]
 localPaths: ["St. Louis County / ZIP 63125 sector", "St. Louis County / coords 38.5300, -90.2800", "St. Louis County / primary ZIP 63125", "St. Louis County / elevation 492 ft band"]
-zillowHomeValueUsd: 203098
 ---
 
-**Engineering Notice for Lemay:** Structural loading calculated based on 492 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Lemay:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Tip: confirm licensing and insurance before approving work.
+Step: label treatment zones for occupant re-entry timing.
 
-We coordinate local dispatch coverage around Lemay, MO and nearby ZIP sectors.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Earwig harborages in Lemay, MO meter boxes often follow drip irrigation overspray.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Access points and staging constraints recorded for ZIP 63125 coverage.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Moisture pathway inspection logged near ZIP 63125 intake.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Dispatch sectors sampled: ZIP 63125 (county grid: St. Louis County).
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Lemay, MO.
+
+Risk flag: In Lemay, MO, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Cluster fly attic staging in Lemay, MO peaks on south-facing voids after sunny thaw days.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Species trace 509444: re-entry interval label and conducive moisture note keyed to Lemay, MO elevation 492 ft.
+
+Intercept log 509444: bed bug intercept count staged before Lemay, MO interior gel zones.
+
+On-site sector marker: St. Louis County / elevation 492 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63125-21d17e2f

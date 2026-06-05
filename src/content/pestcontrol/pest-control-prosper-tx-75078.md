@@ -11,26 +11,37 @@ lng: -96.8100
 zipSample: ["75078"]
 zipCodes: ["75078"]
 localPaths: ["Collin County / ZIP 75078 sector", "Collin County / elevation 653 ft band", "Collin County / primary ZIP 75078", "Collin County / coords 33.2400, -96.8100"]
-zillowHomeValueUsd: 755846
 ---
 
-**Engineering Notice for Prosper:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Collin County.
+**Engineering Notice for Prosper:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Collin County.
 
 
-Local conditions in Prosper, TX can affect timelines and material choices.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 75078.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Field note: Access points and staging constraints recorded for ZIP 75078 coverage.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Field note: Wind exposure category reviewed for ZIP sector 75078.
+Across Prosper, TX, rodent entry points frequently track utility penetrations.
 
-Dispatch sectors sampled: ZIP 75078 (county grid: Collin County).
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Cluster fly attic staging in Prosper, TX peaks on south-facing voids after sunny thaw days.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 75078.
+
+Intercept log 494673: bed bug intercept count staged before Prosper, TX interior gel zones.
+
+On-site sector marker: Collin County / elevation 653 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75078-16d775f9

@@ -11,24 +11,37 @@ lng: -96.8400
 zipSample: ["75001", "75391", "75254"]
 zipCodes: ["75254", "75391", "75001"]
 localPaths: ["Dallas County / elevation 637 ft band", "Dallas County / primary ZIP 75254", "Dallas County / ZIP 75001 sector", "Dallas County / ZIP 75254 sector", "Dallas County / coords 32.9600, -96.8400"]
-zillowHomeValueUsd: 299675
 ---
 
-**Engineering Notice for Addison:** Structural loading calculated based on 637 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for Addison:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Addison, TX, but intake notes help reduce delays.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Log pet access routes when bait stations are placed.
 
-Tip: request a written scope before work starts.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Monitoring boards in Addison, TX crawlspaces stay 72 hours before snap traps are reset.
 
-Our service coordination centers on Addison, TX coverage windows and verified intake details.
+Risk flag: In Addison, TX, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Wind exposure category reviewed for ZIP sector 75001/75391/75254.
+In Addison, TX, subterranean termite swarms often follow warm rain windows.
 
-Dispatch sectors sampled: ZIP 75001, 75391, 75254 (county grid: Dallas County).
+FAQ: Why schedule quarterly instead of monthly in Addison, TX? Species pressure and label intervals dictate cadence.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Harbor ledger 673649: frass lane, mud-tube scan, and garage jamb gap measure filed for Addison, TX at 32.9600, -96.8400.
+
+Regional mesh label Dallas County: moisture and logistics baselines are keyed to Addison, TX before niche-specific work begins.
 
 Service reference: TX-75254-32808f67

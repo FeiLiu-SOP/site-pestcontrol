@@ -11,26 +11,37 @@ lng: -122.3200
 zipSample: ["98198", "98148"]
 zipCodes: ["98198", "98148"]
 localPaths: ["King County / coords 47.3900, -122.3200", "King County / elevation 164 ft band", "King County / ZIP 98198 sector", "King County / ZIP 98148 sector", "King County / primary ZIP 98148"]
-zillowHomeValueUsd: 612358
 ---
 
-**Engineering Notice for Des Moines:** Structural loading calculated based on 164 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Des Moines:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Des Moines, WA, but intake notes help reduce delays.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-We coordinate local dispatch coverage around Des Moines, WA and nearby ZIP sectors.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Des Moines, WA.
 
-Tip: request a written scope before work starts.
+Humidity in Des Moines, WA can sustain cockroach harborages behind appliance voids.
 
-Field note: Moisture pathway inspection logged near ZIP 98148/98198 intake.
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
 
-Field note: Wind exposure category reviewed for ZIP sector 98148/98198.
+IGR packets for Des Moines, WA roach cycles should be dated on station lids.
 
-Dispatch sectors sampled: ZIP 98148, 98198 (county grid: King County).
+Cluster fly attic staging in Des Moines, WA peaks on south-facing voids after sunny thaw days.
+
+Attic insulation disturbance in Des Moines, WA may indicate wildlife nesting routes.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Risk flag: Overwatered Des Moines, WA planters can restart ant bridges within two weeks.
+
+Seasonal cue 520881: cluster fly attic staging reviewed for Des Moines, WA soffit cavities.
+
+On-site sector marker: King County / ZIP 98148 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98148-6f1f0f38

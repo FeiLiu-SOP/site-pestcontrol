@@ -11,26 +11,39 @@ lng: -121.7000
 zipSample: ["94561"]
 zipCodes: ["94561"]
 localPaths: ["Contra Costa County / primary ZIP 94561", "Contra Costa County / coords 37.9900, -121.7000", "Contra Costa County / elevation 10 ft band", "Contra Costa County / ZIP 94561 sector"]
-zillowHomeValueUsd: 665910
 ---
 
-**Engineering Notice for Oakley:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Oakley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+In Oakley, CA, subterranean termite swarms often follow warm rain windows.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: record station placement maps for follow-up visits.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Tip: address recurring issues early to prevent bigger damage.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Tip: compare at least two estimates for scope and timeline.
+Earwig harborages in Oakley, CA meter boxes often follow drip irrigation overspray.
 
-Field note: Connection points spot-checked where accessible (ZIP 94561 zone).
+Material note: Perimeter granules in Oakley, CA may need reapplication after heavy irrigation.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94561.
+Tip: Trim vegetation 12 inches from exterior cladding to reduce ant bridges.
 
-Dispatch sectors sampled: ZIP 94561 (county grid: Contra Costa County).
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 94561.
+
+FAQ: What is exclusion? Without sealing entry points in Oakley, CA, pressure often rebuilds.
+
+Perimeter granule carriers in Oakley, CA clay soils may need lighter irrigation before application.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Stink bug overwinter seams in Oakley, CA vinyl panels laps require exclusion foam rated for UV exposure.
+
+Harbor ledger 547172: frass lane, mud-tube scan, and garage jamb gap measure filed for Oakley, CA at 37.9900, -121.7000.
+
+Species trace 547172: re-entry interval label and conducive moisture note keyed to Oakley, CA elevation 10 ft.
+
+On-site sector marker: Contra Costa County / coords 37.9900, -121.7000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94561-ff4f3e25

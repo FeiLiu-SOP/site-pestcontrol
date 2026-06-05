@@ -11,24 +11,39 @@ lng: -97.4600
 zipSample: ["76108"]
 zipCodes: ["76108"]
 localPaths: ["Tarrant County / coords 32.7600, -97.4600", "Tarrant County / ZIP 76108 sector", "Tarrant County / elevation 699 ft band", "Tarrant County / primary ZIP 76108"]
-zillowHomeValueUsd: 285832
 ---
 
-**Engineering Notice for White Settlement:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Tarrant County.
+**Engineering Notice for White Settlement:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tarrant County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Tip: compare at least two estimates for scope and timeline.
+Carpenter ant frass in White Settlement, TX window sills may indicate moisture-softened framing.
 
-Clear documentation helps align materials, labor, and timeline.
+Earwig harborages in White Settlement, TX meter boxes often follow drip irrigation overspray.
 
-Our service coordination centers on White Settlement, TX coverage windows and verified intake details.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: verify attic access safety before insulation disturbance.
 
-Field note: Moisture pathway inspection logged near ZIP 76108 intake.
+Flea pupae survive vacuuming in White Settlement, TX carpet fibers unless heat treatment follows.
 
-Dispatch sectors sampled: ZIP 76108 (county grid: Tarrant County).
+Stored cardboard in White Settlement, TX garages can accelerate pantry pest cycles.
+
+Silverfish activity in White Settlement, TX attics tracks cardboard storage and ridge vent gaps.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in White Settlement, TX.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in White Settlement, TX.
+
+Material note: Perimeter granules in White Settlement, TX may need reapplication after heavy irrigation.
+
+Species trace 118998: re-entry interval label and conducive moisture note keyed to White Settlement, TX elevation 699 ft.
+
+Seasonal cue 118998: cluster fly attic staging reviewed for White Settlement, TX soffit cavities.
+
+On-site sector marker: Tarrant County / elevation 699 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76108-958262c3

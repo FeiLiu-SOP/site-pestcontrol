@@ -11,26 +11,37 @@ lng: -122.2700
 zipSample: ["94501", "94502"]
 zipCodes: ["94502", "94501"]
 localPaths: ["Alameda County / ZIP 94502 sector", "Alameda County / elevation 16 ft band", "Alameda County / coords 37.7700, -122.2700", "Alameda County / ZIP 94501 sector", "Alameda County / primary ZIP 94501"]
-zillowHomeValueUsd: 1146609
 ---
 
-**Engineering Notice for Alameda:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Alameda County.
+**Engineering Notice for Alameda:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alameda County.
 
 
-Local conditions in Alameda, CA can affect timelines and material choices.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Alameda, CA.
 
-In Alameda, CA, urgent pest control issues can escalate quickly.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Tip: avoid large upfront payments without milestones.
+Carpenter ant frass in Alameda, CA window sills may indicate moisture-softened framing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Why schedule quarterly instead of monthly in Alameda, CA? Species pressure and label intervals dictate cadence.
 
-Field note: Connection points spot-checked where accessible (ZIP 94502/94501 zone).
+Tip: Date bait station lids when servicing Alameda, CA perimeter lines.
 
-Field note: Access points and staging constraints recorded for ZIP 94502/94501 coverage.
+State note: Alameda, CA commercial kitchens may require separate documentation for audit visits.
 
-Dispatch sectors sampled: ZIP 94502, 94501 (county grid: Alameda County).
+Mud dauber nests in Alameda, CA porch ceilings are benign but signal prey density for spiders.
+
+Stink bug overwinter seams in Alameda, CA cladding service laps require exclusion foam rated for UV exposure.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Attic insulation disturbance in Alameda, CA may indicate wildlife nesting routes.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Intercept log 418641: bed bug intercept count staged before Alameda, CA interior gel zones.
+
+ZIP-corridor snapshot for Alameda, CA: sampled sectors include 94501, 94502; county routing grid remains Alameda County.
 
 Service reference: CA-94501-202b304e

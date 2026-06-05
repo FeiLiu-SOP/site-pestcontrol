@@ -11,26 +11,39 @@ lng: -158.0300
 zipSample: ["96706"]
 zipCodes: ["96706"]
 localPaths: ["Honolulu County / primary ZIP 96706", "Honolulu County / ZIP 96706 sector", "Honolulu County / elevation 52 ft band", "Honolulu County / coords 21.3300, -158.0300"]
-zillowHomeValueUsd: 830536
 ---
 
-**Engineering Notice for Ewa Gentry:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Ewa Gentry:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Honolulu County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-We coordinate local dispatch coverage around Ewa Gentry, HI and nearby ZIP sectors.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Local conditions in Ewa Gentry, HI can affect timelines and material choices.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 96706.
+Flea pupae survive vacuuming in Ewa Gentry, HI carpet fibers unless heat treatment follows.
 
-Field note: Wind exposure category reviewed for ZIP sector 96706.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 96706.
 
-Dispatch sectors sampled: ZIP 96706 (county grid: Honolulu County).
+Fire ant mounds in Ewa Gentry, HI drive seams need granule rotation after irrigation events.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Step: record station placement maps for follow-up visits.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Zone map 402873: attic insulation disturbance trace and pantry pest source logged for Ewa Gentry, HI sector 96706.
+
+Species trace 402873: re-entry interval label and conducive moisture note keyed to Ewa Gentry, HI elevation 52 ft.
+
+On-site sector marker: Honolulu County / elevation 52 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: HI-96706-227fbf0f

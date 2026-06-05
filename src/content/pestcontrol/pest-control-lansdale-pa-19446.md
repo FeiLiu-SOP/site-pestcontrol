@@ -11,26 +11,43 @@ lng: -75.2800
 zipSample: ["19446"]
 zipCodes: ["19446"]
 localPaths: ["Montgomery County / elevation 374 ft band", "Montgomery County / coords 40.2400, -75.2800", "Montgomery County / primary ZIP 19446", "Montgomery County / ZIP 19446 sector"]
-zillowHomeValueUsd: 494529
 ---
 
-**Engineering Notice for Lansdale:** Structural loading calculated based on 374 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Lansdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Earwig harborages in Lansdale, PA meter boxes often follow drip irrigation overspray.
 
-Tip: avoid large upfront payments without milestones.
+Stink bug overwinter seams in Lansdale, PA cladding service laps require exclusion foam rated for UV exposure.
 
-Tip: request a written scope before work starts.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-We coordinate local dispatch coverage around Lansdale, PA and nearby ZIP sectors.
+Mud dauber nests in Lansdale, PA porch ceilings are benign but signal prey density for spiders.
 
-Field note: Connection points spot-checked where accessible (ZIP 19446 zone).
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 19446.
+Yellow jacket nests in Lansdale, PA soffit cavities peak in late summer routing windows.
 
-Dispatch sectors sampled: ZIP 19446 (county grid: Montgomery County).
+Tip: Date bait station lids when servicing Lansdale, PA perimeter lines.
+
+Perimeter mulch beds in Lansdale, PA should be reviewed for ant bridge paths.
+
+Material note: Perimeter granules in Lansdale, PA may need reapplication after heavy irrigation.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Perimeter dossier 392737: bait station anchor map and mulch bridge risk flagged for Lansdale, PA county Montgomery County (ZIP 19446).
+
+Zone map 392737: attic insulation disturbance trace and pantry pest source logged for Lansdale, PA sector 19446.
+
+On-site sector marker: Montgomery County / primary ZIP 19446 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-19446-edc1752b

@@ -11,26 +11,41 @@ lng: -96.9600
 zipSample: ["74804", "74801", "74802"]
 zipCodes: ["74801", "74802", "74804"]
 localPaths: ["Pottawatomie County / ZIP 74801 sector", "Pottawatomie County / ZIP 74804 sector", "Pottawatomie County / elevation 1047 ft band", "Pottawatomie County / primary ZIP 74804", "Pottawatomie County / ZIP 74802 sector"]
-zillowHomeValueUsd: 226524
 ---
 
-**Engineering Notice for Shawnee:** Structural loading calculated based on 1047 ft terrain assessment. Regional dispatch grid: Pottawatomie County.
+**Engineering Notice for Shawnee:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pottawatomie County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Earwig harborages in Shawnee, OK meter boxes often follow drip irrigation overspray.
 
-In Shawnee, OK, urgent pest control issues can escalate quickly.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-A written scope helps prevent rework and mismatched expectations.
+Yellow jacket nests in Shawnee, OK soffit cavities peak in late summer routing windows.
 
-Field note: Access points and staging constraints recorded for ZIP 74804/74801/74802 coverage.
+Tip: Date bait station lids when servicing Shawnee, OK perimeter lines.
 
-Field note: Connection points spot-checked where accessible (ZIP 74804/74801/74802 zone).
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Dispatch sectors sampled: ZIP 74804, 74801, 74802 (county grid: Pottawatomie County).
+Stored cardboard in Shawnee, OK garages can accelerate pantry pest cycles.
+
+Material note: Perimeter granules in Shawnee, OK may need reapplication after heavy irrigation.
+
+FAQ: What is exclusion? Without sealing entry points in Shawnee, OK, pressure often rebuilds.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 74804.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+FAQ: Can bed bugs spread room-to-room in Shawnee, OK row homes? Wall voids and shared ducts accelerate transfer.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 74804.
+
+Species trace 546475: re-entry interval label and conducive moisture note keyed to Shawnee, OK elevation 1047 ft.
+
+ZIP-corridor snapshot for Shawnee, OK: sampled sectors include 74801, 74804, 74802; county routing grid remains Pottawatomie County.
 
 Service reference: OK-74804-d1bc47e6

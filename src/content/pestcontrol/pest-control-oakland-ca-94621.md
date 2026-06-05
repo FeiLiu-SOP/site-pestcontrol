@@ -11,24 +11,41 @@ lng: -122.2200
 zipSample: ["94610", "94613", "94618", "94612", "94602"]
 zipCodes: ["94661", "94621", "94606", "94660", "94615", "94623", "94608", "94614", "94609", "94602", "94611", "94619"]
 localPaths: ["Alameda County / ZIP 94618 sector", "Alameda County / ZIP 94612 sector", "Alameda County / primary ZIP 94621", "Alameda County / ZIP 94613 sector", "Alameda County / ZIP 94602 sector"]
-zillowHomeValueUsd: 452283
 ---
 
-**Engineering Notice for Oakland:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: Alameda County.
+**Engineering Notice for Oakland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alameda County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 94621.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Oakland, CA, but intake notes help reduce delays.
+FAQ: Why schedule quarterly instead of monthly in Oakland, CA? Species pressure and label intervals dictate cadence.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Silverfish activity in Oakland, CA attics tracks cardboard storage and ridge vent gaps.
 
-Field note: Wind exposure category reviewed for ZIP sector 94610/94720/94604.
+State note: Oakland, CA commercial kitchens may require separate documentation for audit visits.
 
-Dispatch sectors sampled: ZIP 94610, 94720, 94604, 94614, 94606 (county grid: Alameda County).
+Attic insulation disturbance in Oakland, CA may indicate wildlife nesting routes.
+
+Step: verify attic access safety before insulation disturbance.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+FAQ: What is exclusion? Without sealing entry points in Oakland, CA, pressure often rebuilds.
+
+Monitoring boards in Oakland, CA crawlspaces stay 72 hours before snap traps are reset.
+
+Risk flag: In Oakland, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Attic fogging in Oakland, CA requires combustion appliance shutoff verification first.
+
+Zone map 367960: attic insulation disturbance trace and pantry pest source logged for Oakland, CA sector 94621.
+
+Intercept log 367960: bed bug intercept count staged before Oakland, CA interior gel zones.
+
+On-site sector marker: Alameda County / ZIP 94614 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94621-a3bcfab6

@@ -11,24 +11,43 @@ lng: -118.8300
 zipSample: ["93203"]
 zipCodes: ["93203"]
 localPaths: ["Kern County / coords 35.1900, -118.8300", "Kern County / ZIP 93203 sector", "Kern County / primary ZIP 93203", "Kern County / elevation 417 ft band"]
-zillowHomeValueUsd: 297003
 ---
 
-**Engineering Notice for Arvin:** Structural loading calculated based on 417 ft terrain assessment. Regional dispatch grid: Kern County.
+**Engineering Notice for Arvin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kern County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Tip: request a written scope before work starts.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Structured milestones protect both sides when scheduling work.
+State note: Arvin, CA commercial kitchens may require separate documentation for audit visits.
 
-We coordinate local dispatch coverage around Arvin, CA and nearby ZIP sectors.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Wind exposure category reviewed for ZIP sector 93203.
+Monitoring boards in Arvin, CA crawlspaces stay 72 hours before snap traps are reset.
 
-Dispatch sectors sampled: ZIP 93203 (county grid: Kern County).
+Yellow jacket nests in Arvin, CA soffit cavities peak in late summer routing windows.
+
+Earwig harborages in Arvin, CA meter boxes often follow drip irrigation overspray.
+
+FAQ: Why schedule quarterly instead of monthly in Arvin, CA? Species pressure and label intervals dictate cadence.
+
+Dry-wood termite pellets in Arvin, CA attics may appear before exterior mud tubes.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Risk flag: Overwatered Arvin, CA planters can restart ant bridges within two weeks.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Powderpost beetle exit holes in Arvin, CA trim can be mistaken for dry-wood frass without magnification.
+
+Perimeter dossier 515284: bait station anchor map and mulch bridge risk flagged for Arvin, CA county Kern County (ZIP 93203).
+
+Seasonal cue 515284: cluster fly attic staging reviewed for Arvin, CA soffit cavities.
+
+Primary postal anchor 93203 with multi-ZIP overlap in Arvin; field packets tag Kern County for county-grid reconciliation.
 
 Service reference: CA-93203-c31242df

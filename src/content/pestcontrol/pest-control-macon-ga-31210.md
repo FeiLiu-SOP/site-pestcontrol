@@ -11,28 +11,41 @@ lng: -83.7000
 zipSample: ["31207", "31221", "31206", "31211", "31204"]
 zipCodes: ["31205", "31207", "31052", "31204", "31213", "31216", "31208", "31201", "31296", "31294", "31295", "31206"]
 localPaths: ["Bibb County / primary ZIP 31210", "Bibb County / ZIP 31206 sector", "Bibb County / ZIP 31211 sector", "Bibb County / ZIP 31221 sector", "Bibb County / coords 32.8100, -83.7000"]
-zillowHomeValueUsd: 286869
 ---
 
-**Engineering Notice for Macon:** Structural loading calculated based on 413 ft terrain assessment. Regional dispatch grid: Bibb County.
+**Engineering Notice for Macon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bibb County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 31210.
+Humidity in Macon, GA can sustain cockroach harborages behind appliance voids.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 31210.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 31210.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Macon, GA, but intake notes help reduce delays.
+FAQ: What is exclusion? Without sealing entry points in Macon, GA, pressure often rebuilds.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Spider populations in Macon, GA eaves can signal insect prey density.
 
-Field note: Connection points spot-checked where accessible (ZIP 31216/31296/31295 zone).
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Macon, GA.
 
-Field note: Wind exposure category reviewed for ZIP sector 31216/31296/31295.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Dispatch sectors sampled: ZIP 31216, 31296, 31295, 31204, 31221 (county grid: Bibb County).
+Powderpost beetle exit holes in Macon, GA trim can be mistaken for dry-wood frass without magnification.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Material note: Perimeter granules in Macon, GA may need reapplication after heavy irrigation.
+
+Across Macon, GA, rodent entry points frequently track utility penetrations.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Tip: Date bait station lids when servicing Macon, GA perimeter lines.
+
+Zone map 756899: attic insulation disturbance trace and pantry pest source logged for Macon, GA sector 31210.
+
+Seasonal cue 756899: cluster fly attic staging reviewed for Macon, GA soffit cavities.
+
+On-site sector marker: Bibb County / elevation 413 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-31210-8956f432

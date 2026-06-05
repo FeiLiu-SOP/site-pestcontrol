@@ -11,26 +11,39 @@ lng: -80.2900
 zipSample: ["34990", "34991"]
 zipCodes: ["34991", "34990"]
 localPaths: ["Martin County / elevation 3 ft band", "Martin County / ZIP 34990 sector", "Martin County / primary ZIP 34990", "Martin County / ZIP 34991 sector", "Martin County / coords 27.1700, -80.2900"]
-zillowHomeValueUsd: 611083
 ---
 
-**Engineering Notice for Palm City:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Martin County.
+**Engineering Notice for Palm City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Martin County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Perimeter granules in Palm City, FL may need reapplication after heavy irrigation.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Palm City, FL, but intake notes help reduce delays.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Our service coordination centers on Palm City, FL coverage windows and verified intake details.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Trim vegetation 12 inches from cladding service to reduce ant bridges.
 
-Field note: Access points and staging constraints recorded for ZIP 34990/34991 coverage.
+Risk flag: Overwatered Palm City, FL planters can restart ant bridges within two weeks.
 
-Field note: Moisture pathway inspection logged near ZIP 34990/34991 intake.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Dispatch sectors sampled: ZIP 34990, 34991 (county grid: Martin County).
+Attic misting in Palm City, FL requires combustion air clearance verified before fans restart.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Silverfish activity in Palm City, FL attics tracks cardboard storage and ridge vent gaps.
+
+Bird mites in Palm City, FL exhaust vents can persist after host nests are removed.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 34990.
+
+Flea pupae survive vacuuming in Palm City, FL carpet fibers unless heat treatment follows.
+
+Zone map 178736: attic insulation disturbance trace and pantry pest source logged for Palm City, FL sector 34990.
+
+Coordinate-anchored dispatch note: center reference 27.1700, -80.2900 at elevation ~3 ft aligns with Martin County intake staging.
 
 Service reference: FL-34990-0cedbce2

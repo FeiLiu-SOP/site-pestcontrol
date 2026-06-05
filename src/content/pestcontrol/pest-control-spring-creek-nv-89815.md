@@ -11,24 +11,41 @@ lng: -115.6000
 zipSample: ["89815"]
 zipCodes: ["89815"]
 localPaths: ["Elko County / ZIP 89815 sector", "Elko County / primary ZIP 89815", "Elko County / coords 40.7400, -115.6000", "Elko County / elevation 5453 ft band"]
-zillowHomeValueUsd: 400879
 ---
 
-**Engineering Notice for Spring Creek:** Structural loading calculated based on 5453 ft terrain assessment. Regional dispatch grid: Elko County.
+**Engineering Notice for Spring Creek:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Elko County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Stink bug overwinter seams in Spring Creek, NV cladding service laps require exclusion foam rated for UV exposure.
 
-A written scope helps prevent rework and mismatched expectations.
+Stored cardboard in Spring Creek, NV garages can accelerate pantry pest cycles.
 
-Tip: request a written scope before work starts.
+Step: label treatment zones for occupant re-entry timing.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Spring Creek, NV, but intake notes help reduce delays.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Homeowners in Spring Creek, NV often face sudden pest control problems that require fast action.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Field note: Wind exposure category reviewed for ZIP sector 89815.
+Perimeter mulch beds in Spring Creek, NV should be reviewed for ant bridge paths.
 
-Dispatch sectors sampled: ZIP 89815 (county grid: Elko County).
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Powderpost beetle exit holes in Spring Creek, NV trim can be mistaken for dry-wood frass without magnification.
+
+Exclusion gaps at garage jambs in Spring Creek, NV are common rodent access points.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 89815.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Zone map 554127: attic insulation disturbance trace and pantry pest source logged for Spring Creek, NV sector 89815.
+
+Seasonal cue 554127: cluster fly attic staging reviewed for Spring Creek, NV soffit cavities.
+
+On-site sector marker: Elko County / ZIP 89815 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NV-89815-c0f64fbd

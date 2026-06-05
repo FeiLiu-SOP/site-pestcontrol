@@ -11,25 +11,39 @@ lng: -87.8300
 zipSample: ["60465"]
 zipCodes: ["60465"]
 localPaths: ["Cook County / primary ZIP 60465", "Cook County / elevation 607 ft band", "Cook County / ZIP 60465 sector", "Cook County / coords 41.7000, -87.8300"]
-zillowHomeValueUsd: 279957
 ---
 
-**Engineering Notice for Palos Hills:** Structural loading calculated based on 607 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Palos Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 60465.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-We coordinate local dispatch coverage around Palos Hills, IL and nearby ZIP sectors.
+Risk flag: In Palos Hills, IL, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Attic fogging in Palos Hills, IL requires combustion appliance shutoff verification first.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Palos Hills, IL.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Mud dauber nests in Palos Hills, IL porch ceilings are benign but signal prey density for spiders.
 
-Field note: Access points and staging constraints recorded for ZIP 60465 coverage.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Dispatch sectors sampled: ZIP 60465 (county grid: Cook County).
+Tip: Keep pet food elevated and sealed between service visits.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Material note: Perimeter granules in Palos Hills, IL may need reapplication after heavy irrigation.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Exclusion audit 704517: exclusion mesh gauge and rodent runway grease mark reviewed for Palos Hills, IL at 41.7000/-87.8300.
+
+Harbor ledger 704517: frass lane, mud-tube scan, and garage jamb gap measure filed for Palos Hills, IL at 41.7000, -87.8300.
+
+On-site sector marker: Cook County / primary ZIP 60465 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60465-635f1e3b

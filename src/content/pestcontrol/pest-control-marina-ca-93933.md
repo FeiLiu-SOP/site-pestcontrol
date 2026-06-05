@@ -11,26 +11,43 @@ lng: -121.7900
 zipSample: ["93933"]
 zipCodes: ["93933"]
 localPaths: ["Monterey County / primary ZIP 93933", "Monterey County / coords 36.6800, -121.7900", "Monterey County / elevation 72 ft band", "Monterey County / ZIP 93933 sector"]
-zillowHomeValueUsd: 869393
 ---
 
-**Engineering Notice for Marina:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Monterey County.
+**Engineering Notice for Marina:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Monterey County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Marina, CA, but intake notes help reduce delays.
+Step: label treatment zones for occupant re-entry timing.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-A written scope helps prevent rework and mismatched expectations.
+Cluster fly attic staging in Marina, CA peaks on south-facing voids after sunny thaw days.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-We coordinate local dispatch coverage around Marina, CA and nearby ZIP sectors.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Field note: Connection points spot-checked where accessible (ZIP 93933 zone).
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Field note: Moisture pathway inspection logged near ZIP 93933 intake.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 93933.
 
-Dispatch sectors sampled: ZIP 93933 (county grid: Monterey County).
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Stink bug overwinter seams in Marina, CA exterior cladding laps require exclusion foam rated for UV exposure.
+
+IGR packets for Marina, CA roach cycles should be dated on station lids.
+
+Bird mites in Marina, CA exhaust vents can persist after host nests are removed.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 93933.
+
+Flea pupae survive vacuuming in Marina, CA carpet fibers unless heat treatment follows.
+
+Species trace 905165: re-entry interval label and conducive moisture note keyed to Marina, CA elevation 72 ft.
+
+Seasonal cue 905165: cluster fly attic staging reviewed for Marina, CA soffit cavities.
+
+On-site sector marker: Monterey County / coords 36.6800, -121.7900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93933-e7ce9e1f

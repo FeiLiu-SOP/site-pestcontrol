@@ -11,25 +11,37 @@ lng: -77.0600
 zipSample: ["22307", "22308"]
 zipCodes: ["22308", "22307"]
 localPaths: ["Fairfax County / elevation 39 ft band", "Fairfax County / coords 38.7400, -77.0600", "Fairfax County / ZIP 22307 sector", "Fairfax County / primary ZIP 22308", "Fairfax County / ZIP 22308 sector"]
-zillowHomeValueUsd: 975988
 ---
 
-**Engineering Notice for Fort Hunt:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Fort Hunt:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 22308.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 22308.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-We coordinate local dispatch coverage around Fort Hunt, VA and nearby ZIP sectors.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Tip: address recurring issues early to prevent bigger damage.
+Earwig harborages in Fort Hunt, VA meter boxes often follow drip irrigation overspray.
 
-Field note: Connection points spot-checked where accessible (ZIP 22307/22308 zone).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Dispatch sectors sampled: ZIP 22307, 22308 (county grid: Fairfax County).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 22308.
+
+Material note: Perimeter granules in Fort Hunt, VA may need reapplication after heavy irrigation.
+
+Attic insulation disturbance in Fort Hunt, VA may indicate wildlife nesting routes.
+
+Stink bug overwinter seams in Fort Hunt, VA cladding service laps require exclusion foam rated for UV exposure.
+
+Seasonal cue 588464: cluster fly attic staging reviewed for Fort Hunt, VA soffit cavities.
+
+On-site sector marker: Fairfax County / coords 38.7400, -77.0600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22308-293bc9c5

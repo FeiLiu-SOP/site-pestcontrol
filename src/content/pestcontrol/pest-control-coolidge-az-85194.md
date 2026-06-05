@@ -11,24 +11,41 @@ lng: -111.5300
 zipSample: ["85194", "85191", "85128"]
 zipCodes: ["85194", "85191", "85128"]
 localPaths: ["Pinal County / coords 32.9400, -111.5300", "Pinal County / elevation 1414 ft band", "Pinal County / primary ZIP 85194", "Pinal County / ZIP 85194 sector", "Pinal County / ZIP 85191 sector"]
-zillowHomeValueUsd: 362231
 ---
 
-**Engineering Notice for Coolidge:** Structural loading calculated based on 1414 ft terrain assessment. Regional dispatch grid: Pinal County.
+**Engineering Notice for Coolidge:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pinal County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Coolidge, AZ, but intake notes help reduce delays.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-We coordinate local dispatch coverage around Coolidge, AZ and nearby ZIP sectors.
+Attic misting in Coolidge, AZ requires combustion air clearance verified before fans restart.
 
-Tip: confirm licensing and insurance before approving work.
+Attic insulation disturbance in Coolidge, AZ may indicate wildlife nesting routes.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Coolidge, AZ, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Field note: Access points and staging constraints recorded for ZIP 85191/85194/85128 coverage.
+FAQ: Why schedule quarterly instead of monthly in Coolidge, AZ? Species pressure and label intervals dictate cadence.
 
-Dispatch sectors sampled: ZIP 85191, 85194, 85128 (county grid: Pinal County).
+Exclusion gaps at garage jambs in Coolidge, AZ are common rodent access points.
+
+Yellow jacket nests in Coolidge, AZ soffit cavities peak in late summer routing windows.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Coolidge, AZ.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Seasonal cue 712613: cluster fly attic staging reviewed for Coolidge, AZ soffit cavities.
+
+Species trace 712613: re-entry interval label and conducive moisture note keyed to Coolidge, AZ elevation 1414 ft.
+
+ZIP-corridor snapshot for Coolidge, AZ: sampled sectors include 85128, 85194, 85191; county routing grid remains Pinal County.
 
 Service reference: AZ-85194-d1ede084

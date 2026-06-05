@@ -11,27 +11,39 @@ lng: -83.0300
 zipSample: ["48088", "48089", "48092", "48091", "48093"]
 zipCodes: ["48092", "48397", "48093", "48088", "48089", "48091"]
 localPaths: ["Macomb County / ZIP 48088 sector", "Macomb County / coords 42.4900, -83.0300", "Macomb County / elevation 623 ft band", "Macomb County / ZIP 48091 sector", "Macomb County / ZIP 48092 sector"]
-zillowHomeValueUsd: 241893
 ---
 
-**Engineering Notice for Warren:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Macomb County.
+**Engineering Notice for Warren:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Macomb County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 48092.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Warren, MI, but intake notes help reduce delays.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Silverfish activity in Warren, MI attics tracks cardboard storage and ridge vent gaps.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 48092.
+Perimeter granule carriers in Warren, MI clay soils may need lighter irrigation before application.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Mud dauber nests in Warren, MI porch ceilings are benign but signal prey density for spiders.
 
-Field note: Wind exposure category reviewed for ZIP sector 48091/48397/48089.
+Cluster fly attic staging in Warren, MI peaks on south-facing voids after sunny thaw days.
 
-Field note: Access points and staging constraints recorded for ZIP 48091/48397/48089 coverage.
+Stink bug overwinter seams in Warren, MI exterior cladding laps require exclusion foam rated for UV exposure.
 
-Dispatch sectors sampled: ZIP 48091, 48397, 48089, 48092, 48088 (county grid: Macomb County).
+Powderpost beetle exit holes in Warren, MI trim can be mistaken for dry-wood frass without magnification.
+
+Across Warren, MI, rodent entry points frequently track utility penetrations.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Attic fogging in Warren, MI requires combustion appliance shutoff verification first.
+
+Perimeter dossier 904173: bait station anchor map and mulch bridge risk flagged for Warren, MI county Macomb County (ZIP 48092).
+
+Zone map 904173: attic insulation disturbance trace and pantry pest source logged for Warren, MI sector 48092.
+
+On-site sector marker: Macomb County / elevation 623 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48092-de716901

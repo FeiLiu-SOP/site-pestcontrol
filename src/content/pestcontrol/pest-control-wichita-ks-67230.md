@@ -11,26 +11,43 @@ lng: -97.3400
 zipSample: ["67204", "67276", "67218", "67206", "67235"]
 zipCodes: ["67277", "67205", "67220", "67219", "67226", "67215", "67216", "67210", "67217", "67276", "67206", "67203"]
 localPaths: ["Sedgwick County / ZIP 67204 sector", "Sedgwick County / ZIP 67235 sector", "Sedgwick County / ZIP 67206 sector", "Sedgwick County / primary ZIP 67230", "Sedgwick County / coords 37.6900, -97.3400"]
-zillowHomeValueUsd: 436594
 ---
 
-**Engineering Notice for Wichita:** Structural loading calculated based on 1329 ft terrain assessment. Regional dispatch grid: Sedgwick County.
+**Engineering Notice for Wichita:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sedgwick County.
 
 
-In Wichita, KS, seasonal demand can change scheduling windows.
+Drain fly biofilm in Wichita, KS floor drains signals grease traps need service before gel baits.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Request an inspection with species ID before treatment. Serving ZIP Code: 67230.
 
-In Wichita, KS, urgent pest control issues can escalate quickly.
+Step: separate bait rotation schedules from crack-and-crevice applications in Wichita, KS.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Wichita, KS, but intake notes help reduce delays.
+Attic misting in Wichita, KS requires combustion air clearance verified before fans restart.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 67230/67207/67202.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Field note: Access points and staging constraints recorded for ZIP 67230/67207/67202 coverage.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Dispatch sectors sampled: ZIP 67230, 67207, 67202, 67204, 67212 (county grid: Sedgwick County).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Material note: Perimeter granules in Wichita, KS may need reapplication after heavy irrigation.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Powderpost beetle exit holes in Wichita, KS trim can be mistaken for dry-wood frass without magnification.
+
+Risk flag: In Wichita, KS, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Intercept log 815956: bed bug intercept count staged before Wichita, KS interior gel zones.
+
+Harbor ledger 815956: frass lane, mud-tube scan, and garage jamb gap measure filed for Wichita, KS at 37.6900, -97.3400.
+
+On-site sector marker: Sedgwick County / ZIP 67214 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: KS-67230-f89d5bd3

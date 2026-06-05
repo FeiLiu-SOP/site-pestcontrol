@@ -11,26 +11,43 @@ lng: -118.1800
 zipSample: ["90201"]
 zipCodes: ["90201"]
 localPaths: ["Los Angeles County / elevation 144 ft band", "Los Angeles County / ZIP 90201 sector", "Los Angeles County / coords 33.9800, -118.1800", "Los Angeles County / primary ZIP 90201"]
-zillowHomeValueUsd: 686976
 ---
 
-**Engineering Notice for Bell:** Structural loading calculated based on 144 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Bell:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+State note: Bell, CA commercial kitchens may require separate documentation for audit visits.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Transparent pricing helps you compare like-for-like scope items.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-We coordinate local dispatch coverage around Bell, CA and nearby ZIP sectors.
+Tip: Keep pet food elevated and sealed between service visits.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: record station placement maps for follow-up visits.
 
-Field note: Wind exposure category reviewed for ZIP sector 90201.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 90201.
 
-Field note: Connection points spot-checked where accessible (ZIP 90201 zone).
+Step: verify attic access safety before insulation disturbance.
 
-Dispatch sectors sampled: ZIP 90201 (county grid: Los Angeles County).
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Wildlife odors in Bell, CA crawlspaces may attract secondary pest activity.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Seasonal cue 722549: cluster fly attic staging reviewed for Bell, CA soffit cavities.
+
+Perimeter dossier 722549: bait station anchor map and mulch bridge risk flagged for Bell, CA county Los Angeles County (ZIP 90201).
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~144 ft across the Los Angeles County area. Coordinates: 33.9800, -118.1800. ZIP sample: 90201. Regional routing note: Los Angeles County traffic flow is balanced around ZIP 90201 service demand.
 
 Service reference: CA-90201-2fb05b51

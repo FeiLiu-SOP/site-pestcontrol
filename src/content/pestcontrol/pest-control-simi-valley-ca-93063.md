@@ -11,27 +11,43 @@ lng: -118.7500
 zipSample: ["93094", "93062", "93063", "93099", "93065"]
 zipCodes: ["93065", "93063", "93062", "93094", "93099"]
 localPaths: ["Ventura County / primary ZIP 93063", "Ventura County / ZIP 93063 sector", "Ventura County / coords 34.2700, -118.7500", "Ventura County / ZIP 93094 sector", "Ventura County / ZIP 93062 sector"]
-zillowHomeValueUsd: 843087
 ---
 
-**Engineering Notice for Simi Valley:** Structural loading calculated based on 879 ft terrain assessment. Regional dispatch grid: Ventura County.
+**Engineering Notice for Simi Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ventura County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Powderpost beetle exit holes in Simi Valley, CA trim can be mistaken for dry-wood frass without magnification.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Yellow jacket nests in Simi Valley, CA soffit cavities peak in late summer routing windows.
 
-We coordinate local dispatch coverage around Simi Valley, CA and nearby ZIP sectors.
+Step: record station placement maps for follow-up visits.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 93063.
+Material note: Perimeter granules in Simi Valley, CA may need reapplication after heavy irrigation.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Simi Valley, CA, but intake notes help reduce delays.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Connection points spot-checked where accessible (ZIP 93063/93065/93094 zone).
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Wind exposure category reviewed for ZIP sector 93063/93065/93094.
+Spider populations in Simi Valley, CA eaves can signal insect prey density.
 
-Dispatch sectors sampled: ZIP 93063, 93065, 93094, 93099, 93062 (county grid: Ventura County).
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Carpenter ant frass in Simi Valley, CA window sills may indicate moisture-softened framing.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Step: verify attic access safety before insulation disturbance.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Bird mites in Simi Valley, CA exhaust vents can persist after host nests are removed.
+
+Seasonal cue 794558: cluster fly attic staging reviewed for Simi Valley, CA soffit cavities.
+
+Exclusion audit 794558: exclusion mesh gauge and rodent runway grease mark reviewed for Simi Valley, CA at 34.2700/-118.7500.
+
+ZIP-corridor snapshot for Simi Valley, CA: sampled sectors include 93065, 93099, 93062, 93063, 93094; county routing grid remains Ventura County.
 
 Service reference: CA-93063-6ff42c1a

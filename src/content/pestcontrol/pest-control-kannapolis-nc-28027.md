@@ -11,26 +11,41 @@ lng: -80.6400
 zipSample: ["28027", "28081", "28083", "28082"]
 zipCodes: ["28082", "28027", "28083", "28081"]
 localPaths: ["Cabarrus County / coords 35.4800, -80.6400", "Cabarrus County / ZIP 28083 sector", "Cabarrus County / ZIP 28082 sector", "Cabarrus County / elevation 761 ft band", "Cabarrus County / ZIP 28027 sector"]
-zillowHomeValueUsd: 414961
 ---
 
-**Engineering Notice for Kannapolis:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Cabarrus County.
+**Engineering Notice for Kannapolis:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cabarrus County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Cluster fly attic staging in Kannapolis, NC peaks on south-facing voids after sunny thaw days.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Date bait station lids when servicing Kannapolis, NC perimeter lines.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Kannapolis, NC, but intake notes help reduce delays.
+Flea pupae survive vacuuming in Kannapolis, NC carpet fibers unless heat treatment follows.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Spider populations in Kannapolis, NC eaves can signal insect prey density.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28027/28083/28081.
+IGR packets for Kannapolis, NC roach cycles should be dated on station lids.
 
-Field note: Wind exposure category reviewed for ZIP sector 28027/28083/28081.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 28027.
 
-Dispatch sectors sampled: ZIP 28027, 28083, 28081, 28082 (county grid: Cabarrus County).
+Yellow jacket nests in Kannapolis, NC soffit cavities peak in late summer routing windows.
+
+Stink bug overwinter seams in Kannapolis, NC wall restoration laps require exclusion foam rated for UV exposure.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Drain fly biofilm in Kannapolis, NC floor drains signals grease traps need service before gel baits.
+
+Powderpost beetle exit holes in Kannapolis, NC trim can be mistaken for dry-wood frass without magnification.
+
+Risk flag: Overwatered Kannapolis, NC planters can restart ant bridges within two weeks.
+
+Species trace 216286: re-entry interval label and conducive moisture note keyed to Kannapolis, NC elevation 761 ft.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Cabarrus County. Reference elevation: 761 ft. Primary coordinates: 35.4800, -80.6400. ZIP sample: 28082, 28027, 28081, 28083. Service perimeter note: Coverage extends through Cabarrus County with dispatch centered near ZIP 28027.
 
 Service reference: NC-28027-1833d89b

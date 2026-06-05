@@ -11,26 +11,43 @@ lng: -73.8700
 zipSample: ["10707", "10702", "10704", "10710", "10703"]
 zipCodes: ["10707", "10710", "10708", "10703", "10704", "10705", "10701", "10702"]
 localPaths: ["Westchester County / ZIP 10703 sector", "Westchester County / ZIP 10702 sector", "Westchester County / coords 40.9500, -73.8700", "Westchester County / ZIP 10704 sector", "Westchester County / ZIP 10707 sector"]
-zillowHomeValueUsd: 949632
 ---
 
-**Engineering Notice for Yonkers:** Structural loading calculated based on 325 ft terrain assessment. Regional dispatch grid: Westchester County.
+**Engineering Notice for Yonkers:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Westchester County.
 
 
-Tip: request a written scope before work starts.
+Bird mites in Yonkers, NY exhaust vents can persist after host nests are removed.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Attic misting in Yonkers, NY requires combustion air clearance verified before fans restart.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Homeowners in Yonkers, NY often face sudden pest control problems that require fast action.
+Attic fogging in Yonkers, NY requires combustion appliance shutoff verification first.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 10702/10705/10701.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Field note: Moisture pathway inspection logged near ZIP 10702/10705/10701 intake.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Dispatch sectors sampled: ZIP 10702, 10705, 10701, 10710, 10704 (county grid: Westchester County).
+Perimeter granule carriers in Yonkers, NY clay soils may need lighter irrigation before application.
+
+We coordinate Yonkers, NY pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 10708.
+
+Cluster fly attic staging in Yonkers, NY peaks on south-facing voids after sunny thaw days.
+
+Step: verify attic access safety before insulation disturbance.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Fire ant mounds in Yonkers, NY drive seams need granule rotation after irrigation events.
+
+Zone map 624746: attic insulation disturbance trace and pantry pest source logged for Yonkers, NY sector 10708.
+
+Harbor ledger 624746: frass lane, mud-tube scan, and garage jamb gap measure filed for Yonkers, NY at 40.9500, -73.8700.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Westchester County. Reference elevation: 325 ft. Primary coordinates: 40.9500, -73.8700. ZIP sample: 10708, 10705, 10702, 10707, 10703. Logistics priority: Serving residential sectors across Westchester County and north-east ZIP 10708 grid.
 
 Service reference: NY-10708-726eb727

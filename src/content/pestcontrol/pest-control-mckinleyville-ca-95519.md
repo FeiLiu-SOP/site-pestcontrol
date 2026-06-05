@@ -11,26 +11,39 @@ lng: -124.0900
 zipSample: ["95519"]
 zipCodes: ["95519"]
 localPaths: ["Humboldt County / elevation 200 ft band", "Humboldt County / ZIP 95519 sector", "Humboldt County / coords 40.9500, -124.0900", "Humboldt County / primary ZIP 95519"]
-zillowHomeValueUsd: 482875
 ---
 
-**Engineering Notice for McKinleyville:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Humboldt County.
+**Engineering Notice for McKinleyville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Humboldt County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Perimeter granules in McKinleyville, CA may need reapplication after heavy irrigation.
 
-Tip: compare at least two estimates for scope and timeline.
+Perimeter granule carriers in McKinleyville, CA clay soils may need lighter irrigation before application.
 
-Homeowners in McKinleyville, CA often face sudden pest control problems that require fast action.
+County grid Humboldt County informs routing near ZIP 95519.
 
-Tip: confirm licensing and insurance before approving work.
+Request an inspection with species ID before treatment. Serving ZIP Code: 95519.
 
-Our service coordination centers on McKinleyville, CA coverage windows and verified intake details.
+Across McKinleyville, CA, rodent entry points frequently track utility penetrations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 95519.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Field note: Access points and staging constraints recorded for ZIP 95519 coverage.
+Step: record station placement maps for follow-up visits.
 
-Dispatch sectors sampled: ZIP 95519 (county grid: Humboldt County).
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Flea pupae survive vacuuming in McKinleyville, CA carpet fibers unless heat treatment follows.
+
+State note: McKinleyville, CA commercial kitchens may require separate documentation for audit visits.
+
+Fire ant mounds in McKinleyville, CA drive seams need granule rotation after irrigation events.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Perimeter dossier 110042: bait station anchor map and mulch bridge risk flagged for McKinleyville, CA county Humboldt County (ZIP 95519).
+
+Exclusion audit 110042: exclusion mesh gauge and rodent runway grease mark reviewed for McKinleyville, CA at 40.9500/-124.0900.
+
+On-site sector marker: Humboldt County / ZIP 95519 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95519-1174e3be

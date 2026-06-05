@@ -11,27 +11,41 @@ lng: -97.2700
 zipSample: ["76117", "76148", "76137"]
 zipCodes: ["76137", "76148", "76117"]
 localPaths: ["Tarrant County / ZIP 76148 sector", "Tarrant County / elevation 610 ft band", "Tarrant County / coords 32.8200, -97.2700", "Tarrant County / primary ZIP 76137", "Tarrant County / ZIP 76137 sector"]
-zillowHomeValueUsd: 319958
 ---
 
-**Engineering Notice for Haltom City:** Structural loading calculated based on 610 ft terrain assessment. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Haltom City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tarrant County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Wildlife odors in Haltom City, TX crawlspaces may attract secondary pest activity.
 
-Tip: avoid large upfront payments without milestones.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify attic access safety before insulation disturbance.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Overwatered Haltom City, TX planters can restart ant bridges within two weeks.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 76137.
+Humidity in Haltom City, TX can sustain cockroach harborages behind appliance voids.
 
-Field note: Connection points spot-checked where accessible (ZIP 76148/76137/76117 zone).
+Request an inspection with species ID before treatment. Serving ZIP Code: 76137.
 
-Field note: Moisture pathway inspection logged near ZIP 76148/76137/76117 intake.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Dispatch sectors sampled: ZIP 76148, 76137, 76117 (county grid: Tarrant County).
+Risk flag: In Haltom City, TX, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Attic insulation disturbance in Haltom City, TX may indicate wildlife nesting routes.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Bird mites in Haltom City, TX exhaust vents can persist after host nests are removed.
+
+Tip: Date bait station lids when servicing Haltom City, TX perimeter lines.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Intercept log 544627: bed bug intercept count staged before Haltom City, TX interior gel zones.
+
+On-site sector marker: Tarrant County / primary ZIP 76137 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76137-98bd46db

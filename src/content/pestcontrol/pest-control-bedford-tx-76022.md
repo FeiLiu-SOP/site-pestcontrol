@@ -11,26 +11,41 @@ lng: -97.1400
 zipSample: ["76095", "76021", "76022", "75064"]
 zipCodes: ["75064", "76095", "76021", "76022"]
 localPaths: ["Tarrant County / elevation 617 ft band", "Tarrant County / ZIP 76022 sector", "Tarrant County / primary ZIP 76022", "Tarrant County / ZIP 76095 sector", "Tarrant County / ZIP 76021 sector"]
-zillowHomeValueUsd: 317270
 ---
 
-**Engineering Notice for Bedford:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Bedford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tarrant County.
 
 
-Tip: request a written scope before work starts.
+Risk flag: In Bedford, TX, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: record station placement maps for follow-up visits.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-We coordinate local dispatch coverage around Bedford, TX and nearby ZIP sectors.
+Fire ant mounds in Bedford, TX drive seams need granule rotation after irrigation events.
 
-Field note: Moisture pathway inspection logged near ZIP 75064/76021/76095 intake.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Field note: Wind exposure category reviewed for ZIP sector 75064/76021/76095.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Dispatch sectors sampled: ZIP 75064, 76021, 76095, 76022 (county grid: Tarrant County).
+Drain fly biofilm in Bedford, TX floor drains signals grease traps need service before gel baits.
+
+Material note: Perimeter granules in Bedford, TX may need reapplication after heavy irrigation.
+
+Attic fogging in Bedford, TX requires combustion appliance shutoff verification first.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Bedford, TX.
+
+Stink bug overwinter seams in Bedford, TX cladding service laps require exclusion foam rated for UV exposure.
+
+State note: Bedford, TX commercial kitchens may require separate documentation for audit visits.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Perimeter dossier 674915: bait station anchor map and mulch bridge risk flagged for Bedford, TX county Tarrant County (ZIP 76022).
+
+**Regional Infrastructure Brief:** Grid anchor set to Tarrant County. Reference elevation: 617 ft. Primary coordinates: 32.8500, -97.1400. ZIP sample: 75064, 76095, 76021, 76022. Service perimeter note: Coverage extends through Tarrant County with dispatch centered near ZIP 76022.
 
 Service reference: TX-76022-ae23f4f6

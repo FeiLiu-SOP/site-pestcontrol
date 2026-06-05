@@ -11,24 +11,37 @@ lng: -95.2300
 zipSample: ["77587"]
 zipCodes: ["77587"]
 localPaths: ["Harris County / elevation 43 ft band", "Harris County / coords 29.6600, -95.2300", "Harris County / primary ZIP 77587", "Harris County / ZIP 77587 sector"]
-zillowHomeValueUsd: 192416
 ---
 
-**Engineering Notice for South Houston:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Harris County.
+**Engineering Notice for South Houston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harris County.
 
 
-Tip: request a written scope before work starts.
+Perimeter granule carriers in South Houston, TX clay soils may need lighter irrigation before application.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Our service coordination centers on South Houston, TX coverage windows and verified intake details.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Connection points spot-checked where accessible (ZIP 77587 zone).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 77587.
 
-Dispatch sectors sampled: ZIP 77587 (county grid: Harris County).
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Risk flag: Overwatered South Houston, TX planters can restart ant bridges within two weeks.
+
+Powderpost beetle exit holes in South Houston, TX trim can be mistaken for dry-wood frass without magnification.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in South Houston, TX.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Tip: Date bait station lids when servicing South Houston, TX perimeter lines.
+
+Intercept log 584891: bed bug intercept count staged before South Houston, TX interior gel zones.
+
+Primary postal anchor 77587 with multi-ZIP overlap in South Houston; field packets tag Harris County for county-grid reconciliation.
 
 Service reference: TX-77587-6a409c44

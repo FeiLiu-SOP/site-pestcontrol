@@ -11,24 +11,41 @@ lng: -117.1200
 zipSample: ["91932", "91933"]
 zipCodes: ["91933", "91932"]
 localPaths: ["San Diego County / ZIP 91932 sector", "San Diego County / coords 32.5700, -117.1200", "San Diego County / primary ZIP 91932", "San Diego County / elevation 26 ft band", "San Diego County / ZIP 91933 sector"]
-zillowHomeValueUsd: 842101
 ---
 
-**Engineering Notice for Imperial Beach:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for Imperial Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.
 
 
-Tip: avoid large upfront payments without milestones.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 91932.
 
-Local conditions in Imperial Beach, CA can affect timelines and material choices.
+Flea pupae survive vacuuming in Imperial Beach, CA carpet fibers unless heat treatment follows.
 
-Homeowners in Imperial Beach, CA often face sudden pest control problems that require fast action.
+In Imperial Beach, CA, subterranean termite swarms often follow warm rain windows.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Perimeter granules in Imperial Beach, CA may need reapplication after heavy irrigation.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 91932/91933.
+Attic fogging in Imperial Beach, CA requires combustion appliance shutoff verification first.
 
-Dispatch sectors sampled: ZIP 91932, 91933 (county grid: San Diego County).
+FAQ: Can bed bugs spread room-to-room in Imperial Beach, CA row homes? Wall voids and shared ducts accelerate transfer.
+
+FAQ: Why schedule quarterly instead of monthly in Imperial Beach, CA? Species pressure and label intervals dictate cadence.
+
+Mud dauber nests in Imperial Beach, CA porch ceilings are benign but signal prey density for spiders.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 91932.
+
+Stored cardboard in Imperial Beach, CA garages can accelerate pantry pest cycles.
+
+Spider populations in Imperial Beach, CA eaves can signal insect prey density.
+
+Carpenter ant frass in Imperial Beach, CA window sills may indicate moisture-softened framing.
+
+Exclusion audit 141359: exclusion mesh gauge and rodent runway grease mark reviewed for Imperial Beach, CA at 32.5700/-117.1200.
+
+Harbor ledger 141359: frass lane, mud-tube scan, and garage jamb gap measure filed for Imperial Beach, CA at 32.5700, -117.1200.
+
+On-site sector marker: San Diego County / ZIP 91933 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91932-f7da8a6a

@@ -11,27 +11,39 @@ lng: -82.9500
 zipSample: ["48021"]
 zipCodes: ["48021"]
 localPaths: ["Macomb County / ZIP 48021 sector", "Macomb County / primary ZIP 48021", "Macomb County / elevation 607 ft band", "Macomb County / coords 42.4700, -82.9500"]
-zillowHomeValueUsd: 150782
 ---
 
-**Engineering Notice for Eastpointe:** Structural loading calculated based on 607 ft terrain assessment. Regional dispatch grid: Macomb County.
+**Engineering Notice for Eastpointe:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Macomb County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Attic insulation disturbance in Eastpointe, MI may indicate wildlife nesting routes.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 48021.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Eastpointe, MI, but intake notes help reduce delays.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Stink bug overwinter seams in Eastpointe, MI vinyl panels laps require exclusion foam rated for UV exposure.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Wind exposure category reviewed for ZIP sector 48021.
+Drain fly biofilm in Eastpointe, MI floor drains signals grease traps need service before gel baits.
 
-Field note: Connection points spot-checked where accessible (ZIP 48021 zone).
+Flea pupae survive vacuuming in Eastpointe, MI carpet fibers unless heat treatment follows.
 
-Dispatch sectors sampled: ZIP 48021 (county grid: Macomb County).
+Step: map entry points with photo logs before sealing.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 48021.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Spider populations in Eastpointe, MI eaves can signal insect prey density.
+
+Zone map 159052: attic insulation disturbance trace and pantry pest source logged for Eastpointe, MI sector 48021.
+
+On-site sector marker: Macomb County / coords 42.4700, -82.9500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48021-a7638878

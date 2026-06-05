@@ -11,24 +11,39 @@ lng: -122.3000
 zipSample: ["94581", "94558", "94559"]
 zipCodes: ["94581", "94559", "94558"]
 localPaths: ["Napa County / ZIP 94581 sector", "Napa County / ZIP 94558 sector", "Napa County / elevation 49 ft band", "Napa County / ZIP 94559 sector", "Napa County / primary ZIP 94559"]
-zillowHomeValueUsd: 807826
 ---
 
-**Engineering Notice for Napa:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Napa County.
+**Engineering Notice for Napa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Napa County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Tip: confirm licensing and insurance before approving work.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 94559.
 
-Field note: Moisture pathway inspection logged near ZIP 94558/94581/94559 intake.
+FAQ: What is exclusion? Without sealing entry points in Napa, CA, pressure often rebuilds.
 
-Dispatch sectors sampled: ZIP 94558, 94581, 94559 (county grid: Napa County).
+Carpenter ant frass in Napa, CA window sills may indicate moisture-softened framing.
+
+Tip: Trim vegetation 12 inches from exterior cladding to reduce ant bridges.
+
+Fire ant mounds in Napa, CA drive seams need granule rotation after irrigation events.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Monitoring boards in Napa, CA crawlspaces stay 72 hours before snap traps are reset.
+
+Drain fly biofilm in Napa, CA floor drains signals grease traps need service before gel baits.
+
+Tip: Date bait station lids when servicing Napa, CA perimeter lines.
+
+Zone map 857962: attic insulation disturbance trace and pantry pest source logged for Napa, CA sector 94559.
+
+On-site sector marker: Napa County / ZIP 94559 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94559-418f5b14

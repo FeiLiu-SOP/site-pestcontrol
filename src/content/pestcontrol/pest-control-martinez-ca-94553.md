@@ -11,26 +11,43 @@ lng: -122.1200
 zipSample: ["94553"]
 zipCodes: ["94553"]
 localPaths: ["Contra Costa County / ZIP 94553 sector", "Contra Costa County / elevation 157 ft band", "Contra Costa County / primary ZIP 94553", "Contra Costa County / coords 38.0000, -122.1200"]
-zillowHomeValueUsd: 773315
 ---
 
-**Engineering Notice for Martinez:** Structural loading calculated based on 157 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Martinez:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Perimeter granules in Martinez, CA may need reapplication after heavy irrigation.
 
-Tip: avoid large upfront payments without milestones.
+Dry-wood termite pellets in Martinez, CA attics may appear before exterior mud tubes.
 
-Structured milestones protect both sides when scheduling work.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-We coordinate local dispatch coverage around Martinez, CA and nearby ZIP sectors.
+Step: record station placement maps for follow-up visits.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Fire ant mounds in Martinez, CA drive seams need granule rotation after irrigation events.
 
-Field note: Connection points spot-checked where accessible (ZIP 94553 zone).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 94553.
 
-Field note: Access points and staging constraints recorded for ZIP 94553 coverage.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Dispatch sectors sampled: ZIP 94553 (county grid: Contra Costa County).
+Stink bug overwinter seams in Martinez, CA exterior cladding laps require exclusion foam rated for UV exposure.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 94553.
+
+Exclusion gaps at garage jambs in Martinez, CA are common rodent access points.
+
+Earwig harborages in Martinez, CA meter boxes often follow drip irrigation overspray.
+
+Mud dauber nests in Martinez, CA porch ceilings are benign but signal prey density for spiders.
+
+Bird mites in Martinez, CA exhaust vents can persist after host nests are removed.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Species trace 830358: re-entry interval label and conducive moisture note keyed to Martinez, CA elevation 157 ft.
+
+Exclusion audit 830358: exclusion mesh gauge and rodent runway grease mark reviewed for Martinez, CA at 38.0000/-122.1200.
+
+ZIP-corridor snapshot for Martinez, CA: sampled sectors include 94553; county routing grid remains Contra Costa County.
 
 Service reference: CA-94553-510b3dbf

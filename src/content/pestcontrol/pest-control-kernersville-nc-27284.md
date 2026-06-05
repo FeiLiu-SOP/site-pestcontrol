@@ -11,24 +11,43 @@ lng: -80.0800
 zipSample: ["27285", "27284"]
 zipCodes: ["27285", "27284"]
 localPaths: ["Forsyth County / coords 36.1100, -80.0800", "Forsyth County / primary ZIP 27284", "Forsyth County / ZIP 27284 sector", "Forsyth County / elevation 951 ft band", "Forsyth County / ZIP 27285 sector"]
-zillowHomeValueUsd: 322970
 ---
 
-**Engineering Notice for Kernersville:** Structural loading calculated based on 951 ft terrain assessment. Regional dispatch grid: Forsyth County.
+**Engineering Notice for Kernersville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Forsyth County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Kernersville, NC, but intake notes help reduce delays.
+Request an inspection with species ID before treatment. Serving ZIP Code: 27284.
 
-We coordinate local dispatch coverage around Kernersville, NC and nearby ZIP sectors.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Tip: request a written scope before work starts.
+Fire ant mounds in Kernersville, NC drive seams need granule rotation after irrigation events.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Attic fogging in Kernersville, NC requires combustion appliance shutoff verification first.
 
-In Kernersville, NC, urgent pest control issues can escalate quickly.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Connection points spot-checked where accessible (ZIP 27284/27285 zone).
+Perimeter granule carriers in Kernersville, NC clay soils may need lighter irrigation before application.
 
-Dispatch sectors sampled: ZIP 27284, 27285 (county grid: Forsyth County).
+Drain fly biofilm in Kernersville, NC floor drains signals grease traps need service before gel baits.
+
+Bird mites in Kernersville, NC exhaust vents can persist after host nests are removed.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Yellow jacket nests in Kernersville, NC soffit cavities peak in late summer routing windows.
+
+Perimeter mulch beds in Kernersville, NC should be reviewed for ant bridge paths.
+
+Stink bug overwinter seams in Kernersville, NC wall restoration laps require exclusion foam rated for UV exposure.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Seasonal cue 239584: cluster fly attic staging reviewed for Kernersville, NC soffit cavities.
+
+Exclusion audit 239584: exclusion mesh gauge and rodent runway grease mark reviewed for Kernersville, NC at 36.1100/-80.0800.
+
+On-site sector marker: Forsyth County / elevation 951 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-27284-3af476a5

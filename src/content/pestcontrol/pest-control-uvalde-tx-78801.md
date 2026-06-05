@@ -11,24 +11,41 @@ lng: -99.7800
 zipSample: ["78801"]
 zipCodes: ["78801"]
 localPaths: ["Uvalde County / ZIP 78801 sector", "Uvalde County / coords 29.2200, -99.7800", "Uvalde County / primary ZIP 78801", "Uvalde County / elevation 909 ft band"]
-zillowHomeValueUsd: 182566
 ---
 
-**Engineering Notice for Uvalde:** Structural loading calculated based on 909 ft terrain assessment. Regional dispatch grid: Uvalde County.
+**Engineering Notice for Uvalde:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Uvalde County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-We coordinate local dispatch coverage around Uvalde, TX and nearby ZIP sectors.
+Flea pupae survive vacuuming in Uvalde, TX carpet fibers unless heat treatment follows.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: map entry points with photo logs before sealing.
 
-In Uvalde, TX, urgent pest control issues can escalate quickly.
+Carpenter ant frass in Uvalde, TX window sills may indicate moisture-softened framing.
 
-Tip: confirm licensing and insurance before approving work.
+Step: separate bait rotation schedules from crack-and-crevice applications in Uvalde, TX.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78801.
+State note: Uvalde, TX commercial kitchens may require separate documentation for audit visits.
 
-Dispatch sectors sampled: ZIP 78801 (county grid: Uvalde County).
+IGR packets for Uvalde, TX roach cycles should be dated on station lids.
+
+Stink bug overwinter seams in Uvalde, TX exterior cladding laps require exclusion foam rated for UV exposure.
+
+Wildlife odors in Uvalde, TX crawlspaces may attract secondary pest activity.
+
+Drain fly biofilm in Uvalde, TX floor drains signals grease traps need service before gel baits.
+
+FAQ: Why schedule quarterly instead of monthly in Uvalde, TX? Species pressure and label intervals dictate cadence.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 78801.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Perimeter dossier 753102: bait station anchor map and mulch bridge risk flagged for Uvalde, TX county Uvalde County (ZIP 78801).
+
+ZIP-corridor snapshot for Uvalde, TX: sampled sectors include 78801; county routing grid remains Uvalde County.
 
 Service reference: TX-78801-287cba9d

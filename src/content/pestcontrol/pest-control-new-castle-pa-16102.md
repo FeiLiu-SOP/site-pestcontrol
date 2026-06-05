@@ -11,26 +11,37 @@ lng: -80.3500
 zipSample: ["16103", "16105", "16102", "16101", "16107"]
 zipCodes: ["16102", "16107", "16101", "16103", "16105"]
 localPaths: ["Lawrence County / elevation 801 ft band", "Lawrence County / ZIP 16102 sector", "Lawrence County / primary ZIP 16102", "Lawrence County / ZIP 16103 sector", "Lawrence County / coords 41.0000, -80.3500"]
-zillowHomeValueUsd: 113537
 ---
 
-**Engineering Notice for New Castle:** Structural loading calculated based on 801 ft terrain assessment. Regional dispatch grid: Lawrence County.
+**Engineering Notice for New Castle:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lawrence County.
 
 
-Our service coordination centers on New Castle, PA coverage windows and verified intake details.
+Clover mite staining on New Castle, PA cladding service follows foundation mulch against brick ledges.
 
-Tip: address recurring issues early to prevent bigger damage.
+Monitoring boards in New Castle, PA crawlspaces stay 72 hours before snap traps are reset.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Date bait station lids when servicing New Castle, PA perimeter lines.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in New Castle, PA, but intake notes help reduce delays.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 16103/16101/16107.
+Drain fly biofilm in New Castle, PA floor drains signals grease traps need service before gel baits.
 
-Field note: Moisture pathway inspection logged near ZIP 16103/16101/16107 intake.
+Perimeter granule carriers in New Castle, PA clay soils may need lighter irrigation before application.
 
-Dispatch sectors sampled: ZIP 16103, 16101, 16107, 16102, 16105 (county grid: Lawrence County).
+Earwig harborages in New Castle, PA meter boxes often follow drip irrigation overspray.
+
+Silverfish activity in New Castle, PA attics tracks cardboard storage and ridge vent gaps.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 16102.
+
+State note: New Castle, PA commercial kitchens may require separate documentation for audit visits.
+
+Seasonal cue 338385: cluster fly attic staging reviewed for New Castle, PA soffit cavities.
+
+On-site sector marker: Lawrence County / elevation 801 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-16102-63336ea9

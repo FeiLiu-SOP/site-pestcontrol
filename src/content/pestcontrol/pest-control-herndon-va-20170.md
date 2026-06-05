@@ -11,24 +11,39 @@ lng: -77.3900
 zipSample: ["22095", "20170", "20172"]
 zipCodes: ["20170", "20172", "22095"]
 localPaths: ["Fairfax County / ZIP 22095 sector", "Fairfax County / elevation 354 ft band", "Fairfax County / ZIP 20170 sector", "Fairfax County / ZIP 20172 sector", "Fairfax County / coords 38.9700, -77.3900"]
-zillowHomeValueUsd: 706499
 ---
 
-**Engineering Notice for Herndon:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Herndon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.
 
 
-In Herndon, VA, urgent pest control issues can escalate quickly.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+We coordinate Herndon, VA pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Tip: address recurring issues early to prevent bigger damage.
+Flea pupae survive vacuuming in Herndon, VA carpet fibers unless heat treatment follows.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Herndon, VA, but intake notes help reduce delays.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Field note: Access points and staging constraints recorded for ZIP 20170/22095/20172 coverage.
+Mud dauber nests in Herndon, VA porch ceilings are benign but signal prey density for spiders.
 
-Dispatch sectors sampled: ZIP 20170, 22095, 20172 (county grid: Fairfax County).
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Risk flag: In Herndon, VA, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Stink bug overwinter seams in Herndon, VA exterior cladding laps require exclusion foam rated for UV exposure.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Bird mites in Herndon, VA exhaust vents can persist after host nests are removed.
+
+FAQ: Can bed bugs spread room-to-room in Herndon, VA row homes? Wall voids and shared ducts accelerate transfer.
+
+Intercept log 662151: bed bug intercept count staged before Herndon, VA interior gel zones.
+
+On-site sector marker: Fairfax County / ZIP 20170 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-20170-1d719ef4

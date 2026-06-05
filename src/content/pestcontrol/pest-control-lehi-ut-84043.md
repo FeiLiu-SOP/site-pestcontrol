@@ -11,26 +11,39 @@ lng: -111.8700
 zipSample: ["84048", "84043"]
 zipCodes: ["84043", "84048"]
 localPaths: ["Utah County / primary ZIP 84043", "Utah County / coords 40.4100, -111.8700", "Utah County / ZIP 84048 sector", "Utah County / elevation 4557 ft band", "Utah County / ZIP 84043 sector"]
-zillowHomeValueUsd: 573587
 ---
 
-**Engineering Notice for Lehi:** Structural loading calculated based on 4557 ft terrain assessment. Regional dispatch grid: Utah County.
+**Engineering Notice for Lehi:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Utah County.
 
 
-In Lehi, UT, seasonal demand can change scheduling windows.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Tip: request a written scope before work starts.
+Earwig harborages in Lehi, UT meter boxes often follow drip irrigation overspray.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 84043.
 
-Clear documentation helps align materials, labor, and timeline.
+Mud dauber nests in Lehi, UT porch ceilings are benign but signal prey density for spiders.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Wind exposure category reviewed for ZIP sector 84043/84048.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84043/84048.
+Attic insulation disturbance in Lehi, UT may indicate wildlife nesting routes.
 
-Dispatch sectors sampled: ZIP 84043, 84048 (county grid: Utah County).
+Silverfish activity in Lehi, UT attics tracks cardboard storage and ridge vent gaps.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 84043.
+
+Risk flag: Overwatered Lehi, UT planters can restart ant bridges within two weeks.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Lehi, UT.
+
+Across Lehi, UT, rodent entry points frequently track utility penetrations.
+
+Species trace 818588: re-entry interval label and conducive moisture note keyed to Lehi, UT elevation 4557 ft.
+
+On-site sector marker: Utah County / coords 40.4100, -111.8700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84043-737c6eda

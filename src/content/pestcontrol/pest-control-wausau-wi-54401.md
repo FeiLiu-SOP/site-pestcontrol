@@ -11,26 +11,41 @@ lng: -89.6500
 zipSample: ["54403", "54401"]
 zipCodes: ["54401", "54403"]
 localPaths: ["Marathon County / coords 44.9600, -89.6500", "Marathon County / ZIP 54401 sector", "Marathon County / primary ZIP 54401", "Marathon County / ZIP 54403 sector", "Marathon County / elevation 1316 ft band"]
-zillowHomeValueUsd: 251318
 ---
 
-**Engineering Notice for Wausau:** Structural loading calculated based on 1316 ft terrain assessment. Regional dispatch grid: Marathon County.
+**Engineering Notice for Wausau:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marathon County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Cluster fly attic staging in Wausau, WI peaks on south-facing voids after sunny thaw days.
 
-In Wausau, WI, seasonal demand can change scheduling windows.
+Bird mites in Wausau, WI exhaust vents can persist after host nests are removed.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 54401.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Clover mite staining on Wausau, WI wall restoration follows foundation mulch against brick ledges.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Wausau, WI.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 54403/54401.
+Wildlife odors in Wausau, WI crawlspaces may attract secondary pest activity.
 
-Field note: Wind exposure category reviewed for ZIP sector 54403/54401.
+FAQ: What is exclusion? Without sealing entry points in Wausau, WI, pressure often rebuilds.
 
-Dispatch sectors sampled: ZIP 54403, 54401 (county grid: Marathon County).
+Fire ant mounds in Wausau, WI drive seams need granule rotation after irrigation events.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Risk flag: Overwatered Wausau, WI planters can restart ant bridges within two weeks.
+
+Flea pupae survive vacuuming in Wausau, WI carpet fibers unless heat treatment follows.
+
+Silverfish activity in Wausau, WI attics tracks cardboard storage and ridge vent gaps.
+
+Step: record station placement maps for follow-up visits.
+
+Zone map 451726: attic insulation disturbance trace and pantry pest source logged for Wausau, WI sector 54401.
+
+Intercept log 451726: bed bug intercept count staged before Wausau, WI interior gel zones.
+
+Coordinate-anchored dispatch note: center reference 44.9600, -89.6500 at elevation ~1316 ft aligns with Marathon County intake staging.
 
 Service reference: WI-54401-e814efd7

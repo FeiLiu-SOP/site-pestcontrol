@@ -11,26 +11,37 @@ lng: -80.3900
 zipSample: ["34984", "34953", "34952", "34987", "34985"]
 zipCodes: ["34984", "34952", "34987", "34953", "34986", "34983", "34985"]
 localPaths: ["St. Lucie County / coords 27.2800, -80.3900", "St. Lucie County / primary ZIP 34986", "St. Lucie County / elevation 49 ft band", "St. Lucie County / ZIP 34984 sector", "St. Lucie County / ZIP 34987 sector"]
-zillowHomeValueUsd: 374059
 ---
 
-**Engineering Notice for Port St. Lucie:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: St. Lucie County.
+**Engineering Notice for Port St. Lucie:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Lucie County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Tip: avoid large upfront payments without milestones.
+Cluster fly attic staging in Port St. Lucie, FL peaks on south-facing voids after sunny thaw days.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep pet food elevated and sealed between service visits.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Yellow jacket nests in Port St. Lucie, FL soffit cavities peak in late summer routing windows.
 
-Field note: Moisture pathway inspection logged near ZIP 34987/34983/34986 intake.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 34987/34983/34986.
+In Port St. Lucie, FL, subterranean termite swarms often follow warm rain windows.
 
-Dispatch sectors sampled: ZIP 34987, 34983, 34986, 34984, 34952 (county grid: St. Lucie County).
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Port St. Lucie, FL.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Tip: Date bait station lids when servicing Port St. Lucie, FL perimeter lines.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Attic fogging in Port St. Lucie, FL requires combustion appliance shutoff verification first.
+
+Species trace 900763: re-entry interval label and conducive moisture note keyed to Port St. Lucie, FL elevation 49 ft.
+
+Coordinate-anchored dispatch note: center reference 27.2800, -80.3900 at elevation ~49 ft aligns with St. Lucie County intake staging.
 
 Service reference: FL-34986-ee99eb71

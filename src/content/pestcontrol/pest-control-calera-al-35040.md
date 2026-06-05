@@ -11,26 +11,39 @@ lng: -86.7400
 zipSample: ["35040"]
 zipCodes: ["35040"]
 localPaths: ["Shelby County / coords 33.1300, -86.7400", "Shelby County / ZIP 35040 sector", "Shelby County / elevation 571 ft band", "Shelby County / primary ZIP 35040"]
-zillowHomeValueUsd: 254840
 ---
 
-**Engineering Notice for Calera:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: Shelby County.
+**Engineering Notice for Calera:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Shelby County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 35040.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Yellow jacket nests in Calera, AL soffit cavities peak in late summer routing windows.
 
-We coordinate local dispatch coverage around Calera, AL and nearby ZIP sectors.
+Drain fly biofilm in Calera, AL floor drains signals grease traps need service before gel baits.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Calera, AL, but intake notes help reduce delays.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Field note: Wind exposure category reviewed for ZIP sector 35040.
+Across Calera, AL, rodent entry points frequently track utility penetrations.
 
-Field note: Connection points spot-checked where accessible (ZIP 35040 zone).
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Dispatch sectors sampled: ZIP 35040 (county grid: Shelby County).
+Flea pupae survive vacuuming in Calera, AL carpet fibers unless heat treatment follows.
+
+Clover mite staining on Calera, AL exterior cladding follows foundation mulch against brick ledges.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+We coordinate Calera, AL pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Powderpost beetle exit holes in Calera, AL trim can be mistaken for dry-wood frass without magnification.
+
+Risk flag: Overwatered Calera, AL planters can restart ant bridges within two weeks.
+
+Seasonal cue 445412: cluster fly attic staging reviewed for Calera, AL soffit cavities.
+
+On-site sector marker: Shelby County / ZIP 35040 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35040-70877180

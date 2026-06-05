@@ -11,24 +11,43 @@ lng: -85.0200
 zipSample: ["46803", "46774"]
 zipCodes: ["46803", "46774"]
 localPaths: ["Allen County / elevation 771 ft band", "Allen County / ZIP 46774 sector", "Allen County / ZIP 46803 sector", "Allen County / primary ZIP 46774", "Allen County / coords 41.0700, -85.0200"]
-zillowHomeValueUsd: 245287
 ---
 
-**Engineering Notice for New Haven:** Structural loading calculated based on 771 ft terrain assessment. Regional dispatch grid: Allen County.
+**Engineering Notice for New Haven:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Allen County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in New Haven, IN, but intake notes help reduce delays.
+Mud dauber nests in New Haven, IN porch ceilings are benign but signal prey density for spiders.
 
-Structured milestones protect both sides when scheduling work.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: separate bait rotation schedules from crack-and-crevice applications in New Haven, IN.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Connection points spot-checked where accessible (ZIP 46803/46774 zone).
+Wildlife odors in New Haven, IN crawlspaces may attract secondary pest activity.
 
-Dispatch sectors sampled: ZIP 46803, 46774 (county grid: Allen County).
+Attic fogging in New Haven, IN requires combustion appliance shutoff verification first.
+
+FAQ: What is exclusion? Without sealing entry points in New Haven, IN, pressure often rebuilds.
+
+Attic insulation disturbance in New Haven, IN may indicate wildlife nesting routes.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Step: record station placement maps for follow-up visits.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Earwig harborages in New Haven, IN meter boxes often follow drip irrigation overspray.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 46774.
+
+Perimeter dossier 608158: bait station anchor map and mulch bridge risk flagged for New Haven, IN county Allen County (ZIP 46774).
+
+Species trace 608158: re-entry interval label and conducive moisture note keyed to New Haven, IN elevation 771 ft.
+
+On-site sector marker: Allen County / ZIP 46803 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46774-c3954512

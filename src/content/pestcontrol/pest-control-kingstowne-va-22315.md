@@ -11,26 +11,39 @@ lng: -77.1400
 zipSample: ["22315"]
 zipCodes: ["22315"]
 localPaths: ["Fairfax County / coords 38.7600, -77.1400", "Fairfax County / elevation 220 ft band", "Fairfax County / ZIP 22315 sector", "Fairfax County / primary ZIP 22315"]
-zillowHomeValueUsd: 676476
 ---
 
-**Engineering Notice for Kingstowne:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Kingstowne:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.
 
 
-Tip: request a written scope before work starts.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: address recurring issues early to prevent bigger damage.
+Yellow jacket nests in Kingstowne, VA soffit cavities peak in late summer routing windows.
 
-Tip: avoid large upfront payments without milestones.
+Seasonal pest pressure in Kingstowne, VA shifts between moisture ants and dry-wood vectors.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Humidity in Kingstowne, VA can sustain cockroach harborages behind appliance voids.
 
-Field note: Wind exposure category reviewed for ZIP sector 22315.
+Material note: Perimeter granules in Kingstowne, VA may need reapplication after heavy irrigation.
 
-Field note: Moisture pathway inspection logged near ZIP 22315 intake.
+County grid Fairfax County informs routing near ZIP 22315.
 
-Dispatch sectors sampled: ZIP 22315 (county grid: Fairfax County).
+FAQ: Why schedule quarterly instead of monthly in Kingstowne, VA? Species pressure and label intervals dictate cadence.
+
+Carpenter ant frass in Kingstowne, VA window sills may indicate moisture-softened framing.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Risk flag: In Kingstowne, VA, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Step: record station placement maps for follow-up visits.
+
+Zone map 371968: attic insulation disturbance trace and pantry pest source logged for Kingstowne, VA sector 22315.
+
+Harbor ledger 371968: frass lane, mud-tube scan, and garage jamb gap measure filed for Kingstowne, VA at 38.7600, -77.1400.
+
+On-site sector marker: Fairfax County / ZIP 22315 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22315-174e2350

@@ -11,24 +11,41 @@ lng: -98.3100
 zipSample: ["78109"]
 zipCodes: ["78109"]
 localPaths: ["Bexar County / primary ZIP 78109", "Bexar County / coords 29.5100, -98.3100", "Bexar County / elevation 686 ft band", "Bexar County / ZIP 78109 sector"]
-zillowHomeValueUsd: 246225
 ---
 
-**Engineering Notice for Converse:** Structural loading calculated based on 686 ft terrain assessment. Regional dispatch grid: Bexar County.
+**Engineering Notice for Converse:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bexar County.
 
 
-Tip: confirm licensing and insurance before approving work.
+County grid Bexar County informs routing near ZIP 78109.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Our service coordination centers on Converse, TX coverage windows and verified intake details.
+Step: record station placement maps for follow-up visits.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Mud dauber nests in Converse, TX porch ceilings are benign but signal prey density for spiders.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: separate bait rotation schedules from crack-and-crevice applications in Converse, TX.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78109.
+Fire ant mounds in Converse, TX drive seams need granule rotation after irrigation events.
 
-Dispatch sectors sampled: ZIP 78109 (county grid: Bexar County).
+Perimeter granule carriers in Converse, TX clay soils may need lighter irrigation before application.
+
+Attic fogging in Converse, TX requires combustion appliance shutoff verification first.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 78109.
+
+Powderpost beetle exit holes in Converse, TX trim can be mistaken for dry-wood frass without magnification.
+
+Cluster fly attic staging in Converse, TX peaks on south-facing voids after sunny thaw days.
+
+Silverfish activity in Converse, TX attics tracks cardboard storage and ridge vent gaps.
+
+Flea pupae survive vacuuming in Converse, TX carpet fibers unless heat treatment follows.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Species trace 774432: re-entry interval label and conducive moisture note keyed to Converse, TX elevation 686 ft.
+
+On-site sector marker: Bexar County / coords 29.5100, -98.3100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78109-c072ce1d

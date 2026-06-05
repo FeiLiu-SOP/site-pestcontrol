@@ -11,25 +11,41 @@ lng: -122.4400
 zipSample: ["97080", "97030", "97233", "97230"]
 zipCodes: ["97080", "97233", "97230", "97030"]
 localPaths: ["Multnomah County / ZIP 97080 sector", "Multnomah County / ZIP 97233 sector", "Multnomah County / elevation 381 ft band", "Multnomah County / primary ZIP 97030", "Multnomah County / ZIP 97230 sector"]
-zillowHomeValueUsd: 439094
 ---
 
-**Engineering Notice for Gresham:** Structural loading calculated based on 381 ft terrain assessment. Regional dispatch grid: Multnomah County.
+**Engineering Notice for Gresham:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Multnomah County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Gresham, OR, but intake notes help reduce delays.
+Risk flag: Overwatered Gresham, OR planters can restart ant bridges within two weeks.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 97030.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Tip: avoid large upfront payments without milestones.
+Drain fly biofilm in Gresham, OR floor drains signals grease traps need service before gel baits.
 
-Our service coordination centers on Gresham, OR coverage windows and verified intake details.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: confirm licensing and insurance before approving work.
+Mud dauber nests in Gresham, OR porch ceilings are benign but signal prey density for spiders.
 
-Field note: Access points and staging constraints recorded for ZIP 97080/97230/97233 coverage.
+FAQ: Why do pests return after spraying? Without sealing entry points in Gresham, OR, pressure often rebuilds.
 
-Dispatch sectors sampled: ZIP 97080, 97230, 97233, 97030 (county grid: Multnomah County).
+Attic fogging in Gresham, OR requires combustion appliance shutoff verification first.
+
+Exclusion gaps at garage jambs in Gresham, OR are common rodent access points.
+
+Material note: Perimeter granules in Gresham, OR may need reapplication after heavy irrigation.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Stink bug overwinter seams in Gresham, OR wall restoration laps require exclusion foam rated for UV exposure.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Dry-wood termite pellets in Gresham, OR attics may appear before exterior mud tubes.
+
+Species trace 919900: re-entry interval label and conducive moisture note keyed to Gresham, OR elevation 381 ft.
+
+Seasonal cue 919900: cluster fly attic staging reviewed for Gresham, OR soffit cavities.
+
+On-site sector marker: Multnomah County / ZIP 97233 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97030-7815ab61

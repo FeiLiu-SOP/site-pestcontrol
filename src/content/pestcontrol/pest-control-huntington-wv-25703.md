@@ -11,27 +11,39 @@ lng: -82.4300
 zipSample: ["25706", "25776", "25720", "25713", "25710"]
 zipCodes: ["25717", "25705", "25703", "25713", "25702", "25773", "25774", "25714", "25722", "25777", "25729", "25719"]
 localPaths: ["Cabell County / primary ZIP 25703", "Cabell County / ZIP 25776 sector", "Cabell County / elevation 571 ft band", "Cabell County / ZIP 25710 sector", "Cabell County / coords 38.4100, -82.4300"]
-zillowHomeValueUsd: 69317
 ---
 
-**Engineering Notice for Huntington:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: Cabell County.
+**Engineering Notice for Huntington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cabell County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Huntington, WV, but intake notes help reduce delays.
+Fire ant mounds in Huntington, WV drive seams need granule rotation after irrigation events.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Stink bug overwinter seams in Huntington, WV wall restoration laps require exclusion foam rated for UV exposure.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 25703.
+Bird mites in Huntington, WV exhaust vents can persist after host nests are removed.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Tip: request a written scope before work starts.
+Step: separate bait rotation schedules from crack-and-crevice applications in Huntington, WV.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 25704/25777/25711.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Access points and staging constraints recorded for ZIP 25704/25777/25711 coverage.
+Tip: Log pet access routes when bait stations are placed.
 
-Dispatch sectors sampled: ZIP 25704, 25777, 25711, 25773, 25719 (county grid: Cabell County).
+Step: record station placement maps for follow-up visits.
+
+Perimeter mulch beds in Huntington, WV should be reviewed for ant bridge paths.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Drain fly biofilm in Huntington, WV floor drains signals grease traps need service before gel baits.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Harbor ledger 791271: frass lane, mud-tube scan, and garage jamb gap measure filed for Huntington, WV at 38.4100, -82.4300.
+
+Coordinate-anchored dispatch note: center reference 38.4100, -82.4300 at elevation ~571 ft aligns with Cabell County intake staging.
 
 Service reference: WV-25703-e83d975d

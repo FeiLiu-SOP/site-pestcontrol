@@ -11,24 +11,41 @@ lng: -102.5000
 zipSample: ["79763", "79764", "79760"]
 zipCodes: ["79760", "79764", "79763"]
 localPaths: ["Ector County / coords 31.8400, -102.5000", "Ector County / ZIP 79764 sector", "Ector County / ZIP 79763 sector", "Ector County / primary ZIP 79763", "Ector County / elevation 2963 ft band"]
-zillowHomeValueUsd: 215073
 ---
 
-**Engineering Notice for West Odessa:** Structural loading calculated based on 2963 ft terrain assessment. Regional dispatch grid: Ector County.
+**Engineering Notice for West Odessa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ector County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Flea pupae survive vacuuming in West Odessa, TX carpet fibers unless heat treatment follows.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+County grid Ector County informs routing near ZIP 79763.
 
-Local conditions in West Odessa, TX can affect timelines and material choices.
+Risk flag: In West Odessa, TX, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Attic fogging in West Odessa, TX requires combustion appliance shutoff verification first.
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Field note: Connection points spot-checked where accessible (ZIP 79764/79760/79763 zone).
+Stored cardboard in West Odessa, TX garages can accelerate pantry pest cycles.
 
-Dispatch sectors sampled: ZIP 79764, 79760, 79763 (county grid: Ector County).
+Clover mite staining on West Odessa, TX vinyl panels follows foundation mulch against brick ledges.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Cluster fly attic staging in West Odessa, TX peaks on south-facing voids after sunny thaw days.
+
+Tip: Date bait station lids when servicing West Odessa, TX perimeter lines.
+
+Seasonal cue 770858: cluster fly attic staging reviewed for West Odessa, TX soffit cavities.
+
+On-site sector marker: Ector County / elevation 2963 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-79763-12789fa4

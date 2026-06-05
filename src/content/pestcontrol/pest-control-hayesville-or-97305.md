@@ -11,26 +11,41 @@ lng: -122.9700
 zipSample: ["97305"]
 zipCodes: ["97305"]
 localPaths: ["Marion County / ZIP 97305 sector", "Marion County / coords 44.9800, -122.9700", "Marion County / elevation 190 ft band", "Marion County / primary ZIP 97305"]
-zillowHomeValueUsd: 421143
 ---
 
-**Engineering Notice for Hayesville:** Structural loading calculated based on 190 ft terrain assessment. Regional dispatch grid: Marion County.
+**Engineering Notice for Hayesville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marion County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Tip: avoid large upfront payments without milestones.
+Yellow jacket nests in Hayesville, OR soffit cavities peak in late summer routing windows.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hayesville, OR, but intake notes help reduce delays.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Wind exposure category reviewed for ZIP sector 97305.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Connection points spot-checked where accessible (ZIP 97305 zone).
+Stink bug overwinter seams in Hayesville, OR cladding service laps require exclusion foam rated for UV exposure.
 
-Dispatch sectors sampled: ZIP 97305 (county grid: Marion County).
+Humidity in Hayesville, OR can sustain cockroach harborages behind appliance voids.
+
+Fire ant mounds in Hayesville, OR drive seams need granule rotation after irrigation events.
+
+FAQ: Can bed bugs spread room-to-room in Hayesville, OR row homes? Wall voids and shared ducts accelerate transfer.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Attic misting in Hayesville, OR requires combustion air clearance verified before fans restart.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 97305.
+
+Seasonal cue 773965: cluster fly attic staging reviewed for Hayesville, OR soffit cavities.
+
+Species trace 773965: re-entry interval label and conducive moisture note keyed to Hayesville, OR elevation 190 ft.
+
+Coordinate-anchored dispatch note: center reference 44.9800, -122.9700 at elevation ~190 ft aligns with Marion County intake staging.
 
 Service reference: OR-97305-703745d8

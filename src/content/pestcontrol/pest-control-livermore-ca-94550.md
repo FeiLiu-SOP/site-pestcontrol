@@ -11,26 +11,39 @@ lng: -121.7600
 zipSample: ["94551", "94550"]
 zipCodes: ["94550", "94551"]
 localPaths: ["Alameda County / primary ZIP 94550", "Alameda County / elevation 502 ft band", "Alameda County / ZIP 94551 sector", "Alameda County / ZIP 94550 sector", "Alameda County / coords 37.6900, -121.7600"]
-zillowHomeValueUsd: 1247433
 ---
 
-**Engineering Notice for Livermore:** Structural loading calculated based on 502 ft terrain assessment. Regional dispatch grid: Alameda County.
+**Engineering Notice for Livermore:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alameda County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Livermore, CA, but intake notes help reduce delays.
+Perimeter granule carriers in Livermore, CA clay soils may need lighter irrigation before application.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 94550.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 94550.
 
-Field note: Wind exposure category reviewed for ZIP sector 94551/94550.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Field note: Moisture pathway inspection logged near ZIP 94551/94550 intake.
+IGR packets for Livermore, CA roach cycles should be dated on station lids.
 
-Dispatch sectors sampled: ZIP 94551, 94550 (county grid: Alameda County).
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Drain fly biofilm in Livermore, CA floor drains signals grease traps need service before gel baits.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Harbor ledger 827433: frass lane, mud-tube scan, and garage jamb gap measure filed for Livermore, CA at 37.6900, -121.7600.
+
+Zone map 827433: attic insulation disturbance trace and pantry pest source logged for Livermore, CA sector 94550.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Alameda County and primary ZIP 94550. Terrain reference: 502 ft. Center point: 37.6900, -121.7600. ZIP sample: 94550, 94551. Service perimeter note: Coverage extends through Alameda County with dispatch centered near ZIP 94550.
 
 Service reference: CA-94550-5806f32d

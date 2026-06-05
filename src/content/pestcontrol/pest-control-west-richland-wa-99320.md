@@ -11,24 +11,39 @@ lng: -119.4000
 zipSample: ["99320", "99353"]
 zipCodes: ["99320", "99353"]
 localPaths: ["Benton County / primary ZIP 99320", "Benton County / ZIP 99320 sector", "Benton County / ZIP 99353 sector", "Benton County / elevation 446 ft band", "Benton County / coords 46.3100, -119.4000"]
-zillowHomeValueUsd: 427989
 ---
 
-**Engineering Notice for West Richland:** Structural loading calculated based on 446 ft terrain assessment. Regional dispatch grid: Benton County.
+**Engineering Notice for West Richland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Benton County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Earwig harborages in West Richland, WA meter boxes often follow drip irrigation overspray.
 
-Tip: request a written scope before work starts.
+Stink bug overwinter seams in West Richland, WA vinyl panels laps require exclusion foam rated for UV exposure.
 
-We coordinate local dispatch coverage around West Richland, WA and nearby ZIP sectors.
+Yellow jacket nests in West Richland, WA soffit cavities peak in late summer routing windows.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in West Richland, WA, but intake notes help reduce delays.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Drain fly biofilm in West Richland, WA floor drains signals grease traps need service before gel baits.
 
-Field note: Access points and staging constraints recorded for ZIP 99353/99320 coverage.
+Tip: Date bait station lids when servicing West Richland, WA perimeter lines.
 
-Dispatch sectors sampled: ZIP 99353, 99320 (county grid: Benton County).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 99320.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Stored cardboard in West Richland, WA garages can accelerate pantry pest cycles.
+
+FAQ: Can bed bugs spread room-to-room in West Richland, WA row homes? Wall voids and shared ducts accelerate transfer.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Perimeter dossier 860319: bait station anchor map and mulch bridge risk flagged for West Richland, WA county Benton County (ZIP 99320).
+
+Harbor ledger 860319: frass lane, mud-tube scan, and garage jamb gap measure filed for West Richland, WA at 46.3100, -119.4000.
+
+On-site sector marker: Benton County / elevation 446 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-99320-6b6eb21a

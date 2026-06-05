@@ -11,26 +11,39 @@ lng: -85.5900
 zipSample: ["49081", "49024", "49002"]
 zipCodes: ["49024", "49002", "49081"]
 localPaths: ["Kalamazoo County / elevation 869 ft band", "Kalamazoo County / coords 42.2000, -85.5900", "Kalamazoo County / ZIP 49081 sector", "Kalamazoo County / ZIP 49002 sector", "Kalamazoo County / primary ZIP 49002"]
-zillowHomeValueUsd: 268932
 ---
 
-**Engineering Notice for Portage:** Structural loading calculated based on 869 ft terrain assessment. Regional dispatch grid: Kalamazoo County.
+**Engineering Notice for Portage:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kalamazoo County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Step: record station placement maps for follow-up visits.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Portage, MI.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Can bed bugs spread room-to-room in Portage, MI row homes? Wall voids and shared ducts accelerate transfer.
 
-We coordinate local dispatch coverage around Portage, MI and nearby ZIP sectors.
+Dry-wood termite pellets in Portage, MI attics may appear before exterior mud tubes.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Portage, MI, but intake notes help reduce delays.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 49002.
 
-Field note: Connection points spot-checked where accessible (ZIP 49024/49081/49002 zone).
+Perimeter granule carriers in Portage, MI clay soils may need lighter irrigation before application.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 49024/49081/49002.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Dispatch sectors sampled: ZIP 49024, 49081, 49002 (county grid: Kalamazoo County).
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Stored cardboard in Portage, MI garages can accelerate pantry pest cycles.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Across Portage, MI, rodent entry points frequently track utility penetrations.
+
+Harbor ledger 646371: frass lane, mud-tube scan, and garage jamb gap measure filed for Portage, MI at 42.2000, -85.5900.
+
+On-site sector marker: Kalamazoo County / primary ZIP 49002 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-49002-51cb11cb

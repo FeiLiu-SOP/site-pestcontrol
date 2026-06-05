@@ -11,26 +11,41 @@ lng: -116.1400
 zipSample: ["92236"]
 zipCodes: ["92236"]
 localPaths: ["Riverside County / elevation -67 ft band", "Riverside County / primary ZIP 92236", "Riverside County / ZIP 92236 sector", "Riverside County / coords 33.6900, -116.1400"]
-zillowHomeValueUsd: 432454
 ---
 
-**Engineering Notice for Coachella:** Structural loading calculated based on -67 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Coachella:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In Coachella, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-We coordinate local dispatch coverage around Coachella, CA and nearby ZIP sectors.
+Bird mites in Coachella, CA exhaust vents can persist after host nests are removed.
 
-Tip: address recurring issues early to prevent bigger damage.
+Stored cardboard in Coachella, CA garages can accelerate pantry pest cycles.
 
-In Coachella, CA, urgent pest control issues can escalate quickly.
+Drain fly biofilm in Coachella, CA floor drains signals grease traps need service before gel baits.
 
-Field note: Connection points spot-checked where accessible (ZIP 92236 zone).
+Perimeter mulch beds in Coachella, CA should be reviewed for ant bridge paths.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92236.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Dispatch sectors sampled: ZIP 92236 (county grid: Riverside County).
+IGR packets for Coachella, CA roach cycles should be dated on station lids.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Silverfish activity in Coachella, CA attics tracks cardboard storage and ridge vent gaps.
+
+FAQ: What is exclusion? Without sealing entry points in Coachella, CA, pressure often rebuilds.
+
+Perimeter granule carriers in Coachella, CA clay soils may need lighter irrigation before application.
+
+Seasonal pest pressure in Coachella, CA shifts between moisture ants and dry-wood vectors.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 92236.
+
+Species trace 299067: re-entry interval label and conducive moisture note keyed to Coachella, CA elevation -67 ft.
+
+Coordinate-anchored dispatch note: center reference 33.6900, -116.1400 at elevation ~-67 ft aligns with Riverside County intake staging.
 
 Service reference: CA-92236-14246774

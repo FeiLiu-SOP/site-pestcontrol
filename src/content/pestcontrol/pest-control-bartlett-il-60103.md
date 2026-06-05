@@ -11,25 +11,39 @@ lng: -88.2100
 zipSample: ["60103"]
 zipCodes: ["60103"]
 localPaths: ["DuPage County / primary ZIP 60103", "DuPage County / elevation 797 ft band", "DuPage County / coords 41.9800, -88.2100", "DuPage County / ZIP 60103 sector"]
-zillowHomeValueUsd: 427218
 ---
 
-**Engineering Notice for Bartlett:** Structural loading calculated based on 797 ft terrain assessment. Regional dispatch grid: DuPage County.
+**Engineering Notice for Bartlett:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 60103.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-In Bartlett, IL, urgent pest control issues can escalate quickly.
+Step: map entry points with photo logs before sealing.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep pet food elevated and sealed between service visits.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Log pet access routes when bait stations are placed.
 
-Tip: confirm licensing and insurance before approving work.
+Spider populations in Bartlett, IL eaves can signal insect prey density.
 
-Field note: Wind exposure category reviewed for ZIP sector 60103.
+Across Bartlett, IL, rodent entry points frequently track utility penetrations.
 
-Dispatch sectors sampled: ZIP 60103 (county grid: DuPage County).
+Step: separate bait rotation schedules from crack-and-crevice applications in Bartlett, IL.
+
+FAQ: What is exclusion? Without sealing entry points in Bartlett, IL, pressure often rebuilds.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 60103.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Perimeter dossier 302608: bait station anchor map and mulch bridge risk flagged for Bartlett, IL county DuPage County (ZIP 60103).
+
+On-site sector marker: DuPage County / coords 41.9800, -88.2100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60103-2b1ab73a

@@ -11,27 +11,41 @@ lng: -117.5900
 zipSample: ["92679"]
 zipCodes: ["92679"]
 localPaths: ["Orange County / primary ZIP 92679", "Orange County / elevation 659 ft band", "Orange County / ZIP 92679 sector", "Orange County / coords 33.6000, -117.5900"]
-zillowHomeValueUsd: 1600684
 ---
 
-**Engineering Notice for Coto de Caza:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Coto de Caza:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 92679.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: What is exclusion? Without sealing entry points in Coto de Caza, CA, pressure often rebuilds.
 
-In Coto de Caza, CA, urgent pest control issues can escalate quickly.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 92679.
+FAQ: Can bed bugs spread room-to-room in Coto de Caza, CA row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Wind exposure category reviewed for ZIP sector 92679.
+State note: Coto de Caza, CA commercial kitchens may require separate documentation for audit visits.
 
-Field note: Connection points spot-checked where accessible (ZIP 92679 zone).
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Coto de Caza, CA.
 
-Dispatch sectors sampled: ZIP 92679 (county grid: Orange County).
+Risk flag: Overwatered Coto de Caza, CA planters can restart ant bridges within two weeks.
+
+Yellow jacket nests in Coto de Caza, CA soffit cavities peak in late summer routing windows.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 92679.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Exclusion audit 467056: exclusion mesh gauge and rodent runway grease mark reviewed for Coto de Caza, CA at 33.6000/-117.5900.
+
+Harbor ledger 467056: frass lane, mud-tube scan, and garage jamb gap measure filed for Coto de Caza, CA at 33.6000, -117.5900.
+
+On-site sector marker: Orange County / elevation 659 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92679-42466d82

@@ -11,24 +11,39 @@ lng: -122.3000
 zipSample: ["98046", "98036", "98037"]
 zipCodes: ["98036", "98037", "98046"]
 localPaths: ["Snohomish County / elevation 423 ft band", "Snohomish County / ZIP 98037 sector", "Snohomish County / ZIP 98046 sector", "Snohomish County / ZIP 98036 sector", "Snohomish County / primary ZIP 98037"]
-zillowHomeValueUsd: 806872
 ---
 
-**Engineering Notice for Lynnwood:** Structural loading calculated based on 423 ft terrain assessment. Regional dispatch grid: Snohomish County.
+**Engineering Notice for Lynnwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Snohomish County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Lynnwood, WA, but intake notes help reduce delays.
+Mud dauber nests in Lynnwood, WA porch ceilings are benign but signal prey density for spiders.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Cluster fly attic staging in Lynnwood, WA peaks on south-facing voids after sunny thaw days.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Tip: compare at least two estimates for scope and timeline.
+Bird mites in Lynnwood, WA exhaust vents can persist after host nests are removed.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Across Lynnwood, WA, rodent entry points frequently track utility penetrations.
 
-Field note: Access points and staging constraints recorded for ZIP 98046/98037/98036 coverage.
+Silverfish activity in Lynnwood, WA attics tracks cardboard storage and ridge vent gaps.
 
-Dispatch sectors sampled: ZIP 98046, 98037, 98036 (county grid: Snohomish County).
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Carpenter ant frass in Lynnwood, WA window sills may indicate moisture-softened framing.
+
+Drain fly biofilm in Lynnwood, WA floor drains signals grease traps need service before gel baits.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Harbor ledger 834892: frass lane, mud-tube scan, and garage jamb gap measure filed for Lynnwood, WA at 47.8300, -122.3000.
+
+On-site sector marker: Snohomish County / ZIP 98046 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98037-48379196

@@ -11,26 +11,39 @@ lng: -106.3200
 zipSample: ["82602", "82605", "82609", "82601", "82604"]
 zipCodes: ["82601", "82609", "82604", "82602", "82605"]
 localPaths: ["Natrona County / elevation 5171 ft band", "Natrona County / ZIP 82604 sector", "Natrona County / ZIP 82602 sector", "Natrona County / ZIP 82609 sector", "Natrona County / coords 42.8400, -106.3200"]
-zillowHomeValueUsd: 349331
 ---
 
-**Engineering Notice for Casper:** Structural loading calculated based on 5171 ft terrain assessment. Regional dispatch grid: Natrona County.
+**Engineering Notice for Casper:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Natrona County.
 
 
-In Casper, WY, urgent pest control issues can escalate quickly.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Bird mites in Casper, WY exhaust vents can persist after host nests are removed.
 
-Tip: avoid large upfront payments without milestones.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Casper, WY, but intake notes help reduce delays.
+Attic misting in Casper, WY requires combustion air clearance verified before fans restart.
 
-Transparent pricing helps you compare like-for-like scope items.
+Cluster fly attic staging in Casper, WY peaks on south-facing voids after sunny thaw days.
 
-Field note: Moisture pathway inspection logged near ZIP 82609/82602/82601 intake.
+Step: record station placement maps for follow-up visits.
 
-Field note: Wind exposure category reviewed for ZIP sector 82609/82602/82601.
+Earwig harborages in Casper, WY meter boxes often follow drip irrigation overspray.
 
-Dispatch sectors sampled: ZIP 82609, 82602, 82601, 82604, 82605 (county grid: Natrona County).
+Mud dauber nests in Casper, WY porch ceilings are benign but signal prey density for spiders.
+
+In Casper, WY, subterranean termite swarms often follow warm rain windows.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Material note: Perimeter granules in Casper, WY may need reapplication after heavy irrigation.
+
+Intercept log 947658: bed bug intercept count staged before Casper, WY interior gel zones.
+
+Species trace 947658: re-entry interval label and conducive moisture note keyed to Casper, WY elevation 5171 ft.
+
+Primary postal anchor 82609 with multi-ZIP overlap in Casper; field packets tag Natrona County for county-grid reconciliation.
 
 Service reference: WY-82609-70dea451

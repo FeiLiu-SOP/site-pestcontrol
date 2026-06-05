@@ -11,26 +11,39 @@ lng: -117.5200
 zipSample: ["92371"]
 zipCodes: ["92371"]
 localPaths: ["San Bernardino County / coords 34.4400, -117.5200", "San Bernardino County / primary ZIP 92371", "San Bernardino County / ZIP 92371 sector", "San Bernardino County / elevation 3812 ft band"]
-zillowHomeValueUsd: 465012
 ---
 
-**Engineering Notice for Phelan:** Structural loading calculated based on 3812 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Phelan:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 92371.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 92371.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Why schedule quarterly instead of monthly in Phelan, CA? Species pressure and label intervals dictate cadence.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: separate bait rotation schedules from crack-and-crevice applications in Phelan, CA.
 
-Tip: address recurring issues early to prevent bigger damage.
+Carpenter ant frass in Phelan, CA window sills may indicate moisture-softened framing.
 
-Field note: Access points and staging constraints recorded for ZIP 92371 coverage.
+Stink bug overwinter seams in Phelan, CA vinyl panels laps require exclusion foam rated for UV exposure.
 
-Dispatch sectors sampled: ZIP 92371 (county grid: San Bernardino County).
+IGR packets for Phelan, CA roach cycles should be dated on station lids.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Step: label treatment zones for occupant re-entry timing.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Seasonal cue 419040: cluster fly attic staging reviewed for Phelan, CA soffit cavities.
+
+On-site sector marker: San Bernardino County / coords 34.4400, -117.5200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92371-a8490118

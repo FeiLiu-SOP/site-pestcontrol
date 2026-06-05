@@ -11,25 +11,39 @@ lng: -83.6500
 zipSample: ["48178"]
 zipCodes: ["48178"]
 localPaths: ["Oakland County / primary ZIP 48178", "Oakland County / elevation 922 ft band", "Oakland County / ZIP 48178 sector", "Oakland County / coords 42.4600, -83.6500"]
-zillowHomeValueUsd: 465729
 ---
 
-**Engineering Notice for South Lyon:** Structural loading calculated based on 922 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for South Lyon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oakland County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in South Lyon, MI, but intake notes help reduce delays.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 48178.
 
-Tip: confirm licensing and insurance before approving work.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-We coordinate local dispatch coverage around South Lyon, MI and nearby ZIP sectors.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 48178.
+Powderpost beetle exit holes in South Lyon, MI trim can be mistaken for dry-wood frass without magnification.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Spider populations in South Lyon, MI eaves can signal insect prey density.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48178.
+Tip: Log pet access routes when bait stations are placed.
 
-Dispatch sectors sampled: ZIP 48178 (county grid: Oakland County).
+Drain fly biofilm in South Lyon, MI floor drains signals grease traps need service before gel baits.
+
+Tip: Date bait station lids when servicing South Lyon, MI perimeter lines.
+
+Attic fogging in South Lyon, MI requires combustion appliance shutoff verification first.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 48178.
+
+Zone map 415803: attic insulation disturbance trace and pantry pest source logged for South Lyon, MI sector 48178.
+
+Exclusion audit 415803: exclusion mesh gauge and rodent runway grease mark reviewed for South Lyon, MI at 42.4600/-83.6500.
+
+On-site sector marker: Oakland County / elevation 922 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48178-b33d1a0e

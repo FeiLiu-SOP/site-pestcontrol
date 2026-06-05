@@ -11,24 +11,43 @@ lng: -88.1300
 zipSample: ["36610", "36613", "36612", "36663"]
 zipCodes: ["36612", "36663", "36610", "36613"]
 localPaths: ["Mobile County / elevation 62 ft band", "Mobile County / coords 30.7700, -88.1300", "Mobile County / ZIP 36613 sector", "Mobile County / ZIP 36612 sector", "Mobile County / primary ZIP 36663"]
-zillowHomeValueUsd: 147092
 ---
 
-**Engineering Notice for Prichard:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Mobile County.
+**Engineering Notice for Prichard:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Mobile County.
 
 
-Structured milestones protect both sides when scheduling work.
+Bird mites in Prichard, AL exhaust vents can persist after host nests are removed.
 
-Tip: avoid large upfront payments without milestones.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Exclusion gaps at garage jambs in Prichard, AL are common rodent access points.
 
-Our service coordination centers on Prichard, AL coverage windows and verified intake details.
+Carpenter ant frass in Prichard, AL window sills may indicate moisture-softened framing.
 
-Field note: Moisture pathway inspection logged near ZIP 36663/36612/36613 intake.
+Step: record station placement maps for follow-up visits.
 
-Dispatch sectors sampled: ZIP 36663, 36612, 36613, 36610 (county grid: Mobile County).
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Stored cardboard in Prichard, AL garages can accelerate pantry pest cycles.
+
+IGR packets for Prichard, AL roach cycles should be dated on station lids.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Stink bug overwinter seams in Prichard, AL vinyl panels laps require exclusion foam rated for UV exposure.
+
+Fire ant mounds in Prichard, AL drive seams need granule rotation after irrigation events.
+
+Yellow jacket nests in Prichard, AL soffit cavities peak in late summer routing windows.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Perimeter dossier 659735: bait station anchor map and mulch bridge risk flagged for Prichard, AL county Mobile County (ZIP 36663).
+
+Zone map 659735: attic insulation disturbance trace and pantry pest source logged for Prichard, AL sector 36663.
+
+On-site sector marker: Mobile County / ZIP 36613 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36663-2fe217ac

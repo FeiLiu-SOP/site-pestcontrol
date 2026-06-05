@@ -11,26 +11,37 @@ lng: -122.3000
 zipSample: ["94706"]
 zipCodes: ["94706"]
 localPaths: ["Alameda County / primary ZIP 94706", "Alameda County / elevation 49 ft band", "Alameda County / ZIP 94706 sector", "Alameda County / coords 37.8900, -122.3000"]
-zillowHomeValueUsd: 1260295
 ---
 
-**Engineering Notice for Albany:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Alameda County.
+**Engineering Notice for Albany:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alameda County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Carpenter ant frass in Albany, CA window sills may indicate moisture-softened framing.
 
-A written scope helps prevent rework and mismatched expectations.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can bed bugs spread room-to-room in Albany, CA row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Moisture pathway inspection logged near ZIP 94706 intake.
+Tip: Date bait station lids when servicing Albany, CA perimeter lines.
 
-Field note: Access points and staging constraints recorded for ZIP 94706 coverage.
+Attic insulation disturbance in Albany, CA may indicate wildlife nesting routes.
 
-Dispatch sectors sampled: ZIP 94706 (county grid: Alameda County).
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Perimeter mulch beds in Albany, CA should be reviewed for ant bridge paths.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Albany, CA.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Intercept log 303828: bed bug intercept count staged before Albany, CA interior gel zones.
+
+On-site sector marker: Alameda County / primary ZIP 94706 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94706-79095738

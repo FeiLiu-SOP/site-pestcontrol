@@ -11,24 +11,39 @@ lng: -119.1900
 zipSample: ["89406", "89429", "89408"]
 zipCodes: ["89406", "89429", "89408"]
 localPaths: ["Lyon County / ZIP 89429 sector", "Lyon County / ZIP 89408 sector", "Lyon County / elevation 4636 ft band", "Lyon County / primary ZIP 89408", "Lyon County / coords 39.5600, -119.1900"]
-zillowHomeValueUsd: 395996
 ---
 
-**Engineering Notice for Fernley:** Structural loading calculated based on 4636 ft terrain assessment. Regional dispatch grid: Lyon County.
+**Engineering Notice for Fernley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lyon County.
 
 
-Structured milestones protect both sides when scheduling work.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Tip: address recurring issues early to prevent bigger damage.
+Clover mite staining on Fernley, NV cladding service follows foundation mulch against brick ledges.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-In Fernley, NV, seasonal demand can change scheduling windows.
+Earwig harborages in Fernley, NV meter boxes often follow drip irrigation overspray.
 
-Field note: Connection points spot-checked where accessible (ZIP 89429/89408/89406 zone).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 89408.
 
-Dispatch sectors sampled: ZIP 89429, 89408, 89406 (county grid: Lyon County).
+IGR packets for Fernley, NV roach cycles should be dated on station lids.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Zone map 627735: attic insulation disturbance trace and pantry pest source logged for Fernley, NV sector 89408.
+
+Species trace 627735: re-entry interval label and conducive moisture note keyed to Fernley, NV elevation 4636 ft.
+
+Regional mesh label Lyon County: moisture and logistics baselines are keyed to Fernley, NV before niche-specific work begins.
 
 Service reference: NV-89408-94e85919

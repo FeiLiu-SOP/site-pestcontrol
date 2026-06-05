@@ -11,24 +11,37 @@ lng: -76.6900
 zipSample: ["21227"]
 zipCodes: ["21227"]
 localPaths: ["Baltimore County / primary ZIP 21227", "Baltimore County / elevation 85 ft band", "Baltimore County / ZIP 21227 sector", "Baltimore County / coords 39.2400, -76.6900"]
-zillowHomeValueUsd: 306564
 ---
 
-**Engineering Notice for Arbutus:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Arbutus:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.
 
 
-We coordinate local dispatch coverage around Arbutus, MD and nearby ZIP sectors.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Arbutus, MD, but intake notes help reduce delays.
+We coordinate Arbutus, MD pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: In Arbutus, MD, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Why schedule quarterly instead of monthly in Arbutus, MD? Species pressure and label intervals dictate cadence.
 
-Field note: Wind exposure category reviewed for ZIP sector 21227.
+Fire ant mounds in Arbutus, MD drive seams need granule rotation after irrigation events.
 
-Dispatch sectors sampled: ZIP 21227 (county grid: Baltimore County).
+Silverfish activity in Arbutus, MD attics tracks cardboard storage and ridge vent gaps.
+
+Earwig harborages in Arbutus, MD meter boxes often follow drip irrigation overspray.
+
+Bird mites in Arbutus, MD exhaust vents can persist after host nests are removed.
+
+Stink bug overwinter seams in Arbutus, MD cladding service laps require exclusion foam rated for UV exposure.
+
+Powderpost beetle exit holes in Arbutus, MD trim can be mistaken for dry-wood frass without magnification.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Arbutus, MD.
+
+Zone map 535687: attic insulation disturbance trace and pantry pest source logged for Arbutus, MD sector 21227.
+
+Regional mesh label Baltimore County: moisture and logistics baselines are keyed to Arbutus, MD before niche-specific work begins.
 
 Service reference: MD-21227-e070b89f

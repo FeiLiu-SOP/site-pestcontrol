@@ -11,27 +11,41 @@ lng: -111.0600
 zipSample: ["59719", "59715", "59718"]
 zipCodes: ["59718", "59715", "59719"]
 localPaths: ["Gallatin County / ZIP 59718 sector", "Gallatin County / ZIP 59719 sector", "Gallatin County / elevation 4803 ft band", "Gallatin County / coords 45.6800, -111.0600", "Gallatin County / primary ZIP 59718"]
-zillowHomeValueUsd: 647324
 ---
 
-**Engineering Notice for Bozeman:** Structural loading calculated based on 4803 ft terrain assessment. Regional dispatch grid: Gallatin County.
+**Engineering Notice for Bozeman:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gallatin County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 59718.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 59718.
 
-Our service coordination centers on Bozeman, MT coverage windows and verified intake details.
+Perimeter mulch beds in Bozeman, MT should be reviewed for ant bridge paths.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 59715/59718/59719.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Moisture pathway inspection logged near ZIP 59715/59718/59719 intake.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Dispatch sectors sampled: ZIP 59715, 59718, 59719 (county grid: Gallatin County).
+Earwig harborages in Bozeman, MT meter boxes often follow drip irrigation overspray.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Carpenter ant frass in Bozeman, MT window sills may indicate moisture-softened framing.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+In Bozeman, MT, subterranean termite swarms often follow warm rain windows.
+
+Intercept log 384253: bed bug intercept count staged before Bozeman, MT interior gel zones.
+
+Species trace 384253: re-entry interval label and conducive moisture note keyed to Bozeman, MT elevation 4803 ft.
+
+Primary postal anchor 59718 with multi-ZIP overlap in Bozeman; field packets tag Gallatin County for county-grid reconciliation.
 
 Service reference: MT-59718-bc330f28

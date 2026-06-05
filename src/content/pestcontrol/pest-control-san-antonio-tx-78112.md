@@ -11,26 +11,41 @@ lng: -98.5200
 zipSample: ["78259", "78299", "78268", "78256", "78252"]
 zipCodes: ["78201", "78219", "78073", "78245", "78269", "78023", "78250", "78231", "78254", "78251", "78279", "78112"]
 localPaths: ["Bexar County / ZIP 78252 sector", "Bexar County / primary ZIP 78112", "Bexar County / elevation 732 ft band", "Bexar County / ZIP 78268 sector", "Bexar County / ZIP 78299 sector"]
-zillowHomeValueUsd: 233950
 ---
 
-**Engineering Notice for San Antonio:** Structural loading calculated based on 732 ft terrain assessment. Regional dispatch grid: Bexar County.
+**Engineering Notice for San Antonio:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bexar County.
 
 
-Our service coordination centers on San Antonio, TX coverage windows and verified intake details.
+Step: map entry points with photo logs before sealing.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Date bait station lids when servicing San Antonio, TX perimeter lines.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: verify attic access safety before insulation disturbance.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+State note: San Antonio, TX commercial kitchens may require separate documentation for audit visits.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Fire ant mounds in San Antonio, TX drive seams need granule rotation after irrigation events.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78221/78232/78292.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Field note: Wind exposure category reviewed for ZIP sector 78221/78232/78292.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 78112.
 
-Dispatch sectors sampled: ZIP 78221, 78232, 78292, 78228, 78073 (county grid: Bexar County).
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Attic fogging in San Antonio, TX requires combustion appliance shutoff verification first.
+
+FAQ: What is exclusion? Without sealing entry points in San Antonio, TX, pressure often rebuilds.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Exclusion audit 846526: exclusion mesh gauge and rodent runway grease mark reviewed for San Antonio, TX at 29.4600/-98.5200.
+
+Perimeter dossier 846526: bait station anchor map and mulch bridge risk flagged for San Antonio, TX county Bexar County (ZIP 78112).
+
+On-site sector marker: Bexar County / ZIP 78250 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78112-566a6f3f

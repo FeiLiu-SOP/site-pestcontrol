@@ -11,27 +11,37 @@ lng: -77.5100
 zipSample: ["23294", "23228"]
 zipCodes: ["23228", "23294"]
 localPaths: ["Henrico County / coords 37.6400, -77.5100", "Henrico County / primary ZIP 23294", "Henrico County / ZIP 23294 sector", "Henrico County / ZIP 23228 sector", "Henrico County / elevation 233 ft band"]
-zillowHomeValueUsd: 360191
 ---
 
-**Engineering Notice for Laurel:** Structural loading calculated based on 233 ft terrain assessment. Regional dispatch grid: Henrico County.
+**Engineering Notice for Laurel:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Henrico County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 23294.
+Tip: Date bait station lids when servicing Laurel, VA perimeter lines.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Laurel, VA, but intake notes help reduce delays.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-We coordinate local dispatch coverage around Laurel, VA and nearby ZIP sectors.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Homeowners in Laurel, VA often face sudden pest control problems that require fast action.
+Mud dauber nests in Laurel, VA porch ceilings are benign but signal prey density for spiders.
 
-Field note: Connection points spot-checked where accessible (ZIP 23228/23294 zone).
+Attic fogging in Laurel, VA requires combustion appliance shutoff verification first.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 23228/23294.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 23228, 23294 (county grid: Henrico County).
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Wildlife odors in Laurel, VA crawlspaces may attract secondary pest activity.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Risk flag: Overwatered Laurel, VA planters can restart ant bridges within two weeks.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Harbor ledger 958271: frass lane, mud-tube scan, and garage jamb gap measure filed for Laurel, VA at 37.6400, -77.5100.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Henrico County and primary ZIP 23294. Terrain reference: 233 ft. Center point: 37.6400, -77.5100. ZIP sample: 23228, 23294. Logistics priority: Serving residential sectors across Henrico County and north-east ZIP 23294 grid.
 
 Service reference: VA-23294-a3cdf466

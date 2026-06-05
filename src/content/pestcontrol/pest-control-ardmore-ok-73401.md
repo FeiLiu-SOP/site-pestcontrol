@@ -11,27 +11,41 @@ lng: -97.1300
 zipSample: ["73401", "73402", "73403"]
 zipCodes: ["73401", "73403", "73402"]
 localPaths: ["Carter County / ZIP 73403 sector", "Carter County / coords 34.1900, -97.1300", "Carter County / ZIP 73401 sector", "Carter County / ZIP 73402 sector", "Carter County / elevation 899 ft band"]
-zillowHomeValueUsd: 181327
 ---
 
-**Engineering Notice for Ardmore:** Structural loading calculated based on 899 ft terrain assessment. Regional dispatch grid: Carter County.
+**Engineering Notice for Ardmore:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Carter County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Drain fly biofilm in Ardmore, OK floor drains signals grease traps need service before gel baits.
 
-Homeowners in Ardmore, OK often face sudden pest control problems that require fast action.
+Mud dauber nests in Ardmore, OK porch ceilings are benign but signal prey density for spiders.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 73401.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Stored cardboard in Ardmore, OK garages can accelerate pantry pest cycles.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Earwig harborages in Ardmore, OK meter boxes often follow drip irrigation overspray.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 73402/73401/73403.
+State note: Ardmore, OK commercial kitchens may require separate documentation for audit visits.
 
-Field note: Connection points spot-checked where accessible (ZIP 73402/73401/73403 zone).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Dispatch sectors sampled: ZIP 73402, 73401, 73403 (county grid: Carter County).
+Attic fogging in Ardmore, OK requires combustion appliance shutoff verification first.
+
+Silverfish activity in Ardmore, OK attics tracks cardboard storage and ridge vent gaps.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Material note: Perimeter granules in Ardmore, OK may need reapplication after heavy irrigation.
+
+Bird mites in Ardmore, OK exhaust vents can persist after host nests are removed.
+
+Tip: Date bait station lids when servicing Ardmore, OK perimeter lines.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 73401.
+
+Exclusion audit 967661: exclusion mesh gauge and rodent runway grease mark reviewed for Ardmore, OK at 34.1900/-97.1300.
+
+On-site sector marker: Carter County / ZIP 73401 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-73401-9fa84a2d

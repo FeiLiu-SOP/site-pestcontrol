@@ -11,27 +11,41 @@ lng: -87.3500
 zipSample: ["46308", "46307"]
 zipCodes: ["46308", "46307"]
 localPaths: ["Lake County / elevation 705 ft band", "Lake County / coords 41.4100, -87.3500", "Lake County / primary ZIP 46307", "Lake County / ZIP 46307 sector", "Lake County / ZIP 46308 sector"]
-zillowHomeValueUsd: 353867
 ---
 
-**Engineering Notice for Crown Point:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Crown Point:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Tip: request a written scope before work starts.
+Yellow jacket nests in Crown Point, IN soffit cavities peak in late summer routing windows.
 
-We coordinate local dispatch coverage around Crown Point, IN and nearby ZIP sectors.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 46307.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 46307.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Crown Point, IN.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Humidity in Crown Point, IN can sustain cockroach harborages behind appliance voids.
 
-Field note: Connection points spot-checked where accessible (ZIP 46307/46308 zone).
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Field note: Access points and staging constraints recorded for ZIP 46307/46308 coverage.
+FAQ: What is exclusion? Without sealing entry points in Crown Point, IN, pressure often rebuilds.
 
-Dispatch sectors sampled: ZIP 46307, 46308 (county grid: Lake County).
+Perimeter granule carriers in Crown Point, IN clay soils may need lighter irrigation before application.
+
+Wildlife odors in Crown Point, IN crawlspaces may attract secondary pest activity.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Crown Point, IN.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Risk flag: In Crown Point, IN, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Intercept log 354561: bed bug intercept count staged before Crown Point, IN interior gel zones.
+
+On-site sector marker: Lake County / primary ZIP 46307 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46307-3571f93e

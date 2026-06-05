@@ -11,26 +11,37 @@ lng: -120.9600
 zipSample: ["95351", "95358", "95307"]
 zipCodes: ["95351", "95307", "95358"]
 localPaths: ["Stanislaus County / primary ZIP 95358", "Stanislaus County / elevation 82 ft band", "Stanislaus County / ZIP 95307 sector", "Stanislaus County / ZIP 95351 sector", "Stanislaus County / ZIP 95358 sector"]
-zillowHomeValueUsd: 433999
 ---
 
-**Engineering Notice for Ceres:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Stanislaus County.
+**Engineering Notice for Ceres:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Stanislaus County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 95358.
 
-We coordinate local dispatch coverage around Ceres, CA and nearby ZIP sectors.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Tip: request a written scope before work starts.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Overwatered Ceres, CA planters can restart ant bridges within two weeks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Field note: Moisture pathway inspection logged near ZIP 95351/95358/95307 intake.
+IGR packets for Ceres, CA roach cycles should be dated on station lids.
 
-Field note: Access points and staging constraints recorded for ZIP 95351/95358/95307 coverage.
+Tip: Log pet access routes when bait stations are placed.
 
-Dispatch sectors sampled: ZIP 95351, 95358, 95307 (county grid: Stanislaus County).
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+FAQ: What is exclusion? Without sealing entry points in Ceres, CA, pressure often rebuilds.
+
+Carpenter ant frass in Ceres, CA window sills may indicate moisture-softened framing.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Zone map 411480: attic insulation disturbance trace and pantry pest source logged for Ceres, CA sector 95358.
+
+Coordinate-anchored dispatch note: center reference 37.6000, -120.9600 at elevation ~82 ft aligns with Stanislaus County intake staging.
 
 Service reference: CA-95358-a1635b9f

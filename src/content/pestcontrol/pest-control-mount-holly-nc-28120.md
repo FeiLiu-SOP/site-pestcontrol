@@ -11,27 +11,39 @@ lng: -81.0100
 zipSample: ["28236", "28012", "28120"]
 zipCodes: ["28012", "28120", "28236"]
 localPaths: ["Gaston County / coords 35.3100, -81.0100", "Gaston County / ZIP 28236 sector", "Gaston County / elevation 666 ft band", "Gaston County / ZIP 28012 sector", "Gaston County / ZIP 28120 sector"]
-zillowHomeValueUsd: 366782
 ---
 
-**Engineering Notice for Mount Holly:** Structural loading calculated based on 666 ft terrain assessment. Regional dispatch grid: Gaston County.
+**Engineering Notice for Mount Holly:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gaston County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Monitoring boards in Mount Holly, NC crawlspaces stay 72 hours before snap traps are reset.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 28120.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 28120.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Mount Holly, NC, but intake notes help reduce delays.
+Clover mite staining on Mount Holly, NC exterior cladding follows foundation mulch against brick ledges.
 
-Our service coordination centers on Mount Holly, NC coverage windows and verified intake details.
+Attic fogging in Mount Holly, NC requires combustion appliance shutoff verification first.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Field note: Access points and staging constraints recorded for ZIP 28120/28012/28236 coverage.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Field note: Connection points spot-checked where accessible (ZIP 28120/28012/28236 zone).
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Dispatch sectors sampled: ZIP 28120, 28012, 28236 (county grid: Gaston County).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 28120.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+FAQ: Why schedule quarterly instead of monthly in Mount Holly, NC? Species pressure and label intervals dictate cadence.
+
+Dry-wood termite pellets in Mount Holly, NC attics may appear before exterior mud tubes.
+
+Carpenter ant frass in Mount Holly, NC window sills may indicate moisture-softened framing.
+
+Humidity in Mount Holly, NC can sustain cockroach harborages behind appliance voids.
+
+Seasonal cue 199233: cluster fly attic staging reviewed for Mount Holly, NC soffit cavities.
+
+On-site sector marker: Gaston County / primary ZIP 28120 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28120-50c54d2a

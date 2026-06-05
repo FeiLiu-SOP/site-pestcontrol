@@ -11,26 +11,41 @@ lng: -77.5900
 zipSample: ["28501", "28503", "28502", "28504"]
 zipCodes: ["28504", "28501", "28502", "28503"]
 localPaths: ["Lenoir County / ZIP 28502 sector", "Lenoir County / elevation 95 ft band", "Lenoir County / primary ZIP 28501", "Lenoir County / ZIP 28501 sector", "Lenoir County / coords 35.2700, -77.5900"]
-zillowHomeValueUsd: 97089
 ---
 
-**Engineering Notice for Kinston:** Structural loading calculated based on 95 ft terrain assessment. Regional dispatch grid: Lenoir County.
+**Engineering Notice for Kinston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lenoir County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Tip: request a written scope before work starts.
+Yellow jacket nests in Kinston, NC soffit cavities peak in late summer routing windows.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Monitoring boards in Kinston, NC crawlspaces stay 72 hours before snap traps are reset.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 28501.
 
-We coordinate local dispatch coverage around Kinston, NC and nearby ZIP sectors.
+Stink bug overwinter seams in Kinston, NC wall restoration laps require exclusion foam rated for UV exposure.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28502/28503/28504.
+Powderpost beetle exit holes in Kinston, NC trim can be mistaken for dry-wood frass without magnification.
 
-Field note: Moisture pathway inspection logged near ZIP 28502/28503/28504 intake.
+Mud dauber nests in Kinston, NC porch ceilings are benign but signal prey density for spiders.
 
-Dispatch sectors sampled: ZIP 28502, 28503, 28504, 28501 (county grid: Lenoir County).
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Kinston, NC.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+Earwig harborages in Kinston, NC meter boxes often follow drip irrigation overspray.
+
+Cluster fly attic staging in Kinston, NC peaks on south-facing voids after sunny thaw days.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Harbor ledger 188291: frass lane, mud-tube scan, and garage jamb gap measure filed for Kinston, NC at 35.2700, -77.5900.
+
+Primary postal anchor 28501 with multi-ZIP overlap in Kinston; field packets tag Lenoir County for county-grid reconciliation.
 
 Service reference: NC-28501-97ee7fb6

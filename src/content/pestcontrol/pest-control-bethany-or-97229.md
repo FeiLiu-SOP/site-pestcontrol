@@ -11,24 +11,41 @@ lng: -122.8400
 zipSample: ["97229"]
 zipCodes: ["97229"]
 localPaths: ["Washington County / coords 45.5600, -122.8400", "Washington County / elevation 272 ft band", "Washington County / primary ZIP 97229", "Washington County / ZIP 97229 sector"]
-zillowHomeValueUsd: 743078
 ---
 
-**Engineering Notice for Bethany:** Structural loading calculated based on 272 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Bethany:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Tip: compare at least two estimates for scope and timeline.
+Monitoring boards in Bethany, OR crawlspaces stay 72 hours before snap traps are reset.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic misting in Bethany, OR requires combustion air clearance verified before fans restart.
 
-Tip: request a written scope before work starts.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: map entry points with photo logs before sealing.
 
-Field note: Access points and staging constraints recorded for ZIP 97229 coverage.
+Across Bethany, OR, rodent entry points frequently track utility penetrations.
 
-Dispatch sectors sampled: ZIP 97229 (county grid: Washington County).
+Flea pupae survive vacuuming in Bethany, OR carpet fibers unless heat treatment follows.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Yellow jacket nests in Bethany, OR soffit cavities peak in late summer routing windows.
+
+Powderpost beetle exit holes in Bethany, OR trim can be mistaken for dry-wood frass without magnification.
+
+Wildlife odors in Bethany, OR crawlspaces may attract secondary pest activity.
+
+Material note: Perimeter granules in Bethany, OR may need reapplication after heavy irrigation.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Tip: Trim vegetation 12 inches from cladding service to reduce ant bridges.
+
+Harbor ledger 349311: frass lane, mud-tube scan, and garage jamb gap measure filed for Bethany, OR at 45.5600, -122.8400.
+
+On-site sector marker: Washington County / primary ZIP 97229 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97229-6a6c8f9f

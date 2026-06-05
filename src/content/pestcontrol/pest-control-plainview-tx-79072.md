@@ -11,26 +11,39 @@ lng: -101.7200
 zipSample: ["79072"]
 zipCodes: ["79072"]
 localPaths: ["Hale County / primary ZIP 79072", "Hale County / coords 34.1900, -101.7200", "Hale County / ZIP 79072 sector", "Hale County / elevation 3389 ft band"]
-zillowHomeValueUsd: 116077
 ---
 
-**Engineering Notice for Plainview:** Structural loading calculated based on 3389 ft terrain assessment. Regional dispatch grid: Hale County.
+**Engineering Notice for Plainview:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hale County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Date bait station lids when servicing Plainview, TX perimeter lines.
 
-We coordinate local dispatch coverage around Plainview, TX and nearby ZIP sectors.
+Material note: Perimeter granules in Plainview, TX may need reapplication after heavy irrigation.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Across Plainview, TX, rodent entry points frequently track utility penetrations.
 
-In Plainview, TX, seasonal demand can change scheduling windows.
+Fire ant mounds in Plainview, TX drive seams need granule rotation after irrigation events.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Plainview, TX, but intake notes help reduce delays.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Wind exposure category reviewed for ZIP sector 79072.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Field note: Access points and staging constraints recorded for ZIP 79072 coverage.
+Risk flag: In Plainview, TX, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Dispatch sectors sampled: ZIP 79072 (county grid: Hale County).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Monitoring boards in Plainview, TX crawlspaces stay 72 hours before snap traps are reset.
+
+Drain fly biofilm in Plainview, TX floor drains signals grease traps need service before gel baits.
+
+Yellow jacket nests in Plainview, TX soffit cavities peak in late summer routing windows.
+
+IGR packets for Plainview, TX roach cycles should be dated on station lids.
+
+Intercept log 299925: bed bug intercept count staged before Plainview, TX interior gel zones.
+
+Primary postal anchor 79072 with multi-ZIP overlap in Plainview; field packets tag Hale County for county-grid reconciliation.
 
 Service reference: TX-79072-e7e526f5

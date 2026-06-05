@@ -11,24 +11,43 @@ lng: -117.9500
 zipSample: ["91009", "91010"]
 zipCodes: ["91009", "91010"]
 localPaths: ["Los Angeles County / ZIP 91010 sector", "Los Angeles County / elevation 1617 ft band", "Los Angeles County / primary ZIP 91010", "Los Angeles County / coords 34.1600, -117.9500", "Los Angeles County / ZIP 91009 sector"]
-zillowHomeValueUsd: 785068
 ---
 
-**Engineering Notice for Duarte:** Structural loading calculated based on 1617 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Duarte:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+We coordinate Duarte, CA pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Carpenter ant frass in Duarte, CA window sills may indicate moisture-softened framing.
 
-Tip: confirm licensing and insurance before approving work.
+Fire ant mounds in Duarte, CA drive seams need granule rotation after irrigation events.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 91010.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Cluster fly attic staging in Duarte, CA peaks on south-facing voids after sunny thaw days.
 
-Field note: Moisture pathway inspection logged near ZIP 91009/91010 intake.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Dispatch sectors sampled: ZIP 91009, 91010 (county grid: Los Angeles County).
+Tip: Keep pet food elevated and sealed between service visits.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 91010.
+
+Attic misting in Duarte, CA requires combustion air clearance verified before fans restart.
+
+In Duarte, CA, subterranean termite swarms often follow warm rain windows.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Earwig harborages in Duarte, CA meter boxes often follow drip irrigation overspray.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Material note: Perimeter granules in Duarte, CA may need reapplication after heavy irrigation.
+
+Intercept log 378153: bed bug intercept count staged before Duarte, CA interior gel zones.
+
+Seasonal cue 378153: cluster fly attic staging reviewed for Duarte, CA soffit cavities.
+
+On-site sector marker: Los Angeles County / primary ZIP 91010 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91010-979bf08d

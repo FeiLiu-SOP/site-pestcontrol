@@ -11,24 +11,39 @@ lng: -82.8200
 zipSample: ["37743", "37745", "37744"]
 zipCodes: ["37744", "37745", "37743"]
 localPaths: ["Greene County / ZIP 37744 sector", "Greene County / ZIP 37743 sector", "Greene County / ZIP 37745 sector", "Greene County / coords 36.1700, -82.8200", "Greene County / elevation 1608 ft band"]
-zillowHomeValueUsd: 254337
 ---
 
-**Engineering Notice for Greeneville:** Structural loading calculated based on 1608 ft terrain assessment. Regional dispatch grid: Greene County.
+**Engineering Notice for Greeneville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Greene County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Yellow jacket nests in Greeneville, TN soffit cavities peak in late summer routing windows.
 
-Homeowners in Greeneville, TN often face sudden pest control problems that require fast action.
+Stink bug overwinter seams in Greeneville, TN wall restoration laps require exclusion foam rated for UV exposure.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-In Greeneville, TN, seasonal demand can change scheduling windows.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Access points and staging constraints recorded for ZIP 37745/37743/37744 coverage.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Dispatch sectors sampled: ZIP 37745, 37743, 37744 (county grid: Greene County).
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Greeneville, TN.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+State note: Greeneville, TN commercial kitchens may require separate documentation for audit visits.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 37745.
+
+Dry-wood termite pellets in Greeneville, TN attics may appear before exterior mud tubes.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Seasonal cue 299473: cluster fly attic staging reviewed for Greeneville, TN soffit cavities.
+
+On-site sector marker: Greene County / coords 36.1700, -82.8200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37745-04bb3e91

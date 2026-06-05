@@ -11,24 +11,41 @@ lng: -74.3600
 zipSample: ["08840"]
 zipCodes: ["08840"]
 localPaths: ["Middlesex County / ZIP 08840 sector", "Middlesex County / coords 40.5400, -74.3600", "Middlesex County / primary ZIP 08840", "Middlesex County / elevation 98 ft band"]
-zillowHomeValueUsd: 682589
 ---
 
-**Engineering Notice for Metuchen:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Metuchen:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Step: map entry points with photo logs before sealing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Metuchen, NJ, but intake notes help reduce delays.
+Step: label treatment zones for occupant re-entry timing.
 
-Our service coordination centers on Metuchen, NJ coverage windows and verified intake details.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Exclusion gaps at garage jambs in Metuchen, NJ are common rodent access points.
 
-Tip: avoid large upfront payments without milestones.
+Powderpost beetle exit holes in Metuchen, NJ trim can be mistaken for dry-wood frass without magnification.
 
-Field note: Moisture pathway inspection logged near ZIP 08840 intake.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Dispatch sectors sampled: ZIP 08840 (county grid: Middlesex County).
+Silverfish activity in Metuchen, NJ attics tracks cardboard storage and ridge vent gaps.
+
+FAQ: Why schedule quarterly instead of monthly in Metuchen, NJ? Species pressure and label intervals dictate cadence.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Monitoring boards in Metuchen, NJ crawlspaces stay 72 hours before snap traps are reset.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Carpenter ant frass in Metuchen, NJ window sills may indicate moisture-softened framing.
+
+Zone map 744348: attic insulation disturbance trace and pantry pest source logged for Metuchen, NJ sector 08840.
+
+ZIP-corridor snapshot for Metuchen, NJ: sampled sectors include 08840; county routing grid remains Middlesex County.
 
 Service reference: NJ-08840-0a67c401

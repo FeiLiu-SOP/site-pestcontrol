@@ -11,26 +11,37 @@ lng: -122.1200
 zipSample: ["94556", "94570", "94575"]
 zipCodes: ["94556", "94570", "94575"]
 localPaths: ["Contra Costa County / ZIP 94570 sector", "Contra Costa County / ZIP 94575 sector", "Contra Costa County / elevation 594 ft band", "Contra Costa County / primary ZIP 94556", "Contra Costa County / ZIP 94556 sector"]
-zillowHomeValueUsd: 1665923
 ---
 
-**Engineering Notice for Moraga:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Moraga:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Silverfish activity in Moraga, CA attics tracks cardboard storage and ridge vent gaps.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: What is exclusion? Without sealing entry points in Moraga, CA, pressure often rebuilds.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Drain fly biofilm in Moraga, CA floor drains signals grease traps need service before gel baits.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Moisture pathway inspection logged near ZIP 94570/94556/94575 intake.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 94556.
 
-Field note: Wind exposure category reviewed for ZIP sector 94570/94556/94575.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Dispatch sectors sampled: ZIP 94570, 94556, 94575 (county grid: Contra Costa County).
+Risk flag: Overwatered Moraga, CA planters can restart ant bridges within two weeks.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Cluster fly attic staging in Moraga, CA peaks on south-facing voids after sunny thaw days.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Moraga, CA.
+
+Mud dauber nests in Moraga, CA porch ceilings are benign but signal prey density for spiders.
+
+Species trace 385471: re-entry interval label and conducive moisture note keyed to Moraga, CA elevation 594 ft.
+
+Regional mesh label Contra Costa County: moisture and logistics baselines are keyed to Moraga, CA before niche-specific work begins.
 
 Service reference: CA-94556-25e20e6c

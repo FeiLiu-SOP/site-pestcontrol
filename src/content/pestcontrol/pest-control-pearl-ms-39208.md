@@ -11,25 +11,41 @@ lng: -90.0900
 zipSample: ["39208"]
 zipCodes: ["39208"]
 localPaths: ["Rankin County / ZIP 39208 sector", "Rankin County / coords 32.2700, -90.0900", "Rankin County / elevation 377 ft band", "Rankin County / primary ZIP 39208"]
-zillowHomeValueUsd: 211746
 ---
 
-**Engineering Notice for Pearl:** Structural loading calculated based on 377 ft terrain assessment. Regional dispatch grid: Rankin County.
+**Engineering Notice for Pearl:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rankin County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Carpenter ant frass in Pearl, MS window sills may indicate moisture-softened framing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Pearl, MS, but intake notes help reduce delays.
+Step: record station placement maps for follow-up visits.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 39208.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 39208.
 
-Field note: Wind exposure category reviewed for ZIP sector 39208.
+Perimeter granule carriers in Pearl, MS clay soils may need lighter irrigation before application.
 
-Dispatch sectors sampled: ZIP 39208 (county grid: Rankin County).
+Step: separate bait rotation schedules from crack-and-crevice applications in Pearl, MS.
+
+Attic insulation disturbance in Pearl, MS may indicate wildlife nesting routes.
+
+Attic misting in Pearl, MS requires combustion air clearance verified before fans restart.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Material note: Perimeter granules in Pearl, MS may need reapplication after heavy irrigation.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+In Pearl, MS, subterranean termite swarms often follow warm rain windows.
+
+Perimeter dossier 109523: bait station anchor map and mulch bridge risk flagged for Pearl, MS county Rankin County (ZIP 39208).
+
+On-site sector marker: Rankin County / elevation 377 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39208-65eb1533

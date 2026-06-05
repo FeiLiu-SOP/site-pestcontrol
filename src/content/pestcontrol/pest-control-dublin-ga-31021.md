@@ -11,24 +11,41 @@ lng: -82.9300
 zipSample: ["31021", "31040"]
 zipCodes: ["31040", "31021"]
 localPaths: ["Laurens County / ZIP 31040 sector", "Laurens County / elevation 279 ft band", "Laurens County / ZIP 31021 sector", "Laurens County / primary ZIP 31021", "Laurens County / coords 32.5400, -82.9300"]
-zillowHomeValueUsd: 191950
 ---
 
-**Engineering Notice for Dublin:** Structural loading calculated based on 279 ft terrain assessment. Regional dispatch grid: Laurens County.
+**Engineering Notice for Dublin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Laurens County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic misting in Dublin, GA requires combustion air clearance verified before fans restart.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Dublin, GA, but intake notes help reduce delays.
+Perimeter granule carriers in Dublin, GA clay soils may need lighter irrigation before application.
 
-In Dublin, GA, urgent pest control issues can escalate quickly.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Exclusion gaps at garage jambs in Dublin, GA are common rodent access points.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Connection points spot-checked where accessible (ZIP 31040/31021 zone).
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 31021.
 
-Dispatch sectors sampled: ZIP 31040, 31021 (county grid: Laurens County).
+Stored cardboard in Dublin, GA garages can accelerate pantry pest cycles.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Yellow jacket nests in Dublin, GA soffit cavities peak in late summer routing windows.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Silverfish activity in Dublin, GA attics tracks cardboard storage and ridge vent gaps.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Intercept log 902037: bed bug intercept count staged before Dublin, GA interior gel zones.
+
+Zone map 902037: attic insulation disturbance trace and pantry pest source logged for Dublin, GA sector 31021.
+
+Primary postal anchor 31021 with multi-ZIP overlap in Dublin; field packets tag Laurens County for county-grid reconciliation.
 
 Service reference: GA-31021-afad3ecb

@@ -11,26 +11,41 @@ lng: -96.9000
 zipSample: ["75036", "75056"]
 zipCodes: ["75056", "75036"]
 localPaths: ["Denton County / elevation 551 ft band", "Denton County / coords 33.0900, -96.9000", "Denton County / ZIP 75036 sector", "Denton County / primary ZIP 75036", "Denton County / ZIP 75056 sector"]
-zillowHomeValueUsd: 567497
 ---
 
-**Engineering Notice for The Colony:** Structural loading calculated based on 551 ft terrain assessment. Regional dispatch grid: Denton County.
+**Engineering Notice for The Colony:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Denton County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in The Colony, TX.
 
-Structured milestones protect both sides when scheduling work.
+IGR packets for The Colony, TX roach cycles should be dated on station lids.
 
-We coordinate local dispatch coverage around The Colony, TX and nearby ZIP sectors.
+Material note: Perimeter granules in The Colony, TX may need reapplication after heavy irrigation.
 
-Tip: compare at least two estimates for scope and timeline.
+Monitoring boards in The Colony, TX crawlspaces stay 72 hours before snap traps are reset.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Wind exposure category reviewed for ZIP sector 75056/75036.
+Fire ant mounds in The Colony, TX drive seams need granule rotation after irrigation events.
 
-Field note: Connection points spot-checked where accessible (ZIP 75056/75036 zone).
+Tip: Date bait station lids when servicing The Colony, TX perimeter lines.
 
-Dispatch sectors sampled: ZIP 75056, 75036 (county grid: Denton County).
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+FAQ: Can bed bugs spread room-to-room in The Colony, TX row homes? Wall voids and shared ducts accelerate transfer.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in The Colony, TX, pressure often rebuilds.
+
+FAQ: Why schedule quarterly instead of monthly in The Colony, TX? Species pressure and label intervals dictate cadence.
+
+Step: verify attic access safety before insulation disturbance.
+
+Zone map 149169: attic insulation disturbance trace and pantry pest source logged for The Colony, TX sector 75036.
+
+On-site sector marker: Denton County / ZIP 75056 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75036-7408cd4e

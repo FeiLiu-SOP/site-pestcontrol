@@ -11,27 +11,43 @@ lng: -84.0000
 zipSample: ["30094", "30012", "30013"]
 zipCodes: ["30012", "30013", "30094"]
 localPaths: ["Rockdale County / primary ZIP 30013", "Rockdale County / ZIP 30094 sector", "Rockdale County / coords 33.6600, -84.0000", "Rockdale County / ZIP 30013 sector", "Rockdale County / ZIP 30012 sector"]
-zillowHomeValueUsd: 310148
 ---
 
-**Engineering Notice for Conyers:** Structural loading calculated based on 906 ft terrain assessment. Regional dispatch grid: Rockdale County.
+**Engineering Notice for Conyers:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rockdale County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-We coordinate local dispatch coverage around Conyers, GA and nearby ZIP sectors.
+FAQ: Why schedule quarterly instead of monthly in Conyers, GA? Species pressure and label intervals dictate cadence.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 30013.
+FAQ: Why do pests return after spraying? Without sealing entry points in Conyers, GA, pressure often rebuilds.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30094/30013/30012.
+Fire ant mounds in Conyers, GA drive seams need granule rotation after irrigation events.
 
-Field note: Connection points spot-checked where accessible (ZIP 30094/30013/30012 zone).
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Dispatch sectors sampled: ZIP 30094, 30013, 30012 (county grid: Rockdale County).
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Conyers, GA.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Tip: Date bait station lids when servicing Conyers, GA perimeter lines.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Risk flag: In Conyers, GA, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Seasonal cue 487503: cluster fly attic staging reviewed for Conyers, GA soffit cavities.
+
+Species trace 487503: re-entry interval label and conducive moisture note keyed to Conyers, GA elevation 906 ft.
+
+On-site sector marker: Rockdale County / elevation 906 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30013-7e3ff433

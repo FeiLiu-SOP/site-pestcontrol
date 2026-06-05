@@ -11,26 +11,41 @@ lng: -85.6600
 zipSample: ["46952", "46953"]
 zipCodes: ["46952", "46953"]
 localPaths: ["Grant County / ZIP 46952 sector", "Grant County / ZIP 46953 sector", "Grant County / coords 40.5500, -85.6600", "Grant County / elevation 817 ft band", "Grant County / primary ZIP 46953"]
-zillowHomeValueUsd: 107747
 ---
 
-**Engineering Notice for Marion:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Grant County.
+**Engineering Notice for Marion:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Grant County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Our service coordination centers on Marion, IN coverage windows and verified intake details.
+FAQ: Why schedule quarterly instead of monthly in Marion, IN? Species pressure and label intervals dictate cadence.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Stink bug overwinter seams in Marion, IN vinyl panels laps require exclusion foam rated for UV exposure.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 46953.
 
-In Marion, IN, seasonal demand can change scheduling windows.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 46952/46953.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Field note: Moisture pathway inspection logged near ZIP 46952/46953 intake.
+Step: label treatment zones for occupant re-entry timing.
 
-Dispatch sectors sampled: ZIP 46952, 46953 (county grid: Grant County).
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Wildlife odors in Marion, IN crawlspaces may attract secondary pest activity.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+State note: Marion, IN commercial kitchens may require separate documentation for audit visits.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Perimeter dossier 961404: bait station anchor map and mulch bridge risk flagged for Marion, IN county Grant County (ZIP 46953).
+
+Seasonal cue 961404: cluster fly attic staging reviewed for Marion, IN soffit cavities.
+
+ZIP-corridor snapshot for Marion, IN: sampled sectors include 46953, 46952; county routing grid remains Grant County.
 
 Service reference: IN-46953-4a863a90

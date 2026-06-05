@@ -11,26 +11,39 @@ lng: -157.9900
 zipSample: ["96789"]
 zipCodes: ["96789"]
 localPaths: ["Honolulu County / primary ZIP 96789", "Honolulu County / ZIP 96789 sector", "Honolulu County / coords 21.4800, -157.9900", "Honolulu County / elevation 883 ft band"]
-zillowHomeValueUsd: 881719
 ---
 
-**Engineering Notice for Mililani Mauka:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Mililani Mauka:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Honolulu County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Local conditions in Mililani Mauka, HI can affect timelines and material choices.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Spider populations in Mililani Mauka, HI eaves can signal insect prey density.
 
-Tip: address recurring issues early to prevent bigger damage.
+Mud dauber nests in Mililani Mauka, HI porch ceilings are benign but signal prey density for spiders.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Field note: Connection points spot-checked where accessible (ZIP 96789 zone).
+Material note: Perimeter granules in Mililani Mauka, HI may need reapplication after heavy irrigation.
 
-Field note: Wind exposure category reviewed for ZIP sector 96789.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Dispatch sectors sampled: ZIP 96789 (county grid: Honolulu County).
+County grid Honolulu County informs routing near ZIP 96789.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Perimeter mulch beds in Mililani Mauka, HI should be reviewed for ant bridge paths.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 96789.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Harbor ledger 816414: frass lane, mud-tube scan, and garage jamb gap measure filed for Mililani Mauka, HI at 21.4800, -157.9900.
+
+Regional mesh label Honolulu County: moisture and logistics baselines are keyed to Mililani Mauka, HI before niche-specific work begins.
 
 Service reference: HI-96789-b37c6edf

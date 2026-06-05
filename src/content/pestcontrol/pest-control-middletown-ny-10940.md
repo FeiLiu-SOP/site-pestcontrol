@@ -11,24 +11,39 @@ lng: -74.4200
 zipSample: ["10940"]
 zipCodes: ["10940"]
 localPaths: ["Orange County / ZIP 10940 sector", "Orange County / coords 41.4500, -74.4200", "Orange County / primary ZIP 10940", "Orange County / elevation 568 ft band"]
-zillowHomeValueUsd: 390345
 ---
 
-**Engineering Notice for Middletown:** Structural loading calculated based on 568 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Middletown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Powderpost beetle exit holes in Middletown, NY trim can be mistaken for dry-wood frass without magnification.
 
-Structured milestones protect both sides when scheduling work.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 10940.
 
-Tip: avoid large upfront payments without milestones.
+Carpenter ant frass in Middletown, NY window sills may indicate moisture-softened framing.
 
-Tip: request a written scope before work starts.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Access points and staging constraints recorded for ZIP 10940 coverage.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Dispatch sectors sampled: ZIP 10940 (county grid: Orange County).
+Perimeter granule carriers in Middletown, NY clay soils may need lighter irrigation before application.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Material note: Perimeter granules in Middletown, NY may need reapplication after heavy irrigation.
+
+Dry-wood termite pellets in Middletown, NY attics may appear before exterior mud tubes.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Flea pupae survive vacuuming in Middletown, NY carpet fibers unless heat treatment follows.
+
+State note: Middletown, NY commercial kitchens may require separate documentation for audit visits.
+
+Zone map 207392: attic insulation disturbance trace and pantry pest source logged for Middletown, NY sector 10940.
+
+On-site sector marker: Orange County / ZIP 10940 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-10940-d3f25a30

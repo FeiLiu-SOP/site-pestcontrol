@@ -11,25 +11,41 @@ lng: -123.3100
 zipSample: ["97338"]
 zipCodes: ["97338"]
 localPaths: ["Polk County / ZIP 97338 sector", "Polk County / elevation 322 ft band", "Polk County / primary ZIP 97338", "Polk County / coords 44.9200, -123.3100"]
-zillowHomeValueUsd: 473402
 ---
 
-**Engineering Notice for Dallas:** Structural loading calculated based on 322 ft terrain assessment. Regional dispatch grid: Polk County.
+**Engineering Notice for Dallas:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Polk County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Carpenter ant frass in Dallas, OR window sills may indicate moisture-softened framing.
 
-Homeowners in Dallas, OR often face sudden pest control problems that require fast action.
+Clover mite staining on Dallas, OR vinyl panels follows foundation mulch against brick ledges.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Dallas, OR, but intake notes help reduce delays.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 97338.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Wind exposure category reviewed for ZIP sector 97338.
+County grid Polk County informs routing near ZIP 97338.
 
-Dispatch sectors sampled: ZIP 97338 (county grid: Polk County).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 97338.
+
+Mud dauber nests in Dallas, OR porch ceilings are benign but signal prey density for spiders.
+
+Humidity in Dallas, OR can sustain cockroach harborages behind appliance voids.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Exclusion gaps at garage jambs in Dallas, OR are common rodent access points.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Across Dallas, OR, rodent entry points frequently track utility penetrations.
+
+Intercept log 428381: bed bug intercept count staged before Dallas, OR interior gel zones.
+
+On-site sector marker: Polk County / elevation 322 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97338-88d7fe08

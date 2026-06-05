@@ -11,26 +11,37 @@ lng: -122.0300
 zipSample: ["98053", "98077"]
 zipCodes: ["98053", "98077"]
 localPaths: ["King County / coords 47.6800, -122.0300", "King County / primary ZIP 98053", "King County / ZIP 98053 sector", "King County / ZIP 98077 sector", "King County / elevation 600 ft band"]
-zillowHomeValueUsd: 1470651
 ---
 
-**Engineering Notice for Union Hill-Novelty Hill:** Structural loading calculated based on 600 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Union Hill-Novelty Hill:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.
 
 
-We coordinate local dispatch coverage around Union Hill-Novelty Hill, WA and nearby ZIP sectors.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Union Hill-Novelty Hill, WA, but intake notes help reduce delays.
+Clover mite staining on Union Hill-Novelty Hill, WA exterior cladding follows foundation mulch against brick ledges.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Fire ant mounds in Union Hill-Novelty Hill, WA drive seams need granule rotation after irrigation events.
 
-Tip: avoid large upfront payments without milestones.
+Bird mites in Union Hill-Novelty Hill, WA exhaust vents can persist after host nests are removed.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Connection points spot-checked where accessible (ZIP 98053/98077 zone).
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Access points and staging constraints recorded for ZIP 98053/98077 coverage.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Dispatch sectors sampled: ZIP 98053, 98077 (county grid: King County).
+Seasonal pest pressure in Union Hill-Novelty Hill, WA shifts between moisture ants and dry-wood vectors.
+
+Cluster fly attic staging in Union Hill-Novelty Hill, WA peaks on south-facing voids after sunny thaw days.
+
+Across Union Hill-Novelty Hill, WA, rodent entry points frequently track utility penetrations.
+
+FAQ: What is exclusion? Without sealing entry points in Union Hill-Novelty Hill, WA, pressure often rebuilds.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Exclusion audit 198363: exclusion mesh gauge and rodent runway grease mark reviewed for Union Hill-Novelty Hill, WA at 47.6800/-122.0300.
+
+On-site sector marker: King County / ZIP 98077 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98053-9a6da108

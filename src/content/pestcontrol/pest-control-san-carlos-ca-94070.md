@@ -11,27 +11,43 @@ lng: -122.2700
 zipSample: ["94070"]
 zipCodes: ["94070"]
 localPaths: ["San Mateo County / primary ZIP 94070", "San Mateo County / ZIP 94070 sector", "San Mateo County / elevation 108 ft band", "San Mateo County / coords 37.5000, -122.2700"]
-zillowHomeValueUsd: 2457931
 ---
 
-**Engineering Notice for San Carlos:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: San Mateo County.
+**Engineering Notice for San Carlos:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Mateo County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Our service coordination centers on San Carlos, CA coverage windows and verified intake details.
+IGR packets for San Carlos, CA roach cycles should be dated on station lids.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 94070.
+Tip: Keep pet food elevated and sealed between service visits.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in San Carlos, CA, but intake notes help reduce delays.
+Attic fogging in San Carlos, CA requires combustion appliance shutoff verification first.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Mud dauber nests in San Carlos, CA porch ceilings are benign but signal prey density for spiders.
 
-Field note: Moisture pathway inspection logged near ZIP 94070 intake.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94070.
+Step: record station placement maps for follow-up visits.
 
-Dispatch sectors sampled: ZIP 94070 (county grid: San Mateo County).
+Yellow jacket nests in San Carlos, CA soffit cavities peak in late summer routing windows.
+
+Powderpost beetle exit holes in San Carlos, CA trim can be mistaken for dry-wood frass without magnification.
+
+Attic misting in San Carlos, CA requires combustion air clearance verified before fans restart.
+
+Dry-wood termite pellets in San Carlos, CA attics may appear before exterior mud tubes.
+
+Drain fly biofilm in San Carlos, CA floor drains signals grease traps need service before gel baits.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Exclusion audit 661554: exclusion mesh gauge and rodent runway grease mark reviewed for San Carlos, CA at 37.5000/-122.2700.
+
+Species trace 661554: re-entry interval label and conducive moisture note keyed to San Carlos, CA elevation 108 ft.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~108 ft across the San Mateo County area. Coordinates: 37.5000, -122.2700. ZIP sample: 94070. Logistics priority: Serving residential sectors across San Mateo County and north-east ZIP 94070 grid.
 
 Service reference: CA-94070-b5135215

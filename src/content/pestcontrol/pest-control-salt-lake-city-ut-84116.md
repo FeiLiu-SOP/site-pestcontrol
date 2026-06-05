@@ -11,27 +11,37 @@ lng: -111.9300
 zipSample: ["84134", "84133", "84104", "84116", "84148"]
 zipCodes: ["84151", "84108", "84110", "84104", "84103", "84105", "84143", "84101", "84115", "84152", "84114", "84111"]
 localPaths: ["Salt Lake County / ZIP 84133 sector", "Salt Lake County / coords 40.7800, -111.9300", "Salt Lake County / ZIP 84148 sector", "Salt Lake County / ZIP 84116 sector", "Salt Lake County / primary ZIP 84116"]
-zillowHomeValueUsd: 452022
 ---
 
-**Engineering Notice for Salt Lake City:** Structural loading calculated based on 4239 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Salt Lake City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Salt Lake County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 84116.
+Mud dauber nests in Salt Lake City, UT porch ceilings are benign but signal prey density for spiders.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wildlife odors in Salt Lake City, UT crawlspaces may attract secondary pest activity.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-We coordinate local dispatch coverage around Salt Lake City, UT and nearby ZIP sectors.
+Earwig harborages in Salt Lake City, UT meter boxes often follow drip irrigation overspray.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Field note: Access points and staging constraints recorded for ZIP 84133/84134/84102 coverage.
+FAQ: Why do pests return after spraying? Without sealing entry points in Salt Lake City, UT, pressure often rebuilds.
 
-Field note: Connection points spot-checked where accessible (ZIP 84133/84134/84102 zone).
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 84133, 84134, 84102, 84143, 84106 (county grid: Salt Lake County).
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Powderpost beetle exit holes in Salt Lake City, UT trim can be mistaken for dry-wood frass without magnification.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 84116.
+
+Intercept log 291201: bed bug intercept count staged before Salt Lake City, UT interior gel zones.
+
+On-site sector marker: Salt Lake County / ZIP 84106 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84116-dcb992d0

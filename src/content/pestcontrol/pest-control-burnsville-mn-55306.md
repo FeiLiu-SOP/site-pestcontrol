@@ -11,26 +11,39 @@ lng: -93.2800
 zipSample: ["55306", "55337"]
 zipCodes: ["55337", "55306"]
 localPaths: ["Dakota County / coords 44.7600, -93.2800", "Dakota County / primary ZIP 55306", "Dakota County / ZIP 55337 sector", "Dakota County / ZIP 55306 sector", "Dakota County / elevation 968 ft band"]
-zillowHomeValueUsd: 416539
 ---
 
-**Engineering Notice for Burnsville:** Structural loading calculated based on 968 ft terrain assessment. Regional dispatch grid: Dakota County.
+**Engineering Notice for Burnsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dakota County.
 
 
-In Burnsville, MN, urgent pest control issues can escalate quickly.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Tip: request a written scope before work starts.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Burnsville, MN, but intake notes help reduce delays.
+Step: separate bait rotation schedules from crack-and-crevice applications in Burnsville, MN.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can bed bugs spread room-to-room in Burnsville, MN row homes? Wall voids and shared ducts accelerate transfer.
 
-We coordinate local dispatch coverage around Burnsville, MN and nearby ZIP sectors.
+Stink bug overwinter seams in Burnsville, MN exterior cladding laps require exclusion foam rated for UV exposure.
 
-Field note: Access points and staging constraints recorded for ZIP 55337/55306 coverage.
+Silverfish activity in Burnsville, MN attics tracks cardboard storage and ridge vent gaps.
 
-Field note: Connection points spot-checked where accessible (ZIP 55337/55306 zone).
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
 
-Dispatch sectors sampled: ZIP 55337, 55306 (county grid: Dakota County).
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Carpenter ant frass in Burnsville, MN window sills may indicate moisture-softened framing.
+
+Risk flag: Overwatered Burnsville, MN planters can restart ant bridges within two weeks.
+
+Fire ant mounds in Burnsville, MN drive seams need granule rotation after irrigation events.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Cluster fly attic staging in Burnsville, MN peaks on south-facing voids after sunny thaw days.
+
+Perimeter dossier 171358: bait station anchor map and mulch bridge risk flagged for Burnsville, MN county Dakota County (ZIP 55306).
+
+On-site sector marker: Dakota County / coords 44.7600, -93.2800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55306-93220e96

@@ -11,24 +11,39 @@ lng: -111.8000
 zipSample: ["84003"]
 zipCodes: ["84003"]
 localPaths: ["Utah County / elevation 4629 ft band", "Utah County / primary ZIP 84003", "Utah County / ZIP 84003 sector", "Utah County / coords 40.3800, -111.8000"]
-zillowHomeValueUsd: 598730
 ---
 
-**Engineering Notice for American Fork:** Structural loading calculated based on 4629 ft terrain assessment. Regional dispatch grid: Utah County.
+**Engineering Notice for American Fork:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Utah County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Date bait station lids when servicing American Fork, UT perimeter lines.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Silverfish activity in American Fork, UT attics tracks cardboard storage and ridge vent gaps.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in American Fork, UT, but intake notes help reduce delays.
+Earwig harborages in American Fork, UT meter boxes often follow drip irrigation overspray.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Mud dauber nests in American Fork, UT porch ceilings are benign but signal prey density for spiders.
 
-Tip: request a written scope before work starts.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 84003.
 
-Field note: Connection points spot-checked where accessible (ZIP 84003 zone).
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Dispatch sectors sampled: ZIP 84003 (county grid: Utah County).
+FAQ: Why schedule quarterly instead of monthly in American Fork, UT? Species pressure and label intervals dictate cadence.
+
+Perimeter granule carriers in American Fork, UT clay soils may need lighter irrigation before application.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 84003.
+
+Yellow jacket nests in American Fork, UT soffit cavities peak in late summer routing windows.
+
+Monitoring boards in American Fork, UT crawlspaces stay 72 hours before snap traps are reset.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Perimeter dossier 512964: bait station anchor map and mulch bridge risk flagged for American Fork, UT county Utah County (ZIP 84003).
+
+Coordinate-anchored dispatch note: center reference 40.3800, -111.8000 at elevation ~4629 ft aligns with Utah County intake staging.
 
 Service reference: UT-84003-7f51d157

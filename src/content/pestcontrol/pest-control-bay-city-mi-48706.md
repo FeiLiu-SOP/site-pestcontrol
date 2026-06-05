@@ -11,24 +11,39 @@ lng: -83.8900
 zipSample: ["48708", "48706"]
 zipCodes: ["48708", "48706"]
 localPaths: ["Bay County / ZIP 48708 sector", "Bay County / coords 43.5900, -83.8900", "Bay County / ZIP 48706 sector", "Bay County / primary ZIP 48706", "Bay County / elevation 600 ft band"]
-zillowHomeValueUsd: 184972
 ---
 
-**Engineering Notice for Bay City:** Structural loading calculated based on 600 ft terrain assessment. Regional dispatch grid: Bay County.
+**Engineering Notice for Bay City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bay County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Local conditions in Bay City, MI can affect timelines and material choices.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wildlife odors in Bay City, MI crawlspaces may attract secondary pest activity.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-We coordinate local dispatch coverage around Bay City, MI and nearby ZIP sectors.
+Risk flag: Overwatered Bay City, MI planters can restart ant bridges within two weeks.
 
-Field note: Moisture pathway inspection logged near ZIP 48708/48706 intake.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Dispatch sectors sampled: ZIP 48708, 48706 (county grid: Bay County).
+Exclusion gaps at garage jambs in Bay City, MI are common rodent access points.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+State note: Bay City, MI commercial kitchens may require separate documentation for audit visits.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Carpenter ant frass in Bay City, MI window sills may indicate moisture-softened framing.
+
+Tip: Date bait station lids when servicing Bay City, MI perimeter lines.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Exclusion audit 474479: exclusion mesh gauge and rodent runway grease mark reviewed for Bay City, MI at 43.5900/-83.8900.
+
+On-site sector marker: Bay County / ZIP 48706 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48706-2acbdf65

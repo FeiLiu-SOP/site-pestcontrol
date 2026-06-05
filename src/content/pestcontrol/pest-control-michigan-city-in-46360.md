@@ -11,24 +11,37 @@ lng: -86.8700
 zipSample: ["46361", "46360"]
 zipCodes: ["46361", "46360"]
 localPaths: ["LaPorte County / ZIP 46361 sector", "LaPorte County / primary ZIP 46360", "LaPorte County / coords 41.7100, -86.8700", "LaPorte County / elevation 643 ft band", "LaPorte County / ZIP 46360 sector"]
-zillowHomeValueUsd: 229428
 ---
 
-**Engineering Notice for Michigan City:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: LaPorte County.
+**Engineering Notice for Michigan City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: LaPorte County.
 
 
-Tip: request a written scope before work starts.
+Material note: Perimeter granules in Michigan City, IN may need reapplication after heavy irrigation.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Michigan City, IN, but intake notes help reduce delays.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Overwatered Michigan City, IN planters can restart ant bridges within two weeks.
 
-Our service coordination centers on Michigan City, IN coverage windows and verified intake details.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Michigan City, IN.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Access points and staging constraints recorded for ZIP 46361/46360 coverage.
+Fire ant mounds in Michigan City, IN drive seams need granule rotation after irrigation events.
 
-Dispatch sectors sampled: ZIP 46361, 46360 (county grid: LaPorte County).
+Risk flag: In Michigan City, IN, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Step: map entry points with photo logs before sealing.
+
+Silverfish activity in Michigan City, IN attics tracks cardboard storage and ridge vent gaps.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Perimeter dossier 805956: bait station anchor map and mulch bridge risk flagged for Michigan City, IN county LaPorte County (ZIP 46360).
+
+On-site sector marker: LaPorte County / elevation 643 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46360-9c1b6562

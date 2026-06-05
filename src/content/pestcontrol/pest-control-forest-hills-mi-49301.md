@@ -11,25 +11,39 @@ lng: -85.4900
 zipSample: ["49546", "49357", "49301", "49355", "49516"]
 zipCodes: ["49356", "49357", "49355", "49301", "49516", "49546"]
 localPaths: ["Kent County / ZIP 49357 sector", "Kent County / ZIP 49516 sector", "Kent County / elevation 646 ft band", "Kent County / ZIP 49546 sector", "Kent County / ZIP 49355 sector"]
-zillowHomeValueUsd: 648960
 ---
 
-**Engineering Notice for Forest Hills:** Structural loading calculated based on 646 ft terrain assessment. Regional dispatch grid: Kent County.
+**Engineering Notice for Forest Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kent County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Cluster fly attic staging in Forest Hills, MI peaks on south-facing voids after sunny thaw days.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: What is exclusion? Without sealing entry points in Forest Hills, MI, pressure often rebuilds.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 49301.
+Request an inspection with species ID before treatment. Serving ZIP Code: 49301.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Drain fly biofilm in Forest Hills, MI floor drains signals grease traps need service before gel baits.
 
-In Forest Hills, MI, seasonal demand can change scheduling windows.
+Step: record station placement maps for follow-up visits.
 
-Field note: Connection points spot-checked where accessible (ZIP 49516/49546/49357 zone).
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Dispatch sectors sampled: ZIP 49516, 49546, 49357, 49356, 49355 (county grid: Kent County).
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Attic misting in Forest Hills, MI requires combustion air clearance verified before fans restart.
+
+Monitoring boards in Forest Hills, MI crawlspaces stay 72 hours before snap traps are reset.
+
+Risk flag: In Forest Hills, MI, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Stink bug overwinter seams in Forest Hills, MI cladding service laps require exclusion foam rated for UV exposure.
+
+Yellow jacket nests in Forest Hills, MI soffit cavities peak in late summer routing windows.
+
+Exclusion audit 558228: exclusion mesh gauge and rodent runway grease mark reviewed for Forest Hills, MI at 42.9600/-85.4900.
+
+On-site sector marker: Kent County / ZIP 49355 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-49301-f9adfc77

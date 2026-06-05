@@ -11,26 +11,39 @@ lng: -70.9700
 zipSample: ["01960", "01961"]
 zipCodes: ["01960", "01961"]
 localPaths: ["Essex County / primary ZIP 01960", "Essex County / elevation 184 ft band", "Essex County / ZIP 01961 sector", "Essex County / ZIP 01960 sector", "Essex County / coords 42.5300, -70.9700"]
-zillowHomeValueUsd: 695241
 ---
 
-**Engineering Notice for Peabody:** Structural loading calculated based on 184 ft terrain assessment. Regional dispatch grid: Essex County.
+**Engineering Notice for Peabody:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Essex County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Peabody, MA, but intake notes help reduce delays.
+Carpenter ant frass in Peabody, MA window sills may indicate moisture-softened framing.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Peabody, MA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Can bed bugs spread room-to-room in Peabody, MA row homes? Wall voids and shared ducts accelerate transfer.
 
-Clear documentation helps align materials, labor, and timeline.
+Exclusion gaps at garage jambs in Peabody, MA are common rodent access points.
 
-Field note: Wind exposure category reviewed for ZIP sector 01960/01961.
+Perimeter granule carriers in Peabody, MA clay soils may need lighter irrigation before application.
 
-Field note: Moisture pathway inspection logged near ZIP 01960/01961 intake.
+Yellow jacket nests in Peabody, MA soffit cavities peak in late summer routing windows.
 
-Dispatch sectors sampled: ZIP 01960, 01961 (county grid: Essex County).
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 01960.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Tip: Log pet access routes when bait stations are placed.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Peabody, MA.
+
+Wildlife odors in Peabody, MA crawlspaces may attract secondary pest activity.
+
+Exclusion audit 610062: exclusion mesh gauge and rodent runway grease mark reviewed for Peabody, MA at 42.5300/-70.9700.
+
+Perimeter dossier 610062: bait station anchor map and mulch bridge risk flagged for Peabody, MA county Essex County (ZIP 01960).
+
+On-site sector marker: Essex County / coords 42.5300, -70.9700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MA-01960-82af7367

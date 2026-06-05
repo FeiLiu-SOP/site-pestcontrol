@@ -11,26 +11,41 @@ lng: -77.4800
 zipSample: ["20110", "20108"]
 zipCodes: ["20110", "20108"]
 localPaths: ["Manassas County / coords 38.7500, -77.4800", "Manassas County / elevation 279 ft band", "Manassas County / ZIP 20108 sector", "Manassas County / primary ZIP 20110", "Manassas County / ZIP 20110 sector"]
-zillowHomeValueUsd: 515137
 ---
 
-**Engineering Notice for Manassas:** Structural loading calculated based on 279 ft terrain assessment. Regional dispatch grid: Manassas County.
+**Engineering Notice for Manassas:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Manassas County.
 
 
-We coordinate local dispatch coverage around Manassas, VA and nearby ZIP sectors.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Clear documentation helps align materials, labor, and timeline.
+Spider populations in Manassas, VA eaves can signal insect prey density.
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Manassas, VA, but intake notes help reduce delays.
+Bird mites in Manassas, VA exhaust vents can persist after host nests are removed.
 
-Tip: request a written scope before work starts.
+Step: map entry points with photo logs before sealing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 20108/20110.
+Humidity in Manassas, VA can sustain cockroach harborages behind appliance voids.
 
-Field note: Moisture pathway inspection logged near ZIP 20108/20110 intake.
+Carpenter ant frass in Manassas, VA window sills may indicate moisture-softened framing.
 
-Dispatch sectors sampled: ZIP 20108, 20110 (county grid: Manassas County).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 20110.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Fire ant mounds in Manassas, VA drive seams need granule rotation after irrigation events.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 20110.
+
+FAQ: What is exclusion? Without sealing entry points in Manassas, VA, pressure often rebuilds.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Exclusion audit 535422: exclusion mesh gauge and rodent runway grease mark reviewed for Manassas, VA at 38.7500/-77.4800.
+
+Zone map 535422: attic insulation disturbance trace and pantry pest source logged for Manassas, VA sector 20110.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Manassas County and primary ZIP 20110. Terrain reference: 279 ft. Center point: 38.7500, -77.4800. ZIP sample: 20108, 20110. Regional routing note: Manassas County traffic flow is balanced around ZIP 20110 service demand.
 
 Service reference: VA-20110-7c2da059

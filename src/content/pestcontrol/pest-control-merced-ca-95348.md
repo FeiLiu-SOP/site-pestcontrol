@@ -11,26 +11,39 @@ lng: -120.4800
 zipSample: ["95340", "95348", "95343", "95341"]
 zipCodes: ["95340", "95343", "95341", "95348"]
 localPaths: ["Merced County / ZIP 95343 sector", "Merced County / coords 37.3100, -120.4800", "Merced County / ZIP 95340 sector", "Merced County / elevation 190 ft band", "Merced County / primary ZIP 95348"]
-zillowHomeValueUsd: 417744
 ---
 
-**Engineering Notice for Merced:** Structural loading calculated based on 190 ft terrain assessment. Regional dispatch grid: Merced County.
+**Engineering Notice for Merced:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Merced County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Merced, CA, but intake notes help reduce delays.
+Step: verify attic access safety before insulation disturbance.
 
-Homeowners in Merced, CA often face sudden pest control problems that require fast action.
+IGR packets for Merced, CA roach cycles should be dated on station lids.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Perimeter granules in Merced, CA may need reapplication after heavy irrigation.
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Tip: request a written scope before work starts.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 95348.
 
-Field note: Moisture pathway inspection logged near ZIP 95348/95343/95340 intake.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Field note: Wind exposure category reviewed for ZIP sector 95348/95343/95340.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Dispatch sectors sampled: ZIP 95348, 95343, 95340, 95341 (county grid: Merced County).
+State note: Merced, CA commercial kitchens may require separate documentation for audit visits.
+
+Mosquito breeding in Merced, CA catch basins can amplify perimeter callbacks.
+
+Fire ant mounds in Merced, CA drive seams need granule rotation after irrigation events.
+
+Risk flag: Overwatered Merced, CA planters can restart ant bridges within two weeks.
+
+Tip: Date bait station lids when servicing Merced, CA perimeter lines.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Harbor ledger 444667: frass lane, mud-tube scan, and garage jamb gap measure filed for Merced, CA at 37.3100, -120.4800.
+
+On-site sector marker: Merced County / ZIP 95343 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95348-dee5d75f

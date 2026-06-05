@@ -11,24 +11,43 @@ lng: -117.3900
 zipSample: ["92377", "92376", "92316"]
 zipCodes: ["92376", "92316", "92377"]
 localPaths: ["San Bernardino County / primary ZIP 92316", "San Bernardino County / coords 34.1200, -117.3900", "San Bernardino County / elevation 1342 ft band", "San Bernardino County / ZIP 92376 sector", "San Bernardino County / ZIP 92316 sector"]
-zillowHomeValueUsd: 564805
 ---
 
-**Engineering Notice for Rialto:** Structural loading calculated based on 1342 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Rialto:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Flea pupae survive vacuuming in Rialto, CA carpet fibers unless heat treatment follows.
 
-Our service coordination centers on Rialto, CA coverage windows and verified intake details.
+Exclusion gaps at garage jambs in Rialto, CA are common rodent access points.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+In Rialto, CA, subterranean termite swarms often follow warm rain windows.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Rialto, CA, but intake notes help reduce delays.
+Fire ant mounds in Rialto, CA drive seams need granule rotation after irrigation events.
 
-Field note: Connection points spot-checked where accessible (ZIP 92376/92316/92377 zone).
+Tip: Log pet access routes when bait stations are placed.
 
-Dispatch sectors sampled: ZIP 92376, 92316, 92377 (county grid: San Bernardino County).
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 92316.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Perimeter granule carriers in Rialto, CA clay soils may need lighter irrigation before application.
+
+Risk flag: In Rialto, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+FAQ: Can bed bugs spread room-to-room in Rialto, CA row homes? Wall voids and shared ducts accelerate transfer.
+
+Risk flag: Overwatered Rialto, CA planters can restart ant bridges within two weeks.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Rialto, CA.
+
+Species trace 767552: re-entry interval label and conducive moisture note keyed to Rialto, CA elevation 1342 ft.
+
+Seasonal cue 767552: cluster fly attic staging reviewed for Rialto, CA soffit cavities.
+
+On-site sector marker: San Bernardino County / ZIP 92377 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92316-3cf409e0

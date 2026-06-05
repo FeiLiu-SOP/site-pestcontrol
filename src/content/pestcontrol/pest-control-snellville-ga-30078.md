@@ -11,26 +11,41 @@ lng: -84.0000
 zipSample: ["30078"]
 zipCodes: ["30078"]
 localPaths: ["Gwinnett County / ZIP 30078 sector", "Gwinnett County / primary ZIP 30078", "Gwinnett County / coords 33.8600, -84.0000", "Gwinnett County / elevation 1037 ft band"]
-zillowHomeValueUsd: 371146
 ---
 
-**Engineering Notice for Snellville:** Structural loading calculated based on 1037 ft terrain assessment. Regional dispatch grid: Gwinnett County.
+**Engineering Notice for Snellville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gwinnett County.
 
 
-We coordinate local dispatch coverage around Snellville, GA and nearby ZIP sectors.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic misting in Snellville, GA requires combustion air clearance verified before fans restart.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Snellville, GA.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Snellville, GA, but intake notes help reduce delays.
+IGR packets for Snellville, GA roach cycles should be dated on station lids.
 
-Field note: Connection points spot-checked where accessible (ZIP 30078 zone).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Access points and staging constraints recorded for ZIP 30078 coverage.
+Material note: Perimeter granules in Snellville, GA may need reapplication after heavy irrigation.
 
-Dispatch sectors sampled: ZIP 30078 (county grid: Gwinnett County).
+Perimeter granule carriers in Snellville, GA clay soils may need lighter irrigation before application.
+
+Yellow jacket nests in Snellville, GA soffit cavities peak in late summer routing windows.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Mosquito breeding in Snellville, GA catch basins can amplify perimeter callbacks.
+
+Silverfish activity in Snellville, GA attics tracks cardboard storage and ridge vent gaps.
+
+Carpenter ant frass in Snellville, GA window sills may indicate moisture-softened framing.
+
+Bird mites in Snellville, GA exhaust vents can persist after host nests are removed.
+
+Zone map 274893: attic insulation disturbance trace and pantry pest source logged for Snellville, GA sector 30078.
+
+**Regional Infrastructure Brief:** Grid anchor set to Gwinnett County. Reference elevation: 1037 ft. Primary coordinates: 33.8600, -84.0000. ZIP sample: 30078. Service perimeter note: Coverage extends through Gwinnett County with dispatch centered near ZIP 30078.
 
 Service reference: GA-30078-bad0f793

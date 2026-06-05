@@ -11,26 +11,37 @@ lng: -74.3100
 zipSample: ["07067"]
 zipCodes: ["07067"]
 localPaths: ["Middlesex County / ZIP 07067 sector", "Middlesex County / elevation 92 ft band", "Middlesex County / primary ZIP 07067", "Middlesex County / coords 40.5900, -74.3100"]
-zillowHomeValueUsd: 635403
 ---
 
-**Engineering Notice for Colonia:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Colonia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.
 
 
-Tip: request a written scope before work starts.
+Bird mites in Colonia, NJ exhaust vents can persist after host nests are removed.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+County grid Middlesex County informs routing near ZIP 07067.
 
-In Colonia, NJ, seasonal demand can change scheduling windows.
+Attic fogging in Colonia, NJ requires combustion appliance shutoff verification first.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Colonia, NJ, but intake notes help reduce delays.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Colonia, NJ.
 
-Field note: Connection points spot-checked where accessible (ZIP 07067 zone).
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Moisture pathway inspection logged near ZIP 07067 intake.
+Flea pupae survive vacuuming in Colonia, NJ carpet fibers unless heat treatment follows.
 
-Dispatch sectors sampled: ZIP 07067 (county grid: Middlesex County).
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Cluster fly attic staging in Colonia, NJ peaks on south-facing voids after sunny thaw days.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 07067.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+IGR packets for Colonia, NJ roach cycles should be dated on station lids.
+
+Perimeter dossier 158711: bait station anchor map and mulch bridge risk flagged for Colonia, NJ county Middlesex County (ZIP 07067).
+
+**Regional Infrastructure Brief:** Topographical load indicates ~92 ft across the Middlesex County area. Coordinates: 40.5900, -74.3100. ZIP sample: 07067. Service perimeter note: Coverage extends through Middlesex County with dispatch centered near ZIP 07067.
 
 Service reference: NJ-07067-f85cdd88

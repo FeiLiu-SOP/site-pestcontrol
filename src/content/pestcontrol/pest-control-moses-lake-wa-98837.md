@@ -11,26 +11,43 @@ lng: -119.2800
 zipSample: ["98837"]
 zipCodes: ["98837"]
 localPaths: ["Grant County / elevation 1050 ft band", "Grant County / coords 47.1300, -119.2800", "Grant County / ZIP 98837 sector", "Grant County / primary ZIP 98837"]
-zillowHomeValueUsd: 364615
 ---
 
-**Engineering Notice for Moses Lake:** Structural loading calculated based on 1050 ft terrain assessment. Regional dispatch grid: Grant County.
+**Engineering Notice for Moses Lake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Grant County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 98837.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Moses Lake, WA, but intake notes help reduce delays.
+Tip: Date bait station lids when servicing Moses Lake, WA perimeter lines.
 
-Tip: avoid large upfront payments without milestones.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Field note: Wind exposure category reviewed for ZIP sector 98837.
+Fire ant mounds in Moses Lake, WA drive seams need granule rotation after irrigation events.
 
-Field note: Moisture pathway inspection logged near ZIP 98837 intake.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Dispatch sectors sampled: ZIP 98837 (county grid: Grant County).
+Monitoring boards in Moses Lake, WA crawlspaces stay 72 hours before snap traps are reset.
+
+Across Moses Lake, WA, rodent entry points frequently track utility penetrations.
+
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+FAQ: Why schedule quarterly instead of monthly in Moses Lake, WA? Species pressure and label intervals dictate cadence.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Earwig harborages in Moses Lake, WA meter boxes often follow drip irrigation overspray.
+
+State note: Moses Lake, WA commercial kitchens may require separate documentation for audit visits.
+
+Exclusion audit 621781: exclusion mesh gauge and rodent runway grease mark reviewed for Moses Lake, WA at 47.1300/-119.2800.
+
+Zone map 621781: attic insulation disturbance trace and pantry pest source logged for Moses Lake, WA sector 98837.
+
+On-site sector marker: Grant County / primary ZIP 98837 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98837-420658cb

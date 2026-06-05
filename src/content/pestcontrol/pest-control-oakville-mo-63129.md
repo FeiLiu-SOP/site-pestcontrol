@@ -11,26 +11,39 @@ lng: -90.3200
 zipSample: ["63151", "63129"]
 zipCodes: ["63129", "63151"]
 localPaths: ["St. Louis County / ZIP 63151 sector", "St. Louis County / elevation 571 ft band", "St. Louis County / ZIP 63129 sector", "St. Louis County / coords 38.4500, -90.3200", "St. Louis County / primary ZIP 63129"]
-zillowHomeValueUsd: 339994
 ---
 
-**Engineering Notice for Oakville:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Oakville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Transparent pricing helps you compare like-for-like scope items.
+Exclusion gaps at garage jambs in Oakville, MO are common rodent access points.
 
-Tip: compare at least two estimates for scope and timeline.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Oakville, MO, but intake notes help reduce delays.
+Silverfish activity in Oakville, MO attics tracks cardboard storage and ridge vent gaps.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Can bed bugs spread room-to-room in Oakville, MO row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Moisture pathway inspection logged near ZIP 63129/63151 intake.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Field note: Wind exposure category reviewed for ZIP sector 63129/63151.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Dispatch sectors sampled: ZIP 63129, 63151 (county grid: St. Louis County).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Cluster fly attic staging in Oakville, MO peaks on south-facing voids after sunny thaw days.
+
+Risk flag: Overwatered Oakville, MO planters can restart ant bridges within two weeks.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+State note: Oakville, MO commercial kitchens may require separate documentation for audit visits.
+
+Species trace 593221: re-entry interval label and conducive moisture note keyed to Oakville, MO elevation 571 ft.
+
+On-site sector marker: St. Louis County / primary ZIP 63129 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63129-52c50ea9

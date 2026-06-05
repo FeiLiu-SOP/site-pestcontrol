@@ -11,25 +11,39 @@ lng: -85.7400
 zipSample: ["32408", "32406", "32401", "32407", "32411"]
 zipCodes: ["32406", "32401", "32407", "32408", "32411"]
 localPaths: ["Bay County / coords 30.1700, -85.7400", "Bay County / ZIP 32401 sector", "Bay County / ZIP 32408 sector", "Bay County / ZIP 32411 sector", "Bay County / elevation 0 ft band"]
-zillowHomeValueUsd: 212876
 ---
 
-**Engineering Notice for Upper Grand Lagoon:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Bay County.
+**Engineering Notice for Upper Grand Lagoon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bay County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 32401.
+FAQ: Can bed bugs spread room-to-room in Upper Grand Lagoon, FL row homes? Wall voids and shared ducts accelerate transfer.
 
-Tip: request a written scope before work starts.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-We coordinate local dispatch coverage around Upper Grand Lagoon, FL and nearby ZIP sectors.
+Exclusion gaps at garage jambs in Upper Grand Lagoon, FL are common rodent access points.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Wildlife odors in Upper Grand Lagoon, FL crawlspaces may attract secondary pest activity.
 
-Field note: Access points and staging constraints recorded for ZIP 32401/32406/32408 coverage.
+Risk flag: In Upper Grand Lagoon, FL, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Dispatch sectors sampled: ZIP 32401, 32406, 32408, 32407, 32411 (county grid: Bay County).
+Bird mites in Upper Grand Lagoon, FL exhaust vents can persist after host nests are removed.
+
+Attic misting in Upper Grand Lagoon, FL requires combustion air clearance verified before fans restart.
+
+Attic fogging in Upper Grand Lagoon, FL requires combustion appliance shutoff verification first.
+
+Tip: Log pet access routes when bait stations are placed.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Cluster fly attic staging in Upper Grand Lagoon, FL peaks on south-facing voids after sunny thaw days.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Zone map 102468: attic insulation disturbance trace and pantry pest source logged for Upper Grand Lagoon, FL sector 32401.
+
+On-site sector marker: Bay County / ZIP 32411 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32401-8ad01915

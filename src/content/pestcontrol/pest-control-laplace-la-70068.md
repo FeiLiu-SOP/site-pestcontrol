@@ -11,24 +11,39 @@ lng: -90.4800
 zipSample: ["70068", "70069"]
 zipCodes: ["70068", "70069"]
 localPaths: ["St. John the Baptist Parish / primary ZIP 70068", "St. John the Baptist Parish / elevation -1 ft band", "St. John the Baptist Parish / ZIP 70068 sector", "St. John the Baptist Parish / ZIP 70069 sector", "St. John the Baptist Parish / coords 30.0700, -90.4800"]
-zillowHomeValueUsd: 214927
 ---
 
-**Engineering Notice for Laplace:** Structural loading calculated based on -1 ft terrain assessment. Regional dispatch grid: St. John the Baptist Parish.
+**Engineering Notice for Laplace:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. John the Baptist Parish.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In Laplace, LA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Laplace, LA, but intake notes help reduce delays.
+Fire ant mounds in Laplace, LA drive seams need granule rotation after irrigation events.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: Can bed bugs spread room-to-room in Laplace, LA row homes? Wall voids and shared ducts accelerate transfer.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Perimeter granules in Laplace, LA may need reapplication after heavy irrigation.
 
-Tip: confirm licensing and insurance before approving work.
+Step: record station placement maps for follow-up visits.
 
-Field note: Wind exposure category reviewed for ZIP sector 70069/70068.
+IGR packets for Laplace, LA roach cycles should be dated on station lids.
 
-Dispatch sectors sampled: ZIP 70069, 70068 (county grid: St. John the Baptist Parish).
+Silverfish activity in Laplace, LA attics tracks cardboard storage and ridge vent gaps.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Wildlife odors in Laplace, LA crawlspaces may attract secondary pest activity.
+
+Powderpost beetle exit holes in Laplace, LA trim can be mistaken for dry-wood frass without magnification.
+
+Tip: Date bait station lids when servicing Laplace, LA perimeter lines.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Species trace 291526: re-entry interval label and conducive moisture note keyed to Laplace, LA elevation -1 ft.
+
+Harbor ledger 291526: frass lane, mud-tube scan, and garage jamb gap measure filed for Laplace, LA at 30.0700, -90.4800.
+
+On-site sector marker: St. John the Baptist Parish / elevation -1 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70068-d7448bb5

@@ -11,24 +11,39 @@ lng: -111.6200
 zipSample: ["85142", "85140"]
 zipCodes: ["85140", "85142"]
 localPaths: ["Maricopa County / primary ZIP 85142", "Maricopa County / ZIP 85142 sector", "Maricopa County / elevation 1414 ft band", "Maricopa County / ZIP 85140 sector", "Maricopa County / coords 33.2500, -111.6200"]
-zillowHomeValueUsd: 584323
 ---
 
-**Engineering Notice for Queen Creek:** Structural loading calculated based on 1414 ft terrain assessment. Regional dispatch grid: Maricopa County.
+**Engineering Notice for Queen Creek:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Maricopa County.
 
 
-Our service coordination centers on Queen Creek, AZ coverage windows and verified intake details.
+Tip: Keep pet food elevated and sealed between service visits.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Tip: confirm licensing and insurance before approving work.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Tip: avoid large upfront payments without milestones.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Field note: Moisture pathway inspection logged near ZIP 85140/85142 intake.
+Bird mites in Queen Creek, AZ exhaust vents can persist after host nests are removed.
 
-Dispatch sectors sampled: ZIP 85140, 85142 (county grid: Maricopa County).
+IGR packets for Queen Creek, AZ roach cycles should be dated on station lids.
+
+Step: record station placement maps for follow-up visits.
+
+Seasonal pest pressure in Queen Creek, AZ shifts between moisture ants and dry-wood vectors.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+FAQ: Can bed bugs spread room-to-room in Queen Creek, AZ row homes? Wall voids and shared ducts accelerate transfer.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Harbor ledger 184908: frass lane, mud-tube scan, and garage jamb gap measure filed for Queen Creek, AZ at 33.2500, -111.6200.
+
+Intercept log 184908: bed bug intercept count staged before Queen Creek, AZ interior gel zones.
+
+On-site sector marker: Maricopa County / ZIP 85140 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85142-71b5960a

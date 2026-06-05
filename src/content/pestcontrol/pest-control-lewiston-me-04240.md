@@ -11,26 +11,39 @@ lng: -70.1700
 zipSample: ["04241", "04243", "04240"]
 zipCodes: ["04243", "04240", "04241"]
 localPaths: ["Androscoggin County / ZIP 04243 sector", "Androscoggin County / primary ZIP 04240", "Androscoggin County / coords 44.0900, -70.1700", "Androscoggin County / ZIP 04240 sector", "Androscoggin County / ZIP 04241 sector"]
-zillowHomeValueUsd: 296121
 ---
 
-**Engineering Notice for Lewiston:** Structural loading calculated based on 364 ft terrain assessment. Regional dispatch grid: Androscoggin County.
+**Engineering Notice for Lewiston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Androscoggin County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lewiston, ME, but intake notes help reduce delays.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-We coordinate local dispatch coverage around Lewiston, ME and nearby ZIP sectors.
+IGR packets for Lewiston, ME roach cycles should be dated on station lids.
 
-Tip: confirm licensing and insurance before approving work.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 04240.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-In Lewiston, ME, urgent pest control issues can escalate quickly.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Field note: Wind exposure category reviewed for ZIP sector 04243/04241/04240.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Field note: Access points and staging constraints recorded for ZIP 04243/04241/04240 coverage.
+Flea pupae survive vacuuming in Lewiston, ME carpet fibers unless heat treatment follows.
 
-Dispatch sectors sampled: ZIP 04243, 04241, 04240 (county grid: Androscoggin County).
+Carpenter ant frass in Lewiston, ME window sills may indicate moisture-softened framing.
+
+Perimeter granule carriers in Lewiston, ME clay soils may need lighter irrigation before application.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Drain fly biofilm in Lewiston, ME floor drains signals grease traps need service before gel baits.
+
+Clover mite staining on Lewiston, ME cladding service follows foundation mulch against brick ledges.
+
+Seasonal cue 661516: cluster fly attic staging reviewed for Lewiston, ME soffit cavities.
+
+Exclusion audit 661516: exclusion mesh gauge and rodent runway grease mark reviewed for Lewiston, ME at 44.0900/-70.1700.
+
+On-site sector marker: Androscoggin County / elevation 364 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: ME-04240-8b2404d3

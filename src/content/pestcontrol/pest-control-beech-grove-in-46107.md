@@ -11,24 +11,37 @@ lng: -86.0900
 zipSample: ["46203", "46107"]
 zipCodes: ["46107", "46203"]
 localPaths: ["Marion County / elevation 820 ft band", "Marion County / coords 39.7200, -86.0900", "Marion County / ZIP 46107 sector", "Marion County / ZIP 46203 sector", "Marion County / primary ZIP 46107"]
-zillowHomeValueUsd: 190342
 ---
 
-**Engineering Notice for Beech Grove:** Structural loading calculated based on 820 ft terrain assessment. Regional dispatch grid: Marion County.
+**Engineering Notice for Beech Grove:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marion County.
 
 
-Tip: request a written scope before work starts.
+Mosquito breeding in Beech Grove, IN catch basins can amplify perimeter callbacks.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Beech Grove, IN, but intake notes help reduce delays.
+IGR packets for Beech Grove, IN roach cycles should be dated on station lids.
 
-Our service coordination centers on Beech Grove, IN coverage windows and verified intake details.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 46107.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Drain fly biofilm in Beech Grove, IN floor drains signals grease traps need service before gel baits.
 
-Field note: Access points and staging constraints recorded for ZIP 46203/46107 coverage.
+Risk flag: Overwatered Beech Grove, IN planters can restart ant bridges within two weeks.
 
-Dispatch sectors sampled: ZIP 46203, 46107 (county grid: Marion County).
+Cluster fly attic staging in Beech Grove, IN peaks on south-facing voids after sunny thaw days.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 46107.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 46107.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Dry-wood termite pellets in Beech Grove, IN attics may appear before exterior mud tubes.
+
+Attic misting in Beech Grove, IN requires combustion air clearance verified before fans restart.
+
+Species trace 441853: re-entry interval label and conducive moisture note keyed to Beech Grove, IN elevation 820 ft.
+
+On-site sector marker: Marion County / coords 39.7200, -86.0900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46107-ee1c37ab

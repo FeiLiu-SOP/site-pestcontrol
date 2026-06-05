@@ -11,27 +11,41 @@ lng: -90.6800
 zipSample: ["72404", "72402", "72405", "72403", "72401"]
 zipCodes: ["72401", "72402", "72404", "72405", "72467", "72403"]
 localPaths: ["Craighead County / ZIP 72402 sector", "Craighead County / coords 35.8200, -90.6800", "Craighead County / ZIP 72405 sector", "Craighead County / ZIP 72401 sector", "Craighead County / ZIP 72403 sector"]
-zillowHomeValueUsd: 184542
 ---
 
-**Engineering Notice for Jonesboro:** Structural loading calculated based on 276 ft terrain assessment. Regional dispatch grid: Craighead County.
+**Engineering Notice for Jonesboro:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Craighead County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 72467.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-We coordinate local dispatch coverage around Jonesboro, AR and nearby ZIP sectors.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Tip: avoid large upfront payments without milestones.
+Drain fly biofilm in Jonesboro, AR floor drains signals grease traps need service before gel baits.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Why do pests return after spraying? Without sealing entry points in Jonesboro, AR, pressure often rebuilds.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 72404/72467/72401.
+IGR packets for Jonesboro, AR roach cycles should be dated on station lids.
 
-Field note: Access points and staging constraints recorded for ZIP 72404/72467/72401 coverage.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Jonesboro, AR.
 
-Dispatch sectors sampled: ZIP 72404, 72467, 72401, 72402, 72405 (county grid: Craighead County).
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Perimeter mulch beds in Jonesboro, AR should be reviewed for ant bridge paths.
+
+In Jonesboro, AR, subterranean termite swarms often follow warm rain windows.
+
+Yellow jacket nests in Jonesboro, AR soffit cavities peak in late summer routing windows.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Risk flag: Overwatered Jonesboro, AR planters can restart ant bridges within two weeks.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Exclusion audit 561736: exclusion mesh gauge and rodent runway grease mark reviewed for Jonesboro, AR at 35.8200/-90.6800.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Craighead County and primary ZIP 72467. Terrain reference: 276 ft. Center point: 35.8200, -90.6800. ZIP sample: 72402, 72403, 72405, 72401, 72467. Logistics priority: Serving residential sectors across Craighead County and north-east ZIP 72467 grid.
 
 Service reference: AR-72467-3422fdaa

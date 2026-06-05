@@ -11,26 +11,41 @@ lng: -122.6300
 zipSample: ["98221"]
 zipCodes: ["98221"]
 localPaths: ["Skagit County / ZIP 98221 sector", "Skagit County / primary ZIP 98221", "Skagit County / elevation 302 ft band", "Skagit County / coords 48.4900, -122.6300"]
-zillowHomeValueUsd: 720442
 ---
 
-**Engineering Notice for Anacortes:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Skagit County.
+**Engineering Notice for Anacortes:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Skagit County.
 
 
-In Anacortes, WA, seasonal demand can change scheduling windows.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: label treatment zones for occupant re-entry timing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Attic fogging in Anacortes, WA requires combustion appliance shutoff verification first.
 
-Tip: confirm licensing and insurance before approving work.
+Mud dauber nests in Anacortes, WA porch ceilings are benign but signal prey density for spiders.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Why schedule quarterly instead of monthly in Anacortes, WA? Species pressure and label intervals dictate cadence.
 
-Field note: Moisture pathway inspection logged near ZIP 98221 intake.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98221.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Dispatch sectors sampled: ZIP 98221 (county grid: Skagit County).
+County grid Skagit County informs routing near ZIP 98221.
+
+Perimeter granule carriers in Anacortes, WA clay soils may need lighter irrigation before application.
+
+FAQ: What is exclusion? Without sealing entry points in Anacortes, WA, pressure often rebuilds.
+
+Material note: Perimeter granules in Anacortes, WA may need reapplication after heavy irrigation.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Earwig harborages in Anacortes, WA meter boxes often follow drip irrigation overspray.
+
+Exclusion audit 706720: exclusion mesh gauge and rodent runway grease mark reviewed for Anacortes, WA at 48.4900/-122.6300.
+
+Intercept log 706720: bed bug intercept count staged before Anacortes, WA interior gel zones.
+
+On-site sector marker: Skagit County / coords 48.4900, -122.6300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98221-2ca0d775

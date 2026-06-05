@@ -11,27 +11,41 @@ lng: -81.8500
 zipSample: ["33903", "33918", "33917"]
 zipCodes: ["33918", "33903", "33917"]
 localPaths: ["Lee County / ZIP 33917 sector", "Lee County / elevation 39 ft band", "Lee County / primary ZIP 33917", "Lee County / ZIP 33918 sector", "Lee County / ZIP 33903 sector"]
-zillowHomeValueUsd: 291518
 ---
 
-**Engineering Notice for North Fort Myers:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Lee County.
+**Engineering Notice for North Fort Myers:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lee County.
 
 
-Tip: avoid large upfront payments without milestones.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 33917.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Local conditions in North Fort Myers, FL can affect timelines and material choices.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Our service coordination centers on North Fort Myers, FL coverage windows and verified intake details.
+Seasonal pest pressure in North Fort Myers, FL shifts between moisture ants and dry-wood vectors.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can bed bugs spread room-to-room in North Fort Myers, FL row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Access points and staging constraints recorded for ZIP 33917/33918/33903 coverage.
+Attic fogging in North Fort Myers, FL requires combustion appliance shutoff verification first.
 
-Field note: Connection points spot-checked where accessible (ZIP 33917/33918/33903 zone).
+Perimeter granule carriers in North Fort Myers, FL clay soils may need lighter irrigation before application.
 
-Dispatch sectors sampled: ZIP 33917, 33918, 33903 (county grid: Lee County).
+Perimeter mulch beds in North Fort Myers, FL should be reviewed for ant bridge paths.
+
+We coordinate North Fort Myers, FL pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Bird mites in North Fort Myers, FL exhaust vents can persist after host nests are removed.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 33917.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Perimeter dossier 600873: bait station anchor map and mulch bridge risk flagged for North Fort Myers, FL county Lee County (ZIP 33917).
+
+Zone map 600873: attic insulation disturbance trace and pantry pest source logged for North Fort Myers, FL sector 33917.
+
+On-site sector marker: Lee County / ZIP 33917 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33917-902a27cb

@@ -11,24 +11,37 @@ lng: -76.1400
 zipSample: ["13206", "13210", "13208", "13224", "13218"]
 zipCodes: ["13244", "13261", "13217", "13252", "13214", "13207", "13210", "13205", "13218", "13201", "13202", "13290"]
 localPaths: ["Onondaga County / ZIP 13210 sector", "Onondaga County / ZIP 13206 sector", "Onondaga County / ZIP 13208 sector", "Onondaga County / ZIP 13224 sector", "Onondaga County / ZIP 13218 sector"]
-zillowHomeValueUsd: 254839
 ---
 
-**Engineering Notice for Syracuse:** Structural loading calculated based on 410 ft terrain assessment. Regional dispatch grid: Onondaga County.
+**Engineering Notice for Syracuse:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Onondaga County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Flea pupae survive vacuuming in Syracuse, NY carpet fibers unless heat treatment follows.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Clover mite staining on Syracuse, NY vinyl panels follows foundation mulch against brick ledges.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Perimeter granules in Syracuse, NY may need reapplication after heavy irrigation.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Connection points spot-checked where accessible (ZIP 13203/13221/13205 zone).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 13210.
 
-Dispatch sectors sampled: ZIP 13203, 13221, 13205, 13214, 13202 (county grid: Onondaga County).
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Bird mites in Syracuse, NY exhaust vents can persist after host nests are removed.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Attic fogging in Syracuse, NY requires combustion appliance shutoff verification first.
+
+Perimeter dossier 321342: bait station anchor map and mulch bridge risk flagged for Syracuse, NY county Onondaga County (ZIP 13210).
+
+On-site sector marker: Onondaga County / ZIP 13235 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-13210-ce2323fa

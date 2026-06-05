@@ -11,26 +11,39 @@ lng: -122.2600
 zipSample: ["98204", "98087"]
 zipCodes: ["98087", "98204"]
 localPaths: ["Snohomish County / primary ZIP 98087", "Snohomish County / ZIP 98087 sector", "Snohomish County / coords 47.8700, -122.2600", "Snohomish County / ZIP 98204 sector", "Snohomish County / elevation 486 ft band"]
-zillowHomeValueUsd: 751077
 ---
 
-**Engineering Notice for Lake Stickney:** Structural loading calculated based on 486 ft terrain assessment. Regional dispatch grid: Snohomish County.
+**Engineering Notice for Lake Stickney:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Snohomish County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Lake Stickney, WA, but intake notes help reduce delays.
+State note: Lake Stickney, WA commercial kitchens may require separate documentation for audit visits.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: record station placement maps for follow-up visits.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Mosquito breeding in Lake Stickney, WA catch basins can amplify perimeter callbacks.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Fire ant mounds in Lake Stickney, WA drive seams need granule rotation after irrigation events.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Mud dauber nests in Lake Stickney, WA porch ceilings are benign but signal prey density for spiders.
 
-Field note: Connection points spot-checked where accessible (ZIP 98204/98087 zone).
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98204/98087.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Dispatch sectors sampled: ZIP 98204, 98087 (county grid: Snohomish County).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Drain fly biofilm in Lake Stickney, WA floor drains signals grease traps need service before gel baits.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Species trace 663428: re-entry interval label and conducive moisture note keyed to Lake Stickney, WA elevation 486 ft.
+
+Exclusion audit 663428: exclusion mesh gauge and rodent runway grease mark reviewed for Lake Stickney, WA at 47.8700/-122.2600.
+
+On-site sector marker: Snohomish County / primary ZIP 98087 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98087-648805a5

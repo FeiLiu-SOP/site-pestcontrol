@@ -11,27 +11,37 @@ lng: -93.6000
 zipSample: ["50023", "50021"]
 zipCodes: ["50023", "50021"]
 localPaths: ["Polk County / primary ZIP 50023", "Polk County / ZIP 50021 sector", "Polk County / ZIP 50023 sector", "Polk County / coords 41.7300, -93.6000", "Polk County / elevation 991 ft band"]
-zillowHomeValueUsd: 353292
 ---
 
-**Engineering Notice for Ankeny:** Structural loading calculated based on 991 ft terrain assessment. Regional dispatch grid: Polk County.
+**Engineering Notice for Ankeny:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Polk County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 50023.
 
-Structured milestones protect both sides when scheduling work.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 50023.
+FAQ: Can bed bugs spread room-to-room in Ankeny, IA row homes? Wall voids and shared ducts accelerate transfer.
 
-Our service coordination centers on Ankeny, IA coverage windows and verified intake details.
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Date bait station lids when servicing Ankeny, IA perimeter lines.
 
-Field note: Wind exposure category reviewed for ZIP sector 50023/50021.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Access points and staging constraints recorded for ZIP 50023/50021 coverage.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Dispatch sectors sampled: ZIP 50023, 50021 (county grid: Polk County).
+Material note: Perimeter granules in Ankeny, IA may need reapplication after heavy irrigation.
+
+Exclusion gaps at garage jambs in Ankeny, IA are common rodent access points.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Clover mite staining on Ankeny, IA vinyl panels follows foundation mulch against brick ledges.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Perimeter dossier 645814: bait station anchor map and mulch bridge risk flagged for Ankeny, IA county Polk County (ZIP 50023).
+
+On-site sector marker: Polk County / primary ZIP 50023 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-50023-3594d1de

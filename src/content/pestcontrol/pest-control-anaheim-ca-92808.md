@@ -11,26 +11,43 @@ lng: -117.8600
 zipSample: ["92804", "92807", "92801", "92825", "92805"]
 zipCodes: ["92815", "92803", "92899", "92806", "92816", "92817", "92804", "92812", "92825", "92809", "92802", "92808"]
 localPaths: ["Orange County / ZIP 92805 sector", "Orange County / elevation 184 ft band", "Orange County / ZIP 92804 sector", "Orange County / ZIP 92825 sector", "Orange County / ZIP 92807 sector"]
-zillowHomeValueUsd: 1216144
 ---
 
-**Engineering Notice for Anaheim:** Structural loading calculated based on 184 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Anaheim:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.
 
 
-Tip: request a written scope before work starts.
+Bird mites in Anaheim, CA exhaust vents can persist after host nests are removed.
 
-Local conditions in Anaheim, CA can affect timelines and material choices.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Our service coordination centers on Anaheim, CA coverage windows and verified intake details.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Anaheim, CA, but intake notes help reduce delays.
+Attic fogging in Anaheim, CA requires combustion appliance shutoff verification first.
 
-Field note: Connection points spot-checked where accessible (ZIP 92809/92806/92817 zone).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Field note: Moisture pathway inspection logged near ZIP 92809/92806/92817 intake.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Dispatch sectors sampled: ZIP 92809, 92806, 92817, 92803, 92899 (county grid: Orange County).
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+FAQ: What is exclusion? Without sealing entry points in Anaheim, CA, pressure often rebuilds.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 92808.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Perimeter mulch beds in Anaheim, CA should be reviewed for ant bridge paths.
+
+Harbor ledger 110823: frass lane, mud-tube scan, and garage jamb gap measure filed for Anaheim, CA at 33.8400, -117.8600.
+
+Seasonal cue 110823: cluster fly attic staging reviewed for Anaheim, CA soffit cavities.
+
+On-site sector marker: Orange County / ZIP 92816 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92808-f2f4ff4b

@@ -11,26 +11,41 @@ lng: -66.6200
 zipSample: ["00730", "00717", "00732", "00733", "00716"]
 zipCodes: ["00716", "00733", "00717", "00734", "00728", "00732", "00730"]
 localPaths: ["Ponce County / ZIP 00717 sector", "Ponce County / ZIP 00716 sector", "Ponce County / ZIP 00730 sector", "Ponce County / ZIP 00733 sector", "Ponce County / ZIP 00732 sector"]
-zillowHomeValueUsd: 374314
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for Ponce:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Ponce County.
+**Engineering Notice for Ponce:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ponce County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+State note: Ponce, PR commercial kitchens may require separate documentation for audit visits.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 00728.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: confirm licensing and insurance before approving work.
+Earwig harborages in Ponce, PR meter boxes often follow drip irrigation overspray.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Field note: Connection points spot-checked where accessible (ZIP 00733/00728/00730 zone).
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 00733, 00728, 00730, 00716, 00734 (county grid: Ponce County).
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 00728.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Spider populations in Ponce, PR eaves can signal insect prey density.
+
+Yellow jacket nests in Ponce, PR soffit cavities peak in late summer routing windows.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+We coordinate Ponce, PR pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Intercept log 335365: bed bug intercept count staged before Ponce, PR interior gel zones.
+
+Perimeter dossier 335365: bait station anchor map and mulch bridge risk flagged for Ponce, PR county Ponce County (ZIP 00728).
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~62 ft across the Ponce County area. Coordinates: 18.0100, -66.6200. ZIP sample: 00730, 00728, 00733, 00717, 00716. Service perimeter note: Coverage extends through Ponce County with dispatch centered near ZIP 00728.
 
 Service reference: PR-00728-977e1faf

@@ -11,27 +11,37 @@ lng: -83.1200
 zipSample: ["43302"]
 zipCodes: ["43302"]
 localPaths: ["Marion County / coords 40.6000, -83.1200", "Marion County / elevation 994 ft band", "Marion County / ZIP 43302 sector", "Marion County / primary ZIP 43302"]
-zillowHomeValueUsd: 165596
 ---
 
-**Engineering Notice for Marion:** Structural loading calculated based on 994 ft terrain assessment. Regional dispatch grid: Marion County.
+**Engineering Notice for Marion:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marion County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 43302.
+State note: Marion, OH commercial kitchens may require separate documentation for audit visits.
 
-Transparent pricing helps you compare like-for-like scope items.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 43302.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Marion, OH, but intake notes help reduce delays.
+Step: map entry points with photo logs before sealing.
 
-Our service coordination centers on Marion, OH coverage windows and verified intake details.
+Earwig harborages in Marion, OH meter boxes often follow drip irrigation overspray.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 43302.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Connection points spot-checked where accessible (ZIP 43302 zone).
+Material note: Perimeter granules in Marion, OH may need reapplication after heavy irrigation.
 
-Dispatch sectors sampled: ZIP 43302 (county grid: Marion County).
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 43302.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Marion, OH.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Silverfish activity in Marion, OH attics tracks cardboard storage and ridge vent gaps.
+
+Harbor ledger 572763: frass lane, mud-tube scan, and garage jamb gap measure filed for Marion, OH at 40.6000, -83.1200.
+
+On-site sector marker: Marion County / ZIP 43302 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-43302-828dda4f

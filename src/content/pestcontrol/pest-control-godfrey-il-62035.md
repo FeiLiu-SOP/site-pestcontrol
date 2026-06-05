@@ -11,26 +11,41 @@ lng: -90.2200
 zipSample: ["62035"]
 zipCodes: ["62035"]
 localPaths: ["Madison County / elevation 587 ft band", "Madison County / ZIP 62035 sector", "Madison County / coords 38.9600, -90.2200", "Madison County / primary ZIP 62035"]
-zillowHomeValueUsd: 213343
 ---
 
-**Engineering Notice for Godfrey:** Structural loading calculated based on 587 ft terrain assessment. Regional dispatch grid: Madison County.
+**Engineering Notice for Godfrey:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Madison County.
 
 
-Tip: request a written scope before work starts.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Our service coordination centers on Godfrey, IL coverage windows and verified intake details.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 62035.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Godfrey, IL, but intake notes help reduce delays.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Homeowners in Godfrey, IL often face sudden pest control problems that require fast action.
+FAQ: Can bed bugs spread room-to-room in Godfrey, IL row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Moisture pathway inspection logged near ZIP 62035 intake.
+Stink bug overwinter seams in Godfrey, IL cladding service laps require exclusion foam rated for UV exposure.
 
-Field note: Wind exposure category reviewed for ZIP sector 62035.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Dispatch sectors sampled: ZIP 62035 (county grid: Madison County).
+Step: label treatment zones for occupant re-entry timing.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Spider populations in Godfrey, IL eaves can signal insect prey density.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Godfrey, IL, pressure often rebuilds.
+
+Species trace 587245: re-entry interval label and conducive moisture note keyed to Godfrey, IL elevation 587 ft.
+
+Harbor ledger 587245: frass lane, mud-tube scan, and garage jamb gap measure filed for Godfrey, IL at 38.9600, -90.2200.
+
+Regional mesh label Madison County: moisture and logistics baselines are keyed to Godfrey, IL before niche-specific work begins.
 
 Service reference: IL-62035-bcc2ba6a

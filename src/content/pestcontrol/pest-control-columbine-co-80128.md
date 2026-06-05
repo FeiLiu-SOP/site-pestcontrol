@@ -11,27 +11,39 @@ lng: -105.0700
 zipSample: ["80128", "80123"]
 zipCodes: ["80128", "80123"]
 localPaths: ["Jefferson County / ZIP 80123 sector", "Jefferson County / elevation 5554 ft band", "Jefferson County / coords 39.5900, -105.0700", "Jefferson County / ZIP 80128 sector", "Jefferson County / primary ZIP 80128"]
-zillowHomeValueUsd: 602621
 ---
 
-**Engineering Notice for Columbine:** Structural loading calculated based on 5554 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Columbine:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 80128.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 80128.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Columbine, CO, but intake notes help reduce delays.
+Risk flag: In Columbine, CO, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Tip: compare at least two estimates for scope and timeline.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 80128.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Fire ant mounds in Columbine, CO drive seams need granule rotation after irrigation events.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: label treatment zones for occupant re-entry timing.
 
-Field note: Wind exposure category reviewed for ZIP sector 80123/80128.
+Stink bug overwinter seams in Columbine, CO cladding service laps require exclusion foam rated for UV exposure.
 
-Field note: Moisture pathway inspection logged near ZIP 80123/80128 intake.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Dispatch sectors sampled: ZIP 80123, 80128 (county grid: Jefferson County).
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 80128.
+
+Tip: Date bait station lids when servicing Columbine, CO perimeter lines.
+
+Flea pupae survive vacuuming in Columbine, CO carpet fibers unless heat treatment follows.
+
+Attic misting in Columbine, CO requires combustion air clearance verified before fans restart.
+
+Harbor ledger 842460: frass lane, mud-tube scan, and garage jamb gap measure filed for Columbine, CO at 39.5900, -105.0700.
+
+Exclusion audit 842460: exclusion mesh gauge and rodent runway grease mark reviewed for Columbine, CO at 39.5900/-105.0700.
+
+On-site sector marker: Jefferson County / ZIP 80123 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80128-8e3bdb91

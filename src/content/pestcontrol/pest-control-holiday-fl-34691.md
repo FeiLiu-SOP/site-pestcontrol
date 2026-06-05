@@ -11,26 +11,39 @@ lng: -82.7400
 zipSample: ["34690", "34691", "34692"]
 zipCodes: ["34692", "34691", "34690"]
 localPaths: ["Pasco County / ZIP 34690 sector", "Pasco County / primary ZIP 34691", "Pasco County / elevation 26 ft band", "Pasco County / ZIP 34692 sector", "Pasco County / ZIP 34691 sector"]
-zillowHomeValueUsd: 225160
 ---
 
-**Engineering Notice for Holiday:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Pasco County.
+**Engineering Notice for Holiday:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pasco County.
 
 
-We coordinate local dispatch coverage around Holiday, FL and nearby ZIP sectors.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-In Holiday, FL, seasonal demand can change scheduling windows.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Transparent pricing helps you compare like-for-like scope items.
+Perimeter mulch beds in Holiday, FL should be reviewed for ant bridge paths.
 
-Tip: request a written scope before work starts.
+Tip: Keep pet food elevated and sealed between service visits.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Attic fogging in Holiday, FL requires combustion appliance shutoff verification first.
 
-Field note: Connection points spot-checked where accessible (ZIP 34692/34690/34691 zone).
+Powderpost beetle exit holes in Holiday, FL trim can be mistaken for dry-wood frass without magnification.
 
-Field note: Access points and staging constraints recorded for ZIP 34692/34690/34691 coverage.
+Attic misting in Holiday, FL requires combustion air clearance verified before fans restart.
 
-Dispatch sectors sampled: ZIP 34692, 34690, 34691 (county grid: Pasco County).
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 34691.
+
+Risk flag: Overwatered Holiday, FL planters can restart ant bridges within two weeks.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 34691.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+FAQ: Why schedule quarterly instead of monthly in Holiday, FL? Species pressure and label intervals dictate cadence.
+
+Seasonal cue 455379: cluster fly attic staging reviewed for Holiday, FL soffit cavities.
+
+On-site sector marker: Pasco County / ZIP 34690 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34691-08b0e906

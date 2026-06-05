@@ -11,24 +11,39 @@ lng: -116.6600
 zipSample: ["83605", "83607"]
 zipCodes: ["83607", "83605"]
 localPaths: ["Canyon County / elevation 2398 ft band", "Canyon County / ZIP 83607 sector", "Canyon County / coords 43.6500, -116.6600", "Canyon County / ZIP 83605 sector", "Canyon County / primary ZIP 83607"]
-zillowHomeValueUsd: 448723
 ---
 
-**Engineering Notice for Caldwell:** Structural loading calculated based on 2398 ft terrain assessment. Regional dispatch grid: Canyon County.
+**Engineering Notice for Caldwell:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Canyon County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Caldwell, ID, but intake notes help reduce delays.
+FAQ: Can bed bugs spread room-to-room in Caldwell, ID row homes? Wall voids and shared ducts accelerate transfer.
 
-Homeowners in Caldwell, ID often face sudden pest control problems that require fast action.
+Mud dauber nests in Caldwell, ID porch ceilings are benign but signal prey density for spiders.
 
-A written scope helps prevent rework and mismatched expectations.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Overwatered Caldwell, ID planters can restart ant bridges within two weeks.
 
-We coordinate local dispatch coverage around Caldwell, ID and nearby ZIP sectors.
+Cluster fly attic staging in Caldwell, ID peaks on south-facing voids after sunny thaw days.
 
-Field note: Connection points spot-checked where accessible (ZIP 83605/83607 zone).
+Powderpost beetle exit holes in Caldwell, ID trim can be mistaken for dry-wood frass without magnification.
 
-Dispatch sectors sampled: ZIP 83605, 83607 (county grid: Canyon County).
+FAQ: Why schedule quarterly instead of monthly in Caldwell, ID? Species pressure and label intervals dictate cadence.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Step: verify attic access safety before insulation disturbance.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Carpenter ant frass in Caldwell, ID window sills may indicate moisture-softened framing.
+
+Step: map entry points with photo logs before sealing.
+
+County grid Canyon County informs routing near ZIP 83607.
+
+Seasonal cue 149218: cluster fly attic staging reviewed for Caldwell, ID soffit cavities.
+
+Coordinate-anchored dispatch note: center reference 43.6500, -116.6600 at elevation ~2398 ft aligns with Canyon County intake staging.
 
 Service reference: ID-83607-09d74324

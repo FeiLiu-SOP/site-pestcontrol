@@ -11,26 +11,39 @@ lng: -122.1900
 zipSample: ["98058", "98057", "98056", "98055", "98059"]
 zipCodes: ["98055", "98059", "98056", "98058", "98057"]
 localPaths: ["King County / ZIP 98059 sector", "King County / ZIP 98057 sector", "King County / ZIP 98058 sector", "King County / elevation 95 ft band", "King County / ZIP 98055 sector"]
-zillowHomeValueUsd: 981960
 ---
 
-**Engineering Notice for Renton:** Structural loading calculated based on 95 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Renton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.
 
 
-Tip: request a written scope before work starts.
+Attic fogging in Renton, WA requires combustion appliance shutoff verification first.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Overwatered Renton, WA planters can restart ant bridges within two weeks.
 
-Structured milestones protect both sides when scheduling work.
+State note: Renton, WA commercial kitchens may require separate documentation for audit visits.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Spider populations in Renton, WA eaves can signal insect prey density.
 
-Clear documentation helps align materials, labor, and timeline.
+Seasonal pest pressure in Renton, WA shifts between moisture ants and dry-wood vectors.
 
-Field note: Moisture pathway inspection logged near ZIP 98059/98055/98058 intake.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Wind exposure category reviewed for ZIP sector 98059/98055/98058.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Dispatch sectors sampled: ZIP 98059, 98055, 98058, 98057, 98056 (county grid: King County).
+IGR packets for Renton, WA roach cycles should be dated on station lids.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Harbor ledger 429070: frass lane, mud-tube scan, and garage jamb gap measure filed for Renton, WA at 47.4800, -122.1900.
+
+Intercept log 429070: bed bug intercept count staged before Renton, WA interior gel zones.
+
+On-site sector marker: King County / ZIP 98059 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98059-e4ce9395

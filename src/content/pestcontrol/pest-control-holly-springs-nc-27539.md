@@ -11,24 +11,37 @@ lng: -78.8400
 zipSample: ["27539", "27540"]
 zipCodes: ["27539", "27540"]
 localPaths: ["Wake County / ZIP 27539 sector", "Wake County / coords 35.6500, -78.8400", "Wake County / ZIP 27540 sector", "Wake County / primary ZIP 27539", "Wake County / elevation 420 ft band"]
-zillowHomeValueUsd: 604336
 ---
 
-**Engineering Notice for Holly Springs:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: Wake County.
+**Engineering Notice for Holly Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wake County.
 
 
-We coordinate local dispatch coverage around Holly Springs, NC and nearby ZIP sectors.
+Seasonal pest pressure in Holly Springs, NC shifts between moisture ants and dry-wood vectors.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Holly Springs, NC, but intake notes help reduce delays.
+Powderpost beetle exit holes in Holly Springs, NC trim can be mistaken for dry-wood frass without magnification.
 
-Homeowners in Holly Springs, NC often face sudden pest control problems that require fast action.
+Step: record station placement maps for follow-up visits.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Attic misting in Holly Springs, NC requires combustion air clearance verified before fans restart.
 
-Field note: Wind exposure category reviewed for ZIP sector 27540/27539.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 27540, 27539 (county grid: Wake County).
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Monitoring boards in Holly Springs, NC crawlspaces stay 72 hours before snap traps are reset.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Perimeter granule carriers in Holly Springs, NC clay soils may need lighter irrigation before application.
+
+Perimeter dossier 396149: bait station anchor map and mulch bridge risk flagged for Holly Springs, NC county Wake County (ZIP 27539).
+
+Regional mesh label Wake County: moisture and logistics baselines are keyed to Holly Springs, NC before niche-specific work begins.
 
 Service reference: NC-27539-a2be87b8

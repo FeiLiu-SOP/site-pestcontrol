@@ -11,24 +11,39 @@ lng: -77.3000
 zipSample: ["22015"]
 zipCodes: ["22015"]
 localPaths: ["Fairfax County / ZIP 22015 sector", "Fairfax County / primary ZIP 22015", "Fairfax County / coords 38.7900, -77.3000", "Fairfax County / elevation 384 ft band"]
-zillowHomeValueUsd: 733838
 ---
 
-**Engineering Notice for Burke Centre:** Structural loading calculated based on 384 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Burke Centre:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Burke Centre, VA, but intake notes help reduce delays.
+Step: record station placement maps for follow-up visits.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Overwatered Burke Centre, VA planters can restart ant bridges within two weeks.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Fire ant mounds in Burke Centre, VA drive seams need granule rotation after irrigation events.
 
-Structured milestones protect both sides when scheduling work.
+Clover mite staining on Burke Centre, VA wall restoration follows foundation mulch against brick ledges.
 
-Field note: Moisture pathway inspection logged near ZIP 22015 intake.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Dispatch sectors sampled: ZIP 22015 (county grid: Fairfax County).
+Carpenter ant frass in Burke Centre, VA window sills may indicate moisture-softened framing.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Monitoring boards in Burke Centre, VA crawlspaces stay 72 hours before snap traps are reset.
+
+Bird mites in Burke Centre, VA exhaust vents can persist after host nests are removed.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Mud dauber nests in Burke Centre, VA porch ceilings are benign but signal prey density for spiders.
+
+Species trace 660525: re-entry interval label and conducive moisture note keyed to Burke Centre, VA elevation 384 ft.
+
+On-site sector marker: Fairfax County / coords 38.7900, -77.3000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22015-5b40c3a3

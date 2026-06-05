@@ -11,24 +11,39 @@ lng: -121.9700
 zipSample: ["94506", "94526"]
 zipCodes: ["94506", "94526"]
 localPaths: ["Contra Costa County / elevation 469 ft band", "Contra Costa County / primary ZIP 94506", "Contra Costa County / ZIP 94506 sector", "Contra Costa County / ZIP 94526 sector", "Contra Costa County / coords 37.8100, -121.9700"]
-zillowHomeValueUsd: 2084236
 ---
 
-**Engineering Notice for Danville:** Structural loading calculated based on 469 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Danville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Tip: compare at least two estimates for scope and timeline.
+Bird mites in Danville, CA exhaust vents can persist after host nests are removed.
 
-Tip: confirm licensing and insurance before approving work.
+Monitoring boards in Danville, CA crawlspaces stay 72 hours before snap traps are reset.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Danville, CA, but intake notes help reduce delays.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Our service coordination centers on Danville, CA coverage windows and verified intake details.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Moisture pathway inspection logged near ZIP 94506/94526 intake.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Dispatch sectors sampled: ZIP 94506, 94526 (county grid: Contra Costa County).
+Step: label treatment zones for occupant re-entry timing.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Perimeter granule carriers in Danville, CA clay soils may need lighter irrigation before application.
+
+Powderpost beetle exit holes in Danville, CA trim can be mistaken for dry-wood frass without magnification.
+
+IGR packets for Danville, CA roach cycles should be dated on station lids.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Species trace 454092: re-entry interval label and conducive moisture note keyed to Danville, CA elevation 469 ft.
+
+Zone map 454092: attic insulation disturbance trace and pantry pest source logged for Danville, CA sector 94506.
+
+On-site sector marker: Contra Costa County / primary ZIP 94506 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94506-c4f5f51c

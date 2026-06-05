@@ -11,24 +11,39 @@ lng: -78.9800
 zipSample: ["28301", "28310", "28305", "28309", "28314"]
 zipCodes: ["28309", "28305", "28390", "28307", "28310", "28304", "28302", "28301", "28303", "28306", "28311", "28308"]
 localPaths: ["Cumberland County / ZIP 28310 sector", "Cumberland County / ZIP 28301 sector", "Cumberland County / ZIP 28309 sector", "Cumberland County / primary ZIP 28390", "Cumberland County / ZIP 28314 sector"]
-zillowHomeValueUsd: 247998
 ---
 
-**Engineering Notice for Fayetteville:** Structural loading calculated based on 233 ft terrain assessment. Regional dispatch grid: Cumberland County.
+**Engineering Notice for Fayetteville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cumberland County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Powderpost beetle exit holes in Fayetteville, NC trim can be mistaken for dry-wood frass without magnification.
 
-Tip: confirm licensing and insurance before approving work.
+Mud dauber nests in Fayetteville, NC porch ceilings are benign but signal prey density for spiders.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+State note: Fayetteville, NC commercial kitchens may require separate documentation for audit visits.
 
-Field note: Wind exposure category reviewed for ZIP sector 28308/28307/28304.
+Bird mites in Fayetteville, NC exhaust vents can persist after host nests are removed.
 
-Dispatch sectors sampled: ZIP 28308, 28307, 28304, 28314, 28309 (county grid: Cumberland County).
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 28390.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+FAQ: Why schedule quarterly instead of monthly in Fayetteville, NC? Species pressure and label intervals dictate cadence.
+
+Attic fogging in Fayetteville, NC requires combustion appliance shutoff verification first.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Zone map 519984: attic insulation disturbance trace and pantry pest source logged for Fayetteville, NC sector 28390.
+
+On-site sector marker: Cumberland County / ZIP 28314 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28390-4e4677d0

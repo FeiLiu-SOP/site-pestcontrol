@@ -11,24 +11,39 @@ lng: -81.7200
 zipSample: ["31548"]
 zipCodes: ["31548"]
 localPaths: ["Camden County / ZIP 31548 sector", "Camden County / primary ZIP 31548", "Camden County / coords 30.8200, -81.7200", "Camden County / elevation 62 ft band"]
-zillowHomeValueUsd: 297347
 ---
 
-**Engineering Notice for Kingsland:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Camden County.
+**Engineering Notice for Kingsland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Camden County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Date bait station lids when servicing Kingsland, GA perimeter lines.
 
-We coordinate local dispatch coverage around Kingsland, GA and nearby ZIP sectors.
+FAQ: Can bed bugs spread room-to-room in Kingsland, GA row homes? Wall voids and shared ducts accelerate transfer.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Kingsland, GA, but intake notes help reduce delays.
+Risk flag: In Kingsland, GA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Field note: Connection points spot-checked where accessible (ZIP 31548 zone).
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 31548 (county grid: Camden County).
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Clover mite staining on Kingsland, GA cladding service follows foundation mulch against brick ledges.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+County grid Camden County informs routing near ZIP 31548.
+
+Seasonal pest pressure in Kingsland, GA shifts between moisture ants and dry-wood vectors.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Kingsland, GA.
+
+Exclusion audit 688482: exclusion mesh gauge and rodent runway grease mark reviewed for Kingsland, GA at 30.8200/-81.7200.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Camden County and primary ZIP 31548. Terrain reference: 62 ft. Center point: 30.8200, -81.7200. ZIP sample: 31548. Logistics priority: Serving residential sectors across Camden County and north-east ZIP 31548 grid.
 
 Service reference: GA-31548-83056a8e

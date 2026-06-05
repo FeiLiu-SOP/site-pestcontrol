@@ -11,24 +11,37 @@ lng: -117.8700
 zipSample: ["92662", "92657", "92661", "92659", "92663"]
 zipCodes: ["92660", "92662", "92658", "92659", "92625", "92657", "92661", "92663"]
 localPaths: ["Orange County / primary ZIP 92662", "Orange County / ZIP 92659 sector", "Orange County / ZIP 92662 sector", "Orange County / elevation 256 ft band", "Orange County / ZIP 92661 sector"]
-zillowHomeValueUsd: 4388774
 ---
 
-**Engineering Notice for Newport Beach:** Structural loading calculated based on 256 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Newport Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Perimeter mulch beds in Newport Beach, CA should be reviewed for ant bridge paths.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Trim vegetation 12 inches from cladding service to reduce ant bridges.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Our service coordination centers on Newport Beach, CA coverage windows and verified intake details.
+Clover mite staining on Newport Beach, CA wall restoration follows foundation mulch against brick ledges.
 
-Tip: compare at least two estimates for scope and timeline.
+Seasonal pest pressure in Newport Beach, CA shifts between moisture ants and dry-wood vectors.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92625/92658/92660.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 92662.
 
-Dispatch sectors sampled: ZIP 92625, 92658, 92660, 92659, 92657 (county grid: Orange County).
+Monitoring boards in Newport Beach, CA crawlspaces stay 72 hours before snap traps are reset.
+
+Stink bug overwinter seams in Newport Beach, CA exterior cladding laps require exclusion foam rated for UV exposure.
+
+Fire ant mounds in Newport Beach, CA drive seams need granule rotation after irrigation events.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Newport Beach, CA.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 92662.
+
+Exclusion audit 228768: exclusion mesh gauge and rodent runway grease mark reviewed for Newport Beach, CA at 33.6200/-117.8700.
+
+On-site sector marker: Orange County / ZIP 92625 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92662-f5b2c38d

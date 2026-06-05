@@ -11,26 +11,39 @@ lng: -78.4500
 zipSample: ["27520", "27528", "27527"]
 zipCodes: ["27527", "27528", "27520"]
 localPaths: ["Johnston County / ZIP 27520 sector", "Johnston County / ZIP 27528 sector", "Johnston County / primary ZIP 27520", "Johnston County / coords 35.6600, -78.4500", "Johnston County / elevation 305 ft band"]
-zillowHomeValueUsd: 337466
 ---
 
-**Engineering Notice for Clayton:** Structural loading calculated based on 305 ft terrain assessment. Regional dispatch grid: Johnston County.
+**Engineering Notice for Clayton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Johnston County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Can bed bugs spread room-to-room in Clayton, NC row homes? Wall voids and shared ducts accelerate transfer.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Clayton, NC.
 
-Transparent pricing helps you compare like-for-like scope items.
+State note: Clayton, NC commercial kitchens may require separate documentation for audit visits.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Log pet access routes when bait stations are placed.
 
-Tip: avoid large upfront payments without milestones.
+Mud dauber nests in Clayton, NC porch ceilings are benign but signal prey density for spiders.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 27528/27520/27527.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Field note: Wind exposure category reviewed for ZIP sector 27528/27520/27527.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 27528, 27520, 27527 (county grid: Johnston County).
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 27520.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Powderpost beetle exit holes in Clayton, NC trim can be mistaken for dry-wood frass without magnification.
+
+Step: map entry points with photo logs before sealing.
+
+Perimeter dossier 609626: bait station anchor map and mulch bridge risk flagged for Clayton, NC county Johnston County (ZIP 27520).
+
+On-site sector marker: Johnston County / ZIP 27527 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-27520-71798aae

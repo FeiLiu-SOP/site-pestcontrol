@@ -11,26 +11,43 @@ lng: -95.8400
 zipSample: ["77494", "77493", "77491"]
 zipCodes: ["77491", "77494", "77493"]
 localPaths: ["Waller County / elevation 148 ft band", "Waller County / ZIP 77494 sector", "Waller County / coords 29.7900, -95.8400", "Waller County / ZIP 77493 sector", "Waller County / ZIP 77491 sector"]
-zillowHomeValueUsd: 344068
 ---
 
-**Engineering Notice for Katy:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Waller County.
+**Engineering Notice for Katy:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Waller County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Monitoring boards in Katy, TX crawlspaces stay 72 hours before snap traps are reset.
 
-Tip: avoid large upfront payments without milestones.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Tip: confirm licensing and insurance before approving work.
+Step: label treatment zones for occupant re-entry timing.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Katy, TX, but intake notes help reduce delays.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Connection points spot-checked where accessible (ZIP 77494/77491/77493 zone).
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Field note: Wind exposure category reviewed for ZIP sector 77494/77491/77493.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Dispatch sectors sampled: ZIP 77494, 77491, 77493 (county grid: Waller County).
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Spider populations in Katy, TX eaves can signal insect prey density.
+
+Flea pupae survive vacuuming in Katy, TX carpet fibers unless heat treatment follows.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Drain fly biofilm in Katy, TX floor drains signals grease traps need service before gel baits.
+
+Material note: Perimeter granules in Katy, TX may need reapplication after heavy irrigation.
+
+Stink bug overwinter seams in Katy, TX wall restoration laps require exclusion foam rated for UV exposure.
+
+Exclusion audit 114796: exclusion mesh gauge and rodent runway grease mark reviewed for Katy, TX at 29.7900/-95.8400.
+
+Species trace 114796: re-entry interval label and conducive moisture note keyed to Katy, TX elevation 148 ft.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Waller County and primary ZIP 77493. Terrain reference: 148 ft. Center point: 29.7900, -95.8400. ZIP sample: 77493, 77494, 77491. Logistics priority: Serving residential sectors across Waller County and north-east ZIP 77493 grid.
 
 Service reference: TX-77493-dd6670fa

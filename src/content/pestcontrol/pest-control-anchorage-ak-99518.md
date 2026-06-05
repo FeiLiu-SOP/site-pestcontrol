@@ -11,25 +11,39 @@ lng: -149.1100
 zipSample: ["99507", "99508", "99522", "99509", "99504"]
 zipCodes: ["99517", "99520", "99501", "99587", "99530", "99510", "99511", "99577", "99514", "99599", "99567", "99529"]
 localPaths: ["Anchorage County / ZIP 99509 sector", "Anchorage County / coords 61.1500, -149.1100", "Anchorage County / primary ZIP 99518", "Anchorage County / ZIP 99507 sector", "Anchorage County / ZIP 99508 sector"]
-zillowHomeValueUsd: 332171
 ---
 
-**Engineering Notice for Anchorage:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Anchorage County.
+**Engineering Notice for Anchorage:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anchorage County.
 
 
-Tip: avoid large upfront payments without milestones.
+Yellow jacket nests in Anchorage, AK soffit cavities peak in late summer routing windows.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Flea pupae survive vacuuming in Anchorage, AK carpet fibers unless heat treatment follows.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Anchorage, AK, but intake notes help reduce delays.
+In Anchorage, AK, subterranean termite swarms often follow warm rain windows.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 99518.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Connection points spot-checked where accessible (ZIP 99501/99514/99522 zone).
+Mud dauber nests in Anchorage, AK porch ceilings are benign but signal prey density for spiders.
 
-Dispatch sectors sampled: ZIP 99501, 99514, 99522, 99502, 99511 (county grid: Anchorage County).
+Tip: Keep pet food elevated and sealed between service visits.
+
+Carpenter ant frass in Anchorage, AK window sills may indicate moisture-softened framing.
+
+Step: verify attic access safety before insulation disturbance.
+
+Monitoring boards in Anchorage, AK crawlspaces stay 72 hours before snap traps are reset.
+
+Attic insulation disturbance in Anchorage, AK may indicate wildlife nesting routes.
+
+Exclusion gaps at garage jambs in Anchorage, AK are common rodent access points.
+
+Seasonal cue 197922: cluster fly attic staging reviewed for Anchorage, AK soffit cavities.
+
+Exclusion audit 197922: exclusion mesh gauge and rodent runway grease mark reviewed for Anchorage, AK at 61.1500/-149.1100.
+
+On-site sector marker: Anchorage County / primary ZIP 99518 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AK-99518-eebaeb9c

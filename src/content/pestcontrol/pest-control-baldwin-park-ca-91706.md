@@ -11,24 +11,37 @@ lng: -117.9700
 zipSample: ["91706"]
 zipCodes: ["91706"]
 localPaths: ["Los Angeles County / primary ZIP 91706", "Los Angeles County / ZIP 91706 sector", "Los Angeles County / coords 34.0800, -117.9700", "Los Angeles County / elevation 354 ft band"]
-zillowHomeValueUsd: 723263
 ---
 
-**Engineering Notice for Baldwin Park:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Baldwin Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Stink bug overwinter seams in Baldwin Park, CA cladding service laps require exclusion foam rated for UV exposure.
 
-We coordinate local dispatch coverage around Baldwin Park, CA and nearby ZIP sectors.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 91706.
 
-Tip: request a written scope before work starts.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 91706.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 91706 (county grid: Los Angeles County).
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 91706.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Flea pupae survive vacuuming in Baldwin Park, CA carpet fibers unless heat treatment follows.
+
+County grid Los Angeles County informs routing near ZIP 91706.
+
+FAQ: Why schedule quarterly instead of monthly in Baldwin Park, CA? Species pressure and label intervals dictate cadence.
+
+Carpenter ant frass in Baldwin Park, CA window sills may indicate moisture-softened framing.
+
+Seasonal cue 156962: cluster fly attic staging reviewed for Baldwin Park, CA soffit cavities.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Los Angeles County and primary ZIP 91706. Terrain reference: 354 ft. Center point: 34.0800, -117.9700. ZIP sample: 91706. Service perimeter note: Coverage extends through Los Angeles County with dispatch centered near ZIP 91706.
 
 Service reference: CA-91706-64965835

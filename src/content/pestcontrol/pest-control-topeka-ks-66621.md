@@ -11,27 +11,37 @@ lng: -95.7000
 zipSample: ["66647", "66625", "66624", "66603", "66614"]
 zipCodes: ["66626", "66624", "66621", "66699", "66604", "66601", "66606", "66605", "66647", "66622", "66614", "66609"]
 localPaths: ["Shawnee County / ZIP 66614 sector", "Shawnee County / ZIP 66625 sector", "Shawnee County / ZIP 66647 sector", "Shawnee County / ZIP 66624 sector", "Shawnee County / primary ZIP 66621"]
-zillowHomeValueUsd: 233905
 ---
 
-**Engineering Notice for Topeka:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Shawnee County.
+**Engineering Notice for Topeka:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Shawnee County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Topeka, KS, but intake notes help reduce delays.
+IGR packets for Topeka, KS roach cycles should be dated on station lids.
 
-Tip: avoid large upfront payments without milestones.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Our service coordination centers on Topeka, KS coverage windows and verified intake details.
+Mosquito breeding in Topeka, KS catch basins can amplify perimeter callbacks.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 66621.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Local conditions in Topeka, KS can affect timelines and material choices.
+Tip: Log pet access routes when bait stations are placed.
 
-Field note: Wind exposure category reviewed for ZIP sector 66625/66619/66624.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 66625/66619/66624.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Dispatch sectors sampled: ZIP 66625, 66619, 66624, 66608, 66601 (county grid: Shawnee County).
+Drain fly biofilm in Topeka, KS floor drains signals grease traps need service before gel baits.
+
+Silverfish activity in Topeka, KS attics tracks cardboard storage and ridge vent gaps.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 66621.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Zone map 840463: attic insulation disturbance trace and pantry pest source logged for Topeka, KS sector 66621.
+
+ZIP-corridor snapshot for Topeka, KS: sampled sectors include 66604, 66625, 66603, 66675, 66619, 66611, 66605, 66699; county routing grid remains Shawnee County.
 
 Service reference: KS-66621-88ddcb74

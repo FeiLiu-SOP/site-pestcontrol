@@ -11,26 +11,43 @@ lng: -91.6800
 zipSample: ["52410", "52401", "52498", "52403", "52402"]
 zipCodes: ["52411", "52497", "52408", "52498", "52409", "52410", "52403", "52404", "52499", "52405", "52406", "52407"]
 localPaths: ["Linn County / primary ZIP 52404", "Linn County / ZIP 52401 sector", "Linn County / ZIP 52410 sector", "Linn County / ZIP 52403 sector", "Linn County / ZIP 52402 sector"]
-zillowHomeValueUsd: 192719
 ---
 
-**Engineering Notice for Cedar Rapids:** Structural loading calculated based on 732 ft terrain assessment. Regional dispatch grid: Linn County.
+**Engineering Notice for Cedar Rapids:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Linn County.
 
 
-Our service coordination centers on Cedar Rapids, IA coverage windows and verified intake details.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can bed bugs spread room-to-room in Cedar Rapids, IA row homes? Wall voids and shared ducts accelerate transfer.
 
-Tip: confirm licensing and insurance before approving work.
+Silverfish activity in Cedar Rapids, IA attics tracks cardboard storage and ridge vent gaps.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Cedar Rapids, IA, but intake notes help reduce delays.
+Tip: Date bait station lids when servicing Cedar Rapids, IA perimeter lines.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+IGR packets for Cedar Rapids, IA roach cycles should be dated on station lids.
 
-Field note: Access points and staging constraints recorded for ZIP 52402/52411/52499 coverage.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Field note: Moisture pathway inspection logged near ZIP 52402/52411/52499 intake.
+Attic insulation disturbance in Cedar Rapids, IA may indicate wildlife nesting routes.
 
-Dispatch sectors sampled: ZIP 52402, 52411, 52499, 52408, 52406 (county grid: Linn County).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Fire ant mounds in Cedar Rapids, IA drive seams need granule rotation after irrigation events.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Step: verify attic access safety before insulation disturbance.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Clover mite staining on Cedar Rapids, IA wall restoration follows foundation mulch against brick ledges.
+
+Exclusion audit 115670: exclusion mesh gauge and rodent runway grease mark reviewed for Cedar Rapids, IA at 41.9700/-91.6800.
+
+Harbor ledger 115670: frass lane, mud-tube scan, and garage jamb gap measure filed for Cedar Rapids, IA at 41.9700, -91.6800.
+
+On-site sector marker: Linn County / coords 41.9700, -91.6800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-52404-d2f41978

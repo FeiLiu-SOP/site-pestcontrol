@@ -11,24 +11,39 @@ lng: -106.7800
 zipSample: ["87031"]
 zipCodes: ["87031"]
 localPaths: ["Valencia County / coords 34.8100, -106.7800", "Valencia County / primary ZIP 87031", "Valencia County / elevation 5033 ft band", "Valencia County / ZIP 87031 sector"]
-zillowHomeValueUsd: 323773
 ---
 
-**Engineering Notice for Los Lunas:** Structural loading calculated based on 5033 ft terrain assessment. Regional dispatch grid: Valencia County.
+**Engineering Notice for Los Lunas:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Valencia County.
 
 
-Tip: avoid large upfront payments without milestones.
+Attic misting in Los Lunas, NM requires combustion air clearance verified before fans restart.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: separate bait rotation schedules from crack-and-crevice applications in Los Lunas, NM.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Dry-wood termite pellets in Los Lunas, NM attics may appear before exterior mud tubes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Cluster fly attic staging in Los Lunas, NM peaks on south-facing voids after sunny thaw days.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Connection points spot-checked where accessible (ZIP 87031 zone).
+Mud dauber nests in Los Lunas, NM porch ceilings are benign but signal prey density for spiders.
 
-Dispatch sectors sampled: ZIP 87031 (county grid: Valencia County).
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+FAQ: Why schedule quarterly instead of monthly in Los Lunas, NM? Species pressure and label intervals dictate cadence.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Risk flag: Overwatered Los Lunas, NM planters can restart ant bridges within two weeks.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Flea pupae survive vacuuming in Los Lunas, NM carpet fibers unless heat treatment follows.
+
+Intercept log 708641: bed bug intercept count staged before Los Lunas, NM interior gel zones.
+
+Harbor ledger 708641: frass lane, mud-tube scan, and garage jamb gap measure filed for Los Lunas, NM at 34.8100, -106.7800.
+
+On-site sector marker: Valencia County / elevation 5033 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-87031-1002fbf9

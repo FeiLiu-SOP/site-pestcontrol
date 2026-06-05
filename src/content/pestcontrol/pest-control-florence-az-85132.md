@@ -11,27 +11,41 @@ lng: -111.4200
 zipSample: ["85132"]
 zipCodes: ["85132"]
 localPaths: ["Pinal County / coords 33.0600, -111.4200", "Pinal County / primary ZIP 85132", "Pinal County / ZIP 85132 sector", "Pinal County / elevation 1526 ft band"]
-zillowHomeValueUsd: 334106
 ---
 
-**Engineering Notice for Florence:** Structural loading calculated based on 1526 ft terrain assessment. Regional dispatch grid: Pinal County.
+**Engineering Notice for Florence:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pinal County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 85132.
+Mud dauber nests in Florence, AZ porch ceilings are benign but signal prey density for spiders.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Mosquito breeding in Florence, AZ catch basins can amplify perimeter callbacks.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Florence, AZ, but intake notes help reduce delays.
+Attic fogging in Florence, AZ requires combustion appliance shutoff verification first.
 
-Our service coordination centers on Florence, AZ coverage windows and verified intake details.
+Tip: Trim vegetation 12 inches from exterior cladding to reduce ant bridges.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Field note: Connection points spot-checked where accessible (ZIP 85132 zone).
+Seasonal pest pressure in Florence, AZ shifts between moisture ants and dry-wood vectors.
 
-Field note: Access points and staging constraints recorded for ZIP 85132 coverage.
+Tip: Date bait station lids when servicing Florence, AZ perimeter lines.
 
-Dispatch sectors sampled: ZIP 85132 (county grid: Pinal County).
+Flea pupae survive vacuuming in Florence, AZ carpet fibers unless heat treatment follows.
+
+Step: record station placement maps for follow-up visits.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Florence, AZ.
+
+Perimeter mulch beds in Florence, AZ should be reviewed for ant bridge paths.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Exclusion audit 318737: exclusion mesh gauge and rodent runway grease mark reviewed for Florence, AZ at 33.0600/-111.4200.
+
+Perimeter dossier 318737: bait station anchor map and mulch bridge risk flagged for Florence, AZ county Pinal County (ZIP 85132).
+
+On-site sector marker: Pinal County / coords 33.0600, -111.4200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85132-92285398

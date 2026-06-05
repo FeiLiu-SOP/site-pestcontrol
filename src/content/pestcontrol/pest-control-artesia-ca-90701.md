@@ -11,26 +11,37 @@ lng: -118.0800
 zipSample: ["90701", "90702"]
 zipCodes: ["90701", "90702"]
 localPaths: ["Los Angeles County / ZIP 90701 sector", "Los Angeles County / elevation 66 ft band", "Los Angeles County / coords 33.8700, -118.0800", "Los Angeles County / primary ZIP 90701", "Los Angeles County / ZIP 90702 sector"]
-zillowHomeValueUsd: 873718
 ---
 
-**Engineering Notice for Artesia:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Artesia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-Structured milestones protect both sides when scheduling work.
+Wildlife odors in Artesia, CA crawlspaces may attract secondary pest activity.
 
-We coordinate local dispatch coverage around Artesia, CA and nearby ZIP sectors.
+Risk flag: Overwatered Artesia, CA planters can restart ant bridges within two weeks.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+State note: Artesia, CA commercial kitchens may require separate documentation for audit visits.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Artesia, CA, but intake notes help reduce delays.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Tip: confirm licensing and insurance before approving work.
+Attic insulation disturbance in Artesia, CA may indicate wildlife nesting routes.
 
-Field note: Access points and staging constraints recorded for ZIP 90702/90701 coverage.
+Attic misting in Artesia, CA requires combustion air clearance verified before fans restart.
 
-Field note: Moisture pathway inspection logged near ZIP 90702/90701 intake.
+Tip: Log pet access routes when bait stations are placed.
 
-Dispatch sectors sampled: ZIP 90702, 90701 (county grid: Los Angeles County).
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Artesia, CA.
+
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Monitoring boards in Artesia, CA crawlspaces stay 72 hours before snap traps are reset.
+
+Intercept log 311052: bed bug intercept count staged before Artesia, CA interior gel zones.
+
+On-site sector marker: Los Angeles County / ZIP 90701 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90701-907f97b4

@@ -11,27 +11,39 @@ lng: -89.3200
 zipSample: ["39407", "39401", "39406", "39402", "39403"]
 zipCodes: ["39406", "39401", "39402", "39407", "39403"]
 localPaths: ["Forrest County / ZIP 39407 sector", "Forrest County / ZIP 39402 sector", "Forrest County / ZIP 39406 sector", "Forrest County / ZIP 39403 sector", "Forrest County / elevation 223 ft band"]
-zillowHomeValueUsd: 145856
 ---
 
-**Engineering Notice for Hattiesburg:** Structural loading calculated based on 223 ft terrain assessment. Regional dispatch grid: Forrest County.
+**Engineering Notice for Hattiesburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Forrest County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Bird mites in Hattiesburg, MS exhaust vents can persist after host nests are removed.
 
-Our service coordination centers on Hattiesburg, MS coverage windows and verified intake details.
+State note: Hattiesburg, MS commercial kitchens may require separate documentation for audit visits.
 
-Tip: address recurring issues early to prevent bigger damage.
+Cluster fly attic staging in Hattiesburg, MS peaks on south-facing voids after sunny thaw days.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Perimeter granules in Hattiesburg, MS may need reapplication after heavy irrigation.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 39401.
+Attic misting in Hattiesburg, MS requires combustion air clearance verified before fans restart.
 
-Field note: Connection points spot-checked where accessible (ZIP 39401/39403/39406 zone).
+Silverfish activity in Hattiesburg, MS attics tracks cardboard storage and ridge vent gaps.
 
-Field note: Wind exposure category reviewed for ZIP sector 39401/39403/39406.
+IGR packets for Hattiesburg, MS roach cycles should be dated on station lids.
 
-Dispatch sectors sampled: ZIP 39401, 39403, 39406, 39407, 39402 (county grid: Forrest County).
+Yellow jacket nests in Hattiesburg, MS soffit cavities peak in late summer routing windows.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Perimeter dossier 559949: bait station anchor map and mulch bridge risk flagged for Hattiesburg, MS county Forrest County (ZIP 39401).
+
+Seasonal cue 559949: cluster fly attic staging reviewed for Hattiesburg, MS soffit cavities.
+
+On-site sector marker: Forrest County / primary ZIP 39401 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39401-a6630367

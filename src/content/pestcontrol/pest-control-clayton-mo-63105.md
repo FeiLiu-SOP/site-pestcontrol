@@ -11,26 +11,39 @@ lng: -90.3300
 zipSample: ["63105", "63199", "63195"]
 zipCodes: ["63195", "63105", "63199"]
 localPaths: ["St. Louis County / ZIP 63105 sector", "St. Louis County / elevation 581 ft band", "St. Louis County / coords 38.6400, -90.3300", "St. Louis County / ZIP 63199 sector", "St. Louis County / primary ZIP 63105"]
-zillowHomeValueUsd: 795350
 ---
 
-**Engineering Notice for Clayton:** Structural loading calculated based on 581 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Clayton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.
 
 
-Tip: avoid large upfront payments without milestones.
+Tip: Date bait station lids when servicing Clayton, MO perimeter lines.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Clayton, MO, but intake notes help reduce delays.
+Step: separate bait rotation schedules from crack-and-crevice applications in Clayton, MO.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Exclusion gaps at garage jambs in Clayton, MO are common rodent access points.
 
-Tip: request a written scope before work starts.
+Yellow jacket nests in Clayton, MO soffit cavities peak in late summer routing windows.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 63105.
 
-Field note: Access points and staging constraints recorded for ZIP 63199/63105/63195 coverage.
+IGR packets for Clayton, MO roach cycles should be dated on station lids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 63199/63105/63195.
+Tip: Trim vegetation 12 inches from vinyl panels to reduce ant bridges.
 
-Dispatch sectors sampled: ZIP 63199, 63105, 63195 (county grid: St. Louis County).
+Across Clayton, MO, rodent entry points frequently track utility penetrations.
+
+Monitoring boards in Clayton, MO crawlspaces stay 72 hours before snap traps are reset.
+
+Silverfish activity in Clayton, MO attics tracks cardboard storage and ridge vent gaps.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Attic insulation disturbance in Clayton, MO may indicate wildlife nesting routes.
+
+Intercept log 519611: bed bug intercept count staged before Clayton, MO interior gel zones.
+
+Exclusion audit 519611: exclusion mesh gauge and rodent runway grease mark reviewed for Clayton, MO at 38.6400/-90.3300.
+
+On-site sector marker: St. Louis County / primary ZIP 63105 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63105-806d25c7

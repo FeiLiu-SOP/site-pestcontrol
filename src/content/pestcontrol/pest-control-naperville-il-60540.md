@@ -11,26 +11,39 @@ lng: -88.1700
 zipSample: ["60563", "60540", "60565", "60567", "60564"]
 zipCodes: ["60540", "60567", "60564", "60563", "60565"]
 localPaths: ["DuPage County / ZIP 60565 sector", "DuPage County / primary ZIP 60540", "DuPage County / ZIP 60563 sector", "DuPage County / ZIP 60564 sector", "DuPage County / coords 41.7500, -88.1700"]
-zillowHomeValueUsd: 633132
 ---
 
-**Engineering Notice for Naperville:** Structural loading calculated based on 709 ft terrain assessment. Regional dispatch grid: DuPage County.
+**Engineering Notice for Naperville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.
 
 
-In Naperville, IL, seasonal demand can change scheduling windows.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 60540.
 
-Tip: request a written scope before work starts.
+Stink bug overwinter seams in Naperville, IL vinyl panels laps require exclusion foam rated for UV exposure.
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: In Naperville, IL, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-We coordinate local dispatch coverage around Naperville, IL and nearby ZIP sectors.
+FAQ: Why schedule quarterly instead of monthly in Naperville, IL? Species pressure and label intervals dictate cadence.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Naperville, IL, but intake notes help reduce delays.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Field note: Moisture pathway inspection logged near ZIP 60564/60565/60540 intake.
+Humidity in Naperville, IL can sustain cockroach harborages behind appliance voids.
 
-Field note: Access points and staging constraints recorded for ZIP 60564/60565/60540 coverage.
+Material note: Perimeter granules in Naperville, IL may need reapplication after heavy irrigation.
 
-Dispatch sectors sampled: ZIP 60564, 60565, 60540, 60563, 60567 (county grid: DuPage County).
+FAQ: Why do pests return after spraying? Without sealing entry points in Naperville, IL, pressure often rebuilds.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Attic misting in Naperville, IL requires combustion air clearance verified before fans restart.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Naperville, IL.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Exclusion audit 407984: exclusion mesh gauge and rodent runway grease mark reviewed for Naperville, IL at 41.7500/-88.1700.
+
+On-site sector marker: DuPage County / ZIP 60565 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60540-e909f57d

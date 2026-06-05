@@ -11,25 +11,43 @@ lng: -77.1100
 zipSample: ["22309"]
 zipCodes: ["22309"]
 localPaths: ["Fairfax County / ZIP 22309 sector", "Fairfax County / coords 38.7300, -77.1100", "Fairfax County / primary ZIP 22309", "Fairfax County / elevation 33 ft band"]
-zillowHomeValueUsd: 592025
 ---
 
-**Engineering Notice for Woodlawn:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Woodlawn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic fogging in Woodlawn, VA requires combustion appliance shutoff verification first.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 22309.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Keep pet food elevated and sealed between service visits.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Perimeter mulch beds in Woodlawn, VA should be reviewed for ant bridge paths.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 22309.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Dispatch sectors sampled: ZIP 22309 (county grid: Fairfax County).
+FAQ: Why schedule quarterly instead of monthly in Woodlawn, VA? Species pressure and label intervals dictate cadence.
+
+FAQ: What is exclusion? Without sealing entry points in Woodlawn, VA, pressure often rebuilds.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Yellow jacket nests in Woodlawn, VA soffit cavities peak in late summer routing windows.
+
+Attic misting in Woodlawn, VA requires combustion air clearance verified before fans restart.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Mud dauber nests in Woodlawn, VA porch ceilings are benign but signal prey density for spiders.
+
+Intercept log 345094: bed bug intercept count staged before Woodlawn, VA interior gel zones.
+
+Harbor ledger 345094: frass lane, mud-tube scan, and garage jamb gap measure filed for Woodlawn, VA at 38.7300, -77.1100.
+
+ZIP-corridor snapshot for Woodlawn, VA: sampled sectors include 22309; county routing grid remains Fairfax County.
 
 Service reference: VA-22309-999f314b

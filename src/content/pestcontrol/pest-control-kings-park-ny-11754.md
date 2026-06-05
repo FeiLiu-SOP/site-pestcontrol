@@ -11,24 +11,39 @@ lng: -73.2500
 zipSample: ["11754"]
 zipCodes: ["11754"]
 localPaths: ["Suffolk County / ZIP 11754 sector", "Suffolk County / primary ZIP 11754", "Suffolk County / elevation 174 ft band", "Suffolk County / coords 40.8900, -73.2500"]
-zillowHomeValueUsd: 737730
 ---
 
-**Engineering Notice for Kings Park:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Kings Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+IGR packets for Kings Park, NY roach cycles should be dated on station lids.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Kings Park, NY, but intake notes help reduce delays.
+Drain fly biofilm in Kings Park, NY floor drains signals grease traps need service before gel baits.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+State note: Kings Park, NY commercial kitchens may require separate documentation for audit visits.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: map entry points with photo logs before sealing.
 
-Field note: Access points and staging constraints recorded for ZIP 11754 coverage.
+Tip: Date bait station lids when servicing Kings Park, NY perimeter lines.
 
-Dispatch sectors sampled: ZIP 11754 (county grid: Suffolk County).
+Humidity in Kings Park, NY can sustain cockroach harborages behind appliance voids.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Step: record station placement maps for follow-up visits.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 11754.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Harbor ledger 321475: frass lane, mud-tube scan, and garage jamb gap measure filed for Kings Park, NY at 40.8900, -73.2500.
+
+On-site sector marker: Suffolk County / elevation 174 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11754-7ae50dc5

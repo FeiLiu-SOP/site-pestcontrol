@@ -11,24 +11,43 @@ lng: -85.0400
 zipSample: ["30241", "30240"]
 zipCodes: ["30241", "30240"]
 localPaths: ["Troup County / coords 33.0300, -85.0400", "Troup County / ZIP 30240 sector", "Troup County / ZIP 30241 sector", "Troup County / primary ZIP 30240", "Troup County / elevation 751 ft band"]
-zillowHomeValueUsd: 249636
 ---
 
-**Engineering Notice for LaGrange:** Structural loading calculated based on 751 ft terrain assessment. Regional dispatch grid: Troup County.
+**Engineering Notice for LaGrange:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Troup County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Our service coordination centers on LaGrange, GA coverage windows and verified intake details.
+County grid Troup County informs routing near ZIP 30240.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Earwig harborages in LaGrange, GA meter boxes often follow drip irrigation overspray.
 
-Field note: Access points and staging constraints recorded for ZIP 30240/30241 coverage.
+FAQ: Why schedule quarterly instead of monthly in LaGrange, GA? Species pressure and label intervals dictate cadence.
 
-Dispatch sectors sampled: ZIP 30240, 30241 (county grid: Troup County).
+FAQ: Can bed bugs spread room-to-room in LaGrange, GA row homes? Wall voids and shared ducts accelerate transfer.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 30240.
+
+Yellow jacket nests in LaGrange, GA soffit cavities peak in late summer routing windows.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in LaGrange, GA, pressure often rebuilds.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 30240.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+State note: LaGrange, GA commercial kitchens may require separate documentation for audit visits.
+
+Zone map 232144: attic insulation disturbance trace and pantry pest source logged for LaGrange, GA sector 30240.
+
+Intercept log 232144: bed bug intercept count staged before LaGrange, GA interior gel zones.
+
+On-site sector marker: Troup County / elevation 751 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30240-567fbbce

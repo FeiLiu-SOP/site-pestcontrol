@@ -11,27 +11,43 @@ lng: -75.2200
 zipSample: ["18042", "18043", "18044", "18045"]
 zipCodes: ["18042", "18043", "18044", "18045"]
 localPaths: ["Northampton County / ZIP 18042 sector", "Northampton County / ZIP 18043 sector", "Northampton County / elevation 367 ft band", "Northampton County / ZIP 18045 sector", "Northampton County / coords 40.6900, -75.2200"]
-zillowHomeValueUsd: 265652
 ---
 
-**Engineering Notice for Easton:** Structural loading calculated based on 367 ft terrain assessment. Regional dispatch grid: Northampton County.
+**Engineering Notice for Easton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Northampton County.
 
 
-We coordinate local dispatch coverage around Easton, PA and nearby ZIP sectors.
+FAQ: Can bed bugs spread room-to-room in Easton, PA row homes? Wall voids and shared ducts accelerate transfer.
 
-Structured milestones protect both sides when scheduling work.
+Humidity in Easton, PA can sustain cockroach harborages behind appliance voids.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: record station placement maps for follow-up visits.
 
-Tip: compare at least two estimates for scope and timeline.
+We coordinate Easton, PA pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 18042.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Access points and staging constraints recorded for ZIP 18043/18045/18042 coverage.
+Yellow jacket nests in Easton, PA soffit cavities peak in late summer routing windows.
 
-Field note: Moisture pathway inspection logged near ZIP 18043/18045/18042 intake.
+Attic misting in Easton, PA requires combustion air clearance verified before fans restart.
 
-Dispatch sectors sampled: ZIP 18043, 18045, 18042, 18044 (county grid: Northampton County).
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 18042.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Monitoring boards in Easton, PA crawlspaces stay 72 hours before snap traps are reset.
+
+Attic fogging in Easton, PA requires combustion appliance shutoff verification first.
+
+Zone map 288299: attic insulation disturbance trace and pantry pest source logged for Easton, PA sector 18042.
+
+Intercept log 288299: bed bug intercept count staged before Easton, PA interior gel zones.
+
+On-site sector marker: Northampton County / ZIP 18045 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-18042-b51e79ca

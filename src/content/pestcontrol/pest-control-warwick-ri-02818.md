@@ -11,26 +11,41 @@ lng: -71.4300
 zipSample: ["02888", "02887", "02886", "02818", "02889"]
 zipCodes: ["02887", "02889", "02886", "02888", "02818"]
 localPaths: ["Kent County / primary ZIP 02818", "Kent County / elevation 59 ft band", "Kent County / coords 41.7100, -71.4300", "Kent County / ZIP 02886 sector", "Kent County / ZIP 02887 sector"]
-zillowHomeValueUsd: 713187
 ---
 
-**Engineering Notice for Warwick:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Kent County.
+**Engineering Notice for Warwick:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kent County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+We coordinate Warwick, RI pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Keep pet food elevated and sealed between service visits.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: label treatment zones for occupant re-entry timing.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Why schedule quarterly instead of monthly in Warwick, RI? Species pressure and label intervals dictate cadence.
 
-Field note: Wind exposure category reviewed for ZIP sector 02818/02888/02886.
+Risk flag: In Warwick, RI, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Access points and staging constraints recorded for ZIP 02818/02888/02886 coverage.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Dispatch sectors sampled: ZIP 02818, 02888, 02886, 02887, 02889 (county grid: Kent County).
+Bird mites in Warwick, RI exhaust vents can persist after host nests are removed.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+FAQ: Can bed bugs spread room-to-room in Warwick, RI row homes? Wall voids and shared ducts accelerate transfer.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Harbor ledger 224124: frass lane, mud-tube scan, and garage jamb gap measure filed for Warwick, RI at 41.7100, -71.4300.
+
+On-site sector marker: Kent County / ZIP 02888 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: RI-02818-85014dc0

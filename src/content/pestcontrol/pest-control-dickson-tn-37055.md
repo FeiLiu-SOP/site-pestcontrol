@@ -11,27 +11,41 @@ lng: -87.3700
 zipSample: ["37056", "37055"]
 zipCodes: ["37056", "37055"]
 localPaths: ["Dickson County / ZIP 37056 sector", "Dickson County / primary ZIP 37055", "Dickson County / ZIP 37055 sector", "Dickson County / elevation 866 ft band", "Dickson County / coords 36.0600, -87.3700"]
-zillowHomeValueUsd: 343221
 ---
 
-**Engineering Notice for Dickson:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Dickson County.
+**Engineering Notice for Dickson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dickson County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Dickson, TN, but intake notes help reduce delays.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Tip: avoid large upfront payments without milestones.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 37055.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Dickson, TN.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Clear documentation helps align materials, labor, and timeline.
+Powderpost beetle exit holes in Dickson, TN trim can be mistaken for dry-wood frass without magnification.
 
-Field note: Access points and staging constraints recorded for ZIP 37056/37055 coverage.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Connection points spot-checked where accessible (ZIP 37056/37055 zone).
+Yellow jacket nests in Dickson, TN soffit cavities peak in late summer routing windows.
 
-Dispatch sectors sampled: ZIP 37056, 37055 (county grid: Dickson County).
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Material note: Perimeter granules in Dickson, TN may need reapplication after heavy irrigation.
+
+Carpenter ant frass in Dickson, TN window sills may indicate moisture-softened framing.
+
+Spider populations in Dickson, TN eaves can signal insect prey density.
+
+Fire ant mounds in Dickson, TN drive seams need granule rotation after irrigation events.
+
+Monitoring boards in Dickson, TN crawlspaces stay 72 hours before snap traps are reset.
+
+Step: record station placement maps for follow-up visits.
+
+Species trace 872093: re-entry interval label and conducive moisture note keyed to Dickson, TN elevation 866 ft.
+
+On-site sector marker: Dickson County / ZIP 37056 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37055-79d3a6c1

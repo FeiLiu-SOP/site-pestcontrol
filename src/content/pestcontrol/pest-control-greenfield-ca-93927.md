@@ -11,27 +11,39 @@ lng: -121.2400
 zipSample: ["93927"]
 zipCodes: ["93927"]
 localPaths: ["Monterey County / primary ZIP 93927", "Monterey County / coords 36.3200, -121.2400", "Monterey County / ZIP 93927 sector", "Monterey County / elevation 285 ft band"]
-zillowHomeValueUsd: 547226
 ---
 
-**Engineering Notice for Greenfield:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Monterey County.
+**Engineering Notice for Greenfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Monterey County.
 
 
-Tip: request a written scope before work starts.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-In Greenfield, CA, urgent pest control issues can escalate quickly.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 93927.
+Dry-wood termite pellets in Greenfield, CA attics may appear before exterior mud tubes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Yellow jacket nests in Greenfield, CA soffit cavities peak in late summer routing windows.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Powderpost beetle exit holes in Greenfield, CA trim can be mistaken for dry-wood frass without magnification.
 
-Field note: Wind exposure category reviewed for ZIP sector 93927.
+FAQ: Why schedule quarterly instead of monthly in Greenfield, CA? Species pressure and label intervals dictate cadence.
 
-Field note: Moisture pathway inspection logged near ZIP 93927 intake.
+Bird mites in Greenfield, CA exhaust vents can persist after host nests are removed.
 
-Dispatch sectors sampled: ZIP 93927 (county grid: Monterey County).
+Attic misting in Greenfield, CA requires combustion air clearance verified before fans restart.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Greenfield, CA.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Zone map 648163: attic insulation disturbance trace and pantry pest source logged for Greenfield, CA sector 93927.
+
+On-site sector marker: Monterey County / ZIP 93927 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93927-0a6a7195

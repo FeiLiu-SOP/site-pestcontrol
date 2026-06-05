@@ -11,24 +11,41 @@ lng: -98.0800
 zipSample: ["76088", "76068", "76067"]
 zipCodes: ["76088", "76067", "76068"]
 localPaths: ["Palo Pinto County / ZIP 76067 sector", "Palo Pinto County / elevation 925 ft band", "Palo Pinto County / ZIP 76088 sector", "Palo Pinto County / coords 32.8200, -98.0800", "Palo Pinto County / ZIP 76068 sector"]
-zillowHomeValueUsd: 467458
 ---
 
-**Engineering Notice for Mineral Wells:** Structural loading calculated based on 925 ft terrain assessment. Regional dispatch grid: Palo Pinto County.
+**Engineering Notice for Mineral Wells:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Palo Pinto County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 76088.
 
-Clear documentation helps align materials, labor, and timeline.
+Clover mite staining on Mineral Wells, TX exterior cladding follows foundation mulch against brick ledges.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Monitoring boards in Mineral Wells, TX crawlspaces stay 72 hours before snap traps are reset.
 
-Field note: Connection points spot-checked where accessible (ZIP 76088/76068/76067 zone).
+Tip: Keep pet food elevated and sealed between service visits.
 
-Dispatch sectors sampled: ZIP 76088, 76068, 76067 (county grid: Palo Pinto County).
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Risk flag: Overwatered Mineral Wells, TX planters can restart ant bridges within two weeks.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Fire ant mounds in Mineral Wells, TX drive seams need granule rotation after irrigation events.
+
+Harbor ledger 836234: frass lane, mud-tube scan, and garage jamb gap measure filed for Mineral Wells, TX at 32.8200, -98.0800.
+
+On-site sector marker: Palo Pinto County / ZIP 76088 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76088-b0976587

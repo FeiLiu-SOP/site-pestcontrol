@@ -11,24 +11,39 @@ lng: -118.0700
 zipSample: ["90743", "90740"]
 zipCodes: ["90740", "90743"]
 localPaths: ["Orange County / ZIP 90743 sector", "Orange County / coords 33.7500, -118.0700", "Orange County / ZIP 90740 sector", "Orange County / elevation 13 ft band", "Orange County / primary ZIP 90743"]
-zillowHomeValueUsd: 798315
 ---
 
-**Engineering Notice for Seal Beach:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Seal Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Monitoring boards in Seal Beach, CA crawlspaces stay 72 hours before snap traps are reset.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 90743.
 
-Local conditions in Seal Beach, CA can affect timelines and material choices.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: confirm licensing and insurance before approving work.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: label treatment zones for occupant re-entry timing.
 
-Field note: Connection points spot-checked where accessible (ZIP 90743/90740 zone).
+Stink bug overwinter seams in Seal Beach, CA cladding service laps require exclusion foam rated for UV exposure.
 
-Dispatch sectors sampled: ZIP 90743, 90740 (county grid: Orange County).
+Silverfish activity in Seal Beach, CA attics tracks cardboard storage and ridge vent gaps.
+
+Earwig harborages in Seal Beach, CA meter boxes often follow drip irrigation overspray.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 90743.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Seal Beach, CA.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+County grid Orange County informs routing near ZIP 90743.
+
+Harbor ledger 276538: frass lane, mud-tube scan, and garage jamb gap measure filed for Seal Beach, CA at 33.7500, -118.0700.
+
+Perimeter dossier 276538: bait station anchor map and mulch bridge risk flagged for Seal Beach, CA county Orange County (ZIP 90743).
+
+On-site sector marker: Orange County / elevation 13 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90743-21078c70

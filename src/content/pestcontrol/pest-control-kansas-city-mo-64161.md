@@ -11,26 +11,41 @@ lng: -94.5500
 zipSample: ["64179", "64141", "64162", "64155", "64117"]
 zipCodes: ["64117", "64171", "64112", "64163", "64101", "64196", "64141", "64184", "64161", "64124", "64109", "64166"]
 localPaths: ["Jackson County / coords 39.1200, -94.5500", "Jackson County / ZIP 64141 sector", "Jackson County / ZIP 64155 sector", "Jackson County / elevation 745 ft band", "Jackson County / primary ZIP 64161"]
-zillowHomeValueUsd: 199489
 ---
 
-**Engineering Notice for Kansas City:** Structural loading calculated based on 745 ft terrain assessment. Regional dispatch grid: Jackson County.
+**Engineering Notice for Kansas City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jackson County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 64161.
 
-We coordinate local dispatch coverage around Kansas City, MO and nearby ZIP sectors.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 64161.
 
-Tip: confirm licensing and insurance before approving work.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Seasonal pest pressure in Kansas City, MO shifts between moisture ants and dry-wood vectors.
 
-Field note: Wind exposure category reviewed for ZIP sector 64179/64105/64167.
+Request an inspection with species ID before treatment. Serving ZIP Code: 64161.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 64179/64105/64167.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Dispatch sectors sampled: ZIP 64179, 64105, 64167, 64188, 64153 (county grid: Jackson County).
+Attic insulation disturbance in Kansas City, MO may indicate wildlife nesting routes.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Kansas City, MO.
+
+Monitoring boards in Kansas City, MO crawlspaces stay 72 hours before snap traps are reset.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Step: record station placement maps for follow-up visits.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Yellow jacket nests in Kansas City, MO soffit cavities peak in late summer routing windows.
+
+Seasonal cue 222211: cluster fly attic staging reviewed for Kansas City, MO soffit cavities.
+
+On-site sector marker: Jackson County / ZIP 64126 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-64161-80f14f30

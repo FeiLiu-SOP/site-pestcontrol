@@ -11,25 +11,39 @@ lng: -73.2000
 zipSample: ["06601", "06602", "06607", "06606", "06608"]
 zipCodes: ["06608", "06605", "06606", "06601", "06607", "06602", "06604", "06610"]
 localPaths: ["Greater Bridgeport County / coords 41.1900, -73.2000", "Greater Bridgeport County / ZIP 06607 sector", "Greater Bridgeport County / primary ZIP 06605", "Greater Bridgeport County / elevation 33 ft band", "Greater Bridgeport County / ZIP 06602 sector"]
-zillowHomeValueUsd: 372531
 ---
 
-**Engineering Notice for Bridgeport:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Greater Bridgeport County.
+**Engineering Notice for Bridgeport:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Greater Bridgeport County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Monitoring boards in Bridgeport, CT crawlspaces stay 72 hours before snap traps are reset.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 06605.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 06605.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 06605.
 
-In Bridgeport, CT, seasonal demand can change scheduling windows.
+Attic fogging in Bridgeport, CT requires combustion appliance shutoff verification first.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 06606/06601/06605.
+Fire ant mounds in Bridgeport, CT drive seams need granule rotation after irrigation events.
 
-Dispatch sectors sampled: ZIP 06606, 06601, 06605, 06608, 06610 (county grid: Greater Bridgeport County).
+Flea pupae survive vacuuming in Bridgeport, CT carpet fibers unless heat treatment follows.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Bridgeport, CT.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Yellow jacket nests in Bridgeport, CT soffit cavities peak in late summer routing windows.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 06605.
+
+Earwig harborages in Bridgeport, CT meter boxes often follow drip irrigation overspray.
+
+Harbor ledger 685132: frass lane, mud-tube scan, and garage jamb gap measure filed for Bridgeport, CT at 41.1900, -73.2000.
+
+On-site sector marker: Greater Bridgeport County / coords 41.1900, -73.2000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CT-06605-7b3ab7f8

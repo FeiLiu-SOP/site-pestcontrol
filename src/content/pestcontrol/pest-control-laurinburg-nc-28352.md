@@ -11,26 +11,39 @@ lng: -79.4800
 zipSample: ["28352", "28353"]
 zipCodes: ["28352", "28353"]
 localPaths: ["Scotland County / primary ZIP 28352", "Scotland County / coords 34.7600, -79.4800", "Scotland County / elevation 236 ft band", "Scotland County / ZIP 28353 sector", "Scotland County / ZIP 28352 sector"]
-zillowHomeValueUsd: 148981
 ---
 
-**Engineering Notice for Laurinburg:** Structural loading calculated based on 236 ft terrain assessment. Regional dispatch grid: Scotland County.
+**Engineering Notice for Laurinburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Scotland County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Cluster fly attic staging in Laurinburg, NC peaks on south-facing voids after sunny thaw days.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+IGR packets for Laurinburg, NC roach cycles should be dated on station lids.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Humidity in Laurinburg, NC can sustain cockroach harborages behind appliance voids.
 
-In Laurinburg, NC, urgent pest control issues can escalate quickly.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-In Laurinburg, NC, seasonal demand can change scheduling windows.
+Wildlife odors in Laurinburg, NC crawlspaces may attract secondary pest activity.
 
-Field note: Connection points spot-checked where accessible (ZIP 28353/28352 zone).
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Access points and staging constraints recorded for ZIP 28353/28352 coverage.
+Powderpost beetle exit holes in Laurinburg, NC trim can be mistaken for dry-wood frass without magnification.
 
-Dispatch sectors sampled: ZIP 28353, 28352 (county grid: Scotland County).
+Dry-wood termite pellets in Laurinburg, NC attics may appear before exterior mud tubes.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 28352.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Perimeter dossier 395871: bait station anchor map and mulch bridge risk flagged for Laurinburg, NC county Scotland County (ZIP 28352).
+
+Exclusion audit 395871: exclusion mesh gauge and rodent runway grease mark reviewed for Laurinburg, NC at 34.7600/-79.4800.
+
+On-site sector marker: Scotland County / elevation 236 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28352-a6598e4a

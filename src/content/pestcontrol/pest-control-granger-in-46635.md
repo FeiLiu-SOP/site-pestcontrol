@@ -11,27 +11,37 @@ lng: -86.1300
 zipSample: ["46635", "46530", "46545"]
 zipCodes: ["46635", "46545", "46530"]
 localPaths: ["St. Joseph County / coords 41.7400, -86.1300", "St. Joseph County / primary ZIP 46635", "St. Joseph County / ZIP 46530 sector", "St. Joseph County / ZIP 46545 sector", "St. Joseph County / ZIP 46635 sector"]
-zillowHomeValueUsd: 262258
 ---
 
-**Engineering Notice for Granger:** Structural loading calculated based on 801 ft terrain assessment. Regional dispatch grid: St. Joseph County.
+**Engineering Notice for Granger:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Joseph County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 46635.
+Step: verify attic access safety before insulation disturbance.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In Granger, IN, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Local conditions in Granger, IN can affect timelines and material choices.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Clover mite staining on Granger, IN exterior cladding follows foundation mulch against brick ledges.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Request an inspection with species ID before treatment. Serving ZIP Code: 46635.
 
-Field note: Wind exposure category reviewed for ZIP sector 46635/46530/46545.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Access points and staging constraints recorded for ZIP 46635/46530/46545 coverage.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Dispatch sectors sampled: ZIP 46635, 46530, 46545 (county grid: St. Joseph County).
+Tip: Log pet access routes when bait stations are placed.
+
+Attic insulation disturbance in Granger, IN may indicate wildlife nesting routes.
+
+Yellow jacket nests in Granger, IN soffit cavities peak in late summer routing windows.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 46635.
+
+Bird mites in Granger, IN exhaust vents can persist after host nests are removed.
+
+Seasonal cue 623666: cluster fly attic staging reviewed for Granger, IN soffit cavities.
+
+On-site sector marker: St. Joseph County / ZIP 46635 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46635-9d563673

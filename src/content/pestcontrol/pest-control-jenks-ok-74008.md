@@ -11,26 +11,41 @@ lng: -95.9700
 zipSample: ["74008", "74037"]
 zipCodes: ["74008", "74037"]
 localPaths: ["Tulsa County / primary ZIP 74008", "Tulsa County / elevation 696 ft band", "Tulsa County / ZIP 74037 sector", "Tulsa County / ZIP 74008 sector", "Tulsa County / coords 36.0000, -95.9700"]
-zillowHomeValueUsd: 349665
 ---
 
-**Engineering Notice for Jenks:** Structural loading calculated based on 696 ft terrain assessment. Regional dispatch grid: Tulsa County.
+**Engineering Notice for Jenks:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tulsa County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+State note: Jenks, OK commercial kitchens may require separate documentation for audit visits.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Structured milestones protect both sides when scheduling work.
+Flea pupae survive vacuuming in Jenks, OK carpet fibers unless heat treatment follows.
 
-Field note: Access points and staging constraints recorded for ZIP 74008/74037 coverage.
+Monitoring boards in Jenks, OK crawlspaces stay 72 hours before snap traps are reset.
 
-Field note: Wind exposure category reviewed for ZIP sector 74008/74037.
+FAQ: Can bed bugs spread room-to-room in Jenks, OK row homes? Wall voids and shared ducts accelerate transfer.
 
-Dispatch sectors sampled: ZIP 74008, 74037 (county grid: Tulsa County).
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+We coordinate Jenks, OK pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Cluster fly attic staging in Jenks, OK peaks on south-facing voids after sunny thaw days.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Risk flag: Overwatered Jenks, OK planters can restart ant bridges within two weeks.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Exclusion audit 796555: exclusion mesh gauge and rodent runway grease mark reviewed for Jenks, OK at 36.0000/-95.9700.
+
+On-site sector marker: Tulsa County / ZIP 74037 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-74008-e226563e

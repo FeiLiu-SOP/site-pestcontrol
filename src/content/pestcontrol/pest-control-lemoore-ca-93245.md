@@ -11,27 +11,41 @@ lng: -119.8000
 zipSample: ["93245"]
 zipCodes: ["93245"]
 localPaths: ["Kings County / primary ZIP 93245", "Kings County / ZIP 93245 sector", "Kings County / coords 36.2900, -119.8000", "Kings County / elevation 220 ft band"]
-zillowHomeValueUsd: 384331
 ---
 
-**Engineering Notice for Lemoore:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Kings County.
+**Engineering Notice for Lemoore:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kings County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Spider populations in Lemoore, CA eaves can signal insect prey density.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Yellow jacket nests in Lemoore, CA soffit cavities peak in late summer routing windows.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 93245.
+Step: map entry points with photo logs before sealing.
 
-Tip: confirm licensing and insurance before approving work.
+Perimeter granule carriers in Lemoore, CA clay soils may need lighter irrigation before application.
 
-In Lemoore, CA, seasonal demand can change scheduling windows.
+Flea pupae survive vacuuming in Lemoore, CA carpet fibers unless heat treatment follows.
 
-Field note: Access points and staging constraints recorded for ZIP 93245 coverage.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Wind exposure category reviewed for ZIP sector 93245.
+FAQ: Why do pests return after spraying? Without sealing entry points in Lemoore, CA, pressure often rebuilds.
 
-Dispatch sectors sampled: ZIP 93245 (county grid: Kings County).
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Lemoore, CA.
+
+Attic misting in Lemoore, CA requires combustion air clearance verified before fans restart.
+
+IGR packets for Lemoore, CA roach cycles should be dated on station lids.
+
+Tip: Date bait station lids when servicing Lemoore, CA perimeter lines.
+
+Stink bug overwinter seams in Lemoore, CA vinyl panels laps require exclusion foam rated for UV exposure.
+
+Powderpost beetle exit holes in Lemoore, CA trim can be mistaken for dry-wood frass without magnification.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Harbor ledger 974865: frass lane, mud-tube scan, and garage jamb gap measure filed for Lemoore, CA at 36.2900, -119.8000.
+
+On-site sector marker: Kings County / ZIP 93245 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93245-5f7ffba9

@@ -11,26 +11,39 @@ lng: -83.2400
 zipSample: ["31034", "31061", "31062"]
 zipCodes: ["31034", "31062", "31061"]
 localPaths: ["Baldwin County / ZIP 31061 sector", "Baldwin County / ZIP 31062 sector", "Baldwin County / ZIP 31034 sector", "Baldwin County / coords 33.0900, -83.2400", "Baldwin County / elevation 364 ft band"]
-zillowHomeValueUsd: 243531
 ---
 
-**Engineering Notice for Milledgeville:** Structural loading calculated based on 364 ft terrain assessment. Regional dispatch grid: Baldwin County.
+**Engineering Notice for Milledgeville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baldwin County.
 
 
-Local conditions in Milledgeville, GA can affect timelines and material choices.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 31062.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Milledgeville, GA, but intake notes help reduce delays.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 31062.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Tip: compare at least two estimates for scope and timeline.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 31062/31034/31061.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Wind exposure category reviewed for ZIP sector 31062/31034/31061.
+Attic misting in Milledgeville, GA requires combustion air clearance verified before fans restart.
 
-Dispatch sectors sampled: ZIP 31062, 31034, 31061 (county grid: Baldwin County).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 31062.
+
+Bird mites in Milledgeville, GA exhaust vents can persist after host nests are removed.
+
+Cluster fly attic staging in Milledgeville, GA peaks on south-facing voids after sunny thaw days.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+IGR packets for Milledgeville, GA roach cycles should be dated on station lids.
+
+Species trace 407682: re-entry interval label and conducive moisture note keyed to Milledgeville, GA elevation 364 ft.
+
+Harbor ledger 407682: frass lane, mud-tube scan, and garage jamb gap measure filed for Milledgeville, GA at 33.0900, -83.2400.
+
+Primary postal anchor 31062 with multi-ZIP overlap in Milledgeville; field packets tag Baldwin County for county-grid reconciliation.
 
 Service reference: GA-31062-d00d134b

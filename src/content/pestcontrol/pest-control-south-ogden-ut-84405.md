@@ -11,25 +11,41 @@ lng: -111.9600
 zipSample: ["84405", "84403"]
 zipCodes: ["84405", "84403"]
 localPaths: ["Weber County / elevation 4688 ft band", "Weber County / coords 41.1700, -111.9600", "Weber County / primary ZIP 84405", "Weber County / ZIP 84403 sector", "Weber County / ZIP 84405 sector"]
-zillowHomeValueUsd: 460475
 ---
 
-**Engineering Notice for South Ogden:** Structural loading calculated based on 4688 ft terrain assessment. Regional dispatch grid: Weber County.
+**Engineering Notice for South Ogden:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Weber County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 84405.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 84405.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in South Ogden, UT, but intake notes help reduce delays.
+FAQ: Can bed bugs spread room-to-room in South Ogden, UT row homes? Wall voids and shared ducts accelerate transfer.
 
-Our service coordination centers on South Ogden, UT coverage windows and verified intake details.
+Mud dauber nests in South Ogden, UT porch ceilings are benign but signal prey density for spiders.
 
-Tip: request a written scope before work starts.
+Bird mites in South Ogden, UT exhaust vents can persist after host nests are removed.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Perimeter granule carriers in South Ogden, UT clay soils may need lighter irrigation before application.
 
-Field note: Wind exposure category reviewed for ZIP sector 84403/84405.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Dispatch sectors sampled: ZIP 84403, 84405 (county grid: Weber County).
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Drain fly biofilm in South Ogden, UT floor drains signals grease traps need service before gel baits.
+
+Spider populations in South Ogden, UT eaves can signal insect prey density.
+
+Carpenter ant frass in South Ogden, UT window sills may indicate moisture-softened framing.
+
+Powderpost beetle exit holes in South Ogden, UT trim can be mistaken for dry-wood frass without magnification.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in South Ogden, UT.
+
+Risk flag: Overwatered South Ogden, UT planters can restart ant bridges within two weeks.
+
+Exclusion audit 430594: exclusion mesh gauge and rodent runway grease mark reviewed for South Ogden, UT at 41.1700/-111.9600.
+
+On-site sector marker: Weber County / elevation 4688 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84405-0378885d

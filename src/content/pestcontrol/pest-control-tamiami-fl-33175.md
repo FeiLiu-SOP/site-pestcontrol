@@ -11,26 +11,41 @@ lng: -80.4000
 zipSample: ["33184", "33182", "33175", "33265"]
 zipCodes: ["33184", "33182", "33265", "33175"]
 localPaths: ["Miami-Dade County / ZIP 33184 sector", "Miami-Dade County / ZIP 33182 sector", "Miami-Dade County / primary ZIP 33175", "Miami-Dade County / ZIP 33175 sector", "Miami-Dade County / coords 25.7600, -80.4000"]
-zillowHomeValueUsd: 622029
 ---
 
-**Engineering Notice for Tamiami:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Tamiami:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Monitoring boards in Tamiami, FL crawlspaces stay 72 hours before snap traps are reset.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+IGR packets for Tamiami, FL roach cycles should be dated on station lids.
 
-Clear documentation helps align materials, labor, and timeline.
+Step: label treatment zones for occupant re-entry timing.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 33175.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Dry-wood termite pellets in Tamiami, FL attics may appear before exterior mud tubes.
 
-Field note: Wind exposure category reviewed for ZIP sector 33184/33175/33265.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Field note: Access points and staging constraints recorded for ZIP 33184/33175/33265 coverage.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Dispatch sectors sampled: ZIP 33184, 33175, 33265, 33182 (county grid: Miami-Dade County).
+Risk flag: In Tamiami, FL, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Attic fogging in Tamiami, FL requires combustion appliance shutoff verification first.
+
+Yellow jacket nests in Tamiami, FL soffit cavities peak in late summer routing windows.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Zone map 568138: attic insulation disturbance trace and pantry pest source logged for Tamiami, FL sector 33175.
+
+Seasonal cue 568138: cluster fly attic staging reviewed for Tamiami, FL soffit cavities.
+
+Coordinate-anchored dispatch note: center reference 25.7600, -80.4000 at elevation ~30 ft aligns with Miami-Dade County intake staging.
 
 Service reference: FL-33175-47a8f063

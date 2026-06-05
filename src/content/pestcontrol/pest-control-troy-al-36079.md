@@ -11,26 +11,39 @@ lng: -85.9700
 zipSample: ["36081", "36082", "36079"]
 zipCodes: ["36081", "36079", "36082"]
 localPaths: ["Pike County / ZIP 36081 sector", "Pike County / ZIP 36079 sector", "Pike County / ZIP 36082 sector", "Pike County / coords 31.8000, -85.9700", "Pike County / primary ZIP 36079"]
-zillowHomeValueUsd: 206621
 ---
 
-**Engineering Notice for Troy:** Structural loading calculated based on 551 ft terrain assessment. Regional dispatch grid: Pike County.
+**Engineering Notice for Troy:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pike County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Earwig harborages in Troy, AL meter boxes often follow drip irrigation overspray.
 
-We coordinate local dispatch coverage around Troy, AL and nearby ZIP sectors.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Troy, AL, but intake notes help reduce delays.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Tip: compare at least two estimates for scope and timeline.
+Yellow jacket nests in Troy, AL soffit cavities peak in late summer routing windows.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Mosquito breeding in Troy, AL catch basins can amplify perimeter callbacks.
 
-Field note: Connection points spot-checked where accessible (ZIP 36082/36081/36079 zone).
+Material note: Perimeter granules in Troy, AL may need reapplication after heavy irrigation.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 36082/36081/36079.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Dispatch sectors sampled: ZIP 36082, 36081, 36079 (county grid: Pike County).
+Tip: Keep pet food elevated and sealed between service visits.
+
+Exclusion gaps at garage jambs in Troy, AL are common rodent access points.
+
+State note: Troy, AL commercial kitchens may require separate documentation for audit visits.
+
+FAQ: What is exclusion? Without sealing entry points in Troy, AL, pressure often rebuilds.
+
+Risk flag: In Troy, AL, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Intercept log 404648: bed bug intercept count staged before Troy, AL interior gel zones.
+
+Seasonal cue 404648: cluster fly attic staging reviewed for Troy, AL soffit cavities.
+
+On-site sector marker: Pike County / coords 31.8000, -85.9700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36079-c415628f

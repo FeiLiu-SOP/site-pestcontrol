@@ -11,26 +11,39 @@ lng: -73.4500
 zipSample: ["11735"]
 zipCodes: ["11735"]
 localPaths: ["Nassau County / ZIP 11735 sector", "Nassau County / elevation 52 ft band", "Nassau County / coords 40.7200, -73.4500", "Nassau County / primary ZIP 11735"]
-zillowHomeValueUsd: 716925
 ---
 
-**Engineering Notice for South Farmingdale:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for South Farmingdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.
 
 
-Tip: avoid large upfront payments without milestones.
+Material note: Perimeter granules in South Farmingdale, NY may need reapplication after heavy irrigation.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Dry-wood termite pellets in South Farmingdale, NY attics may appear before exterior mud tubes.
 
-Tip: request a written scope before work starts.
+State note: South Farmingdale, NY commercial kitchens may require separate documentation for audit visits.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Monitoring boards in South Farmingdale, NY crawlspaces stay 72 hours before snap traps are reset.
 
-Field note: Moisture pathway inspection logged near ZIP 11735 intake.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11735.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 11735 (county grid: Nassau County).
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Perimeter mulch beds in South Farmingdale, NY should be reviewed for ant bridge paths.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Mud dauber nests in South Farmingdale, NY porch ceilings are benign but signal prey density for spiders.
+
+Exclusion audit 252433: exclusion mesh gauge and rodent runway grease mark reviewed for South Farmingdale, NY at 40.7200/-73.4500.
+
+Perimeter dossier 252433: bait station anchor map and mulch bridge risk flagged for South Farmingdale, NY county Nassau County (ZIP 11735).
+
+Coordinate-anchored dispatch note: center reference 40.7200, -73.4500 at elevation ~52 ft aligns with Nassau County intake staging.
 
 Service reference: NY-11735-bf8c9f03

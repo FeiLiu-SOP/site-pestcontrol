@@ -11,27 +11,39 @@ lng: -82.4200
 zipSample: ["43055", "43058", "43093"]
 zipCodes: ["43055", "43058", "43093"]
 localPaths: ["Licking County / elevation 856 ft band", "Licking County / ZIP 43055 sector", "Licking County / coords 40.0700, -82.4200", "Licking County / ZIP 43058 sector", "Licking County / ZIP 43093 sector"]
-zillowHomeValueUsd: 245632
 ---
 
-**Engineering Notice for Newark:** Structural loading calculated based on 856 ft terrain assessment. Regional dispatch grid: Licking County.
+**Engineering Notice for Newark:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Licking County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Attic misting in Newark, OH requires combustion air clearance verified before fans restart.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 43055.
+IGR packets for Newark, OH roach cycles should be dated on station lids.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Log pet access routes when bait stations are placed.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify attic access safety before insulation disturbance.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Trim vegetation 12 inches from cladding service to reduce ant bridges.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 43093/43055/43058.
+Humidity in Newark, OH can sustain cockroach harborages behind appliance voids.
 
-Field note: Moisture pathway inspection logged near ZIP 43093/43055/43058 intake.
+Spider populations in Newark, OH eaves can signal insect prey density.
 
-Dispatch sectors sampled: ZIP 43093, 43055, 43058 (county grid: Licking County).
+Step: separate bait rotation schedules from crack-and-crevice applications in Newark, OH.
+
+Stink bug overwinter seams in Newark, OH cladding service laps require exclusion foam rated for UV exposure.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Mud dauber nests in Newark, OH porch ceilings are benign but signal prey density for spiders.
+
+Intercept log 355847: bed bug intercept count staged before Newark, OH interior gel zones.
+
+Exclusion audit 355847: exclusion mesh gauge and rodent runway grease mark reviewed for Newark, OH at 40.0700/-82.4200.
+
+On-site sector marker: Licking County / ZIP 43055 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-43055-ee2eea72

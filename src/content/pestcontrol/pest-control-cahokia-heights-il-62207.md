@@ -11,26 +11,41 @@ lng: -90.1500
 zipSample: ["62207", "62203", "62205", "62206"]
 zipCodes: ["62206", "62205", "62207", "62203"]
 localPaths: ["St. Clair County / ZIP 62206 sector", "St. Clair County / primary ZIP 62207", "St. Clair County / ZIP 62205 sector", "St. Clair County / coords 38.5700, -90.1500", "St. Clair County / ZIP 62207 sector"]
-zillowHomeValueUsd: 42228
 ---
 
-**Engineering Notice for Cahokia Heights:** Structural loading calculated based on 394 ft terrain assessment. Regional dispatch grid: St. Clair County.
+**Engineering Notice for Cahokia Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Clair County.
 
 
-We coordinate local dispatch coverage around Cahokia Heights, IL and nearby ZIP sectors.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 62207.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Perimeter granule carriers in Cahokia Heights, IL clay soils may need lighter irrigation before application.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Moisture pathway inspection logged near ZIP 62207/62205/62206 intake.
+Drain fly biofilm in Cahokia Heights, IL floor drains signals grease traps need service before gel baits.
 
-Field note: Access points and staging constraints recorded for ZIP 62207/62205/62206 coverage.
+Tip: Date bait station lids when servicing Cahokia Heights, IL perimeter lines.
 
-Dispatch sectors sampled: ZIP 62207, 62205, 62206, 62203 (county grid: St. Clair County).
+Mosquito breeding in Cahokia Heights, IL catch basins can amplify perimeter callbacks.
+
+Fire ant mounds in Cahokia Heights, IL drive seams need granule rotation after irrigation events.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Clover mite staining on Cahokia Heights, IL exterior cladding follows foundation mulch against brick ledges.
+
+In Cahokia Heights, IL, subterranean termite swarms often follow warm rain windows.
+
+Step: map entry points with photo logs before sealing.
+
+Seasonal cue 983827: cluster fly attic staging reviewed for Cahokia Heights, IL soffit cavities.
+
+Zone map 983827: attic insulation disturbance trace and pantry pest source logged for Cahokia Heights, IL sector 62207.
+
+On-site sector marker: St. Clair County / coords 38.5700, -90.1500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-62207-63a6c4cf

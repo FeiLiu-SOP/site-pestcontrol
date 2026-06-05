@@ -11,24 +11,37 @@ lng: -86.2700
 zipSample: ["46616", "46635", "46628", "46626", "46614"]
 zipCodes: ["46617", "46628", "46634", "46614", "46660", "46626", "46635", "46699", "46615", "46619", "46680", "46616"]
 localPaths: ["St. Joseph County / ZIP 46614 sector", "St. Joseph County / coords 41.6800, -86.2700", "St. Joseph County / elevation 719 ft band", "St. Joseph County / ZIP 46628 sector", "St. Joseph County / ZIP 46626 sector"]
-zillowHomeValueUsd: 144096
 ---
 
-**Engineering Notice for South Bend:** Structural loading calculated based on 719 ft terrain assessment. Regional dispatch grid: St. Joseph County.
+**Engineering Notice for South Bend:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Joseph County.
 
 
-Homeowners in South Bend, IN often face sudden pest control problems that require fast action.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in South Bend, IN, but intake notes help reduce delays.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 46616.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: label treatment zones for occupant re-entry timing.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Cluster fly attic staging in South Bend, IN peaks on south-facing voids after sunny thaw days.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 46634/46680/46613.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Dispatch sectors sampled: ZIP 46634, 46680, 46613, 46699, 46660 (county grid: St. Joseph County).
+Seasonal pest pressure in South Bend, IN shifts between moisture ants and dry-wood vectors.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Perimeter mulch beds in South Bend, IN should be reviewed for ant bridge paths.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Attic misting in South Bend, IN requires combustion air clearance verified before fans restart.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Perimeter dossier 982829: bait station anchor map and mulch bridge risk flagged for South Bend, IN county St. Joseph County (ZIP 46616).
+
+On-site sector marker: St. Joseph County / ZIP 46660 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46616-dd342af6

@@ -11,26 +11,37 @@ lng: -121.9000
 zipSample: ["94568"]
 zipCodes: ["94568"]
 localPaths: ["Alameda County / coords 37.7200, -121.9000", "Alameda County / ZIP 94568 sector", "Alameda County / elevation 354 ft band", "Alameda County / primary ZIP 94568"]
-zillowHomeValueUsd: 1306767
 ---
 
-**Engineering Notice for Dublin:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Alameda County.
+**Engineering Notice for Dublin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alameda County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Perimeter granule carriers in Dublin, CA clay soils may need lighter irrigation before application.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Why do pests return after spraying? Without sealing entry points in Dublin, CA, pressure often rebuilds.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Dublin, CA, but intake notes help reduce delays.
+We coordinate Dublin, CA pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Cluster fly attic staging in Dublin, CA peaks on south-facing voids after sunny thaw days.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Dublin, CA.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94568.
+Attic misting in Dublin, CA requires combustion air clearance verified before fans restart.
 
-Field note: Connection points spot-checked where accessible (ZIP 94568 zone).
+IGR packets for Dublin, CA roach cycles should be dated on station lids.
 
-Dispatch sectors sampled: ZIP 94568 (county grid: Alameda County).
+Drain fly biofilm in Dublin, CA floor drains signals grease traps need service before gel baits.
+
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+In Dublin, CA, subterranean termite swarms often follow warm rain windows.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Seasonal cue 286095: cluster fly attic staging reviewed for Dublin, CA soffit cavities.
+
+On-site sector marker: Alameda County / ZIP 94568 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94568-fd15aa54

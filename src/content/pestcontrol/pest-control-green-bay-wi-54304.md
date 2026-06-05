@@ -11,24 +11,39 @@ lng: -87.9900
 zipSample: ["54311", "54303", "54305", "54301", "54306"]
 zipCodes: ["54301", "54308", "54302", "54303", "54304", "54305", "54306", "54311"]
 localPaths: ["Brown County / primary ZIP 54304", "Brown County / ZIP 54303 sector", "Brown County / elevation 591 ft band", "Brown County / coords 44.5100, -87.9900", "Brown County / ZIP 54301 sector"]
-zillowHomeValueUsd: 289039
 ---
 
-**Engineering Notice for Green Bay:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Brown County.
+**Engineering Notice for Green Bay:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brown County.
 
 
-Tip: request a written scope before work starts.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-We coordinate local dispatch coverage around Green Bay, WI and nearby ZIP sectors.
+Tip: Log pet access routes when bait stations are placed.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic misting in Green Bay, WI requires combustion air clearance verified before fans restart.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Access points and staging constraints recorded for ZIP 54311/54308/54304 coverage.
+Bird mites in Green Bay, WI exhaust vents can persist after host nests are removed.
 
-Dispatch sectors sampled: ZIP 54311, 54308, 54304, 54305, 54303 (county grid: Brown County).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 54304.
+
+Cluster fly attic staging in Green Bay, WI peaks on south-facing voids after sunny thaw days.
+
+Yellow jacket nests in Green Bay, WI soffit cavities peak in late summer routing windows.
+
+Powderpost beetle exit holes in Green Bay, WI trim can be mistaken for dry-wood frass without magnification.
+
+County grid Brown County informs routing near ZIP 54304.
+
+Risk flag: Overwatered Green Bay, WI planters can restart ant bridges within two weeks.
+
+Harbor ledger 304984: frass lane, mud-tube scan, and garage jamb gap measure filed for Green Bay, WI at 44.5100, -87.9900.
+
+Species trace 304984: re-entry interval label and conducive moisture note keyed to Green Bay, WI elevation 591 ft.
+
+On-site sector marker: Brown County / ZIP 54308 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-54304-81e1615b

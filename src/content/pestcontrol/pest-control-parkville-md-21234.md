@@ -11,26 +11,41 @@ lng: -76.5500
 zipSample: ["21234"]
 zipCodes: ["21234"]
 localPaths: ["Baltimore County / coords 39.3800, -76.5500", "Baltimore County / primary ZIP 21234", "Baltimore County / elevation 351 ft band", "Baltimore County / ZIP 21234 sector"]
-zillowHomeValueUsd: 301667
 ---
 
-**Engineering Notice for Parkville:** Structural loading calculated based on 351 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Parkville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Parkville, MD, but intake notes help reduce delays.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Parkville, MD.
 
-Local conditions in Parkville, MD can affect timelines and material choices.
+We coordinate Parkville, MD pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Tip: confirm licensing and insurance before approving work.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Wind exposure category reviewed for ZIP sector 21234.
+Tip: Date bait station lids when servicing Parkville, MD perimeter lines.
 
-Field note: Access points and staging constraints recorded for ZIP 21234 coverage.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Dispatch sectors sampled: ZIP 21234 (county grid: Baltimore County).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Flea pupae survive vacuuming in Parkville, MD carpet fibers unless heat treatment follows.
+
+Cluster fly attic staging in Parkville, MD peaks on south-facing voids after sunny thaw days.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Exclusion audit 406534: exclusion mesh gauge and rodent runway grease mark reviewed for Parkville, MD at 39.3800/-76.5500.
+
+Intercept log 406534: bed bug intercept count staged before Parkville, MD interior gel zones.
+
+Primary postal anchor 21234 with multi-ZIP overlap in Parkville; field packets tag Baltimore County for county-grid reconciliation.
 
 Service reference: MD-21234-9214445f

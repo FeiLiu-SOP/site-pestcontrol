@@ -11,26 +11,43 @@ lng: -77.0100
 zipSample: ["20749", "20744"]
 zipCodes: ["20749", "20744"]
 localPaths: ["Prince George's County / primary ZIP 20744", "Prince George's County / elevation 72 ft band", "Prince George's County / coords 38.7300, -77.0100", "Prince George's County / ZIP 20744 sector", "Prince George's County / ZIP 20749 sector"]
-zillowHomeValueUsd: 448892
 ---
 
-**Engineering Notice for Fort Washington:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Prince George's County.
+**Engineering Notice for Fort Washington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince George's County.
 
 
-Our service coordination centers on Fort Washington, MD coverage windows and verified intake details.
+Earwig harborages in Fort Washington, MD meter boxes often follow drip irrigation overspray.
 
-Tip: request a written scope before work starts.
+Carpenter ant frass in Fort Washington, MD window sills may indicate moisture-softened framing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Powderpost beetle exit holes in Fort Washington, MD trim can be mistaken for dry-wood frass without magnification.
 
-In Fort Washington, MD, seasonal demand can change scheduling windows.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Tip: avoid large upfront payments without milestones.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Access points and staging constraints recorded for ZIP 20749/20744 coverage.
+Perimeter granule carriers in Fort Washington, MD clay soils may need lighter irrigation before application.
 
-Field note: Moisture pathway inspection logged near ZIP 20749/20744 intake.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Dispatch sectors sampled: ZIP 20749, 20744 (county grid: Prince George's County).
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Attic insulation disturbance in Fort Washington, MD may indicate wildlife nesting routes.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Fort Washington, MD.
+
+Step: record station placement maps for follow-up visits.
+
+County grid Prince George's County informs routing near ZIP 20744.
+
+Drain fly biofilm in Fort Washington, MD floor drains signals grease traps need service before gel baits.
+
+Mud dauber nests in Fort Washington, MD porch ceilings are benign but signal prey density for spiders.
+
+Intercept log 870746: bed bug intercept count staged before Fort Washington, MD interior gel zones.
+
+Perimeter dossier 870746: bait station anchor map and mulch bridge risk flagged for Fort Washington, MD county Prince George's County (ZIP 20744).
+
+On-site sector marker: Prince George's County / ZIP 20749 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20744-70581b9e

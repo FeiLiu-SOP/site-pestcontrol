@@ -11,26 +11,41 @@ lng: -94.3800
 zipSample: ["55350"]
 zipCodes: ["55350"]
 localPaths: ["McLeod County / primary ZIP 55350", "McLeod County / coords 44.8900, -94.3800", "McLeod County / ZIP 55350 sector", "McLeod County / elevation 1079 ft band"]
-zillowHomeValueUsd: 293376
 ---
 
-**Engineering Notice for Hutchinson:** Structural loading calculated based on 1079 ft terrain assessment. Regional dispatch grid: McLeod County.
+**Engineering Notice for Hutchinson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: McLeod County.
 
 
-Tip: request a written scope before work starts.
+Attic misting in Hutchinson, MN requires combustion air clearance verified before fans restart.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-We coordinate local dispatch coverage around Hutchinson, MN and nearby ZIP sectors.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hutchinson, MN, but intake notes help reduce delays.
+Powderpost beetle exit holes in Hutchinson, MN trim can be mistaken for dry-wood frass without magnification.
 
-Local conditions in Hutchinson, MN can affect timelines and material choices.
+Mosquito breeding in Hutchinson, MN catch basins can amplify perimeter callbacks.
 
-Field note: Wind exposure category reviewed for ZIP sector 55350.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Moisture pathway inspection logged near ZIP 55350 intake.
+Seasonal pest pressure in Hutchinson, MN shifts between moisture ants and dry-wood vectors.
 
-Dispatch sectors sampled: ZIP 55350 (county grid: McLeod County).
+IGR packets for Hutchinson, MN roach cycles should be dated on station lids.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Monitoring boards in Hutchinson, MN crawlspaces stay 72 hours before snap traps are reset.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Harbor ledger 304724: frass lane, mud-tube scan, and garage jamb gap measure filed for Hutchinson, MN at 44.8900, -94.3800.
+
+Species trace 304724: re-entry interval label and conducive moisture note keyed to Hutchinson, MN elevation 1079 ft.
+
+On-site sector marker: McLeod County / elevation 1079 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55350-4ad94ea7

@@ -11,26 +11,41 @@ lng: -121.8000
 zipSample: ["94509", "94531"]
 zipCodes: ["94509", "94531"]
 localPaths: ["Contra Costa County / ZIP 94509 sector", "Contra Costa County / elevation 213 ft band", "Contra Costa County / coords 37.9800, -121.8000", "Contra Costa County / ZIP 94531 sector", "Contra Costa County / primary ZIP 94531"]
-zillowHomeValueUsd: 669695
 ---
 
-**Engineering Notice for Antioch:** Structural loading calculated based on 213 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Antioch:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.
 
 
-Tip: request a written scope before work starts.
+Dry-wood termite pellets in Antioch, CA attics may appear before exterior mud tubes.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Monitoring boards in Antioch, CA crawlspaces stay 72 hours before snap traps are reset.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Antioch, CA.
 
-Transparent pricing helps you compare like-for-like scope items.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 94531.
 
-We coordinate local dispatch coverage around Antioch, CA and nearby ZIP sectors.
+Attic fogging in Antioch, CA requires combustion appliance shutoff verification first.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94531/94509.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Moisture pathway inspection logged near ZIP 94531/94509 intake.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Dispatch sectors sampled: ZIP 94531, 94509 (county grid: Contra Costa County).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 94531.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+FAQ: What is exclusion? Without sealing entry points in Antioch, CA, pressure often rebuilds.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+FAQ: Why schedule quarterly instead of monthly in Antioch, CA? Species pressure and label intervals dictate cadence.
+
+Carpenter ant frass in Antioch, CA window sills may indicate moisture-softened framing.
+
+Zone map 753228: attic insulation disturbance trace and pantry pest source logged for Antioch, CA sector 94531.
+
+Harbor ledger 753228: frass lane, mud-tube scan, and garage jamb gap measure filed for Antioch, CA at 37.9800, -121.8000.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Contra Costa County and primary ZIP 94531. Terrain reference: 213 ft. Center point: 37.9800, -121.8000. ZIP sample: 94531, 94509. Service perimeter note: Coverage extends through Contra Costa County with dispatch centered near ZIP 94531.
 
 Service reference: CA-94531-27eaa202

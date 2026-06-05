@@ -11,24 +11,37 @@ lng: -82.1500
 zipSample: ["29646", "29648", "29647", "29649"]
 zipCodes: ["29649", "29648", "29646", "29647"]
 localPaths: ["Greenwood County / elevation 627 ft band", "Greenwood County / ZIP 29648 sector", "Greenwood County / ZIP 29646 sector", "Greenwood County / ZIP 29647 sector", "Greenwood County / coords 34.1900, -82.1500"]
-zillowHomeValueUsd: 224006
 ---
 
-**Engineering Notice for Greenwood:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Greenwood County.
+**Engineering Notice for Greenwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Greenwood County.
 
 
-Tip: avoid large upfront payments without milestones.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Our service coordination centers on Greenwood, SC coverage windows and verified intake details.
+Tip: Trim vegetation 12 inches from exterior cladding to reduce ant bridges.
 
-A written scope helps prevent rework and mismatched expectations.
+County grid Greenwood County informs routing near ZIP 29649.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Greenwood, SC.
 
-Field note: Moisture pathway inspection logged near ZIP 29647/29648/29646 intake.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Dispatch sectors sampled: ZIP 29647, 29648, 29646, 29649 (county grid: Greenwood County).
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Monitoring boards in Greenwood, SC crawlspaces stay 72 hours before snap traps are reset.
+
+FAQ: Why schedule quarterly instead of monthly in Greenwood, SC? Species pressure and label intervals dictate cadence.
+
+Tip: Date bait station lids when servicing Greenwood, SC perimeter lines.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Stink bug overwinter seams in Greenwood, SC wall restoration laps require exclusion foam rated for UV exposure.
+
+Intercept log 217151: bed bug intercept count staged before Greenwood, SC interior gel zones.
+
+On-site sector marker: Greenwood County / ZIP 29647 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29649-9aa68b91

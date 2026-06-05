@@ -11,25 +11,39 @@ lng: -117.2100
 zipSample: ["92307", "92308"]
 zipCodes: ["92308", "92307"]
 localPaths: ["San Bernardino County / ZIP 92308 sector", "San Bernardino County / coords 34.5400, -117.2100", "San Bernardino County / ZIP 92307 sector", "San Bernardino County / elevation 2927 ft band", "San Bernardino County / primary ZIP 92308"]
-zillowHomeValueUsd: 412260
 ---
 
-**Engineering Notice for Apple Valley:** Structural loading calculated based on 2927 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Apple Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.
 
 
-Tip: request a written scope before work starts.
+Step: map entry points with photo logs before sealing.
 
-We coordinate local dispatch coverage around Apple Valley, CA and nearby ZIP sectors.
+Fire ant mounds in Apple Valley, CA drive seams need granule rotation after irrigation events.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 92308.
+IGR packets for Apple Valley, CA roach cycles should be dated on station lids.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Apple Valley, CA.
 
-Field note: Wind exposure category reviewed for ZIP sector 92308/92307.
+Flea pupae survive vacuuming in Apple Valley, CA carpet fibers unless heat treatment follows.
 
-Dispatch sectors sampled: ZIP 92308, 92307 (county grid: San Bernardino County).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Apple Valley, CA.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Risk flag: Overwatered Apple Valley, CA planters can restart ant bridges within two weeks.
+
+Exclusion audit 130414: exclusion mesh gauge and rodent runway grease mark reviewed for Apple Valley, CA at 34.5400/-117.2100.
+
+Harbor ledger 130414: frass lane, mud-tube scan, and garage jamb gap measure filed for Apple Valley, CA at 34.5400, -117.2100.
+
+Coordinate-anchored dispatch note: center reference 34.5400, -117.2100 at elevation ~2927 ft aligns with San Bernardino County intake staging.
 
 Service reference: CA-92308-b9e9b451

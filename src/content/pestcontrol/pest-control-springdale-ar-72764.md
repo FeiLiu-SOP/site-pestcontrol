@@ -11,25 +11,37 @@ lng: -94.1600
 zipSample: ["72762", "72766", "72764", "72765"]
 zipCodes: ["72765", "72766", "72762", "72764"]
 localPaths: ["Washington County / primary ZIP 72764", "Washington County / elevation 1345 ft band", "Washington County / ZIP 72762 sector", "Washington County / ZIP 72766 sector", "Washington County / ZIP 72765 sector"]
-zillowHomeValueUsd: 315161
 ---
 
-**Engineering Notice for Springdale:** Structural loading calculated based on 1345 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Springdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Fire ant mounds in Springdale, AR drive seams need granule rotation after irrigation events.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 72764.
+Silverfish activity in Springdale, AR attics tracks cardboard storage and ridge vent gaps.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-We coordinate local dispatch coverage around Springdale, AR and nearby ZIP sectors.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Connection points spot-checked where accessible (ZIP 72766/72765/72762 zone).
+Perimeter granule carriers in Springdale, AR clay soils may need lighter irrigation before application.
 
-Dispatch sectors sampled: ZIP 72766, 72765, 72762, 72764 (county grid: Washington County).
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 72764.
+
+Carpenter ant frass in Springdale, AR window sills may indicate moisture-softened framing.
+
+Flea pupae survive vacuuming in Springdale, AR carpet fibers unless heat treatment follows.
+
+Mud dauber nests in Springdale, AR porch ceilings are benign but signal prey density for spiders.
+
+Attic fogging in Springdale, AR requires combustion appliance shutoff verification first.
+
+Risk flag: In Springdale, AR, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Species trace 117787: re-entry interval label and conducive moisture note keyed to Springdale, AR elevation 1345 ft.
+
+Coordinate-anchored dispatch note: center reference 36.1900, -94.1600 at elevation ~1345 ft aligns with Washington County intake staging.
 
 Service reference: AR-72764-928bab92

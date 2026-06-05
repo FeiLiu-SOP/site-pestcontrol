@@ -11,27 +11,39 @@ lng: -73.9300
 zipSample: ["12307", "12325", "12345", "12308", "12301"]
 zipCodes: ["12307", "12345", "12308", "12309", "12325", "12305", "12304", "12301"]
 localPaths: ["Schenectady County / ZIP 12307 sector", "Schenectady County / ZIP 12308 sector", "Schenectady County / ZIP 12345 sector", "Schenectady County / ZIP 12301 sector", "Schenectady County / coords 42.8000, -73.9300"]
-zillowHomeValueUsd: 281376
 ---
 
-**Engineering Notice for Schenectady:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Schenectady County.
+**Engineering Notice for Schenectady:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Schenectady County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Homeowners in Schenectady, NY often face sudden pest control problems that require fast action.
+Bird mites in Schenectady, NY exhaust vents can persist after host nests are removed.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 12305.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: address recurring issues early to prevent bigger damage.
+Powderpost beetle exit holes in Schenectady, NY trim can be mistaken for dry-wood frass without magnification.
 
-Field note: Wind exposure category reviewed for ZIP sector 12307/12301/12308.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 12307/12301/12308.
+Stink bug overwinter seams in Schenectady, NY cladding service laps require exclusion foam rated for UV exposure.
 
-Dispatch sectors sampled: ZIP 12307, 12301, 12308, 12325, 12305 (county grid: Schenectady County).
+Spider populations in Schenectady, NY eaves can signal insect prey density.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Carpenter ant frass in Schenectady, NY window sills may indicate moisture-softened framing.
+
+FAQ: Can bed bugs spread room-to-room in Schenectady, NY row homes? Wall voids and shared ducts accelerate transfer.
+
+FAQ: Why schedule quarterly instead of monthly in Schenectady, NY? Species pressure and label intervals dictate cadence.
+
+Fire ant mounds in Schenectady, NY drive seams need granule rotation after irrigation events.
+
+Zone map 263299: attic insulation disturbance trace and pantry pest source logged for Schenectady, NY sector 12305.
+
+On-site sector marker: Schenectady County / elevation 348 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-12305-c5a222ea

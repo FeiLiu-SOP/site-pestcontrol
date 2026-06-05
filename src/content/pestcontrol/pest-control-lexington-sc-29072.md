@@ -11,27 +11,39 @@ lng: -81.2200
 zipSample: ["29071", "29072"]
 zipCodes: ["29072", "29071"]
 localPaths: ["Lexington County / ZIP 29071 sector", "Lexington County / elevation 338 ft band", "Lexington County / coords 33.9900, -81.2200", "Lexington County / primary ZIP 29072", "Lexington County / ZIP 29072 sector"]
-zillowHomeValueUsd: 361357
 ---
 
-**Engineering Notice for Lexington:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Lexington County.
+**Engineering Notice for Lexington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lexington County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Lexington, SC, but intake notes help reduce delays.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 29072.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 29072.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 29072.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 29072.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-We coordinate local dispatch coverage around Lexington, SC and nearby ZIP sectors.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Field note: Access points and staging constraints recorded for ZIP 29072/29071 coverage.
+FAQ: Why do pests return after spraying? Without sealing entry points in Lexington, SC, pressure often rebuilds.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 29072/29071.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Dispatch sectors sampled: ZIP 29072, 29071 (county grid: Lexington County).
+State note: Lexington, SC commercial kitchens may require separate documentation for audit visits.
+
+Tip: Trim vegetation 12 inches from exterior cladding to reduce ant bridges.
+
+FAQ: Can bed bugs spread room-to-room in Lexington, SC row homes? Wall voids and shared ducts accelerate transfer.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Intercept log 642164: bed bug intercept count staged before Lexington, SC interior gel zones.
+
+Seasonal cue 642164: cluster fly attic staging reviewed for Lexington, SC soffit cavities.
+
+Primary postal anchor 29072 with multi-ZIP overlap in Lexington; field packets tag Lexington County for county-grid reconciliation.
 
 Service reference: SC-29072-f4af18ba

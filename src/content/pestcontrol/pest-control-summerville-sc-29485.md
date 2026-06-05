@@ -11,26 +11,43 @@ lng: -80.1800
 zipSample: ["29484", "29483", "29485", "29486"]
 zipCodes: ["29485", "29486", "29483", "29484"]
 localPaths: ["Dorchester County / ZIP 29483 sector", "Dorchester County / ZIP 29485 sector", "Dorchester County / primary ZIP 29485", "Dorchester County / ZIP 29484 sector", "Dorchester County / coords 33.0000, -80.1800"]
-zillowHomeValueUsd: 366085
 ---
 
-**Engineering Notice for Summerville:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Dorchester County.
+**Engineering Notice for Summerville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dorchester County.
 
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Summerville, SC, but intake notes help reduce delays.
+Material note: Perimeter granules in Summerville, SC may need reapplication after heavy irrigation.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic fogging in Summerville, SC requires combustion appliance shutoff verification first.
 
-Our service coordination centers on Summerville, SC coverage windows and verified intake details.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Tip: address recurring issues early to prevent bigger damage.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 29485/29484/29486.
+Request an inspection with species ID before treatment. Serving ZIP Code: 29485.
 
-Field note: Access points and staging constraints recorded for ZIP 29485/29484/29486 coverage.
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
 
-Dispatch sectors sampled: ZIP 29485, 29484, 29486, 29483 (county grid: Dorchester County).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Powderpost beetle exit holes in Summerville, SC trim can be mistaken for dry-wood frass without magnification.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+IGR packets for Summerville, SC roach cycles should be dated on station lids.
+
+Mosquito breeding in Summerville, SC catch basins can amplify perimeter callbacks.
+
+Perimeter dossier 186807: bait station anchor map and mulch bridge risk flagged for Summerville, SC county Dorchester County (ZIP 29485).
+
+Harbor ledger 186807: frass lane, mud-tube scan, and garage jamb gap measure filed for Summerville, SC at 33.0000, -80.1800.
+
+Primary postal anchor 29485 with multi-ZIP overlap in Summerville; field packets tag Dorchester County for county-grid reconciliation.
 
 Service reference: SC-29485-cf0beaa6

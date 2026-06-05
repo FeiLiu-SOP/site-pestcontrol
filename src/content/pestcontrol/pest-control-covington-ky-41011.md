@@ -11,24 +11,41 @@ lng: -84.5200
 zipSample: ["41014", "41016", "41011", "41017", "41015"]
 zipCodes: ["41014", "41015", "41011", "41016", "41017"]
 localPaths: ["Kenton County / ZIP 41017 sector", "Kenton County / ZIP 41014 sector", "Kenton County / ZIP 41016 sector", "Kenton County / coords 39.0300, -84.5200", "Kenton County / elevation 778 ft band"]
-zillowHomeValueUsd: 285320
 ---
 
-**Engineering Notice for Covington:** Structural loading calculated based on 778 ft terrain assessment. Regional dispatch grid: Kenton County.
+**Engineering Notice for Covington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kenton County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-A written scope helps prevent rework and mismatched expectations.
+Carpenter ant frass in Covington, KY window sills may indicate moisture-softened framing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Covington, KY, but intake notes help reduce delays.
+Bird mites in Covington, KY exhaust vents can persist after host nests are removed.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep pet food elevated and sealed between service visits.
 
-In Covington, KY, seasonal demand can change scheduling windows.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Field note: Wind exposure category reviewed for ZIP sector 41015/41014/41017.
+Cluster fly attic staging in Covington, KY peaks on south-facing voids after sunny thaw days.
 
-Dispatch sectors sampled: ZIP 41015, 41014, 41017, 41011, 41016 (county grid: Kenton County).
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Exclusion gaps at garage jambs in Covington, KY are common rodent access points.
+
+Drain fly biofilm in Covington, KY floor drains signals grease traps need service before gel baits.
+
+Yellow jacket nests in Covington, KY soffit cavities peak in late summer routing windows.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Earwig harborages in Covington, KY meter boxes often follow drip irrigation overspray.
+
+Exclusion audit 116182: exclusion mesh gauge and rodent runway grease mark reviewed for Covington, KY at 39.0300/-84.5200.
+
+Zone map 116182: attic insulation disturbance trace and pantry pest source logged for Covington, KY sector 41011.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Kenton County. Reference elevation: 778 ft. Primary coordinates: 39.0300, -84.5200. ZIP sample: 41015, 41011, 41017, 41014, 41016. Regional routing note: Kenton County traffic flow is balanced around ZIP 41011 service demand.
 
 Service reference: KY-41011-94d0bdf4

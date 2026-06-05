@@ -11,25 +11,37 @@ lng: -122.7800
 zipSample: ["97281", "97223", "97224"]
 zipCodes: ["97224", "97281", "97223"]
 localPaths: ["Washington County / ZIP 97281 sector", "Washington County / ZIP 97223 sector", "Washington County / ZIP 97224 sector", "Washington County / primary ZIP 97224", "Washington County / coords 45.4200, -122.7800"]
-zillowHomeValueUsd: 607933
 ---
 
-**Engineering Notice for Tigard:** Structural loading calculated based on 230 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Tigard:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify attic access safety before insulation disturbance.
 
-We coordinate local dispatch coverage around Tigard, OR and nearby ZIP sectors.
+Bird mites in Tigard, OR exhaust vents can persist after host nests are removed.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Tigard, OR, but intake notes help reduce delays.
+We coordinate Tigard, OR pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 97224.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Mosquito breeding in Tigard, OR catch basins can amplify perimeter callbacks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 97224/97281/97223.
+Stink bug overwinter seams in Tigard, OR vinyl panels laps require exclusion foam rated for UV exposure.
 
-Dispatch sectors sampled: ZIP 97224, 97281, 97223 (county grid: Washington County).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Spider populations in Tigard, OR eaves can signal insect prey density.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Perimeter granule carriers in Tigard, OR clay soils may need lighter irrigation before application.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Risk flag: Overwatered Tigard, OR planters can restart ant bridges within two weeks.
+
+Species trace 881164: re-entry interval label and conducive moisture note keyed to Tigard, OR elevation 230 ft.
+
+Coordinate-anchored dispatch note: center reference 45.4200, -122.7800 at elevation ~230 ft aligns with Washington County intake staging.
 
 Service reference: OR-97224-9c659d4b

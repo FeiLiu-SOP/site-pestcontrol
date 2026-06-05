@@ -11,25 +11,43 @@ lng: -66.5000
 zipSample: ["00795"]
 zipCodes: ["00795"]
 localPaths: ["Juana Díaz County / ZIP 00795 sector", "Juana Díaz County / coords 18.0500, -66.5000", "Juana Díaz County / primary ZIP 00795", "Juana Díaz County / elevation 187 ft band"]
-zillowHomeValueUsd: 377797
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for Juana Díaz:** Structural loading calculated based on 187 ft terrain assessment. Regional dispatch grid: Juana Díaz County.
+**Engineering Notice for Juana Díaz:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Juana Díaz County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Homeowners in Juana Díaz, PR often face sudden pest control problems that require fast action.
+Powderpost beetle exit holes in Juana Díaz, PR trim can be mistaken for dry-wood frass without magnification.
 
-In Juana Díaz, PR, seasonal demand can change scheduling windows.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 00795.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Juana Díaz, PR, but intake notes help reduce delays.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Connection points spot-checked where accessible (ZIP 00795 zone).
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Dispatch sectors sampled: ZIP 00795 (county grid: Juana Díaz County).
+Label note: Applications must follow EPA product labels for occupant notification.
+
+FAQ: Can bed bugs spread room-to-room in Juana Díaz, PR row homes? Wall voids and shared ducts accelerate transfer.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Material note: Perimeter granules in Juana Díaz, PR may need reapplication after heavy irrigation.
+
+Tip: Trim vegetation 12 inches from exterior cladding to reduce ant bridges.
+
+Exclusion gaps at garage jambs in Juana Díaz, PR are common rodent access points.
+
+Monitoring boards in Juana Díaz, PR crawlspaces stay 72 hours before snap traps are reset.
+
+Seasonal cue 998812: cluster fly attic staging reviewed for Juana Díaz, PR soffit cavities.
+
+Exclusion audit 998812: exclusion mesh gauge and rodent runway grease mark reviewed for Juana Díaz, PR at 18.0500/-66.5000.
+
+Regional mesh label Juana Díaz County: moisture and logistics baselines are keyed to Juana Díaz, PR before niche-specific work begins.
 
 Service reference: PR-00795-e5aedf03

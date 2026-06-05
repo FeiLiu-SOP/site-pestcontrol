@@ -11,24 +11,39 @@ lng: -87.7300
 zipSample: ["60091"]
 zipCodes: ["60091"]
 localPaths: ["Cook County / elevation 646 ft band", "Cook County / ZIP 60091 sector", "Cook County / coords 42.0800, -87.7300", "Cook County / primary ZIP 60091"]
-zillowHomeValueUsd: 960787
 ---
 
-**Engineering Notice for Wilmette:** Structural loading calculated based on 646 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Wilmette:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Wilmette, IL, but intake notes help reduce delays.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 60091.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Wilmette, IL, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Our service coordination centers on Wilmette, IL coverage windows and verified intake details.
+Material note: Perimeter granules in Wilmette, IL may need reapplication after heavy irrigation.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Date bait station lids when servicing Wilmette, IL perimeter lines.
 
-Field note: Wind exposure category reviewed for ZIP sector 60091.
+Wildlife odors in Wilmette, IL crawlspaces may attract secondary pest activity.
 
-Dispatch sectors sampled: ZIP 60091 (county grid: Cook County).
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Exclusion gaps at garage jambs in Wilmette, IL are common rodent access points.
+
+Carpenter ant frass in Wilmette, IL window sills may indicate moisture-softened framing.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Flea pupae survive vacuuming in Wilmette, IL carpet fibers unless heat treatment follows.
+
+Zone map 777069: attic insulation disturbance trace and pantry pest source logged for Wilmette, IL sector 60091.
+
+Coordinate-anchored dispatch note: center reference 42.0800, -87.7300 at elevation ~646 ft aligns with Cook County intake staging.
 
 Service reference: IL-60091-bb27128b

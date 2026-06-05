@@ -11,26 +11,37 @@ lng: -77.3000
 zipSample: ["23860"]
 zipCodes: ["23860"]
 localPaths: ["Hopewell County / elevation 52 ft band", "Hopewell County / coords 37.2900, -77.3000", "Hopewell County / primary ZIP 23860", "Hopewell County / ZIP 23860 sector"]
-zillowHomeValueUsd: 233402
 ---
 
-**Engineering Notice for Hopewell:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Hopewell County.
+**Engineering Notice for Hopewell:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hopewell County.
 
 
-Tip: avoid large upfront payments without milestones.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hopewell, VA, but intake notes help reduce delays.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 23860.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Clear documentation helps align materials, labor, and timeline.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Field note: Wind exposure category reviewed for ZIP sector 23860.
+FAQ: Can bed bugs spread room-to-room in Hopewell, VA row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Access points and staging constraints recorded for ZIP 23860 coverage.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Dispatch sectors sampled: ZIP 23860 (county grid: Hopewell County).
+Powderpost beetle exit holes in Hopewell, VA trim can be mistaken for dry-wood frass without magnification.
+
+Wildlife odors in Hopewell, VA crawlspaces may attract secondary pest activity.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Hopewell, VA.
+
+Tip: Date bait station lids when servicing Hopewell, VA perimeter lines.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Intercept log 114757: bed bug intercept count staged before Hopewell, VA interior gel zones.
+
+On-site sector marker: Hopewell County / ZIP 23860 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-23860-79f83b0c

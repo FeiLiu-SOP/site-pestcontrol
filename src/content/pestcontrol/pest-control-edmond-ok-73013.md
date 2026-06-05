@@ -11,26 +11,41 @@ lng: -97.4200
 zipSample: ["73034", "73007", "73003", "73013"]
 zipCodes: ["73007", "73003", "73034", "73013"]
 localPaths: ["Oklahoma County / elevation 1148 ft band", "Oklahoma County / coords 35.6700, -97.4200", "Oklahoma County / ZIP 73013 sector", "Oklahoma County / primary ZIP 73013", "Oklahoma County / ZIP 73007 sector"]
-zillowHomeValueUsd: 326230
 ---
 
-**Engineering Notice for Edmond:** Structural loading calculated based on 1148 ft terrain assessment. Regional dispatch grid: Oklahoma County.
+**Engineering Notice for Edmond:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oklahoma County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Perimeter granules in Edmond, OK may need reapplication after heavy irrigation.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Across Edmond, OK, rodent entry points frequently track utility penetrations.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Carpenter ant frass in Edmond, OK window sills may indicate moisture-softened framing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Edmond, OK, but intake notes help reduce delays.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 73007/73034/73003.
+Mud dauber nests in Edmond, OK porch ceilings are benign but signal prey density for spiders.
 
-Field note: Access points and staging constraints recorded for ZIP 73007/73034/73003 coverage.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Dispatch sectors sampled: ZIP 73007, 73034, 73003, 73013 (county grid: Oklahoma County).
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Stink bug overwinter seams in Edmond, OK exterior cladding laps require exclusion foam rated for UV exposure.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Exclusion audit 514495: exclusion mesh gauge and rodent runway grease mark reviewed for Edmond, OK at 35.6700/-97.4200.
+
+On-site sector marker: Oklahoma County / ZIP 73034 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-73013-83559529

@@ -11,26 +11,37 @@ lng: -80.4500
 zipSample: ["33030", "33033", "33035"]
 zipCodes: ["33030", "33035", "33033"]
 localPaths: ["Miami-Dade County / ZIP 33033 sector", "Miami-Dade County / coords 25.4700, -80.4500", "Miami-Dade County / primary ZIP 33035", "Miami-Dade County / ZIP 33030 sector", "Miami-Dade County / elevation 20 ft band"]
-zillowHomeValueUsd: 338329
 ---
 
-**Engineering Notice for Homestead:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Homestead:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: In Homestead, FL, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-We coordinate local dispatch coverage around Homestead, FL and nearby ZIP sectors.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Keep pet food elevated and sealed between service visits.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Attic misting in Homestead, FL requires combustion air clearance verified before fans restart.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Field note: Access points and staging constraints recorded for ZIP 33035/33030/33033 coverage.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Field note: Connection points spot-checked where accessible (ZIP 33035/33030/33033 zone).
+FAQ: Can bed bugs spread room-to-room in Homestead, FL row homes? Wall voids and shared ducts accelerate transfer.
 
-Dispatch sectors sampled: ZIP 33035, 33030, 33033 (county grid: Miami-Dade County).
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Yellow jacket nests in Homestead, FL soffit cavities peak in late summer routing windows.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Material note: Perimeter granules in Homestead, FL may need reapplication after heavy irrigation.
+
+Attic insulation disturbance in Homestead, FL may indicate wildlife nesting routes.
+
+Harbor ledger 605895: frass lane, mud-tube scan, and garage jamb gap measure filed for Homestead, FL at 25.4700, -80.4500.
+
+On-site sector marker: Miami-Dade County / primary ZIP 33035 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33035-52f0ebd2

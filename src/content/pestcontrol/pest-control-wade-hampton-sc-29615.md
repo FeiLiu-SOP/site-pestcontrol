@@ -11,27 +11,39 @@ lng: -82.3300
 zipSample: ["29615", "29687", "29606"]
 zipCodes: ["29606", "29687", "29615"]
 localPaths: ["Greenville County / ZIP 29687 sector", "Greenville County / ZIP 29615 sector", "Greenville County / primary ZIP 29615", "Greenville County / ZIP 29606 sector", "Greenville County / coords 34.8800, -82.3300"]
-zillowHomeValueUsd: 437324
 ---
 
-**Engineering Notice for Wade Hampton:** Structural loading calculated based on 928 ft terrain assessment. Regional dispatch grid: Greenville County.
+**Engineering Notice for Wade Hampton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Greenville County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Fire ant mounds in Wade Hampton, SC drive seams need granule rotation after irrigation events.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 29615.
 
-Transparent pricing helps you compare like-for-like scope items.
+Carpenter ant frass in Wade Hampton, SC window sills may indicate moisture-softened framing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Clover mite staining on Wade Hampton, SC wall restoration follows foundation mulch against brick ledges.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 29615.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Connection points spot-checked where accessible (ZIP 29687/29615/29606 zone).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Wind exposure category reviewed for ZIP sector 29687/29615/29606.
+Powderpost beetle exit holes in Wade Hampton, SC trim can be mistaken for dry-wood frass without magnification.
 
-Dispatch sectors sampled: ZIP 29687, 29615, 29606 (county grid: Greenville County).
+IGR packets for Wade Hampton, SC roach cycles should be dated on station lids.
+
+Perimeter mulch beds in Wade Hampton, SC should be reviewed for ant bridge paths.
+
+Step: map entry points with photo logs before sealing.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Wade Hampton, SC.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 29615.
+
+Perimeter dossier 686098: bait station anchor map and mulch bridge risk flagged for Wade Hampton, SC county Greenville County (ZIP 29615).
+
+Primary postal anchor 29615 with multi-ZIP overlap in Wade Hampton; field packets tag Greenville County for county-grid reconciliation.
 
 Service reference: SC-29615-c28519a5

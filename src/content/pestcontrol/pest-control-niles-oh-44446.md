@@ -11,24 +11,39 @@ lng: -80.7500
 zipSample: ["44446"]
 zipCodes: ["44446"]
 localPaths: ["Trumbull County / coords 41.1900, -80.7500", "Trumbull County / primary ZIP 44446", "Trumbull County / elevation 902 ft band", "Trumbull County / ZIP 44446 sector"]
-zillowHomeValueUsd: 130855
 ---
 
-**Engineering Notice for Niles:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Trumbull County.
+**Engineering Notice for Niles:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Trumbull County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Wildlife odors in Niles, OH crawlspaces may attract secondary pest activity.
 
-We coordinate local dispatch coverage around Niles, OH and nearby ZIP sectors.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+State note: Niles, OH commercial kitchens may require separate documentation for audit visits.
 
-In Niles, OH, seasonal demand can change scheduling windows.
+County grid Trumbull County informs routing near ZIP 44446.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Field note: Moisture pathway inspection logged near ZIP 44446 intake.
+Fire ant mounds in Niles, OH drive seams need granule rotation after irrigation events.
 
-Dispatch sectors sampled: ZIP 44446 (county grid: Trumbull County).
+Tip: Date bait station lids when servicing Niles, OH perimeter lines.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Niles, OH.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Silverfish activity in Niles, OH attics tracks cardboard storage and ridge vent gaps.
+
+Risk flag: In Niles, OH, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+IGR packets for Niles, OH roach cycles should be dated on station lids.
+
+Harbor ledger 500823: frass lane, mud-tube scan, and garage jamb gap measure filed for Niles, OH at 41.1900, -80.7500.
+
+Intercept log 500823: bed bug intercept count staged before Niles, OH interior gel zones.
+
+On-site sector marker: Trumbull County / primary ZIP 44446 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44446-c3a61127

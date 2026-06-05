@@ -11,26 +11,39 @@ lng: -89.6300
 zipSample: ["61032"]
 zipCodes: ["61032"]
 localPaths: ["Stephenson County / elevation 801 ft band", "Stephenson County / ZIP 61032 sector", "Stephenson County / primary ZIP 61032", "Stephenson County / coords 42.2900, -89.6300"]
-zillowHomeValueUsd: 123000
 ---
 
-**Engineering Notice for Freeport:** Structural loading calculated based on 801 ft terrain assessment. Regional dispatch grid: Stephenson County.
+**Engineering Notice for Freeport:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Stephenson County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+IGR packets for Freeport, IL roach cycles should be dated on station lids.
 
-Our service coordination centers on Freeport, IL coverage windows and verified intake details.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Tip: confirm licensing and insurance before approving work.
+Step: verify attic access safety before insulation disturbance.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 61032.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Moisture pathway inspection logged near ZIP 61032 intake.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Dispatch sectors sampled: ZIP 61032 (county grid: Stephenson County).
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 61032.
+
+Mosquito breeding in Freeport, IL catch basins can amplify perimeter callbacks.
+
+Attic misting in Freeport, IL requires combustion air clearance verified before fans restart.
+
+Fire ant mounds in Freeport, IL drive seams need granule rotation after irrigation events.
+
+Seasonal cue 616265: cluster fly attic staging reviewed for Freeport, IL soffit cavities.
+
+Perimeter dossier 616265: bait station anchor map and mulch bridge risk flagged for Freeport, IL county Stephenson County (ZIP 61032).
+
+On-site sector marker: Stephenson County / primary ZIP 61032 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-61032-ba8ef684

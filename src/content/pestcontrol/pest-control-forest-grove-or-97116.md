@@ -11,24 +11,37 @@ lng: -123.1100
 zipSample: ["97116"]
 zipCodes: ["97116"]
 localPaths: ["Washington County / primary ZIP 97116", "Washington County / coords 45.5200, -123.1100", "Washington County / elevation 194 ft band", "Washington County / ZIP 97116 sector"]
-zillowHomeValueUsd: 526965
 ---
 
-**Engineering Notice for Forest Grove:** Structural loading calculated based on 194 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Forest Grove:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: map entry points with photo logs before sealing.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 97116.
 
-Homeowners in Forest Grove, OR often face sudden pest control problems that require fast action.
+Powderpost beetle exit holes in Forest Grove, OR trim can be mistaken for dry-wood frass without magnification.
 
-Tip: address recurring issues early to prevent bigger damage.
+Mud dauber nests in Forest Grove, OR porch ceilings are benign but signal prey density for spiders.
 
-Tip: confirm licensing and insurance before approving work.
+Yellow jacket nests in Forest Grove, OR soffit cavities peak in late summer routing windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 97116.
+Drain fly biofilm in Forest Grove, OR floor drains signals grease traps need service before gel baits.
 
-Dispatch sectors sampled: ZIP 97116 (county grid: Washington County).
+Cluster fly attic staging in Forest Grove, OR peaks on south-facing voids after sunny thaw days.
+
+Perimeter granule carriers in Forest Grove, OR clay soils may need lighter irrigation before application.
+
+Humidity in Forest Grove, OR can sustain cockroach harborages behind appliance voids.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Zone map 220052: attic insulation disturbance trace and pantry pest source logged for Forest Grove, OR sector 97116.
+
+On-site sector marker: Washington County / ZIP 97116 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97116-4de827da

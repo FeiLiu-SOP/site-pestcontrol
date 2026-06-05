@@ -11,25 +11,39 @@ lng: -122.7100
 zipSample: ["95405", "95406", "95407", "95401", "95403"]
 zipCodes: ["95403", "95407", "95406", "95401", "95404", "95405", "95409"]
 localPaths: ["Sonoma County / elevation 184 ft band", "Sonoma County / coords 38.4500, -122.7100", "Sonoma County / primary ZIP 95409", "Sonoma County / ZIP 95403 sector", "Sonoma County / ZIP 95407 sector"]
-zillowHomeValueUsd: 780303
 ---
 
-**Engineering Notice for Santa Rosa:** Structural loading calculated based on 184 ft terrain assessment. Regional dispatch grid: Sonoma County.
+**Engineering Notice for Santa Rosa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sonoma County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-We coordinate local dispatch coverage around Santa Rosa, CA and nearby ZIP sectors.
+Perimeter granule carriers in Santa Rosa, CA clay soils may need lighter irrigation before application.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Santa Rosa, CA, but intake notes help reduce delays.
+Wildlife odors in Santa Rosa, CA crawlspaces may attract secondary pest activity.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 95409.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Connection points spot-checked where accessible (ZIP 95405/95404/95409 zone).
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Dispatch sectors sampled: ZIP 95405, 95404, 95409, 95407, 95401 (county grid: Sonoma County).
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Carpenter ant frass in Santa Rosa, CA window sills may indicate moisture-softened framing.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+In Santa Rosa, CA, subterranean termite swarms often follow warm rain windows.
+
+FAQ: Why schedule quarterly instead of monthly in Santa Rosa, CA? Species pressure and label intervals dictate cadence.
+
+Seasonal cue 224668: cluster fly attic staging reviewed for Santa Rosa, CA soffit cavities.
+
+Species trace 224668: re-entry interval label and conducive moisture note keyed to Santa Rosa, CA elevation 184 ft.
+
+Regional mesh label Sonoma County: moisture and logistics baselines are keyed to Santa Rosa, CA before niche-specific work begins.
 
 Service reference: CA-95409-c76afca9

@@ -11,27 +11,41 @@ lng: -97.4600
 zipSample: ["78575", "78520", "78522", "78526", "78521"]
 zipCodes: ["78566", "78575", "78521", "78578", "78522", "78520", "78526"]
 localPaths: ["Cameron County / ZIP 78521 sector", "Cameron County / ZIP 78520 sector", "Cameron County / ZIP 78575 sector", "Cameron County / ZIP 78522 sector", "Cameron County / elevation 20 ft band"]
-zillowHomeValueUsd: 174144
 ---
 
-**Engineering Notice for Brownsville:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Cameron County.
+**Engineering Notice for Brownsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cameron County.
 
 
-In Brownsville, TX, urgent pest control issues can escalate quickly.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Stink bug overwinter seams in Brownsville, TX cladding service laps require exclusion foam rated for UV exposure.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 78521.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Log pet access routes when bait stations are placed.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Field note: Moisture pathway inspection logged near ZIP 78578/78575/78566 intake.
+County grid Cameron County informs routing near ZIP 78521.
 
-Field note: Access points and staging constraints recorded for ZIP 78578/78575/78566 coverage.
+Step: verify attic access safety before insulation disturbance.
 
-Dispatch sectors sampled: ZIP 78578, 78575, 78566, 78522, 78520 (county grid: Cameron County).
+Risk flag: Overwatered Brownsville, TX planters can restart ant bridges within two weeks.
+
+FAQ: Can bed bugs spread room-to-room in Brownsville, TX row homes? Wall voids and shared ducts accelerate transfer.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+In Brownsville, TX, subterranean termite swarms often follow warm rain windows.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 78521.
+
+Attic fogging in Brownsville, TX requires combustion appliance shutoff verification first.
+
+Flea pupae survive vacuuming in Brownsville, TX carpet fibers unless heat treatment follows.
+
+Perimeter dossier 163887: bait station anchor map and mulch bridge risk flagged for Brownsville, TX county Cameron County (ZIP 78521).
+
+On-site sector marker: Cameron County / ZIP 78522 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78521-e56af409

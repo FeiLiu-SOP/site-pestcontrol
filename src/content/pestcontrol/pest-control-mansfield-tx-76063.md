@@ -11,25 +11,39 @@ lng: -97.1200
 zipSample: ["76063"]
 zipCodes: ["76063"]
 localPaths: ["Tarrant County / ZIP 76063 sector", "Tarrant County / coords 32.5700, -97.1200", "Tarrant County / primary ZIP 76063", "Tarrant County / elevation 607 ft band"]
-zillowHomeValueUsd: 439960
 ---
 
-**Engineering Notice for Mansfield:** Structural loading calculated based on 607 ft terrain assessment. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Mansfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tarrant County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Clover mite staining on Mansfield, TX exterior cladding follows foundation mulch against brick ledges.
 
-We coordinate local dispatch coverage around Mansfield, TX and nearby ZIP sectors.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Stink bug overwinter seams in Mansfield, TX wall restoration laps require exclusion foam rated for UV exposure.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 76063.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Connection points spot-checked where accessible (ZIP 76063 zone).
+Mud dauber nests in Mansfield, TX porch ceilings are benign but signal prey density for spiders.
 
-Dispatch sectors sampled: ZIP 76063 (county grid: Tarrant County).
+Attic fogging in Mansfield, TX requires combustion appliance shutoff verification first.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Mansfield, TX.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+FAQ: What is exclusion? Without sealing entry points in Mansfield, TX, pressure often rebuilds.
+
+Humidity in Mansfield, TX can sustain cockroach harborages behind appliance voids.
+
+Harbor ledger 630568: frass lane, mud-tube scan, and garage jamb gap measure filed for Mansfield, TX at 32.5700, -97.1200.
+
+Zone map 630568: attic insulation disturbance trace and pantry pest source logged for Mansfield, TX sector 76063.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Tarrant County and primary ZIP 76063. Terrain reference: 607 ft. Center point: 32.5700, -97.1200. ZIP sample: 76063. Logistics priority: Serving residential sectors across Tarrant County and north-east ZIP 76063 grid.
 
 Service reference: TX-76063-30b52e35

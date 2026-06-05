@@ -11,26 +11,39 @@ lng: -83.7300
 zipSample: ["48109", "48103", "48113", "48104", "48108"]
 zipCodes: ["48109", "48103", "48104", "48108", "48105", "48113"]
 localPaths: ["Washtenaw County / ZIP 48109 sector", "Washtenaw County / ZIP 48104 sector", "Washtenaw County / elevation 889 ft band", "Washtenaw County / coords 42.2800, -83.7300", "Washtenaw County / ZIP 48108 sector"]
-zillowHomeValueUsd: 522018
 ---
 
-**Engineering Notice for Ann Arbor:** Structural loading calculated based on 889 ft terrain assessment. Regional dispatch grid: Washtenaw County.
+**Engineering Notice for Ann Arbor:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washtenaw County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Transparent pricing helps you compare like-for-like scope items.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Our service coordination centers on Ann Arbor, MI coverage windows and verified intake details.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Ann Arbor, MI, but intake notes help reduce delays.
+FAQ: Why schedule quarterly instead of monthly in Ann Arbor, MI? Species pressure and label intervals dictate cadence.
 
-Field note: Access points and staging constraints recorded for ZIP 48113/48108/48109 coverage.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Ann Arbor, MI.
 
-Field note: Moisture pathway inspection logged near ZIP 48113/48108/48109 intake.
+Earwig harborages in Ann Arbor, MI meter boxes often follow drip irrigation overspray.
 
-Dispatch sectors sampled: ZIP 48113, 48108, 48109, 48105, 48104 (county grid: Washtenaw County).
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Exclusion gaps at garage jambs in Ann Arbor, MI are common rodent access points.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 48103.
+
+Attic misting in Ann Arbor, MI requires combustion air clearance verified before fans restart.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Carpenter ant frass in Ann Arbor, MI window sills may indicate moisture-softened framing.
+
+Exclusion audit 587694: exclusion mesh gauge and rodent runway grease mark reviewed for Ann Arbor, MI at 42.2800/-83.7300.
+
+On-site sector marker: Washtenaw County / ZIP 48105 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48103-6082d1a1

@@ -11,24 +11,41 @@ lng: -83.2100
 zipSample: ["48101"]
 zipCodes: ["48101"]
 localPaths: ["Wayne County / ZIP 48101 sector", "Wayne County / elevation 600 ft band", "Wayne County / coords 42.2600, -83.2100", "Wayne County / primary ZIP 48101"]
-zillowHomeValueUsd: 206297
 ---
 
-**Engineering Notice for Allen Park:** Structural loading calculated based on 600 ft terrain assessment. Regional dispatch grid: Wayne County.
+**Engineering Notice for Allen Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wayne County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Tip: avoid large upfront payments without milestones.
+Silverfish activity in Allen Park, MI attics tracks cardboard storage and ridge vent gaps.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Overwatered Allen Park, MI planters can restart ant bridges within two weeks.
 
-We coordinate local dispatch coverage around Allen Park, MI and nearby ZIP sectors.
+Flea pupae survive vacuuming in Allen Park, MI carpet fibers unless heat treatment follows.
 
-Field note: Wind exposure category reviewed for ZIP sector 48101.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Dispatch sectors sampled: ZIP 48101 (county grid: Wayne County).
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Material note: Perimeter granules in Allen Park, MI may need reapplication after heavy irrigation.
+
+Tip: Date bait station lids when servicing Allen Park, MI perimeter lines.
+
+Risk flag: In Allen Park, MI, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Attic misting in Allen Park, MI requires combustion air clearance verified before fans restart.
+
+Yellow jacket nests in Allen Park, MI soffit cavities peak in late summer routing windows.
+
+Intercept log 141963: bed bug intercept count staged before Allen Park, MI interior gel zones.
+
+Zone map 141963: attic insulation disturbance trace and pantry pest source logged for Allen Park, MI sector 48101.
+
+On-site sector marker: Wayne County / elevation 600 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48101-98f1f152

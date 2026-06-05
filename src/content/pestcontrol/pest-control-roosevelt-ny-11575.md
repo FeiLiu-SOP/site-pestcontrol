@@ -11,27 +11,43 @@ lng: -73.5800
 zipSample: ["11575"]
 zipCodes: ["11575"]
 localPaths: ["Nassau County / ZIP 11575 sector", "Nassau County / coords 40.6800, -73.5800", "Nassau County / primary ZIP 11575", "Nassau County / elevation 43 ft band"]
-zillowHomeValueUsd: 630749
 ---
 
-**Engineering Notice for Roosevelt:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Roosevelt:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Mosquito breeding in Roosevelt, NY catch basins can amplify perimeter callbacks.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 11575.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Silverfish activity in Roosevelt, NY attics tracks cardboard storage and ridge vent gaps.
 
-A written scope helps prevent rework and mismatched expectations.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Our service coordination centers on Roosevelt, NY coverage windows and verified intake details.
+In Roosevelt, NY, subterranean termite swarms often follow warm rain windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11575.
+Flea pupae survive vacuuming in Roosevelt, NY carpet fibers unless heat treatment follows.
 
-Field note: Wind exposure category reviewed for ZIP sector 11575.
+FAQ: Why schedule quarterly instead of monthly in Roosevelt, NY? Species pressure and label intervals dictate cadence.
 
-Dispatch sectors sampled: ZIP 11575 (county grid: Nassau County).
+Stink bug overwinter seams in Roosevelt, NY wall restoration laps require exclusion foam rated for UV exposure.
+
+Fire ant mounds in Roosevelt, NY drive seams need granule rotation after irrigation events.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Drain fly biofilm in Roosevelt, NY floor drains signals grease traps need service before gel baits.
+
+Yellow jacket nests in Roosevelt, NY soffit cavities peak in late summer routing windows.
+
+FAQ: Can bed bugs spread room-to-room in Roosevelt, NY row homes? Wall voids and shared ducts accelerate transfer.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Intercept log 821242: bed bug intercept count staged before Roosevelt, NY interior gel zones.
+
+Zone map 821242: attic insulation disturbance trace and pantry pest source logged for Roosevelt, NY sector 11575.
+
+Primary postal anchor 11575 with multi-ZIP overlap in Roosevelt; field packets tag Nassau County for county-grid reconciliation.
 
 Service reference: NY-11575-f9b1d517

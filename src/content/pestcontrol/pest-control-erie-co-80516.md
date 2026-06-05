@@ -11,27 +11,43 @@ lng: -105.0400
 zipSample: ["80516"]
 zipCodes: ["80516"]
 localPaths: ["Weld County / coords 40.0400, -105.0400", "Weld County / primary ZIP 80516", "Weld County / ZIP 80516 sector", "Weld County / elevation 5056 ft band"]
-zillowHomeValueUsd: 714109
 ---
 
-**Engineering Notice for Erie:** Structural loading calculated based on 5056 ft terrain assessment. Regional dispatch grid: Weld County.
+**Engineering Notice for Erie:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Weld County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Monitoring boards in Erie, CO crawlspaces stay 72 hours before snap traps are reset.
 
-A written scope helps prevent rework and mismatched expectations.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Silverfish activity in Erie, CO attics tracks cardboard storage and ridge vent gaps.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 80516.
+Fire ant mounds in Erie, CO drive seams need granule rotation after irrigation events.
 
-Our service coordination centers on Erie, CO coverage windows and verified intake details.
+Step: map entry points with photo logs before sealing.
 
-Field note: Access points and staging constraints recorded for ZIP 80516 coverage.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Erie, CO.
 
-Field note: Moisture pathway inspection logged near ZIP 80516 intake.
+Risk flag: In Erie, CO, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Dispatch sectors sampled: ZIP 80516 (county grid: Weld County).
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 80516.
+
+Mud dauber nests in Erie, CO porch ceilings are benign but signal prey density for spiders.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Zone map 268256: attic insulation disturbance trace and pantry pest source logged for Erie, CO sector 80516.
+
+Harbor ledger 268256: frass lane, mud-tube scan, and garage jamb gap measure filed for Erie, CO at 40.0400, -105.0400.
+
+Primary postal anchor 80516 with multi-ZIP overlap in Erie; field packets tag Weld County for county-grid reconciliation.
 
 Service reference: CO-80516-9aabd296

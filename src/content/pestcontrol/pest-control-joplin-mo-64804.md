@@ -11,28 +11,39 @@ lng: -94.5000
 zipSample: ["64803", "64802", "64801", "64804"]
 zipCodes: ["64801", "64802", "64804", "64803"]
 localPaths: ["Jasper County / ZIP 64801 sector", "Jasper County / primary ZIP 64804", "Jasper County / elevation 1010 ft band", "Jasper County / ZIP 64804 sector", "Jasper County / coords 37.0800, -94.5000"]
-zillowHomeValueUsd: 225050
 ---
 
-**Engineering Notice for Joplin:** Structural loading calculated based on 1010 ft terrain assessment. Regional dispatch grid: Jasper County.
+**Engineering Notice for Joplin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jasper County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 64804.
+Tip: Keep pet food elevated and sealed between service visits.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Joplin, MO, but intake notes help reduce delays.
+FAQ: Why schedule quarterly instead of monthly in Joplin, MO? Species pressure and label intervals dictate cadence.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 64804.
+Fire ant mounds in Joplin, MO drive seams need granule rotation after irrigation events.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Connection points spot-checked where accessible (ZIP 64801/64804/64803 zone).
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Moisture pathway inspection logged near ZIP 64801/64804/64803 intake.
+Tip: Date bait station lids when servicing Joplin, MO perimeter lines.
 
-Dispatch sectors sampled: ZIP 64801, 64804, 64803, 64802 (county grid: Jasper County).
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Across Joplin, MO, rodent entry points frequently track utility penetrations.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Joplin, MO, pressure often rebuilds.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Perimeter dossier 582889: bait station anchor map and mulch bridge risk flagged for Joplin, MO county Jasper County (ZIP 64804).
+
+Intercept log 582889: bed bug intercept count staged before Joplin, MO interior gel zones.
+
+Coordinate-anchored dispatch note: center reference 37.0800, -94.5000 at elevation ~1010 ft aligns with Jasper County intake staging.
 
 Service reference: MO-64804-74e56b79

@@ -11,26 +11,41 @@ lng: -97.9700
 zipSample: ["78155", "78115", "78156"]
 zipCodes: ["78115", "78156", "78155"]
 localPaths: ["Guadalupe County / coords 29.5900, -97.9700", "Guadalupe County / ZIP 78155 sector", "Guadalupe County / ZIP 78156 sector", "Guadalupe County / elevation 571 ft band", "Guadalupe County / ZIP 78115 sector"]
-zillowHomeValueUsd: 272051
 ---
 
-**Engineering Notice for Seguin:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: Guadalupe County.
+**Engineering Notice for Seguin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Guadalupe County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-We coordinate local dispatch coverage around Seguin, TX and nearby ZIP sectors.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Tip: request a written scope before work starts.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Seguin, TX, but intake notes help reduce delays.
+Step: separate bait rotation schedules from crack-and-crevice applications in Seguin, TX.
 
-Field note: Access points and staging constraints recorded for ZIP 78156/78115/78155 coverage.
+Yellow jacket nests in Seguin, TX soffit cavities peak in late summer routing windows.
 
-Field note: Moisture pathway inspection logged near ZIP 78156/78115/78155 intake.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Dispatch sectors sampled: ZIP 78156, 78115, 78155 (county grid: Guadalupe County).
+FAQ: Why schedule quarterly instead of monthly in Seguin, TX? Species pressure and label intervals dictate cadence.
+
+Bird mites in Seguin, TX exhaust vents can persist after host nests are removed.
+
+Powderpost beetle exit holes in Seguin, TX trim can be mistaken for dry-wood frass without magnification.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+FAQ: Can bed bugs spread room-to-room in Seguin, TX row homes? Wall voids and shared ducts accelerate transfer.
+
+Dry-wood termite pellets in Seguin, TX attics may appear before exterior mud tubes.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Zone map 194897: attic insulation disturbance trace and pantry pest source logged for Seguin, TX sector 78155.
+
+On-site sector marker: Guadalupe County / ZIP 78155 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78155-1850144a

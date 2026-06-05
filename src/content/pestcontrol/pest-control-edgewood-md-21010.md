@@ -11,26 +11,37 @@ lng: -76.3000
 zipSample: ["21010", "21040"]
 zipCodes: ["21010", "21040"]
 localPaths: ["Harford County / primary ZIP 21010", "Harford County / ZIP 21010 sector", "Harford County / elevation 82 ft band", "Harford County / coords 39.4200, -76.3000", "Harford County / ZIP 21040 sector"]
-zillowHomeValueUsd: 264033
 ---
 
-**Engineering Notice for Edgewood:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Harford County.
+**Engineering Notice for Edgewood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harford County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Tip: compare at least two estimates for scope and timeline.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Edgewood, MD, but intake notes help reduce delays.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 21010.
 
-Field note: Connection points spot-checked where accessible (ZIP 21040/21010 zone).
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Access points and staging constraints recorded for ZIP 21040/21010 coverage.
+Attic misting in Edgewood, MD requires combustion air clearance verified before fans restart.
 
-Dispatch sectors sampled: ZIP 21040, 21010 (county grid: Harford County).
+Cluster fly attic staging in Edgewood, MD peaks on south-facing voids after sunny thaw days.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 21010.
+
+Silverfish activity in Edgewood, MD attics tracks cardboard storage and ridge vent gaps.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Risk flag: In Edgewood, MD, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Perimeter dossier 907712: bait station anchor map and mulch bridge risk flagged for Edgewood, MD county Harford County (ZIP 21010).
+
+Regional mesh label Harford County: moisture and logistics baselines are keyed to Edgewood, MD before niche-specific work begins.
 
 Service reference: MD-21010-fc6f1f9e

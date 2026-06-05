@@ -11,25 +11,37 @@ lng: -122.8700
 zipSample: ["97003", "97007", "97078"]
 zipCodes: ["97007", "97078", "97003"]
 localPaths: ["Washington County / ZIP 97003 sector", "Washington County / primary ZIP 97078", "Washington County / elevation 200 ft band", "Washington County / coords 45.4900, -122.8700", "Washington County / ZIP 97078 sector"]
-zillowHomeValueUsd: 496283
 ---
 
-**Engineering Notice for Aloha:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Aloha:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: request a written scope before work starts.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 97078.
+Perimeter granule carriers in Aloha, OR clay soils may need lighter irrigation before application.
 
-Our service coordination centers on Aloha, OR coverage windows and verified intake details.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Moisture pathway inspection logged near ZIP 97007/97078/97003 intake.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Dispatch sectors sampled: ZIP 97007, 97078, 97003 (county grid: Washington County).
+State note: Aloha, OR commercial kitchens may require separate documentation for audit visits.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Clover mite staining on Aloha, OR vinyl panels follows foundation mulch against brick ledges.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Drain fly biofilm in Aloha, OR floor drains signals grease traps need service before gel baits.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Seasonal cue 429600: cluster fly attic staging reviewed for Aloha, OR soffit cavities.
+
+Coordinate-anchored dispatch note: center reference 45.4900, -122.8700 at elevation ~200 ft aligns with Washington County intake staging.
 
 Service reference: OR-97078-e3a711ef

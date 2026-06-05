@@ -11,24 +11,39 @@ lng: -92.3300
 zipSample: ["65201", "65215", "65217", "65299", "65203"]
 zipCodes: ["65217", "65215", "65299", "65201", "65218", "65211", "65202", "65203", "65216"]
 localPaths: ["Boone County / ZIP 65201 sector", "Boone County / ZIP 65299 sector", "Boone County / ZIP 65215 sector", "Boone County / coords 38.9500, -92.3300", "Boone County / ZIP 65217 sector"]
-zillowHomeValueUsd: 276018
 ---
 
-**Engineering Notice for Columbia:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Boone County.
+**Engineering Notice for Columbia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Boone County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 65202.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Columbia, MO, but intake notes help reduce delays.
+Risk flag: In Columbia, MO, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Stink bug overwinter seams in Columbia, MO wall restoration laps require exclusion foam rated for UV exposure.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Perimeter granules in Columbia, MO may need reapplication after heavy irrigation.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 65215/65216/65217.
+Spider populations in Columbia, MO eaves can signal insect prey density.
 
-Dispatch sectors sampled: ZIP 65215, 65216, 65217, 65202, 65299 (county grid: Boone County).
+Tip: Log pet access routes when bait stations are placed.
+
+Attic misting in Columbia, MO requires combustion air clearance verified before fans restart.
+
+Drain fly biofilm in Columbia, MO floor drains signals grease traps need service before gel baits.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 65202.
+
+Wildlife odors in Columbia, MO crawlspaces may attract secondary pest activity.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Perimeter dossier 919667: bait station anchor map and mulch bridge risk flagged for Columbia, MO county Boone County (ZIP 65202).
+
+Seasonal cue 919667: cluster fly attic staging reviewed for Columbia, MO soffit cavities.
+
+On-site sector marker: Boone County / ZIP 65216 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-65202-fd6e8892

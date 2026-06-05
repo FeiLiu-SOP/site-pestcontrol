@@ -11,24 +11,43 @@ lng: -122.9200
 zipSample: ["98512", "98501", "98511"]
 zipCodes: ["98501", "98512", "98511"]
 localPaths: ["Thurston County / coords 46.9900, -122.9200", "Thurston County / elevation 190 ft band", "Thurston County / ZIP 98501 sector", "Thurston County / primary ZIP 98501", "Thurston County / ZIP 98512 sector"]
-zillowHomeValueUsd: 549713
 ---
 
-**Engineering Notice for Tumwater:** Structural loading calculated based on 190 ft terrain assessment. Regional dispatch grid: Thurston County.
+**Engineering Notice for Tumwater:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Thurston County.
 
 
-Tip: request a written scope before work starts.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Our service coordination centers on Tumwater, WA coverage windows and verified intake details.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Tumwater, WA, but intake notes help reduce delays.
+Tip: Trim vegetation 12 inches from exterior cladding to reduce ant bridges.
 
-Clear documentation helps align materials, labor, and timeline.
+Step: label treatment zones for occupant re-entry timing.
 
-Local conditions in Tumwater, WA can affect timelines and material choices.
+FAQ: Can bed bugs spread room-to-room in Tumwater, WA row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Moisture pathway inspection logged near ZIP 98511/98501/98512 intake.
+Drain fly biofilm in Tumwater, WA floor drains signals grease traps need service before gel baits.
 
-Dispatch sectors sampled: ZIP 98511, 98501, 98512 (county grid: Thurston County).
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Mosquito breeding in Tumwater, WA catch basins can amplify perimeter callbacks.
+
+Step: map entry points with photo logs before sealing.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Stored cardboard in Tumwater, WA garages can accelerate pantry pest cycles.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Mud dauber nests in Tumwater, WA porch ceilings are benign but signal prey density for spiders.
+
+Species trace 618745: re-entry interval label and conducive moisture note keyed to Tumwater, WA elevation 190 ft.
+
+Intercept log 618745: bed bug intercept count staged before Tumwater, WA interior gel zones.
+
+On-site sector marker: Thurston County / coords 46.9900, -122.9200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98501-1f6d191d

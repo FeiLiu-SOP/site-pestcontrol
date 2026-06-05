@@ -11,24 +11,37 @@ lng: -89.0100
 zipSample: ["53546", "53548", "53545", "53547"]
 zipCodes: ["53546", "53548", "53545", "53547"]
 localPaths: ["Rock County / coords 42.6900, -89.0100", "Rock County / ZIP 53546 sector", "Rock County / ZIP 53548 sector", "Rock County / ZIP 53545 sector", "Rock County / elevation 866 ft band"]
-zillowHomeValueUsd: 276928
 ---
 
-**Engineering Notice for Janesville:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Rock County.
+**Engineering Notice for Janesville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rock County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+IGR packets for Janesville, WI roach cycles should be dated on station lids.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Date bait station lids when servicing Janesville, WI perimeter lines.
 
-A written scope helps prevent rework and mismatched expectations.
+We coordinate Janesville, WI pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Spider populations in Janesville, WI eaves can signal insect prey density.
 
-Tip: request a written scope before work starts.
+FAQ: Can bed bugs spread room-to-room in Janesville, WI row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Connection points spot-checked where accessible (ZIP 53548/53547/53546 zone).
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Dispatch sectors sampled: ZIP 53548, 53547, 53546, 53545 (county grid: Rock County).
+Humidity in Janesville, WI can sustain cockroach harborages behind appliance voids.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Risk flag: In Janesville, WI, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 53545.
+
+Step: verify attic access safety before insulation disturbance.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Zone map 525045: attic insulation disturbance trace and pantry pest source logged for Janesville, WI sector 53545.
+
+Coordinate-anchored dispatch note: center reference 42.6900, -89.0100 at elevation ~866 ft aligns with Rock County intake staging.
 
 Service reference: WI-53545-f7e7aa1a

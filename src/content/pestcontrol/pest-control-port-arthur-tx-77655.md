@@ -11,26 +11,39 @@ lng: -93.9300
 zipSample: ["77655", "77643", "77641", "77642", "77640"]
 zipCodes: ["77643", "77655", "77641", "77640", "77642"]
 localPaths: ["Jefferson County / ZIP 77655 sector", "Jefferson County / ZIP 77642 sector", "Jefferson County / ZIP 77641 sector", "Jefferson County / elevation 0 ft band", "Jefferson County / coords 29.8600, -93.9300"]
-zillowHomeValueUsd: 120452
 ---
 
-**Engineering Notice for Port Arthur:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Port Arthur:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Port Arthur, TX, but intake notes help reduce delays.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-We coordinate local dispatch coverage around Port Arthur, TX and nearby ZIP sectors.
+Powderpost beetle exit holes in Port Arthur, TX trim can be mistaken for dry-wood frass without magnification.
 
-Tip: address recurring issues early to prevent bigger damage.
+Mud dauber nests in Port Arthur, TX porch ceilings are benign but signal prey density for spiders.
 
-Tip: confirm licensing and insurance before approving work.
+Yellow jacket nests in Port Arthur, TX soffit cavities peak in late summer routing windows.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Field note: Moisture pathway inspection logged near ZIP 77640/77655/77642 intake.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Field note: Connection points spot-checked where accessible (ZIP 77640/77655/77642 zone).
+Silverfish activity in Port Arthur, TX attics tracks cardboard storage and ridge vent gaps.
 
-Dispatch sectors sampled: ZIP 77640, 77655, 77642, 77641, 77643 (county grid: Jefferson County).
+Mosquito breeding in Port Arthur, TX catch basins can amplify perimeter callbacks.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Port Arthur, TX.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Step: map entry points with photo logs before sealing.
+
+Species trace 164696: re-entry interval label and conducive moisture note keyed to Port Arthur, TX elevation 0 ft.
+
+On-site sector marker: Jefferson County / ZIP 77643 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77655-96c8d7dc

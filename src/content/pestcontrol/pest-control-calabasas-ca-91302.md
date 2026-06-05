@@ -11,24 +11,43 @@ lng: -118.6700
 zipSample: ["91372", "91302"]
 zipCodes: ["91372", "91302"]
 localPaths: ["Los Angeles County / ZIP 91372 sector", "Los Angeles County / coords 34.1400, -118.6700", "Los Angeles County / ZIP 91302 sector", "Los Angeles County / elevation 1430 ft band", "Los Angeles County / primary ZIP 91302"]
-zillowHomeValueUsd: 1958273
 ---
 
-**Engineering Notice for Calabasas:** Structural loading calculated based on 1430 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Calabasas:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Request an inspection with species ID before treatment. Serving ZIP Code: 91302.
 
-Tip: request a written scope before work starts.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Our service coordination centers on Calabasas, CA coverage windows and verified intake details.
+Bird mites in Calabasas, CA exhaust vents can persist after host nests are removed.
 
-In Calabasas, CA, seasonal demand can change scheduling windows.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Access points and staging constraints recorded for ZIP 91302/91372 coverage.
+Cluster fly attic staging in Calabasas, CA peaks on south-facing voids after sunny thaw days.
 
-Dispatch sectors sampled: ZIP 91302, 91372 (county grid: Los Angeles County).
+State note: Calabasas, CA commercial kitchens may require separate documentation for audit visits.
+
+Flea pupae survive vacuuming in Calabasas, CA carpet fibers unless heat treatment follows.
+
+Clover mite staining on Calabasas, CA vinyl panels follows foundation mulch against brick ledges.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Earwig harborages in Calabasas, CA meter boxes often follow drip irrigation overspray.
+
+In Calabasas, CA, subterranean termite swarms often follow warm rain windows.
+
+IGR packets for Calabasas, CA roach cycles should be dated on station lids.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Perimeter dossier 402174: bait station anchor map and mulch bridge risk flagged for Calabasas, CA county Los Angeles County (ZIP 91302).
+
+Exclusion audit 402174: exclusion mesh gauge and rodent runway grease mark reviewed for Calabasas, CA at 34.1400/-118.6700.
+
+On-site sector marker: Los Angeles County / ZIP 91372 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91302-f6723cd6

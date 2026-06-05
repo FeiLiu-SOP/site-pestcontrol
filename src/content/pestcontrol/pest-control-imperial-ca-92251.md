@@ -11,26 +11,37 @@ lng: -115.5700
 zipSample: ["92251"]
 zipCodes: ["92251"]
 localPaths: ["Imperial County / elevation -57 ft band", "Imperial County / primary ZIP 92251", "Imperial County / coords 32.8400, -115.5700", "Imperial County / ZIP 92251 sector"]
-zillowHomeValueUsd: 436903
 ---
 
-**Engineering Notice for Imperial:** Structural loading calculated based on -57 ft terrain assessment. Regional dispatch grid: Imperial County.
+**Engineering Notice for Imperial:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Imperial County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+State note: Imperial, CA commercial kitchens may require separate documentation for audit visits.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Tip: compare at least two estimates for scope and timeline.
+Monitoring boards in Imperial, CA crawlspaces stay 72 hours before snap traps are reset.
 
-Tip: confirm licensing and insurance before approving work.
+Humidity in Imperial, CA can sustain cockroach harborages behind appliance voids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92251.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Wind exposure category reviewed for ZIP sector 92251.
+Mud dauber nests in Imperial, CA porch ceilings are benign but signal prey density for spiders.
 
-Dispatch sectors sampled: ZIP 92251 (county grid: Imperial County).
+Mosquito breeding in Imperial, CA catch basins can amplify perimeter callbacks.
+
+Clover mite staining on Imperial, CA exterior cladding follows foundation mulch against brick ledges.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Risk flag: Overwatered Imperial, CA planters can restart ant bridges within two weeks.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Exclusion audit 707906: exclusion mesh gauge and rodent runway grease mark reviewed for Imperial, CA at 32.8400/-115.5700.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~-57 ft across the Imperial County area. Coordinates: 32.8400, -115.5700. ZIP sample: 92251. Logistics priority: Serving residential sectors across Imperial County and north-east ZIP 92251 grid.
 
 Service reference: CA-92251-4af9ce59

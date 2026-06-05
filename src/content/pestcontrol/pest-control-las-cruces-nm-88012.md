@@ -11,26 +11,41 @@ lng: -106.7900
 zipSample: ["87654", "88005", "88001", "88012", "88006"]
 zipCodes: ["88001", "88005", "88012", "88011", "88013", "88006", "88007", "87654"]
 localPaths: ["Doña Ana County / ZIP 88001 sector", "Doña Ana County / primary ZIP 88012", "Doña Ana County / ZIP 88006 sector", "Doña Ana County / ZIP 87654 sector", "Doña Ana County / ZIP 88005 sector"]
-zillowHomeValueUsd: 294183
 ---
 
-**Engineering Notice for Las Cruces:** Structural loading calculated based on 3888 ft terrain assessment. Regional dispatch grid: Doña Ana County.
+**Engineering Notice for Las Cruces:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Doña Ana County.
 
 
-We coordinate local dispatch coverage around Las Cruces, NM and nearby ZIP sectors.
+Silverfish activity in Las Cruces, NM attics tracks cardboard storage and ridge vent gaps.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why schedule quarterly instead of monthly in Las Cruces, NM? Species pressure and label intervals dictate cadence.
 
-In Las Cruces, NM, seasonal demand can change scheduling windows.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Las Cruces, NM, but intake notes help reduce delays.
+Perimeter mulch beds in Las Cruces, NM should be reviewed for ant bridge paths.
 
-Field note: Wind exposure category reviewed for ZIP sector 88005/88012/88007.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Moisture pathway inspection logged near ZIP 88005/88012/88007 intake.
+Attic misting in Las Cruces, NM requires combustion air clearance verified before fans restart.
 
-Dispatch sectors sampled: ZIP 88005, 88012, 88007, 88006, 88011 (county grid: Doña Ana County).
+Monitoring boards in Las Cruces, NM crawlspaces stay 72 hours before snap traps are reset.
+
+Mud dauber nests in Las Cruces, NM porch ceilings are benign but signal prey density for spiders.
+
+Carpenter ant frass in Las Cruces, NM window sills may indicate moisture-softened framing.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Clover mite staining on Las Cruces, NM cladding service follows foundation mulch against brick ledges.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Intercept log 389359: bed bug intercept count staged before Las Cruces, NM interior gel zones.
+
+Exclusion audit 389359: exclusion mesh gauge and rodent runway grease mark reviewed for Las Cruces, NM at 32.3300/-106.7900.
+
+On-site sector marker: Doña Ana County / ZIP 88007 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-88012-78873c15

@@ -11,25 +11,39 @@ lng: -94.2700
 zipSample: ["64015", "64014", "64013"]
 zipCodes: ["64015", "64014", "64013"]
 localPaths: ["Jackson County / coords 39.0100, -94.2700", "Jackson County / ZIP 64013 sector", "Jackson County / primary ZIP 64014", "Jackson County / ZIP 64015 sector", "Jackson County / ZIP 64014 sector"]
-zillowHomeValueUsd: 301729
 ---
 
-**Engineering Notice for Blue Springs:** Structural loading calculated based on 919 ft terrain assessment. Regional dispatch grid: Jackson County.
+**Engineering Notice for Blue Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jackson County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Why schedule quarterly instead of monthly in Blue Springs, MO? Species pressure and label intervals dictate cadence.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+We coordinate Blue Springs, MO pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Homeowners in Blue Springs, MO often face sudden pest control problems that require fast action.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Blue Springs, MO.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 64014.
+Mud dauber nests in Blue Springs, MO porch ceilings are benign but signal prey density for spiders.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 64015/64014/64013.
+Clover mite staining on Blue Springs, MO exterior cladding follows foundation mulch against brick ledges.
 
-Dispatch sectors sampled: ZIP 64015, 64014, 64013 (county grid: Jackson County).
+Exclusion gaps at garage jambs in Blue Springs, MO are common rodent access points.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Cluster fly attic staging in Blue Springs, MO peaks on south-facing voids after sunny thaw days.
+
+FAQ: Can bed bugs spread room-to-room in Blue Springs, MO row homes? Wall voids and shared ducts accelerate transfer.
+
+Intercept log 184337: bed bug intercept count staged before Blue Springs, MO interior gel zones.
+
+Perimeter dossier 184337: bait station anchor map and mulch bridge risk flagged for Blue Springs, MO county Jackson County (ZIP 64014).
+
+On-site sector marker: Jackson County / elevation 919 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-64014-4bb9fd86

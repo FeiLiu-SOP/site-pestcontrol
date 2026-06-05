@@ -11,24 +11,39 @@ lng: -112.4500
 zipSample: ["86305", "86301", "86304", "86313", "86302"]
 zipCodes: ["86301", "86302", "86304", "86313", "86303", "86305"]
 localPaths: ["Yavapai County / ZIP 86302 sector", "Yavapai County / ZIP 86301 sector", "Yavapai County / elevation 5325 ft band", "Yavapai County / ZIP 86313 sector", "Yavapai County / ZIP 86305 sector"]
-zillowHomeValueUsd: 714813
 ---
 
-**Engineering Notice for Prescott:** Structural loading calculated based on 5325 ft terrain assessment. Regional dispatch grid: Yavapai County.
+**Engineering Notice for Prescott:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Yavapai County.
 
 
-Our service coordination centers on Prescott, AZ coverage windows and verified intake details.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-A written scope helps prevent rework and mismatched expectations.
+Clover mite staining on Prescott, AZ exterior cladding follows foundation mulch against brick ledges.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: verify attic access safety before insulation disturbance.
 
-Tip: compare at least two estimates for scope and timeline.
+Earwig harborages in Prescott, AZ meter boxes often follow drip irrigation overspray.
 
-Homeowners in Prescott, AZ often face sudden pest control problems that require fast action.
+Step: record station placement maps for follow-up visits.
 
-Field note: Access points and staging constraints recorded for ZIP 86305/86301/86302 coverage.
+Bird mites in Prescott, AZ exhaust vents can persist after host nests are removed.
 
-Dispatch sectors sampled: ZIP 86305, 86301, 86302, 86313, 86304 (county grid: Yavapai County).
+FAQ: Can bed bugs spread room-to-room in Prescott, AZ row homes? Wall voids and shared ducts accelerate transfer.
+
+Fire ant mounds in Prescott, AZ drive seams need granule rotation after irrigation events.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Prescott, AZ.
+
+Flea pupae survive vacuuming in Prescott, AZ carpet fibers unless heat treatment follows.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Harbor ledger 277036: frass lane, mud-tube scan, and garage jamb gap measure filed for Prescott, AZ at 34.5800, -112.4500.
+
+**Regional Infrastructure Brief:** Grid anchor set to Yavapai County. Reference elevation: 5325 ft. Primary coordinates: 34.5800, -112.4500. ZIP sample: 86304, 86313, 86305, 86303, 86301. Service perimeter note: Coverage extends through Yavapai County with dispatch centered near ZIP 86305.
 
 Service reference: AZ-86305-7f2069f2

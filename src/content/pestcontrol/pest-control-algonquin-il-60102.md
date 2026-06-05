@@ -11,24 +11,41 @@ lng: -88.3200
 zipSample: ["60102"]
 zipCodes: ["60102"]
 localPaths: ["McHenry County / coords 42.1600, -88.3200", "McHenry County / ZIP 60102 sector", "McHenry County / elevation 886 ft band", "McHenry County / primary ZIP 60102"]
-zillowHomeValueUsd: 407643
 ---
 
-**Engineering Notice for Algonquin:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: McHenry County.
+**Engineering Notice for Algonquin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: McHenry County.
 
 
-Our service coordination centers on Algonquin, IL coverage windows and verified intake details.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Algonquin, IL, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Algonquin, IL, but intake notes help reduce delays.
+FAQ: Why do pests return after spraying? Without sealing entry points in Algonquin, IL, pressure often rebuilds.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Algonquin, IL.
 
-In Algonquin, IL, urgent pest control issues can escalate quickly.
+Fire ant mounds in Algonquin, IL drive seams need granule rotation after irrigation events.
 
-Field note: Wind exposure category reviewed for ZIP sector 60102.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Dispatch sectors sampled: ZIP 60102 (county grid: McHenry County).
+Tip: Date bait station lids when servicing Algonquin, IL perimeter lines.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Attic insulation disturbance in Algonquin, IL may indicate wildlife nesting routes.
+
+Perimeter mulch beds in Algonquin, IL should be reviewed for ant bridge paths.
+
+Clover mite staining on Algonquin, IL vinyl panels follows foundation mulch against brick ledges.
+
+Bird mites in Algonquin, IL exhaust vents can persist after host nests are removed.
+
+Seasonal cue 991795: cluster fly attic staging reviewed for Algonquin, IL soffit cavities.
+
+Exclusion audit 991795: exclusion mesh gauge and rodent runway grease mark reviewed for Algonquin, IL at 42.1600/-88.3200.
+
+ZIP-corridor snapshot for Algonquin, IL: sampled sectors include 60102; county routing grid remains McHenry County.
 
 Service reference: IL-60102-0ffb515c

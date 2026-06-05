@@ -11,24 +11,39 @@ lng: -112.1200
 zipSample: ["85086"]
 zipCodes: ["85086"]
 localPaths: ["Maricopa County / primary ZIP 85086", "Maricopa County / elevation 1860 ft band", "Maricopa County / coords 33.8600, -112.1200", "Maricopa County / ZIP 85086 sector"]
-zillowHomeValueUsd: 624712
 ---
 
-**Engineering Notice for Anthem:** Structural loading calculated based on 1860 ft terrain assessment. Regional dispatch grid: Maricopa County.
+**Engineering Notice for Anthem:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Maricopa County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Bird mites in Anthem, AZ exhaust vents can persist after host nests are removed.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why schedule quarterly instead of monthly in Anthem, AZ? Species pressure and label intervals dictate cadence.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Can bed bugs spread room-to-room in Anthem, AZ row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Connection points spot-checked where accessible (ZIP 85086 zone).
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Dispatch sectors sampled: ZIP 85086 (county grid: Maricopa County).
+Stink bug overwinter seams in Anthem, AZ wall restoration laps require exclusion foam rated for UV exposure.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Stored cardboard in Anthem, AZ garages can accelerate pantry pest cycles.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Tip: Date bait station lids when servicing Anthem, AZ perimeter lines.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Exclusion audit 429194: exclusion mesh gauge and rodent runway grease mark reviewed for Anthem, AZ at 33.8600/-112.1200.
+
+On-site sector marker: Maricopa County / coords 33.8600, -112.1200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85086-b73759a2

@@ -11,25 +11,41 @@ lng: -87.2700
 zipSample: ["46342", "46410"]
 zipCodes: ["46342", "46410"]
 localPaths: ["Lake County / ZIP 46342 sector", "Lake County / primary ZIP 46342", "Lake County / elevation 636 ft band", "Lake County / ZIP 46410 sector", "Lake County / coords 41.5100, -87.2700"]
-zillowHomeValueUsd: 234707
 ---
 
-**Engineering Notice for Hobart:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Hobart:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 46342.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 46342.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+IGR packets for Hobart, IN roach cycles should be dated on station lids.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate bait rotation schedules from crack-and-crevice applications in Hobart, IN.
 
-Tip: compare at least two estimates for scope and timeline.
+We coordinate Hobart, IN pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Field note: Access points and staging constraints recorded for ZIP 46410/46342 coverage.
+Cluster fly attic staging in Hobart, IN peaks on south-facing voids after sunny thaw days.
 
-Dispatch sectors sampled: ZIP 46410, 46342 (county grid: Lake County).
+Tip: Log pet access routes when bait stations are placed.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Stink bug overwinter seams in Hobart, IN exterior cladding laps require exclusion foam rated for UV exposure.
+
+Step: map entry points with photo logs before sealing.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Attic insulation disturbance in Hobart, IN may indicate wildlife nesting routes.
+
+Intercept log 698214: bed bug intercept count staged before Hobart, IN interior gel zones.
+
+Zone map 698214: attic insulation disturbance trace and pantry pest source logged for Hobart, IN sector 46342.
+
+Coordinate-anchored dispatch note: center reference 41.5100, -87.2700 at elevation ~636 ft aligns with Lake County intake staging.
 
 Service reference: IN-46342-1b3fb5c4

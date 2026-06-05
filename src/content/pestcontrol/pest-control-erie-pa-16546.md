@@ -11,26 +11,39 @@ lng: -80.0700
 zipSample: ["16508", "16510", "16534", "16511", "16514"]
 zipCodes: ["16522", "16534", "16514", "16541", "16510", "16544", "16508", "16502", "16511", "16504", "16501", "16503"]
 localPaths: ["Erie County / ZIP 16508 sector", "Erie County / primary ZIP 16546", "Erie County / ZIP 16510 sector", "Erie County / ZIP 16514 sector", "Erie County / ZIP 16511 sector"]
-zillowHomeValueUsd: 261960
 ---
 
-**Engineering Notice for Erie:** Structural loading calculated based on 709 ft terrain assessment. Regional dispatch grid: Erie County.
+**Engineering Notice for Erie:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Erie County.
 
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Why do pests return after spraying? Without sealing entry points in Erie, PA, pressure often rebuilds.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Erie, PA, but intake notes help reduce delays.
+Step: record station placement maps for follow-up visits.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-We coordinate local dispatch coverage around Erie, PA and nearby ZIP sectors.
+Fire ant mounds in Erie, PA drive seams need granule rotation after irrigation events.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Earwig harborages in Erie, PA meter boxes often follow drip irrigation overspray.
 
-Field note: Connection points spot-checked where accessible (ZIP 16507/16541/16553 zone).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 16546.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 16507/16541/16553.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Dispatch sectors sampled: ZIP 16507, 16541, 16553, 16534, 16504 (county grid: Erie County).
+Yellow jacket nests in Erie, PA soffit cavities peak in late summer routing windows.
+
+Step: map entry points with photo logs before sealing.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+Attic misting in Erie, PA requires combustion air clearance verified before fans restart.
+
+Zone map 303917: attic insulation disturbance trace and pantry pest source logged for Erie, PA sector 16546.
+
+Exclusion audit 303917: exclusion mesh gauge and rodent runway grease mark reviewed for Erie, PA at 42.1200/-80.0700.
+
+Regional mesh label Erie County: moisture and logistics baselines are keyed to Erie, PA before niche-specific work begins.
 
 Service reference: PA-16546-a55a6e18

@@ -11,26 +11,41 @@ lng: -122.2900
 zipSample: ["98373", "98372", "98352", "98371", "98374"]
 zipCodes: ["98371", "98352", "98373", "98372", "98374"]
 localPaths: ["Pierce County / elevation 115 ft band", "Pierce County / ZIP 98374 sector", "Pierce County / primary ZIP 98374", "Pierce County / ZIP 98371 sector", "Pierce County / ZIP 98373 sector"]
-zillowHomeValueUsd: 584123
 ---
 
-**Engineering Notice for Puyallup:** Structural loading calculated based on 115 ft terrain assessment. Regional dispatch grid: Pierce County.
+**Engineering Notice for Puyallup:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pierce County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Puyallup, WA, but intake notes help reduce delays.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Our service coordination centers on Puyallup, WA coverage windows and verified intake details.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Moisture pathway inspection logged near ZIP 98372/98352/98373 intake.
+Humidity in Puyallup, WA can sustain cockroach harborages behind appliance voids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98372/98352/98373.
+We coordinate Puyallup, WA pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Dispatch sectors sampled: ZIP 98372, 98352, 98373, 98371, 98374 (county grid: Pierce County).
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Seasonal pest pressure in Puyallup, WA shifts between moisture ants and dry-wood vectors.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Puyallup, WA, pressure often rebuilds.
+
+Attic fogging in Puyallup, WA requires combustion appliance shutoff verification first.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 98374.
+
+Silverfish activity in Puyallup, WA attics tracks cardboard storage and ridge vent gaps.
+
+Zone map 338014: attic insulation disturbance trace and pantry pest source logged for Puyallup, WA sector 98374.
+
+Harbor ledger 338014: frass lane, mud-tube scan, and garage jamb gap measure filed for Puyallup, WA at 47.1800, -122.2900.
+
+On-site sector marker: Pierce County / ZIP 98374 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98374-d28fb4c4

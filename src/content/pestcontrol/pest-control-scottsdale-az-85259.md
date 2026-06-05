@@ -11,25 +11,37 @@ lng: -111.8700
 zipSample: ["85262", "85254", "85267", "85261", "85260"]
 zipCodes: ["85258", "85259", "85251", "85262", "85271", "85254", "85267", "85261", "85255", "85260", "85257", "85250"]
 localPaths: ["Maricopa County / ZIP 85254 sector", "Maricopa County / coords 33.6900, -111.8700", "Maricopa County / elevation 2156 ft band", "Maricopa County / primary ZIP 85259", "Maricopa County / ZIP 85260 sector"]
-zillowHomeValueUsd: 1143686
 ---
 
-**Engineering Notice for Scottsdale:** Structural loading calculated based on 2156 ft terrain assessment. Regional dispatch grid: Maricopa County.
+**Engineering Notice for Scottsdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Maricopa County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Scottsdale, AZ, but intake notes help reduce delays.
+Stored cardboard in Scottsdale, AZ garages can accelerate pantry pest cycles.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 85259.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: Perimeter granules in Scottsdale, AZ may need reapplication after heavy irrigation.
 
-Field note: Connection points spot-checked where accessible (ZIP 85250/85257/85254 zone).
+FAQ: Can bed bugs spread room-to-room in Scottsdale, AZ row homes? Wall voids and shared ducts accelerate transfer.
 
-Dispatch sectors sampled: ZIP 85250, 85257, 85254, 85266, 85259 (county grid: Maricopa County).
+FAQ: Why do pests return after spraying? Without sealing entry points in Scottsdale, AZ, pressure often rebuilds.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+State note: Scottsdale, AZ commercial kitchens may require separate documentation for audit visits.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Carpenter ant frass in Scottsdale, AZ window sills may indicate moisture-softened framing.
+
+Species trace 799063: re-entry interval label and conducive moisture note keyed to Scottsdale, AZ elevation 2156 ft.
+
+On-site sector marker: Maricopa County / ZIP 85257 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85259-cfad43fc

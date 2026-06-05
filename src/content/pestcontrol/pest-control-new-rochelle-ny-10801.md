@@ -11,24 +11,37 @@ lng: -73.7800
 zipSample: ["10804", "10805", "10801", "10802"]
 zipCodes: ["10802", "10804", "10805", "10801"]
 localPaths: ["Westchester County / ZIP 10804 sector", "Westchester County / ZIP 10801 sector", "Westchester County / coords 40.9300, -73.7800", "Westchester County / ZIP 10805 sector", "Westchester County / ZIP 10802 sector"]
-zillowHomeValueUsd: 772747
 ---
 
-**Engineering Notice for New Rochelle:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Westchester County.
+**Engineering Notice for New Rochelle:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Westchester County.
 
 
-Homeowners in New Rochelle, NY often face sudden pest control problems that require fast action.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Local conditions in New Rochelle, NY can affect timelines and material choices.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: confirm licensing and insurance before approving work.
+Step: record station placement maps for follow-up visits.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+State note: New Rochelle, NY commercial kitchens may require separate documentation for audit visits.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in New Rochelle, NY, but intake notes help reduce delays.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Field note: Access points and staging constraints recorded for ZIP 10801/10804/10802 coverage.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Dispatch sectors sampled: ZIP 10801, 10804, 10802, 10805 (county grid: Westchester County).
+Clover mite staining on New Rochelle, NY cladding service follows foundation mulch against brick ledges.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Bird mites in New Rochelle, NY exhaust vents can persist after host nests are removed.
+
+Monitoring boards in New Rochelle, NY crawlspaces stay 72 hours before snap traps are reset.
+
+Silverfish activity in New Rochelle, NY attics tracks cardboard storage and ridge vent gaps.
+
+Carpenter ant frass in New Rochelle, NY window sills may indicate moisture-softened framing.
+
+Species trace 200485: re-entry interval label and conducive moisture note keyed to New Rochelle, NY elevation 112 ft.
+
+ZIP-corridor snapshot for New Rochelle, NY: sampled sectors include 10801, 10805, 10804, 10802; county routing grid remains Westchester County.
 
 Service reference: NY-10801-cabc4e68

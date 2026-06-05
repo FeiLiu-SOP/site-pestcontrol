@@ -11,26 +11,41 @@ lng: -117.1700
 zipSample: ["92346", "92375", "92359", "92374", "92373"]
 zipCodes: ["92374", "92373", "92375", "92359", "92346"]
 localPaths: ["San Bernardino County / ZIP 92374 sector", "San Bernardino County / ZIP 92346 sector", "San Bernardino County / primary ZIP 92359", "San Bernardino County / coords 34.0500, -117.1700", "San Bernardino County / ZIP 92375 sector"]
-zillowHomeValueUsd: 511483
 ---
 
-**Engineering Notice for Redlands:** Structural loading calculated based on 1453 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Redlands:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep pet food elevated and sealed between service visits.
 
-In Redlands, CA, seasonal demand can change scheduling windows.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-We coordinate local dispatch coverage around Redlands, CA and nearby ZIP sectors.
+Silverfish activity in Redlands, CA attics tracks cardboard storage and ridge vent gaps.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Date bait station lids when servicing Redlands, CA perimeter lines.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Fire ant mounds in Redlands, CA drive seams need granule rotation after irrigation events.
 
-Field note: Moisture pathway inspection logged near ZIP 92374/92359/92375 intake.
+Seasonal pest pressure in Redlands, CA shifts between moisture ants and dry-wood vectors.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92374/92359/92375.
+FAQ: Why schedule quarterly instead of monthly in Redlands, CA? Species pressure and label intervals dictate cadence.
 
-Dispatch sectors sampled: ZIP 92374, 92359, 92375, 92373, 92346 (county grid: San Bernardino County).
+Attic misting in Redlands, CA requires combustion air clearance verified before fans restart.
+
+Risk flag: Overwatered Redlands, CA planters can restart ant bridges within two weeks.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Material note: Perimeter granules in Redlands, CA may need reapplication after heavy irrigation.
+
+Earwig harborages in Redlands, CA meter boxes often follow drip irrigation overspray.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Redlands, CA, pressure often rebuilds.
+
+Attic insulation disturbance in Redlands, CA may indicate wildlife nesting routes.
+
+Seasonal cue 508392: cluster fly attic staging reviewed for Redlands, CA soffit cavities.
+
+On-site sector marker: San Bernardino County / primary ZIP 92359 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92359-da36e3de

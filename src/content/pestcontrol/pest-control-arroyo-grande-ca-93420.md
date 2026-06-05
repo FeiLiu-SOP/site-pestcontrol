@@ -11,25 +11,43 @@ lng: -120.5800
 zipSample: ["93420", "93421"]
 zipCodes: ["93421", "93420"]
 localPaths: ["San Luis Obispo County / primary ZIP 93420", "San Luis Obispo County / ZIP 93420 sector", "San Luis Obispo County / elevation 217 ft band", "San Luis Obispo County / coords 35.1200, -120.5800", "San Luis Obispo County / ZIP 93421 sector"]
-zillowHomeValueUsd: 1049974
 ---
 
-**Engineering Notice for Arroyo Grande:** Structural loading calculated based on 217 ft terrain assessment. Regional dispatch grid: San Luis Obispo County.
+**Engineering Notice for Arroyo Grande:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Luis Obispo County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Can bed bugs spread room-to-room in Arroyo Grande, CA row homes? Wall voids and shared ducts accelerate transfer.
 
-We coordinate local dispatch coverage around Arroyo Grande, CA and nearby ZIP sectors.
+Mosquito breeding in Arroyo Grande, CA catch basins can amplify perimeter callbacks.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 93420.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Arroyo Grande, CA, but intake notes help reduce delays.
+Risk flag: Overwatered Arroyo Grande, CA planters can restart ant bridges within two weeks.
 
-Field note: Connection points spot-checked where accessible (ZIP 93421/93420 zone).
+Spider populations in Arroyo Grande, CA eaves can signal insect prey density.
 
-Dispatch sectors sampled: ZIP 93421, 93420 (county grid: San Luis Obispo County).
+Fire ant mounds in Arroyo Grande, CA drive seams need granule rotation after irrigation events.
+
+Carpenter ant frass in Arroyo Grande, CA window sills may indicate moisture-softened framing.
+
+Flea pupae survive vacuuming in Arroyo Grande, CA carpet fibers unless heat treatment follows.
+
+Attic misting in Arroyo Grande, CA requires combustion air clearance verified before fans restart.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+In Arroyo Grande, CA, subterranean termite swarms often follow warm rain windows.
+
+State note: Arroyo Grande, CA commercial kitchens may require separate documentation for audit visits.
+
+Species trace 571722: re-entry interval label and conducive moisture note keyed to Arroyo Grande, CA elevation 217 ft.
+
+Intercept log 571722: bed bug intercept count staged before Arroyo Grande, CA interior gel zones.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~217 ft across the San Luis Obispo County area. Coordinates: 35.1200, -120.5800. ZIP sample: 93420, 93421. Logistics priority: Serving residential sectors across San Luis Obispo County and north-east ZIP 93420 grid.
 
 Service reference: CA-93420-a4a1fc7a

@@ -11,24 +11,37 @@ lng: -80.0800
 zipSample: ["27361", "27360"]
 zipCodes: ["27360", "27361"]
 localPaths: ["Davidson County / ZIP 27361 sector", "Davidson County / ZIP 27360 sector", "Davidson County / primary ZIP 27360", "Davidson County / coords 35.8800, -80.0800", "Davidson County / elevation 840 ft band"]
-zillowHomeValueUsd: 238324
 ---
 
-**Engineering Notice for Thomasville:** Structural loading calculated based on 840 ft terrain assessment. Regional dispatch grid: Davidson County.
+**Engineering Notice for Thomasville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Davidson County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Clover mite staining on Thomasville, NC wall restoration follows foundation mulch against brick ledges.
 
-Transparent pricing helps you compare like-for-like scope items.
+Attic misting in Thomasville, NC requires combustion air clearance verified before fans restart.
 
-Our service coordination centers on Thomasville, NC coverage windows and verified intake details.
+Perimeter granule carriers in Thomasville, NC clay soils may need lighter irrigation before application.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Seasonal pest pressure in Thomasville, NC shifts between moisture ants and dry-wood vectors.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Moisture pathway inspection logged near ZIP 27361/27360 intake.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Dispatch sectors sampled: ZIP 27361, 27360 (county grid: Davidson County).
+Earwig harborages in Thomasville, NC meter boxes often follow drip irrigation overspray.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Cluster fly attic staging in Thomasville, NC peaks on south-facing voids after sunny thaw days.
+
+Mud dauber nests in Thomasville, NC porch ceilings are benign but signal prey density for spiders.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Step: map entry points with photo logs before sealing.
+
+Species trace 899356: re-entry interval label and conducive moisture note keyed to Thomasville, NC elevation 840 ft.
+
+Regional mesh label Davidson County: moisture and logistics baselines are keyed to Thomasville, NC before niche-specific work begins.
 
 Service reference: NC-27360-b8082208

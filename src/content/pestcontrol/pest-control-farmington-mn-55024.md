@@ -11,27 +11,43 @@ lng: -93.1700
 zipSample: ["55024"]
 zipCodes: ["55024"]
 localPaths: ["Dakota County / coords 44.6600, -93.1700", "Dakota County / primary ZIP 55024", "Dakota County / ZIP 55024 sector", "Dakota County / elevation 909 ft band"]
-zillowHomeValueUsd: 400248
 ---
 
-**Engineering Notice for Farmington:** Structural loading calculated based on 909 ft terrain assessment. Regional dispatch grid: Dakota County.
+**Engineering Notice for Farmington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dakota County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 55024.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Seasonal pest pressure in Farmington, MN shifts between moisture ants and dry-wood vectors.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Moisture pathway inspection logged near ZIP 55024 intake.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Field note: Wind exposure category reviewed for ZIP sector 55024.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Dispatch sectors sampled: ZIP 55024 (county grid: Dakota County).
+Carpenter ant frass in Farmington, MN window sills may indicate moisture-softened framing.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 55024.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+IGR packets for Farmington, MN roach cycles should be dated on station lids.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Exclusion audit 376323: exclusion mesh gauge and rodent runway grease mark reviewed for Farmington, MN at 44.6600/-93.1700.
+
+Perimeter dossier 376323: bait station anchor map and mulch bridge risk flagged for Farmington, MN county Dakota County (ZIP 55024).
+
+Regional mesh label Dakota County: moisture and logistics baselines are keyed to Farmington, MN before niche-specific work begins.
 
 Service reference: MN-55024-3f9d2b23

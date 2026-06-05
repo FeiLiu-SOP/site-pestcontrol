@@ -11,26 +11,39 @@ lng: -112.0100
 zipSample: ["84005", "84013"]
 zipCodes: ["84013", "84005"]
 localPaths: ["Utah County / elevation 4885 ft band", "Utah County / primary ZIP 84013", "Utah County / ZIP 84013 sector", "Utah County / ZIP 84005 sector", "Utah County / coords 40.3100, -112.0100"]
-zillowHomeValueUsd: 538896
 ---
 
-**Engineering Notice for Eagle Mountain:** Structural loading calculated based on 4885 ft terrain assessment. Regional dispatch grid: Utah County.
+**Engineering Notice for Eagle Mountain:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Utah County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Perimeter granules in Eagle Mountain, UT may need reapplication after heavy irrigation.
 
-Tip: avoid large upfront payments without milestones.
+Step: verify attic access safety before insulation disturbance.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic insulation disturbance in Eagle Mountain, UT may indicate wildlife nesting routes.
 
-Field note: Access points and staging constraints recorded for ZIP 84005/84013 coverage.
+Drain fly biofilm in Eagle Mountain, UT floor drains signals grease traps need service before gel baits.
 
-Field note: Connection points spot-checked where accessible (ZIP 84005/84013 zone).
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Dispatch sectors sampled: ZIP 84005, 84013 (county grid: Utah County).
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+State note: Eagle Mountain, UT commercial kitchens may require separate documentation for audit visits.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+IGR packets for Eagle Mountain, UT roach cycles should be dated on station lids.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Intercept log 638407: bed bug intercept count staged before Eagle Mountain, UT interior gel zones.
+
+Perimeter dossier 638407: bait station anchor map and mulch bridge risk flagged for Eagle Mountain, UT county Utah County (ZIP 84013).
+
+On-site sector marker: Utah County / coords 40.3100, -112.0100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84013-3ca61e0f

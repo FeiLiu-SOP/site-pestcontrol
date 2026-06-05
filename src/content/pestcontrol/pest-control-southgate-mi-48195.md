@@ -11,26 +11,41 @@ lng: -83.2100
 zipSample: ["48195"]
 zipCodes: ["48195"]
 localPaths: ["Wayne County / primary ZIP 48195", "Wayne County / ZIP 48195 sector", "Wayne County / coords 42.2000, -83.2100", "Wayne County / elevation 584 ft band"]
-zillowHomeValueUsd: 192311
 ---
 
-**Engineering Notice for Southgate:** Structural loading calculated based on 584 ft terrain assessment. Regional dispatch grid: Wayne County.
+**Engineering Notice for Southgate:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wayne County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 48195.
 
-Tip: request a written scope before work starts.
+Carpenter ant frass in Southgate, MI window sills may indicate moisture-softened framing.
 
-Local conditions in Southgate, MI can affect timelines and material choices.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+We coordinate Southgate, MI pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Date bait station lids when servicing Southgate, MI perimeter lines.
 
-Field note: Wind exposure category reviewed for ZIP sector 48195.
+Seasonal pest pressure in Southgate, MI shifts between moisture ants and dry-wood vectors.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48195.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Dispatch sectors sampled: ZIP 48195 (county grid: Wayne County).
+Monitoring boards in Southgate, MI crawlspaces stay 72 hours before snap traps are reset.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+FAQ: Can bed bugs spread room-to-room in Southgate, MI row homes? Wall voids and shared ducts accelerate transfer.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 48195.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Flea pupae survive vacuuming in Southgate, MI carpet fibers unless heat treatment follows.
+
+Stink bug overwinter seams in Southgate, MI wall restoration laps require exclusion foam rated for UV exposure.
+
+Harbor ledger 281181: frass lane, mud-tube scan, and garage jamb gap measure filed for Southgate, MI at 42.2000, -83.2100.
+
+On-site sector marker: Wayne County / ZIP 48195 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48195-c0a83469

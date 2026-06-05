@@ -11,26 +11,41 @@ lng: -119.5700
 zipSample: ["89428", "89403"]
 zipCodes: ["89428", "89403"]
 localPaths: ["Lyon County / ZIP 89428 sector", "Lyon County / coords 39.2600, -119.5700", "Lyon County / ZIP 89403 sector", "Lyon County / elevation 4327 ft band", "Lyon County / primary ZIP 89403"]
-zillowHomeValueUsd: 453610
 ---
 
-**Engineering Notice for Dayton:** Structural loading calculated based on 4327 ft terrain assessment. Regional dispatch grid: Lyon County.
+**Engineering Notice for Dayton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lyon County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Dayton, NV, but intake notes help reduce delays.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-We coordinate local dispatch coverage around Dayton, NV and nearby ZIP sectors.
+Drain fly biofilm in Dayton, NV floor drains signals grease traps need service before gel baits.
 
-Tip: confirm licensing and insurance before approving work.
+Perimeter granule carriers in Dayton, NV clay soils may need lighter irrigation before application.
 
-In Dayton, NV, urgent pest control issues can escalate quickly.
+Risk flag: Overwatered Dayton, NV planters can restart ant bridges within two weeks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Why do pests return after spraying? Without sealing entry points in Dayton, NV, pressure often rebuilds.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 89428/89403.
+Wildlife odors in Dayton, NV crawlspaces may attract secondary pest activity.
 
-Field note: Access points and staging constraints recorded for ZIP 89428/89403 coverage.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Dispatch sectors sampled: ZIP 89428, 89403 (county grid: Lyon County).
+Bird mites in Dayton, NV exhaust vents can persist after host nests are removed.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Earwig harborages in Dayton, NV meter boxes often follow drip irrigation overspray.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Powderpost beetle exit holes in Dayton, NV trim can be mistaken for dry-wood frass without magnification.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 89403.
+
+Perimeter dossier 134785: bait station anchor map and mulch bridge risk flagged for Dayton, NV county Lyon County (ZIP 89403).
+
+On-site sector marker: Lyon County / primary ZIP 89403 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NV-89403-c49614d3

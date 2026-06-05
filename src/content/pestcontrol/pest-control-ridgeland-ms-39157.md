@@ -11,27 +11,37 @@ lng: -90.1500
 zipSample: ["39158", "39157"]
 zipCodes: ["39157", "39158"]
 localPaths: ["Madison County / primary ZIP 39157", "Madison County / elevation 351 ft band", "Madison County / coords 32.4200, -90.1500", "Madison County / ZIP 39157 sector", "Madison County / ZIP 39158 sector"]
-zillowHomeValueUsd: 286465
 ---
 
-**Engineering Notice for Ridgeland:** Structural loading calculated based on 351 ft terrain assessment. Regional dispatch grid: Madison County.
+**Engineering Notice for Ridgeland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Madison County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Tip: address recurring issues early to prevent bigger damage.
+Dry-wood termite pellets in Ridgeland, MS attics may appear before exterior mud tubes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 39157.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 39157.
 
-Field note: Connection points spot-checked where accessible (ZIP 39158/39157 zone).
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 39158/39157.
+Flea pupae survive vacuuming in Ridgeland, MS carpet fibers unless heat treatment follows.
 
-Dispatch sectors sampled: ZIP 39158, 39157 (county grid: Madison County).
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Ridgeland, MS.
+
+Risk flag: In Ridgeland, MS, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Material note: Perimeter granules in Ridgeland, MS may need reapplication after heavy irrigation.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Intercept log 294645: bed bug intercept count staged before Ridgeland, MS interior gel zones.
+
+On-site sector marker: Madison County / primary ZIP 39157 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39157-6f9ebac1

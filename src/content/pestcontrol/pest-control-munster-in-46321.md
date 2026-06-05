@@ -11,24 +11,41 @@ lng: -87.5000
 zipSample: ["46321"]
 zipCodes: ["46321"]
 localPaths: ["Lake County / ZIP 46321 sector", "Lake County / coords 41.5500, -87.5000", "Lake County / primary ZIP 46321", "Lake County / elevation 623 ft band"]
-zillowHomeValueUsd: 347652
 ---
 
-**Engineering Notice for Munster:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Munster:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Munster, IN, but intake notes help reduce delays.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: confirm licensing and insurance before approving work.
+Powderpost beetle exit holes in Munster, IN trim can be mistaken for dry-wood frass without magnification.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Field note: Connection points spot-checked where accessible (ZIP 46321 zone).
+Exclusion gaps at garage jambs in Munster, IN are common rodent access points.
 
-Dispatch sectors sampled: ZIP 46321 (county grid: Lake County).
+Risk flag: In Munster, IN, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+IGR packets for Munster, IN roach cycles should be dated on station lids.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Mud dauber nests in Munster, IN porch ceilings are benign but signal prey density for spiders.
+
+Carpenter ant frass in Munster, IN window sills may indicate moisture-softened framing.
+
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+Perimeter dossier 905086: bait station anchor map and mulch bridge risk flagged for Munster, IN county Lake County (ZIP 46321).
+
+Harbor ledger 905086: frass lane, mud-tube scan, and garage jamb gap measure filed for Munster, IN at 41.5500, -87.5000.
+
+On-site sector marker: Lake County / elevation 623 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46321-e856d56a

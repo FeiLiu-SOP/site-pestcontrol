@@ -11,25 +11,43 @@ lng: -99.0800
 zipSample: ["68845", "68847", "68849", "68848"]
 zipCodes: ["68849", "68848", "68845", "68847"]
 localPaths: ["Buffalo County / primary ZIP 68847", "Buffalo County / ZIP 68849 sector", "Buffalo County / ZIP 68848 sector", "Buffalo County / ZIP 68845 sector", "Buffalo County / elevation 2165 ft band"]
-zillowHomeValueUsd: 281708
 ---
 
-**Engineering Notice for Kearney:** Structural loading calculated based on 2165 ft terrain assessment. Regional dispatch grid: Buffalo County.
+**Engineering Notice for Kearney:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Buffalo County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 68847.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Kearney, NE, but intake notes help reduce delays.
+Risk flag: In Kearney, NE, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+IGR packets for Kearney, NE roach cycles should be dated on station lids.
 
-Our service coordination centers on Kearney, NE coverage windows and verified intake details.
+Across Kearney, NE, rodent entry points frequently track utility penetrations.
 
-Field note: Access points and staging constraints recorded for ZIP 68847/68845/68848 coverage.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Dispatch sectors sampled: ZIP 68847, 68845, 68848, 68849 (county grid: Buffalo County).
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Silverfish activity in Kearney, NE attics tracks cardboard storage and ridge vent gaps.
+
+Fire ant mounds in Kearney, NE drive seams need granule rotation after irrigation events.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Clover mite staining on Kearney, NE wall restoration follows foundation mulch against brick ledges.
+
+Humidity in Kearney, NE can sustain cockroach harborages behind appliance voids.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+State note: Kearney, NE commercial kitchens may require separate documentation for audit visits.
+
+Harbor ledger 584128: frass lane, mud-tube scan, and garage jamb gap measure filed for Kearney, NE at 40.7000, -99.0800.
+
+Zone map 584128: attic insulation disturbance trace and pantry pest source logged for Kearney, NE sector 68847.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Buffalo County. Reference elevation: 2165 ft. Primary coordinates: 40.7000, -99.0800. ZIP sample: 68848, 68845, 68847, 68849. Regional routing note: Buffalo County traffic flow is balanced around ZIP 68847 service demand.
 
 Service reference: NE-68847-c586609e

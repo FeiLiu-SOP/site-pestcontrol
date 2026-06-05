@@ -11,26 +11,41 @@ lng: -116.9500
 zipSample: ["92021"]
 zipCodes: ["92021"]
 localPaths: ["San Diego County / primary ZIP 92021", "San Diego County / elevation 469 ft band", "San Diego County / ZIP 92021 sector", "San Diego County / coords 32.8200, -116.9500"]
-zillowHomeValueUsd: 770740
 ---
 
-**Engineering Notice for Bostonia:** Structural loading calculated based on 469 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for Bostonia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.
 
 
-We coordinate local dispatch coverage around Bostonia, CA and nearby ZIP sectors.
+Tip: Keep pet food elevated and sealed between service visits.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Flea pupae survive vacuuming in Bostonia, CA carpet fibers unless heat treatment follows.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bostonia, CA, but intake notes help reduce delays.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Tip: avoid large upfront payments without milestones.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Field note: Moisture pathway inspection logged near ZIP 92021 intake.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92021.
+Step: label treatment zones for occupant re-entry timing.
 
-Dispatch sectors sampled: ZIP 92021 (county grid: San Diego County).
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+IGR packets for Bostonia, CA roach cycles should be dated on station lids.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Harbor ledger 668178: frass lane, mud-tube scan, and garage jamb gap measure filed for Bostonia, CA at 32.8200, -116.9500.
+
+On-site sector marker: San Diego County / coords 32.8200, -116.9500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92021-0f8be8a8

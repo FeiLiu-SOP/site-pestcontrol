@@ -11,24 +11,39 @@ lng: -97.3400
 zipSample: ["67114"]
 zipCodes: ["67114"]
 localPaths: ["Harvey County / primary ZIP 67114", "Harvey County / ZIP 67114 sector", "Harvey County / elevation 1453 ft band", "Harvey County / coords 38.0400, -97.3400"]
-zillowHomeValueUsd: 170184
 ---
 
-**Engineering Notice for Newton:** Structural loading calculated based on 1453 ft terrain assessment. Regional dispatch grid: Harvey County.
+**Engineering Notice for Newton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harvey County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Newton, KS, but intake notes help reduce delays.
+FAQ: What is exclusion? Without sealing entry points in Newton, KS, pressure often rebuilds.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Our service coordination centers on Newton, KS coverage windows and verified intake details.
+Risk flag: Overwatered Newton, KS planters can restart ant bridges within two weeks.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why schedule quarterly instead of monthly in Newton, KS? Species pressure and label intervals dictate cadence.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Flea pupae survive vacuuming in Newton, KS carpet fibers unless heat treatment follows.
 
-Field note: Access points and staging constraints recorded for ZIP 67114 coverage.
+Silverfish activity in Newton, KS attics tracks cardboard storage and ridge vent gaps.
 
-Dispatch sectors sampled: ZIP 67114 (county grid: Harvey County).
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 67114.
+
+Step: verify attic access safety before insulation disturbance.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Powderpost beetle exit holes in Newton, KS trim can be mistaken for dry-wood frass without magnification.
+
+Material note: Perimeter granules in Newton, KS may need reapplication after heavy irrigation.
+
+Cluster fly attic staging in Newton, KS peaks on south-facing voids after sunny thaw days.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Perimeter dossier 981582: bait station anchor map and mulch bridge risk flagged for Newton, KS county Harvey County (ZIP 67114).
+
+On-site sector marker: Harvey County / ZIP 67114 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: KS-67114-4b4178d1

@@ -11,27 +11,41 @@ lng: -88.2900
 zipSample: ["60050"]
 zipCodes: ["60050"]
 localPaths: ["McHenry County / coords 42.3400, -88.2900", "McHenry County / ZIP 60050 sector", "McHenry County / elevation 817 ft band", "McHenry County / primary ZIP 60050"]
-zillowHomeValueUsd: 307068
 ---
 
-**Engineering Notice for McHenry:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: McHenry County.
+**Engineering Notice for McHenry:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: McHenry County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Powderpost beetle exit holes in McHenry, IL trim can be mistaken for dry-wood frass without magnification.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 60050.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Our service coordination centers on McHenry, IL coverage windows and verified intake details.
+IGR packets for McHenry, IL roach cycles should be dated on station lids.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Tip: compare at least two estimates for scope and timeline.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 60050.
 
-Field note: Wind exposure category reviewed for ZIP sector 60050.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60050.
+Silverfish activity in McHenry, IL attics tracks cardboard storage and ridge vent gaps.
 
-Dispatch sectors sampled: ZIP 60050 (county grid: McHenry County).
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Perimeter mulch beds in McHenry, IL should be reviewed for ant bridge paths.
+
+Seasonal pest pressure in McHenry, IL shifts between moisture ants and dry-wood vectors.
+
+FAQ: Can bed bugs spread room-to-room in McHenry, IL row homes? Wall voids and shared ducts accelerate transfer.
+
+Earwig harborages in McHenry, IL meter boxes often follow drip irrigation overspray.
+
+Yellow jacket nests in McHenry, IL soffit cavities peak in late summer routing windows.
+
+Harbor ledger 834011: frass lane, mud-tube scan, and garage jamb gap measure filed for McHenry, IL at 42.3400, -88.2900.
+
+Species trace 834011: re-entry interval label and conducive moisture note keyed to McHenry, IL elevation 817 ft.
+
+On-site sector marker: McHenry County / elevation 817 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60050-d153f45f

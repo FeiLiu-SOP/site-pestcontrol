@@ -11,24 +11,41 @@ lng: -77.1100
 zipSample: ["22310", "22303"]
 zipCodes: ["22310", "22303"]
 localPaths: ["Fairfax County / ZIP 22310 sector", "Fairfax County / elevation 184 ft band", "Fairfax County / coords 38.7900, -77.1100", "Fairfax County / ZIP 22303 sector", "Fairfax County / primary ZIP 22303"]
-zillowHomeValueUsd: 562649
 ---
 
-**Engineering Notice for Rose Hill:** Structural loading calculated based on 184 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Rose Hill:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.
 
 
-In Rose Hill, VA, urgent pest control issues can escalate quickly.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Trim vegetation 12 inches from cladding service to reduce ant bridges.
 
-We coordinate local dispatch coverage around Rose Hill, VA and nearby ZIP sectors.
+State note: Rose Hill, VA commercial kitchens may require separate documentation for audit visits.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Transparent pricing helps you compare like-for-like scope items.
+In Rose Hill, VA, subterranean termite swarms often follow warm rain windows.
 
-Field note: Connection points spot-checked where accessible (ZIP 22303/22310 zone).
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Dispatch sectors sampled: ZIP 22303, 22310 (county grid: Fairfax County).
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Material note: Perimeter granules in Rose Hill, VA may need reapplication after heavy irrigation.
+
+Yellow jacket nests in Rose Hill, VA soffit cavities peak in late summer routing windows.
+
+Attic fogging in Rose Hill, VA requires combustion appliance shutoff verification first.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Risk flag: In Rose Hill, VA, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+FAQ: Can bed bugs spread room-to-room in Rose Hill, VA row homes? Wall voids and shared ducts accelerate transfer.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 22303.
+
+Harbor ledger 442823: frass lane, mud-tube scan, and garage jamb gap measure filed for Rose Hill, VA at 38.7900, -77.1100.
+
+On-site sector marker: Fairfax County / ZIP 22303 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22303-428180ce

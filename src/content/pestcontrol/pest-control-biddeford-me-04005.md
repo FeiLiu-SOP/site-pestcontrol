@@ -11,27 +11,39 @@ lng: -70.4500
 zipSample: ["04005", "04007", "04006"]
 zipCodes: ["04005", "04007", "04006"]
 localPaths: ["York County / ZIP 04006 sector", "York County / elevation 151 ft band", "York County / coords 43.4700, -70.4500", "York County / ZIP 04005 sector", "York County / ZIP 04007 sector"]
-zillowHomeValueUsd: 499636
 ---
 
-**Engineering Notice for Biddeford:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: York County.
+**Engineering Notice for Biddeford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: York County.
 
 
-Tip: request a written scope before work starts.
+Perimeter mulch beds in Biddeford, ME should be reviewed for ant bridge paths.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 04005.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-We coordinate local dispatch coverage around Biddeford, ME and nearby ZIP sectors.
+Request an inspection with species ID before treatment. Serving ZIP Code: 04005.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Attic misting in Biddeford, ME requires combustion air clearance verified before fans restart.
 
-Field note: Moisture pathway inspection logged near ZIP 04006/04005/04007 intake.
+Earwig harborages in Biddeford, ME meter boxes often follow drip irrigation overspray.
 
-Field note: Wind exposure category reviewed for ZIP sector 04006/04005/04007.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 04006, 04005, 04007 (county grid: York County).
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 04005.
+
+Intercept log 321664: bed bug intercept count staged before Biddeford, ME interior gel zones.
+
+Perimeter dossier 321664: bait station anchor map and mulch bridge risk flagged for Biddeford, ME county York County (ZIP 04005).
+
+On-site sector marker: York County / elevation 151 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: ME-04005-77b59eb8

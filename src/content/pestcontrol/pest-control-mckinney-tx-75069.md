@@ -11,26 +11,41 @@ lng: -96.6700
 zipSample: ["75070", "75069", "75071", "75072"]
 zipCodes: ["75070", "75071", "75069", "75072"]
 localPaths: ["Collin County / coords 33.2000, -96.6700", "Collin County / ZIP 75071 sector", "Collin County / ZIP 75070 sector", "Collin County / ZIP 75069 sector", "Collin County / primary ZIP 75069"]
-zillowHomeValueUsd: 418028
 ---
 
-**Engineering Notice for McKinney:** Structural loading calculated based on 604 ft terrain assessment. Regional dispatch grid: Collin County.
+**Engineering Notice for McKinney:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Collin County.
 
 
-We coordinate local dispatch coverage around McKinney, TX and nearby ZIP sectors.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Structured milestones protect both sides when scheduling work.
+Flea pupae survive vacuuming in McKinney, TX carpet fibers unless heat treatment follows.
 
-In McKinney, TX, seasonal demand can change scheduling windows.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Tip: request a written scope before work starts.
+Attic fogging in McKinney, TX requires combustion appliance shutoff verification first.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Monitoring boards in McKinney, TX crawlspaces stay 72 hours before snap traps are reset.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75072/75069/75070.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 75069.
 
-Field note: Access points and staging constraints recorded for ZIP 75072/75069/75070 coverage.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Dispatch sectors sampled: ZIP 75072, 75069, 75070, 75071 (county grid: Collin County).
+Bird mites in McKinney, TX exhaust vents can persist after host nests are removed.
+
+In McKinney, TX, subterranean termite swarms often follow warm rain windows.
+
+Seasonal pest pressure in McKinney, TX shifts between moisture ants and dry-wood vectors.
+
+Spider populations in McKinney, TX eaves can signal insect prey density.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Risk flag: In McKinney, TX, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Perimeter dossier 530725: bait station anchor map and mulch bridge risk flagged for McKinney, TX county Collin County (ZIP 75069).
+
+Seasonal cue 530725: cluster fly attic staging reviewed for McKinney, TX soffit cavities.
+
+ZIP-corridor snapshot for McKinney, TX: sampled sectors include 75069, 75071, 75070, 75072; county routing grid remains Collin County.
 
 Service reference: TX-75069-768752ae

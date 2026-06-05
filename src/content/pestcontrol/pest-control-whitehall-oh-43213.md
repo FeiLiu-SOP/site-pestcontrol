@@ -11,26 +11,39 @@ lng: -82.8800
 zipSample: ["43213", "43216"]
 zipCodes: ["43213", "43216"]
 localPaths: ["Franklin County / elevation 797 ft band", "Franklin County / ZIP 43216 sector", "Franklin County / coords 39.9700, -82.8800", "Franklin County / ZIP 43213 sector", "Franklin County / primary ZIP 43213"]
-zillowHomeValueUsd: 213928
 ---
 
-**Engineering Notice for Whitehall:** Structural loading calculated based on 797 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Whitehall:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Franklin County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Tip: request a written scope before work starts.
+Earwig harborages in Whitehall, OH meter boxes often follow drip irrigation overspray.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Flea pupae survive vacuuming in Whitehall, OH carpet fibers unless heat treatment follows.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Whitehall, OH, but intake notes help reduce delays.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Tip: avoid large upfront payments without milestones.
+Wildlife odors in Whitehall, OH crawlspaces may attract secondary pest activity.
 
-Field note: Connection points spot-checked where accessible (ZIP 43216/43213 zone).
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Whitehall, OH.
 
-Field note: Moisture pathway inspection logged near ZIP 43216/43213 intake.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Dispatch sectors sampled: ZIP 43216, 43213 (county grid: Franklin County).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Carpenter ant frass in Whitehall, OH window sills may indicate moisture-softened framing.
+
+Yellow jacket nests in Whitehall, OH soffit cavities peak in late summer routing windows.
+
+Attic insulation disturbance in Whitehall, OH may indicate wildlife nesting routes.
+
+Perimeter dossier 391772: bait station anchor map and mulch bridge risk flagged for Whitehall, OH county Franklin County (ZIP 43213).
+
+Primary postal anchor 43213 with multi-ZIP overlap in Whitehall; field packets tag Franklin County for county-grid reconciliation.
 
 Service reference: OH-43213-77d026d5

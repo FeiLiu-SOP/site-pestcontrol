@@ -11,27 +11,39 @@ lng: -80.1700
 zipSample: ["33081", "33021", "33004", "33023", "33312"]
 zipCodes: ["33081", "33020", "33022", "33302", "33312", "33316", "33004", "33082", "33023", "33019", "33021", "33024"]
 localPaths: ["Broward County / ZIP 33081 sector", "Broward County / ZIP 33312 sector", "Broward County / ZIP 33004 sector", "Broward County / coords 26.0300, -80.1700", "Broward County / ZIP 33023 sector"]
-zillowHomeValueUsd: 465749
 ---
 
-**Engineering Notice for Hollywood:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Broward County.
+**Engineering Notice for Hollywood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.
 
 
-Tip: request a written scope before work starts.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 33024.
+Carpenter ant frass in Hollywood, FL window sills may indicate moisture-softened framing.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Bird mites in Hollywood, FL exhaust vents can persist after host nests are removed.
 
-Tip: compare at least two estimates for scope and timeline.
+Cluster fly attic staging in Hollywood, FL peaks on south-facing voids after sunny thaw days.
 
-Our service coordination centers on Hollywood, FL coverage windows and verified intake details.
+Request an inspection with species ID before treatment. Serving ZIP Code: 33024.
 
-Field note: Access points and staging constraints recorded for ZIP 33316/33020/33019 coverage.
+Material note: Perimeter granules in Hollywood, FL may need reapplication after heavy irrigation.
 
-Field note: Connection points spot-checked where accessible (ZIP 33316/33020/33019 zone).
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Dispatch sectors sampled: ZIP 33316, 33020, 33019, 33004, 33024 (county grid: Broward County).
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Fire ant mounds in Hollywood, FL drive seams need granule rotation after irrigation events.
+
+Silverfish activity in Hollywood, FL attics tracks cardboard storage and ridge vent gaps.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Hollywood, FL, pressure often rebuilds.
+
+Intercept log 430809: bed bug intercept count staged before Hollywood, FL interior gel zones.
+
+Harbor ledger 430809: frass lane, mud-tube scan, and garage jamb gap measure filed for Hollywood, FL at 26.0300, -80.1700.
+
+On-site sector marker: Broward County / ZIP 33316 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33024-53f9d801

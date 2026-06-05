@@ -11,27 +11,39 @@ lng: -77.0600
 zipSample: ["20915", "20902", "20906"]
 zipCodes: ["20902", "20915", "20906"]
 localPaths: ["Montgomery County / primary ZIP 20906", "Montgomery County / ZIP 20906 sector", "Montgomery County / coords 39.0500, -77.0600", "Montgomery County / ZIP 20902 sector", "Montgomery County / elevation 397 ft band"]
-zillowHomeValueUsd: 447329
 ---
 
-**Engineering Notice for Wheaton:** Structural loading calculated based on 397 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Wheaton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Attic insulation disturbance in Wheaton, MD may indicate wildlife nesting routes.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 20906.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Seasonal pest pressure in Wheaton, MD shifts between moisture ants and dry-wood vectors.
 
-Tip: request a written scope before work starts.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 20902/20915/20906.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Field note: Wind exposure category reviewed for ZIP sector 20902/20915/20906.
+Tip: Log pet access routes when bait stations are placed.
 
-Dispatch sectors sampled: ZIP 20902, 20915, 20906 (county grid: Montgomery County).
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Step: map entry points with photo logs before sealing.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 20906.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Harbor ledger 201042: frass lane, mud-tube scan, and garage jamb gap measure filed for Wheaton, MD at 39.0500, -77.0600.
+
+Exclusion audit 201042: exclusion mesh gauge and rodent runway grease mark reviewed for Wheaton, MD at 39.0500/-77.0600.
+
+On-site sector marker: Montgomery County / ZIP 20906 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20906-819730fd

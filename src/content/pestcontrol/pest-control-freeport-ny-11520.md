@@ -11,27 +11,39 @@ lng: -73.5800
 zipSample: ["11520"]
 zipCodes: ["11520"]
 localPaths: ["Nassau County / ZIP 11520 sector", "Nassau County / coords 40.6500, -73.5800", "Nassau County / elevation 26 ft band", "Nassau County / primary ZIP 11520"]
-zillowHomeValueUsd: 652853
 ---
 
-**Engineering Notice for Freeport:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Freeport:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Powderpost beetle exit holes in Freeport, NY trim can be mistaken for dry-wood frass without magnification.
 
-Our service coordination centers on Freeport, NY coverage windows and verified intake details.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Tip: confirm licensing and insurance before approving work.
+Wildlife odors in Freeport, NY crawlspaces may attract secondary pest activity.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 11520.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Freeport, NY, but intake notes help reduce delays.
+Seasonal pest pressure in Freeport, NY shifts between moisture ants and dry-wood vectors.
 
-Field note: Connection points spot-checked where accessible (ZIP 11520 zone).
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11520.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Dispatch sectors sampled: ZIP 11520 (county grid: Nassau County).
+FAQ: Why schedule quarterly instead of monthly in Freeport, NY? Species pressure and label intervals dictate cadence.
+
+Earwig harborages in Freeport, NY meter boxes often follow drip irrigation overspray.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+County grid Nassau County informs routing near ZIP 11520.
+
+Flea pupae survive vacuuming in Freeport, NY carpet fibers unless heat treatment follows.
+
+Yellow jacket nests in Freeport, NY soffit cavities peak in late summer routing windows.
+
+Perimeter dossier 888498: bait station anchor map and mulch bridge risk flagged for Freeport, NY county Nassau County (ZIP 11520).
+
+On-site sector marker: Nassau County / primary ZIP 11520 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11520-e41eec1d

@@ -11,24 +11,39 @@ lng: -86.1500
 zipSample: ["46033", "46074", "46280", "46290", "46032"]
 zipCodes: ["46280", "46082", "46032", "46033", "46290", "46074"]
 localPaths: ["Hamilton County / ZIP 46280 sector", "Hamilton County / coords 39.9700, -86.1500", "Hamilton County / elevation 843 ft band", "Hamilton County / ZIP 46032 sector", "Hamilton County / ZIP 46074 sector"]
-zillowHomeValueUsd: 573214
 ---
 
-**Engineering Notice for Carmel:** Structural loading calculated based on 843 ft terrain assessment. Regional dispatch grid: Hamilton County.
+**Engineering Notice for Carmel:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hamilton County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Carmel, IN, but intake notes help reduce delays.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Carmel, IN.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Flea pupae survive vacuuming in Carmel, IN carpet fibers unless heat treatment follows.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-We coordinate local dispatch coverage around Carmel, IN and nearby ZIP sectors.
+Perimeter mulch beds in Carmel, IN should be reviewed for ant bridge paths.
 
-Field note: Wind exposure category reviewed for ZIP sector 46033/46074/46290.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Dispatch sectors sampled: ZIP 46033, 46074, 46290, 46032, 46280 (county grid: Hamilton County).
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Material note: Perimeter granules in Carmel, IN may need reapplication after heavy irrigation.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Powderpost beetle exit holes in Carmel, IN trim can be mistaken for dry-wood frass without magnification.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Zone map 253274: attic insulation disturbance trace and pantry pest source logged for Carmel, IN sector 46290.
+
+Species trace 253274: re-entry interval label and conducive moisture note keyed to Carmel, IN elevation 843 ft.
+
+ZIP-corridor snapshot for Carmel, IN: sampled sectors include 46280, 46074, 46082, 46290, 46032, 46033; county routing grid remains Hamilton County.
 
 Service reference: IN-46290-d3eeca24

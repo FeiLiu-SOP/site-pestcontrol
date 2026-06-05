@@ -11,26 +11,41 @@ lng: -123.3300
 zipSample: ["97526", "97528", "97527"]
 zipCodes: ["97527", "97526", "97528"]
 localPaths: ["Josephine County / primary ZIP 97526", "Josephine County / ZIP 97526 sector", "Josephine County / coords 42.4300, -123.3300", "Josephine County / ZIP 97528 sector", "Josephine County / ZIP 97527 sector"]
-zillowHomeValueUsd: 383970
 ---
 
-**Engineering Notice for Grants Pass:** Structural loading calculated based on 928 ft terrain assessment. Regional dispatch grid: Josephine County.
+**Engineering Notice for Grants Pass:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Josephine County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+State note: Grants Pass, OR commercial kitchens may require separate documentation for audit visits.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Yellow jacket nests in Grants Pass, OR soffit cavities peak in late summer routing windows.
 
-Tip: request a written scope before work starts.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Our service coordination centers on Grants Pass, OR coverage windows and verified intake details.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Grants Pass, OR, but intake notes help reduce delays.
+Step: map entry points with photo logs before sealing.
 
-Field note: Wind exposure category reviewed for ZIP sector 97527/97526/97528.
+IGR packets for Grants Pass, OR roach cycles should be dated on station lids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 97527/97526/97528.
+Stored cardboard in Grants Pass, OR garages can accelerate pantry pest cycles.
 
-Dispatch sectors sampled: ZIP 97527, 97526, 97528 (county grid: Josephine County).
+Monitoring boards in Grants Pass, OR crawlspaces stay 72 hours before snap traps are reset.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Step: record station placement maps for follow-up visits.
+
+Risk flag: In Grants Pass, OR, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Seasonal cue 329211: cluster fly attic staging reviewed for Grants Pass, OR soffit cavities.
+
+Species trace 329211: re-entry interval label and conducive moisture note keyed to Grants Pass, OR elevation 928 ft.
+
+ZIP-corridor snapshot for Grants Pass, OR: sampled sectors include 97528, 97526, 97527; county routing grid remains Josephine County.
 
 Service reference: OR-97526-492eddcd

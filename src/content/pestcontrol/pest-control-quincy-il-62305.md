@@ -11,24 +11,39 @@ lng: -91.3800
 zipSample: ["62301", "62305"]
 zipCodes: ["62301", "62305"]
 localPaths: ["Adams County / ZIP 62301 sector", "Adams County / ZIP 62305 sector", "Adams County / elevation 636 ft band", "Adams County / coords 39.9300, -91.3800", "Adams County / primary ZIP 62305"]
-zillowHomeValueUsd: 253365
 ---
 
-**Engineering Notice for Quincy:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Adams County.
+**Engineering Notice for Quincy:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Adams County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep pet food elevated and sealed between service visits.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Tip: address recurring issues early to prevent bigger damage.
+Yellow jacket nests in Quincy, IL soffit cavities peak in late summer routing windows.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 62305.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Quincy, IL, but intake notes help reduce delays.
+Tip: Log pet access routes when bait stations are placed.
 
-Field note: Access points and staging constraints recorded for ZIP 62301/62305 coverage.
+Wildlife odors in Quincy, IL crawlspaces may attract secondary pest activity.
 
-Dispatch sectors sampled: ZIP 62301, 62305 (county grid: Adams County).
+Attic misting in Quincy, IL requires combustion air clearance verified before fans restart.
+
+Stink bug overwinter seams in Quincy, IL cladding service laps require exclusion foam rated for UV exposure.
+
+Humidity in Quincy, IL can sustain cockroach harborages behind appliance voids.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Quincy, IL.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+FAQ: Can bed bugs spread room-to-room in Quincy, IL row homes? Wall voids and shared ducts accelerate transfer.
+
+Intercept log 721393: bed bug intercept count staged before Quincy, IL interior gel zones.
+
+Seasonal cue 721393: cluster fly attic staging reviewed for Quincy, IL soffit cavities.
+
+On-site sector marker: Adams County / coords 39.9300, -91.3800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-62305-dc77363c

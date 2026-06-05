@@ -11,25 +11,39 @@ lng: -96.6700
 zipSample: ["74821", "74820"]
 zipCodes: ["74820", "74821"]
 localPaths: ["Pontotoc County / elevation 1010 ft band", "Pontotoc County / coords 34.7700, -96.6700", "Pontotoc County / ZIP 74821 sector", "Pontotoc County / ZIP 74820 sector", "Pontotoc County / primary ZIP 74820"]
-zillowHomeValueUsd: 184072
 ---
 
-**Engineering Notice for Ada:** Structural loading calculated based on 1010 ft terrain assessment. Regional dispatch grid: Pontotoc County.
+**Engineering Notice for Ada:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pontotoc County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 74820.
+Perimeter mulch beds in Ada, OK should be reviewed for ant bridge paths.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Monitoring boards in Ada, OK crawlspaces stay 72 hours before snap traps are reset.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Ada, OK, but intake notes help reduce delays.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Tip: avoid large upfront payments without milestones.
+Attic misting in Ada, OK requires combustion air clearance verified before fans restart.
 
-Field note: Moisture pathway inspection logged near ZIP 74820/74821 intake.
+Attic fogging in Ada, OK requires combustion appliance shutoff verification first.
 
-Dispatch sectors sampled: ZIP 74820, 74821 (county grid: Pontotoc County).
+Spider populations in Ada, OK eaves can signal insect prey density.
+
+Yellow jacket nests in Ada, OK soffit cavities peak in late summer routing windows.
+
+Material note: Perimeter granules in Ada, OK may need reapplication after heavy irrigation.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Wildlife odors in Ada, OK crawlspaces may attract secondary pest activity.
+
+Zone map 950199: attic insulation disturbance trace and pantry pest source logged for Ada, OK sector 74820.
+
+On-site sector marker: Pontotoc County / ZIP 74821 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-74820-e914b7f9

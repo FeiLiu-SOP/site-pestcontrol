@@ -11,24 +11,37 @@ lng: -114.0200
 zipSample: ["59812", "59802", "59808", "59801", "59803"]
 zipCodes: ["59801", "59803", "59812", "59808", "59802"]
 localPaths: ["Missoula County / ZIP 59812 sector", "Missoula County / ZIP 59801 sector", "Missoula County / ZIP 59808 sector", "Missoula County / coords 46.8800, -114.0200", "Missoula County / ZIP 59802 sector"]
-zillowHomeValueUsd: 499190
 ---
 
-**Engineering Notice for Missoula:** Structural loading calculated based on 3166 ft terrain assessment. Regional dispatch grid: Missoula County.
+**Engineering Notice for Missoula:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Missoula County.
 
 
-We coordinate local dispatch coverage around Missoula, MT and nearby ZIP sectors.
+Mosquito breeding in Missoula, MT catch basins can amplify perimeter callbacks.
 
-In Missoula, MT, urgent pest control issues can escalate quickly.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 59812.
 
-Transparent pricing helps you compare like-for-like scope items.
+Dry-wood termite pellets in Missoula, MT attics may appear before exterior mud tubes.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Field note: Connection points spot-checked where accessible (ZIP 59802/59803/59801 zone).
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Dispatch sectors sampled: ZIP 59802, 59803, 59801, 59812, 59808 (county grid: Missoula County).
+Bird mites in Missoula, MT exhaust vents can persist after host nests are removed.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 59812.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Missoula, MT.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 59812.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Seasonal cue 287735: cluster fly attic staging reviewed for Missoula, MT soffit cavities.
+
+Regional mesh label Missoula County: moisture and logistics baselines are keyed to Missoula, MT before niche-specific work begins.
 
 Service reference: MT-59812-c2c646f9

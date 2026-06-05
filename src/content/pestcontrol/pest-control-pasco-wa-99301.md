@@ -11,26 +11,37 @@ lng: -119.1300
 zipSample: ["99301", "99302"]
 zipCodes: ["99301", "99302"]
 localPaths: ["Franklin County / ZIP 99301 sector", "Franklin County / elevation 387 ft band", "Franklin County / coords 46.2500, -119.1300", "Franklin County / ZIP 99302 sector", "Franklin County / primary ZIP 99301"]
-zillowHomeValueUsd: 418126
 ---
 
-**Engineering Notice for Pasco:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Pasco:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Franklin County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Date bait station lids when servicing Pasco, WA perimeter lines.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 99301.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Stored cardboard in Pasco, WA garages can accelerate pantry pest cycles.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 99302/99301.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Wind exposure category reviewed for ZIP sector 99302/99301.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Dispatch sectors sampled: ZIP 99302, 99301 (county grid: Franklin County).
+Clover mite staining on Pasco, WA cladding service follows foundation mulch against brick ledges.
+
+Perimeter granule carriers in Pasco, WA clay soils may need lighter irrigation before application.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Carpenter ant frass in Pasco, WA window sills may indicate moisture-softened framing.
+
+Species trace 548245: re-entry interval label and conducive moisture note keyed to Pasco, WA elevation 387 ft.
+
+Regional mesh label Franklin County: moisture and logistics baselines are keyed to Pasco, WA before niche-specific work begins.
 
 Service reference: WA-99301-99f231e4

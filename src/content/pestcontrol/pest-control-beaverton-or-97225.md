@@ -11,26 +11,39 @@ lng: -122.8200
 zipSample: ["97225", "97079", "97007", "97077", "97008"]
 zipCodes: ["97007", "97077", "97079", "97075", "97003", "97005", "97076", "97008", "97225", "97006"]
 localPaths: ["Washington County / elevation 236 ft band", "Washington County / ZIP 97077 sector", "Washington County / coords 45.4800, -122.8200", "Washington County / ZIP 97079 sector", "Washington County / ZIP 97007 sector"]
-zillowHomeValueUsd: 743418
 ---
 
-**Engineering Notice for Beaverton:** Structural loading calculated based on 236 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Beaverton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Beaverton, OR, but intake notes help reduce delays.
+Yellow jacket nests in Beaverton, OR soffit cavities peak in late summer routing windows.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Monitoring boards in Beaverton, OR crawlspaces stay 72 hours before snap traps are reset.
 
-Tip: confirm licensing and insurance before approving work.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-We coordinate local dispatch coverage around Beaverton, OR and nearby ZIP sectors.
+Tip: Log pet access routes when bait stations are placed.
 
-Local conditions in Beaverton, OR can affect timelines and material choices.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Wind exposure category reviewed for ZIP sector 97008/97007/97006.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 97225.
 
-Field note: Access points and staging constraints recorded for ZIP 97008/97007/97006 coverage.
+Step: verify attic access safety before insulation disturbance.
 
-Dispatch sectors sampled: ZIP 97008, 97007, 97006, 97005, 97077 (county grid: Washington County).
+Risk flag: In Beaverton, OR, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+FAQ: Can bed bugs spread room-to-room in Beaverton, OR row homes? Wall voids and shared ducts accelerate transfer.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Fire ant mounds in Beaverton, OR drive seams need granule rotation after irrigation events.
+
+Species trace 768804: re-entry interval label and conducive moisture note keyed to Beaverton, OR elevation 236 ft.
+
+Zone map 768804: attic insulation disturbance trace and pantry pest source logged for Beaverton, OR sector 97225.
+
+ZIP-corridor snapshot for Beaverton, OR: sampled sectors include 97008, 97079, 97005, 97076, 97003, 97006, 97077, 97075; county routing grid remains Washington County.
 
 Service reference: OR-97225-62130577

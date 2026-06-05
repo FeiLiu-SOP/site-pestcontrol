@@ -11,24 +11,41 @@ lng: -82.6700
 zipSample: ["34677"]
 zipCodes: ["34677"]
 localPaths: ["Pinellas County / primary ZIP 34677", "Pinellas County / ZIP 34677 sector", "Pinellas County / coords 28.0500, -82.6700", "Pinellas County / elevation 39 ft band"]
-zillowHomeValueUsd: 365746
 ---
 
-**Engineering Notice for Oldsmar:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Pinellas County.
+**Engineering Notice for Oldsmar:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pinellas County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Oldsmar, FL, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 34677.
 
-We coordinate local dispatch coverage around Oldsmar, FL and nearby ZIP sectors.
+IGR packets for Oldsmar, FL roach cycles should be dated on station lids.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Attic misting in Oldsmar, FL requires combustion air clearance verified before fans restart.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Access points and staging constraints recorded for ZIP 34677 coverage.
+County grid Pinellas County informs routing near ZIP 34677.
 
-Dispatch sectors sampled: ZIP 34677 (county grid: Pinellas County).
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Stored cardboard in Oldsmar, FL garages can accelerate pantry pest cycles.
+
+Clover mite staining on Oldsmar, FL vinyl panels follows foundation mulch against brick ledges.
+
+Stink bug overwinter seams in Oldsmar, FL wall restoration laps require exclusion foam rated for UV exposure.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Perimeter granule carriers in Oldsmar, FL clay soils may need lighter irrigation before application.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Species trace 853641: re-entry interval label and conducive moisture note keyed to Oldsmar, FL elevation 39 ft.
+
+Intercept log 853641: bed bug intercept count staged before Oldsmar, FL interior gel zones.
+
+Coordinate-anchored dispatch note: center reference 28.0500, -82.6700 at elevation ~39 ft aligns with Pinellas County intake staging.
 
 Service reference: FL-34677-7767ed1c

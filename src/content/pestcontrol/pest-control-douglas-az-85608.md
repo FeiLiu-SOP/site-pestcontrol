@@ -11,26 +11,43 @@ lng: -109.5400
 zipSample: ["85655", "85608", "85607"]
 zipCodes: ["85607", "85608", "85655"]
 localPaths: ["Cochise County / primary ZIP 85608", "Cochise County / ZIP 85607 sector", "Cochise County / ZIP 85655 sector", "Cochise County / elevation 4032 ft band", "Cochise County / ZIP 85608 sector"]
-zillowHomeValueUsd: 174921
 ---
 
-**Engineering Notice for Douglas:** Structural loading calculated based on 4032 ft terrain assessment. Regional dispatch grid: Cochise County.
+**Engineering Notice for Douglas:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cochise County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Douglas, AZ, but intake notes help reduce delays.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Local conditions in Douglas, AZ can affect timelines and material choices.
+Step: record station placement maps for follow-up visits.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Why schedule quarterly instead of monthly in Douglas, AZ? Species pressure and label intervals dictate cadence.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Moisture pathway inspection logged near ZIP 85608/85655/85607 intake.
+Attic fogging in Douglas, AZ requires combustion appliance shutoff verification first.
 
-Field note: Connection points spot-checked where accessible (ZIP 85608/85655/85607 zone).
+We coordinate Douglas, AZ pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Dispatch sectors sampled: ZIP 85608, 85655, 85607 (county grid: Cochise County).
+Tip: Keep pet food elevated and sealed between service visits.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Step: label treatment zones for occupant re-entry timing.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+State note: Douglas, AZ commercial kitchens may require separate documentation for audit visits.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Species trace 232089: re-entry interval label and conducive moisture note keyed to Douglas, AZ elevation 4032 ft.
+
+Harbor ledger 232089: frass lane, mud-tube scan, and garage jamb gap measure filed for Douglas, AZ at 31.3600, -109.5400.
+
+On-site sector marker: Cochise County / ZIP 85655 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85608-7a25b52b

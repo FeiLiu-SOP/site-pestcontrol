@@ -11,24 +11,41 @@ lng: -122.6300
 zipSample: ["97267", "97222", "97268"]
 zipCodes: ["97222", "97268", "97267"]
 localPaths: ["Clackamas County / primary ZIP 97222", "Clackamas County / ZIP 97267 sector", "Clackamas County / ZIP 97222 sector", "Clackamas County / ZIP 97268 sector", "Clackamas County / elevation 210 ft band"]
-zillowHomeValueUsd: 495445
 ---
 
-**Engineering Notice for Oak Grove:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Clackamas County.
+**Engineering Notice for Oak Grove:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clackamas County.
 
 
-Tip: avoid large upfront payments without milestones.
+In Oak Grove, OR, subterranean termite swarms often follow warm rain windows.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 97222.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Oak Grove, OR.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 97222.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 97222.
 
-Field note: Connection points spot-checked where accessible (ZIP 97267/97222/97268 zone).
+Attic fogging in Oak Grove, OR requires combustion appliance shutoff verification first.
 
-Dispatch sectors sampled: ZIP 97267, 97222, 97268 (county grid: Clackamas County).
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Drain fly biofilm in Oak Grove, OR floor drains signals grease traps need service before gel baits.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Spider populations in Oak Grove, OR eaves can signal insect prey density.
+
+IGR packets for Oak Grove, OR roach cycles should be dated on station lids.
+
+Material note: Perimeter granules in Oak Grove, OR may need reapplication after heavy irrigation.
+
+Seasonal cue 759363: cluster fly attic staging reviewed for Oak Grove, OR soffit cavities.
+
+Harbor ledger 759363: frass lane, mud-tube scan, and garage jamb gap measure filed for Oak Grove, OR at 45.4200, -122.6300.
+
+On-site sector marker: Clackamas County / coords 45.4200, -122.6300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97222-07b755e3

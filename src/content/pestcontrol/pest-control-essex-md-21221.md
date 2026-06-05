@@ -11,26 +11,39 @@ lng: -76.4400
 zipSample: ["21221"]
 zipCodes: ["21221"]
 localPaths: ["Baltimore County / coords 39.3000, -76.4400", "Baltimore County / ZIP 21221 sector", "Baltimore County / primary ZIP 21221", "Baltimore County / elevation 26 ft band"]
-zillowHomeValueUsd: 292828
 ---
 
-**Engineering Notice for Essex:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Essex:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: verify attic access safety before insulation disturbance.
 
-Our service coordination centers on Essex, MD coverage windows and verified intake details.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Tip: avoid large upfront payments without milestones.
+Silverfish activity in Essex, MD attics tracks cardboard storage and ridge vent gaps.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Bird mites in Essex, MD exhaust vents can persist after host nests are removed.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Monitoring boards in Essex, MD crawlspaces stay 72 hours before snap traps are reset.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 21221.
+Dry-wood termite pellets in Essex, MD attics may appear before exterior mud tubes.
 
-Field note: Connection points spot-checked where accessible (ZIP 21221 zone).
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Dispatch sectors sampled: ZIP 21221 (county grid: Baltimore County).
+Tip: Keep pet food elevated and sealed between service visits.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Risk flag: In Essex, MD, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Across Essex, MD, rodent entry points frequently track utility penetrations.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Species trace 932101: re-entry interval label and conducive moisture note keyed to Essex, MD elevation 26 ft.
+
+Zone map 932101: attic insulation disturbance trace and pantry pest source logged for Essex, MD sector 21221.
+
+Coordinate-anchored dispatch note: center reference 39.3000, -76.4400 at elevation ~26 ft aligns with Baltimore County intake staging.
 
 Service reference: MD-21221-da426493

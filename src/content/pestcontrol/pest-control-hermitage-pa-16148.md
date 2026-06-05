@@ -11,26 +11,37 @@ lng: -80.4400
 zipSample: ["16148"]
 zipCodes: ["16148"]
 localPaths: ["Mercer County / primary ZIP 16148", "Mercer County / ZIP 16148 sector", "Mercer County / elevation 1109 ft band", "Mercer County / coords 41.2300, -80.4400"]
-zillowHomeValueUsd: 213335
 ---
 
-**Engineering Notice for Hermitage:** Structural loading calculated based on 1109 ft terrain assessment. Regional dispatch grid: Mercer County.
+**Engineering Notice for Hermitage:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Mercer County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hermitage, PA, but intake notes help reduce delays.
+Bird mites in Hermitage, PA exhaust vents can persist after host nests are removed.
 
-Our service coordination centers on Hermitage, PA coverage windows and verified intake details.
+Risk flag: In Hermitage, PA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: map entry points with photo logs before sealing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 16148.
+Drain fly biofilm in Hermitage, PA floor drains signals grease traps need service before gel baits.
 
-Field note: Access points and staging constraints recorded for ZIP 16148 coverage.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Dispatch sectors sampled: ZIP 16148 (county grid: Mercer County).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Dry-wood termite pellets in Hermitage, PA attics may appear before exterior mud tubes.
+
+Mud dauber nests in Hermitage, PA porch ceilings are benign but signal prey density for spiders.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 16148.
+
+State note: Hermitage, PA commercial kitchens may require separate documentation for audit visits.
+
+Exclusion audit 255924: exclusion mesh gauge and rodent runway grease mark reviewed for Hermitage, PA at 41.2300/-80.4400.
+
+ZIP-corridor snapshot for Hermitage, PA: sampled sectors include 16148; county routing grid remains Mercer County.
 
 Service reference: PA-16148-0c229bf0

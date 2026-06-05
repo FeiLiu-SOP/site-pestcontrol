@@ -11,26 +11,39 @@ lng: -88.0900
 zipSample: ["54313", "54304", "54115"]
 zipCodes: ["54313", "54115", "54304"]
 localPaths: ["Brown County / ZIP 54304 sector", "Brown County / elevation 614 ft band", "Brown County / coords 44.4800, -88.0900", "Brown County / ZIP 54313 sector", "Brown County / primary ZIP 54304"]
-zillowHomeValueUsd: 289038
 ---
 
-**Engineering Notice for Ashwaubenon:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Brown County.
+**Engineering Notice for Ashwaubenon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brown County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Tip: avoid large upfront payments without milestones.
+Fire ant mounds in Ashwaubenon, WI drive seams need granule rotation after irrigation events.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Mud dauber nests in Ashwaubenon, WI porch ceilings are benign but signal prey density for spiders.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Our service coordination centers on Ashwaubenon, WI coverage windows and verified intake details.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Field note: Wind exposure category reviewed for ZIP sector 54304/54115/54313.
+Tip: Date bait station lids when servicing Ashwaubenon, WI perimeter lines.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 54304/54115/54313.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Dispatch sectors sampled: ZIP 54304, 54115, 54313 (county grid: Brown County).
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Powderpost beetle exit holes in Ashwaubenon, WI trim can be mistaken for dry-wood frass without magnification.
+
+Exclusion audit 819730: exclusion mesh gauge and rodent runway grease mark reviewed for Ashwaubenon, WI at 44.4800/-88.0900.
+
+On-site sector marker: Brown County / primary ZIP 54304 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-54304-e6e79aa5

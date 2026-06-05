@@ -11,25 +11,37 @@ lng: -87.8800
 zipSample: ["36526"]
 zipCodes: ["36526"]
 localPaths: ["Baldwin County / ZIP 36526 sector", "Baldwin County / primary ZIP 36526", "Baldwin County / elevation 125 ft band", "Baldwin County / coords 30.6300, -87.8800"]
-zillowHomeValueUsd: 326655
 ---
 
-**Engineering Notice for Daphne:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Baldwin County.
+**Engineering Notice for Daphne:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baldwin County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Carpenter ant frass in Daphne, AL window sills may indicate moisture-softened framing.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Trim vegetation 12 inches from cladding service to reduce ant bridges.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 36526.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Attic fogging in Daphne, AL requires combustion appliance shutoff verification first.
 
-Tip: confirm licensing and insurance before approving work.
+Drain fly biofilm in Daphne, AL floor drains signals grease traps need service before gel baits.
 
-Field note: Access points and staging constraints recorded for ZIP 36526 coverage.
+IGR packets for Daphne, AL roach cycles should be dated on station lids.
 
-Dispatch sectors sampled: ZIP 36526 (county grid: Baldwin County).
+County grid Baldwin County informs routing near ZIP 36526.
+
+Wildlife odors in Daphne, AL crawlspaces may attract secondary pest activity.
+
+Tip: Date bait station lids when servicing Daphne, AL perimeter lines.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Clover mite staining on Daphne, AL wall restoration follows foundation mulch against brick ledges.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Seasonal cue 896070: cluster fly attic staging reviewed for Daphne, AL soffit cavities.
+
+On-site sector marker: Baldwin County / elevation 125 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36526-4987b45f

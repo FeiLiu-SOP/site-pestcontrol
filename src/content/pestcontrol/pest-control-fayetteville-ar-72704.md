@@ -11,24 +11,39 @@ lng: -94.1700
 zipSample: ["72703", "72702", "72701", "72704"]
 zipCodes: ["72701", "72704", "72703", "72702"]
 localPaths: ["Washington County / primary ZIP 72704", "Washington County / ZIP 72702 sector", "Washington County / elevation 1398 ft band", "Washington County / ZIP 72704 sector", "Washington County / ZIP 72701 sector"]
-zillowHomeValueUsd: 361929
 ---
 
-**Engineering Notice for Fayetteville:** Structural loading calculated based on 1398 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Fayetteville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Our service coordination centers on Fayetteville, AR coverage windows and verified intake details.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+County grid Washington County informs routing near ZIP 72704.
 
-Tip: confirm licensing and insurance before approving work.
+Clover mite staining on Fayetteville, AR vinyl panels follows foundation mulch against brick ledges.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Fayetteville, AR, but intake notes help reduce delays.
+Perimeter granule carriers in Fayetteville, AR clay soils may need lighter irrigation before application.
 
-Field note: Connection points spot-checked where accessible (ZIP 72703/72702/72701 zone).
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Dispatch sectors sampled: ZIP 72703, 72702, 72701, 72704 (county grid: Washington County).
+Step: separate bait rotation schedules from crack-and-crevice applications in Fayetteville, AR.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 72704.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Seasonal cue 105373: cluster fly attic staging reviewed for Fayetteville, AR soffit cavities.
+
+Perimeter dossier 105373: bait station anchor map and mulch bridge risk flagged for Fayetteville, AR county Washington County (ZIP 72704).
+
+Regional mesh label Washington County: moisture and logistics baselines are keyed to Fayetteville, AR before niche-specific work begins.
 
 Service reference: AR-72704-1db80aa0

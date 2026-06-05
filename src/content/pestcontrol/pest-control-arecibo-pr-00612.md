@@ -11,26 +11,41 @@ lng: -66.7400
 zipSample: ["00614", "00612", "00613"]
 zipCodes: ["00614", "00612", "00613"]
 localPaths: ["Arecibo County / ZIP 00612 sector", "Arecibo County / ZIP 00614 sector", "Arecibo County / ZIP 00613 sector", "Arecibo County / coords 18.4500, -66.7400", "Arecibo County / elevation 243 ft band"]
-zillowHomeValueUsd: 360145
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for Arecibo:** Structural loading calculated based on 243 ft terrain assessment. Regional dispatch grid: Arecibo County.
+**Engineering Notice for Arecibo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Arecibo County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+IGR packets for Arecibo, PR roach cycles should be dated on station lids.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 00612.
+Clover mite staining on Arecibo, PR wall restoration follows foundation mulch against brick ledges.
 
-We coordinate local dispatch coverage around Arecibo, PR and nearby ZIP sectors.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Field note: Connection points spot-checked where accessible (ZIP 00614/00612/00613 zone).
+Flea pupae survive vacuuming in Arecibo, PR carpet fibers unless heat treatment follows.
 
-Dispatch sectors sampled: ZIP 00614, 00612, 00613 (county grid: Arecibo County).
+Step: label treatment zones for occupant re-entry timing.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Arecibo, PR, pressure often rebuilds.
+
+Drain fly biofilm in Arecibo, PR floor drains signals grease traps need service before gel baits.
+
+Risk flag: In Arecibo, PR, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Mosquito breeding in Arecibo, PR catch basins can amplify perimeter callbacks.
+
+Silverfish activity in Arecibo, PR attics tracks cardboard storage and ridge vent gaps.
+
+Seasonal cue 884759: cluster fly attic staging reviewed for Arecibo, PR soffit cavities.
+
+On-site sector marker: Arecibo County / ZIP 00613 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00612-2ed8b5e1

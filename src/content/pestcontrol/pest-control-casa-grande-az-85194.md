@@ -11,24 +11,41 @@ lng: -111.7600
 zipSample: ["85194", "85130", "85122", "85193"]
 zipCodes: ["85122", "85194", "85130", "85193"]
 localPaths: ["Pinal County / ZIP 85122 sector", "Pinal County / ZIP 85130 sector", "Pinal County / ZIP 85193 sector", "Pinal County / primary ZIP 85194", "Pinal County / ZIP 85194 sector"]
-zillowHomeValueUsd: 362230
 ---
 
-**Engineering Notice for Casa Grande:** Structural loading calculated based on 1371 ft terrain assessment. Regional dispatch grid: Pinal County.
+**Engineering Notice for Casa Grande:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pinal County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: verify attic access safety before insulation disturbance.
 
-Tip: request a written scope before work starts.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Casa Grande, AZ, but intake notes help reduce delays.
+State note: Casa Grande, AZ commercial kitchens may require separate documentation for audit visits.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Moisture pathway inspection logged near ZIP 85130/85122/85194 intake.
+Bird mites in Casa Grande, AZ exhaust vents can persist after host nests are removed.
 
-Dispatch sectors sampled: ZIP 85130, 85122, 85194, 85193 (county grid: Pinal County).
+Humidity in Casa Grande, AZ can sustain cockroach harborages behind appliance voids.
+
+Perimeter granule carriers in Casa Grande, AZ clay soils may need lighter irrigation before application.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Flea pupae survive vacuuming in Casa Grande, AZ carpet fibers unless heat treatment follows.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 85194.
+
+Attic fogging in Casa Grande, AZ requires combustion appliance shutoff verification first.
+
+Material note: Perimeter granules in Casa Grande, AZ may need reapplication after heavy irrigation.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Casa Grande, AZ, pressure often rebuilds.
+
+Perimeter dossier 971104: bait station anchor map and mulch bridge risk flagged for Casa Grande, AZ county Pinal County (ZIP 85194).
+
+Coordinate-anchored dispatch note: center reference 32.9100, -111.7600 at elevation ~1371 ft aligns with Pinal County intake staging.
 
 Service reference: AZ-85194-d905a132

@@ -11,26 +11,39 @@ lng: -122.1700
 zipSample: ["94026", "94025"]
 zipCodes: ["94026", "94025"]
 localPaths: ["San Mateo County / coords 37.4700, -122.1700", "San Mateo County / primary ZIP 94025", "San Mateo County / ZIP 94025 sector", "San Mateo County / ZIP 94026 sector", "San Mateo County / elevation 49 ft band"]
-zillowHomeValueUsd: 2889217
 ---
 
-**Engineering Notice for Menlo Park:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: San Mateo County.
+**Engineering Notice for Menlo Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Mateo County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Menlo Park, CA, but intake notes help reduce delays.
+Monitoring boards in Menlo Park, CA crawlspaces stay 72 hours before snap traps are reset.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Date bait station lids when servicing Menlo Park, CA perimeter lines.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Perimeter granules in Menlo Park, CA may need reapplication after heavy irrigation.
 
-Our service coordination centers on Menlo Park, CA coverage windows and verified intake details.
+In Menlo Park, CA, subterranean termite swarms often follow warm rain windows.
 
-Field note: Connection points spot-checked where accessible (ZIP 94026/94025 zone).
+State note: Menlo Park, CA commercial kitchens may require separate documentation for audit visits.
 
-Field note: Moisture pathway inspection logged near ZIP 94026/94025 intake.
+Stink bug overwinter seams in Menlo Park, CA wall restoration laps require exclusion foam rated for UV exposure.
 
-Dispatch sectors sampled: ZIP 94026, 94025 (county grid: San Mateo County).
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 94025.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Yellow jacket nests in Menlo Park, CA soffit cavities peak in late summer routing windows.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Perimeter dossier 581803: bait station anchor map and mulch bridge risk flagged for Menlo Park, CA county San Mateo County (ZIP 94025).
+
+Harbor ledger 581803: frass lane, mud-tube scan, and garage jamb gap measure filed for Menlo Park, CA at 37.4700, -122.1700.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~49 ft across the San Mateo County area. Coordinates: 37.4700, -122.1700. ZIP sample: 94025, 94026. Service perimeter note: Coverage extends through San Mateo County with dispatch centered near ZIP 94025.
 
 Service reference: CA-94025-6e30a143

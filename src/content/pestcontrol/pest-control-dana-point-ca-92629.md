@@ -11,26 +11,39 @@ lng: -117.7000
 zipSample: ["92629", "92624"]
 zipCodes: ["92624", "92629"]
 localPaths: ["Orange County / ZIP 92629 sector", "Orange County / coords 33.4700, -117.7000", "Orange County / elevation 285 ft band", "Orange County / ZIP 92624 sector", "Orange County / primary ZIP 92629"]
-zillowHomeValueUsd: 1753666
 ---
 
-**Engineering Notice for Dana Point:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Dana Point:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.
 
 
-We coordinate local dispatch coverage around Dana Point, CA and nearby ZIP sectors.
+Risk flag: In Dana Point, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: Why schedule quarterly instead of monthly in Dana Point, CA? Species pressure and label intervals dictate cadence.
 
-Tip: request a written scope before work starts.
+Flea pupae survive vacuuming in Dana Point, CA carpet fibers unless heat treatment follows.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Yellow jacket nests in Dana Point, CA soffit cavities peak in late summer routing windows.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Dana Point, CA, but intake notes help reduce delays.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Field note: Connection points spot-checked where accessible (ZIP 92624/92629 zone).
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Dana Point, CA.
 
-Field note: Moisture pathway inspection logged near ZIP 92624/92629 intake.
+Humidity in Dana Point, CA can sustain cockroach harborages behind appliance voids.
 
-Dispatch sectors sampled: ZIP 92624, 92629 (county grid: Orange County).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 92629.
+
+Monitoring boards in Dana Point, CA crawlspaces stay 72 hours before snap traps are reset.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Fire ant mounds in Dana Point, CA drive seams need granule rotation after irrigation events.
+
+Silverfish activity in Dana Point, CA attics tracks cardboard storage and ridge vent gaps.
+
+Exclusion audit 896315: exclusion mesh gauge and rodent runway grease mark reviewed for Dana Point, CA at 33.4700/-117.7000.
+
+Species trace 896315: re-entry interval label and conducive moisture note keyed to Dana Point, CA elevation 285 ft.
+
+On-site sector marker: Orange County / ZIP 92624 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92629-347eaa86

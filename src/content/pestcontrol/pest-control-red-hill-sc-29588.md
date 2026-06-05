@@ -11,26 +11,37 @@ lng: -79.0100
 zipSample: ["29526", "29588"]
 zipCodes: ["29588", "29526"]
 localPaths: ["Horry County / ZIP 29588 sector", "Horry County / ZIP 29526 sector", "Horry County / primary ZIP 29588", "Horry County / elevation 69 ft band", "Horry County / coords 33.7800, -79.0100"]
-zillowHomeValueUsd: 320327
 ---
 
-**Engineering Notice for Red Hill:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Horry County.
+**Engineering Notice for Red Hill:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Horry County.
 
 
-We coordinate local dispatch coverage around Red Hill, SC and nearby ZIP sectors.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Structured milestones protect both sides when scheduling work.
+Wildlife odors in Red Hill, SC crawlspaces may attract secondary pest activity.
 
-Tip: address recurring issues early to prevent bigger damage.
+Cluster fly attic staging in Red Hill, SC peaks on south-facing voids after sunny thaw days.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+State note: Red Hill, SC commercial kitchens may require separate documentation for audit visits.
 
-Clear documentation helps align materials, labor, and timeline.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Wind exposure category reviewed for ZIP sector 29588/29526.
+Monitoring boards in Red Hill, SC crawlspaces stay 72 hours before snap traps are reset.
 
-Field note: Moisture pathway inspection logged near ZIP 29588/29526 intake.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Dispatch sectors sampled: ZIP 29588, 29526 (county grid: Horry County).
+Mud dauber nests in Red Hill, SC porch ceilings are benign but signal prey density for spiders.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Clover mite staining on Red Hill, SC vinyl panels follows foundation mulch against brick ledges.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 29588.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 29588.
+
+Zone map 145312: attic insulation disturbance trace and pantry pest source logged for Red Hill, SC sector 29588.
+
+On-site sector marker: Horry County / ZIP 29526 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29588-ad14b893

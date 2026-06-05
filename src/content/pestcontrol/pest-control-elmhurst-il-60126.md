@@ -11,26 +11,39 @@ lng: -87.9400
 zipSample: ["60126"]
 zipCodes: ["60126"]
 localPaths: ["DuPage County / ZIP 60126 sector", "DuPage County / primary ZIP 60126", "DuPage County / elevation 705 ft band", "DuPage County / coords 41.9000, -87.9400"]
-zillowHomeValueUsd: 611448
 ---
 
-**Engineering Notice for Elmhurst:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: DuPage County.
+**Engineering Notice for Elmhurst:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.
 
 
-Tip: avoid large upfront payments without milestones.
+Humidity in Elmhurst, IL can sustain cockroach harborages behind appliance voids.
 
-Tip: request a written scope before work starts.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 60126.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-We coordinate local dispatch coverage around Elmhurst, IL and nearby ZIP sectors.
+Fire ant mounds in Elmhurst, IL drive seams need granule rotation after irrigation events.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Attic fogging in Elmhurst, IL requires combustion appliance shutoff verification first.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60126.
+Mud dauber nests in Elmhurst, IL porch ceilings are benign but signal prey density for spiders.
 
-Field note: Moisture pathway inspection logged near ZIP 60126 intake.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Dispatch sectors sampled: ZIP 60126 (county grid: DuPage County).
+Cluster fly attic staging in Elmhurst, IL peaks on south-facing voids after sunny thaw days.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Perimeter granule carriers in Elmhurst, IL clay soils may need lighter irrigation before application.
+
+IGR packets for Elmhurst, IL roach cycles should be dated on station lids.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Species trace 166076: re-entry interval label and conducive moisture note keyed to Elmhurst, IL elevation 705 ft.
+
+Intercept log 166076: bed bug intercept count staged before Elmhurst, IL interior gel zones.
+
+On-site sector marker: DuPage County / elevation 705 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60126-1180751d

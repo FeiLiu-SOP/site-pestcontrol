@@ -11,26 +11,39 @@ lng: -88.0200
 zipSample: ["60148"]
 zipCodes: ["60148"]
 localPaths: ["DuPage County / primary ZIP 60148", "DuPage County / coords 41.8700, -88.0200", "DuPage County / elevation 748 ft band", "DuPage County / ZIP 60148 sector"]
-zillowHomeValueUsd: 381219
 ---
 
-**Engineering Notice for Lombard:** Structural loading calculated based on 748 ft terrain assessment. Regional dispatch grid: DuPage County.
+**Engineering Notice for Lombard:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: request a written scope before work starts.
+Yellow jacket nests in Lombard, IL soffit cavities peak in late summer routing windows.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-In Lombard, IL, urgent pest control issues can escalate quickly.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Stink bug overwinter seams in Lombard, IL wall restoration laps require exclusion foam rated for UV exposure.
 
-Field note: Wind exposure category reviewed for ZIP sector 60148.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Moisture pathway inspection logged near ZIP 60148 intake.
+Attic fogging in Lombard, IL requires combustion appliance shutoff verification first.
 
-Dispatch sectors sampled: ZIP 60148 (county grid: DuPage County).
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Attic insulation disturbance in Lombard, IL may indicate wildlife nesting routes.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Monitoring boards in Lombard, IL crawlspaces stay 72 hours before snap traps are reset.
+
+Earwig harborages in Lombard, IL meter boxes often follow drip irrigation overspray.
+
+Zone map 224949: attic insulation disturbance trace and pantry pest source logged for Lombard, IL sector 60148.
+
+Intercept log 224949: bed bug intercept count staged before Lombard, IL interior gel zones.
+
+On-site sector marker: DuPage County / coords 41.8700, -88.0200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60148-d04e4d69

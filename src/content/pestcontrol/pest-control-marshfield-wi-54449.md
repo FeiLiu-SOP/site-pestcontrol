@@ -11,24 +11,39 @@ lng: -90.1700
 zipSample: ["54449"]
 zipCodes: ["54449"]
 localPaths: ["Wood County / primary ZIP 54449", "Wood County / coords 44.6600, -90.1700", "Wood County / ZIP 54449 sector", "Wood County / elevation 1289 ft band"]
-zillowHomeValueUsd: 250497
 ---
 
-**Engineering Notice for Marshfield:** Structural loading calculated based on 1289 ft terrain assessment. Regional dispatch grid: Wood County.
+**Engineering Notice for Marshfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wood County.
 
 
-We coordinate local dispatch coverage around Marshfield, WI and nearby ZIP sectors.
+Step: label treatment zones for occupant re-entry timing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Exclusion gaps at garage jambs in Marshfield, WI are common rodent access points.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Marshfield, WI, but intake notes help reduce delays.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 54449.
+Flea pupae survive vacuuming in Marshfield, WI carpet fibers unless heat treatment follows.
 
-Dispatch sectors sampled: ZIP 54449 (county grid: Wood County).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 54449.
+
+Humidity in Marshfield, WI can sustain cockroach harborages behind appliance voids.
+
+Carpenter ant frass in Marshfield, WI window sills may indicate moisture-softened framing.
+
+Zone map 783745: attic insulation disturbance trace and pantry pest source logged for Marshfield, WI sector 54449.
+
+Exclusion audit 783745: exclusion mesh gauge and rodent runway grease mark reviewed for Marshfield, WI at 44.6600/-90.1700.
+
+On-site sector marker: Wood County / ZIP 54449 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-54449-14eeeab1

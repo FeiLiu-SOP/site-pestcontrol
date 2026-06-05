@@ -11,24 +11,41 @@ lng: -87.7000
 zipSample: ["60805"]
 zipCodes: ["60805"]
 localPaths: ["Cook County / primary ZIP 60805", "Cook County / elevation 630 ft band", "Cook County / coords 41.7200, -87.7000", "Cook County / ZIP 60805 sector"]
-zillowHomeValueUsd: 281370
 ---
 
-**Engineering Notice for Evergreen Park:** Structural loading calculated based on 630 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Evergreen Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.
 
 
-We coordinate local dispatch coverage around Evergreen Park, IL and nearby ZIP sectors.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 60805.
 
-In Evergreen Park, IL, seasonal demand can change scheduling windows.
+Fire ant mounds in Evergreen Park, IL drive seams need granule rotation after irrigation events.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Silverfish activity in Evergreen Park, IL attics tracks cardboard storage and ridge vent gaps.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Evergreen Park, IL, but intake notes help reduce delays.
+Material note: Perimeter granules in Evergreen Park, IL may need reapplication after heavy irrigation.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Overwatered Evergreen Park, IL planters can restart ant bridges within two weeks.
 
-Field note: Connection points spot-checked where accessible (ZIP 60805 zone).
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Dispatch sectors sampled: ZIP 60805 (county grid: Cook County).
+FAQ: Why do pests return after spraying? Without sealing entry points in Evergreen Park, IL, pressure often rebuilds.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+County grid Cook County informs routing near ZIP 60805.
+
+Carpenter ant frass in Evergreen Park, IL window sills may indicate moisture-softened framing.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+FAQ: Why schedule quarterly instead of monthly in Evergreen Park, IL? Species pressure and label intervals dictate cadence.
+
+Species trace 176091: re-entry interval label and conducive moisture note keyed to Evergreen Park, IL elevation 630 ft.
+
+ZIP-corridor snapshot for Evergreen Park, IL: sampled sectors include 60805; county routing grid remains Cook County.
 
 Service reference: IL-60805-a6f39211

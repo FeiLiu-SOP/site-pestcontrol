@@ -11,24 +11,37 @@ lng: -117.3900
 zipSample: ["92058"]
 zipCodes: ["92058"]
 localPaths: ["San Diego County / ZIP 92058 sector", "San Diego County / elevation 33 ft band", "San Diego County / coords 33.2300, -117.3900", "San Diego County / primary ZIP 92058"]
-zillowHomeValueUsd: 780422
 ---
 
-**Engineering Notice for Camp Pendleton South:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for Camp Pendleton South:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Camp Pendleton South, CA, but intake notes help reduce delays.
+FAQ: What is exclusion? Without sealing entry points in Camp Pendleton South, CA, pressure often rebuilds.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Carpenter ant frass in Camp Pendleton South, CA window sills may indicate moisture-softened framing.
 
-Tip: request a written scope before work starts.
+Mud dauber nests in Camp Pendleton South, CA porch ceilings are benign but signal prey density for spiders.
 
-Our service coordination centers on Camp Pendleton South, CA coverage windows and verified intake details.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+We coordinate Camp Pendleton South, CA pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92058.
+Powderpost beetle exit holes in Camp Pendleton South, CA trim can be mistaken for dry-wood frass without magnification.
 
-Dispatch sectors sampled: ZIP 92058 (county grid: San Diego County).
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Risk flag: Overwatered Camp Pendleton South, CA planters can restart ant bridges within two weeks.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Attic insulation disturbance in Camp Pendleton South, CA may indicate wildlife nesting routes.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Harbor ledger 419561: frass lane, mud-tube scan, and garage jamb gap measure filed for Camp Pendleton South, CA at 33.2300, -117.3900.
+
+ZIP-corridor snapshot for Camp Pendleton South, CA: sampled sectors include 92058; county routing grid remains San Diego County.
 
 Service reference: CA-92058-688e9193

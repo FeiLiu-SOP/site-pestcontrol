@@ -11,26 +11,39 @@ lng: -79.9700
 zipSample: ["29412", "29492", "29413", "29401", "29417"]
 zipCodes: ["29412", "29403", "29409", "29492", "29422", "29401", "29405", "29455", "29414", "29402", "29413", "29457"]
 localPaths: ["Charleston County / elevation 0 ft band", "Charleston County / ZIP 29492 sector", "Charleston County / ZIP 29417 sector", "Charleston County / ZIP 29413 sector", "Charleston County / ZIP 29401 sector"]
-zillowHomeValueUsd: 471620
 ---
 
-**Engineering Notice for Charleston:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Charleston County.
+**Engineering Notice for Charleston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Charleston County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Our service coordination centers on Charleston, SC coverage windows and verified intake details.
+Powderpost beetle exit holes in Charleston, SC trim can be mistaken for dry-wood frass without magnification.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Seasonal pest pressure in Charleston, SC shifts between moisture ants and dry-wood vectors.
 
-Field note: Moisture pathway inspection logged near ZIP 29405/29407/29492 intake.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Field note: Connection points spot-checked where accessible (ZIP 29405/29407/29492 zone).
+Stink bug overwinter seams in Charleston, SC cladding service laps require exclusion foam rated for UV exposure.
 
-Dispatch sectors sampled: ZIP 29405, 29407, 29492, 29401, 29424 (county grid: Charleston County).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 29414.
+
+Earwig harborages in Charleston, SC meter boxes often follow drip irrigation overspray.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Charleston, SC.
+
+Zone map 378769: attic insulation disturbance trace and pantry pest source logged for Charleston, SC sector 29414.
+
+On-site sector marker: Charleston County / ZIP 29425 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29414-e7933229

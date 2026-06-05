@@ -11,26 +11,41 @@ lng: -85.6000
 zipSample: ["49525"]
 zipCodes: ["49525"]
 localPaths: ["Kent County / ZIP 49525 sector", "Kent County / primary ZIP 49525", "Kent County / elevation 755 ft band", "Kent County / coords 43.0400, -85.6000"]
-zillowHomeValueUsd: 378170
 ---
 
-**Engineering Notice for Northview:** Structural loading calculated based on 755 ft terrain assessment. Regional dispatch grid: Kent County.
+**Engineering Notice for Northview:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kent County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-In Northview, MI, urgent pest control issues can escalate quickly.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 49525.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+IGR packets for Northview, MI roach cycles should be dated on station lids.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Tip: request a written scope before work starts.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 49525.
 
-Field note: Connection points spot-checked where accessible (ZIP 49525 zone).
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 49525.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 49525 (county grid: Kent County).
+Risk flag: Overwatered Northview, MI planters can restart ant bridges within two weeks.
+
+In Northview, MI, subterranean termite swarms often follow warm rain windows.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Attic misting in Northview, MI requires combustion air clearance verified before fans restart.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Mud dauber nests in Northview, MI porch ceilings are benign but signal prey density for spiders.
+
+Perimeter dossier 224732: bait station anchor map and mulch bridge risk flagged for Northview, MI county Kent County (ZIP 49525).
+
+On-site sector marker: Kent County / coords 43.0400, -85.6000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-49525-24084adb

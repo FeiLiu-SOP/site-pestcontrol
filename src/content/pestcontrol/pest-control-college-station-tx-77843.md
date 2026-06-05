@@ -11,24 +11,43 @@ lng: -96.3000
 zipSample: ["77845", "77881", "77842", "77841", "77840"]
 zipCodes: ["77842", "77843", "77845", "77881", "77844", "77840", "77841"]
 localPaths: ["Brazos County / coords 30.5900, -96.3000", "Brazos County / ZIP 77845 sector", "Brazos County / primary ZIP 77843", "Brazos County / ZIP 77881 sector", "Brazos County / elevation 302 ft band"]
-zillowHomeValueUsd: 366360
 ---
 
-**Engineering Notice for College Station:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Brazos County.
+**Engineering Notice for College Station:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brazos County.
 
 
-Structured milestones protect both sides when scheduling work.
+Tip: Date bait station lids when servicing College Station, TX perimeter lines.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Our service coordination centers on College Station, TX coverage windows and verified intake details.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Tip: request a written scope before work starts.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Moisture pathway inspection logged near ZIP 77845/77881/77841 intake.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Dispatch sectors sampled: ZIP 77845, 77881, 77841, 77843, 77844 (county grid: Brazos County).
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+County grid Brazos County informs routing near ZIP 77843.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Carpenter ant frass in College Station, TX window sills may indicate moisture-softened framing.
+
+Yellow jacket nests in College Station, TX soffit cavities peak in late summer routing windows.
+
+Spider populations in College Station, TX eaves can signal insect prey density.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Species trace 471018: re-entry interval label and conducive moisture note keyed to College Station, TX elevation 302 ft.
+
+Exclusion audit 471018: exclusion mesh gauge and rodent runway grease mark reviewed for College Station, TX at 30.5900/-96.3000.
+
+On-site sector marker: Brazos County / primary ZIP 77843 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77843-c1ae36d5

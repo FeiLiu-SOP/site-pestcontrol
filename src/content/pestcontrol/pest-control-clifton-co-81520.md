@@ -11,25 +11,39 @@ lng: -108.4600
 zipSample: ["81504", "81520"]
 zipCodes: ["81504", "81520"]
 localPaths: ["Mesa County / elevation 4682 ft band", "Mesa County / ZIP 81504 sector", "Mesa County / primary ZIP 81520", "Mesa County / ZIP 81520 sector", "Mesa County / coords 39.0800, -108.4600"]
-zillowHomeValueUsd: 330423
 ---
 
-**Engineering Notice for Clifton:** Structural loading calculated based on 4682 ft terrain assessment. Regional dispatch grid: Mesa County.
+**Engineering Notice for Clifton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Mesa County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Attic misting in Clifton, CO requires combustion air clearance verified before fans restart.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 81520.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Tip: compare at least two estimates for scope and timeline.
+Request an inspection with species ID before treatment. Serving ZIP Code: 81520.
 
-Our service coordination centers on Clifton, CO coverage windows and verified intake details.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Tip: request a written scope before work starts.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Moisture pathway inspection logged near ZIP 81504/81520 intake.
+Attic fogging in Clifton, CO requires combustion appliance shutoff verification first.
 
-Dispatch sectors sampled: ZIP 81504, 81520 (county grid: Mesa County).
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Clifton, CO.
+
+Powderpost beetle exit holes in Clifton, CO trim can be mistaken for dry-wood frass without magnification.
+
+FAQ: Can bed bugs spread room-to-room in Clifton, CO row homes? Wall voids and shared ducts accelerate transfer.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Risk flag: In Clifton, CO, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Zone map 317645: attic insulation disturbance trace and pantry pest source logged for Clifton, CO sector 81520.
+
+Exclusion audit 317645: exclusion mesh gauge and rodent runway grease mark reviewed for Clifton, CO at 39.0800/-108.4600.
+
+On-site sector marker: Mesa County / elevation 4682 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-81520-1995baa7

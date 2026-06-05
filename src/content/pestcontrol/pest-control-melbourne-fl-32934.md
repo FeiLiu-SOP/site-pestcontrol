@@ -11,26 +11,37 @@ lng: -80.6600
 zipSample: ["32904", "32903", "32901", "32919", "32935"]
 zipCodes: ["32935", "32941", "32934", "32903", "32904", "32901", "32919", "32912"]
 localPaths: ["Brevard County / ZIP 32904 sector", "Brevard County / primary ZIP 32934", "Brevard County / elevation 43 ft band", "Brevard County / ZIP 32919 sector", "Brevard County / ZIP 32903 sector"]
-zillowHomeValueUsd: 489508
 ---
 
-**Engineering Notice for Melbourne:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Brevard County.
+**Engineering Notice for Melbourne:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brevard County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Silverfish activity in Melbourne, FL attics tracks cardboard storage and ridge vent gaps.
 
-Tip: confirm licensing and insurance before approving work.
+Perimeter mulch beds in Melbourne, FL should be reviewed for ant bridge paths.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Yellow jacket nests in Melbourne, FL soffit cavities peak in late summer routing windows.
 
-In Melbourne, FL, seasonal demand can change scheduling windows.
+Tip: Date bait station lids when servicing Melbourne, FL perimeter lines.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Melbourne, FL, but intake notes help reduce delays.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 32934.
 
-Field note: Connection points spot-checked where accessible (ZIP 32901/32919/32941 zone).
+IGR packets for Melbourne, FL roach cycles should be dated on station lids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 32901/32919/32941.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Dispatch sectors sampled: ZIP 32901, 32919, 32941, 32934, 32904 (county grid: Brevard County).
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Powderpost beetle exit holes in Melbourne, FL trim can be mistaken for dry-wood frass without magnification.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 32934.
+
+Stink bug overwinter seams in Melbourne, FL cladding service laps require exclusion foam rated for UV exposure.
+
+Risk flag: Overwatered Melbourne, FL planters can restart ant bridges within two weeks.
+
+Exclusion audit 180160: exclusion mesh gauge and rodent runway grease mark reviewed for Melbourne, FL at 28.1100/-80.6600.
+
+On-site sector marker: Brevard County / ZIP 32919 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32934-d44df805

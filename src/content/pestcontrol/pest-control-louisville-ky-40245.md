@@ -11,26 +11,37 @@ lng: -85.6500
 zipSample: ["40027", "40220", "40258", "40241", "40269"]
 zipCodes: ["40269", "40223", "40018", "40245", "40218", "40023", "40213", "40225", "40222", "40242", "40261", "40272"]
 localPaths: ["Jefferson County / ZIP 40220 sector", "Jefferson County / primary ZIP 40245", "Jefferson County / ZIP 40027 sector", "Jefferson County / ZIP 40258 sector", "Jefferson County / elevation 571 ft band"]
-zillowHomeValueUsd: 480812
 ---
 
-**Engineering Notice for Louisville:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Louisville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Louisville, KY, but intake notes help reduce delays.
+Earwig harborages in Louisville, KY meter boxes often follow drip irrigation overspray.
 
-Tip: address recurring issues early to prevent bigger damage.
+Flea pupae survive vacuuming in Louisville, KY carpet fibers unless heat treatment follows.
 
-Tip: compare at least two estimates for scope and timeline.
+Attic fogging in Louisville, KY requires combustion appliance shutoff verification first.
 
-Local conditions in Louisville, KY can affect timelines and material choices.
+County grid Jefferson County informs routing near ZIP 40245.
 
-Our service coordination centers on Louisville, KY coverage windows and verified intake details.
+Stink bug overwinter seams in Louisville, KY wall restoration laps require exclusion foam rated for UV exposure.
 
-Field note: Access points and staging constraints recorded for ZIP 40223/40220/40245 coverage.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Field note: Connection points spot-checked where accessible (ZIP 40223/40220/40245 zone).
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Dispatch sectors sampled: ZIP 40223, 40220, 40245, 40268, 40272 (county grid: Jefferson County).
+Attic misting in Louisville, KY requires combustion air clearance verified before fans restart.
+
+Mud dauber nests in Louisville, KY porch ceilings are benign but signal prey density for spiders.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 40245.
+
+State note: Louisville, KY commercial kitchens may require separate documentation for audit visits.
+
+FAQ: Can bed bugs spread room-to-room in Louisville, KY row homes? Wall voids and shared ducts accelerate transfer.
+
+Seasonal cue 508727: cluster fly attic staging reviewed for Louisville, KY soffit cavities.
+
+On-site sector marker: Jefferson County / ZIP 40222 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-40245-deb40a4a

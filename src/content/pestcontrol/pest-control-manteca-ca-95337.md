@@ -11,24 +11,39 @@ lng: -121.2300
 zipSample: ["95336", "95337"]
 zipCodes: ["95336", "95337"]
 localPaths: ["San Joaquin County / primary ZIP 95337", "San Joaquin County / ZIP 95337 sector", "San Joaquin County / ZIP 95336 sector", "San Joaquin County / coords 37.7900, -121.2300", "San Joaquin County / elevation 30 ft band"]
-zillowHomeValueUsd: 646758
 ---
 
-**Engineering Notice for Manteca:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: San Joaquin County.
+**Engineering Notice for Manteca:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Joaquin County.
 
 
-We coordinate local dispatch coverage around Manteca, CA and nearby ZIP sectors.
+FAQ: Why do pests return after spraying? Without sealing entry points in Manteca, CA, pressure often rebuilds.
 
-Tip: confirm licensing and insurance before approving work.
+Flea pupae survive vacuuming in Manteca, CA carpet fibers unless heat treatment follows.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Manteca, CA, but intake notes help reduce delays.
+Step: record station placement maps for follow-up visits.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Tip: address recurring issues early to prevent bigger damage.
+Carpenter ant frass in Manteca, CA window sills may indicate moisture-softened framing.
 
-Field note: Connection points spot-checked where accessible (ZIP 95336/95337 zone).
+Mud dauber nests in Manteca, CA porch ceilings are benign but signal prey density for spiders.
 
-Dispatch sectors sampled: ZIP 95336, 95337 (county grid: San Joaquin County).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 95337.
+
+Drain fly biofilm in Manteca, CA floor drains signals grease traps need service before gel baits.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 95337.
+
+Stored cardboard in Manteca, CA garages can accelerate pantry pest cycles.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Perimeter dossier 433202: bait station anchor map and mulch bridge risk flagged for Manteca, CA county San Joaquin County (ZIP 95337).
+
+Seasonal cue 433202: cluster fly attic staging reviewed for Manteca, CA soffit cavities.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to San Joaquin County. Reference elevation: 30 ft. Primary coordinates: 37.7900, -121.2300. ZIP sample: 95337, 95336. Service perimeter note: Coverage extends through San Joaquin County with dispatch centered near ZIP 95337.
 
 Service reference: CA-95337-1bdce362

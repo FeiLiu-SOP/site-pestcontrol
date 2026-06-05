@@ -11,26 +11,39 @@ lng: -79.0200
 zipSample: ["28360", "28358", "28359"]
 zipCodes: ["28358", "28359", "28360"]
 localPaths: ["Robeson County / ZIP 28358 sector", "Robeson County / primary ZIP 28359", "Robeson County / ZIP 28360 sector", "Robeson County / coords 34.6300, -79.0200", "Robeson County / elevation 128 ft band"]
-zillowHomeValueUsd: 141480
 ---
 
-**Engineering Notice for Lumberton:** Structural loading calculated based on 128 ft terrain assessment. Regional dispatch grid: Robeson County.
+**Engineering Notice for Lumberton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Robeson County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Structured milestones protect both sides when scheduling work.
+County grid Robeson County informs routing near ZIP 28359.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Bird mites in Lumberton, NC exhaust vents can persist after host nests are removed.
 
-Tip: compare at least two estimates for scope and timeline.
+State note: Lumberton, NC commercial kitchens may require separate documentation for audit visits.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Wind exposure category reviewed for ZIP sector 28360/28359/28358.
+Monitoring boards in Lumberton, NC crawlspaces stay 72 hours before snap traps are reset.
 
-Field note: Moisture pathway inspection logged near ZIP 28360/28359/28358 intake.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 28359.
 
-Dispatch sectors sampled: ZIP 28360, 28359, 28358 (county grid: Robeson County).
+Tip: Date bait station lids when servicing Lumberton, NC perimeter lines.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Exclusion audit 518817: exclusion mesh gauge and rodent runway grease mark reviewed for Lumberton, NC at 34.6300/-79.0200.
+
+Zone map 518817: attic insulation disturbance trace and pantry pest source logged for Lumberton, NC sector 28359.
+
+Regional mesh label Robeson County: moisture and logistics baselines are keyed to Lumberton, NC before niche-specific work begins.
 
 Service reference: NC-28359-37ed5677

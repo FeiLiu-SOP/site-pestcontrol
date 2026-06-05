@@ -11,26 +11,39 @@ lng: -119.7800
 zipSample: ["89436", "89433"]
 zipCodes: ["89436", "89433"]
 localPaths: ["Washoe County / primary ZIP 89436", "Washoe County / elevation 4908 ft band", "Washoe County / coords 39.6100, -119.7800", "Washoe County / ZIP 89433 sector", "Washoe County / ZIP 89436 sector"]
-zillowHomeValueUsd: 572017
 ---
 
-**Engineering Notice for Sun Valley:** Structural loading calculated based on 4908 ft terrain assessment. Regional dispatch grid: Washoe County.
+**Engineering Notice for Sun Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washoe County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify attic access safety before insulation disturbance.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Sun Valley, NV, but intake notes help reduce delays.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-In Sun Valley, NV, urgent pest control issues can escalate quickly.
+IGR packets for Sun Valley, NV roach cycles should be dated on station lids.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Earwig harborages in Sun Valley, NV meter boxes often follow drip irrigation overspray.
 
-Tip: address recurring issues early to prevent bigger damage.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Field note: Moisture pathway inspection logged near ZIP 89433/89436 intake.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Sun Valley, NV.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 89433/89436.
+Tip: Date bait station lids when servicing Sun Valley, NV perimeter lines.
 
-Dispatch sectors sampled: ZIP 89433, 89436 (county grid: Washoe County).
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Silverfish activity in Sun Valley, NV attics tracks cardboard storage and ridge vent gaps.
+
+Attic misting in Sun Valley, NV requires combustion air clearance verified before fans restart.
+
+Attic fogging in Sun Valley, NV requires combustion appliance shutoff verification first.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Intercept log 729245: bed bug intercept count staged before Sun Valley, NV interior gel zones.
+
+Species trace 729245: re-entry interval label and conducive moisture note keyed to Sun Valley, NV elevation 4908 ft.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~4908 ft across the Washoe County area. Coordinates: 39.6100, -119.7800. ZIP sample: 89436, 89433. Regional routing note: Washoe County traffic flow is balanced around ZIP 89436 service demand.
 
 Service reference: NV-89436-172f2ade

@@ -11,25 +11,41 @@ lng: -78.9000
 zipSample: ["27722", "27704", "27715", "27710", "27712"]
 zipCodes: ["27703", "27722", "27705", "27715", "27701", "27706", "27717", "27704", "27708", "27710", "27712", "27707"]
 localPaths: ["Durham County / ZIP 27710 sector", "Durham County / ZIP 27704 sector", "Durham County / elevation 374 ft band", "Durham County / ZIP 27712 sector", "Durham County / ZIP 27722 sector"]
-zillowHomeValueUsd: 388769
 ---
 
-**Engineering Notice for Durham:** Structural loading calculated based on 374 ft terrain assessment. Regional dispatch grid: Durham County.
+**Engineering Notice for Durham:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Durham County.
 
 
-Tip: request a written scope before work starts.
+Dry-wood termite pellets in Durham, NC attics may appear before exterior mud tubes.
 
-We coordinate local dispatch coverage around Durham, NC and nearby ZIP sectors.
+Perimeter mulch beds in Durham, NC should be reviewed for ant bridge paths.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 27703.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Durham, NC, but intake notes help reduce delays.
+Flea pupae survive vacuuming in Durham, NC carpet fibers unless heat treatment follows.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 27717/27707/27705.
+Clover mite staining on Durham, NC cladding service follows foundation mulch against brick ledges.
 
-Dispatch sectors sampled: ZIP 27717, 27707, 27705, 27712, 27715 (county grid: Durham County).
+Fire ant mounds in Durham, NC drive seams need granule rotation after irrigation events.
+
+Silverfish activity in Durham, NC attics tracks cardboard storage and ridge vent gaps.
+
+Earwig harborages in Durham, NC meter boxes often follow drip irrigation overspray.
+
+Attic fogging in Durham, NC requires combustion appliance shutoff verification first.
+
+Monitoring boards in Durham, NC crawlspaces stay 72 hours before snap traps are reset.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Perimeter dossier 580301: bait station anchor map and mulch bridge risk flagged for Durham, NC county Durham County (ZIP 27703).
+
+Harbor ledger 580301: frass lane, mud-tube scan, and garage jamb gap measure filed for Durham, NC at 35.9800, -78.9000.
+
+ZIP-corridor snapshot for Durham, NC: sampled sectors include 27707, 27712, 27705, 27701, 27717, 27713, 27706, 27708; county routing grid remains Durham County.
 
 Service reference: NC-27703-443d1f4c

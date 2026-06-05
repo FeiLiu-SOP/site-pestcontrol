@@ -11,25 +11,43 @@ lng: -118.3400
 zipSample: ["90307", "90305", "90304", "90301", "90303"]
 zipCodes: ["90309", "90312", "90301", "90308", "90303", "90307", "90304", "90306", "90305", "90311", "90302"]
 localPaths: ["Los Angeles County / ZIP 90301 sector", "Los Angeles County / ZIP 90304 sector", "Los Angeles County / primary ZIP 90305", "Los Angeles County / ZIP 90303 sector", "Los Angeles County / coords 33.9600, -118.3400"]
-zillowHomeValueUsd: 829110
 ---
 
-**Engineering Notice for Inglewood:** Structural loading calculated based on 144 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Inglewood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 90305.
+Spider populations in Inglewood, CA eaves can signal insect prey density.
 
-Tip: address recurring issues early to prevent bigger damage.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-We coordinate local dispatch coverage around Inglewood, CA and nearby ZIP sectors.
+Risk flag: Overwatered Inglewood, CA planters can restart ant bridges within two weeks.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Silverfish activity in Inglewood, CA attics tracks cardboard storage and ridge vent gaps.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 90304/90306/90309.
+Fire ant mounds in Inglewood, CA drive seams need granule rotation after irrigation events.
 
-Dispatch sectors sampled: ZIP 90304, 90306, 90309, 90305, 90308 (county grid: Los Angeles County).
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 90305.
+
+FAQ: Why schedule quarterly instead of monthly in Inglewood, CA? Species pressure and label intervals dictate cadence.
+
+Earwig harborages in Inglewood, CA meter boxes often follow drip irrigation overspray.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Perimeter dossier 643867: bait station anchor map and mulch bridge risk flagged for Inglewood, CA county Los Angeles County (ZIP 90305).
+
+Seasonal cue 643867: cluster fly attic staging reviewed for Inglewood, CA soffit cavities.
+
+ZIP-corridor snapshot for Inglewood, CA: sampled sectors include 90311, 90304, 90301, 90308, 90306, 90303, 90302, 90307; county routing grid remains Los Angeles County.
 
 Service reference: CA-90305-c7afa165

@@ -11,24 +11,43 @@ lng: -84.5700
 zipSample: ["45011", "45013", "45015"]
 zipCodes: ["45013", "45015", "45011"]
 localPaths: ["Butler County / ZIP 45015 sector", "Butler County / primary ZIP 45011", "Butler County / ZIP 45011 sector", "Butler County / ZIP 45013 sector", "Butler County / elevation 594 ft band"]
-zillowHomeValueUsd: 367926
 ---
 
-**Engineering Notice for Hamilton:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: Butler County.
+**Engineering Notice for Hamilton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Butler County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 45011.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Hamilton, OH.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hamilton, OH, but intake notes help reduce delays.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Connection points spot-checked where accessible (ZIP 45015/45013/45011 zone).
+Flea pupae survive vacuuming in Hamilton, OH carpet fibers unless heat treatment follows.
 
-Dispatch sectors sampled: ZIP 45015, 45013, 45011 (county grid: Butler County).
+Mud dauber nests in Hamilton, OH porch ceilings are benign but signal prey density for spiders.
+
+FAQ: Can bed bugs spread room-to-room in Hamilton, OH row homes? Wall voids and shared ducts accelerate transfer.
+
+Tip: Trim vegetation 12 inches from vinyl panels to reduce ant bridges.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Humidity in Hamilton, OH can sustain cockroach harborages behind appliance voids.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Seasonal cue 839729: cluster fly attic staging reviewed for Hamilton, OH soffit cavities.
+
+Zone map 839729: attic insulation disturbance trace and pantry pest source logged for Hamilton, OH sector 45011.
+
+Coordinate-anchored dispatch note: center reference 39.3900, -84.5700 at elevation ~594 ft aligns with Butler County intake staging.
 
 Service reference: OH-45011-2eead3f3

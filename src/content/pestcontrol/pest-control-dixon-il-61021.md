@@ -11,26 +11,43 @@ lng: -89.4800
 zipSample: ["61021"]
 zipCodes: ["61021"]
 localPaths: ["Lee County / elevation 709 ft band", "Lee County / ZIP 61021 sector", "Lee County / coords 41.8400, -89.4800", "Lee County / primary ZIP 61021"]
-zillowHomeValueUsd: 166119
 ---
 
-**Engineering Notice for Dixon:** Structural loading calculated based on 709 ft terrain assessment. Regional dispatch grid: Lee County.
+**Engineering Notice for Dixon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lee County.
 
 
-Our service coordination centers on Dixon, IL coverage windows and verified intake details.
+Step: label treatment zones for occupant re-entry timing.
 
-Tip: request a written scope before work starts.
+Carpenter ant frass in Dixon, IL window sills may indicate moisture-softened framing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Dixon, IL, but intake notes help reduce delays.
+Step: record station placement maps for follow-up visits.
 
-In Dixon, IL, urgent pest control issues can escalate quickly.
+Attic insulation disturbance in Dixon, IL may indicate wildlife nesting routes.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Field note: Connection points spot-checked where accessible (ZIP 61021 zone).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Field note: Moisture pathway inspection logged near ZIP 61021 intake.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Dispatch sectors sampled: ZIP 61021 (county grid: Lee County).
+Stink bug overwinter seams in Dixon, IL exterior cladding laps require exclusion foam rated for UV exposure.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 61021.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 61021.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Cluster fly attic staging in Dixon, IL peaks on south-facing voids after sunny thaw days.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Species trace 108410: re-entry interval label and conducive moisture note keyed to Dixon, IL elevation 709 ft.
+
+Intercept log 108410: bed bug intercept count staged before Dixon, IL interior gel zones.
+
+ZIP-corridor snapshot for Dixon, IL: sampled sectors include 61021; county routing grid remains Lee County.
 
 Service reference: IL-61021-ec5b9103

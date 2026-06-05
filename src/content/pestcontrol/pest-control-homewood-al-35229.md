@@ -11,27 +11,41 @@ lng: -86.8100
 zipSample: ["35219", "35209", "35293", "35229"]
 zipCodes: ["35219", "35209", "35229", "35293"]
 localPaths: ["Jefferson County / coords 33.4600, -86.8100", "Jefferson County / ZIP 35229 sector", "Jefferson County / ZIP 35219 sector", "Jefferson County / elevation 738 ft band", "Jefferson County / ZIP 35293 sector"]
-zillowHomeValueUsd: 525191
 ---
 
-**Engineering Notice for Homewood:** Structural loading calculated based on 738 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Homewood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 35229.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-We coordinate local dispatch coverage around Homewood, AL and nearby ZIP sectors.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Field note: Moisture pathway inspection logged near ZIP 35219/35209/35229 intake.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Access points and staging constraints recorded for ZIP 35219/35209/35229 coverage.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Homewood, AL.
 
-Dispatch sectors sampled: ZIP 35219, 35209, 35229, 35293 (county grid: Jefferson County).
+Risk flag: In Homewood, AL, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Mosquito breeding in Homewood, AL catch basins can amplify perimeter callbacks.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 35229.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Step: record station placement maps for follow-up visits.
+
+Intercept log 194931: bed bug intercept count staged before Homewood, AL interior gel zones.
+
+Perimeter dossier 194931: bait station anchor map and mulch bridge risk flagged for Homewood, AL county Jefferson County (ZIP 35229).
+
+On-site sector marker: Jefferson County / ZIP 35229 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35229-d35fd29d

@@ -11,26 +11,43 @@ lng: -97.1500
 zipSample: ["76092"]
 zipCodes: ["76092"]
 localPaths: ["Tarrant County / elevation 682 ft band", "Tarrant County / ZIP 76092 sector", "Tarrant County / primary ZIP 76092", "Tarrant County / coords 32.9500, -97.1500"]
-zillowHomeValueUsd: 1295835
 ---
 
-**Engineering Notice for Southlake:** Structural loading calculated based on 682 ft terrain assessment. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Southlake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tarrant County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Across Southlake, TX, rodent entry points frequently track utility penetrations.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Attic fogging in Southlake, TX requires combustion appliance shutoff verification first.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Carpenter ant frass in Southlake, TX window sills may indicate moisture-softened framing.
 
-Tip: request a written scope before work starts.
+FAQ: Why schedule quarterly instead of monthly in Southlake, TX? Species pressure and label intervals dictate cadence.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 76092.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Access points and staging constraints recorded for ZIP 76092 coverage.
+Wildlife odors in Southlake, TX crawlspaces may attract secondary pest activity.
 
-Dispatch sectors sampled: ZIP 76092 (county grid: Tarrant County).
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Drain fly biofilm in Southlake, TX floor drains signals grease traps need service before gel baits.
+
+IGR packets for Southlake, TX roach cycles should be dated on station lids.
+
+Bird mites in Southlake, TX exhaust vents can persist after host nests are removed.
+
+Tip: Date bait station lids when servicing Southlake, TX perimeter lines.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Intercept log 919154: bed bug intercept count staged before Southlake, TX interior gel zones.
+
+Species trace 919154: re-entry interval label and conducive moisture note keyed to Southlake, TX elevation 682 ft.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Tarrant County and primary ZIP 76092. Terrain reference: 682 ft. Center point: 32.9500, -97.1500. ZIP sample: 76092. Service perimeter note: Coverage extends through Tarrant County with dispatch centered near ZIP 76092.
 
 Service reference: TX-76092-de2ead6b

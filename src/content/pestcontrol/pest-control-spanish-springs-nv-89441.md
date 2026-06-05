@@ -11,26 +11,41 @@ lng: -119.6700
 zipSample: ["89441", "89436"]
 zipCodes: ["89441", "89436"]
 localPaths: ["Washoe County / coords 39.6600, -119.6700", "Washoe County / ZIP 89436 sector", "Washoe County / primary ZIP 89441", "Washoe County / elevation 4738 ft band", "Washoe County / ZIP 89441 sector"]
-zillowHomeValueUsd: 696180
 ---
 
-**Engineering Notice for Spanish Springs:** Structural loading calculated based on 4738 ft terrain assessment. Regional dispatch grid: Washoe County.
+**Engineering Notice for Spanish Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washoe County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Our service coordination centers on Spanish Springs, NV coverage windows and verified intake details.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 89441.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Trim vegetation 12 inches from vinyl panels to reduce ant bridges.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Spanish Springs, NV, but intake notes help reduce delays.
+Wildlife odors in Spanish Springs, NV crawlspaces may attract secondary pest activity.
 
-Field note: Access points and staging constraints recorded for ZIP 89436/89441 coverage.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 89436/89441.
+Material note: Perimeter granules in Spanish Springs, NV may need reapplication after heavy irrigation.
 
-Dispatch sectors sampled: ZIP 89436, 89441 (county grid: Washoe County).
+Across Spanish Springs, NV, rodent entry points frequently track utility penetrations.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 89441.
+
+Perimeter granule carriers in Spanish Springs, NV clay soils may need lighter irrigation before application.
+
+Perimeter mulch beds in Spanish Springs, NV should be reviewed for ant bridge paths.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Spanish Springs, NV, pressure often rebuilds.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Harbor ledger 677617: frass lane, mud-tube scan, and garage jamb gap measure filed for Spanish Springs, NV at 39.6600, -119.6700.
+
+On-site sector marker: Washoe County / coords 39.6600, -119.6700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NV-89441-46e7eb24

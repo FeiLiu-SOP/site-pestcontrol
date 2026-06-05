@@ -11,25 +11,37 @@ lng: -88.9400
 zipSample: ["62959"]
 zipCodes: ["62959"]
 localPaths: ["Williamson County / ZIP 62959 sector", "Williamson County / coords 37.7300, -88.9400", "Williamson County / primary ZIP 62959", "Williamson County / elevation 443 ft band"]
-zillowHomeValueUsd: 172603
 ---
 
-**Engineering Notice for Marion:** Structural loading calculated based on 443 ft terrain assessment. Regional dispatch grid: Williamson County.
+**Engineering Notice for Marion:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Williamson County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 62959.
+We coordinate Marion, IL pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 62959.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: What is exclusion? Without sealing entry points in Marion, IL, pressure often rebuilds.
 
-Homeowners in Marion, IL often face sudden pest control problems that require fast action.
+Carpenter ant frass in Marion, IL window sills may indicate moisture-softened framing.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 62959.
 
-Field note: Moisture pathway inspection logged near ZIP 62959 intake.
+FAQ: Can bed bugs spread room-to-room in Marion, IL row homes? Wall voids and shared ducts accelerate transfer.
 
-Dispatch sectors sampled: ZIP 62959 (county grid: Williamson County).
+In Marion, IL, subterranean termite swarms often follow warm rain windows.
+
+Material note: Perimeter granules in Marion, IL may need reapplication after heavy irrigation.
+
+Seasonal pest pressure in Marion, IL shifts between moisture ants and dry-wood vectors.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Marion, IL.
+
+Harbor ledger 412728: frass lane, mud-tube scan, and garage jamb gap measure filed for Marion, IL at 37.7300, -88.9400.
+
+Coordinate-anchored dispatch note: center reference 37.7300, -88.9400 at elevation ~443 ft aligns with Williamson County intake staging.
 
 Service reference: IL-62959-1e69494b

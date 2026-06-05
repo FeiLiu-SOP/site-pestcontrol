@@ -11,26 +11,39 @@ lng: -86.9900
 zipSample: ["35602", "35603", "35601", "35609"]
 zipCodes: ["35602", "35601", "35609", "35603"]
 localPaths: ["Morgan County / ZIP 35602 sector", "Morgan County / primary ZIP 35603", "Morgan County / elevation 591 ft band", "Morgan County / ZIP 35609 sector", "Morgan County / coords 34.5700, -86.9900"]
-zillowHomeValueUsd: 280518
 ---
 
-**Engineering Notice for Decatur:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Morgan County.
+**Engineering Notice for Decatur:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Morgan County.
 
 
-Local conditions in Decatur, AL can affect timelines and material choices.
+Yellow jacket nests in Decatur, AL soffit cavities peak in late summer routing windows.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Humidity in Decatur, AL can sustain cockroach harborages behind appliance voids.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Monitoring boards in Decatur, AL crawlspaces stay 72 hours before snap traps are reset.
 
-Our service coordination centers on Decatur, AL coverage windows and verified intake details.
+Stink bug overwinter seams in Decatur, AL exterior cladding laps require exclusion foam rated for UV exposure.
 
-Tip: address recurring issues early to prevent bigger damage.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Connection points spot-checked where accessible (ZIP 35609/35603/35601 zone).
+FAQ: Why do pests return after spraying? Without sealing entry points in Decatur, AL, pressure often rebuilds.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 35609/35603/35601.
+Request an inspection with species ID before treatment. Serving ZIP Code: 35603.
 
-Dispatch sectors sampled: ZIP 35609, 35603, 35601, 35602 (county grid: Morgan County).
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Cluster fly attic staging in Decatur, AL peaks on south-facing voids after sunny thaw days.
+
+Tip: Date bait station lids when servicing Decatur, AL perimeter lines.
+
+Harbor ledger 909677: frass lane, mud-tube scan, and garage jamb gap measure filed for Decatur, AL at 34.5700, -86.9900.
+
+Seasonal cue 909677: cluster fly attic staging reviewed for Decatur, AL soffit cavities.
+
+Primary postal anchor 35603 with multi-ZIP overlap in Decatur; field packets tag Morgan County for county-grid reconciliation.
 
 Service reference: AL-35603-c7ea776d

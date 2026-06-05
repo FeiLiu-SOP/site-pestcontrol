@@ -11,25 +11,41 @@ lng: -117.0000
 zipSample: ["83844", "83843"]
 zipCodes: ["83844", "83843"]
 localPaths: ["Latah County / ZIP 83844 sector", "Latah County / elevation 2589 ft band", "Latah County / ZIP 83843 sector", "Latah County / primary ZIP 83843", "Latah County / coords 46.7300, -117.0000"]
-zillowHomeValueUsd: 468166
 ---
 
-**Engineering Notice for Moscow:** Structural loading calculated based on 2589 ft terrain assessment. Regional dispatch grid: Latah County.
+**Engineering Notice for Moscow:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Latah County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 83843.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: request a written scope before work starts.
+Flea pupae survive vacuuming in Moscow, ID carpet fibers unless heat treatment follows.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Moscow, ID.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 83844/83843.
+Earwig harborages in Moscow, ID meter boxes often follow drip irrigation overspray.
 
-Dispatch sectors sampled: ZIP 83844, 83843 (county grid: Latah County).
+IGR packets for Moscow, ID roach cycles should be dated on station lids.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Moscow, ID.
+
+Step: map entry points with photo logs before sealing.
+
+Spider populations in Moscow, ID eaves can signal insect prey density.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+County grid Latah County informs routing near ZIP 83843.
+
+Harbor ledger 453772: frass lane, mud-tube scan, and garage jamb gap measure filed for Moscow, ID at 46.7300, -117.0000.
+
+Primary postal anchor 83843 with multi-ZIP overlap in Moscow; field packets tag Latah County for county-grid reconciliation.
 
 Service reference: ID-83843-40f3dd4e

@@ -11,26 +11,43 @@ lng: -118.3600
 zipSample: ["90304"]
 zipCodes: ["90304"]
 localPaths: ["Los Angeles County / coords 33.9400, -118.3600", "Los Angeles County / elevation 82 ft band", "Los Angeles County / ZIP 90304 sector", "Los Angeles County / primary ZIP 90304"]
-zillowHomeValueUsd: 738998
 ---
 
-**Engineering Notice for Lennox:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Lennox:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-Tip: avoid large upfront payments without milestones.
+Perimeter granule carriers in Lennox, CA clay soils may need lighter irrigation before application.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Lennox, CA.
 
-Our service coordination centers on Lennox, CA coverage windows and verified intake details.
+Yellow jacket nests in Lennox, CA soffit cavities peak in late summer routing windows.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Lennox, CA, but intake notes help reduce delays.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 90304.
 
-Transparent pricing helps you compare like-for-like scope items.
+Drain fly biofilm in Lennox, CA floor drains signals grease traps need service before gel baits.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 90304.
+Material note: Perimeter granules in Lennox, CA may need reapplication after heavy irrigation.
 
-Field note: Wind exposure category reviewed for ZIP sector 90304.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Dispatch sectors sampled: ZIP 90304 (county grid: Los Angeles County).
+Cluster fly attic staging in Lennox, CA peaks on south-facing voids after sunny thaw days.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Earwig harborages in Lennox, CA meter boxes often follow drip irrigation overspray.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Harbor ledger 914494: frass lane, mud-tube scan, and garage jamb gap measure filed for Lennox, CA at 33.9400, -118.3600.
+
+Seasonal cue 914494: cluster fly attic staging reviewed for Lennox, CA soffit cavities.
+
+On-site sector marker: Los Angeles County / coords 33.9400, -118.3600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90304-fe99f365

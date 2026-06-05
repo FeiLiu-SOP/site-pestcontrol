@@ -11,24 +11,43 @@ lng: -117.8200
 zipSample: ["92869", "92866", "92863", "92868", "92864"]
 zipCodes: ["92857", "92856", "92867", "92868", "92866", "92869", "92865", "92863", "92864"]
 localPaths: ["Orange County / ZIP 92869 sector", "Orange County / primary ZIP 92868", "Orange County / ZIP 92868 sector", "Orange County / ZIP 92866 sector", "Orange County / ZIP 92864 sector"]
-zillowHomeValueUsd: 907075
 ---
 
-**Engineering Notice for Orange:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Orange:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.
 
 
-Structured milestones protect both sides when scheduling work.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Orange, CA.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Yellow jacket nests in Orange, CA soffit cavities peak in late summer routing windows.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Orange, CA, but intake notes help reduce delays.
+Earwig harborages in Orange, CA meter boxes often follow drip irrigation overspray.
 
-Tip: compare at least two estimates for scope and timeline.
+Silverfish activity in Orange, CA attics tracks cardboard storage and ridge vent gaps.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92867/92869/92865.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Dispatch sectors sampled: ZIP 92867, 92869, 92865, 92864, 92857 (county grid: Orange County).
+Tip: Keep pet food elevated and sealed between service visits.
+
+FAQ: Can bed bugs spread room-to-room in Orange, CA row homes? Wall voids and shared ducts accelerate transfer.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Fire ant mounds in Orange, CA drive seams need granule rotation after irrigation events.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Risk flag: Overwatered Orange, CA planters can restart ant bridges within two weeks.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Step: map entry points with photo logs before sealing.
+
+Harbor ledger 560763: frass lane, mud-tube scan, and garage jamb gap measure filed for Orange, CA at 33.8000, -117.8200.
+
+Intercept log 560763: bed bug intercept count staged before Orange, CA interior gel zones.
+
+Primary postal anchor 92868 with multi-ZIP overlap in Orange; field packets tag Orange County for county-grid reconciliation.
 
 Service reference: CA-92868-9479269b

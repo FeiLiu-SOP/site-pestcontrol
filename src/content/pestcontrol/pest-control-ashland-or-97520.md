@@ -11,27 +11,37 @@ lng: -122.7000
 zipSample: ["97520"]
 zipCodes: ["97520"]
 localPaths: ["Jackson County / ZIP 97520 sector", "Jackson County / elevation 1972 ft band", "Jackson County / coords 42.1900, -122.7000", "Jackson County / primary ZIP 97520"]
-zillowHomeValueUsd: 550585
 ---
 
-**Engineering Notice for Ashland:** Structural loading calculated based on 1972 ft terrain assessment. Regional dispatch grid: Jackson County.
+**Engineering Notice for Ashland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jackson County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Bird mites in Ashland, OR exhaust vents can persist after host nests are removed.
 
-Tip: address recurring issues early to prevent bigger damage.
+Mud dauber nests in Ashland, OR porch ceilings are benign but signal prey density for spiders.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 97520.
+Tip: Keep pet food elevated and sealed between service visits.
 
-A written scope helps prevent rework and mismatched expectations.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Ashland, OR, but intake notes help reduce delays.
+Cluster fly attic staging in Ashland, OR peaks on south-facing voids after sunny thaw days.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 97520.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Moisture pathway inspection logged near ZIP 97520 intake.
+Step: verify attic access safety before insulation disturbance.
 
-Dispatch sectors sampled: ZIP 97520 (county grid: Jackson County).
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Dry-wood termite pellets in Ashland, OR attics may appear before exterior mud tubes.
+
+Earwig harborages in Ashland, OR meter boxes often follow drip irrigation overspray.
+
+Silverfish activity in Ashland, OR attics tracks cardboard storage and ridge vent gaps.
+
+Seasonal cue 491386: cluster fly attic staging reviewed for Ashland, OR soffit cavities.
+
+On-site sector marker: Jackson County / ZIP 97520 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97520-88c9b902

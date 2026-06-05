@@ -11,26 +11,43 @@ lng: -88.9700
 zipSample: ["61710", "61704", "61705", "61701", "61709"]
 zipCodes: ["61704", "61701", "61710", "61709", "61705", "61791"]
 localPaths: ["McLean County / primary ZIP 61701", "McLean County / elevation 853 ft band", "McLean County / ZIP 61709 sector", "McLean County / ZIP 61710 sector", "McLean County / ZIP 61701 sector"]
-zillowHomeValueUsd: 170898
 ---
 
-**Engineering Notice for Bloomington:** Structural loading calculated based on 853 ft terrain assessment. Regional dispatch grid: McLean County.
+**Engineering Notice for Bloomington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: McLean County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Why schedule quarterly instead of monthly in Bloomington, IL? Species pressure and label intervals dictate cadence.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: In Bloomington, IL, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bloomington, IL, but intake notes help reduce delays.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 61701.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Stored cardboard in Bloomington, IL garages can accelerate pantry pest cycles.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Bloomington, IL.
 
-Field note: Moisture pathway inspection logged near ZIP 61704/61710/61705 intake.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Field note: Wind exposure category reviewed for ZIP sector 61704/61710/61705.
+Step: map entry points with photo logs before sealing.
 
-Dispatch sectors sampled: ZIP 61704, 61710, 61705, 61791, 61701 (county grid: McLean County).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Bird mites in Bloomington, IL exhaust vents can persist after host nests are removed.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 61701.
+
+Zone map 947199: attic insulation disturbance trace and pantry pest source logged for Bloomington, IL sector 61701.
+
+Exclusion audit 947199: exclusion mesh gauge and rodent runway grease mark reviewed for Bloomington, IL at 40.4800/-88.9700.
+
+**Regional Infrastructure Brief:** Service coverage aligns with McLean County and primary ZIP 61701. Terrain reference: 853 ft. Center point: 40.4800, -88.9700. ZIP sample: 61704, 61701, 61710, 61791, 61709. Regional routing note: McLean County traffic flow is balanced around ZIP 61701 service demand.
 
 Service reference: IL-61701-3b22ad6e

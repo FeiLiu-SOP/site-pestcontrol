@@ -11,24 +11,37 @@ lng: -85.9700
 zipSample: ["46040", "46085", "46038", "46256", "46037"]
 zipCodes: ["46085", "46040", "46038", "46256", "46037"]
 localPaths: ["Hamilton County / coords 39.9600, -85.9700", "Hamilton County / ZIP 46085 sector", "Hamilton County / primary ZIP 46038", "Hamilton County / ZIP 46256 sector", "Hamilton County / ZIP 46038 sector"]
-zillowHomeValueUsd: 379015
 ---
 
-**Engineering Notice for Fishers:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Hamilton County.
+**Engineering Notice for Fishers:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hamilton County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Keep pet food elevated and sealed between service visits.
 
-We coordinate local dispatch coverage around Fishers, IN and nearby ZIP sectors.
+Yellow jacket nests in Fishers, IN soffit cavities peak in late summer routing windows.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Date bait station lids when servicing Fishers, IN perimeter lines.
 
-Clear documentation helps align materials, labor, and timeline.
+Material note: Perimeter granules in Fishers, IN may need reapplication after heavy irrigation.
 
-Field note: Moisture pathway inspection logged near ZIP 46037/46040/46256 intake.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Dispatch sectors sampled: ZIP 46037, 46040, 46256, 46038, 46085 (county grid: Hamilton County).
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Across Fishers, IN, rodent entry points frequently track utility penetrations.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Fishers, IN.
+
+Mosquito breeding in Fishers, IN catch basins can amplify perimeter callbacks.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 46038.
+
+Seasonal cue 474370: cluster fly attic staging reviewed for Fishers, IN soffit cavities.
+
+Primary postal anchor 46038 with multi-ZIP overlap in Fishers; field packets tag Hamilton County for county-grid reconciliation.
 
 Service reference: IN-46038-4b4a4d0f

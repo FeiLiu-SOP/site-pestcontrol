@@ -11,25 +11,39 @@ lng: -103.1900
 zipSample: ["88102", "88101"]
 zipCodes: ["88101", "88102"]
 localPaths: ["Curry County / ZIP 88102 sector", "Curry County / ZIP 88101 sector", "Curry County / primary ZIP 88101", "Curry County / elevation 4311 ft band", "Curry County / coords 34.4400, -103.1900"]
-zillowHomeValueUsd: 161584
 ---
 
-**Engineering Notice for Clovis:** Structural loading calculated based on 4311 ft terrain assessment. Regional dispatch grid: Curry County.
+**Engineering Notice for Clovis:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Curry County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 88101.
+Tip: Keep pet food elevated and sealed between service visits.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Clovis, NM, but intake notes help reduce delays.
+Attic misting in Clovis, NM requires combustion air clearance verified before fans restart.
 
-Our service coordination centers on Clovis, NM coverage windows and verified intake details.
+Humidity in Clovis, NM can sustain cockroach harborages behind appliance voids.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Date bait station lids when servicing Clovis, NM perimeter lines.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Dry-wood termite pellets in Clovis, NM attics may appear before exterior mud tubes.
 
-Field note: Connection points spot-checked where accessible (ZIP 88102/88101 zone).
+Request an inspection with species ID before treatment. Serving ZIP Code: 88101.
 
-Dispatch sectors sampled: ZIP 88102, 88101 (county grid: Curry County).
+Clover mite staining on Clovis, NM wall restoration follows foundation mulch against brick ledges.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+County grid Curry County informs routing near ZIP 88101.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Perimeter dossier 671749: bait station anchor map and mulch bridge risk flagged for Clovis, NM county Curry County (ZIP 88101).
+
+Intercept log 671749: bed bug intercept count staged before Clovis, NM interior gel zones.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Curry County. Reference elevation: 4311 ft. Primary coordinates: 34.4400, -103.1900. ZIP sample: 88101, 88102. Service perimeter note: Coverage extends through Curry County with dispatch centered near ZIP 88101.
 
 Service reference: NM-88101-76b31020

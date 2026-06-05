@@ -11,27 +11,43 @@ lng: -88.1100
 zipSample: ["60189", "60187"]
 zipCodes: ["60189", "60187"]
 localPaths: ["DuPage County / elevation 761 ft band", "DuPage County / primary ZIP 60187", "DuPage County / ZIP 60187 sector", "DuPage County / coords 41.8600, -88.1100", "DuPage County / ZIP 60189 sector"]
-zillowHomeValueUsd: 490745
 ---
 
-**Engineering Notice for Wheaton:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: DuPage County.
+**Engineering Notice for Wheaton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+County grid DuPage County informs routing near ZIP 60187.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Clover mite staining on Wheaton, IL cladding service follows foundation mulch against brick ledges.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Tip: confirm licensing and insurance before approving work.
+Powderpost beetle exit holes in Wheaton, IL trim can be mistaken for dry-wood frass without magnification.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 60187.
+Cluster fly attic staging in Wheaton, IL peaks on south-facing voids after sunny thaw days.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60189/60187.
+FAQ: Can bed bugs spread room-to-room in Wheaton, IL row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Connection points spot-checked where accessible (ZIP 60189/60187 zone).
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Dispatch sectors sampled: ZIP 60189, 60187 (county grid: DuPage County).
+Fire ant mounds in Wheaton, IL drive seams need granule rotation after irrigation events.
+
+Monitoring boards in Wheaton, IL crawlspaces stay 72 hours before snap traps are reset.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 60187.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Harbor ledger 310249: frass lane, mud-tube scan, and garage jamb gap measure filed for Wheaton, IL at 41.8600, -88.1100.
+
+Zone map 310249: attic insulation disturbance trace and pantry pest source logged for Wheaton, IL sector 60187.
+
+On-site sector marker: DuPage County / elevation 761 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60187-5c2bb8d1

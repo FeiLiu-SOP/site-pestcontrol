@@ -11,24 +11,37 @@ lng: -93.3600
 zipSample: ["55422", "55428", "55427", "55429"]
 zipCodes: ["55427", "55428", "55422", "55429"]
 localPaths: ["Hennepin County / ZIP 55427 sector", "Hennepin County / coords 45.0400, -93.3600", "Hennepin County / ZIP 55422 sector", "Hennepin County / ZIP 55429 sector", "Hennepin County / ZIP 55428 sector"]
-zillowHomeValueUsd: 339105
 ---
 
-**Engineering Notice for Crystal:** Structural loading calculated based on 892 ft terrain assessment. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Crystal:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hennepin County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic insulation disturbance in Crystal, MN may indicate wildlife nesting routes.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Crystal, MN, but intake notes help reduce delays.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Our service coordination centers on Crystal, MN coverage windows and verified intake details.
+Cluster fly attic staging in Crystal, MN peaks on south-facing voids after sunny thaw days.
 
-Tip: request a written scope before work starts.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Attic fogging in Crystal, MN requires combustion appliance shutoff verification first.
 
-Field note: Moisture pathway inspection logged near ZIP 55429/55427/55422 intake.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Dispatch sectors sampled: ZIP 55429, 55427, 55422, 55428 (county grid: Hennepin County).
+Flea pupae survive vacuuming in Crystal, MN carpet fibers unless heat treatment follows.
+
+Wildlife odors in Crystal, MN crawlspaces may attract secondary pest activity.
+
+Powderpost beetle exit holes in Crystal, MN trim can be mistaken for dry-wood frass without magnification.
+
+Exclusion gaps at garage jambs in Crystal, MN are common rodent access points.
+
+Monitoring boards in Crystal, MN crawlspaces stay 72 hours before snap traps are reset.
+
+Stink bug overwinter seams in Crystal, MN cladding service laps require exclusion foam rated for UV exposure.
+
+Zone map 776273: attic insulation disturbance trace and pantry pest source logged for Crystal, MN sector 55422.
+
+Primary postal anchor 55422 with multi-ZIP overlap in Crystal; field packets tag Hennepin County for county-grid reconciliation.
 
 Service reference: MN-55422-8f9f4fca

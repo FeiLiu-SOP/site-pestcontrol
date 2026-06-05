@@ -11,27 +11,43 @@ lng: -111.8600
 zipSample: ["84011", "84010"]
 zipCodes: ["84011", "84010"]
 localPaths: ["Davis County / elevation 4783 ft band", "Davis County / primary ZIP 84010", "Davis County / ZIP 84010 sector", "Davis County / coords 40.8700, -111.8600", "Davis County / ZIP 84011 sector"]
-zillowHomeValueUsd: 579868
 ---
 
-**Engineering Notice for Bountiful:** Structural loading calculated based on 4783 ft terrain assessment. Regional dispatch grid: Davis County.
+**Engineering Notice for Bountiful:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Davis County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-We coordinate local dispatch coverage around Bountiful, UT and nearby ZIP sectors.
+FAQ: Why schedule quarterly instead of monthly in Bountiful, UT? Species pressure and label intervals dictate cadence.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 84010.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 84010.
 
-In Bountiful, UT, seasonal demand can change scheduling windows.
+Tip: Date bait station lids when servicing Bountiful, UT perimeter lines.
 
-Field note: Moisture pathway inspection logged near ZIP 84011/84010 intake.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Field note: Connection points spot-checked where accessible (ZIP 84011/84010 zone).
+Mud dauber nests in Bountiful, UT porch ceilings are benign but signal prey density for spiders.
 
-Dispatch sectors sampled: ZIP 84011, 84010 (county grid: Davis County).
+Flea pupae survive vacuuming in Bountiful, UT carpet fibers unless heat treatment follows.
+
+We coordinate Bountiful, UT pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Wildlife odors in Bountiful, UT crawlspaces may attract secondary pest activity.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 84010.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Zone map 433466: attic insulation disturbance trace and pantry pest source logged for Bountiful, UT sector 84010.
+
+Seasonal cue 433466: cluster fly attic staging reviewed for Bountiful, UT soffit cavities.
+
+On-site sector marker: Davis County / primary ZIP 84010 — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84010-4bac4c39

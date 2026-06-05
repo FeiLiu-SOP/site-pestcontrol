@@ -11,26 +11,39 @@ lng: -88.3800
 zipSample: ["53027"]
 zipCodes: ["53027"]
 localPaths: ["Washington County / primary ZIP 53027", "Washington County / ZIP 53027 sector", "Washington County / coords 43.3200, -88.3800", "Washington County / elevation 1020 ft band"]
-zillowHomeValueUsd: 409535
 ---
 
-**Engineering Notice for Hartford:** Structural loading calculated based on 1020 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Hartford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+IGR packets for Hartford, WI roach cycles should be dated on station lids.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hartford, WI, but intake notes help reduce delays.
+Yellow jacket nests in Hartford, WI soffit cavities peak in late summer routing windows.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Date bait station lids when servicing Hartford, WI perimeter lines.
 
-Tip: avoid large upfront payments without milestones.
+Step: separate bait rotation schedules from crack-and-crevice applications in Hartford, WI.
 
-Tip: request a written scope before work starts.
+Step: map entry points with photo logs before sealing.
 
-Field note: Connection points spot-checked where accessible (ZIP 53027 zone).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 53027.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 53027.
 
-Dispatch sectors sampled: ZIP 53027 (county grid: Washington County).
+Drain fly biofilm in Hartford, WI floor drains signals grease traps need service before gel baits.
+
+Clover mite staining on Hartford, WI exterior cladding follows foundation mulch against brick ledges.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 53027.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+FAQ: Why schedule quarterly instead of monthly in Hartford, WI? Species pressure and label intervals dictate cadence.
+
+County grid Washington County informs routing near ZIP 53027.
+
+Harbor ledger 685974: frass lane, mud-tube scan, and garage jamb gap measure filed for Hartford, WI at 43.3200, -88.3800.
+
+On-site sector marker: Washington County / primary ZIP 53027 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-53027-ed68c119

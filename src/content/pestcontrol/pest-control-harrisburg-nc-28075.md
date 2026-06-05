@@ -11,26 +11,39 @@ lng: -80.6500
 zipSample: ["28075"]
 zipCodes: ["28075"]
 localPaths: ["Cabarrus County / primary ZIP 28075", "Cabarrus County / ZIP 28075 sector", "Cabarrus County / elevation 597 ft band", "Cabarrus County / coords 35.3100, -80.6500"]
-zillowHomeValueUsd: 502629
 ---
 
-**Engineering Notice for Harrisburg:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Cabarrus County.
+**Engineering Notice for Harrisburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cabarrus County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Harrisburg, NC, but intake notes help reduce delays.
+Carpenter ant frass in Harrisburg, NC window sills may indicate moisture-softened framing.
 
-We coordinate local dispatch coverage around Harrisburg, NC and nearby ZIP sectors.
+Step: label treatment zones for occupant re-entry timing.
 
-Tip: request a written scope before work starts.
+Risk flag: In Harrisburg, NC, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+We coordinate Harrisburg, NC pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28075.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Moisture pathway inspection logged near ZIP 28075 intake.
+Mosquito breeding in Harrisburg, NC catch basins can amplify perimeter callbacks.
 
-Dispatch sectors sampled: ZIP 28075 (county grid: Cabarrus County).
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Silverfish activity in Harrisburg, NC attics tracks cardboard storage and ridge vent gaps.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Yellow jacket nests in Harrisburg, NC soffit cavities peak in late summer routing windows.
+
+Tip: Trim vegetation 12 inches from cladding service to reduce ant bridges.
+
+Intercept log 580808: bed bug intercept count staged before Harrisburg, NC interior gel zones.
+
+Perimeter dossier 580808: bait station anchor map and mulch bridge risk flagged for Harrisburg, NC county Cabarrus County (ZIP 28075).
+
+On-site sector marker: Cabarrus County / coords 35.3100, -80.6500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28075-50ddf864

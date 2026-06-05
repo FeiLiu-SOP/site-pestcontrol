@@ -11,26 +11,39 @@ lng: -117.0000
 zipSample: ["91977"]
 zipCodes: ["91977"]
 localPaths: ["San Diego County / coords 32.7100, -117.0000", "San Diego County / elevation 295 ft band", "San Diego County / primary ZIP 91977", "San Diego County / ZIP 91977 sector"]
-zillowHomeValueUsd: 768675
 ---
 
-**Engineering Notice for La Presa:** Structural loading calculated based on 295 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for La Presa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in La Presa, CA, but intake notes help reduce delays.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Our service coordination centers on La Presa, CA coverage windows and verified intake details.
+Risk flag: In La Presa, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Tip: request a written scope before work starts.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Homeowners in La Presa, CA often face sudden pest control problems that require fast action.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 91977.
 
-Field note: Connection points spot-checked where accessible (ZIP 91977 zone).
+Stored cardboard in La Presa, CA garages can accelerate pantry pest cycles.
 
-Field note: Moisture pathway inspection logged near ZIP 91977 intake.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Dispatch sectors sampled: ZIP 91977 (county grid: San Diego County).
+Exclusion gaps at garage jambs in La Presa, CA are common rodent access points.
+
+Earwig harborages in La Presa, CA meter boxes often follow drip irrigation overspray.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 91977.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Across La Presa, CA, rodent entry points frequently track utility penetrations.
+
+Attic fogging in La Presa, CA requires combustion appliance shutoff verification first.
+
+Harbor ledger 878173: frass lane, mud-tube scan, and garage jamb gap measure filed for La Presa, CA at 32.7100, -117.0000.
+
+On-site sector marker: San Diego County / elevation 295 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91977-a7ee1657

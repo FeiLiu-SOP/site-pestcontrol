@@ -11,26 +11,41 @@ lng: -96.9100
 zipSample: ["75137", "75138", "75116"]
 zipCodes: ["75137", "75116", "75138"]
 localPaths: ["Dallas County / ZIP 75116 sector", "Dallas County / primary ZIP 75116", "Dallas County / coords 32.6500, -96.9100", "Dallas County / ZIP 75138 sector", "Dallas County / ZIP 75137 sector"]
-zillowHomeValueUsd: 273600
 ---
 
-**Engineering Notice for Duncanville:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for Duncanville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+County grid Dallas County informs routing near ZIP 75116.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Humidity in Duncanville, TX can sustain cockroach harborages behind appliance voids.
 
-Tip: request a written scope before work starts.
+Tip: Log pet access routes when bait stations are placed.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Duncanville, TX.
 
-Field note: Wind exposure category reviewed for ZIP sector 75137/75116/75138.
+Yellow jacket nests in Duncanville, TX soffit cavities peak in late summer routing windows.
 
-Field note: Connection points spot-checked where accessible (ZIP 75137/75116/75138 zone).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Dispatch sectors sampled: ZIP 75137, 75116, 75138 (county grid: Dallas County).
+Tip: Date bait station lids when servicing Duncanville, TX perimeter lines.
+
+Dry-wood termite pellets in Duncanville, TX attics may appear before exterior mud tubes.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+In Duncanville, TX, subterranean termite swarms often follow warm rain windows.
+
+Exclusion gaps at garage jambs in Duncanville, TX are common rodent access points.
+
+Attic misting in Duncanville, TX requires combustion air clearance verified before fans restart.
+
+Harbor ledger 876473: frass lane, mud-tube scan, and garage jamb gap measure filed for Duncanville, TX at 32.6500, -96.9100.
+
+Seasonal cue 876473: cluster fly attic staging reviewed for Duncanville, TX soffit cavities.
+
+ZIP-corridor snapshot for Duncanville, TX: sampled sectors include 75137, 75116, 75138; county routing grid remains Dallas County.
 
 Service reference: TX-75116-e45be5e2

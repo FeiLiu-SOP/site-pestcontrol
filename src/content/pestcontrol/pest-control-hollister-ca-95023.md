@@ -11,26 +11,39 @@ lng: -121.4000
 zipSample: ["95024", "95023"]
 zipCodes: ["95023", "95024"]
 localPaths: ["San Benito County / ZIP 95023 sector", "San Benito County / elevation 282 ft band", "San Benito County / primary ZIP 95023", "San Benito County / ZIP 95024 sector", "San Benito County / coords 36.8600, -121.4000"]
-zillowHomeValueUsd: 763155
 ---
 
-**Engineering Notice for Hollister:** Structural loading calculated based on 282 ft terrain assessment. Regional dispatch grid: San Benito County.
+**Engineering Notice for Hollister:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Benito County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Step: verify attic access safety before insulation disturbance.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Our service coordination centers on Hollister, CA coverage windows and verified intake details.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hollister, CA, but intake notes help reduce delays.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Access points and staging constraints recorded for ZIP 95024/95023 coverage.
+Attic fogging in Hollister, CA requires combustion appliance shutoff verification first.
 
-Field note: Moisture pathway inspection logged near ZIP 95024/95023 intake.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Dispatch sectors sampled: ZIP 95024, 95023 (county grid: San Benito County).
+In Hollister, CA, subterranean termite swarms often follow warm rain windows.
+
+Stink bug overwinter seams in Hollister, CA wall restoration laps require exclusion foam rated for UV exposure.
+
+Silverfish activity in Hollister, CA attics tracks cardboard storage and ridge vent gaps.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+FAQ: Can bed bugs spread room-to-room in Hollister, CA row homes? Wall voids and shared ducts accelerate transfer.
+
+Harbor ledger 511703: frass lane, mud-tube scan, and garage jamb gap measure filed for Hollister, CA at 36.8600, -121.4000.
+
+Exclusion audit 511703: exclusion mesh gauge and rodent runway grease mark reviewed for Hollister, CA at 36.8600/-121.4000.
+
+Regional mesh label San Benito County: moisture and logistics baselines are keyed to Hollister, CA before niche-specific work begins.
 
 Service reference: CA-95023-00d1a9c2

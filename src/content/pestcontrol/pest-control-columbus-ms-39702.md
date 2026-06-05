@@ -11,24 +11,41 @@ lng: -88.4100
 zipSample: ["39702", "39701", "39705"]
 zipCodes: ["39702", "39701", "39705"]
 localPaths: ["Lowndes County / elevation 180 ft band", "Lowndes County / ZIP 39701 sector", "Lowndes County / coords 33.5100, -88.4100", "Lowndes County / ZIP 39702 sector", "Lowndes County / primary ZIP 39702"]
-zillowHomeValueUsd: 173302
 ---
 
-**Engineering Notice for Columbus:** Structural loading calculated based on 180 ft terrain assessment. Regional dispatch grid: Lowndes County.
+**Engineering Notice for Columbus:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lowndes County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Clover mite staining on Columbus, MS vinyl panels follows foundation mulch against brick ledges.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Stink bug overwinter seams in Columbus, MS vinyl panels laps require exclusion foam rated for UV exposure.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Columbus, MS, but intake notes help reduce delays.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Access points and staging constraints recorded for ZIP 39705/39702/39701 coverage.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Dispatch sectors sampled: ZIP 39705, 39702, 39701 (county grid: Lowndes County).
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Columbus, MS.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 39702.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Mosquito breeding in Columbus, MS catch basins can amplify perimeter callbacks.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Seasonal cue 436413: cluster fly attic staging reviewed for Columbus, MS soffit cavities.
+
+Zone map 436413: attic insulation disturbance trace and pantry pest source logged for Columbus, MS sector 39702.
+
+On-site sector marker: Lowndes County / ZIP 39705 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39702-f5745960

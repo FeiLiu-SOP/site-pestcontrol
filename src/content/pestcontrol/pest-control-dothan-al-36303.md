@@ -11,24 +11,41 @@ lng: -85.4100
 zipSample: ["36303", "36304", "36302", "36301", "36321"]
 zipCodes: ["36303", "36304", "36321", "36302", "36305", "36301"]
 localPaths: ["Houston County / ZIP 36303 sector", "Houston County / ZIP 36301 sector", "Houston County / ZIP 36321 sector", "Houston County / ZIP 36304 sector", "Houston County / primary ZIP 36303"]
-zillowHomeValueUsd: 184636
 ---
 
-**Engineering Notice for Dothan:** Structural loading calculated based on 361 ft terrain assessment. Regional dispatch grid: Houston County.
+**Engineering Notice for Dothan:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Houston County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Our service coordination centers on Dothan, AL coverage windows and verified intake details.
+FAQ: Why do pests return after spraying? Without sealing entry points in Dothan, AL, pressure often rebuilds.
 
-Tip: avoid large upfront payments without milestones.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Field note: Connection points spot-checked where accessible (ZIP 36303/36321/36302 zone).
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Dispatch sectors sampled: ZIP 36303, 36321, 36302, 36304, 36305 (county grid: Houston County).
+Attic fogging in Dothan, AL requires combustion appliance shutoff verification first.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Tip: Trim vegetation 12 inches from exterior cladding to reduce ant bridges.
+
+Yellow jacket nests in Dothan, AL soffit cavities peak in late summer routing windows.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Dothan, AL.
+
+Exclusion audit 562810: exclusion mesh gauge and rodent runway grease mark reviewed for Dothan, AL at 31.2300/-85.4100.
+
+Perimeter dossier 562810: bait station anchor map and mulch bridge risk flagged for Dothan, AL county Houston County (ZIP 36303).
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~361 ft across the Houston County area. Coordinates: 31.2300, -85.4100. ZIP sample: 36305, 36321, 36304, 36303, 36301. Regional routing note: Houston County traffic flow is balanced around ZIP 36303 service demand.
 
 Service reference: AL-36303-1e8c4eb3

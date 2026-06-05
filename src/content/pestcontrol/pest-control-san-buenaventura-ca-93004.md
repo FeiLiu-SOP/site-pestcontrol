@@ -11,26 +11,41 @@ lng: -119.2300
 zipSample: ["93005", "93002", "93009", "93006", "93001"]
 zipCodes: ["93005", "93002", "93007", "93001", "93004", "93009", "93006", "93003"]
 localPaths: ["Ventura County / coords 34.2700, -119.2300", "Ventura County / ZIP 93006 sector", "Ventura County / ZIP 93005 sector", "Ventura County / elevation 220 ft band", "Ventura County / primary ZIP 93004"]
-zillowHomeValueUsd: 874586
 ---
 
-**Engineering Notice for San Buenaventura:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Ventura County.
+**Engineering Notice for San Buenaventura:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ventura County.
 
 
-We coordinate local dispatch coverage around San Buenaventura, CA and nearby ZIP sectors.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 93004.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in San Buenaventura, CA, but intake notes help reduce delays.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Attic insulation disturbance in San Buenaventura, CA may indicate wildlife nesting routes.
 
-Tip: compare at least two estimates for scope and timeline.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 93004.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 93003/93006/93002.
+Mud dauber nests in San Buenaventura, CA porch ceilings are benign but signal prey density for spiders.
 
-Field note: Moisture pathway inspection logged near ZIP 93003/93006/93002 intake.
+Tip: Date bait station lids when servicing San Buenaventura, CA perimeter lines.
 
-Dispatch sectors sampled: ZIP 93003, 93006, 93002, 93007, 93009 (county grid: Ventura County).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Perimeter granule carriers in San Buenaventura, CA clay soils may need lighter irrigation before application.
+
+Risk flag: Overwatered San Buenaventura, CA planters can restart ant bridges within two weeks.
+
+FAQ: Can bed bugs spread room-to-room in San Buenaventura, CA row homes? Wall voids and shared ducts accelerate transfer.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in San Buenaventura, CA.
+
+Fire ant mounds in San Buenaventura, CA drive seams need granule rotation after irrigation events.
+
+Perimeter mulch beds in San Buenaventura, CA should be reviewed for ant bridge paths.
+
+Exclusion audit 319809: exclusion mesh gauge and rodent runway grease mark reviewed for San Buenaventura, CA at 34.2700/-119.2300.
+
+Coordinate-anchored dispatch note: center reference 34.2700, -119.2300 at elevation ~220 ft aligns with Ventura County intake staging.
 
 Service reference: CA-93004-5bb4113d

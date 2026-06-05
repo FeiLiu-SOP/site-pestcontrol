@@ -11,26 +11,41 @@ lng: -117.7700
 zipSample: ["92885", "92887", "92886"]
 zipCodes: ["92887", "92885", "92886"]
 localPaths: ["Orange County / elevation 554 ft band", "Orange County / primary ZIP 92886", "Orange County / ZIP 92886 sector", "Orange County / ZIP 92885 sector", "Orange County / coords 33.8900, -117.7700"]
-zillowHomeValueUsd: 1378754
 ---
 
-**Engineering Notice for Yorba Linda:** Structural loading calculated based on 554 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Yorba Linda:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Trim vegetation 12 inches from vinyl panels to reduce ant bridges.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Our service coordination centers on Yorba Linda, CA coverage windows and verified intake details.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92886/92887/92885.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 92886.
 
-Field note: Access points and staging constraints recorded for ZIP 92886/92887/92885 coverage.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 92886.
 
-Dispatch sectors sampled: ZIP 92886, 92887, 92885 (county grid: Orange County).
+Stink bug overwinter seams in Yorba Linda, CA vinyl panels laps require exclusion foam rated for UV exposure.
+
+Flea pupae survive vacuuming in Yorba Linda, CA carpet fibers unless heat treatment follows.
+
+FAQ: Can bed bugs spread room-to-room in Yorba Linda, CA row homes? Wall voids and shared ducts accelerate transfer.
+
+Fire ant mounds in Yorba Linda, CA drive seams need granule rotation after irrigation events.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Powderpost beetle exit holes in Yorba Linda, CA trim can be mistaken for dry-wood frass without magnification.
+
+Step: record station placement maps for follow-up visits.
+
+Zone map 276991: attic insulation disturbance trace and pantry pest source logged for Yorba Linda, CA sector 92886.
+
+Regional mesh label Orange County: moisture and logistics baselines are keyed to Yorba Linda, CA before niche-specific work begins.
 
 Service reference: CA-92886-86a8c86c

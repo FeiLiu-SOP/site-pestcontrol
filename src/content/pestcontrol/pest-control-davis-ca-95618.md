@@ -11,24 +11,39 @@ lng: -121.7400
 zipSample: ["95616", "95618", "95617"]
 zipCodes: ["95616", "95618", "95617"]
 localPaths: ["Yolo County / ZIP 95618 sector", "Yolo County / coords 38.5600, -121.7400", "Yolo County / ZIP 95617 sector", "Yolo County / elevation 43 ft band", "Yolo County / primary ZIP 95618"]
-zillowHomeValueUsd: 846408
 ---
 
-**Engineering Notice for Davis:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Yolo County.
+**Engineering Notice for Davis:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Yolo County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Davis, CA, but intake notes help reduce delays.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Our service coordination centers on Davis, CA coverage windows and verified intake details.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Tip: confirm licensing and insurance before approving work.
+Powderpost beetle exit holes in Davis, CA trim can be mistaken for dry-wood frass without magnification.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Davis, CA.
 
-Structured milestones protect both sides when scheduling work.
+Step: label treatment zones for occupant re-entry timing.
 
-Field note: Wind exposure category reviewed for ZIP sector 95616/95618/95617.
+Material note: Perimeter granules in Davis, CA may need reapplication after heavy irrigation.
 
-Dispatch sectors sampled: ZIP 95616, 95618, 95617 (county grid: Yolo County).
+Spider populations in Davis, CA eaves can signal insect prey density.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Wildlife odors in Davis, CA crawlspaces may attract secondary pest activity.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Perimeter granule carriers in Davis, CA clay soils may need lighter irrigation before application.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Exclusion audit 696493: exclusion mesh gauge and rodent runway grease mark reviewed for Davis, CA at 38.5600/-121.7400.
+
+Harbor ledger 696493: frass lane, mud-tube scan, and garage jamb gap measure filed for Davis, CA at 38.5600, -121.7400.
+
+On-site sector marker: Yolo County / primary ZIP 95618 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95618-9f50b031

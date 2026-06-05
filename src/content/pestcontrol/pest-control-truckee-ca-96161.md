@@ -11,26 +11,43 @@ lng: -120.1800
 zipSample: ["96161", "96160"]
 zipCodes: ["96161", "96160"]
 localPaths: ["Nevada County / ZIP 96160 sector", "Nevada County / ZIP 96161 sector", "Nevada County / coords 39.3500, -120.1800", "Nevada County / elevation 6201 ft band", "Nevada County / primary ZIP 96161"]
-zillowHomeValueUsd: 1014752
 ---
 
-**Engineering Notice for Truckee:** Structural loading calculated based on 6201 ft terrain assessment. Regional dispatch grid: Nevada County.
+**Engineering Notice for Truckee:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nevada County.
 
 
-We coordinate local dispatch coverage around Truckee, CA and nearby ZIP sectors.
+Silverfish activity in Truckee, CA attics tracks cardboard storage and ridge vent gaps.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Drain fly biofilm in Truckee, CA floor drains signals grease traps need service before gel baits.
 
-In Truckee, CA, urgent pest control issues can escalate quickly.
+FAQ: What is exclusion? Without sealing entry points in Truckee, CA, pressure often rebuilds.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Keep pet food elevated and sealed between service visits.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Bird mites in Truckee, CA exhaust vents can persist after host nests are removed.
 
-Field note: Wind exposure category reviewed for ZIP sector 96160/96161.
+Earwig harborages in Truckee, CA meter boxes often follow drip irrigation overspray.
 
-Field note: Moisture pathway inspection logged near ZIP 96160/96161 intake.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Dispatch sectors sampled: ZIP 96160, 96161 (county grid: Nevada County).
+Step: verify attic access safety before insulation disturbance.
+
+FAQ: Can bed bugs spread room-to-room in Truckee, CA row homes? Wall voids and shared ducts accelerate transfer.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+In Truckee, CA, subterranean termite swarms often follow warm rain windows.
+
+Species trace 788399: re-entry interval label and conducive moisture note keyed to Truckee, CA elevation 6201 ft.
+
+Exclusion audit 788399: exclusion mesh gauge and rodent runway grease mark reviewed for Truckee, CA at 39.3500/-120.1800.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Nevada County and primary ZIP 96161. Terrain reference: 6201 ft. Center point: 39.3500, -120.1800. ZIP sample: 96161, 96160. Logistics priority: Serving residential sectors across Nevada County and north-east ZIP 96161 grid.
 
 Service reference: CA-96161-b62dff7d

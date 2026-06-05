@@ -11,27 +11,41 @@ lng: -96.7700
 zipSample: ["75134", "75146"]
 zipCodes: ["75146", "75134"]
 localPaths: ["Dallas County / coords 32.5900, -96.7700", "Dallas County / primary ZIP 75146", "Dallas County / ZIP 75134 sector", "Dallas County / elevation 531 ft band", "Dallas County / ZIP 75146 sector"]
-zillowHomeValueUsd: 281213
 ---
 
-**Engineering Notice for Lancaster:** Structural loading calculated based on 531 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for Lancaster:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: request a written scope before work starts.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 75146.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Lancaster, TX.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Date bait station lids when servicing Lancaster, TX perimeter lines.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75134/75146.
+Risk flag: In Lancaster, TX, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Moisture pathway inspection logged near ZIP 75134/75146 intake.
+Cluster fly attic staging in Lancaster, TX peaks on south-facing voids after sunny thaw days.
 
-Dispatch sectors sampled: ZIP 75134, 75146 (county grid: Dallas County).
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Mud dauber nests in Lancaster, TX porch ceilings are benign but signal prey density for spiders.
+
+Bird mites in Lancaster, TX exhaust vents can persist after host nests are removed.
+
+Risk flag: Overwatered Lancaster, TX planters can restart ant bridges within two weeks.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Lancaster, TX, pressure often rebuilds.
+
+IGR packets for Lancaster, TX roach cycles should be dated on station lids.
+
+Intercept log 616411: bed bug intercept count staged before Lancaster, TX interior gel zones.
+
+On-site sector marker: Dallas County / ZIP 75134 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75146-585dcbb4

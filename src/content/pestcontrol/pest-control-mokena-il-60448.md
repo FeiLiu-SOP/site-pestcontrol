@@ -11,25 +11,39 @@ lng: -87.8800
 zipSample: ["60448"]
 zipCodes: ["60448"]
 localPaths: ["Will County / ZIP 60448 sector", "Will County / elevation 725 ft band", "Will County / primary ZIP 60448", "Will County / coords 41.5300, -87.8800"]
-zillowHomeValueUsd: 437946
 ---
 
-**Engineering Notice for Mokena:** Structural loading calculated based on 725 ft terrain assessment. Regional dispatch grid: Will County.
+**Engineering Notice for Mokena:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Will County.
 
 
-We coordinate local dispatch coverage around Mokena, IL and nearby ZIP sectors.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Fire ant mounds in Mokena, IL drive seams need granule rotation after irrigation events.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 60448.
+Mud dauber nests in Mokena, IL porch ceilings are benign but signal prey density for spiders.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Field note: Wind exposure category reviewed for ZIP sector 60448.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Dispatch sectors sampled: ZIP 60448 (county grid: Will County).
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Perimeter granule carriers in Mokena, IL clay soils may need lighter irrigation before application.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+IGR packets for Mokena, IL roach cycles should be dated on station lids.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Zone map 430798: attic insulation disturbance trace and pantry pest source logged for Mokena, IL sector 60448.
+
+Species trace 430798: re-entry interval label and conducive moisture note keyed to Mokena, IL elevation 725 ft.
+
+On-site sector marker: Will County / ZIP 60448 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60448-a12b97cb

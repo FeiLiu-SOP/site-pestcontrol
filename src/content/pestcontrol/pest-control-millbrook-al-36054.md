@@ -11,27 +11,37 @@ lng: -86.3700
 zipSample: ["36054", "36022"]
 zipCodes: ["36022", "36054"]
 localPaths: ["Elmore County / coords 32.5000, -86.3700", "Elmore County / ZIP 36022 sector", "Elmore County / elevation 266 ft band", "Elmore County / ZIP 36054 sector", "Elmore County / primary ZIP 36054"]
-zillowHomeValueUsd: 219930
 ---
 
-**Engineering Notice for Millbrook:** Structural loading calculated based on 266 ft terrain assessment. Regional dispatch grid: Elmore County.
+**Engineering Notice for Millbrook:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Elmore County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Why schedule quarterly instead of monthly in Millbrook, AL? Species pressure and label intervals dictate cadence.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Millbrook, AL, but intake notes help reduce delays.
+Across Millbrook, AL, rodent entry points frequently track utility penetrations.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 36054.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Cluster fly attic staging in Millbrook, AL peaks on south-facing voids after sunny thaw days.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 36054.
+Flea pupae survive vacuuming in Millbrook, AL carpet fibers unless heat treatment follows.
 
-Field note: Access points and staging constraints recorded for ZIP 36054/36022 coverage.
+Material note: Perimeter granules in Millbrook, AL may need reapplication after heavy irrigation.
 
-Field note: Moisture pathway inspection logged near ZIP 36054/36022 intake.
+Attic fogging in Millbrook, AL requires combustion appliance shutoff verification first.
 
-Dispatch sectors sampled: ZIP 36054, 36022 (county grid: Elmore County).
+Powderpost beetle exit holes in Millbrook, AL trim can be mistaken for dry-wood frass without magnification.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Carpenter ant frass in Millbrook, AL window sills may indicate moisture-softened framing.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Seasonal cue 619379: cluster fly attic staging reviewed for Millbrook, AL soffit cavities.
+
+On-site sector marker: Elmore County / ZIP 36022 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36054-58cca861

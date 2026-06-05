@@ -11,27 +11,39 @@ lng: -77.3000
 zipSample: ["22124", "22031", "22181"]
 zipCodes: ["22124", "22181", "22031"]
 localPaths: ["Fairfax County / ZIP 22124 sector", "Fairfax County / coords 38.8900, -77.3000", "Fairfax County / primary ZIP 22031", "Fairfax County / elevation 394 ft band", "Fairfax County / ZIP 22181 sector"]
-zillowHomeValueUsd: 774730
 ---
 
-**Engineering Notice for Oakton:** Structural loading calculated based on 394 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Oakton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Oakton, VA, but intake notes help reduce delays.
+Step: separate bait rotation schedules from crack-and-crevice applications in Oakton, VA.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Our service coordination centers on Oakton, VA coverage windows and verified intake details.
+Bird mites in Oakton, VA exhaust vents can persist after host nests are removed.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 22031.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why do pests return after spraying? Without sealing entry points in Oakton, VA, pressure often rebuilds.
 
-Field note: Wind exposure category reviewed for ZIP sector 22031/22124/22181.
+Clover mite staining on Oakton, VA exterior cladding follows foundation mulch against brick ledges.
 
-Field note: Connection points spot-checked where accessible (ZIP 22031/22124/22181 zone).
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Dispatch sectors sampled: ZIP 22031, 22124, 22181 (county grid: Fairfax County).
+Silverfish activity in Oakton, VA attics tracks cardboard storage and ridge vent gaps.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Tip: Date bait station lids when servicing Oakton, VA perimeter lines.
+
+Yellow jacket nests in Oakton, VA soffit cavities peak in late summer routing windows.
+
+Carpenter ant frass in Oakton, VA window sills may indicate moisture-softened framing.
+
+Perimeter dossier 512390: bait station anchor map and mulch bridge risk flagged for Oakton, VA county Fairfax County (ZIP 22031).
+
+On-site sector marker: Fairfax County / ZIP 22181 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22031-5fb7cc9c

@@ -11,26 +11,43 @@ lng: -121.1400
 zipSample: ["95630", "95671", "95763"]
 zipCodes: ["95630", "95763", "95671"]
 localPaths: ["Sacramento County / ZIP 95763 sector", "Sacramento County / elevation 328 ft band", "Sacramento County / ZIP 95671 sector", "Sacramento County / coords 38.6700, -121.1400", "Sacramento County / ZIP 95630 sector"]
-zillowHomeValueUsd: 763756
 ---
 
-**Engineering Notice for Folsom:** Structural loading calculated based on 328 ft terrain assessment. Regional dispatch grid: Sacramento County.
+**Engineering Notice for Folsom:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sacramento County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Exclusion gaps at garage jambs in Folsom, CA are common rodent access points.
 
-Transparent pricing helps you compare like-for-like scope items.
+Silverfish activity in Folsom, CA attics tracks cardboard storage and ridge vent gaps.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Humidity in Folsom, CA can sustain cockroach harborages behind appliance voids.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Clover mite staining on Folsom, CA exterior cladding follows foundation mulch against brick ledges.
 
-Field note: Connection points spot-checked where accessible (ZIP 95763/95630/95671 zone).
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Folsom, CA.
 
-Field note: Access points and staging constraints recorded for ZIP 95763/95630/95671 coverage.
+Carpenter ant frass in Folsom, CA window sills may indicate moisture-softened framing.
 
-Dispatch sectors sampled: ZIP 95763, 95630, 95671 (county grid: Sacramento County).
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Stink bug overwinter seams in Folsom, CA exterior cladding laps require exclusion foam rated for UV exposure.
+
+Mosquito breeding in Folsom, CA catch basins can amplify perimeter callbacks.
+
+County grid Sacramento County informs routing near ZIP 95630.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 95630.
+
+Flea pupae survive vacuuming in Folsom, CA carpet fibers unless heat treatment follows.
+
+Intercept log 252278: bed bug intercept count staged before Folsom, CA interior gel zones.
+
+Seasonal cue 252278: cluster fly attic staging reviewed for Folsom, CA soffit cavities.
+
+On-site sector marker: Sacramento County / ZIP 95763 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95630-fc27d372

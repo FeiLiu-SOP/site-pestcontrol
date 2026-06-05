@@ -11,25 +11,43 @@ lng: -97.3500
 zipSample: ["73070", "73072", "73069", "73071", "73019"]
 zipCodes: ["73069", "73068", "73071", "74857", "73072", "73070", "73026", "73019"]
 localPaths: ["Cleveland County / primary ZIP 73019", "Cleveland County / coords 35.2300, -97.3500", "Cleveland County / elevation 1152 ft band", "Cleveland County / ZIP 73070 sector", "Cleveland County / ZIP 73071 sector"]
-zillowHomeValueUsd: 318820
 ---
 
-**Engineering Notice for Norman:** Structural loading calculated based on 1152 ft terrain assessment. Regional dispatch grid: Cleveland County.
+**Engineering Notice for Norman:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cleveland County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Log pet access routes when bait stations are placed.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 73019.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Tip: avoid large upfront payments without milestones.
+Bird mites in Norman, OK exhaust vents can persist after host nests are removed.
 
-Field note: Wind exposure category reviewed for ZIP sector 73026/74857/73068.
+Fire ant mounds in Norman, OK drive seams need granule rotation after irrigation events.
 
-Dispatch sectors sampled: ZIP 73026, 74857, 73068, 73071, 73019 (county grid: Cleveland County).
+Risk flag: Overwatered Norman, OK planters can restart ant bridges within two weeks.
+
+Drain fly biofilm in Norman, OK floor drains signals grease traps need service before gel baits.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Norman, OK.
+
+Stink bug overwinter seams in Norman, OK cladding service laps require exclusion foam rated for UV exposure.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+Seasonal pest pressure in Norman, OK shifts between moisture ants and dry-wood vectors.
+
+Exclusion audit 542337: exclusion mesh gauge and rodent runway grease mark reviewed for Norman, OK at 35.2300/-97.3500.
+
+Seasonal cue 542337: cluster fly attic staging reviewed for Norman, OK soffit cavities.
+
+On-site sector marker: Cleveland County / ZIP 73072 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-73019-7e6715db

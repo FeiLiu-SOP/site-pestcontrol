@@ -11,27 +11,41 @@ lng: -88.2900
 zipSample: ["60503", "60505", "60569", "60502", "60507"]
 zipCodes: ["60503", "60569", "60598", "60502", "60519", "60572", "60506", "60599", "60568", "60504", "60507", "60505"]
 localPaths: ["Kane County / coords 41.7600, -88.2900", "Kane County / ZIP 60507 sector", "Kane County / ZIP 60503 sector", "Kane County / elevation 728 ft band", "Kane County / ZIP 60502 sector"]
-zillowHomeValueUsd: 243430
 ---
 
-**Engineering Notice for Aurora:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Kane County.
+**Engineering Notice for Aurora:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kane County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Keep pet food elevated and sealed between service visits.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Aurora, IL.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Aurora, IL, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 60505.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-We coordinate local dispatch coverage around Aurora, IL and nearby ZIP sectors.
+Silverfish activity in Aurora, IL attics tracks cardboard storage and ridge vent gaps.
 
-Field note: Connection points spot-checked where accessible (ZIP 60569/60598/60503 zone).
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 60505.
 
-Field note: Access points and staging constraints recorded for ZIP 60569/60598/60503 coverage.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Dispatch sectors sampled: ZIP 60569, 60598, 60503, 60505, 60506 (county grid: Kane County).
+Step: label treatment zones for occupant re-entry timing.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Powderpost beetle exit holes in Aurora, IL trim can be mistaken for dry-wood frass without magnification.
+
+Flea pupae survive vacuuming in Aurora, IL carpet fibers unless heat treatment follows.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Perimeter granule carriers in Aurora, IL clay soils may need lighter irrigation before application.
+
+Drain fly biofilm in Aurora, IL floor drains signals grease traps need service before gel baits.
+
+Seasonal cue 128668: cluster fly attic staging reviewed for Aurora, IL soffit cavities.
+
+ZIP-corridor snapshot for Aurora, IL: sampled sectors include 60569, 60599, 60506, 60503, 60505, 60519, 60507, 60572; county routing grid remains Kane County.
 
 Service reference: IL-60505-482ec2b2

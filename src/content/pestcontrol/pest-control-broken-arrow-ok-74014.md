@@ -11,27 +11,39 @@ lng: -95.7800
 zipSample: ["74013", "74014", "74012", "74011"]
 zipCodes: ["74014", "74012", "74011", "74013"]
 localPaths: ["Tulsa County / ZIP 74014 sector", "Tulsa County / primary ZIP 74014", "Tulsa County / elevation 728 ft band", "Tulsa County / coords 36.0400, -95.7800", "Tulsa County / ZIP 74012 sector"]
-zillowHomeValueUsd: 300892
 ---
 
-**Engineering Notice for Broken Arrow:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Tulsa County.
+**Engineering Notice for Broken Arrow:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tulsa County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Our service coordination centers on Broken Arrow, OK coverage windows and verified intake details.
+Silverfish activity in Broken Arrow, OK attics tracks cardboard storage and ridge vent gaps.
 
-A written scope helps prevent rework and mismatched expectations.
+Carpenter ant frass in Broken Arrow, OK window sills may indicate moisture-softened framing.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Broken Arrow, OK, but intake notes help reduce delays.
+Bird mites in Broken Arrow, OK exhaust vents can persist after host nests are removed.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 74014.
+FAQ: Can bed bugs spread room-to-room in Broken Arrow, OK row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Connection points spot-checked where accessible (ZIP 74011/74014/74012 zone).
+Risk flag: Overwatered Broken Arrow, OK planters can restart ant bridges within two weeks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 74011/74014/74012.
+Tip: Log pet access routes when bait stations are placed.
 
-Dispatch sectors sampled: ZIP 74011, 74014, 74012, 74013 (county grid: Tulsa County).
+Risk flag: In Broken Arrow, OK, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+IGR packets for Broken Arrow, OK roach cycles should be dated on station lids.
+
+Spider populations in Broken Arrow, OK eaves can signal insect prey density.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Perimeter dossier 702069: bait station anchor map and mulch bridge risk flagged for Broken Arrow, OK county Tulsa County (ZIP 74014).
+
+On-site sector marker: Tulsa County / coords 36.0400, -95.7800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-74014-1e0bbaaa

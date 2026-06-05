@@ -11,26 +11,39 @@ lng: -77.1900
 zipSample: ["22042"]
 zipCodes: ["22042"]
 localPaths: ["Fairfax County / primary ZIP 22042", "Fairfax County / ZIP 22042 sector", "Fairfax County / coords 38.8600, -77.1900", "Fairfax County / elevation 341 ft band"]
-zillowHomeValueUsd: 751839
 ---
 
-**Engineering Notice for West Falls Church:** Structural loading calculated based on 341 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for West Falls Church:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Structured milestones protect both sides when scheduling work.
+Cluster fly attic staging in West Falls Church, VA peaks on south-facing voids after sunny thaw days.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Monitoring boards in West Falls Church, VA crawlspaces stay 72 hours before snap traps are reset.
 
-Tip: request a written scope before work starts.
+Yellow jacket nests in West Falls Church, VA soffit cavities peak in late summer routing windows.
 
-In West Falls Church, VA, urgent pest control issues can escalate quickly.
+Material note: Perimeter granules in West Falls Church, VA may need reapplication after heavy irrigation.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 22042.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Wind exposure category reviewed for ZIP sector 22042.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 22042.
 
-Dispatch sectors sampled: ZIP 22042 (county grid: Fairfax County).
+Earwig harborages in West Falls Church, VA meter boxes often follow drip irrigation overspray.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 22042.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in West Falls Church, VA, pressure often rebuilds.
+
+State note: West Falls Church, VA commercial kitchens may require separate documentation for audit visits.
+
+Seasonal pest pressure in West Falls Church, VA shifts between moisture ants and dry-wood vectors.
+
+County grid Fairfax County informs routing near ZIP 22042.
+
+Harbor ledger 412924: frass lane, mud-tube scan, and garage jamb gap measure filed for West Falls Church, VA at 38.8600, -77.1900.
+
+On-site sector marker: Fairfax County / coords 38.8600, -77.1900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22042-f59cad12

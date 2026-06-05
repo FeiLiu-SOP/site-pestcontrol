@@ -11,25 +11,43 @@ lng: -121.0500
 zipSample: ["95682", "95762"]
 zipCodes: ["95762", "95682"]
 localPaths: ["El Dorado County / primary ZIP 95762", "El Dorado County / coords 38.6700, -121.0500", "El Dorado County / ZIP 95762 sector", "El Dorado County / ZIP 95682 sector", "El Dorado County / elevation 1070 ft band"]
-zillowHomeValueUsd: 911275
 ---
 
-**Engineering Notice for El Dorado Hills:** Structural loading calculated based on 1070 ft terrain assessment. Regional dispatch grid: El Dorado County.
+**Engineering Notice for El Dorado Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: El Dorado County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 95762.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in El Dorado Hills, CA, but intake notes help reduce delays.
+Material note: Perimeter granules in El Dorado Hills, CA may need reapplication after heavy irrigation.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: request a written scope before work starts.
+Yellow jacket nests in El Dorado Hills, CA soffit cavities peak in late summer routing windows.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Moisture pathway inspection logged near ZIP 95762/95682 intake.
+State note: El Dorado Hills, CA commercial kitchens may require separate documentation for audit visits.
 
-Dispatch sectors sampled: ZIP 95762, 95682 (county grid: El Dorado County).
+Mosquito breeding in El Dorado Hills, CA catch basins can amplify perimeter callbacks.
+
+County grid El Dorado County informs routing near ZIP 95762.
+
+Mud dauber nests in El Dorado Hills, CA porch ceilings are benign but signal prey density for spiders.
+
+Powderpost beetle exit holes in El Dorado Hills, CA trim can be mistaken for dry-wood frass without magnification.
+
+In El Dorado Hills, CA, subterranean termite swarms often follow warm rain windows.
+
+Carpenter ant frass in El Dorado Hills, CA window sills may indicate moisture-softened framing.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 95762.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Zone map 498908: attic insulation disturbance trace and pantry pest source logged for El Dorado Hills, CA sector 95762.
+
+Perimeter dossier 498908: bait station anchor map and mulch bridge risk flagged for El Dorado Hills, CA county El Dorado County (ZIP 95762).
+
+On-site sector marker: El Dorado County / coords 38.6700, -121.0500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95762-8b7dbf16

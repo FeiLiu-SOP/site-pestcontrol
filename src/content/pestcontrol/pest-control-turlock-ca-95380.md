@@ -11,27 +11,39 @@ lng: -120.8600
 zipSample: ["95381", "95382", "95380"]
 zipCodes: ["95382", "95380", "95381"]
 localPaths: ["Stanislaus County / ZIP 95381 sector", "Stanislaus County / coords 37.5100, -120.8600", "Stanislaus County / primary ZIP 95380", "Stanislaus County / elevation 102 ft band", "Stanislaus County / ZIP 95382 sector"]
-zillowHomeValueUsd: 445888
 ---
 
-**Engineering Notice for Turlock:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Stanislaus County.
+**Engineering Notice for Turlock:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Stanislaus County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Turlock, CA, but intake notes help reduce delays.
+Drain fly biofilm in Turlock, CA floor drains signals grease traps need service before gel baits.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Stink bug overwinter seams in Turlock, CA vinyl panels laps require exclusion foam rated for UV exposure.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 95380.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Tip: avoid large upfront payments without milestones.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Access points and staging constraints recorded for ZIP 95382/95380/95381 coverage.
+Mud dauber nests in Turlock, CA porch ceilings are benign but signal prey density for spiders.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 95382/95380/95381.
+FAQ: Why schedule quarterly instead of monthly in Turlock, CA? Species pressure and label intervals dictate cadence.
 
-Dispatch sectors sampled: ZIP 95382, 95380, 95381 (county grid: Stanislaus County).
+Flea pupae survive vacuuming in Turlock, CA carpet fibers unless heat treatment follows.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Monitoring boards in Turlock, CA crawlspaces stay 72 hours before snap traps are reset.
+
+Material note: Perimeter granules in Turlock, CA may need reapplication after heavy irrigation.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Intercept log 421108: bed bug intercept count staged before Turlock, CA interior gel zones.
+
+On-site sector marker: Stanislaus County / ZIP 95380 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95380-3f5761a1

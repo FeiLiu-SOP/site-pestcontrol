@@ -11,26 +11,41 @@ lng: -80.2500
 zipSample: ["33321", "33319", "33359"]
 zipCodes: ["33321", "33319", "33359"]
 localPaths: ["Broward County / ZIP 33319 sector", "Broward County / ZIP 33321 sector", "Broward County / coords 26.2100, -80.2500", "Broward County / elevation 20 ft band", "Broward County / primary ZIP 33321"]
-zillowHomeValueUsd: 296704
 ---
 
-**Engineering Notice for Tamarac:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Broward County.
+**Engineering Notice for Tamarac:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.
 
 
-Tip: avoid large upfront payments without milestones.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: record station placement maps for follow-up visits.
 
-We coordinate local dispatch coverage around Tamarac, FL and nearby ZIP sectors.
+Risk flag: Overwatered Tamarac, FL planters can restart ant bridges within two weeks.
 
-Structured milestones protect both sides when scheduling work.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Wind exposure category reviewed for ZIP sector 33319/33321/33359.
+Silverfish activity in Tamarac, FL attics tracks cardboard storage and ridge vent gaps.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33319/33321/33359.
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
 
-Dispatch sectors sampled: ZIP 33319, 33321, 33359 (county grid: Broward County).
+Material note: Perimeter granules in Tamarac, FL may need reapplication after heavy irrigation.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Stored cardboard in Tamarac, FL garages can accelerate pantry pest cycles.
+
+In Tamarac, FL, subterranean termite swarms often follow warm rain windows.
+
+Attic misting in Tamarac, FL requires combustion air clearance verified before fans restart.
+
+Harbor ledger 302597: frass lane, mud-tube scan, and garage jamb gap measure filed for Tamarac, FL at 26.2100, -80.2500.
+
+Coordinate-anchored dispatch note: center reference 26.2100, -80.2500 at elevation ~20 ft aligns with Broward County intake staging.
 
 Service reference: FL-33321-06832b0b

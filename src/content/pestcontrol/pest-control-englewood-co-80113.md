@@ -11,24 +11,39 @@ lng: -104.9900
 zipSample: ["80151", "80110", "80150", "80113"]
 zipCodes: ["80113", "80151", "80150", "80110"]
 localPaths: ["Arapahoe County / ZIP 80151 sector", "Arapahoe County / ZIP 80150 sector", "Arapahoe County / primary ZIP 80113", "Arapahoe County / ZIP 80113 sector", "Arapahoe County / ZIP 80110 sector"]
-zillowHomeValueUsd: 646666
 ---
 
-**Engineering Notice for Englewood:** Structural loading calculated based on 5367 ft terrain assessment. Regional dispatch grid: Arapahoe County.
+**Engineering Notice for Englewood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Arapahoe County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Tip: request a written scope before work starts.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Englewood, CO.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Transparent pricing helps you compare like-for-like scope items.
+Dry-wood termite pellets in Englewood, CO attics may appear before exterior mud tubes.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Wind exposure category reviewed for ZIP sector 80151/80110/80113.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Dispatch sectors sampled: ZIP 80151, 80110, 80113, 80150 (county grid: Arapahoe County).
+Material note: Perimeter granules in Englewood, CO may need reapplication after heavy irrigation.
+
+State note: Englewood, CO commercial kitchens may require separate documentation for audit visits.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Wildlife odors in Englewood, CO crawlspaces may attract secondary pest activity.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+FAQ: Can bed bugs spread room-to-room in Englewood, CO row homes? Wall voids and shared ducts accelerate transfer.
+
+Zone map 483159: attic insulation disturbance trace and pantry pest source logged for Englewood, CO sector 80113.
+
+Intercept log 483159: bed bug intercept count staged before Englewood, CO interior gel zones.
+
+On-site sector marker: Arapahoe County / primary ZIP 80113 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80113-8f158102

@@ -11,27 +11,37 @@ lng: -83.4900
 zipSample: ["48375", "48376", "48374", "48377", "48167"]
 zipCodes: ["48375", "48377", "48374", "48376", "48167"]
 localPaths: ["Oakland County / ZIP 48375 sector", "Oakland County / primary ZIP 48377", "Oakland County / ZIP 48377 sector", "Oakland County / ZIP 48374 sector", "Oakland County / elevation 935 ft band"]
-zillowHomeValueUsd: 379366
 ---
 
-**Engineering Notice for Novi:** Structural loading calculated based on 935 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for Novi:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oakland County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Local conditions in Novi, MI can affect timelines and material choices.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Our service coordination centers on Novi, MI coverage windows and verified intake details.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Novi, MI.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 48377.
+FAQ: What is exclusion? Without sealing entry points in Novi, MI, pressure often rebuilds.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48375/48377/48167.
+Mud dauber nests in Novi, MI porch ceilings are benign but signal prey density for spiders.
 
-Field note: Connection points spot-checked where accessible (ZIP 48375/48377/48167 zone).
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Dispatch sectors sampled: ZIP 48375, 48377, 48167, 48376, 48374 (county grid: Oakland County).
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Novi, MI.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Monitoring boards in Novi, MI crawlspaces stay 72 hours before snap traps are reset.
+
+Attic misting in Novi, MI requires combustion air clearance verified before fans restart.
+
+Seasonal cue 543061: cluster fly attic staging reviewed for Novi, MI soffit cavities.
+
+On-site sector marker: Oakland County / ZIP 48377 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48377-432cea3f

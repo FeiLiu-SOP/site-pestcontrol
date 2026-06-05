@@ -11,24 +11,41 @@ lng: -97.8900
 zipSample: ["78666", "78640"]
 zipCodes: ["78666", "78640"]
 localPaths: ["Hays County / primary ZIP 78666", "Hays County / ZIP 78640 sector", "Hays County / elevation 764 ft band", "Hays County / coords 29.9900, -97.8900", "Hays County / ZIP 78666 sector"]
-zillowHomeValueUsd: 313972
 ---
 
-**Engineering Notice for Kyle:** Structural loading calculated based on 764 ft terrain assessment. Regional dispatch grid: Hays County.
+**Engineering Notice for Kyle:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hays County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Mosquito breeding in Kyle, TX catch basins can amplify perimeter callbacks.
 
-Tip: request a written scope before work starts.
+Request an inspection with species ID before treatment. Serving ZIP Code: 78666.
 
-Structured milestones protect both sides when scheduling work.
+Across Kyle, TX, rodent entry points frequently track utility penetrations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78666/78640.
+Cluster fly attic staging in Kyle, TX peaks on south-facing voids after sunny thaw days.
 
-Dispatch sectors sampled: ZIP 78666, 78640 (county grid: Hays County).
+Monitoring boards in Kyle, TX crawlspaces stay 72 hours before snap traps are reset.
+
+Stink bug overwinter seams in Kyle, TX cladding service laps require exclusion foam rated for UV exposure.
+
+Step: record station placement maps for follow-up visits.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Zone map 679743: attic insulation disturbance trace and pantry pest source logged for Kyle, TX sector 78666.
+
+Harbor ledger 679743: frass lane, mud-tube scan, and garage jamb gap measure filed for Kyle, TX at 29.9900, -97.8900.
+
+On-site sector marker: Hays County / primary ZIP 78666 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78666-41d68d88

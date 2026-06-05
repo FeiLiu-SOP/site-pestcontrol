@@ -11,24 +11,39 @@ lng: -117.2800
 zipSample: ["92009", "92008", "92013", "92011", "92018"]
 zipCodes: ["92011", "92018", "92010", "92008", "92013", "92009"]
 localPaths: ["San Diego County / ZIP 92009 sector", "San Diego County / elevation 305 ft band", "San Diego County / primary ZIP 92008", "San Diego County / ZIP 92013 sector", "San Diego County / ZIP 92018 sector"]
-zillowHomeValueUsd: 1309728
 ---
 
-**Engineering Notice for Carlsbad:** Structural loading calculated based on 305 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for Carlsbad:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.
 
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Tip: address recurring issues early to prevent bigger damage.
+Clover mite staining on Carlsbad, CA wall restoration follows foundation mulch against brick ledges.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Can bed bugs spread room-to-room in Carlsbad, CA row homes? Wall voids and shared ducts accelerate transfer.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Field note: Wind exposure category reviewed for ZIP sector 92009/92010/92008.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Dispatch sectors sampled: ZIP 92009, 92010, 92008, 92013, 92018 (county grid: San Diego County).
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Bird mites in Carlsbad, CA exhaust vents can persist after host nests are removed.
+
+Tip: Date bait station lids when servicing Carlsbad, CA perimeter lines.
+
+Step: record station placement maps for follow-up visits.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 92008.
+
+Drain fly biofilm in Carlsbad, CA floor drains signals grease traps need service before gel baits.
+
+Yellow jacket nests in Carlsbad, CA soffit cavities peak in late summer routing windows.
+
+Intercept log 337518: bed bug intercept count staged before Carlsbad, CA interior gel zones.
+
+On-site sector marker: San Diego County / ZIP 92011 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92008-728c6f68

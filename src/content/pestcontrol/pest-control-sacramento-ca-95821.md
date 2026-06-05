@@ -11,24 +11,39 @@ lng: -121.4700
 zipSample: ["95832", "94269", "94295", "94236", "94277"]
 zipCodes: ["94295", "95851", "95852", "94285", "95831", "94289", "94278", "94254", "94258", "94268", "94271", "94297"]
 localPaths: ["Sacramento County / elevation 30 ft band", "Sacramento County / ZIP 94236 sector", "Sacramento County / ZIP 94269 sector", "Sacramento County / primary ZIP 95821", "Sacramento County / ZIP 94277 sector"]
-zillowHomeValueUsd: 498679
 ---
 
-**Engineering Notice for Sacramento:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Sacramento County.
+**Engineering Notice for Sacramento:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sacramento County.
 
 
-Our service coordination centers on Sacramento, CA coverage windows and verified intake details.
+FAQ: Why do pests return after spraying? Without sealing entry points in Sacramento, CA, pressure often rebuilds.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 95821.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Sacramento, CA, but intake notes help reduce delays.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+IGR packets for Sacramento, CA roach cycles should be dated on station lids.
 
-Field note: Moisture pathway inspection logged near ZIP 95816/95826/94259 intake.
+Tip: Date bait station lids when servicing Sacramento, CA perimeter lines.
 
-Dispatch sectors sampled: ZIP 95816, 95826, 94259, 95840, 94257 (county grid: Sacramento County).
+Request an inspection with species ID before treatment. Serving ZIP Code: 95821.
+
+Risk flag: Overwatered Sacramento, CA planters can restart ant bridges within two weeks.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Step: record station placement maps for follow-up visits.
+
+Dry-wood termite pellets in Sacramento, CA attics may appear before exterior mud tubes.
+
+Perimeter dossier 742100: bait station anchor map and mulch bridge risk flagged for Sacramento, CA county Sacramento County (ZIP 95821).
+
+Intercept log 742100: bed bug intercept count staged before Sacramento, CA interior gel zones.
+
+ZIP-corridor snapshot for Sacramento, CA: sampled sectors include 95822, 94269, 95816, 94258, 94293, 94279, 94240, 94204; county routing grid remains Sacramento County.
 
 Service reference: CA-95821-aa1c9377

@@ -11,27 +11,39 @@ lng: -80.8300
 zipSample: ["28117", "28115"]
 zipCodes: ["28115", "28117"]
 localPaths: ["Iredell County / primary ZIP 28117", "Iredell County / coords 35.5800, -80.8300", "Iredell County / ZIP 28115 sector", "Iredell County / ZIP 28117 sector", "Iredell County / elevation 853 ft band"]
-zillowHomeValueUsd: 632036
 ---
 
-**Engineering Notice for Mooresville:** Structural loading calculated based on 853 ft terrain assessment. Regional dispatch grid: Iredell County.
+**Engineering Notice for Mooresville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Iredell County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Keep pet food elevated and sealed between service visits.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 28117.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Mooresville, NC.
 
-Tip: request a written scope before work starts.
+Wildlife odors in Mooresville, NC crawlspaces may attract secondary pest activity.
 
-Field note: Moisture pathway inspection logged near ZIP 28117/28115 intake.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28117/28115.
+Silverfish activity in Mooresville, NC attics tracks cardboard storage and ridge vent gaps.
 
-Dispatch sectors sampled: ZIP 28117, 28115 (county grid: Iredell County).
+Monitoring boards in Mooresville, NC crawlspaces stay 72 hours before snap traps are reset.
+
+Bird mites in Mooresville, NC exhaust vents can persist after host nests are removed.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Risk flag: In Mooresville, NC, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 28117.
+
+Seasonal cue 996641: cluster fly attic staging reviewed for Mooresville, NC soffit cavities.
+
+Intercept log 996641: bed bug intercept count staged before Mooresville, NC interior gel zones.
+
+ZIP-corridor snapshot for Mooresville, NC: sampled sectors include 28117, 28115; county routing grid remains Iredell County.
 
 Service reference: NC-28117-4a5936ac

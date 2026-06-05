@@ -11,26 +11,41 @@ lng: -87.6100
 zipSample: ["61832", "61834"]
 zipCodes: ["61834", "61832"]
 localPaths: ["Vermilion County / coords 40.1400, -87.6100", "Vermilion County / elevation 650 ft band", "Vermilion County / ZIP 61834 sector", "Vermilion County / ZIP 61832 sector", "Vermilion County / primary ZIP 61834"]
-zillowHomeValueUsd: 183416
 ---
 
-**Engineering Notice for Danville:** Structural loading calculated based on 650 ft terrain assessment. Regional dispatch grid: Vermilion County.
+**Engineering Notice for Danville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Vermilion County.
 
 
-Our service coordination centers on Danville, IL coverage windows and verified intake details.
+Silverfish activity in Danville, IL attics tracks cardboard storage and ridge vent gaps.
 
-Homeowners in Danville, IL often face sudden pest control problems that require fast action.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Perimeter granules in Danville, IL may need reapplication after heavy irrigation.
 
-Structured milestones protect both sides when scheduling work.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 61834/61832.
+Mud dauber nests in Danville, IL porch ceilings are benign but signal prey density for spiders.
 
-Field note: Access points and staging constraints recorded for ZIP 61834/61832 coverage.
+Attic insulation disturbance in Danville, IL may indicate wildlife nesting routes.
 
-Dispatch sectors sampled: ZIP 61834, 61832 (county grid: Vermilion County).
+FAQ: Can bed bugs spread room-to-room in Danville, IL row homes? Wall voids and shared ducts accelerate transfer.
+
+State note: Danville, IL commercial kitchens may require separate documentation for audit visits.
+
+Exclusion gaps at garage jambs in Danville, IL are common rodent access points.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Tip: Date bait station lids when servicing Danville, IL perimeter lines.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 61834.
+
+Perimeter dossier 968957: bait station anchor map and mulch bridge risk flagged for Danville, IL county Vermilion County (ZIP 61834).
+
+Intercept log 968957: bed bug intercept count staged before Danville, IL interior gel zones.
+
+On-site sector marker: Vermilion County / ZIP 61832 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-61834-c1ca8f4e

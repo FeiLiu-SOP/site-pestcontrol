@@ -11,26 +11,41 @@ lng: -85.6900
 zipSample: ["46011", "46016", "46014", "46018", "46013"]
 zipCodes: ["46014", "46013", "46011", "46012", "46018", "46015", "46016"]
 localPaths: ["Madison County / ZIP 46014 sector", "Madison County / coords 40.0900, -85.6900", "Madison County / elevation 883 ft band", "Madison County / ZIP 46018 sector", "Madison County / ZIP 46016 sector"]
-zillowHomeValueUsd: 84924
 ---
 
-**Engineering Notice for Anderson:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Madison County.
+**Engineering Notice for Anderson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Madison County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Cluster fly attic staging in Anderson, IN peaks on south-facing voids after sunny thaw days.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Attic misting in Anderson, IN requires combustion air clearance verified before fans restart.
 
-Tip: request a written scope before work starts.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Our service coordination centers on Anderson, IN coverage windows and verified intake details.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Access points and staging constraints recorded for ZIP 46014/46013/46012 coverage.
+Silverfish activity in Anderson, IN attics tracks cardboard storage and ridge vent gaps.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 46014/46013/46012.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Dispatch sectors sampled: ZIP 46014, 46013, 46012, 46016, 46011 (county grid: Madison County).
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Bird mites in Anderson, IN exhaust vents can persist after host nests are removed.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Spider populations in Anderson, IN eaves can signal insect prey density.
+
+Seasonal pest pressure in Anderson, IN shifts between moisture ants and dry-wood vectors.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Intercept log 904844: bed bug intercept count staged before Anderson, IN interior gel zones.
+
+Harbor ledger 904844: frass lane, mud-tube scan, and garage jamb gap measure filed for Anderson, IN at 40.0900, -85.6900.
+
+Regional mesh label Madison County: moisture and logistics baselines are keyed to Anderson, IN before niche-specific work begins.
 
 Service reference: IN-46016-e588a4fd

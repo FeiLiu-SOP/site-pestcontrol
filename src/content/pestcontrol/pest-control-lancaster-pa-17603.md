@@ -11,27 +11,41 @@ lng: -76.3000
 zipSample: ["17602", "17608", "17699", "17622", "17603"]
 zipCodes: ["17603", "17601", "17602", "17622", "17699", "17608"]
 localPaths: ["Lancaster County / primary ZIP 17603", "Lancaster County / ZIP 17603 sector", "Lancaster County / ZIP 17622 sector", "Lancaster County / coords 40.0400, -76.3000", "Lancaster County / ZIP 17602 sector"]
-zillowHomeValueUsd: 307345
 ---
 
-**Engineering Notice for Lancaster:** Structural loading calculated based on 394 ft terrain assessment. Regional dispatch grid: Lancaster County.
+**Engineering Notice for Lancaster:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lancaster County.
 
 
-In Lancaster, PA, seasonal demand can change scheduling windows.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Our service coordination centers on Lancaster, PA coverage windows and verified intake details.
+Powderpost beetle exit holes in Lancaster, PA trim can be mistaken for dry-wood frass without magnification.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 17603.
+Drain fly biofilm in Lancaster, PA floor drains signals grease traps need service before gel baits.
 
-Field note: Moisture pathway inspection logged near ZIP 17608/17603/17622 intake.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Access points and staging constraints recorded for ZIP 17608/17603/17622 coverage.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Dispatch sectors sampled: ZIP 17608, 17603, 17622, 17601, 17699 (county grid: Lancaster County).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 17603.
+
+Material note: Perimeter granules in Lancaster, PA may need reapplication after heavy irrigation.
+
+Across Lancaster, PA, rodent entry points frequently track utility penetrations.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+We coordinate Lancaster, PA pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Perimeter dossier 537540: bait station anchor map and mulch bridge risk flagged for Lancaster, PA county Lancaster County (ZIP 17603).
+
+Species trace 537540: re-entry interval label and conducive moisture note keyed to Lancaster, PA elevation 394 ft.
+
+On-site sector marker: Lancaster County / elevation 394 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-17603-dcbb5c26

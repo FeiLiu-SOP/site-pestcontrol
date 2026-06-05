@@ -11,26 +11,41 @@ lng: -82.6600
 zipSample: ["34655"]
 zipCodes: ["34655"]
 localPaths: ["Pasco County / ZIP 34655 sector", "Pasco County / elevation 43 ft band", "Pasco County / coords 28.1800, -82.6600", "Pasco County / primary ZIP 34655"]
-zillowHomeValueUsd: 378314
 ---
 
-**Engineering Notice for Trinity:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Pasco County.
+**Engineering Notice for Trinity:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pasco County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Trinity, FL, but intake notes help reduce delays.
+Clover mite staining on Trinity, FL vinyl panels follows foundation mulch against brick ledges.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 34655.
 
-We coordinate local dispatch coverage around Trinity, FL and nearby ZIP sectors.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Tip: request a written scope before work starts.
+Wildlife odors in Trinity, FL crawlspaces may attract secondary pest activity.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Moisture pathway inspection logged near ZIP 34655 intake.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 34655.
+Powderpost beetle exit holes in Trinity, FL trim can be mistaken for dry-wood frass without magnification.
 
-Dispatch sectors sampled: ZIP 34655 (county grid: Pasco County).
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 34655.
+
+Perimeter granule carriers in Trinity, FL clay soils may need lighter irrigation before application.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Stored cardboard in Trinity, FL garages can accelerate pantry pest cycles.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Perimeter dossier 503914: bait station anchor map and mulch bridge risk flagged for Trinity, FL county Pasco County (ZIP 34655).
+
+Regional mesh label Pasco County: moisture and logistics baselines are keyed to Trinity, FL before niche-specific work begins.
 
 Service reference: FL-34655-9320bda6

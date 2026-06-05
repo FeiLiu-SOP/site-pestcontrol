@@ -11,24 +11,43 @@ lng: -121.5600
 zipSample: ["95966", "95965", "95940"]
 zipCodes: ["95940", "95965", "95966"]
 localPaths: ["Butte County / ZIP 95940 sector", "Butte County / elevation 154 ft band", "Butte County / coords 39.5000, -121.5600", "Butte County / ZIP 95966 sector", "Butte County / ZIP 95965 sector"]
-zillowHomeValueUsd: 305120
 ---
 
-**Engineering Notice for Oroville:** Structural loading calculated based on 154 ft terrain assessment. Regional dispatch grid: Butte County.
+**Engineering Notice for Oroville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Butte County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Tip: confirm licensing and insurance before approving work.
+Silverfish activity in Oroville, CA attics tracks cardboard storage and ridge vent gaps.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Our service coordination centers on Oroville, CA coverage windows and verified intake details.
+Perimeter mulch beds in Oroville, CA should be reviewed for ant bridge paths.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Oroville, CA, but intake notes help reduce delays.
+Carpenter ant frass in Oroville, CA window sills may indicate moisture-softened framing.
 
-Field note: Access points and staging constraints recorded for ZIP 95965/95940/95966 coverage.
+Dry-wood termite pellets in Oroville, CA attics may appear before exterior mud tubes.
 
-Dispatch sectors sampled: ZIP 95965, 95940, 95966 (county grid: Butte County).
+Clover mite staining on Oroville, CA exterior cladding follows foundation mulch against brick ledges.
+
+Bird mites in Oroville, CA exhaust vents can persist after host nests are removed.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Risk flag: Overwatered Oroville, CA planters can restart ant bridges within two weeks.
+
+Mud dauber nests in Oroville, CA porch ceilings are benign but signal prey density for spiders.
+
+Perimeter granule carriers in Oroville, CA clay soils may need lighter irrigation before application.
+
+State note: Oroville, CA commercial kitchens may require separate documentation for audit visits.
+
+Cluster fly attic staging in Oroville, CA peaks on south-facing voids after sunny thaw days.
+
+Harbor ledger 827211: frass lane, mud-tube scan, and garage jamb gap measure filed for Oroville, CA at 39.5000, -121.5600.
+
+Perimeter dossier 827211: bait station anchor map and mulch bridge risk flagged for Oroville, CA county Butte County (ZIP 95965).
+
+ZIP-corridor snapshot for Oroville, CA: sampled sectors include 95965, 95940, 95966; county routing grid remains Butte County.
 
 Service reference: CA-95965-03437096

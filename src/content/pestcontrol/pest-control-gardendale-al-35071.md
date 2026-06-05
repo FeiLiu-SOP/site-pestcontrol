@@ -11,24 +11,41 @@ lng: -86.8100
 zipSample: ["35071", "35119"]
 zipCodes: ["35071", "35119"]
 localPaths: ["Jefferson County / ZIP 35071 sector", "Jefferson County / elevation 607 ft band", "Jefferson County / ZIP 35119 sector", "Jefferson County / primary ZIP 35071", "Jefferson County / coords 33.6700, -86.8100"]
-zillowHomeValueUsd: 271335
 ---
 
-**Engineering Notice for Gardendale:** Structural loading calculated based on 607 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Gardendale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Gardendale, AL, but intake notes help reduce delays.
+Monitoring boards in Gardendale, AL crawlspaces stay 72 hours before snap traps are reset.
 
-In Gardendale, AL, urgent pest control issues can escalate quickly.
+Attic insulation disturbance in Gardendale, AL may indicate wildlife nesting routes.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Gardendale, AL.
 
-Tip: request a written scope before work starts.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: verify attic access safety before insulation disturbance.
 
-Field note: Wind exposure category reviewed for ZIP sector 35119/35071.
+Across Gardendale, AL, rodent entry points frequently track utility penetrations.
 
-Dispatch sectors sampled: ZIP 35119, 35071 (county grid: Jefferson County).
+Risk flag: Overwatered Gardendale, AL planters can restart ant bridges within two weeks.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Bird mites in Gardendale, AL exhaust vents can persist after host nests are removed.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Perimeter granule carriers in Gardendale, AL clay soils may need lighter irrigation before application.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Harbor ledger 659961: frass lane, mud-tube scan, and garage jamb gap measure filed for Gardendale, AL at 33.6700, -86.8100.
+
+Perimeter dossier 659961: bait station anchor map and mulch bridge risk flagged for Gardendale, AL county Jefferson County (ZIP 35071).
+
+On-site sector marker: Jefferson County / ZIP 35119 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35071-6e6703dc

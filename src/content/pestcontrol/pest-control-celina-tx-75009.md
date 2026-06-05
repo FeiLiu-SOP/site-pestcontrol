@@ -11,26 +11,43 @@ lng: -96.7900
 zipSample: ["75078", "75009"]
 zipCodes: ["75009", "75078"]
 localPaths: ["Collin County / ZIP 75078 sector", "Collin County / primary ZIP 75009", "Collin County / ZIP 75009 sector", "Collin County / elevation 679 ft band", "Collin County / coords 33.3200, -96.7900"]
-zillowHomeValueUsd: 537553
 ---
 
-**Engineering Notice for Celina:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: Collin County.
+**Engineering Notice for Celina:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Collin County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why schedule quarterly instead of monthly in Celina, TX? Species pressure and label intervals dictate cadence.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Tip: avoid large upfront payments without milestones.
+Request an inspection with species ID before treatment. Serving ZIP Code: 75009.
 
-In Celina, TX, seasonal demand can change scheduling windows.
+Risk flag: Overwatered Celina, TX planters can restart ant bridges within two weeks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Silverfish activity in Celina, TX attics tracks cardboard storage and ridge vent gaps.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75009/75078.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Access points and staging constraints recorded for ZIP 75009/75078 coverage.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Dispatch sectors sampled: ZIP 75009, 75078 (county grid: Collin County).
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Mud dauber nests in Celina, TX porch ceilings are benign but signal prey density for spiders.
+
+Drain fly biofilm in Celina, TX floor drains signals grease traps need service before gel baits.
+
+Perimeter mulch beds in Celina, TX should be reviewed for ant bridge paths.
+
+Flea pupae survive vacuuming in Celina, TX carpet fibers unless heat treatment follows.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Species trace 214588: re-entry interval label and conducive moisture note keyed to Celina, TX elevation 679 ft.
+
+Intercept log 214588: bed bug intercept count staged before Celina, TX interior gel zones.
+
+On-site sector marker: Collin County / ZIP 75078 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75009-bdaab780

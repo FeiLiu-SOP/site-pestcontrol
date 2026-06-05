@@ -11,26 +11,37 @@ lng: -93.7600
 zipSample: ["77631", "77632", "77630"]
 zipCodes: ["77632", "77631", "77630"]
 localPaths: ["Orange County / elevation 23 ft band", "Orange County / ZIP 77632 sector", "Orange County / ZIP 77631 sector", "Orange County / ZIP 77630 sector", "Orange County / primary ZIP 77630"]
-zillowHomeValueUsd: 146819
 ---
 
-**Engineering Notice for Orange:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Orange:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.
 
 
-In Orange, TX, seasonal demand can change scheduling windows.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Tip: avoid large upfront payments without milestones.
+Mud dauber nests in Orange, TX porch ceilings are benign but signal prey density for spiders.
 
-We coordinate local dispatch coverage around Orange, TX and nearby ZIP sectors.
+Drain fly biofilm in Orange, TX floor drains signals grease traps need service before gel baits.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Perimeter granule carriers in Orange, TX clay soils may need lighter irrigation before application.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Orange, TX, but intake notes help reduce delays.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 77630.
 
-Field note: Access points and staging constraints recorded for ZIP 77630/77632/77631 coverage.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 77630/77632/77631.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Dispatch sectors sampled: ZIP 77630, 77632, 77631 (county grid: Orange County).
+Powderpost beetle exit holes in Orange, TX trim can be mistaken for dry-wood frass without magnification.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Orange, TX.
+
+Seasonal pest pressure in Orange, TX shifts between moisture ants and dry-wood vectors.
+
+Monitoring boards in Orange, TX crawlspaces stay 72 hours before snap traps are reset.
+
+State note: Orange, TX commercial kitchens may require separate documentation for audit visits.
+
+Harbor ledger 883881: frass lane, mud-tube scan, and garage jamb gap measure filed for Orange, TX at 30.1200, -93.7600.
+
+On-site sector marker: Orange County / ZIP 77631 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77630-163d938b

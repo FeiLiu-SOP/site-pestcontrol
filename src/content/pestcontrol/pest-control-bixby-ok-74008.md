@@ -11,24 +11,41 @@ lng: -95.8800
 zipSample: ["74008"]
 zipCodes: ["74008"]
 localPaths: ["Tulsa County / ZIP 74008 sector", "Tulsa County / primary ZIP 74008", "Tulsa County / elevation 617 ft band", "Tulsa County / coords 35.9500, -95.8800"]
-zillowHomeValueUsd: 349664
 ---
 
-**Engineering Notice for Bixby:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: Tulsa County.
+**Engineering Notice for Bixby:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tulsa County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Silverfish activity in Bixby, OK attics tracks cardboard storage and ridge vent gaps.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Monitoring boards in Bixby, OK crawlspaces stay 72 hours before snap traps are reset.
 
-Tip: request a written scope before work starts.
+Mud dauber nests in Bixby, OK porch ceilings are benign but signal prey density for spiders.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Bixby, OK.
 
-Tip: compare at least two estimates for scope and timeline.
+Cluster fly attic staging in Bixby, OK peaks on south-facing voids after sunny thaw days.
 
-Field note: Access points and staging constraints recorded for ZIP 74008 coverage.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Dispatch sectors sampled: ZIP 74008 (county grid: Tulsa County).
+State note: Bixby, OK commercial kitchens may require separate documentation for audit visits.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 74008.
+
+FAQ: Why schedule quarterly instead of monthly in Bixby, OK? Species pressure and label intervals dictate cadence.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Across Bixby, OK, rodent entry points frequently track utility penetrations.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Dry-wood termite pellets in Bixby, OK attics may appear before exterior mud tubes.
+
+Species trace 836068: re-entry interval label and conducive moisture note keyed to Bixby, OK elevation 617 ft.
+
+Zone map 836068: attic insulation disturbance trace and pantry pest source logged for Bixby, OK sector 74008.
+
+Coordinate-anchored dispatch note: center reference 35.9500, -95.8800 at elevation ~617 ft aligns with Tulsa County intake staging.
 
 Service reference: OK-74008-a28d5df8

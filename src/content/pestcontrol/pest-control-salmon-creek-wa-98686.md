@@ -11,26 +11,43 @@ lng: -122.6600
 zipSample: ["98686", "98685"]
 zipCodes: ["98685", "98686"]
 localPaths: ["Clark County / ZIP 98686 sector", "Clark County / primary ZIP 98686", "Clark County / elevation 92 ft band", "Clark County / coords 45.7100, -122.6600", "Clark County / ZIP 98685 sector"]
-zillowHomeValueUsd: 590599
 ---
 
-**Engineering Notice for Salmon Creek:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Salmon Creek:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Date bait station lids when servicing Salmon Creek, WA perimeter lines.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Monitoring boards in Salmon Creek, WA crawlspaces stay 72 hours before snap traps are reset.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Tip: request a written scope before work starts.
+Step: verify attic access safety before insulation disturbance.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98685/98686.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Salmon Creek, WA.
 
-Field note: Access points and staging constraints recorded for ZIP 98685/98686 coverage.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 98685, 98686 (county grid: Clark County).
+State note: Salmon Creek, WA commercial kitchens may require separate documentation for audit visits.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Carpenter ant frass in Salmon Creek, WA window sills may indicate moisture-softened framing.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Attic misting in Salmon Creek, WA requires combustion air clearance verified before fans restart.
+
+Attic fogging in Salmon Creek, WA requires combustion appliance shutoff verification first.
+
+Perimeter dossier 478878: bait station anchor map and mulch bridge risk flagged for Salmon Creek, WA county Clark County (ZIP 98686).
+
+Seasonal cue 478878: cluster fly attic staging reviewed for Salmon Creek, WA soffit cavities.
+
+On-site sector marker: Clark County / ZIP 98686 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98686-c16397c3

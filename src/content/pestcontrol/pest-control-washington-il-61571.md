@@ -11,24 +11,37 @@ lng: -89.4300
 zipSample: ["61571"]
 zipCodes: ["61571"]
 localPaths: ["Tazewell County / primary ZIP 61571", "Tazewell County / elevation 761 ft band", "Tazewell County / coords 40.7000, -89.4300", "Tazewell County / ZIP 61571 sector"]
-zillowHomeValueUsd: 226516
 ---
 
-**Engineering Notice for Washington:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Tazewell County.
+**Engineering Notice for Washington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tazewell County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Washington, IL, but intake notes help reduce delays.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Our service coordination centers on Washington, IL coverage windows and verified intake details.
+Step: record station placement maps for follow-up visits.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Fire ant mounds in Washington, IL drive seams need granule rotation after irrigation events.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Structured milestones protect both sides when scheduling work.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Access points and staging constraints recorded for ZIP 61571 coverage.
+Clover mite staining on Washington, IL wall restoration follows foundation mulch against brick ledges.
 
-Dispatch sectors sampled: ZIP 61571 (county grid: Tazewell County).
+FAQ: What is exclusion? Without sealing entry points in Washington, IL, pressure often rebuilds.
+
+Earwig harborages in Washington, IL meter boxes often follow drip irrigation overspray.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Step: map entry points with photo logs before sealing.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Zone map 119816: attic insulation disturbance trace and pantry pest source logged for Washington, IL sector 61571.
+
+Regional mesh label Tazewell County: moisture and logistics baselines are keyed to Washington, IL before niche-specific work begins.
 
 Service reference: IL-61571-58a293d0

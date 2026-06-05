@@ -11,25 +11,39 @@ lng: -68.7900
 zipSample: ["04401", "04402"]
 zipCodes: ["04402", "04401"]
 localPaths: ["Penobscot County / elevation 167 ft band", "Penobscot County / ZIP 04402 sector", "Penobscot County / ZIP 04401 sector", "Penobscot County / primary ZIP 04401", "Penobscot County / coords 44.8300, -68.7900"]
-zillowHomeValueUsd: 299379
 ---
 
-**Engineering Notice for Bangor:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Penobscot County.
+**Engineering Notice for Bangor:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Penobscot County.
 
 
-Tip: request a written scope before work starts.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Our service coordination centers on Bangor, ME coverage windows and verified intake details.
+Powderpost beetle exit holes in Bangor, ME trim can be mistaken for dry-wood frass without magnification.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bangor, ME, but intake notes help reduce delays.
+Mosquito breeding in Bangor, ME catch basins can amplify perimeter callbacks.
 
-In Bangor, ME, seasonal demand can change scheduling windows.
+Step: map entry points with photo logs before sealing.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 04401.
+Cluster fly attic staging in Bangor, ME peaks on south-facing voids after sunny thaw days.
 
-Field note: Wind exposure category reviewed for ZIP sector 04402/04401.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Dispatch sectors sampled: ZIP 04402, 04401 (county grid: Penobscot County).
+Tip: Date bait station lids when servicing Bangor, ME perimeter lines.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Mud dauber nests in Bangor, ME porch ceilings are benign but signal prey density for spiders.
+
+Stored cardboard in Bangor, ME garages can accelerate pantry pest cycles.
+
+IGR packets for Bangor, ME roach cycles should be dated on station lids.
+
+Risk flag: Overwatered Bangor, ME planters can restart ant bridges within two weeks.
+
+Seasonal cue 706459: cluster fly attic staging reviewed for Bangor, ME soffit cavities.
+
+Harbor ledger 706459: frass lane, mud-tube scan, and garage jamb gap measure filed for Bangor, ME at 44.8300, -68.7900.
+
+On-site sector marker: Penobscot County / primary ZIP 04401 — logged for map parity and ZIP-corridor verification.
 
 Service reference: ME-04401-bcab1636

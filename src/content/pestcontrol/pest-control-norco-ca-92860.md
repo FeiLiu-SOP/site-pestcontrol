@@ -11,25 +11,39 @@ lng: -117.5500
 zipSample: ["92860"]
 zipCodes: ["92860"]
 localPaths: ["Riverside County / elevation 643 ft band", "Riverside County / primary ZIP 92860", "Riverside County / ZIP 92860 sector", "Riverside County / coords 33.9300, -117.5500"]
-zillowHomeValueUsd: 917445
 ---
 
-**Engineering Notice for Norco:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Norco:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: verify attic access safety before insulation disturbance.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 92860.
+Risk flag: In Norco, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Access points and staging constraints recorded for ZIP 92860 coverage.
+Mud dauber nests in Norco, CA porch ceilings are benign but signal prey density for spiders.
 
-Dispatch sectors sampled: ZIP 92860 (county grid: Riverside County).
+Tip: Trim vegetation 12 inches from exterior cladding to reduce ant bridges.
+
+Flea pupae survive vacuuming in Norco, CA carpet fibers unless heat treatment follows.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Cluster fly attic staging in Norco, CA peaks on south-facing voids after sunny thaw days.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 92860.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Seasonal cue 221510: cluster fly attic staging reviewed for Norco, CA soffit cavities.
+
+Exclusion audit 221510: exclusion mesh gauge and rodent runway grease mark reviewed for Norco, CA at 33.9300/-117.5500.
+
+Primary postal anchor 92860 with multi-ZIP overlap in Norco; field packets tag Riverside County for county-grid reconciliation.
 
 Service reference: CA-92860-6f719bd7

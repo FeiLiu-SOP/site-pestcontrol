@@ -11,24 +11,39 @@ lng: -96.3200
 zipSample: ["75189"]
 zipCodes: ["75189"]
 localPaths: ["Rockwall County / elevation 535 ft band", "Rockwall County / coords 32.9800, -96.3200", "Rockwall County / primary ZIP 75189", "Rockwall County / ZIP 75189 sector"]
-zillowHomeValueUsd: 321803
 ---
 
-**Engineering Notice for Royse City:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: Rockwall County.
+**Engineering Notice for Royse City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rockwall County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 75189.
 
-Our service coordination centers on Royse City, TX coverage windows and verified intake details.
+Mud dauber nests in Royse City, TX porch ceilings are benign but signal prey density for spiders.
 
-Local conditions in Royse City, TX can affect timelines and material choices.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Royse City, TX.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Moisture pathway inspection logged near ZIP 75189 intake.
+Seasonal pest pressure in Royse City, TX shifts between moisture ants and dry-wood vectors.
 
-Dispatch sectors sampled: ZIP 75189 (county grid: Rockwall County).
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 75189.
+
+In Royse City, TX, subterranean termite swarms often follow warm rain windows.
+
+Stored cardboard in Royse City, TX garages can accelerate pantry pest cycles.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Perimeter dossier 807454: bait station anchor map and mulch bridge risk flagged for Royse City, TX county Rockwall County (ZIP 75189).
+
+Zone map 807454: attic insulation disturbance trace and pantry pest source logged for Royse City, TX sector 75189.
+
+On-site sector marker: Rockwall County / elevation 535 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75189-539b695a

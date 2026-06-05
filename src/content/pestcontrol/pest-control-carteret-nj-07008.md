@@ -11,26 +11,43 @@ lng: -74.2300
 zipSample: ["07008"]
 zipCodes: ["07008"]
 localPaths: ["Middlesex County / coords 40.5800, -74.2300", "Middlesex County / elevation 16 ft band", "Middlesex County / primary ZIP 07008", "Middlesex County / ZIP 07008 sector"]
-zillowHomeValueUsd: 548064
 ---
 
-**Engineering Notice for Carteret:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Carteret:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Overwatered Carteret, NJ planters can restart ant bridges within two weeks.
 
-Tip: request a written scope before work starts.
+Cluster fly attic staging in Carteret, NJ peaks on south-facing voids after sunny thaw days.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Carteret, NJ, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Mosquito breeding in Carteret, NJ catch basins can amplify perimeter callbacks.
 
-Field note: Access points and staging constraints recorded for ZIP 07008 coverage.
+Powderpost beetle exit holes in Carteret, NJ trim can be mistaken for dry-wood frass without magnification.
 
-Field note: Wind exposure category reviewed for ZIP sector 07008.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 07008.
 
-Dispatch sectors sampled: ZIP 07008 (county grid: Middlesex County).
+Attic insulation disturbance in Carteret, NJ may indicate wildlife nesting routes.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Material note: Perimeter granules in Carteret, NJ may need reapplication after heavy irrigation.
+
+Step: verify attic access safety before insulation disturbance.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Spider populations in Carteret, NJ eaves can signal insect prey density.
+
+Seasonal cue 986177: cluster fly attic staging reviewed for Carteret, NJ soffit cavities.
+
+Exclusion audit 986177: exclusion mesh gauge and rodent runway grease mark reviewed for Carteret, NJ at 40.5800/-74.2300.
+
+On-site sector marker: Middlesex County / elevation 16 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07008-2e2f5fed

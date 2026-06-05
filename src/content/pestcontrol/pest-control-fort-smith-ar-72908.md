@@ -11,25 +11,39 @@ lng: -94.3700
 zipSample: ["72919", "72918", "72923", "72906", "72916"]
 zipCodes: ["72904", "72906", "72914", "72917", "72916", "72919", "72913", "72923", "72901", "72918", "72903", "72908"]
 localPaths: ["Sebastian County / ZIP 72906 sector", "Sebastian County / ZIP 72919 sector", "Sebastian County / ZIP 72923 sector", "Sebastian County / ZIP 72916 sector", "Sebastian County / coords 35.3500, -94.3700"]
-zillowHomeValueUsd: 229103
 ---
 
-**Engineering Notice for Fort Smith:** Structural loading calculated based on 476 ft terrain assessment. Regional dispatch grid: Sebastian County.
+**Engineering Notice for Fort Smith:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sebastian County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 72908.
+We coordinate Fort Smith, AR pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-We coordinate local dispatch coverage around Fort Smith, AR and nearby ZIP sectors.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Fort Smith, AR, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 72904/72913/72923.
+Bird mites in Fort Smith, AR exhaust vents can persist after host nests are removed.
 
-Dispatch sectors sampled: ZIP 72904, 72913, 72923, 72901, 72908 (county grid: Sebastian County).
+Humidity in Fort Smith, AR can sustain cockroach harborages behind appliance voids.
+
+Fire ant mounds in Fort Smith, AR drive seams need granule rotation after irrigation events.
+
+Step: record station placement maps for follow-up visits.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Perimeter dossier 441095: bait station anchor map and mulch bridge risk flagged for Fort Smith, AR county Sebastian County (ZIP 72908).
+
+Exclusion audit 441095: exclusion mesh gauge and rodent runway grease mark reviewed for Fort Smith, AR at 35.3500/-94.3700.
+
+On-site sector marker: Sebastian County / ZIP 72923 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-72908-abdcde04

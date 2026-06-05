@@ -11,26 +11,41 @@ lng: -122.0000
 zipSample: ["94565", "94522", "94524", "94520", "94521"]
 zipCodes: ["94518", "94524", "94565", "94522", "94520", "94527", "94521", "94519"]
 localPaths: ["Contra Costa County / elevation 161 ft band", "Contra Costa County / ZIP 94521 sector", "Contra Costa County / ZIP 94520 sector", "Contra Costa County / ZIP 94565 sector", "Contra Costa County / coords 37.9700, -122.0000"]
-zillowHomeValueUsd: 867942
 ---
 
-**Engineering Notice for Concord:** Structural loading calculated based on 161 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Concord:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.
 
 
-Tip: avoid large upfront payments without milestones.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-In Concord, CA, urgent pest control issues can escalate quickly.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Mud dauber nests in Concord, CA porch ceilings are benign but signal prey density for spiders.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Cluster fly attic staging in Concord, CA peaks on south-facing voids after sunny thaw days.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Connection points spot-checked where accessible (ZIP 94565/94520/94518 zone).
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 94518.
 
-Field note: Moisture pathway inspection logged near ZIP 94565/94520/94518 intake.
+Humidity in Concord, CA can sustain cockroach harborages behind appliance voids.
 
-Dispatch sectors sampled: ZIP 94565, 94520, 94518, 94519, 94522 (county grid: Contra Costa County).
+Earwig harborages in Concord, CA meter boxes often follow drip irrigation overspray.
+
+Risk flag: Overwatered Concord, CA planters can restart ant bridges within two weeks.
+
+State note: Concord, CA commercial kitchens may require separate documentation for audit visits.
+
+Tip: Trim vegetation 12 inches from vinyl panels to reduce ant bridges.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Concord, CA, pressure often rebuilds.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Harbor ledger 971132: frass lane, mud-tube scan, and garage jamb gap measure filed for Concord, CA at 37.9700, -122.0000.
+
+Species trace 971132: re-entry interval label and conducive moisture note keyed to Concord, CA elevation 161 ft.
+
+On-site sector marker: Contra Costa County / ZIP 94519 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94518-2ff9f742

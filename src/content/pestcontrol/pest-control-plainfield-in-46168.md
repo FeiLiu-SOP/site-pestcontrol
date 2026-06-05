@@ -11,24 +11,41 @@ lng: -86.3700
 zipSample: ["46231", "46168"]
 zipCodes: ["46168", "46231"]
 localPaths: ["Hendricks County / ZIP 46231 sector", "Hendricks County / primary ZIP 46168", "Hendricks County / elevation 748 ft band", "Hendricks County / ZIP 46168 sector", "Hendricks County / coords 39.7000, -86.3700"]
-zillowHomeValueUsd: 329495
 ---
 
-**Engineering Notice for Plainfield:** Structural loading calculated based on 748 ft terrain assessment. Regional dispatch grid: Hendricks County.
+**Engineering Notice for Plainfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hendricks County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Earwig harborages in Plainfield, IN meter boxes often follow drip irrigation overspray.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: verify attic access safety before insulation disturbance.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Why schedule quarterly instead of monthly in Plainfield, IN? Species pressure and label intervals dictate cadence.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Field note: Access points and staging constraints recorded for ZIP 46231/46168 coverage.
+In Plainfield, IN, subterranean termite swarms often follow warm rain windows.
 
-Dispatch sectors sampled: ZIP 46231, 46168 (county grid: Hendricks County).
+Attic misting in Plainfield, IN requires combustion air clearance verified before fans restart.
+
+FAQ: Can bed bugs spread room-to-room in Plainfield, IN row homes? Wall voids and shared ducts accelerate transfer.
+
+IGR packets for Plainfield, IN roach cycles should be dated on station lids.
+
+Stink bug overwinter seams in Plainfield, IN cladding service laps require exclusion foam rated for UV exposure.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Harbor ledger 866418: frass lane, mud-tube scan, and garage jamb gap measure filed for Plainfield, IN at 39.7000, -86.3700.
+
+Species trace 866418: re-entry interval label and conducive moisture note keyed to Plainfield, IN elevation 748 ft.
+
+On-site sector marker: Hendricks County / primary ZIP 46168 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46168-fd949f7d

@@ -11,24 +11,39 @@ lng: -83.5800
 zipSample: ["43601", "43699", "43609", "43612", "43666"]
 zipCodes: ["43604", "43601", "43656", "43699", "43635", "43605", "43608", "43607", "43606", "43613", "43612", "43681"]
 localPaths: ["Lucas County / ZIP 43612 sector", "Lucas County / ZIP 43601 sector", "Lucas County / coords 41.6600, -83.5800", "Lucas County / primary ZIP 43615", "Lucas County / ZIP 43666 sector"]
-zillowHomeValueUsd: 178327
 ---
 
-**Engineering Notice for Toledo:** Structural loading calculated based on 600 ft terrain assessment. Regional dispatch grid: Lucas County.
+**Engineering Notice for Toledo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lucas County.
 
 
-We coordinate local dispatch coverage around Toledo, OH and nearby ZIP sectors.
+We coordinate Toledo, OH pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Perimeter granule carriers in Toledo, OH clay soils may need lighter irrigation before application.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: request a written scope before work starts.
+Stink bug overwinter seams in Toledo, OH vinyl panels laps require exclusion foam rated for UV exposure.
 
-Field note: Access points and staging constraints recorded for ZIP 43697/43681/43661 coverage.
+Flea pupae survive vacuuming in Toledo, OH carpet fibers unless heat treatment follows.
 
-Dispatch sectors sampled: ZIP 43697, 43681, 43661, 43603, 43699 (county grid: Lucas County).
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Fire ant mounds in Toledo, OH drive seams need granule rotation after irrigation events.
+
+Wildlife odors in Toledo, OH crawlspaces may attract secondary pest activity.
+
+FAQ: Can bed bugs spread room-to-room in Toledo, OH row homes? Wall voids and shared ducts accelerate transfer.
+
+Earwig harborages in Toledo, OH meter boxes often follow drip irrigation overspray.
+
+Species trace 131487: re-entry interval label and conducive moisture note keyed to Toledo, OH elevation 600 ft.
+
+Perimeter dossier 131487: bait station anchor map and mulch bridge risk flagged for Toledo, OH county Lucas County (ZIP 43615).
+
+Coordinate-anchored dispatch note: center reference 41.6600, -83.5800 at elevation ~600 ft aligns with Lucas County intake staging.
 
 Service reference: OH-43615-cd7485d5

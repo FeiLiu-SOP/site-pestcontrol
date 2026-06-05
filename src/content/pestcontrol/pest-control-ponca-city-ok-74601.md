@@ -11,24 +11,39 @@ lng: -97.0700
 zipSample: ["74604", "74601", "74602"]
 zipCodes: ["74602", "74601", "74604"]
 localPaths: ["Kay County / ZIP 74601 sector", "Kay County / coords 36.7200, -97.0700", "Kay County / ZIP 74604 sector", "Kay County / elevation 1040 ft band", "Kay County / ZIP 74602 sector"]
-zillowHomeValueUsd: 86925
 ---
 
-**Engineering Notice for Ponca City:** Structural loading calculated based on 1040 ft terrain assessment. Regional dispatch grid: Kay County.
+**Engineering Notice for Ponca City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kay County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Cluster fly attic staging in Ponca City, OK peaks on south-facing voids after sunny thaw days.
 
-In Ponca City, OK, seasonal demand can change scheduling windows.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Transparent pricing helps you compare like-for-like scope items.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Perimeter granules in Ponca City, OK may need reapplication after heavy irrigation.
 
-Field note: Connection points spot-checked where accessible (ZIP 74602/74604/74601 zone).
+Humidity in Ponca City, OK can sustain cockroach harborages behind appliance voids.
 
-Dispatch sectors sampled: ZIP 74602, 74604, 74601 (county grid: Kay County).
+Attic fogging in Ponca City, OK requires combustion appliance shutoff verification first.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Earwig harborages in Ponca City, OK meter boxes often follow drip irrigation overspray.
+
+Yellow jacket nests in Ponca City, OK soffit cavities peak in late summer routing windows.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 74601.
+
+Exclusion gaps at garage jambs in Ponca City, OK are common rodent access points.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Intercept log 832666: bed bug intercept count staged before Ponca City, OK interior gel zones.
+
+On-site sector marker: Kay County / ZIP 74602 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-74601-f9fb67c9

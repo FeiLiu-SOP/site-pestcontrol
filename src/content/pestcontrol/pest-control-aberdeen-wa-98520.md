@@ -11,25 +11,39 @@ lng: -123.8100
 zipSample: ["98520"]
 zipCodes: ["98520"]
 localPaths: ["Grays Harbor County / elevation 7 ft band", "Grays Harbor County / primary ZIP 98520", "Grays Harbor County / coords 46.9800, -123.8100", "Grays Harbor County / ZIP 98520 sector"]
-zillowHomeValueUsd: 272264
 ---
 
-**Engineering Notice for Aberdeen:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Grays Harbor County.
+**Engineering Notice for Aberdeen:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Grays Harbor County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 98520.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Can bed bugs spread room-to-room in Aberdeen, WA row homes? Wall voids and shared ducts accelerate transfer.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 98520.
+Step: map entry points with photo logs before sealing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98520.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Dispatch sectors sampled: ZIP 98520 (county grid: Grays Harbor County).
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Across Aberdeen, WA, rodent entry points frequently track utility penetrations.
+
+Attic misting in Aberdeen, WA requires combustion air clearance verified before fans restart.
+
+Step: verify attic access safety before insulation disturbance.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Zone map 427340: attic insulation disturbance trace and pantry pest source logged for Aberdeen, WA sector 98520.
+
+Harbor ledger 427340: frass lane, mud-tube scan, and garage jamb gap measure filed for Aberdeen, WA at 46.9800, -123.8100.
+
+ZIP-corridor snapshot for Aberdeen, WA: sampled sectors include 98520; county routing grid remains Grays Harbor County.
 
 Service reference: WA-98520-fae9903c

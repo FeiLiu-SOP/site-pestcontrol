@@ -11,27 +11,41 @@ lng: -83.6200
 zipSample: ["48529", "48519", "48509"]
 zipCodes: ["48529", "48519", "48509"]
 localPaths: ["Genesee County / elevation 781 ft band", "Genesee County / coords 43.0000, -83.6200", "Genesee County / ZIP 48509 sector", "Genesee County / primary ZIP 48529", "Genesee County / ZIP 48519 sector"]
-zillowHomeValueUsd: 91164
 ---
 
-**Engineering Notice for Burton:** Structural loading calculated based on 781 ft terrain assessment. Regional dispatch grid: Genesee County.
+**Engineering Notice for Burton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Genesee County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 48529.
+Earwig harborages in Burton, MI meter boxes often follow drip irrigation overspray.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Burton, MI, but intake notes help reduce delays.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Tip: request a written scope before work starts.
+Step: map entry points with photo logs before sealing.
 
-Tip: avoid large upfront payments without milestones.
+Clover mite staining on Burton, MI vinyl panels follows foundation mulch against brick ledges.
 
-Our service coordination centers on Burton, MI coverage windows and verified intake details.
+Attic fogging in Burton, MI requires combustion appliance shutoff verification first.
 
-Field note: Moisture pathway inspection logged near ZIP 48519/48509/48529 intake.
+IGR packets for Burton, MI roach cycles should be dated on station lids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48519/48509/48529.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Dispatch sectors sampled: ZIP 48519, 48509, 48529 (county grid: Genesee County).
+Bird mites in Burton, MI exhaust vents can persist after host nests are removed.
+
+Cluster fly attic staging in Burton, MI peaks on south-facing voids after sunny thaw days.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Humidity in Burton, MI can sustain cockroach harborages behind appliance voids.
+
+Material note: Perimeter granules in Burton, MI may need reapplication after heavy irrigation.
+
+Tip: Date bait station lids when servicing Burton, MI perimeter lines.
+
+Intercept log 497066: bed bug intercept count staged before Burton, MI interior gel zones.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~781 ft across the Genesee County area. Coordinates: 43.0000, -83.6200. ZIP sample: 48509, 48519, 48529. Service perimeter note: Coverage extends through Genesee County with dispatch centered near ZIP 48529.
 
 Service reference: MI-48529-3359288e

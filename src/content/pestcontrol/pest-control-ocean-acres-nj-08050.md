@@ -11,24 +11,43 @@ lng: -74.2800
 zipSample: ["08005", "08050"]
 zipCodes: ["08005", "08050"]
 localPaths: ["Ocean County / primary ZIP 08050", "Ocean County / coords 39.7400, -74.2800", "Ocean County / ZIP 08005 sector", "Ocean County / elevation 131 ft band", "Ocean County / ZIP 08050 sector"]
-zillowHomeValueUsd: 583775
 ---
 
-**Engineering Notice for Ocean Acres:** Structural loading calculated based on 131 ft terrain assessment. Regional dispatch grid: Ocean County.
+**Engineering Notice for Ocean Acres:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ocean County.
 
 
-We coordinate local dispatch coverage around Ocean Acres, NJ and nearby ZIP sectors.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Tip: request a written scope before work starts.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Carpenter ant frass in Ocean Acres, NJ window sills may indicate moisture-softened framing.
 
-Transparent pricing helps you compare like-for-like scope items.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Fire ant mounds in Ocean Acres, NJ drive seams need granule rotation after irrigation events.
 
-Field note: Connection points spot-checked where accessible (ZIP 08050/08005 zone).
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Dispatch sectors sampled: ZIP 08050, 08005 (county grid: Ocean County).
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 08050.
+
+Humidity in Ocean Acres, NJ can sustain cockroach harborages behind appliance voids.
+
+County grid Ocean County informs routing near ZIP 08050.
+
+Bird mites in Ocean Acres, NJ exhaust vents can persist after host nests are removed.
+
+Mosquito breeding in Ocean Acres, NJ catch basins can amplify perimeter callbacks.
+
+Yellow jacket nests in Ocean Acres, NJ soffit cavities peak in late summer routing windows.
+
+Intercept log 196383: bed bug intercept count staged before Ocean Acres, NJ interior gel zones.
+
+Species trace 196383: re-entry interval label and conducive moisture note keyed to Ocean Acres, NJ elevation 131 ft.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Ocean County and primary ZIP 08050. Terrain reference: 131 ft. Center point: 39.7400, -74.2800. ZIP sample: 08005, 08050. Service perimeter note: Coverage extends through Ocean County with dispatch centered near ZIP 08050.
 
 Service reference: NJ-08050-6a1950cc

@@ -11,26 +11,41 @@ lng: -82.7900
 zipSample: ["34698", "34697"]
 zipCodes: ["34697", "34698"]
 localPaths: ["Pinellas County / primary ZIP 34698", "Pinellas County / ZIP 34698 sector", "Pinellas County / elevation 30 ft band", "Pinellas County / ZIP 34697 sector", "Pinellas County / coords 28.0300, -82.7900"]
-zillowHomeValueUsd: 407275
 ---
 
-**Engineering Notice for Dunedin:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Pinellas County.
+**Engineering Notice for Dunedin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pinellas County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Dunedin, FL, but intake notes help reduce delays.
+Perimeter mulch beds in Dunedin, FL should be reviewed for ant bridge paths.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Tip: request a written scope before work starts.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Clear documentation helps align materials, labor, and timeline.
+Across Dunedin, FL, rodent entry points frequently track utility penetrations.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Access points and staging constraints recorded for ZIP 34697/34698 coverage.
+Mud dauber nests in Dunedin, FL porch ceilings are benign but signal prey density for spiders.
 
-Field note: Connection points spot-checked where accessible (ZIP 34697/34698 zone).
+Attic fogging in Dunedin, FL requires combustion appliance shutoff verification first.
 
-Dispatch sectors sampled: ZIP 34697, 34698 (county grid: Pinellas County).
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 34698.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 34698.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Exclusion gaps at garage jambs in Dunedin, FL are common rodent access points.
+
+Harbor ledger 597871: frass lane, mud-tube scan, and garage jamb gap measure filed for Dunedin, FL at 28.0300, -82.7900.
+
+Intercept log 597871: bed bug intercept count staged before Dunedin, FL interior gel zones.
+
+Regional mesh label Pinellas County: moisture and logistics baselines are keyed to Dunedin, FL before niche-specific work begins.
 
 Service reference: FL-34698-8e9143ea

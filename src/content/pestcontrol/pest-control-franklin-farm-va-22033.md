@@ -11,26 +11,41 @@ lng: -77.4000
 zipSample: ["20171", "22033"]
 zipCodes: ["22033", "20171"]
 localPaths: ["Fairfax County / primary ZIP 22033", "Fairfax County / ZIP 22033 sector", "Fairfax County / elevation 374 ft band", "Fairfax County / ZIP 20171 sector", "Fairfax County / coords 38.9100, -77.4000"]
-zillowHomeValueUsd: 711131
 ---
 
-**Engineering Notice for Franklin Farm:** Structural loading calculated based on 374 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Franklin Farm:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-We coordinate local dispatch coverage around Franklin Farm, VA and nearby ZIP sectors.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Perimeter granules in Franklin Farm, VA may need reapplication after heavy irrigation.
 
-Homeowners in Franklin Farm, VA often face sudden pest control problems that require fast action.
+Attic fogging in Franklin Farm, VA requires combustion appliance shutoff verification first.
 
-Tip: confirm licensing and insurance before approving work.
+Exclusion gaps at garage jambs in Franklin Farm, VA are common rodent access points.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 20171/22033.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Field note: Connection points spot-checked where accessible (ZIP 20171/22033 zone).
+Step: verify attic access safety before insulation disturbance.
 
-Dispatch sectors sampled: ZIP 20171, 22033 (county grid: Fairfax County).
+Humidity in Franklin Farm, VA can sustain cockroach harborages behind appliance voids.
+
+IGR packets for Franklin Farm, VA roach cycles should be dated on station lids.
+
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+Mud dauber nests in Franklin Farm, VA porch ceilings are benign but signal prey density for spiders.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Seasonal cue 974417: cluster fly attic staging reviewed for Franklin Farm, VA soffit cavities.
+
+On-site sector marker: Fairfax County / primary ZIP 22033 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22033-129ea0fb

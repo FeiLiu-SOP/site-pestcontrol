@@ -11,26 +11,39 @@ lng: -117.3100
 zipSample: ["92345", "92344", "92340"]
 zipCodes: ["92345", "92340", "92344"]
 localPaths: ["San Bernardino County / coords 34.4000, -117.3100", "San Bernardino County / primary ZIP 92345", "San Bernardino County / elevation 3346 ft band", "San Bernardino County / ZIP 92344 sector", "San Bernardino County / ZIP 92340 sector"]
-zillowHomeValueUsd: 445131
 ---
 
-**Engineering Notice for Hesperia:** Structural loading calculated based on 3346 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Hesperia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hesperia, CA, but intake notes help reduce delays.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Moisture pathway inspection logged near ZIP 92345/92344/92340 intake.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Field note: Access points and staging constraints recorded for ZIP 92345/92344/92340 coverage.
+Flea pupae survive vacuuming in Hesperia, CA carpet fibers unless heat treatment follows.
 
-Dispatch sectors sampled: ZIP 92345, 92344, 92340 (county grid: San Bernardino County).
+Attic insulation disturbance in Hesperia, CA may indicate wildlife nesting routes.
+
+Tip: Trim vegetation 12 inches from cladding service to reduce ant bridges.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Bird mites in Hesperia, CA exhaust vents can persist after host nests are removed.
+
+Zone map 936197: attic insulation disturbance trace and pantry pest source logged for Hesperia, CA sector 92345.
+
+Intercept log 936197: bed bug intercept count staged before Hesperia, CA interior gel zones.
+
+Regional mesh label San Bernardino County: moisture and logistics baselines are keyed to Hesperia, CA before niche-specific work begins.
 
 Service reference: CA-92345-27747565

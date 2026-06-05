@@ -11,24 +11,43 @@ lng: -116.3900
 zipSample: ["83642", "83634"]
 zipCodes: ["83642", "83634"]
 localPaths: ["Ada County / ZIP 83634 sector", "Ada County / elevation 2726 ft band", "Ada County / coords 43.4900, -116.3900", "Ada County / primary ZIP 83634", "Ada County / ZIP 83642 sector"]
-zillowHomeValueUsd: 459295
 ---
 
-**Engineering Notice for Kuna:** Structural loading calculated based on 2726 ft terrain assessment. Regional dispatch grid: Ada County.
+**Engineering Notice for Kuna:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ada County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Mosquito breeding in Kuna, ID catch basins can amplify perimeter callbacks.
 
-Tip: confirm licensing and insurance before approving work.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Our service coordination centers on Kuna, ID coverage windows and verified intake details.
+Bird mites in Kuna, ID exhaust vents can persist after host nests are removed.
 
-Field note: Connection points spot-checked where accessible (ZIP 83634/83642 zone).
+State note: Kuna, ID commercial kitchens may require separate documentation for audit visits.
 
-Dispatch sectors sampled: ZIP 83634, 83642 (county grid: Ada County).
+Step: map entry points with photo logs before sealing.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Powderpost beetle exit holes in Kuna, ID trim can be mistaken for dry-wood frass without magnification.
+
+Risk flag: In Kuna, ID, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 83634.
+
+In Kuna, ID, subterranean termite swarms often follow warm rain windows.
+
+Carpenter ant frass in Kuna, ID window sills may indicate moisture-softened framing.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Perimeter dossier 305348: bait station anchor map and mulch bridge risk flagged for Kuna, ID county Ada County (ZIP 83634).
+
+Harbor ledger 305348: frass lane, mud-tube scan, and garage jamb gap measure filed for Kuna, ID at 43.4900, -116.3900.
+
+On-site sector marker: Ada County / primary ZIP 83634 — logged for map parity and ZIP-corridor verification.
 
 Service reference: ID-83634-e9f5a5df

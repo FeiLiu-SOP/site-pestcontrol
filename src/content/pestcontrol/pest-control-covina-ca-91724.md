@@ -11,26 +11,39 @@ lng: -117.8800
 zipSample: ["91724", "91723", "91722"]
 zipCodes: ["91724", "91722", "91723"]
 localPaths: ["Los Angeles County / coords 34.0900, -117.8800", "Los Angeles County / ZIP 91724 sector", "Los Angeles County / ZIP 91722 sector", "Los Angeles County / ZIP 91723 sector", "Los Angeles County / primary ZIP 91724"]
-zillowHomeValueUsd: 886112
 ---
 
-**Engineering Notice for Covina:** Structural loading calculated based on 584 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Covina:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-Tip: request a written scope before work starts.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-In Covina, CA, seasonal demand can change scheduling windows.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-We coordinate local dispatch coverage around Covina, CA and nearby ZIP sectors.
+Stink bug overwinter seams in Covina, CA exterior cladding laps require exclusion foam rated for UV exposure.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 91724.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Covina, CA, but intake notes help reduce delays.
+Earwig harborages in Covina, CA meter boxes often follow drip irrigation overspray.
 
-Field note: Wind exposure category reviewed for ZIP sector 91722/91724/91723.
+Spider populations in Covina, CA eaves can signal insect prey density.
 
-Field note: Access points and staging constraints recorded for ZIP 91722/91724/91723 coverage.
+IGR packets for Covina, CA roach cycles should be dated on station lids.
 
-Dispatch sectors sampled: ZIP 91722, 91724, 91723 (county grid: Los Angeles County).
+Flea pupae survive vacuuming in Covina, CA carpet fibers unless heat treatment follows.
+
+Clover mite staining on Covina, CA vinyl panels follows foundation mulch against brick ledges.
+
+Carpenter ant frass in Covina, CA window sills may indicate moisture-softened framing.
+
+Mud dauber nests in Covina, CA porch ceilings are benign but signal prey density for spiders.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+FAQ: Why schedule quarterly instead of monthly in Covina, CA? Species pressure and label intervals dictate cadence.
+
+Species trace 581547: re-entry interval label and conducive moisture note keyed to Covina, CA elevation 584 ft.
+
+Primary postal anchor 91724 with multi-ZIP overlap in Covina; field packets tag Los Angeles County for county-grid reconciliation.
 
 Service reference: CA-91724-0ec2bbed

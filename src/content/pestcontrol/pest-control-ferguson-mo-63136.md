@@ -11,25 +11,37 @@ lng: -90.3000
 zipSample: ["63135", "63136"]
 zipCodes: ["63136", "63135"]
 localPaths: ["St. Louis County / elevation 574 ft band", "St. Louis County / ZIP 63136 sector", "St. Louis County / coords 38.7500, -90.3000", "St. Louis County / primary ZIP 63136", "St. Louis County / ZIP 63135 sector"]
-zillowHomeValueUsd: 85918
 ---
 
-**Engineering Notice for Ferguson:** Structural loading calculated based on 574 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Ferguson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Ferguson, MO.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-We coordinate local dispatch coverage around Ferguson, MO and nearby ZIP sectors.
+Carpenter ant frass in Ferguson, MO window sills may indicate moisture-softened framing.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 63136.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Field note: Moisture pathway inspection logged near ZIP 63136/63135 intake.
+Silverfish activity in Ferguson, MO attics tracks cardboard storage and ridge vent gaps.
 
-Dispatch sectors sampled: ZIP 63136, 63135 (county grid: St. Louis County).
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+FAQ: Why schedule quarterly instead of monthly in Ferguson, MO? Species pressure and label intervals dictate cadence.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Ferguson, MO, pressure often rebuilds.
+
+Seasonal pest pressure in Ferguson, MO shifts between moisture ants and dry-wood vectors.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+State note: Ferguson, MO commercial kitchens may require separate documentation for audit visits.
+
+Exclusion audit 467069: exclusion mesh gauge and rodent runway grease mark reviewed for Ferguson, MO at 38.7500/-90.3000.
+
+Primary postal anchor 63136 with multi-ZIP overlap in Ferguson; field packets tag St. Louis County for county-grid reconciliation.
 
 Service reference: MO-63136-72c3a4d1

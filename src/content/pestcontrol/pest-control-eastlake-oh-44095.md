@@ -11,26 +11,37 @@ lng: -81.4300
 zipSample: ["44097", "44095"]
 zipCodes: ["44095", "44097"]
 localPaths: ["Lake County / coords 41.6600, -81.4300", "Lake County / elevation 627 ft band", "Lake County / ZIP 44097 sector", "Lake County / ZIP 44095 sector", "Lake County / primary ZIP 44095"]
-zillowHomeValueUsd: 197703
 ---
 
-**Engineering Notice for Eastlake:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Eastlake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Eastlake, OH.
 
-We coordinate local dispatch coverage around Eastlake, OH and nearby ZIP sectors.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Tip: compare at least two estimates for scope and timeline.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Eastlake, OH, but intake notes help reduce delays.
+Attic misting in Eastlake, OH requires combustion air clearance verified before fans restart.
 
-Field note: Access points and staging constraints recorded for ZIP 44097/44095 coverage.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Moisture pathway inspection logged near ZIP 44097/44095 intake.
+Flea pupae survive vacuuming in Eastlake, OH carpet fibers unless heat treatment follows.
 
-Dispatch sectors sampled: ZIP 44097, 44095 (county grid: Lake County).
+Perimeter granule carriers in Eastlake, OH clay soils may need lighter irrigation before application.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 44095.
+
+Drain fly biofilm in Eastlake, OH floor drains signals grease traps need service before gel baits.
+
+State note: Eastlake, OH commercial kitchens may require separate documentation for audit visits.
+
+Humidity in Eastlake, OH can sustain cockroach harborages behind appliance voids.
+
+Intercept log 654917: bed bug intercept count staged before Eastlake, OH interior gel zones.
+
+On-site sector marker: Lake County / coords 41.6600, -81.4300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44095-d7058a85

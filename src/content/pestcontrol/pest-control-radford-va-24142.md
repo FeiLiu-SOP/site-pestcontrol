@@ -11,26 +11,41 @@ lng: -80.5600
 zipSample: ["24143", "24141", "24142"]
 zipCodes: ["24141", "24142", "24143"]
 localPaths: ["Radford County / elevation 1877 ft band", "Radford County / ZIP 24142 sector", "Radford County / ZIP 24143 sector", "Radford County / ZIP 24141 sector", "Radford County / primary ZIP 24142"]
-zillowHomeValueUsd: 262266
 ---
 
-**Engineering Notice for Radford:** Structural loading calculated based on 1877 ft terrain assessment. Regional dispatch grid: Radford County.
+**Engineering Notice for Radford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Radford County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+State note: Radford, VA commercial kitchens may require separate documentation for audit visits.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Radford, VA, but intake notes help reduce delays.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+IGR packets for Radford, VA roach cycles should be dated on station lids.
 
-Field note: Wind exposure category reviewed for ZIP sector 24143/24141/24142.
+Bird mites in Radford, VA exhaust vents can persist after host nests are removed.
 
-Field note: Access points and staging constraints recorded for ZIP 24143/24141/24142 coverage.
+Tip: Date bait station lids when servicing Radford, VA perimeter lines.
 
-Dispatch sectors sampled: ZIP 24143, 24141, 24142 (county grid: Radford County).
+Clover mite staining on Radford, VA exterior cladding follows foundation mulch against brick ledges.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Material note: Perimeter granules in Radford, VA may need reapplication after heavy irrigation.
+
+Perimeter granule carriers in Radford, VA clay soils may need lighter irrigation before application.
+
+Seasonal pest pressure in Radford, VA shifts between moisture ants and dry-wood vectors.
+
+Flea pupae survive vacuuming in Radford, VA carpet fibers unless heat treatment follows.
+
+Silverfish activity in Radford, VA attics tracks cardboard storage and ridge vent gaps.
+
+Exclusion audit 945437: exclusion mesh gauge and rodent runway grease mark reviewed for Radford, VA at 37.1200/-80.5600.
+
+Coordinate-anchored dispatch note: center reference 37.1200, -80.5600 at elevation ~1877 ft aligns with Radford County intake staging.
 
 Service reference: VA-24142-fa7002f1

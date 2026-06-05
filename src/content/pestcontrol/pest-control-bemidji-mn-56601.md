@@ -11,24 +11,41 @@ lng: -94.8800
 zipSample: ["56619", "56601"]
 zipCodes: ["56601", "56619"]
 localPaths: ["Beltrami County / primary ZIP 56601", "Beltrami County / ZIP 56601 sector", "Beltrami County / ZIP 56619 sector", "Beltrami County / coords 47.4800, -94.8800", "Beltrami County / elevation 1378 ft band"]
-zillowHomeValueUsd: 279399
 ---
 
-**Engineering Notice for Bemidji:** Structural loading calculated based on 1378 ft terrain assessment. Regional dispatch grid: Beltrami County.
+**Engineering Notice for Bemidji:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Beltrami County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Powderpost beetle exit holes in Bemidji, MN trim can be mistaken for dry-wood frass without magnification.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-We coordinate local dispatch coverage around Bemidji, MN and nearby ZIP sectors.
+Silverfish activity in Bemidji, MN attics tracks cardboard storage and ridge vent gaps.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bemidji, MN, but intake notes help reduce delays.
+FAQ: Why schedule quarterly instead of monthly in Bemidji, MN? Species pressure and label intervals dictate cadence.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 56601.
 
-Field note: Moisture pathway inspection logged near ZIP 56619/56601 intake.
+FAQ: What is exclusion? Without sealing entry points in Bemidji, MN, pressure often rebuilds.
 
-Dispatch sectors sampled: ZIP 56619, 56601 (county grid: Beltrami County).
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Clover mite staining on Bemidji, MN vinyl panels follows foundation mulch against brick ledges.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 56601.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Wildlife odors in Bemidji, MN crawlspaces may attract secondary pest activity.
+
+Perimeter mulch beds in Bemidji, MN should be reviewed for ant bridge paths.
+
+Flea pupae survive vacuuming in Bemidji, MN carpet fibers unless heat treatment follows.
+
+Seasonal cue 109902: cluster fly attic staging reviewed for Bemidji, MN soffit cavities.
+
+Coordinate-anchored dispatch note: center reference 47.4800, -94.8800 at elevation ~1378 ft aligns with Beltrami County intake staging.
 
 Service reference: MN-56601-c5458f98

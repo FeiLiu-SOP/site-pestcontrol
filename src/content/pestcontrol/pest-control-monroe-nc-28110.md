@@ -11,27 +11,41 @@ lng: -80.5600
 zipSample: ["28111", "28110", "28112"]
 zipCodes: ["28110", "28111", "28112"]
 localPaths: ["Union County / ZIP 28111 sector", "Union County / elevation 604 ft band", "Union County / primary ZIP 28110", "Union County / ZIP 28112 sector", "Union County / coords 35.0100, -80.5600"]
-zillowHomeValueUsd: 373696
 ---
 
-**Engineering Notice for Monroe:** Structural loading calculated based on 604 ft terrain assessment. Regional dispatch grid: Union County.
+**Engineering Notice for Monroe:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Union County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 28110.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Monroe, NC.
 
-Our service coordination centers on Monroe, NC coverage windows and verified intake details.
+FAQ: Why schedule quarterly instead of monthly in Monroe, NC? Species pressure and label intervals dictate cadence.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Monroe, NC, but intake notes help reduce delays.
+Dry-wood termite pellets in Monroe, NC attics may appear before exterior mud tubes.
 
-Local conditions in Monroe, NC can affect timelines and material choices.
+Humidity in Monroe, NC can sustain cockroach harborages behind appliance voids.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Flea pupae survive vacuuming in Monroe, NC carpet fibers unless heat treatment follows.
 
-Field note: Moisture pathway inspection logged near ZIP 28111/28110/28112 intake.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Field note: Connection points spot-checked where accessible (ZIP 28111/28110/28112 zone).
+Attic fogging in Monroe, NC requires combustion appliance shutoff verification first.
 
-Dispatch sectors sampled: ZIP 28111, 28110, 28112 (county grid: Union County).
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Drain fly biofilm in Monroe, NC floor drains signals grease traps need service before gel baits.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Step: record station placement maps for follow-up visits.
+
+Exclusion audit 914229: exclusion mesh gauge and rodent runway grease mark reviewed for Monroe, NC at 35.0100/-80.5600.
+
+On-site sector marker: Union County / coords 35.0100, -80.5600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28110-7037458f

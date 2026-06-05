@@ -11,27 +11,39 @@ lng: -86.8000
 zipSample: ["35295", "35242", "35220", "35238", "35214"]
 zipCodes: ["35232", "35201", "35249", "35206", "35217", "35209", "35068", "35218", "35213", "35205", "35294", "35203"]
 localPaths: ["Jefferson County / ZIP 35238 sector", "Jefferson County / coords 33.5300, -86.8000", "Jefferson County / elevation 604 ft band", "Jefferson County / primary ZIP 35218", "Jefferson County / ZIP 35295 sector"]
-zillowHomeValueUsd: 75043
 ---
 
-**Engineering Notice for Birmingham:** Structural loading calculated based on 604 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Birmingham:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 35218.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 35218.
+Step: label treatment zones for occupant re-entry timing.
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-We coordinate local dispatch coverage around Birmingham, AL and nearby ZIP sectors.
+FAQ: What is exclusion? Without sealing entry points in Birmingham, AL, pressure often rebuilds.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 35233/35212/35207.
+Cluster fly attic staging in Birmingham, AL peaks on south-facing voids after sunny thaw days.
 
-Field note: Connection points spot-checked where accessible (ZIP 35233/35212/35207 zone).
+Tip: Date bait station lids when servicing Birmingham, AL perimeter lines.
 
-Dispatch sectors sampled: ZIP 35233, 35212, 35207, 35215, 35235 (county grid: Jefferson County).
+Earwig harborages in Birmingham, AL meter boxes often follow drip irrigation overspray.
+
+Clover mite staining on Birmingham, AL wall restoration follows foundation mulch against brick ledges.
+
+Perimeter granule carriers in Birmingham, AL clay soils may need lighter irrigation before application.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Drain fly biofilm in Birmingham, AL floor drains signals grease traps need service before gel baits.
+
+Zone map 461187: attic insulation disturbance trace and pantry pest source logged for Birmingham, AL sector 35218.
+
+Species trace 461187: re-entry interval label and conducive moisture note keyed to Birmingham, AL elevation 604 ft.
+
+On-site sector marker: Jefferson County / ZIP 35224 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35218-36301e86

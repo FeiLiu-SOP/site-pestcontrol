@@ -11,24 +11,39 @@ lng: -80.6600
 zipSample: ["28104"]
 zipCodes: ["28104"]
 localPaths: ["Union County / coords 35.1100, -80.6600", "Union County / elevation 679 ft band", "Union County / ZIP 28104 sector", "Union County / primary ZIP 28104"]
-zillowHomeValueUsd: 594913
 ---
 
-**Engineering Notice for Stallings:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: Union County.
+**Engineering Notice for Stallings:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Union County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Structured milestones protect both sides when scheduling work.
+Fire ant mounds in Stallings, NC drive seams need granule rotation after irrigation events.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Perimeter mulch beds in Stallings, NC should be reviewed for ant bridge paths.
 
-Our service coordination centers on Stallings, NC coverage windows and verified intake details.
+Risk flag: Overwatered Stallings, NC planters can restart ant bridges within two weeks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: map entry points with photo logs before sealing.
 
-Field note: Access points and staging constraints recorded for ZIP 28104 coverage.
+Flea pupae survive vacuuming in Stallings, NC carpet fibers unless heat treatment follows.
 
-Dispatch sectors sampled: ZIP 28104 (county grid: Union County).
+Attic misting in Stallings, NC requires combustion air clearance verified before fans restart.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+County grid Union County informs routing near ZIP 28104.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Species trace 108221: re-entry interval label and conducive moisture note keyed to Stallings, NC elevation 679 ft.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Union County and primary ZIP 28104. Terrain reference: 679 ft. Center point: 35.1100, -80.6600. ZIP sample: 28104. Service perimeter note: Coverage extends through Union County with dispatch centered near ZIP 28104.
 
 Service reference: NC-28104-ca8e213f

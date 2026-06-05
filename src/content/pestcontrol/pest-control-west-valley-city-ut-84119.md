@@ -11,26 +11,41 @@ lng: -112.0100
 zipSample: ["84131", "84128", "84125", "84120", "84130"]
 zipCodes: ["84120", "84131", "84128", "84127", "84170", "84126", "84130", "84119", "84118", "84125"]
 localPaths: ["Salt Lake County / ZIP 84131 sector", "Salt Lake County / primary ZIP 84119", "Salt Lake County / coords 40.6900, -112.0100", "Salt Lake County / ZIP 84120 sector", "Salt Lake County / ZIP 84128 sector"]
-zillowHomeValueUsd: 437595
 ---
 
-**Engineering Notice for West Valley City:** Structural loading calculated based on 4364 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for West Valley City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Salt Lake County.
 
 
-Tip: request a written scope before work starts.
+Stink bug overwinter seams in West Valley City, UT exterior cladding laps require exclusion foam rated for UV exposure.
 
-We coordinate local dispatch coverage around West Valley City, UT and nearby ZIP sectors.
+Drain fly biofilm in West Valley City, UT floor drains signals grease traps need service before gel baits.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in West Valley City, UT, but intake notes help reduce delays.
+Powderpost beetle exit holes in West Valley City, UT trim can be mistaken for dry-wood frass without magnification.
 
-Tip: avoid large upfront payments without milestones.
+IGR packets for West Valley City, UT roach cycles should be dated on station lids.
 
-Field note: Wind exposure category reviewed for ZIP sector 84170/84119/84127.
+Perimeter granule carriers in West Valley City, UT clay soils may need lighter irrigation before application.
 
-Field note: Moisture pathway inspection logged near ZIP 84170/84119/84127 intake.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Dispatch sectors sampled: ZIP 84170, 84119, 84127, 84125, 84130 (county grid: Salt Lake County).
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 84119.
+
+Attic misting in West Valley City, UT requires combustion air clearance verified before fans restart.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Mud dauber nests in West Valley City, UT porch ceilings are benign but signal prey density for spiders.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Cluster fly attic staging in West Valley City, UT peaks on south-facing voids after sunny thaw days.
+
+Exclusion audit 815278: exclusion mesh gauge and rodent runway grease mark reviewed for West Valley City, UT at 40.6900/-112.0100.
+
+Perimeter dossier 815278: bait station anchor map and mulch bridge risk flagged for West Valley City, UT county Salt Lake County (ZIP 84119).
+
+Coordinate-anchored dispatch note: center reference 40.6900, -112.0100 at elevation ~4364 ft aligns with Salt Lake County intake staging.
 
 Service reference: UT-84119-4ee120c5

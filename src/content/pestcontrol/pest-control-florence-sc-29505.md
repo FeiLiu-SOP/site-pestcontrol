@@ -11,24 +11,41 @@ lng: -79.7900
 zipSample: ["29506", "29503", "29505", "29501", "29504"]
 zipCodes: ["29501", "29505", "29502", "29506", "29504", "29503"]
 localPaths: ["Florence County / primary ZIP 29505", "Florence County / ZIP 29504 sector", "Florence County / elevation 125 ft band", "Florence County / ZIP 29501 sector", "Florence County / ZIP 29506 sector"]
-zillowHomeValueUsd: 230676
 ---
 
-**Engineering Notice for Florence:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Florence County.
+**Engineering Notice for Florence:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Florence County.
 
 
-We coordinate local dispatch coverage around Florence, SC and nearby ZIP sectors.
+Silverfish activity in Florence, SC attics tracks cardboard storage and ridge vent gaps.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Bird mites in Florence, SC exhaust vents can persist after host nests are removed.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-A written scope helps prevent rework and mismatched expectations.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: In Florence, SC, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 29501/29505/29502.
+State note: Florence, SC commercial kitchens may require separate documentation for audit visits.
 
-Dispatch sectors sampled: ZIP 29501, 29505, 29502, 29504, 29506 (county grid: Florence County).
+Drain fly biofilm in Florence, SC floor drains signals grease traps need service before gel baits.
+
+Cluster fly attic staging in Florence, SC peaks on south-facing voids after sunny thaw days.
+
+Spider populations in Florence, SC eaves can signal insect prey density.
+
+FAQ: Can bed bugs spread room-to-room in Florence, SC row homes? Wall voids and shared ducts accelerate transfer.
+
+FAQ: Why schedule quarterly instead of monthly in Florence, SC? Species pressure and label intervals dictate cadence.
+
+Tip: Date bait station lids when servicing Florence, SC perimeter lines.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Florence, SC.
+
+Zone map 227276: attic insulation disturbance trace and pantry pest source logged for Florence, SC sector 29505.
+
+Species trace 227276: re-entry interval label and conducive moisture note keyed to Florence, SC elevation 125 ft.
+
+On-site sector marker: Florence County / primary ZIP 29505 — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29505-736d9964

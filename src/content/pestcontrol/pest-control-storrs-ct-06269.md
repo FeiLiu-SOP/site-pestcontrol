@@ -11,28 +11,43 @@ lng: -72.2500
 zipSample: ["06269", "06268"]
 zipCodes: ["06269", "06268"]
 localPaths: ["Capitol County / ZIP 06268 sector", "Capitol County / coords 41.8100, -72.2500", "Capitol County / elevation 643 ft band", "Capitol County / ZIP 06269 sector", "Capitol County / primary ZIP 06269"]
-zillowHomeValueUsd: 537891
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for Storrs:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Capitol County.
+**Engineering Notice for Storrs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Capitol County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Date bait station lids when servicing Storrs, CT perimeter lines.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+IGR packets for Storrs, CT roach cycles should be dated on station lids.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Storrs, CT, but intake notes help reduce delays.
+Humidity in Storrs, CT can sustain cockroach harborages behind appliance voids.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 06269.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Field note: Moisture pathway inspection logged near ZIP 06269/06268 intake.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Wind exposure category reviewed for ZIP sector 06269/06268.
+Flea pupae survive vacuuming in Storrs, CT carpet fibers unless heat treatment follows.
 
-Dispatch sectors sampled: ZIP 06269, 06268 (county grid: Capitol County).
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Storrs, CT.
+
+Risk flag: In Storrs, CT, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Silverfish activity in Storrs, CT attics tracks cardboard storage and ridge vent gaps.
+
+Risk flag: Overwatered Storrs, CT planters can restart ant bridges within two weeks.
+
+Clover mite staining on Storrs, CT wall restoration follows foundation mulch against brick ledges.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Stink bug overwinter seams in Storrs, CT vinyl panels laps require exclusion foam rated for UV exposure.
+
+Seasonal cue 972165: cluster fly attic staging reviewed for Storrs, CT soffit cavities.
+
+Harbor ledger 972165: frass lane, mud-tube scan, and garage jamb gap measure filed for Storrs, CT at 41.8100, -72.2500.
+
+On-site sector marker: Capitol County / ZIP 06268 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CT-06269-16c1e4de

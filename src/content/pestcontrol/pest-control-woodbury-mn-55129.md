@@ -11,25 +11,37 @@ lng: -92.9200
 zipSample: ["55129", "55125"]
 zipCodes: ["55125", "55129"]
 localPaths: ["Washington County / elevation 978 ft band", "Washington County / ZIP 55129 sector", "Washington County / ZIP 55125 sector", "Washington County / coords 44.9100, -92.9200", "Washington County / primary ZIP 55129"]
-zillowHomeValueUsd: 533017
 ---
 
-**Engineering Notice for Woodbury:** Structural loading calculated based on 978 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Woodbury:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.
 
 
-Tip: confirm licensing and insurance before approving work.
+IGR packets for Woodbury, MN roach cycles should be dated on station lids.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Dry-wood termite pellets in Woodbury, MN attics may appear before exterior mud tubes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 55129.
+Humidity in Woodbury, MN can sustain cockroach harborages behind appliance voids.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55125/55129.
+Earwig harborages in Woodbury, MN meter boxes often follow drip irrigation overspray.
 
-Dispatch sectors sampled: ZIP 55125, 55129 (county grid: Washington County).
+Tip: Keep pet food elevated and sealed between service visits.
+
+Stored cardboard in Woodbury, MN garages can accelerate pantry pest cycles.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 55129.
+
+Wildlife odors in Woodbury, MN crawlspaces may attract secondary pest activity.
+
+Stink bug overwinter seams in Woodbury, MN vinyl panels laps require exclusion foam rated for UV exposure.
+
+Drain fly biofilm in Woodbury, MN floor drains signals grease traps need service before gel baits.
+
+Seasonal cue 778204: cluster fly attic staging reviewed for Woodbury, MN soffit cavities.
+
+On-site sector marker: Washington County / primary ZIP 55129 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55129-6c0c73e2

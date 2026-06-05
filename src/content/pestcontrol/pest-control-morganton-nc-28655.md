@@ -11,25 +11,41 @@ lng: -81.7000
 zipSample: ["28655", "28680"]
 zipCodes: ["28655", "28680"]
 localPaths: ["Burke County / primary ZIP 28655", "Burke County / coords 35.7400, -81.7000", "Burke County / ZIP 28655 sector", "Burke County / ZIP 28680 sector", "Burke County / elevation 1201 ft band"]
-zillowHomeValueUsd: 259429
 ---
 
-**Engineering Notice for Morganton:** Structural loading calculated based on 1201 ft terrain assessment. Regional dispatch grid: Burke County.
+**Engineering Notice for Morganton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Burke County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 28655.
+Tip: Date bait station lids when servicing Morganton, NC perimeter lines.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Morganton, NC, but intake notes help reduce delays.
+IGR packets for Morganton, NC roach cycles should be dated on station lids.
 
-We coordinate local dispatch coverage around Morganton, NC and nearby ZIP sectors.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Flea pupae survive vacuuming in Morganton, NC carpet fibers unless heat treatment follows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28680/28655.
+Carpenter ant frass in Morganton, NC window sills may indicate moisture-softened framing.
 
-Dispatch sectors sampled: ZIP 28680, 28655 (county grid: Burke County).
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Cluster fly attic staging in Morganton, NC peaks on south-facing voids after sunny thaw days.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+FAQ: What is exclusion? Without sealing entry points in Morganton, NC, pressure often rebuilds.
+
+State note: Morganton, NC commercial kitchens may require separate documentation for audit visits.
+
+Fire ant mounds in Morganton, NC drive seams need granule rotation after irrigation events.
+
+Bird mites in Morganton, NC exhaust vents can persist after host nests are removed.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Species trace 704033: re-entry interval label and conducive moisture note keyed to Morganton, NC elevation 1201 ft.
+
+ZIP-corridor snapshot for Morganton, NC: sampled sectors include 28655, 28680; county routing grid remains Burke County.
 
 Service reference: NC-28655-6dbc0349

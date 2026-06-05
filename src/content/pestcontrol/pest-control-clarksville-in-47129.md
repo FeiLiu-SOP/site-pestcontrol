@@ -11,24 +11,43 @@ lng: -85.7700
 zipSample: ["47172", "47129"]
 zipCodes: ["47172", "47129"]
 localPaths: ["Clark County / primary ZIP 47129", "Clark County / coords 38.3200, -85.7700", "Clark County / elevation 472 ft band", "Clark County / ZIP 47172 sector", "Clark County / ZIP 47129 sector"]
-zillowHomeValueUsd: 203423
 ---
 
-**Engineering Notice for Clarksville:** Structural loading calculated based on 472 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Clarksville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Perimeter mulch beds in Clarksville, IN should be reviewed for ant bridge paths.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: label treatment zones for occupant re-entry timing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Perimeter granules in Clarksville, IN may need reapplication after heavy irrigation.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Date bait station lids when servicing Clarksville, IN perimeter lines.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Wind exposure category reviewed for ZIP sector 47129/47172.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Dispatch sectors sampled: ZIP 47129, 47172 (county grid: Clark County).
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Earwig harborages in Clarksville, IN meter boxes often follow drip irrigation overspray.
+
+Perimeter granule carriers in Clarksville, IN clay soils may need lighter irrigation before application.
+
+Mosquito breeding in Clarksville, IN catch basins can amplify perimeter callbacks.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 47129.
+
+Stink bug overwinter seams in Clarksville, IN wall restoration laps require exclusion foam rated for UV exposure.
+
+Clover mite staining on Clarksville, IN cladding service follows foundation mulch against brick ledges.
+
+In Clarksville, IN, subterranean termite swarms often follow warm rain windows.
+
+Harbor ledger 283702: frass lane, mud-tube scan, and garage jamb gap measure filed for Clarksville, IN at 38.3200, -85.7700.
+
+Species trace 283702: re-entry interval label and conducive moisture note keyed to Clarksville, IN elevation 472 ft.
+
+On-site sector marker: Clark County / ZIP 47129 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-47129-de3611bc

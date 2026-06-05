@@ -11,26 +11,39 @@ lng: -80.1100
 zipSample: ["33486", "33429", "33433", "33432", "33431"]
 zipCodes: ["33496", "33429", "33499", "33427", "33432", "33434", "33431", "33481", "33487", "33486", "33433"]
 localPaths: ["Palm Beach County / ZIP 33432 sector", "Palm Beach County / ZIP 33429 sector", "Palm Beach County / primary ZIP 33496", "Palm Beach County / elevation 20 ft band", "Palm Beach County / ZIP 33431 sector"]
-zillowHomeValueUsd: 980316
 ---
 
-**Engineering Notice for Boca Raton:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Palm Beach County.
+**Engineering Notice for Boca Raton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Palm Beach County.
 
 
-Our service coordination centers on Boca Raton, FL coverage windows and verified intake details.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Fire ant mounds in Boca Raton, FL drive seams need granule rotation after irrigation events.
 
-Tip: address recurring issues early to prevent bigger damage.
+Bird mites in Boca Raton, FL exhaust vents can persist after host nests are removed.
 
-Local conditions in Boca Raton, FL can affect timelines and material choices.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33496/33434/33487.
+Risk flag: Overwatered Boca Raton, FL planters can restart ant bridges within two weeks.
 
-Field note: Moisture pathway inspection logged near ZIP 33496/33434/33487 intake.
+FAQ: Why schedule quarterly instead of monthly in Boca Raton, FL? Species pressure and label intervals dictate cadence.
 
-Dispatch sectors sampled: ZIP 33496, 33434, 33487, 33433, 33427 (county grid: Palm Beach County).
+FAQ: Can bed bugs spread room-to-room in Boca Raton, FL row homes? Wall voids and shared ducts accelerate transfer.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Powderpost beetle exit holes in Boca Raton, FL trim can be mistaken for dry-wood frass without magnification.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Seasonal cue 934740: cluster fly attic staging reviewed for Boca Raton, FL soffit cavities.
+
+Exclusion audit 934740: exclusion mesh gauge and rodent runway grease mark reviewed for Boca Raton, FL at 26.3800/-80.1100.
+
+On-site sector marker: Palm Beach County / primary ZIP 33496 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33496-958985e1

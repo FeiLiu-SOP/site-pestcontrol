@@ -11,26 +11,37 @@ lng: -78.7100
 zipSample: ["29597", "29566", "29568", "29582"]
 zipCodes: ["29582", "29597", "29566", "29568"]
 localPaths: ["Horry County / primary ZIP 29582", "Horry County / coords 33.8200, -78.7100", "Horry County / ZIP 29566 sector", "Horry County / ZIP 29597 sector", "Horry County / ZIP 29582 sector"]
-zillowHomeValueUsd: 393246
 ---
 
-**Engineering Notice for North Myrtle Beach:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Horry County.
+**Engineering Notice for North Myrtle Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Horry County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Overwatered North Myrtle Beach, SC planters can restart ant bridges within two weeks.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Bird mites in North Myrtle Beach, SC exhaust vents can persist after host nests are removed.
 
-Tip: avoid large upfront payments without milestones.
+IGR packets for North Myrtle Beach, SC roach cycles should be dated on station lids.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Why do pests return after spraying? Without sealing entry points in North Myrtle Beach, SC, pressure often rebuilds.
 
-Tip: request a written scope before work starts.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Connection points spot-checked where accessible (ZIP 29582/29597/29568 zone).
+Risk flag: In North Myrtle Beach, SC, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Access points and staging constraints recorded for ZIP 29582/29597/29568 coverage.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Dispatch sectors sampled: ZIP 29582, 29597, 29568, 29566 (county grid: Horry County).
+Tip: Date bait station lids when servicing North Myrtle Beach, SC perimeter lines.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+FAQ: Why schedule quarterly instead of monthly in North Myrtle Beach, SC? Species pressure and label intervals dictate cadence.
+
+Species trace 220535: re-entry interval label and conducive moisture note keyed to North Myrtle Beach, SC elevation 7 ft.
+
+On-site sector marker: Horry County / primary ZIP 29582 — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29582-3cae8f1d

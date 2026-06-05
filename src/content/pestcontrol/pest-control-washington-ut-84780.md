@@ -11,27 +11,41 @@ lng: -113.4900
 zipSample: ["84780", "84771"]
 zipCodes: ["84771", "84780"]
 localPaths: ["Washington County / ZIP 84771 sector", "Washington County / elevation 2841 ft band", "Washington County / ZIP 84780 sector", "Washington County / primary ZIP 84780", "Washington County / coords 37.1300, -113.4900"]
-zillowHomeValueUsd: 544569
 ---
 
-**Engineering Notice for Washington:** Structural loading calculated based on 2841 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Washington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Our service coordination centers on Washington, UT coverage windows and verified intake details.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Tip: compare at least two estimates for scope and timeline.
+Stink bug overwinter seams in Washington, UT wall restoration laps require exclusion foam rated for UV exposure.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 84780.
+Wildlife odors in Washington, UT crawlspaces may attract secondary pest activity.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84780/84771.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Access points and staging constraints recorded for ZIP 84780/84771 coverage.
+Step: record station placement maps for follow-up visits.
 
-Dispatch sectors sampled: ZIP 84780, 84771 (county grid: Washington County).
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 84780.
+
+Yellow jacket nests in Washington, UT soffit cavities peak in late summer routing windows.
+
+Risk flag: In Washington, UT, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 84780.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Step: map entry points with photo logs before sealing.
+
+Intercept log 117199: bed bug intercept count staged before Washington, UT interior gel zones.
+
+Regional mesh label Washington County: moisture and logistics baselines are keyed to Washington, UT before niche-specific work begins.
 
 Service reference: UT-84780-34442871

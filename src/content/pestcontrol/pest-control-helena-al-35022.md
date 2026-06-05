@@ -11,26 +11,43 @@ lng: -86.8800
 zipSample: ["35022", "35080"]
 zipCodes: ["35022", "35080"]
 localPaths: ["Shelby County / primary ZIP 35022", "Shelby County / ZIP 35080 sector", "Shelby County / coords 33.2800, -86.8800", "Shelby County / elevation 430 ft band", "Shelby County / ZIP 35022 sector"]
-zillowHomeValueUsd: 279913
 ---
 
-**Engineering Notice for Helena:** Structural loading calculated based on 430 ft terrain assessment. Regional dispatch grid: Shelby County.
+**Engineering Notice for Helena:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Shelby County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Mud dauber nests in Helena, AL porch ceilings are benign but signal prey density for spiders.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Powderpost beetle exit holes in Helena, AL trim can be mistaken for dry-wood frass without magnification.
 
-Tip: request a written scope before work starts.
+Request an inspection with species ID before treatment. Serving ZIP Code: 35022.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Perimeter granules in Helena, AL may need reapplication after heavy irrigation.
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Field note: Moisture pathway inspection logged near ZIP 35022/35080 intake.
+Perimeter granule carriers in Helena, AL clay soils may need lighter irrigation before application.
 
-Field note: Wind exposure category reviewed for ZIP sector 35022/35080.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Dispatch sectors sampled: ZIP 35022, 35080 (county grid: Shelby County).
+Stink bug overwinter seams in Helena, AL exterior cladding laps require exclusion foam rated for UV exposure.
+
+Clover mite staining on Helena, AL wall restoration follows foundation mulch against brick ledges.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 35022.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Cluster fly attic staging in Helena, AL peaks on south-facing voids after sunny thaw days.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Species trace 646355: re-entry interval label and conducive moisture note keyed to Helena, AL elevation 430 ft.
+
+Harbor ledger 646355: frass lane, mud-tube scan, and garage jamb gap measure filed for Helena, AL at 33.2800, -86.8800.
+
+Regional mesh label Shelby County: moisture and logistics baselines are keyed to Helena, AL before niche-specific work begins.
 
 Service reference: AL-35022-a17e7922

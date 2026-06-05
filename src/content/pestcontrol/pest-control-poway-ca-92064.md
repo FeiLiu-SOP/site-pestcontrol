@@ -11,27 +11,43 @@ lng: -117.0200
 zipSample: ["92074", "92064"]
 zipCodes: ["92064", "92074"]
 localPaths: ["San Diego County / coords 32.9900, -117.0200", "San Diego County / elevation 705 ft band", "San Diego County / primary ZIP 92064", "San Diego County / ZIP 92064 sector", "San Diego County / ZIP 92074 sector"]
-zillowHomeValueUsd: 1234991
 ---
 
-**Engineering Notice for Poway:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for Poway:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Earwig harborages in Poway, CA meter boxes often follow drip irrigation overspray.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Poway, CA, but intake notes help reduce delays.
+Attic fogging in Poway, CA requires combustion appliance shutoff verification first.
 
-Our service coordination centers on Poway, CA coverage windows and verified intake details.
+Flea pupae survive vacuuming in Poway, CA carpet fibers unless heat treatment follows.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 92064.
+Request an inspection with species ID before treatment. Serving ZIP Code: 92064.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: In Poway, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Access points and staging constraints recorded for ZIP 92064/92074 coverage.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92064/92074.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Dispatch sectors sampled: ZIP 92064, 92074 (county grid: San Diego County).
+IGR packets for Poway, CA roach cycles should be dated on station lids.
+
+Risk flag: Overwatered Poway, CA planters can restart ant bridges within two weeks.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 92064.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Tip: Date bait station lids when servicing Poway, CA perimeter lines.
+
+Intercept log 372213: bed bug intercept count staged before Poway, CA interior gel zones.
+
+Harbor ledger 372213: frass lane, mud-tube scan, and garage jamb gap measure filed for Poway, CA at 32.9900, -117.0200.
+
+ZIP-corridor snapshot for Poway, CA: sampled sectors include 92064, 92074; county routing grid remains San Diego County.
 
 Service reference: CA-92064-88a475aa

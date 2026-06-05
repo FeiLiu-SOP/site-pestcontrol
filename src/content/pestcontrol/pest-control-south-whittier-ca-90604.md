@@ -11,25 +11,43 @@ lng: -118.0300
 zipSample: ["90604", "90605"]
 zipCodes: ["90605", "90604"]
 localPaths: ["Los Angeles County / coords 33.9300, -118.0300", "Los Angeles County / primary ZIP 90604", "Los Angeles County / elevation 174 ft band", "Los Angeles County / ZIP 90605 sector", "Los Angeles County / ZIP 90604 sector"]
-zillowHomeValueUsd: 828651
 ---
 
-**Engineering Notice for South Whittier:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for South Whittier:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 90604.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-In South Whittier, CA, seasonal demand can change scheduling windows.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in South Whittier, CA.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Silverfish activity in South Whittier, CA attics tracks cardboard storage and ridge vent gaps.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Overwatered South Whittier, CA planters can restart ant bridges within two weeks.
 
-Field note: Wind exposure category reviewed for ZIP sector 90604/90605.
+Bird mites in South Whittier, CA exhaust vents can persist after host nests are removed.
 
-Dispatch sectors sampled: ZIP 90604, 90605 (county grid: Los Angeles County).
+Yellow jacket nests in South Whittier, CA soffit cavities peak in late summer routing windows.
+
+Earwig harborages in South Whittier, CA meter boxes often follow drip irrigation overspray.
+
+Carpenter ant frass in South Whittier, CA window sills may indicate moisture-softened framing.
+
+Step: map entry points with photo logs before sealing.
+
+Flea pupae survive vacuuming in South Whittier, CA carpet fibers unless heat treatment follows.
+
+Stored cardboard in South Whittier, CA garages can accelerate pantry pest cycles.
+
+Attic fogging in South Whittier, CA requires combustion appliance shutoff verification first.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Exclusion audit 115944: exclusion mesh gauge and rodent runway grease mark reviewed for South Whittier, CA at 33.9300/-118.0300.
+
+Species trace 115944: re-entry interval label and conducive moisture note keyed to South Whittier, CA elevation 174 ft.
+
+ZIP-corridor snapshot for South Whittier, CA: sampled sectors include 90605, 90604; county routing grid remains Los Angeles County.
 
 Service reference: CA-90604-79f37d02

@@ -11,24 +11,43 @@ lng: -123.1900
 zipSample: ["97128"]
 zipCodes: ["97128"]
 localPaths: ["Yamhill County / coords 45.2100, -123.1900", "Yamhill County / ZIP 97128 sector", "Yamhill County / primary ZIP 97128", "Yamhill County / elevation 164 ft band"]
-zillowHomeValueUsd: 485277
 ---
 
-**Engineering Notice for McMinnville:** Structural loading calculated based on 164 ft terrain assessment. Regional dispatch grid: Yamhill County.
+**Engineering Notice for McMinnville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Yamhill County.
 
 
-In McMinnville, OR, seasonal demand can change scheduling windows.
+Mud dauber nests in McMinnville, OR porch ceilings are benign but signal prey density for spiders.
 
-Tip: request a written scope before work starts.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Keep pet food elevated and sealed between service visits.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in McMinnville, OR, but intake notes help reduce delays.
+Earwig harborages in McMinnville, OR meter boxes often follow drip irrigation overspray.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 97128.
+In McMinnville, OR, subterranean termite swarms often follow warm rain windows.
 
-Dispatch sectors sampled: ZIP 97128 (county grid: Yamhill County).
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 97128.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 97128.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+County grid Yamhill County informs routing near ZIP 97128.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Perimeter dossier 438292: bait station anchor map and mulch bridge risk flagged for McMinnville, OR county Yamhill County (ZIP 97128).
+
+Species trace 438292: re-entry interval label and conducive moisture note keyed to McMinnville, OR elevation 164 ft.
+
+Coordinate-anchored dispatch note: center reference 45.2100, -123.1900 at elevation ~164 ft aligns with Yamhill County intake staging.
 
 Service reference: OR-97128-9eaa69e1

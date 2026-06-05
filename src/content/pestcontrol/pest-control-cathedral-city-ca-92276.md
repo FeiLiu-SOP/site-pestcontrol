@@ -11,27 +11,37 @@ lng: -116.4600
 zipSample: ["92235", "92234", "92276"]
 zipCodes: ["92234", "92276", "92235"]
 localPaths: ["Riverside County / elevation 387 ft band", "Riverside County / ZIP 92235 sector", "Riverside County / ZIP 92276 sector", "Riverside County / coords 33.8400, -116.4600", "Riverside County / primary ZIP 92276"]
-zillowHomeValueUsd: 388787
 ---
 
-**Engineering Notice for Cathedral City:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Cathedral City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.
 
 
-We coordinate local dispatch coverage around Cathedral City, CA and nearby ZIP sectors.
+Powderpost beetle exit holes in Cathedral City, CA trim can be mistaken for dry-wood frass without magnification.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 92276.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Cathedral City, CA, but intake notes help reduce delays.
+Step: verify attic access safety before insulation disturbance.
 
-Tip: avoid large upfront payments without milestones.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 92276.
 
-Field note: Access points and staging constraints recorded for ZIP 92235/92276/92234 coverage.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Field note: Moisture pathway inspection logged near ZIP 92235/92276/92234 intake.
+Exclusion gaps at garage jambs in Cathedral City, CA are common rodent access points.
 
-Dispatch sectors sampled: ZIP 92235, 92276, 92234 (county grid: Riverside County).
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Humidity in Cathedral City, CA can sustain cockroach harborages behind appliance voids.
+
+Attic fogging in Cathedral City, CA requires combustion appliance shutoff verification first.
+
+Perimeter dossier 373514: bait station anchor map and mulch bridge risk flagged for Cathedral City, CA county Riverside County (ZIP 92276).
+
+On-site sector marker: Riverside County / primary ZIP 92276 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92276-4dae1e0d

@@ -11,25 +11,41 @@ lng: -118.4400
 zipSample: ["91340", "91341"]
 zipCodes: ["91341", "91340"]
 localPaths: ["Los Angeles County / elevation 1109 ft band", "Los Angeles County / ZIP 91340 sector", "Los Angeles County / ZIP 91341 sector", "Los Angeles County / primary ZIP 91340", "Los Angeles County / coords 34.2900, -118.4400"]
-zillowHomeValueUsd: 738854
 ---
 
-**Engineering Notice for San Fernando:** Structural loading calculated based on 1109 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for San Fernando:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: label treatment zones for occupant re-entry timing.
 
-We coordinate local dispatch coverage around San Fernando, CA and nearby ZIP sectors.
+FAQ: Why schedule quarterly instead of monthly in San Fernando, CA? Species pressure and label intervals dictate cadence.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 91340.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in San Fernando, CA.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Moisture pathway inspection logged near ZIP 91340/91341 intake.
+Drain fly biofilm in San Fernando, CA floor drains signals grease traps need service before gel baits.
 
-Dispatch sectors sampled: ZIP 91340, 91341 (county grid: Los Angeles County).
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 91340.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Clover mite staining on San Fernando, CA exterior cladding follows foundation mulch against brick ledges.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+State note: San Fernando, CA commercial kitchens may require separate documentation for audit visits.
+
+Species trace 372411: re-entry interval label and conducive moisture note keyed to San Fernando, CA elevation 1109 ft.
+
+Harbor ledger 372411: frass lane, mud-tube scan, and garage jamb gap measure filed for San Fernando, CA at 34.2900, -118.4400.
+
+On-site sector marker: Los Angeles County / elevation 1109 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91340-4827b0fd

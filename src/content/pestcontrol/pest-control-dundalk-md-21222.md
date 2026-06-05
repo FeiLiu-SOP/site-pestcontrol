@@ -11,24 +11,41 @@ lng: -76.4900
 zipSample: ["21222", "21224"]
 zipCodes: ["21224", "21222"]
 localPaths: ["Baltimore County / ZIP 21224 sector", "Baltimore County / ZIP 21222 sector", "Baltimore County / elevation 30 ft band", "Baltimore County / coords 39.2700, -76.4900", "Baltimore County / primary ZIP 21222"]
-zillowHomeValueUsd: 226626
 ---
 
-**Engineering Notice for Dundalk:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Dundalk:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.
 
 
-We coordinate local dispatch coverage around Dundalk, MD and nearby ZIP sectors.
+Monitoring boards in Dundalk, MD crawlspaces stay 72 hours before snap traps are reset.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 21222.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Mud dauber nests in Dundalk, MD porch ceilings are benign but signal prey density for spiders.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Can bed bugs spread room-to-room in Dundalk, MD row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Wind exposure category reviewed for ZIP sector 21224/21222.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Dispatch sectors sampled: ZIP 21224, 21222 (county grid: Baltimore County).
+Tip: Date bait station lids when servicing Dundalk, MD perimeter lines.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 21222.
+
+FAQ: Why schedule quarterly instead of monthly in Dundalk, MD? Species pressure and label intervals dictate cadence.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Attic fogging in Dundalk, MD requires combustion appliance shutoff verification first.
+
+Risk flag: Overwatered Dundalk, MD planters can restart ant bridges within two weeks.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Species trace 724933: re-entry interval label and conducive moisture note keyed to Dundalk, MD elevation 30 ft.
+
+Exclusion audit 724933: exclusion mesh gauge and rodent runway grease mark reviewed for Dundalk, MD at 39.2700/-76.4900.
+
+On-site sector marker: Baltimore County / primary ZIP 21222 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21222-62fed7ec

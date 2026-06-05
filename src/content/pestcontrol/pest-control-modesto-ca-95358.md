@@ -11,26 +11,43 @@ lng: -121.0000
 zipSample: ["95354", "95355", "95397", "95353", "95352"]
 zipCodes: ["95397", "95351", "95352", "95353", "95358", "95355", "95356", "95350", "95354"]
 localPaths: ["Stanislaus County / ZIP 95397 sector", "Stanislaus County / ZIP 95353 sector", "Stanislaus County / ZIP 95352 sector", "Stanislaus County / ZIP 95355 sector", "Stanislaus County / elevation 102 ft band"]
-zillowHomeValueUsd: 434000
 ---
 
-**Engineering Notice for Modesto:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Stanislaus County.
+**Engineering Notice for Modesto:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Stanislaus County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Why schedule quarterly instead of monthly in Modesto, CA? Species pressure and label intervals dictate cadence.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 95358.
 
-We coordinate local dispatch coverage around Modesto, CA and nearby ZIP sectors.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 95358.
 
-Local conditions in Modesto, CA can affect timelines and material choices.
+Cluster fly attic staging in Modesto, CA peaks on south-facing voids after sunny thaw days.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 95353/95351/95350.
+Spider populations in Modesto, CA eaves can signal insect prey density.
 
-Field note: Connection points spot-checked where accessible (ZIP 95353/95351/95350 zone).
+Fire ant mounds in Modesto, CA drive seams need granule rotation after irrigation events.
 
-Dispatch sectors sampled: ZIP 95353, 95351, 95350, 95352, 95355 (county grid: Stanislaus County).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Modesto, CA.
+
+Flea pupae survive vacuuming in Modesto, CA carpet fibers unless heat treatment follows.
+
+Drain fly biofilm in Modesto, CA floor drains signals grease traps need service before gel baits.
+
+Attic insulation disturbance in Modesto, CA may indicate wildlife nesting routes.
+
+IGR packets for Modesto, CA roach cycles should be dated on station lids.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Intercept log 914809: bed bug intercept count staged before Modesto, CA interior gel zones.
+
+Perimeter dossier 914809: bait station anchor map and mulch bridge risk flagged for Modesto, CA county Stanislaus County (ZIP 95358).
+
+On-site sector marker: Stanislaus County / ZIP 95358 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95358-9751c9f5

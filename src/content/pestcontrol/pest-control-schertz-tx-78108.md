@@ -11,26 +11,39 @@ lng: -98.2500
 zipSample: ["78108", "78132", "78154"]
 zipCodes: ["78154", "78132", "78108"]
 localPaths: ["Bexar County / coords 29.5700, -98.2500", "Bexar County / primary ZIP 78108", "Bexar County / ZIP 78132 sector", "Bexar County / elevation 699 ft band", "Bexar County / ZIP 78108 sector"]
-zillowHomeValueUsd: 330370
 ---
 
-**Engineering Notice for Schertz:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Bexar County.
+**Engineering Notice for Schertz:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bexar County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Request an inspection with species ID before treatment. Serving ZIP Code: 78108.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: In Schertz, TX, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-In Schertz, TX, seasonal demand can change scheduling windows.
+Step: map entry points with photo logs before sealing.
 
-We coordinate local dispatch coverage around Schertz, TX and nearby ZIP sectors.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Tip: compare at least two estimates for scope and timeline.
+Stink bug overwinter seams in Schertz, TX exterior cladding laps require exclusion foam rated for UV exposure.
 
-Field note: Connection points spot-checked where accessible (ZIP 78132/78108/78154 zone).
+Tip: Log pet access routes when bait stations are placed.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78132/78108/78154.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Dispatch sectors sampled: ZIP 78132, 78108, 78154 (county grid: Bexar County).
+Mud dauber nests in Schertz, TX porch ceilings are benign but signal prey density for spiders.
+
+Material note: Perimeter granules in Schertz, TX may need reapplication after heavy irrigation.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 78108.
+
+Cluster fly attic staging in Schertz, TX peaks on south-facing voids after sunny thaw days.
+
+Perimeter dossier 497009: bait station anchor map and mulch bridge risk flagged for Schertz, TX county Bexar County (ZIP 78108).
+
+Intercept log 497009: bed bug intercept count staged before Schertz, TX interior gel zones.
+
+On-site sector marker: Bexar County / ZIP 78108 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78108-fe1bc0d0

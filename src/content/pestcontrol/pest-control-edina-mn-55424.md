@@ -11,25 +11,39 @@ lng: -93.3600
 zipSample: ["55410", "55436", "55424", "55435", "55439"]
 zipCodes: ["55439", "55410", "55436", "55424", "55435"]
 localPaths: ["Hennepin County / ZIP 55410 sector", "Hennepin County / ZIP 55435 sector", "Hennepin County / coords 44.8900, -93.3600", "Hennepin County / ZIP 55439 sector", "Hennepin County / ZIP 55436 sector"]
-zillowHomeValueUsd: 1012386
 ---
 
-**Engineering Notice for Edina:** Structural loading calculated based on 942 ft terrain assessment. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Edina:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hennepin County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Attic fogging in Edina, MN requires combustion appliance shutoff verification first.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Edina, MN, but intake notes help reduce delays.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 55424.
 
-We coordinate local dispatch coverage around Edina, MN and nearby ZIP sectors.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 55424.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: verify attic access safety before insulation disturbance.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55410/55436/55435.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Dispatch sectors sampled: ZIP 55410, 55436, 55435, 55439, 55424 (county grid: Hennepin County).
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Flea pupae survive vacuuming in Edina, MN carpet fibers unless heat treatment follows.
+
+We coordinate Edina, MN pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Fire ant mounds in Edina, MN drive seams need granule rotation after irrigation events.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Zone map 105170: attic insulation disturbance trace and pantry pest source logged for Edina, MN sector 55424.
+
+On-site sector marker: Hennepin County / ZIP 55410 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55424-a85557ed

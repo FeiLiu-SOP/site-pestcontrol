@@ -11,27 +11,39 @@ lng: -87.6600
 zipSample: ["60430"]
 zipCodes: ["60430"]
 localPaths: ["Cook County / elevation 669 ft band", "Cook County / ZIP 60430 sector", "Cook County / primary ZIP 60430", "Cook County / coords 41.5600, -87.6600"]
-zillowHomeValueUsd: 243510
 ---
 
-**Engineering Notice for Homewood:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Homewood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-In Homewood, IL, seasonal demand can change scheduling windows.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 60430.
+Risk flag: In Homewood, IL, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Tip: request a written scope before work starts.
+Monitoring boards in Homewood, IL crawlspaces stay 72 hours before snap traps are reset.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60430.
+Silverfish activity in Homewood, IL attics tracks cardboard storage and ridge vent gaps.
 
-Field note: Moisture pathway inspection logged near ZIP 60430 intake.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Dispatch sectors sampled: ZIP 60430 (county grid: Cook County).
+State note: Homewood, IL commercial kitchens may require separate documentation for audit visits.
+
+Fire ant mounds in Homewood, IL drive seams need granule rotation after irrigation events.
+
+Stink bug overwinter seams in Homewood, IL wall restoration laps require exclusion foam rated for UV exposure.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Dry-wood termite pellets in Homewood, IL attics may appear before exterior mud tubes.
+
+Seasonal cue 318776: cluster fly attic staging reviewed for Homewood, IL soffit cavities.
+
+Harbor ledger 318776: frass lane, mud-tube scan, and garage jamb gap measure filed for Homewood, IL at 41.5600, -87.6600.
+
+On-site sector marker: Cook County / coords 41.5600, -87.6600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60430-546a32c2

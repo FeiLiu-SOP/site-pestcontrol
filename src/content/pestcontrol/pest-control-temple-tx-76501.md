@@ -11,25 +11,41 @@ lng: -97.3900
 zipSample: ["76504", "76508", "76502", "76501", "76533"]
 zipCodes: ["76533", "76504", "76508", "76501", "76502"]
 localPaths: ["Bell County / elevation 623 ft band", "Bell County / ZIP 76508 sector", "Bell County / ZIP 76533 sector", "Bell County / primary ZIP 76501", "Bell County / ZIP 76504 sector"]
-zillowHomeValueUsd: 192569
 ---
 
-**Engineering Notice for Temple:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Bell County.
+**Engineering Notice for Temple:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bell County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Log pet access routes when bait stations are placed.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Carpenter ant frass in Temple, TX window sills may indicate moisture-softened framing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 76501.
+Attic misting in Temple, TX requires combustion air clearance verified before fans restart.
 
-Tip: address recurring issues early to prevent bigger damage.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Connection points spot-checked where accessible (ZIP 76533/76504/76502 zone).
+Flea pupae survive vacuuming in Temple, TX carpet fibers unless heat treatment follows.
 
-Dispatch sectors sampled: ZIP 76533, 76504, 76502, 76508, 76501 (county grid: Bell County).
+Across Temple, TX, rodent entry points frequently track utility penetrations.
+
+Step: record station placement maps for follow-up visits.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 76501.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Drain fly biofilm in Temple, TX floor drains signals grease traps need service before gel baits.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Risk flag: Overwatered Temple, TX planters can restart ant bridges within two weeks.
+
+Exclusion audit 510908: exclusion mesh gauge and rodent runway grease mark reviewed for Temple, TX at 31.1100/-97.3900.
+
+On-site sector marker: Bell County / ZIP 76501 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76501-a140860c

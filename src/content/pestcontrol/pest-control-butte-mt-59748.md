@@ -11,26 +11,43 @@ lng: -112.6600
 zipSample: ["59750", "59707", "59748", "59727", "59711"]
 zipCodes: ["59702", "59701", "59750", "59748", "59711", "59703", "59727", "59707"]
 localPaths: ["Silver Bow County / primary ZIP 59748", "Silver Bow County / ZIP 59711 sector", "Silver Bow County / ZIP 59727 sector", "Silver Bow County / elevation 5810 ft band", "Silver Bow County / ZIP 59750 sector"]
-zillowHomeValueUsd: 276196
 ---
 
-**Engineering Notice for Butte:** Structural loading calculated based on 5810 ft terrain assessment. Regional dispatch grid: Silver Bow County.
+**Engineering Notice for Butte:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Silver Bow County.
 
 
-In Butte, MT, urgent pest control issues can escalate quickly.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Structured milestones protect both sides when scheduling work.
+Silverfish activity in Butte, MT attics tracks cardboard storage and ridge vent gaps.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Attic misting in Butte, MT requires combustion air clearance verified before fans restart.
 
-Tip: confirm licensing and insurance before approving work.
+Spider populations in Butte, MT eaves can signal insect prey density.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 59748/59702/59711.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Connection points spot-checked where accessible (ZIP 59748/59702/59711 zone).
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Dispatch sectors sampled: ZIP 59748, 59702, 59711, 59750, 59707 (county grid: Silver Bow County).
+Material note: Perimeter granules in Butte, MT may need reapplication after heavy irrigation.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+FAQ: Can bed bugs spread room-to-room in Butte, MT row homes? Wall voids and shared ducts accelerate transfer.
+
+Earwig harborages in Butte, MT meter boxes often follow drip irrigation overspray.
+
+Across Butte, MT, rodent entry points frequently track utility penetrations.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 59748.
+
+State note: Butte, MT commercial kitchens may require separate documentation for audit visits.
+
+Intercept log 857881: bed bug intercept count staged before Butte, MT interior gel zones.
+
+Species trace 857881: re-entry interval label and conducive moisture note keyed to Butte, MT elevation 5810 ft.
+
+On-site sector marker: Silver Bow County / ZIP 59750 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MT-59748-7340d724

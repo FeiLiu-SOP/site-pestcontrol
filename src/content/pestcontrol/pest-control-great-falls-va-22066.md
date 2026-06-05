@@ -11,27 +11,41 @@ lng: -77.3000
 zipSample: ["22102", "22066"]
 zipCodes: ["22102", "22066"]
 localPaths: ["Fairfax County / elevation 394 ft band", "Fairfax County / ZIP 22102 sector", "Fairfax County / ZIP 22066 sector", "Fairfax County / primary ZIP 22066", "Fairfax County / coords 39.0100, -77.3000"]
-zillowHomeValueUsd: 1681466
 ---
 
-**Engineering Notice for Great Falls:** Structural loading calculated based on 394 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Great Falls:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Great Falls, VA.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Dry-wood termite pellets in Great Falls, VA attics may appear before exterior mud tubes.
 
-Tip: avoid large upfront payments without milestones.
+Stink bug overwinter seams in Great Falls, VA cladding service laps require exclusion foam rated for UV exposure.
 
-Homeowners in Great Falls, VA often face sudden pest control problems that require fast action.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 22066.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Connection points spot-checked where accessible (ZIP 22066/22102 zone).
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Moisture pathway inspection logged near ZIP 22066/22102 intake.
+Flea pupae survive vacuuming in Great Falls, VA carpet fibers unless heat treatment follows.
 
-Dispatch sectors sampled: ZIP 22066, 22102 (county grid: Fairfax County).
+Material note: Perimeter granules in Great Falls, VA may need reapplication after heavy irrigation.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+IGR packets for Great Falls, VA roach cycles should be dated on station lids.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 22066.
+
+Yellow jacket nests in Great Falls, VA soffit cavities peak in late summer routing windows.
+
+Silverfish activity in Great Falls, VA attics tracks cardboard storage and ridge vent gaps.
+
+FAQ: Why schedule quarterly instead of monthly in Great Falls, VA? Species pressure and label intervals dictate cadence.
+
+Perimeter dossier 283326: bait station anchor map and mulch bridge risk flagged for Great Falls, VA county Fairfax County (ZIP 22066).
+
+On-site sector marker: Fairfax County / ZIP 22102 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22066-e15bfd1f

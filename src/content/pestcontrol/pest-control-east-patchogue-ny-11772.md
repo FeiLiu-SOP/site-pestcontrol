@@ -11,24 +11,41 @@ lng: -72.9800
 zipSample: ["11772"]
 zipCodes: ["11772"]
 localPaths: ["Suffolk County / elevation 36 ft band", "Suffolk County / coords 40.7700, -72.9800", "Suffolk County / ZIP 11772 sector", "Suffolk County / primary ZIP 11772"]
-zillowHomeValueUsd: 585753
 ---
 
-**Engineering Notice for East Patchogue:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for East Patchogue:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Perimeter granule carriers in East Patchogue, NY clay soils may need lighter irrigation before application.
 
-Tip: request a written scope before work starts.
+FAQ: Why schedule quarterly instead of monthly in East Patchogue, NY? Species pressure and label intervals dictate cadence.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in East Patchogue, NY, but intake notes help reduce delays.
+Silverfish activity in East Patchogue, NY attics tracks cardboard storage and ridge vent gaps.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Local conditions in East Patchogue, NY can affect timelines and material choices.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Field note: Access points and staging constraints recorded for ZIP 11772 coverage.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Dispatch sectors sampled: ZIP 11772 (county grid: Suffolk County).
+Yellow jacket nests in East Patchogue, NY soffit cavities peak in late summer routing windows.
+
+Earwig harborages in East Patchogue, NY meter boxes often follow drip irrigation overspray.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 11772.
+
+FAQ: Can bed bugs spread room-to-room in East Patchogue, NY row homes? Wall voids and shared ducts accelerate transfer.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Intercept log 598868: bed bug intercept count staged before East Patchogue, NY interior gel zones.
+
+Exclusion audit 598868: exclusion mesh gauge and rodent runway grease mark reviewed for East Patchogue, NY at 40.7700/-72.9800.
+
+On-site sector marker: Suffolk County / primary ZIP 11772 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11772-040f2155

@@ -11,26 +11,41 @@ lng: -122.3400
 zipSample: ["98093", "98063", "98003", "98023"]
 zipCodes: ["98063", "98003", "98023", "98093"]
 localPaths: ["King County / ZIP 98023 sector", "King County / primary ZIP 98023", "King County / elevation 377 ft band", "King County / ZIP 98063 sector", "King County / ZIP 98003 sector"]
-zillowHomeValueUsd: 621983
 ---
 
-**Engineering Notice for Federal Way:** Structural loading calculated based on 377 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Federal Way:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.
 
 
-Tip: avoid large upfront payments without milestones.
+Exclusion gaps at garage jambs in Federal Way, WA are common rodent access points.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Federal Way, WA.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-In Federal Way, WA, seasonal demand can change scheduling windows.
+Tip: Date bait station lids when servicing Federal Way, WA perimeter lines.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Stored cardboard in Federal Way, WA garages can accelerate pantry pest cycles.
 
-Field note: Access points and staging constraints recorded for ZIP 98023/98063/98003 coverage.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 98023.
 
-Field note: Wind exposure category reviewed for ZIP sector 98023/98063/98003.
+Spider populations in Federal Way, WA eaves can signal insect prey density.
 
-Dispatch sectors sampled: ZIP 98023, 98063, 98003, 98093 (county grid: King County).
+Risk flag: In Federal Way, WA, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Fire ant mounds in Federal Way, WA drive seams need granule rotation after irrigation events.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Federal Way, WA.
+
+Intercept log 337547: bed bug intercept count staged before Federal Way, WA interior gel zones.
+
+Species trace 337547: re-entry interval label and conducive moisture note keyed to Federal Way, WA elevation 377 ft.
+
+On-site sector marker: King County / primary ZIP 98023 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98023-96714258

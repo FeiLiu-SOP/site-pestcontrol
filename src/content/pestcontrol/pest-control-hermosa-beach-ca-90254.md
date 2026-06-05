@@ -11,26 +11,41 @@ lng: -118.4000
 zipSample: ["90254"]
 zipCodes: ["90254"]
 localPaths: ["Los Angeles County / primary ZIP 90254", "Los Angeles County / elevation 59 ft band", "Los Angeles County / coords 33.8700, -118.4000", "Los Angeles County / ZIP 90254 sector"]
-zillowHomeValueUsd: 2237784
 ---
 
-**Engineering Notice for Hermosa Beach:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Hermosa Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-Homeowners in Hermosa Beach, CA often face sudden pest control problems that require fast action.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Tip: request a written scope before work starts.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Our service coordination centers on Hermosa Beach, CA coverage windows and verified intake details.
+Clover mite staining on Hermosa Beach, CA exterior cladding follows foundation mulch against brick ledges.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Hermosa Beach, CA.
 
-Field note: Access points and staging constraints recorded for ZIP 90254 coverage.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 90254.
+Material note: Perimeter granules in Hermosa Beach, CA may need reapplication after heavy irrigation.
 
-Dispatch sectors sampled: ZIP 90254 (county grid: Los Angeles County).
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+In Hermosa Beach, CA, subterranean termite swarms often follow warm rain windows.
+
+FAQ: What is exclusion? Without sealing entry points in Hermosa Beach, CA, pressure often rebuilds.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Mud dauber nests in Hermosa Beach, CA porch ceilings are benign but signal prey density for spiders.
+
+Harbor ledger 171104: frass lane, mud-tube scan, and garage jamb gap measure filed for Hermosa Beach, CA at 33.8700, -118.4000.
+
+Zone map 171104: attic insulation disturbance trace and pantry pest source logged for Hermosa Beach, CA sector 90254.
+
+On-site sector marker: Los Angeles County / elevation 59 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90254-c91fb4d6

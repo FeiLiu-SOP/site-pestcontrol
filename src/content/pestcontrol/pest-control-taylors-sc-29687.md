@@ -11,26 +11,39 @@ lng: -82.3100
 zipSample: ["29687"]
 zipCodes: ["29687"]
 localPaths: ["Greenville County / ZIP 29687 sector", "Greenville County / primary ZIP 29687", "Greenville County / elevation 925 ft band", "Greenville County / coords 34.9200, -82.3100"]
-zillowHomeValueUsd: 311892
 ---
 
-**Engineering Notice for Taylors:** Structural loading calculated based on 925 ft terrain assessment. Regional dispatch grid: Greenville County.
+**Engineering Notice for Taylors:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Greenville County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Taylors, SC, but intake notes help reduce delays.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Tip: avoid large upfront payments without milestones.
+Drain fly biofilm in Taylors, SC floor drains signals grease traps need service before gel baits.
 
-Clear documentation helps align materials, labor, and timeline.
+Bird mites in Taylors, SC exhaust vents can persist after host nests are removed.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Taylors, SC.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Connection points spot-checked where accessible (ZIP 29687 zone).
+Seasonal pest pressure in Taylors, SC shifts between moisture ants and dry-wood vectors.
 
-Field note: Wind exposure category reviewed for ZIP sector 29687.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Dispatch sectors sampled: ZIP 29687 (county grid: Greenville County).
+Fire ant mounds in Taylors, SC drive seams need granule rotation after irrigation events.
+
+Perimeter granule carriers in Taylors, SC clay soils may need lighter irrigation before application.
+
+Across Taylors, SC, rodent entry points frequently track utility penetrations.
+
+Silverfish activity in Taylors, SC attics tracks cardboard storage and ridge vent gaps.
+
+Clover mite staining on Taylors, SC exterior cladding follows foundation mulch against brick ledges.
+
+State note: Taylors, SC commercial kitchens may require separate documentation for audit visits.
+
+Zone map 110330: attic insulation disturbance trace and pantry pest source logged for Taylors, SC sector 29687.
+
+On-site sector marker: Greenville County / elevation 925 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29687-df8ab007

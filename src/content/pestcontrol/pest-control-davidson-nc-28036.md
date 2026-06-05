@@ -11,25 +11,39 @@ lng: -80.8200
 zipSample: ["28035", "28036"]
 zipCodes: ["28036", "28035"]
 localPaths: ["Mecklenburg County / ZIP 28036 sector", "Mecklenburg County / elevation 751 ft band", "Mecklenburg County / ZIP 28035 sector", "Mecklenburg County / coords 35.4800, -80.8200", "Mecklenburg County / primary ZIP 28036"]
-zillowHomeValueUsd: 655803
 ---
 
-**Engineering Notice for Davidson:** Structural loading calculated based on 751 ft terrain assessment. Regional dispatch grid: Mecklenburg County.
+**Engineering Notice for Davidson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Mecklenburg County.
 
 
-Our service coordination centers on Davidson, NC coverage windows and verified intake details.
+IGR packets for Davidson, NC roach cycles should be dated on station lids.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Mud dauber nests in Davidson, NC porch ceilings are benign but signal prey density for spiders.
 
-Tip: request a written scope before work starts.
+Powderpost beetle exit holes in Davidson, NC trim can be mistaken for dry-wood frass without magnification.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Davidson, NC, but intake notes help reduce delays.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 28036.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Wind exposure category reviewed for ZIP sector 28036/28035.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Dispatch sectors sampled: ZIP 28036, 28035 (county grid: Mecklenburg County).
+Earwig harborages in Davidson, NC meter boxes often follow drip irrigation overspray.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 28036.
+
+County grid Mecklenburg County informs routing near ZIP 28036.
+
+Attic misting in Davidson, NC requires combustion air clearance verified before fans restart.
+
+Fire ant mounds in Davidson, NC drive seams need granule rotation after irrigation events.
+
+Stink bug overwinter seams in Davidson, NC cladding service laps require exclusion foam rated for UV exposure.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Zone map 989015: attic insulation disturbance trace and pantry pest source logged for Davidson, NC sector 28036.
+
+On-site sector marker: Mecklenburg County / elevation 751 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28036-debd5f26

@@ -11,26 +11,39 @@ lng: -156.4500
 zipSample: ["96753"]
 zipCodes: ["96753"]
 localPaths: ["Maui County / coords 20.7700, -156.4500", "Maui County / primary ZIP 96753", "Maui County / elevation 75 ft band", "Maui County / ZIP 96753 sector"]
-zillowHomeValueUsd: 1012201
 ---
 
-**Engineering Notice for Kihei:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Maui County.
+**Engineering Notice for Kihei:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Maui County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Kihei, HI.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: record station placement maps for follow-up visits.
 
-Homeowners in Kihei, HI often face sudden pest control problems that require fast action.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Transparent pricing helps you compare like-for-like scope items.
+Perimeter granule carriers in Kihei, HI clay soils may need lighter irrigation before application.
 
-Field note: Connection points spot-checked where accessible (ZIP 96753 zone).
+Powderpost beetle exit holes in Kihei, HI trim can be mistaken for dry-wood frass without magnification.
 
-Field note: Wind exposure category reviewed for ZIP sector 96753.
+Silverfish activity in Kihei, HI attics tracks cardboard storage and ridge vent gaps.
 
-Dispatch sectors sampled: ZIP 96753 (county grid: Maui County).
+FAQ: Can bed bugs spread room-to-room in Kihei, HI row homes? Wall voids and shared ducts accelerate transfer.
+
+Risk flag: Overwatered Kihei, HI planters can restart ant bridges within two weeks.
+
+Drain fly biofilm in Kihei, HI floor drains signals grease traps need service before gel baits.
+
+Monitoring boards in Kihei, HI crawlspaces stay 72 hours before snap traps are reset.
+
+Carpenter ant frass in Kihei, HI window sills may indicate moisture-softened framing.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Species trace 185336: re-entry interval label and conducive moisture note keyed to Kihei, HI elevation 75 ft.
+
+Regional mesh label Maui County: moisture and logistics baselines are keyed to Kihei, HI before niche-specific work begins.
 
 Service reference: HI-96753-83241c3d

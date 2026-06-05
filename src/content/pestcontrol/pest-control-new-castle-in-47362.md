@@ -11,26 +11,43 @@ lng: -85.3700
 zipSample: ["47362"]
 zipCodes: ["47362"]
 localPaths: ["Henry County / elevation 1063 ft band", "Henry County / primary ZIP 47362", "Henry County / ZIP 47362 sector", "Henry County / coords 39.9200, -85.3700"]
-zillowHomeValueUsd: 165965
 ---
 
-**Engineering Notice for New Castle:** Structural loading calculated based on 1063 ft terrain assessment. Regional dispatch grid: Henry County.
+**Engineering Notice for New Castle:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Henry County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in New Castle, IN, but intake notes help reduce delays.
+Tip: Date bait station lids when servicing New Castle, IN perimeter lines.
 
-Homeowners in New Castle, IN often face sudden pest control problems that require fast action.
+Yellow jacket nests in New Castle, IN soffit cavities peak in late summer routing windows.
 
-Transparent pricing helps you compare like-for-like scope items.
+Flea pupae survive vacuuming in New Castle, IN carpet fibers unless heat treatment follows.
 
-We coordinate local dispatch coverage around New Castle, IN and nearby ZIP sectors.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Tip: request a written scope before work starts.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Wind exposure category reviewed for ZIP sector 47362.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Field note: Moisture pathway inspection logged near ZIP 47362 intake.
+Risk flag: Overwatered New Castle, IN planters can restart ant bridges within two weeks.
 
-Dispatch sectors sampled: ZIP 47362 (county grid: Henry County).
+Humidity in New Castle, IN can sustain cockroach harborages behind appliance voids.
+
+Wildlife odors in New Castle, IN crawlspaces may attract secondary pest activity.
+
+Attic misting in New Castle, IN requires combustion air clearance verified before fans restart.
+
+FAQ: Can bed bugs spread room-to-room in New Castle, IN row homes? Wall voids and shared ducts accelerate transfer.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Carpenter ant frass in New Castle, IN window sills may indicate moisture-softened framing.
+
+Perimeter granule carriers in New Castle, IN clay soils may need lighter irrigation before application.
+
+Seasonal cue 468298: cluster fly attic staging reviewed for New Castle, IN soffit cavities.
+
+Intercept log 468298: bed bug intercept count staged before New Castle, IN interior gel zones.
+
+On-site sector marker: Henry County / elevation 1063 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-47362-e774a7ec

@@ -11,24 +11,39 @@ lng: -84.6100
 zipSample: ["45239", "45247"]
 zipCodes: ["45247", "45239"]
 localPaths: ["Hamilton County / primary ZIP 45247", "Hamilton County / elevation 883 ft band", "Hamilton County / ZIP 45239 sector", "Hamilton County / coords 39.2100, -84.6100", "Hamilton County / ZIP 45247 sector"]
-zillowHomeValueUsd: 323892
 ---
 
-**Engineering Notice for White Oak:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Hamilton County.
+**Engineering Notice for White Oak:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hamilton County.
 
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Why schedule quarterly instead of monthly in White Oak, OH? Species pressure and label intervals dictate cadence.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-We coordinate local dispatch coverage around White Oak, OH and nearby ZIP sectors.
+Cluster fly attic staging in White Oak, OH peaks on south-facing voids after sunny thaw days.
 
-Field note: Moisture pathway inspection logged near ZIP 45247/45239 intake.
+Carpenter ant frass in White Oak, OH window sills may indicate moisture-softened framing.
 
-Dispatch sectors sampled: ZIP 45247, 45239 (county grid: Hamilton County).
+Earwig harborages in White Oak, OH meter boxes often follow drip irrigation overspray.
+
+Flea pupae survive vacuuming in White Oak, OH carpet fibers unless heat treatment follows.
+
+FAQ: What is exclusion? Without sealing entry points in White Oak, OH, pressure often rebuilds.
+
+Tip: Date bait station lids when servicing White Oak, OH perimeter lines.
+
+Bird mites in White Oak, OH exhaust vents can persist after host nests are removed.
+
+Attic fogging in White Oak, OH requires combustion appliance shutoff verification first.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 45247.
+
+Exclusion audit 620670: exclusion mesh gauge and rodent runway grease mark reviewed for White Oak, OH at 39.2100/-84.6100.
+
+Primary postal anchor 45247 with multi-ZIP overlap in White Oak; field packets tag Hamilton County for county-grid reconciliation.
 
 Service reference: OH-45247-63752341

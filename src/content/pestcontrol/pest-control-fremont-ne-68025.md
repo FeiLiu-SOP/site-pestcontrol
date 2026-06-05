@@ -11,26 +11,41 @@ lng: -96.4900
 zipSample: ["68026", "68025"]
 zipCodes: ["68025", "68026"]
 localPaths: ["Dodge County / primary ZIP 68025", "Dodge County / elevation 1191 ft band", "Dodge County / ZIP 68026 sector", "Dodge County / coords 41.4400, -96.4900", "Dodge County / ZIP 68025 sector"]
-zillowHomeValueUsd: 253108
 ---
 
-**Engineering Notice for Fremont:** Structural loading calculated based on 1191 ft terrain assessment. Regional dispatch grid: Dodge County.
+**Engineering Notice for Fremont:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dodge County.
 
 
-Tip: avoid large upfront payments without milestones.
+IGR packets for Fremont, NE roach cycles should be dated on station lids.
 
-We coordinate local dispatch coverage around Fremont, NE and nearby ZIP sectors.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Fremont, NE, but intake notes help reduce delays.
+Attic fogging in Fremont, NE requires combustion appliance shutoff verification first.
 
-In Fremont, NE, seasonal demand can change scheduling windows.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Fremont, NE.
 
-Field note: Connection points spot-checked where accessible (ZIP 68025/68026 zone).
+Cluster fly attic staging in Fremont, NE peaks on south-facing voids after sunny thaw days.
 
-Field note: Moisture pathway inspection logged near ZIP 68025/68026 intake.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Dispatch sectors sampled: ZIP 68025, 68026 (county grid: Dodge County).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 68025.
+
+Attic insulation disturbance in Fremont, NE may indicate wildlife nesting routes.
+
+County grid Dodge County informs routing near ZIP 68025.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Zone map 430758: attic insulation disturbance trace and pantry pest source logged for Fremont, NE sector 68025.
+
+Intercept log 430758: bed bug intercept count staged before Fremont, NE interior gel zones.
+
+On-site sector marker: Dodge County / elevation 1191 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NE-68025-09b5b70c

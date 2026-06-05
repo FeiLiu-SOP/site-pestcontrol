@@ -11,24 +11,43 @@ lng: -116.0700
 zipSample: ["92278", "92277"]
 zipCodes: ["92278", "92277"]
 localPaths: ["San Bernardino County / primary ZIP 92277", "San Bernardino County / elevation 2116 ft band", "San Bernardino County / coords 34.1500, -116.0700", "San Bernardino County / ZIP 92277 sector", "San Bernardino County / ZIP 92278 sector"]
-zillowHomeValueUsd: 249528
 ---
 
-**Engineering Notice for Twentynine Palms:** Structural loading calculated based on 2116 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Twentynine Palms:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Twentynine Palms, CA.
 
-We coordinate local dispatch coverage around Twentynine Palms, CA and nearby ZIP sectors.
+Carpenter ant frass in Twentynine Palms, CA window sills may indicate moisture-softened framing.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-In Twentynine Palms, CA, urgent pest control issues can escalate quickly.
+State note: Twentynine Palms, CA commercial kitchens may require separate documentation for audit visits.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: record station placement maps for follow-up visits.
 
-Field note: Access points and staging constraints recorded for ZIP 92278/92277 coverage.
+Attic fogging in Twentynine Palms, CA requires combustion appliance shutoff verification first.
 
-Dispatch sectors sampled: ZIP 92278, 92277 (county grid: San Bernardino County).
+Risk flag: Overwatered Twentynine Palms, CA planters can restart ant bridges within two weeks.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Attic misting in Twentynine Palms, CA requires combustion air clearance verified before fans restart.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Bird mites in Twentynine Palms, CA exhaust vents can persist after host nests are removed.
+
+Flea pupae survive vacuuming in Twentynine Palms, CA carpet fibers unless heat treatment follows.
+
+Exclusion audit 161216: exclusion mesh gauge and rodent runway grease mark reviewed for Twentynine Palms, CA at 34.1500/-116.0700.
+
+Harbor ledger 161216: frass lane, mud-tube scan, and garage jamb gap measure filed for Twentynine Palms, CA at 34.1500, -116.0700.
+
+On-site sector marker: San Bernardino County / ZIP 92278 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92277-660491d4

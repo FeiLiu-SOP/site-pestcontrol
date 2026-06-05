@@ -11,24 +11,39 @@ lng: -82.7900
 zipSample: ["43069", "43068"]
 zipCodes: ["43068", "43069"]
 localPaths: ["Franklin County / ZIP 43068 sector", "Franklin County / ZIP 43069 sector", "Franklin County / primary ZIP 43068", "Franklin County / coords 39.9600, -82.7900", "Franklin County / elevation 892 ft band"]
-zillowHomeValueUsd: 295308
 ---
 
-**Engineering Notice for Reynoldsburg:** Structural loading calculated based on 892 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Reynoldsburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Franklin County.
 
 
-We coordinate local dispatch coverage around Reynoldsburg, OH and nearby ZIP sectors.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Reynoldsburg, OH.
 
-Tip: confirm licensing and insurance before approving work.
+Fire ant mounds in Reynoldsburg, OH drive seams need granule rotation after irrigation events.
 
-In Reynoldsburg, OH, urgent pest control issues can escalate quickly.
+Stored cardboard in Reynoldsburg, OH garages can accelerate pantry pest cycles.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Reynoldsburg, OH, but intake notes help reduce delays.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Field note: Connection points spot-checked where accessible (ZIP 43069/43068 zone).
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Dispatch sectors sampled: ZIP 43069, 43068 (county grid: Franklin County).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 43068.
+
+FAQ: Why schedule quarterly instead of monthly in Reynoldsburg, OH? Species pressure and label intervals dictate cadence.
+
+Earwig harborages in Reynoldsburg, OH meter boxes often follow drip irrigation overspray.
+
+Powderpost beetle exit holes in Reynoldsburg, OH trim can be mistaken for dry-wood frass without magnification.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Seasonal pest pressure in Reynoldsburg, OH shifts between moisture ants and dry-wood vectors.
+
+Intercept log 416729: bed bug intercept count staged before Reynoldsburg, OH interior gel zones.
+
+Perimeter dossier 416729: bait station anchor map and mulch bridge risk flagged for Reynoldsburg, OH county Franklin County (ZIP 43068).
+
+On-site sector marker: Franklin County / primary ZIP 43068 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-43068-df6c5312

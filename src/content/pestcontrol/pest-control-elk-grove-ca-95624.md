@@ -11,24 +11,37 @@ lng: -121.3800
 zipSample: ["95624", "95759", "95757", "95758"]
 zipCodes: ["95758", "95757", "95759", "95624"]
 localPaths: ["Sacramento County / ZIP 95758 sector", "Sacramento County / ZIP 95759 sector", "Sacramento County / elevation 43 ft band", "Sacramento County / ZIP 95757 sector", "Sacramento County / ZIP 95624 sector"]
-zillowHomeValueUsd: 641686
 ---
 
-**Engineering Notice for Elk Grove:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Sacramento County.
+**Engineering Notice for Elk Grove:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sacramento County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can bed bugs spread room-to-room in Elk Grove, CA row homes? Wall voids and shared ducts accelerate transfer.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Log pet access routes when bait stations are placed.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Elk Grove, CA.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Elk Grove, CA, but intake notes help reduce delays.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 95624.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+IGR packets for Elk Grove, CA roach cycles should be dated on station lids.
 
-Field note: Wind exposure category reviewed for ZIP sector 95758/95759/95624.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Dispatch sectors sampled: ZIP 95758, 95759, 95624, 95757 (county grid: Sacramento County).
+Dry-wood termite pellets in Elk Grove, CA attics may appear before exterior mud tubes.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Attic fogging in Elk Grove, CA requires combustion appliance shutoff verification first.
+
+FAQ: Why schedule quarterly instead of monthly in Elk Grove, CA? Species pressure and label intervals dictate cadence.
+
+Earwig harborages in Elk Grove, CA meter boxes often follow drip irrigation overspray.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Elk Grove, CA, pressure often rebuilds.
+
+Intercept log 304326: bed bug intercept count staged before Elk Grove, CA interior gel zones.
+
+Coordinate-anchored dispatch note: center reference 38.4200, -121.3800 at elevation ~43 ft aligns with Sacramento County intake staging.
 
 Service reference: CA-95624-d9306e75

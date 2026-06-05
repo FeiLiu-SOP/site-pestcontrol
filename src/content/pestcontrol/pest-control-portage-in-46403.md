@@ -11,26 +11,41 @@ lng: -87.1800
 zipSample: ["46403", "46368"]
 zipCodes: ["46368", "46403"]
 localPaths: ["Porter County / ZIP 46403 sector", "Porter County / ZIP 46368 sector", "Porter County / elevation 676 ft band", "Porter County / coords 41.5900, -87.1800", "Porter County / primary ZIP 46403"]
-zillowHomeValueUsd: 148334
 ---
 
-**Engineering Notice for Portage:** Structural loading calculated based on 676 ft terrain assessment. Regional dispatch grid: Porter County.
+**Engineering Notice for Portage:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Porter County.
 
 
-Homeowners in Portage, IN often face sudden pest control problems that require fast action.
+Mosquito breeding in Portage, IN catch basins can amplify perimeter callbacks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Perimeter granules in Portage, IN may need reapplication after heavy irrigation.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: map entry points with photo logs before sealing.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 46403.
 
-Field note: Connection points spot-checked where accessible (ZIP 46403/46368 zone).
+IGR packets for Portage, IN roach cycles should be dated on station lids.
 
-Field note: Access points and staging constraints recorded for ZIP 46403/46368 coverage.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 46403.
 
-Dispatch sectors sampled: ZIP 46403, 46368 (county grid: Porter County).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Cluster fly attic staging in Portage, IN peaks on south-facing voids after sunny thaw days.
+
+Stink bug overwinter seams in Portage, IN cladding service laps require exclusion foam rated for UV exposure.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Mud dauber nests in Portage, IN porch ceilings are benign but signal prey density for spiders.
+
+Seasonal pest pressure in Portage, IN shifts between moisture ants and dry-wood vectors.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Species trace 931335: re-entry interval label and conducive moisture note keyed to Portage, IN elevation 676 ft.
+
+On-site sector marker: Porter County / ZIP 46368 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46403-8e46742c

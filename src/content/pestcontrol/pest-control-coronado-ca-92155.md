@@ -11,24 +11,41 @@ lng: -117.1600
 zipSample: ["92178", "92135", "92155", "92118"]
 zipCodes: ["92135", "92155", "92178", "92118"]
 localPaths: ["San Diego County / primary ZIP 92155", "San Diego County / elevation 16 ft band", "San Diego County / ZIP 92135 sector", "San Diego County / coords 32.6600, -117.1600", "San Diego County / ZIP 92155 sector"]
-zillowHomeValueUsd: 2513950
 ---
 
-**Engineering Notice for Coronado:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for Coronado:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Drain fly biofilm in Coronado, CA floor drains signals grease traps need service before gel baits.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Fire ant mounds in Coronado, CA drive seams need granule rotation after irrigation events.
 
-Local conditions in Coronado, CA can affect timelines and material choices.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 92155.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: label treatment zones for occupant re-entry timing.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Connection points spot-checked where accessible (ZIP 92155/92118/92135 zone).
+In Coronado, CA, subterranean termite swarms often follow warm rain windows.
 
-Dispatch sectors sampled: ZIP 92155, 92118, 92135, 92178 (county grid: San Diego County).
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Perimeter granule carriers in Coronado, CA clay soils may need lighter irrigation before application.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Coronado, CA.
+
+FAQ: Why schedule quarterly instead of monthly in Coronado, CA? Species pressure and label intervals dictate cadence.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Wildlife odors in Coronado, CA crawlspaces may attract secondary pest activity.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Species trace 175252: re-entry interval label and conducive moisture note keyed to Coronado, CA elevation 16 ft.
+
+Primary postal anchor 92155 with multi-ZIP overlap in Coronado; field packets tag San Diego County for county-grid reconciliation.
 
 Service reference: CA-92155-ce6ccb3d

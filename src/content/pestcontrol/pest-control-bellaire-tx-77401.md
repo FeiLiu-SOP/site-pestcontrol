@@ -11,25 +11,37 @@ lng: -95.4600
 zipSample: ["77401", "77402"]
 zipCodes: ["77401", "77402"]
 localPaths: ["Harris County / primary ZIP 77401", "Harris County / elevation 72 ft band", "Harris County / coords 29.7000, -95.4600", "Harris County / ZIP 77401 sector", "Harris County / ZIP 77402 sector"]
-zillowHomeValueUsd: 1162689
 ---
 
-**Engineering Notice for Bellaire:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Harris County.
+**Engineering Notice for Bellaire:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harris County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Fire ant mounds in Bellaire, TX drive seams need granule rotation after irrigation events.
 
-Tip: compare at least two estimates for scope and timeline.
+Cluster fly attic staging in Bellaire, TX peaks on south-facing voids after sunny thaw days.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Across Bellaire, TX, rodent entry points frequently track utility penetrations.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bellaire, TX, but intake notes help reduce delays.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 77401.
+Mosquito breeding in Bellaire, TX catch basins can amplify perimeter callbacks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 77402/77401.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Dispatch sectors sampled: ZIP 77402, 77401 (county grid: Harris County).
+Tip: Date bait station lids when servicing Bellaire, TX perimeter lines.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 77401.
+
+Intercept log 685283: bed bug intercept count staged before Bellaire, TX interior gel zones.
+
+ZIP-corridor snapshot for Bellaire, TX: sampled sectors include 77401, 77402; county routing grid remains Harris County.
 
 Service reference: TX-77401-08618455

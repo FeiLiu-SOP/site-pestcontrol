@@ -11,24 +11,41 @@ lng: -73.7200
 zipSample: ["10528", "10580", "10577", "10604"]
 zipCodes: ["10580", "10528", "10604", "10577"]
 localPaths: ["Westchester County / ZIP 10528 sector", "Westchester County / ZIP 10580 sector", "Westchester County / ZIP 10577 sector", "Westchester County / ZIP 10604 sector", "Westchester County / primary ZIP 10580"]
-zillowHomeValueUsd: 2216642
 ---
 
-**Engineering Notice for Harrison:** Structural loading calculated based on 230 ft terrain assessment. Regional dispatch grid: Westchester County.
+**Engineering Notice for Harrison:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Westchester County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Tip: compare at least two estimates for scope and timeline.
+Powderpost beetle exit holes in Harrison, NY trim can be mistaken for dry-wood frass without magnification.
 
-Homeowners in Harrison, NY often face sudden pest control problems that require fast action.
+Tip: Log pet access routes when bait stations are placed.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Our service coordination centers on Harrison, NY coverage windows and verified intake details.
+Yellow jacket nests in Harrison, NY soffit cavities peak in late summer routing windows.
 
-Field note: Wind exposure category reviewed for ZIP sector 10577/10604/10580.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Dispatch sectors sampled: ZIP 10577, 10604, 10580, 10528 (county grid: Westchester County).
+Bird mites in Harrison, NY exhaust vents can persist after host nests are removed.
+
+Fire ant mounds in Harrison, NY drive seams need granule rotation after irrigation events.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+IGR packets for Harrison, NY roach cycles should be dated on station lids.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+FAQ: Why schedule quarterly instead of monthly in Harrison, NY? Species pressure and label intervals dictate cadence.
+
+Intercept log 323533: bed bug intercept count staged before Harrison, NY interior gel zones.
+
+Zone map 323533: attic insulation disturbance trace and pantry pest source logged for Harrison, NY sector 10580.
+
+On-site sector marker: Westchester County / primary ZIP 10580 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-10580-12241a74

@@ -11,24 +11,39 @@ lng: -77.3400
 zipSample: ["22193", "22025"]
 zipCodes: ["22025", "22193"]
 localPaths: ["Prince William County / elevation 154 ft band", "Prince William County / coords 38.6100, -77.3400", "Prince William County / primary ZIP 22193", "Prince William County / ZIP 22025 sector", "Prince William County / ZIP 22193 sector"]
-zillowHomeValueUsd: 508665
 ---
 
-**Engineering Notice for Montclair:** Structural loading calculated based on 154 ft terrain assessment. Regional dispatch grid: Prince William County.
+**Engineering Notice for Montclair:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince William County.
 
 
-Tip: avoid large upfront payments without milestones.
+Bird mites in Montclair, VA exhaust vents can persist after host nests are removed.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Trim vegetation 12 inches from exterior cladding to reduce ant bridges.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Montclair, VA, but intake notes help reduce delays.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 22193.
 
-Transparent pricing helps you compare like-for-like scope items.
+Monitoring boards in Montclair, VA crawlspaces stay 72 hours before snap traps are reset.
 
-Field note: Wind exposure category reviewed for ZIP sector 22025/22193.
+Mosquito breeding in Montclair, VA catch basins can amplify perimeter callbacks.
 
-Dispatch sectors sampled: ZIP 22025, 22193 (county grid: Prince William County).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Exclusion gaps at garage jambs in Montclair, VA are common rodent access points.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Harbor ledger 466277: frass lane, mud-tube scan, and garage jamb gap measure filed for Montclair, VA at 38.6100, -77.3400.
+
+ZIP-corridor snapshot for Montclair, VA: sampled sectors include 22193, 22025; county routing grid remains Prince William County.
 
 Service reference: VA-22193-daa96236

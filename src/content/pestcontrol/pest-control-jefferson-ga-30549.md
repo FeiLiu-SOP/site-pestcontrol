@@ -11,26 +11,37 @@ lng: -83.6000
 zipSample: ["30549"]
 zipCodes: ["30549"]
 localPaths: ["Jackson County / primary ZIP 30549", "Jackson County / coords 34.1400, -83.6000", "Jackson County / elevation 866 ft band", "Jackson County / ZIP 30549 sector"]
-zillowHomeValueUsd: 413729
 ---
 
-**Engineering Notice for Jefferson:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Jackson County.
+**Engineering Notice for Jefferson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jackson County.
 
 
-We coordinate local dispatch coverage around Jefferson, GA and nearby ZIP sectors.
+FAQ: What is exclusion? Without sealing entry points in Jefferson, GA, pressure often rebuilds.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-In Jefferson, GA, urgent pest control issues can escalate quickly.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Jefferson, GA, but intake notes help reduce delays.
+Earwig harborages in Jefferson, GA meter boxes often follow drip irrigation overspray.
 
-Field note: Wind exposure category reviewed for ZIP sector 30549.
+Step: verify attic access safety before insulation disturbance.
 
-Field note: Connection points spot-checked where accessible (ZIP 30549 zone).
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Dispatch sectors sampled: ZIP 30549 (county grid: Jackson County).
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 30549.
+
+Stored cardboard in Jefferson, GA garages can accelerate pantry pest cycles.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Yellow jacket nests in Jefferson, GA soffit cavities peak in late summer routing windows.
+
+Perimeter dossier 199219: bait station anchor map and mulch bridge risk flagged for Jefferson, GA county Jackson County (ZIP 30549).
+
+On-site sector marker: Jackson County / elevation 866 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30549-bdb45926

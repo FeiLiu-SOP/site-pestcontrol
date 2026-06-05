@@ -11,27 +11,41 @@ lng: -78.8800
 zipSample: ["14151", "14150"]
 zipCodes: ["14151", "14150"]
 localPaths: ["Erie County / coords 43.0100, -78.8800", "Erie County / ZIP 14150 sector", "Erie County / primary ZIP 14150", "Erie County / elevation 577 ft band", "Erie County / ZIP 14151 sector"]
-zillowHomeValueUsd: 251708
 ---
 
-**Engineering Notice for Tonawanda:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Erie County.
+**Engineering Notice for Tonawanda:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Erie County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify attic access safety before insulation disturbance.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Log pet access routes when bait stations are placed.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 14150.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Wind exposure category reviewed for ZIP sector 14151/14150.
+Attic fogging in Tonawanda, NY requires combustion appliance shutoff verification first.
 
-Field note: Connection points spot-checked where accessible (ZIP 14151/14150 zone).
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Dispatch sectors sampled: ZIP 14151, 14150 (county grid: Erie County).
+Risk flag: In Tonawanda, NY, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Humidity in Tonawanda, NY can sustain cockroach harborages behind appliance voids.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Across Tonawanda, NY, rodent entry points frequently track utility penetrations.
+
+Harbor ledger 608148: frass lane, mud-tube scan, and garage jamb gap measure filed for Tonawanda, NY at 43.0100, -78.8800.
+
+Exclusion audit 608148: exclusion mesh gauge and rodent runway grease mark reviewed for Tonawanda, NY at 43.0100/-78.8800.
+
+Primary postal anchor 14150 with multi-ZIP overlap in Tonawanda; field packets tag Erie County for county-grid reconciliation.
 
 Service reference: NY-14150-38170db5

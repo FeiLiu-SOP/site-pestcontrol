@@ -11,27 +11,39 @@ lng: -92.9300
 zipSample: ["55016"]
 zipCodes: ["55016"]
 localPaths: ["Washington County / ZIP 55016 sector", "Washington County / coords 44.8200, -92.9300", "Washington County / primary ZIP 55016", "Washington County / elevation 807 ft band"]
-zillowHomeValueUsd: 396264
 ---
 
-**Engineering Notice for Cottage Grove:** Structural loading calculated based on 807 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Cottage Grove:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: What is exclusion? Without sealing entry points in Cottage Grove, MN, pressure often rebuilds.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Log pet access routes when bait stations are placed.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 55016.
+Perimeter mulch beds in Cottage Grove, MN should be reviewed for ant bridge paths.
 
-Tip: avoid large upfront payments without milestones.
+Mud dauber nests in Cottage Grove, MN porch ceilings are benign but signal prey density for spiders.
 
-Field note: Moisture pathway inspection logged near ZIP 55016 intake.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Access points and staging constraints recorded for ZIP 55016 coverage.
+Stink bug overwinter seams in Cottage Grove, MN wall restoration laps require exclusion foam rated for UV exposure.
 
-Dispatch sectors sampled: ZIP 55016 (county grid: Washington County).
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Attic fogging in Cottage Grove, MN requires combustion appliance shutoff verification first.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Earwig harborages in Cottage Grove, MN meter boxes often follow drip irrigation overspray.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 55016.
+
+Harbor ledger 597249: frass lane, mud-tube scan, and garage jamb gap measure filed for Cottage Grove, MN at 44.8200, -92.9300.
+
+Seasonal cue 597249: cluster fly attic staging reviewed for Cottage Grove, MN soffit cavities.
+
+On-site sector marker: Washington County / primary ZIP 55016 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55016-c22294ff

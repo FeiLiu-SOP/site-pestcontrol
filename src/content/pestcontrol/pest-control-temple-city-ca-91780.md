@@ -11,24 +11,39 @@ lng: -118.0600
 zipSample: ["91780"]
 zipCodes: ["91780"]
 localPaths: ["Los Angeles County / primary ZIP 91780", "Los Angeles County / coords 34.1000, -118.0600", "Los Angeles County / elevation 387 ft band", "Los Angeles County / ZIP 91780 sector"]
-zillowHomeValueUsd: 1105310
 ---
 
-**Engineering Notice for Temple City:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Temple City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-Structured milestones protect both sides when scheduling work.
+Seasonal pest pressure in Temple City, CA shifts between moisture ants and dry-wood vectors.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Date bait station lids when servicing Temple City, CA perimeter lines.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+IGR packets for Temple City, CA roach cycles should be dated on station lids.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Temple City, CA, but intake notes help reduce delays.
+Material note: Perimeter granules in Temple City, CA may need reapplication after heavy irrigation.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Request an inspection with species ID before treatment. Serving ZIP Code: 91780.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 91780.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Dispatch sectors sampled: ZIP 91780 (county grid: Los Angeles County).
+Earwig harborages in Temple City, CA meter boxes often follow drip irrigation overspray.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Tip: Trim vegetation 12 inches from exterior cladding to reduce ant bridges.
+
+Cluster fly attic staging in Temple City, CA peaks on south-facing voids after sunny thaw days.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Temple City, CA.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Fire ant mounds in Temple City, CA drive seams need granule rotation after irrigation events.
+
+Perimeter dossier 408419: bait station anchor map and mulch bridge risk flagged for Temple City, CA county Los Angeles County (ZIP 91780).
+
+On-site sector marker: Los Angeles County / primary ZIP 91780 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91780-36ea81a6

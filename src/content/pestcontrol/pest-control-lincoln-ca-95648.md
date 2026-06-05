@@ -11,26 +11,43 @@ lng: -121.2900
 zipSample: ["95648"]
 zipCodes: ["95648"]
 localPaths: ["Placer County / primary ZIP 95648", "Placer County / ZIP 95648 sector", "Placer County / coords 38.8800, -121.2900", "Placer County / elevation 148 ft band"]
-zillowHomeValueUsd: 639746
 ---
 
-**Engineering Notice for Lincoln:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Placer County.
+**Engineering Notice for Lincoln:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Placer County.
 
 
-Tip: request a written scope before work starts.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-In Lincoln, CA, seasonal demand can change scheduling windows.
+Cluster fly attic staging in Lincoln, CA peaks on south-facing voids after sunny thaw days.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Our service coordination centers on Lincoln, CA coverage windows and verified intake details.
+Risk flag: Overwatered Lincoln, CA planters can restart ant bridges within two weeks.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Wind exposure category reviewed for ZIP sector 95648.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Connection points spot-checked where accessible (ZIP 95648 zone).
+FAQ: What is exclusion? Without sealing entry points in Lincoln, CA, pressure often rebuilds.
 
-Dispatch sectors sampled: ZIP 95648 (county grid: Placer County).
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Spider populations in Lincoln, CA eaves can signal insect prey density.
+
+Step: map entry points with photo logs before sealing.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Attic fogging in Lincoln, CA requires combustion appliance shutoff verification first.
+
+Mosquito breeding in Lincoln, CA catch basins can amplify perimeter callbacks.
+
+Intercept log 302938: bed bug intercept count staged before Lincoln, CA interior gel zones.
+
+Seasonal cue 302938: cluster fly attic staging reviewed for Lincoln, CA soffit cavities.
+
+On-site sector marker: Placer County / ZIP 95648 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95648-e167662a

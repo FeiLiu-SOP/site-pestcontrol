@@ -11,27 +11,43 @@ lng: -121.3100
 zipSample: ["97702", "97701", "97708", "97703"]
 zipCodes: ["97708", "97702", "97701", "97703"]
 localPaths: ["Deschutes County / ZIP 97703 sector", "Deschutes County / primary ZIP 97702", "Deschutes County / ZIP 97708 sector", "Deschutes County / coords 44.0600, -121.3100", "Deschutes County / ZIP 97702 sector"]
-zillowHomeValueUsd: 681913
 ---
 
-**Engineering Notice for Bend:** Structural loading calculated based on 3648 ft terrain assessment. Regional dispatch grid: Deschutes County.
+**Engineering Notice for Bend:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Deschutes County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-We coordinate local dispatch coverage around Bend, OR and nearby ZIP sectors.
+FAQ: Can bed bugs spread room-to-room in Bend, OR row homes? Wall voids and shared ducts accelerate transfer.
 
-Tip: confirm licensing and insurance before approving work.
+Attic misting in Bend, OR requires combustion air clearance verified before fans restart.
 
-Transparent pricing helps you compare like-for-like scope items.
+Mud dauber nests in Bend, OR porch ceilings are benign but signal prey density for spiders.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 97702.
+Earwig harborages in Bend, OR meter boxes often follow drip irrigation overspray.
 
-Field note: Access points and staging constraints recorded for ZIP 97702/97701/97703 coverage.
+Monitoring boards in Bend, OR crawlspaces stay 72 hours before snap traps are reset.
 
-Field note: Connection points spot-checked where accessible (ZIP 97702/97701/97703 zone).
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Dispatch sectors sampled: ZIP 97702, 97701, 97703, 97708 (county grid: Deschutes County).
+Seasonal pest pressure in Bend, OR shifts between moisture ants and dry-wood vectors.
+
+Bird mites in Bend, OR exhaust vents can persist after host nests are removed.
+
+FAQ: What is exclusion? Without sealing entry points in Bend, OR, pressure often rebuilds.
+
+Step: map entry points with photo logs before sealing.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+In Bend, OR, subterranean termite swarms often follow warm rain windows.
+
+Intercept log 926265: bed bug intercept count staged before Bend, OR interior gel zones.
+
+Seasonal cue 926265: cluster fly attic staging reviewed for Bend, OR soffit cavities.
+
+On-site sector marker: Deschutes County / ZIP 97702 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97702-57f8239f

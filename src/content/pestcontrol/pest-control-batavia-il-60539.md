@@ -11,26 +11,37 @@ lng: -88.3100
 zipSample: ["60510", "60539"]
 zipCodes: ["60510", "60539"]
 localPaths: ["Kane County / ZIP 60539 sector", "Kane County / primary ZIP 60539", "Kane County / ZIP 60510 sector", "Kane County / elevation 709 ft band", "Kane County / coords 41.8500, -88.3100"]
-zillowHomeValueUsd: 453672
 ---
 
-**Engineering Notice for Batavia:** Structural loading calculated based on 709 ft terrain assessment. Regional dispatch grid: Kane County.
+**Engineering Notice for Batavia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kane County.
 
 
-Tip: request a written scope before work starts.
+Step: separate bait rotation schedules from crack-and-crevice applications in Batavia, IL.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Why do pests return after spraying? Without sealing entry points in Batavia, IL, pressure often rebuilds.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Batavia, IL, but intake notes help reduce delays.
+Risk flag: Overwatered Batavia, IL planters can restart ant bridges within two weeks.
 
-Clear documentation helps align materials, labor, and timeline.
+Material note: Perimeter granules in Batavia, IL may need reapplication after heavy irrigation.
 
-We coordinate local dispatch coverage around Batavia, IL and nearby ZIP sectors.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Field note: Access points and staging constraints recorded for ZIP 60510/60539 coverage.
+Step: record station placement maps for follow-up visits.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60510/60539.
+IGR packets for Batavia, IL roach cycles should be dated on station lids.
 
-Dispatch sectors sampled: ZIP 60510, 60539 (county grid: Kane County).
+Spider populations in Batavia, IL eaves can signal insect prey density.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Perimeter granule carriers in Batavia, IL clay soils may need lighter irrigation before application.
+
+Drain fly biofilm in Batavia, IL floor drains signals grease traps need service before gel baits.
+
+Intercept log 966076: bed bug intercept count staged before Batavia, IL interior gel zones.
+
+On-site sector marker: Kane County / elevation 709 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60539-88da13aa

@@ -11,27 +11,41 @@ lng: -119.6800
 zipSample: ["93747", "93612", "93619", "93613", "93611"]
 zipCodes: ["93612", "93611", "93747", "93619", "93613"]
 localPaths: ["Fresno County / ZIP 93619 sector", "Fresno County / ZIP 93747 sector", "Fresno County / coords 36.8300, -119.6800", "Fresno County / ZIP 93611 sector", "Fresno County / ZIP 93612 sector"]
-zillowHomeValueUsd: 499406
 ---
 
-**Engineering Notice for Clovis:** Structural loading calculated based on 381 ft terrain assessment. Regional dispatch grid: Fresno County.
+**Engineering Notice for Clovis:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fresno County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Can bed bugs spread room-to-room in Clovis, CA row homes? Wall voids and shared ducts accelerate transfer.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 93611.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Tip: compare at least two estimates for scope and timeline.
+Silverfish activity in Clovis, CA attics tracks cardboard storage and ridge vent gaps.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Wildlife odors in Clovis, CA crawlspaces may attract secondary pest activity.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 93619/93747/93613.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 93611.
 
-Field note: Wind exposure category reviewed for ZIP sector 93619/93747/93613.
+Seasonal pest pressure in Clovis, CA shifts between moisture ants and dry-wood vectors.
 
-Dispatch sectors sampled: ZIP 93619, 93747, 93613, 93612, 93611 (county grid: Fresno County).
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Clover mite staining on Clovis, CA cladding service follows foundation mulch against brick ledges.
+
+Earwig harborages in Clovis, CA meter boxes often follow drip irrigation overspray.
+
+Carpenter ant frass in Clovis, CA window sills may indicate moisture-softened framing.
+
+Risk flag: Overwatered Clovis, CA planters can restart ant bridges within two weeks.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Clovis, CA.
+
+Species trace 555854: re-entry interval label and conducive moisture note keyed to Clovis, CA elevation 381 ft.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Fresno County. Reference elevation: 381 ft. Primary coordinates: 36.8300, -119.6800. ZIP sample: 93613, 93747, 93612, 93619, 93611. Regional routing note: Fresno County traffic flow is balanced around ZIP 93611 service demand.
 
 Service reference: CA-93611-74ca0fd8

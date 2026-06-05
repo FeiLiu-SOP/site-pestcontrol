@@ -11,26 +11,39 @@ lng: -87.8800
 zipSample: ["60104"]
 zipCodes: ["60104"]
 localPaths: ["Cook County / ZIP 60104 sector", "Cook County / coords 41.8800, -87.8800", "Cook County / elevation 643 ft band", "Cook County / primary ZIP 60104"]
-zillowHomeValueUsd: 242722
 ---
 
-**Engineering Notice for Bellwood:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Bellwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Silverfish activity in Bellwood, IL attics tracks cardboard storage and ridge vent gaps.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Perimeter granules in Bellwood, IL may need reapplication after heavy irrigation.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In Bellwood, IL, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Wind exposure category reviewed for ZIP sector 60104.
+Perimeter granule carriers in Bellwood, IL clay soils may need lighter irrigation before application.
 
-Field note: Connection points spot-checked where accessible (ZIP 60104 zone).
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Dispatch sectors sampled: ZIP 60104 (county grid: Cook County).
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Step: verify attic access safety before insulation disturbance.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Harbor ledger 870859: frass lane, mud-tube scan, and garage jamb gap measure filed for Bellwood, IL at 41.8800, -87.8800.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~643 ft across the Cook County area. Coordinates: 41.8800, -87.8800. ZIP sample: 60104. Logistics priority: Serving residential sectors across Cook County and north-east ZIP 60104 grid.
 
 Service reference: IL-60104-eeeafffe

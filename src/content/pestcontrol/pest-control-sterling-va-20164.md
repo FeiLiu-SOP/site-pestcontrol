@@ -11,24 +11,41 @@ lng: -77.4100
 zipSample: ["20167", "20164"]
 zipCodes: ["20164", "20167"]
 localPaths: ["Loudoun County / elevation 335 ft band", "Loudoun County / ZIP 20164 sector", "Loudoun County / ZIP 20167 sector", "Loudoun County / primary ZIP 20164", "Loudoun County / coords 39.0100, -77.4100"]
-zillowHomeValueUsd: 596597
 ---
 
-**Engineering Notice for Sterling:** Structural loading calculated based on 335 ft terrain assessment. Regional dispatch grid: Loudoun County.
+**Engineering Notice for Sterling:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Loudoun County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Request an inspection with species ID before treatment. Serving ZIP Code: 20164.
 
-We coordinate local dispatch coverage around Sterling, VA and nearby ZIP sectors.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Local conditions in Sterling, VA can affect timelines and material choices.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 20164.
 
-Tip: address recurring issues early to prevent bigger damage.
+Yellow jacket nests in Sterling, VA soffit cavities peak in late summer routing windows.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Perimeter granule carriers in Sterling, VA clay soils may need lighter irrigation before application.
 
-Field note: Access points and staging constraints recorded for ZIP 20167/20164 coverage.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Dispatch sectors sampled: ZIP 20167, 20164 (county grid: Loudoun County).
+State note: Sterling, VA commercial kitchens may require separate documentation for audit visits.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 20164.
+
+IGR packets for Sterling, VA roach cycles should be dated on station lids.
+
+FAQ: What is exclusion? Without sealing entry points in Sterling, VA, pressure often rebuilds.
+
+Spider populations in Sterling, VA eaves can signal insect prey density.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Attic fogging in Sterling, VA requires combustion appliance shutoff verification first.
+
+Bird mites in Sterling, VA exhaust vents can persist after host nests are removed.
+
+Intercept log 279564: bed bug intercept count staged before Sterling, VA interior gel zones.
+
+ZIP-corridor snapshot for Sterling, VA: sampled sectors include 20164, 20167; county routing grid remains Loudoun County.
 
 Service reference: VA-20164-78923650

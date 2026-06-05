@@ -11,26 +11,39 @@ lng: -119.2900
 zipSample: ["97838"]
 zipCodes: ["97838"]
 localPaths: ["Umatilla County / elevation 486 ft band", "Umatilla County / primary ZIP 97838", "Umatilla County / coords 45.8300, -119.2900", "Umatilla County / ZIP 97838 sector"]
-zillowHomeValueUsd: 340744
 ---
 
-**Engineering Notice for Hermiston:** Structural loading calculated based on 486 ft terrain assessment. Regional dispatch grid: Umatilla County.
+**Engineering Notice for Hermiston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Umatilla County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+State note: Hermiston, OR commercial kitchens may require separate documentation for audit visits.
 
-We coordinate local dispatch coverage around Hermiston, OR and nearby ZIP sectors.
+Drain fly biofilm in Hermiston, OR floor drains signals grease traps need service before gel baits.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: verify attic access safety before insulation disturbance.
 
-Tip: request a written scope before work starts.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hermiston, OR, but intake notes help reduce delays.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Access points and staging constraints recorded for ZIP 97838 coverage.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 97838.
+Cluster fly attic staging in Hermiston, OR peaks on south-facing voids after sunny thaw days.
 
-Dispatch sectors sampled: ZIP 97838 (county grid: Umatilla County).
+Tip: Log pet access routes when bait stations are placed.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Risk flag: Overwatered Hermiston, OR planters can restart ant bridges within two weeks.
+
+Attic fogging in Hermiston, OR requires combustion appliance shutoff verification first.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Perimeter granule carriers in Hermiston, OR clay soils may need lighter irrigation before application.
+
+Zone map 137057: attic insulation disturbance trace and pantry pest source logged for Hermiston, OR sector 97838.
+
+Primary postal anchor 97838 with multi-ZIP overlap in Hermiston; field packets tag Umatilla County for county-grid reconciliation.
 
 Service reference: OR-97838-5122fd3e

@@ -11,27 +11,41 @@ lng: -120.5500
 zipSample: ["98903", "98901", "98907", "98904", "98902"]
 zipCodes: ["98907", "98904", "98901", "98903", "98902", "98908"]
 localPaths: ["Yakima County / coords 46.5900, -120.5500", "Yakima County / ZIP 98903 sector", "Yakima County / ZIP 98904 sector", "Yakima County / ZIP 98902 sector", "Yakima County / primary ZIP 98901"]
-zillowHomeValueUsd: 333762
 ---
 
-**Engineering Notice for Yakima:** Structural loading calculated based on 1198 ft terrain assessment. Regional dispatch grid: Yakima County.
+**Engineering Notice for Yakima:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Yakima County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 98901.
+Clover mite staining on Yakima, WA wall restoration follows foundation mulch against brick ledges.
 
-We coordinate local dispatch coverage around Yakima, WA and nearby ZIP sectors.
+Step: record station placement maps for follow-up visits.
 
-Tip: address recurring issues early to prevent bigger damage.
+Cluster fly attic staging in Yakima, WA peaks on south-facing voids after sunny thaw days.
 
-Field note: Wind exposure category reviewed for ZIP sector 98902/98907/98904.
+Step: map entry points with photo logs before sealing.
 
-Field note: Access points and staging constraints recorded for ZIP 98902/98907/98904 coverage.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 98902, 98907, 98904, 98901, 98908 (county grid: Yakima County).
+Fire ant mounds in Yakima, WA drive seams need granule rotation after irrigation events.
+
+Material note: Perimeter granules in Yakima, WA may need reapplication after heavy irrigation.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+FAQ: Why schedule quarterly instead of monthly in Yakima, WA? Species pressure and label intervals dictate cadence.
+
+Earwig harborages in Yakima, WA meter boxes often follow drip irrigation overspray.
+
+Humidity in Yakima, WA can sustain cockroach harborages behind appliance voids.
+
+Perimeter dossier 243401: bait station anchor map and mulch bridge risk flagged for Yakima, WA county Yakima County (ZIP 98901).
+
+ZIP-corridor snapshot for Yakima, WA: sampled sectors include 98908, 98901, 98907, 98902, 98904, 98903; county routing grid remains Yakima County.
 
 Service reference: WA-98901-e8bbb23f

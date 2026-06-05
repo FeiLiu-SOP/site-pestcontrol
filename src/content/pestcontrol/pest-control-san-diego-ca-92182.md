@@ -11,26 +11,39 @@ lng: -117.1200
 zipSample: ["92027", "92124", "92177", "92192", "92163"]
 zipCodes: ["92114", "92198", "92137", "92167", "92172", "92142", "92149", "92153", "92168", "92158", "92116", "92108"]
 localPaths: ["San Diego County / ZIP 92124 sector", "San Diego County / coords 32.8300, -117.1200", "San Diego County / ZIP 92027 sector", "San Diego County / ZIP 92192 sector", "San Diego County / ZIP 92177 sector"]
-zillowHomeValueUsd: 746720
 ---
 
-**Engineering Notice for San Diego:** Structural loading calculated based on 404 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for San Diego:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in San Diego, CA, but intake notes help reduce delays.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in San Diego, CA.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Drain fly biofilm in San Diego, CA floor drains signals grease traps need service before gel baits.
 
-We coordinate local dispatch coverage around San Diego, CA and nearby ZIP sectors.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 92182.
 
-Tip: address recurring issues early to prevent bigger damage.
+Fire ant mounds in San Diego, CA drive seams need granule rotation after irrigation events.
 
-Field note: Connection points spot-checked where accessible (ZIP 92198/92165/92153 zone).
+Silverfish activity in San Diego, CA attics tracks cardboard storage and ridge vent gaps.
 
-Field note: Access points and staging constraints recorded for ZIP 92198/92165/92153 coverage.
+Cluster fly attic staging in San Diego, CA peaks on south-facing voids after sunny thaw days.
 
-Dispatch sectors sampled: ZIP 92198, 92165, 92153, 92199, 92027 (county grid: San Diego County).
+Tip: Keep pet food elevated and sealed between service visits.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Stink bug overwinter seams in San Diego, CA vinyl panels laps require exclusion foam rated for UV exposure.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Perimeter dossier 226311: bait station anchor map and mulch bridge risk flagged for San Diego, CA county San Diego County (ZIP 92182).
+
+On-site sector marker: San Diego County / ZIP 92193 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92182-e7e07e43

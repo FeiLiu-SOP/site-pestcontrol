@@ -11,26 +11,41 @@ lng: -118.4800
 zipSample: ["90401", "90409", "90404", "90410", "90405"]
 zipCodes: ["90411", "90410", "90409", "90404", "90405", "90402", "90401", "90406", "90403", "90407", "90408"]
 localPaths: ["Los Angeles County / coords 34.0200, -118.4800", "Los Angeles County / ZIP 90409 sector", "Los Angeles County / elevation 135 ft band", "Los Angeles County / ZIP 90410 sector", "Los Angeles County / ZIP 90404 sector"]
-zillowHomeValueUsd: 1317892
 ---
 
-**Engineering Notice for Santa Monica:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Santa Monica:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Santa Monica, CA.
 
-Clear documentation helps align materials, labor, and timeline.
+Stink bug overwinter seams in Santa Monica, CA wall restoration laps require exclusion foam rated for UV exposure.
 
-Tip: compare at least two estimates for scope and timeline.
+Mud dauber nests in Santa Monica, CA porch ceilings are benign but signal prey density for spiders.
 
-Our service coordination centers on Santa Monica, CA coverage windows and verified intake details.
+Spider populations in Santa Monica, CA eaves can signal insect prey density.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Field note: Access points and staging constraints recorded for ZIP 90403/90404/90401 coverage.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Field note: Moisture pathway inspection logged near ZIP 90403/90404/90401 intake.
+Clover mite staining on Santa Monica, CA exterior cladding follows foundation mulch against brick ledges.
 
-Dispatch sectors sampled: ZIP 90403, 90404, 90401, 90411, 90406 (county grid: Los Angeles County).
+Wildlife odors in Santa Monica, CA crawlspaces may attract secondary pest activity.
+
+Material note: Perimeter granules in Santa Monica, CA may need reapplication after heavy irrigation.
+
+Yellow jacket nests in Santa Monica, CA soffit cavities peak in late summer routing windows.
+
+Risk flag: In Santa Monica, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Step: map entry points with photo logs before sealing.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Zone map 766020: attic insulation disturbance trace and pantry pest source logged for Santa Monica, CA sector 90401.
+
+Perimeter dossier 766020: bait station anchor map and mulch bridge risk flagged for Santa Monica, CA county Los Angeles County (ZIP 90401).
+
+Primary postal anchor 90401 with multi-ZIP overlap in Santa Monica; field packets tag Los Angeles County for county-grid reconciliation.
 
 Service reference: CA-90401-ef0294ee

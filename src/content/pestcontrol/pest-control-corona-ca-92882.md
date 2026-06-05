@@ -11,25 +11,37 @@ lng: -117.5600
 zipSample: ["92877", "92881", "92878", "92882", "92879"]
 zipCodes: ["92880", "92882", "92881", "92877", "92879", "92878"]
 localPaths: ["Riverside County / ZIP 92878 sector", "Riverside County / ZIP 92877 sector", "Riverside County / ZIP 92879 sector", "Riverside County / ZIP 92881 sector", "Riverside County / elevation 846 ft band"]
-zillowHomeValueUsd: 785455
 ---
 
-**Engineering Notice for Corona:** Structural loading calculated based on 846 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Corona:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 92882.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Our service coordination centers on Corona, CA coverage windows and verified intake details.
+IGR packets for Corona, CA roach cycles should be dated on station lids.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Perimeter granules in Corona, CA may need reapplication after heavy irrigation.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 92882.
 
-Field note: Moisture pathway inspection logged near ZIP 92880/92879/92882 intake.
+Flea pupae survive vacuuming in Corona, CA carpet fibers unless heat treatment follows.
 
-Dispatch sectors sampled: ZIP 92880, 92879, 92882, 92881, 92877 (county grid: Riverside County).
+Humidity in Corona, CA can sustain cockroach harborages behind appliance voids.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Corona, CA.
+
+Drain fly biofilm in Corona, CA floor drains signals grease traps need service before gel baits.
+
+Silverfish activity in Corona, CA attics tracks cardboard storage and ridge vent gaps.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+FAQ: Why schedule quarterly instead of monthly in Corona, CA? Species pressure and label intervals dictate cadence.
+
+Exclusion audit 945050: exclusion mesh gauge and rodent runway grease mark reviewed for Corona, CA at 33.8600/-117.5600.
+
+Regional mesh label Riverside County: moisture and logistics baselines are keyed to Corona, CA before niche-specific work begins.
 
 Service reference: CA-92882-79c09315

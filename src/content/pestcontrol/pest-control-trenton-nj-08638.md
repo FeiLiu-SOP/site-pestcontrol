@@ -11,26 +11,41 @@ lng: -74.7600
 zipSample: ["08695", "08629", "08605", "08646", "08647"]
 zipCodes: ["08625", "08607", "08601", "08604", "08629", "08618", "08611", "08695", "08645", "08608", "08603", "08646"]
 localPaths: ["Mercer County / ZIP 08695 sector", "Mercer County / coords 40.2200, -74.7600", "Mercer County / ZIP 08646 sector", "Mercer County / ZIP 08647 sector", "Mercer County / ZIP 08605 sector"]
-zillowHomeValueUsd: 305421
 ---
 
-**Engineering Notice for Trenton:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Mercer County.
+**Engineering Notice for Trenton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Mercer County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+County grid Mercer County informs routing near ZIP 08638.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Across Trenton, NJ, rodent entry points frequently track utility penetrations.
 
-Our service coordination centers on Trenton, NJ coverage windows and verified intake details.
+Tip: Date bait station lids when servicing Trenton, NJ perimeter lines.
 
-Tip: request a written scope before work starts.
+Earwig harborages in Trenton, NJ meter boxes often follow drip irrigation overspray.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Trenton, NJ, but intake notes help reduce delays.
+Carpenter ant frass in Trenton, NJ window sills may indicate moisture-softened framing.
 
-Field note: Access points and staging constraints recorded for ZIP 08611/08605/08607 coverage.
+Attic misting in Trenton, NJ requires combustion air clearance verified before fans restart.
 
-Field note: Wind exposure category reviewed for ZIP sector 08611/08605/08607.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Dispatch sectors sampled: ZIP 08611, 08605, 08607, 08638, 08645 (county grid: Mercer County).
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Dry-wood termite pellets in Trenton, NJ attics may appear before exterior mud tubes.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+State note: Trenton, NJ commercial kitchens may require separate documentation for audit visits.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Perimeter dossier 938316: bait station anchor map and mulch bridge risk flagged for Trenton, NJ county Mercer County (ZIP 08638).
+
+Intercept log 938316: bed bug intercept count staged before Trenton, NJ interior gel zones.
+
+Primary postal anchor 08638 with multi-ZIP overlap in Trenton; field packets tag Mercer County for county-grid reconciliation.
 
 Service reference: NJ-08638-54599557

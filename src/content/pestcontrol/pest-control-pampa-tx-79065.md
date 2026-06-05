@@ -11,26 +11,43 @@ lng: -100.9700
 zipSample: ["79065"]
 zipCodes: ["79065"]
 localPaths: ["Gray County / ZIP 79065 sector", "Gray County / coords 35.5500, -100.9700", "Gray County / elevation 3241 ft band", "Gray County / primary ZIP 79065"]
-zillowHomeValueUsd: 102751
 ---
 
-**Engineering Notice for Pampa:** Structural loading calculated based on 3241 ft terrain assessment. Regional dispatch grid: Gray County.
+**Engineering Notice for Pampa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gray County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Fire ant mounds in Pampa, TX drive seams need granule rotation after irrigation events.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Can bed bugs spread room-to-room in Pampa, TX row homes? Wall voids and shared ducts accelerate transfer.
 
-Tip: request a written scope before work starts.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-In Pampa, TX, seasonal demand can change scheduling windows.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Wind exposure category reviewed for ZIP sector 79065.
+FAQ: Why schedule quarterly instead of monthly in Pampa, TX? Species pressure and label intervals dictate cadence.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 79065.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Dispatch sectors sampled: ZIP 79065 (county grid: Gray County).
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Dry-wood termite pellets in Pampa, TX attics may appear before exterior mud tubes.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+IGR packets for Pampa, TX roach cycles should be dated on station lids.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Perimeter dossier 258783: bait station anchor map and mulch bridge risk flagged for Pampa, TX county Gray County (ZIP 79065).
+
+Harbor ledger 258783: frass lane, mud-tube scan, and garage jamb gap measure filed for Pampa, TX at 35.5500, -100.9700.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Gray County. Reference elevation: 3241 ft. Primary coordinates: 35.5500, -100.9700. ZIP sample: 79065. Logistics priority: Serving residential sectors across Gray County and north-east ZIP 79065 grid.
 
 Service reference: TX-79065-95a66946

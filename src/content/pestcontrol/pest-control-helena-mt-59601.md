@@ -11,24 +11,43 @@ lng: -112.0200
 zipSample: ["59601", "59602", "59623", "59625", "59626"]
 zipCodes: ["59624", "59625", "59626", "59602", "59601", "59623"]
 localPaths: ["Lewis and Clark County / primary ZIP 59601", "Lewis and Clark County / ZIP 59625 sector", "Lewis and Clark County / coords 46.6000, -112.0200", "Lewis and Clark County / ZIP 59623 sector", "Lewis and Clark County / ZIP 59602 sector"]
-zillowHomeValueUsd: 434719
 ---
 
-**Engineering Notice for Helena:** Structural loading calculated based on 3990 ft terrain assessment. Regional dispatch grid: Lewis and Clark County.
+**Engineering Notice for Helena:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lewis and Clark County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Carpenter ant frass in Helena, MT window sills may indicate moisture-softened framing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Tip: compare at least two estimates for scope and timeline.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Helena, MT, but intake notes help reduce delays.
+Step: label treatment zones for occupant re-entry timing.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Perimeter granules in Helena, MT may need reapplication after heavy irrigation.
 
-Field note: Wind exposure category reviewed for ZIP sector 59623/59602/59601.
+Silverfish activity in Helena, MT attics tracks cardboard storage and ridge vent gaps.
 
-Dispatch sectors sampled: ZIP 59623, 59602, 59601, 59626, 59624 (county grid: Lewis and Clark County).
+Yellow jacket nests in Helena, MT soffit cavities peak in late summer routing windows.
+
+Bird mites in Helena, MT exhaust vents can persist after host nests are removed.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Mud dauber nests in Helena, MT porch ceilings are benign but signal prey density for spiders.
+
+Dry-wood termite pellets in Helena, MT attics may appear before exterior mud tubes.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+State note: Helena, MT commercial kitchens may require separate documentation for audit visits.
+
+Intercept log 397960: bed bug intercept count staged before Helena, MT interior gel zones.
+
+Harbor ledger 397960: frass lane, mud-tube scan, and garage jamb gap measure filed for Helena, MT at 46.6000, -112.0200.
+
+Coordinate-anchored dispatch note: center reference 46.6000, -112.0200 at elevation ~3990 ft aligns with Lewis and Clark County intake staging.
 
 Service reference: MT-59601-27fdc7c9

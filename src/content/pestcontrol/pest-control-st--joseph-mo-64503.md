@@ -11,26 +11,39 @@ lng: -94.8200
 zipSample: ["64503", "64508", "64506", "64504", "64501"]
 zipCodes: ["64503", "64507", "64502", "64508", "64501", "64505", "64504", "64506"]
 localPaths: ["Buchanan County / ZIP 64508 sector", "Buchanan County / coords 39.7600, -94.8200", "Buchanan County / elevation 925 ft band", "Buchanan County / ZIP 64503 sector", "Buchanan County / ZIP 64501 sector"]
-zillowHomeValueUsd: 172779
 ---
 
-**Engineering Notice for St. Joseph:** Structural loading calculated based on 925 ft terrain assessment. Regional dispatch grid: Buchanan County.
+**Engineering Notice for St. Joseph:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Buchanan County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Homeowners in St. Joseph, MO often face sudden pest control problems that require fast action.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 64503.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: map entry points with photo logs before sealing.
 
-Tip: avoid large upfront payments without milestones.
+State note: St. Joseph, MO commercial kitchens may require separate documentation for audit visits.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In St. Joseph, MO, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Access points and staging constraints recorded for ZIP 64508/64506/64501 coverage.
+Bird mites in St. Joseph, MO exhaust vents can persist after host nests are removed.
 
-Field note: Wind exposure category reviewed for ZIP sector 64508/64506/64501.
+FAQ: What is exclusion? Without sealing entry points in St. Joseph, MO, pressure often rebuilds.
 
-Dispatch sectors sampled: ZIP 64508, 64506, 64501, 64504, 64503 (county grid: Buchanan County).
+IGR packets for St. Joseph, MO roach cycles should be dated on station lids.
+
+Stored cardboard in St. Joseph, MO garages can accelerate pantry pest cycles.
+
+Stink bug overwinter seams in St. Joseph, MO cladding service laps require exclusion foam rated for UV exposure.
+
+Dry-wood termite pellets in St. Joseph, MO attics may appear before exterior mud tubes.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Species trace 340647: re-entry interval label and conducive moisture note keyed to St. Joseph, MO elevation 925 ft.
+
+On-site sector marker: Buchanan County / ZIP 64507 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-64503-c7588cdb

@@ -11,24 +11,37 @@ lng: -84.3000
 zipSample: ["30345", "30366", "39901", "30341"]
 zipCodes: ["30366", "39901", "30341", "30345"]
 localPaths: ["DeKalb County / ZIP 30345 sector", "DeKalb County / ZIP 30341 sector", "DeKalb County / coords 33.8800, -84.3000", "DeKalb County / primary ZIP 30341", "DeKalb County / ZIP 39901 sector"]
-zillowHomeValueUsd: 510830
 ---
 
-**Engineering Notice for Chamblee:** Structural loading calculated based on 988 ft terrain assessment. Regional dispatch grid: DeKalb County.
+**Engineering Notice for Chamblee:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeKalb County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Chamblee, GA, but intake notes help reduce delays.
+Mosquito breeding in Chamblee, GA catch basins can amplify perimeter callbacks.
 
-Tip: compare at least two estimates for scope and timeline.
+County grid DeKalb County informs routing near ZIP 30341.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+State note: Chamblee, GA commercial kitchens may require separate documentation for audit visits.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 30341.
 
-Field note: Access points and staging constraints recorded for ZIP 30345/30366/30341 coverage.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Dispatch sectors sampled: ZIP 30345, 30366, 30341, 39901 (county grid: DeKalb County).
+Bird mites in Chamblee, GA exhaust vents can persist after host nests are removed.
+
+Cluster fly attic staging in Chamblee, GA peaks on south-facing voids after sunny thaw days.
+
+Tip: Date bait station lids when servicing Chamblee, GA perimeter lines.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Flea pupae survive vacuuming in Chamblee, GA carpet fibers unless heat treatment follows.
+
+Material note: Perimeter granules in Chamblee, GA may need reapplication after heavy irrigation.
+
+Perimeter dossier 231831: bait station anchor map and mulch bridge risk flagged for Chamblee, GA county DeKalb County (ZIP 30341).
+
+Coordinate-anchored dispatch note: center reference 33.8800, -84.3000 at elevation ~988 ft aligns with DeKalb County intake staging.
 
 Service reference: GA-30341-f1b1ca01

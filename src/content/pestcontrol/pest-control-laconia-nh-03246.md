@@ -11,25 +11,41 @@ lng: -71.4800
 zipSample: ["03246"]
 zipCodes: ["03246"]
 localPaths: ["Belknap County / ZIP 03246 sector", "Belknap County / primary ZIP 03246", "Belknap County / elevation 587 ft band", "Belknap County / coords 43.5700, -71.4800"]
-zillowHomeValueUsd: 434142
 ---
 
-**Engineering Notice for Laconia:** Structural loading calculated based on 587 ft terrain assessment. Regional dispatch grid: Belknap County.
+**Engineering Notice for Laconia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Belknap County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Tip: avoid large upfront payments without milestones.
+Attic insulation disturbance in Laconia, NH may indicate wildlife nesting routes.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 03246.
+Powderpost beetle exit holes in Laconia, NH trim can be mistaken for dry-wood frass without magnification.
 
-Field note: Connection points spot-checked where accessible (ZIP 03246 zone).
+Perimeter granule carriers in Laconia, NH clay soils may need lighter irrigation before application.
 
-Dispatch sectors sampled: ZIP 03246 (county grid: Belknap County).
+Wildlife odors in Laconia, NH crawlspaces may attract secondary pest activity.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Fire ant mounds in Laconia, NH drive seams need granule rotation after irrigation events.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 03246.
+
+State note: Laconia, NH commercial kitchens may require separate documentation for audit visits.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 03246.
+
+Seasonal cue 959953: cluster fly attic staging reviewed for Laconia, NH soffit cavities.
+
+Harbor ledger 959953: frass lane, mud-tube scan, and garage jamb gap measure filed for Laconia, NH at 43.5700, -71.4800.
+
+On-site sector marker: Belknap County / primary ZIP 03246 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NH-03246-9904d749

@@ -11,26 +11,37 @@ lng: -81.3200
 zipSample: ["28601", "28603", "28602"]
 zipCodes: ["28602", "28601", "28603"]
 localPaths: ["Catawba County / ZIP 28603 sector", "Catawba County / ZIP 28602 sector", "Catawba County / ZIP 28601 sector", "Catawba County / coords 35.7400, -81.3200", "Catawba County / elevation 1171 ft band"]
-zillowHomeValueUsd: 304554
 ---
 
-**Engineering Notice for Hickory:** Structural loading calculated based on 1171 ft terrain assessment. Regional dispatch grid: Catawba County.
+**Engineering Notice for Hickory:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Catawba County.
 
 
-Our service coordination centers on Hickory, NC coverage windows and verified intake details.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Perimeter granules in Hickory, NC may need reapplication after heavy irrigation.
 
-Clear documentation helps align materials, labor, and timeline.
+Fire ant mounds in Hickory, NC drive seams need granule rotation after irrigation events.
 
-Tip: request a written scope before work starts.
+Carpenter ant frass in Hickory, NC window sills may indicate moisture-softened framing.
 
-Field note: Access points and staging constraints recorded for ZIP 28603/28602/28601 coverage.
+Across Hickory, NC, rodent entry points frequently track utility penetrations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28603/28602/28601.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Dispatch sectors sampled: ZIP 28603, 28602, 28601 (county grid: Catawba County).
+FAQ: Can bed bugs spread room-to-room in Hickory, NC row homes? Wall voids and shared ducts accelerate transfer.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Hickory, NC.
+
+Flea pupae survive vacuuming in Hickory, NC carpet fibers unless heat treatment follows.
+
+Dry-wood termite pellets in Hickory, NC attics may appear before exterior mud tubes.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Species trace 249351: re-entry interval label and conducive moisture note keyed to Hickory, NC elevation 1171 ft.
+
+Regional mesh label Catawba County: moisture and logistics baselines are keyed to Hickory, NC before niche-specific work begins.
 
 Service reference: NC-28601-cc34e164

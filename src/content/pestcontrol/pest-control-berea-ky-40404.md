@@ -11,26 +11,39 @@ lng: -84.2900
 zipSample: ["40403", "40404"]
 zipCodes: ["40403", "40404"]
 localPaths: ["Madison County / primary ZIP 40404", "Madison County / ZIP 40404 sector", "Madison County / elevation 961 ft band", "Madison County / ZIP 40403 sector", "Madison County / coords 37.5900, -84.2900"]
-zillowHomeValueUsd: 252767
 ---
 
-**Engineering Notice for Berea:** Structural loading calculated based on 961 ft terrain assessment. Regional dispatch grid: Madison County.
+**Engineering Notice for Berea:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Madison County.
 
 
-Tip: request a written scope before work starts.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Berea, KY, but intake notes help reduce delays.
+Monitoring boards in Berea, KY crawlspaces stay 72 hours before snap traps are reset.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Tip: address recurring issues early to prevent bigger damage.
+Perimeter granule carriers in Berea, KY clay soils may need lighter irrigation before application.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Moisture pathway inspection logged near ZIP 40404/40403 intake.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Wind exposure category reviewed for ZIP sector 40404/40403.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Berea, KY.
 
-Dispatch sectors sampled: ZIP 40404, 40403 (county grid: Madison County).
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Yellow jacket nests in Berea, KY soffit cavities peak in late summer routing windows.
+
+In Berea, KY, subterranean termite swarms often follow warm rain windows.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Humidity in Berea, KY can sustain cockroach harborages behind appliance voids.
+
+Exclusion audit 876837: exclusion mesh gauge and rodent runway grease mark reviewed for Berea, KY at 37.5900/-84.2900.
+
+Perimeter dossier 876837: bait station anchor map and mulch bridge risk flagged for Berea, KY county Madison County (ZIP 40404).
+
+On-site sector marker: Madison County / primary ZIP 40404 — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-40404-b69307fa

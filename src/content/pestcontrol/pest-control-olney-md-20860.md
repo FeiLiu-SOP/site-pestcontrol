@@ -11,24 +11,41 @@ lng: -77.0700
 zipSample: ["20860", "20832", "20906", "20853", "20830"]
 zipCodes: ["20830", "20853", "20832", "20906", "20860", "20833"]
 localPaths: ["Montgomery County / ZIP 20860 sector", "Montgomery County / ZIP 20832 sector", "Montgomery County / ZIP 20906 sector", "Montgomery County / coords 39.1500, -77.0700", "Montgomery County / ZIP 20853 sector"]
-zillowHomeValueUsd: 821786
 ---
 
-**Engineering Notice for Olney:** Structural loading calculated based on 512 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Olney:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: compare at least two estimates for scope and timeline.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Olney, MD, but intake notes help reduce delays.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 20860.
 
-A written scope helps prevent rework and mismatched expectations.
+Dry-wood termite pellets in Olney, MD attics may appear before exterior mud tubes.
 
-Our service coordination centers on Olney, MD coverage windows and verified intake details.
+Wildlife odors in Olney, MD crawlspaces may attract secondary pest activity.
 
-Field note: Wind exposure category reviewed for ZIP sector 20832/20853/20833.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Dispatch sectors sampled: ZIP 20832, 20853, 20833, 20830, 20906 (county grid: Montgomery County).
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Yellow jacket nests in Olney, MD soffit cavities peak in late summer routing windows.
+
+Risk flag: Overwatered Olney, MD planters can restart ant bridges within two weeks.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Olney, MD.
+
+Harbor ledger 979593: frass lane, mud-tube scan, and garage jamb gap measure filed for Olney, MD at 39.1500, -77.0700.
+
+Exclusion audit 979593: exclusion mesh gauge and rodent runway grease mark reviewed for Olney, MD at 39.1500/-77.0700.
+
+Regional mesh label Montgomery County: moisture and logistics baselines are keyed to Olney, MD before niche-specific work begins.
 
 Service reference: MD-20860-8cac74ae

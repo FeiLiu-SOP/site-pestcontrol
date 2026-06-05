@@ -11,26 +11,39 @@ lng: -86.9400
 zipSample: ["47546", "47549"]
 zipCodes: ["47546", "47549"]
 localPaths: ["Dubois County / primary ZIP 47546", "Dubois County / elevation 479 ft band", "Dubois County / coords 38.3900, -86.9400", "Dubois County / ZIP 47546 sector", "Dubois County / ZIP 47549 sector"]
-zillowHomeValueUsd: 264695
 ---
 
-**Engineering Notice for Jasper:** Structural loading calculated based on 479 ft terrain assessment. Regional dispatch grid: Dubois County.
+**Engineering Notice for Jasper:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dubois County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Jasper, IN, but intake notes help reduce delays.
+Powderpost beetle exit holes in Jasper, IN trim can be mistaken for dry-wood frass without magnification.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Monitoring boards in Jasper, IN crawlspaces stay 72 hours before snap traps are reset.
 
-We coordinate local dispatch coverage around Jasper, IN and nearby ZIP sectors.
+Earwig harborages in Jasper, IN meter boxes often follow drip irrigation overspray.
 
-Field note: Wind exposure category reviewed for ZIP sector 47546/47549.
+Yellow jacket nests in Jasper, IN soffit cavities peak in late summer routing windows.
 
-Field note: Access points and staging constraints recorded for ZIP 47546/47549 coverage.
+Attic misting in Jasper, IN requires combustion air clearance verified before fans restart.
 
-Dispatch sectors sampled: ZIP 47546, 47549 (county grid: Dubois County).
+Risk flag: Overwatered Jasper, IN planters can restart ant bridges within two weeks.
+
+Flea pupae survive vacuuming in Jasper, IN carpet fibers unless heat treatment follows.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Risk flag: In Jasper, IN, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Drain fly biofilm in Jasper, IN floor drains signals grease traps need service before gel baits.
+
+Harbor ledger 353269: frass lane, mud-tube scan, and garage jamb gap measure filed for Jasper, IN at 38.3900, -86.9400.
+
+Species trace 353269: re-entry interval label and conducive moisture note keyed to Jasper, IN elevation 479 ft.
+
+Regional mesh label Dubois County: moisture and logistics baselines are keyed to Jasper, IN before niche-specific work begins.
 
 Service reference: IN-47546-7ba86eeb

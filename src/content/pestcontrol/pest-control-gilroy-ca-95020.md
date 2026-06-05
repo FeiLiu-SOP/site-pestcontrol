@@ -11,25 +11,39 @@ lng: -121.5900
 zipSample: ["95020"]
 zipCodes: ["95020"]
 localPaths: ["Santa Clara County / ZIP 95020 sector", "Santa Clara County / coords 37.0000, -121.5900", "Santa Clara County / primary ZIP 95020", "Santa Clara County / elevation 210 ft band"]
-zillowHomeValueUsd: 1080087
 ---
 
-**Engineering Notice for Gilroy:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Gilroy:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Clara County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 95020.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Humidity in Gilroy, CA can sustain cockroach harborages behind appliance voids.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Local conditions in Gilroy, CA can affect timelines and material choices.
+Yellow jacket nests in Gilroy, CA soffit cavities peak in late summer routing windows.
 
-Field note: Connection points spot-checked where accessible (ZIP 95020 zone).
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Dispatch sectors sampled: ZIP 95020 (county grid: Santa Clara County).
+Flea pupae survive vacuuming in Gilroy, CA carpet fibers unless heat treatment follows.
+
+Exclusion gaps at garage jambs in Gilroy, CA are common rodent access points.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Attic misting in Gilroy, CA requires combustion air clearance verified before fans restart.
+
+Cluster fly attic staging in Gilroy, CA peaks on south-facing voids after sunny thaw days.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 95020.
+
+Zone map 558152: attic insulation disturbance trace and pantry pest source logged for Gilroy, CA sector 95020.
+
+Coordinate-anchored dispatch note: center reference 37.0000, -121.5900 at elevation ~210 ft aligns with Santa Clara County intake staging.
 
 Service reference: CA-95020-f3b03527

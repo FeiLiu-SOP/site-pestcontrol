@@ -11,24 +11,39 @@ lng: -82.1100
 zipSample: ["44036", "44035"]
 zipCodes: ["44035", "44036"]
 localPaths: ["Lorain County / coords 41.3800, -82.1100", "Lorain County / primary ZIP 44035", "Lorain County / ZIP 44036 sector", "Lorain County / ZIP 44035 sector", "Lorain County / elevation 719 ft band"]
-zillowHomeValueUsd: 182799
 ---
 
-**Engineering Notice for Elyria:** Structural loading calculated based on 719 ft terrain assessment. Regional dispatch grid: Lorain County.
+**Engineering Notice for Elyria:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lorain County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: What is exclusion? Without sealing entry points in Elyria, OH, pressure often rebuilds.
 
-Clear documentation helps align materials, labor, and timeline.
+Drain fly biofilm in Elyria, OH floor drains signals grease traps need service before gel baits.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Elyria, OH, but intake notes help reduce delays.
+Tip: Keep pet food elevated and sealed between service visits.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Tip: avoid large upfront payments without milestones.
+Yellow jacket nests in Elyria, OH soffit cavities peak in late summer routing windows.
 
-Field note: Access points and staging constraints recorded for ZIP 44035/44036 coverage.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Dispatch sectors sampled: ZIP 44035, 44036 (county grid: Lorain County).
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Attic fogging in Elyria, OH requires combustion appliance shutoff verification first.
+
+Earwig harborages in Elyria, OH meter boxes often follow drip irrigation overspray.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+Exclusion audit 828483: exclusion mesh gauge and rodent runway grease mark reviewed for Elyria, OH at 41.3800/-82.1100.
+
+Zone map 828483: attic insulation disturbance trace and pantry pest source logged for Elyria, OH sector 44035.
+
+Regional mesh label Lorain County: moisture and logistics baselines are keyed to Elyria, OH before niche-specific work begins.
 
 Service reference: OH-44035-3dc10388

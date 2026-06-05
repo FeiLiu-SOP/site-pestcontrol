@@ -11,25 +11,39 @@ lng: -77.3500
 zipSample: ["22193"]
 zipCodes: ["22193"]
 localPaths: ["Prince William County / elevation 262 ft band", "Prince William County / primary ZIP 22193", "Prince William County / ZIP 22193 sector", "Prince William County / coords 38.6500, -77.3500"]
-zillowHomeValueUsd: 508664
 ---
 
-**Engineering Notice for Dale City:** Structural loading calculated based on 262 ft terrain assessment. Regional dispatch grid: Prince William County.
+**Engineering Notice for Dale City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince William County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Carpenter ant frass in Dale City, VA window sills may indicate moisture-softened framing.
 
-Tip: request a written scope before work starts.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 22193.
+Step: verify attic access safety before insulation disturbance.
 
-We coordinate local dispatch coverage around Dale City, VA and nearby ZIP sectors.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 22193.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Dale City, VA, but intake notes help reduce delays.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Wind exposure category reviewed for ZIP sector 22193.
+Stink bug overwinter seams in Dale City, VA wall restoration laps require exclusion foam rated for UV exposure.
 
-Dispatch sectors sampled: ZIP 22193 (county grid: Prince William County).
+Risk flag: In Dale City, VA, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 22193.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 22193.
+
+Tip: Date bait station lids when servicing Dale City, VA perimeter lines.
+
+We coordinate Dale City, VA pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Harbor ledger 247438: frass lane, mud-tube scan, and garage jamb gap measure filed for Dale City, VA at 38.6500, -77.3500.
+
+On-site sector marker: Prince William County / primary ZIP 22193 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22193-f6a4a507

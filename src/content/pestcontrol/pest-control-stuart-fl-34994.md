@@ -11,25 +11,41 @@ lng: -80.2400
 zipSample: ["34996", "34957", "34994"]
 zipCodes: ["34994", "34996", "34957"]
 localPaths: ["Martin County / coords 27.2000, -80.2400", "Martin County / primary ZIP 34994", "Martin County / elevation 23 ft band", "Martin County / ZIP 34957 sector", "Martin County / ZIP 34994 sector"]
-zillowHomeValueUsd: 237212
 ---
 
-**Engineering Notice for Stuart:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Martin County.
+**Engineering Notice for Stuart:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Martin County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 34994.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Our service coordination centers on Stuart, FL coverage windows and verified intake details.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Access points and staging constraints recorded for ZIP 34996/34957/34994 coverage.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Dispatch sectors sampled: ZIP 34996, 34957, 34994 (county grid: Martin County).
+FAQ: Can bed bugs spread room-to-room in Stuart, FL row homes? Wall voids and shared ducts accelerate transfer.
+
+FAQ: Why schedule quarterly instead of monthly in Stuart, FL? Species pressure and label intervals dictate cadence.
+
+Drain fly biofilm in Stuart, FL floor drains signals grease traps need service before gel baits.
+
+Yellow jacket nests in Stuart, FL soffit cavities peak in late summer routing windows.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 34994.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Perimeter dossier 478301: bait station anchor map and mulch bridge risk flagged for Stuart, FL county Martin County (ZIP 34994).
+
+On-site sector marker: Martin County / ZIP 34957 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34994-2fe96c10

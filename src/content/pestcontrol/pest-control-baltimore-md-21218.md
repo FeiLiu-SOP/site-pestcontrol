@@ -11,27 +11,39 @@ lng: -76.6100
 zipSample: ["21287", "21297", "21233", "21275", "21216"]
 zipCodes: ["21226", "21287", "21203", "21230", "21207", "21263", "21278", "21270", "21218", "21281", "21206", "21216"]
 localPaths: ["Baltimore County / ZIP 21233 sector", "Baltimore County / ZIP 21216 sector", "Baltimore County / primary ZIP 21218", "Baltimore County / ZIP 21275 sector", "Baltimore County / coords 39.3100, -76.6100"]
-zillowHomeValueUsd: 185278
 ---
 
-**Engineering Notice for Baltimore:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Baltimore:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.
 
 
-We coordinate local dispatch coverage around Baltimore, MD and nearby ZIP sectors.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: record station placement maps for follow-up visits.
 
-Transparent pricing helps you compare like-for-like scope items.
+Powderpost beetle exit holes in Baltimore, MD trim can be mistaken for dry-wood frass without magnification.
 
-Tip: request a written scope before work starts.
+FAQ: Why schedule quarterly instead of monthly in Baltimore, MD? Species pressure and label intervals dictate cadence.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 21218.
+Stink bug overwinter seams in Baltimore, MD vinyl panels laps require exclusion foam rated for UV exposure.
 
-Field note: Connection points spot-checked where accessible (ZIP 21290/21215/21239 zone).
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 21290/21215/21239.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Dispatch sectors sampled: ZIP 21290, 21215, 21239, 21275, 21203 (county grid: Baltimore County).
+In Baltimore, MD, subterranean termite swarms often follow warm rain windows.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 21218.
+
+Material note: Perimeter granules in Baltimore, MD may need reapplication after heavy irrigation.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Seasonal cue 800997: cluster fly attic staging reviewed for Baltimore, MD soffit cavities.
+
+Harbor ledger 800997: frass lane, mud-tube scan, and garage jamb gap measure filed for Baltimore, MD at 39.3100, -76.6100.
+
+On-site sector marker: Baltimore County / ZIP 21211 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21218-e9bdc2da

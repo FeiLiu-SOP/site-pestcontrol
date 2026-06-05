@@ -11,26 +11,39 @@ lng: -94.0800
 zipSample: ["75501", "75503", "75599"]
 zipCodes: ["75503", "75599", "75501"]
 localPaths: ["Bowie County / elevation 348 ft band", "Bowie County / ZIP 75501 sector", "Bowie County / ZIP 75599 sector", "Bowie County / coords 33.4500, -94.0800", "Bowie County / primary ZIP 75501"]
-zillowHomeValueUsd: 154014
 ---
 
-**Engineering Notice for Texarkana:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Bowie County.
+**Engineering Notice for Texarkana:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bowie County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Tip: compare at least two estimates for scope and timeline.
+Dry-wood termite pellets in Texarkana, TX attics may appear before exterior mud tubes.
 
-Our service coordination centers on Texarkana, TX coverage windows and verified intake details.
+Perimeter mulch beds in Texarkana, TX should be reviewed for ant bridge paths.
 
-Field note: Moisture pathway inspection logged near ZIP 75501/75599/75503 intake.
+Mosquito breeding in Texarkana, TX catch basins can amplify perimeter callbacks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75501/75599/75503.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Dispatch sectors sampled: ZIP 75501, 75599, 75503 (county grid: Bowie County).
+Mud dauber nests in Texarkana, TX porch ceilings are benign but signal prey density for spiders.
+
+Yellow jacket nests in Texarkana, TX soffit cavities peak in late summer routing windows.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Flea pupae survive vacuuming in Texarkana, TX carpet fibers unless heat treatment follows.
+
+County grid Bowie County informs routing near ZIP 75501.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 75501.
+
+Species trace 504402: re-entry interval label and conducive moisture note keyed to Texarkana, TX elevation 348 ft.
+
+On-site sector marker: Bowie County / ZIP 75503 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75501-f22e4836

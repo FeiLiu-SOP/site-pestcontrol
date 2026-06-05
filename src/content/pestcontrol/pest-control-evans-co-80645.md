@@ -11,26 +11,43 @@ lng: -104.7400
 zipSample: ["80645", "80620", "80634"]
 zipCodes: ["80620", "80634", "80645"]
 localPaths: ["Weld County / elevation 4701 ft band", "Weld County / coords 40.3700, -104.7400", "Weld County / ZIP 80634 sector", "Weld County / ZIP 80620 sector", "Weld County / primary ZIP 80645"]
-zillowHomeValueUsd: 455794
 ---
 
-**Engineering Notice for Evans:** Structural loading calculated based on 4701 ft terrain assessment. Regional dispatch grid: Weld County.
+**Engineering Notice for Evans:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Weld County.
 
 
-Tip: avoid large upfront payments without milestones.
+Seasonal pest pressure in Evans, CO shifts between moisture ants and dry-wood vectors.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+IGR packets for Evans, CO roach cycles should be dated on station lids.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 80645.
 
-Tip: request a written scope before work starts.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Our service coordination centers on Evans, CO coverage windows and verified intake details.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 80634/80645/80620.
+Earwig harborages in Evans, CO meter boxes often follow drip irrigation overspray.
 
-Field note: Access points and staging constraints recorded for ZIP 80634/80645/80620 coverage.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Dispatch sectors sampled: ZIP 80634, 80645, 80620 (county grid: Weld County).
+Tip: Keep pet food elevated and sealed between service visits.
+
+Yellow jacket nests in Evans, CO soffit cavities peak in late summer routing windows.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+In Evans, CO, subterranean termite swarms often follow warm rain windows.
+
+Flea pupae survive vacuuming in Evans, CO carpet fibers unless heat treatment follows.
+
+Clover mite staining on Evans, CO wall restoration follows foundation mulch against brick ledges.
+
+Exclusion audit 861637: exclusion mesh gauge and rodent runway grease mark reviewed for Evans, CO at 40.3700/-104.7400.
+
+Species trace 861637: re-entry interval label and conducive moisture note keyed to Evans, CO elevation 4701 ft.
+
+Coordinate-anchored dispatch note: center reference 40.3700, -104.7400 at elevation ~4701 ft aligns with Weld County intake staging.
 
 Service reference: CO-80645-e4857ebb

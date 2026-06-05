@@ -11,27 +11,41 @@ lng: -84.4900
 zipSample: ["30114", "30115"]
 zipCodes: ["30114", "30115"]
 localPaths: ["Cherokee County / elevation 958 ft band", "Cherokee County / primary ZIP 30114", "Cherokee County / coords 34.2500, -84.4900", "Cherokee County / ZIP 30115 sector", "Cherokee County / ZIP 30114 sector"]
-zillowHomeValueUsd: 470361
 ---
 
-**Engineering Notice for Canton:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Cherokee County.
+**Engineering Notice for Canton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cherokee County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 30114.
+Humidity in Canton, GA can sustain cockroach harborages behind appliance voids.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Tip: confirm licensing and insurance before approving work.
+Wildlife odors in Canton, GA crawlspaces may attract secondary pest activity.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Canton, GA, but intake notes help reduce delays.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Our service coordination centers on Canton, GA coverage windows and verified intake details.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 30114.
 
-Field note: Access points and staging constraints recorded for ZIP 30115/30114 coverage.
+Powderpost beetle exit holes in Canton, GA trim can be mistaken for dry-wood frass without magnification.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30115/30114.
+Stink bug overwinter seams in Canton, GA cladding service laps require exclusion foam rated for UV exposure.
 
-Dispatch sectors sampled: ZIP 30115, 30114 (county grid: Cherokee County).
+Bird mites in Canton, GA exhaust vents can persist after host nests are removed.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+IGR packets for Canton, GA roach cycles should be dated on station lids.
+
+Mud dauber nests in Canton, GA porch ceilings are benign but signal prey density for spiders.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Cluster fly attic staging in Canton, GA peaks on south-facing voids after sunny thaw days.
+
+Intercept log 748080: bed bug intercept count staged before Canton, GA interior gel zones.
+
+Regional mesh label Cherokee County: moisture and logistics baselines are keyed to Canton, GA before niche-specific work begins.
 
 Service reference: GA-30114-49a1c87d

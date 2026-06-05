@@ -11,26 +11,37 @@ lng: -89.8500
 zipSample: ["38654"]
 zipCodes: ["38654"]
 localPaths: ["DeSoto County / ZIP 38654 sector", "DeSoto County / elevation 358 ft band", "DeSoto County / coords 34.9600, -89.8500", "DeSoto County / primary ZIP 38654"]
-zillowHomeValueUsd: 331920
 ---
 
-**Engineering Notice for Olive Branch:** Structural loading calculated based on 358 ft terrain assessment. Regional dispatch grid: DeSoto County.
+**Engineering Notice for Olive Branch:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeSoto County.
 
 
-We coordinate local dispatch coverage around Olive Branch, MS and nearby ZIP sectors.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Olive Branch, MS, but intake notes help reduce delays.
+Yellow jacket nests in Olive Branch, MS soffit cavities peak in late summer routing windows.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Olive Branch, MS.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 38654.
+State note: Olive Branch, MS commercial kitchens may require separate documentation for audit visits.
 
-Field note: Wind exposure category reviewed for ZIP sector 38654.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 38654.
 
-Dispatch sectors sampled: ZIP 38654 (county grid: DeSoto County).
+Attic insulation disturbance in Olive Branch, MS may indicate wildlife nesting routes.
+
+Fire ant mounds in Olive Branch, MS drive seams need granule rotation after irrigation events.
+
+Spider populations in Olive Branch, MS eaves can signal insect prey density.
+
+Drain fly biofilm in Olive Branch, MS floor drains signals grease traps need service before gel baits.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Harbor ledger 571170: frass lane, mud-tube scan, and garage jamb gap measure filed for Olive Branch, MS at 34.9600, -89.8500.
+
+On-site sector marker: DeSoto County / primary ZIP 38654 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-38654-e0f9257f

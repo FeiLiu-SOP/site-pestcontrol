@@ -11,24 +11,37 @@ lng: -114.5500
 zipSample: ["85369", "85364", "85365"]
 zipCodes: ["85369", "85365", "85364"]
 localPaths: ["Yuma County / elevation 194 ft band", "Yuma County / ZIP 85364 sector", "Yuma County / primary ZIP 85365", "Yuma County / coords 32.6000, -114.5500", "Yuma County / ZIP 85365 sector"]
-zillowHomeValueUsd: 331159
 ---
 
-**Engineering Notice for Yuma:** Structural loading calculated based on 194 ft terrain assessment. Regional dispatch grid: Yuma County.
+**Engineering Notice for Yuma:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Yuma County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-We coordinate local dispatch coverage around Yuma, AZ and nearby ZIP sectors.
+Risk flag: In Yuma, AZ, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Yuma, AZ, but intake notes help reduce delays.
+Earwig harborages in Yuma, AZ meter boxes often follow drip irrigation overspray.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Log pet access routes when bait stations are placed.
 
-Field note: Moisture pathway inspection logged near ZIP 85369/85364/85365 intake.
+FAQ: Why schedule quarterly instead of monthly in Yuma, AZ? Species pressure and label intervals dictate cadence.
 
-Dispatch sectors sampled: ZIP 85369, 85364, 85365 (county grid: Yuma County).
+Monitoring boards in Yuma, AZ crawlspaces stay 72 hours before snap traps are reset.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Yuma, AZ.
+
+Mud dauber nests in Yuma, AZ porch ceilings are benign but signal prey density for spiders.
+
+Risk flag: Overwatered Yuma, AZ planters can restart ant bridges within two weeks.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Perimeter dossier 136336: bait station anchor map and mulch bridge risk flagged for Yuma, AZ county Yuma County (ZIP 85365).
+
+**Regional Infrastructure Brief:** Coverage anchor set to Yuma County. Reference elevation: 194 ft. Primary coordinates: 32.6000, -114.5500. ZIP sample: 85365, 85369, 85364. Service perimeter note: Coverage extends through Yuma County with dispatch centered near ZIP 85365.
 
 Service reference: AZ-85365-ee53e773

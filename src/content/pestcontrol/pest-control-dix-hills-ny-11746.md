@@ -11,24 +11,41 @@ lng: -73.3400
 zipSample: ["11746"]
 zipCodes: ["11746"]
 localPaths: ["Suffolk County / primary ZIP 11746", "Suffolk County / elevation 213 ft band", "Suffolk County / coords 40.8000, -73.3400", "Suffolk County / ZIP 11746 sector"]
-zillowHomeValueUsd: 771402
 ---
 
-**Engineering Notice for Dix Hills:** Structural loading calculated based on 213 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Dix Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Dry-wood termite pellets in Dix Hills, NY attics may appear before exterior mud tubes.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Dix Hills, NY, but intake notes help reduce delays.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 11746.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Perimeter granule carriers in Dix Hills, NY clay soils may need lighter irrigation before application.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Carpenter ant frass in Dix Hills, NY window sills may indicate moisture-softened framing.
 
-Tip: request a written scope before work starts.
+Powderpost beetle exit holes in Dix Hills, NY trim can be mistaken for dry-wood frass without magnification.
 
-Field note: Connection points spot-checked where accessible (ZIP 11746 zone).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Dispatch sectors sampled: ZIP 11746 (county grid: Suffolk County).
+County grid Suffolk County informs routing near ZIP 11746.
+
+Mud dauber nests in Dix Hills, NY porch ceilings are benign but signal prey density for spiders.
+
+Cluster fly attic staging in Dix Hills, NY peaks on south-facing voids after sunny thaw days.
+
+Stink bug overwinter seams in Dix Hills, NY wall restoration laps require exclusion foam rated for UV exposure.
+
+Step: verify attic access safety before insulation disturbance.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 11746.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Seasonal cue 846911: cluster fly attic staging reviewed for Dix Hills, NY soffit cavities.
+
+Zone map 846911: attic insulation disturbance trace and pantry pest source logged for Dix Hills, NY sector 11746.
+
+On-site sector marker: Suffolk County / coords 40.8000, -73.3400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11746-b6f893cc

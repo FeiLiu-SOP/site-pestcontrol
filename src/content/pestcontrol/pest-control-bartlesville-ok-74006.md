@@ -11,26 +11,41 @@ lng: -95.9500
 zipSample: ["74004", "74005", "74006", "74003"]
 zipCodes: ["74006", "74005", "74004", "74003"]
 localPaths: ["Washington County / ZIP 74006 sector", "Washington County / coords 36.7400, -95.9500", "Washington County / ZIP 74003 sector", "Washington County / ZIP 74005 sector", "Washington County / ZIP 74004 sector"]
-zillowHomeValueUsd: 216049
 ---
 
-**Engineering Notice for Bartlesville:** Structural loading calculated based on 741 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Bartlesville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-We coordinate local dispatch coverage around Bartlesville, OK and nearby ZIP sectors.
+Cluster fly attic staging in Bartlesville, OK peaks on south-facing voids after sunny thaw days.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Keep pet food elevated and sealed between service visits.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: verify attic access safety before insulation disturbance.
 
-Local conditions in Bartlesville, OK can affect timelines and material choices.
+Carpenter ant frass in Bartlesville, OK window sills may indicate moisture-softened framing.
 
-Field note: Wind exposure category reviewed for ZIP sector 74006/74004/74003.
+In Bartlesville, OK, subterranean termite swarms often follow warm rain windows.
 
-Field note: Moisture pathway inspection logged near ZIP 74006/74004/74003 intake.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Dispatch sectors sampled: ZIP 74006, 74004, 74003, 74005 (county grid: Washington County).
+Exclusion gaps at garage jambs in Bartlesville, OK are common rodent access points.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Attic misting in Bartlesville, OK requires combustion air clearance verified before fans restart.
+
+Drain fly biofilm in Bartlesville, OK floor drains signals grease traps need service before gel baits.
+
+FAQ: Why schedule quarterly instead of monthly in Bartlesville, OK? Species pressure and label intervals dictate cadence.
+
+Powderpost beetle exit holes in Bartlesville, OK trim can be mistaken for dry-wood frass without magnification.
+
+Perimeter dossier 523191: bait station anchor map and mulch bridge risk flagged for Bartlesville, OK county Washington County (ZIP 74006).
+
+Intercept log 523191: bed bug intercept count staged before Bartlesville, OK interior gel zones.
+
+On-site sector marker: Washington County / coords 36.7400, -95.9500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-74006-6f2a9718

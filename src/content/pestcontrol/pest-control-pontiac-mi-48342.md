@@ -11,25 +11,37 @@ lng: -83.2900
 zipSample: ["48055", "48340", "48343", "48342", "48341"]
 zipCodes: ["48340", "48342", "48343", "48055", "48341"]
 localPaths: ["Oakland County / ZIP 48055 sector", "Oakland County / primary ZIP 48342", "Oakland County / ZIP 48340 sector", "Oakland County / coords 42.6500, -83.2900", "Oakland County / ZIP 48341 sector"]
-zillowHomeValueUsd: 127823
 ---
 
-**Engineering Notice for Pontiac:** Structural loading calculated based on 974 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for Pontiac:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oakland County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Drain fly biofilm in Pontiac, MI floor drains signals grease traps need service before gel baits.
 
-We coordinate local dispatch coverage around Pontiac, MI and nearby ZIP sectors.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 48342.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Homeowners in Pontiac, MI often face sudden pest control problems that require fast action.
+Mosquito breeding in Pontiac, MI catch basins can amplify perimeter callbacks.
 
-Field note: Access points and staging constraints recorded for ZIP 48341/48340/48342 coverage.
+Bird mites in Pontiac, MI exhaust vents can persist after host nests are removed.
 
-Dispatch sectors sampled: ZIP 48341, 48340, 48342, 48343, 48055 (county grid: Oakland County).
+Perimeter granule carriers in Pontiac, MI clay soils may need lighter irrigation before application.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Attic fogging in Pontiac, MI requires combustion appliance shutoff verification first.
+
+Spider populations in Pontiac, MI eaves can signal insect prey density.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+FAQ: Can bed bugs spread room-to-room in Pontiac, MI row homes? Wall voids and shared ducts accelerate transfer.
+
+Seasonal cue 551411: cluster fly attic staging reviewed for Pontiac, MI soffit cavities.
+
+Primary postal anchor 48342 with multi-ZIP overlap in Pontiac; field packets tag Oakland County for county-grid reconciliation.
 
 Service reference: MI-48342-43941565

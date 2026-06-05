@@ -11,26 +11,41 @@ lng: -75.3700
 zipSample: ["19016", "19013"]
 zipCodes: ["19013", "19016"]
 localPaths: ["Delaware County / ZIP 19013 sector", "Delaware County / coords 39.8500, -75.3700", "Delaware County / primary ZIP 19013", "Delaware County / ZIP 19016 sector", "Delaware County / elevation 56 ft band"]
-zillowHomeValueUsd: 113451
 ---
 
-**Engineering Notice for Chester:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Delaware County.
+**Engineering Notice for Chester:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Delaware County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Chester, PA, but intake notes help reduce delays.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-In Chester, PA, seasonal demand can change scheduling windows.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: map entry points with photo logs before sealing.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic fogging in Chester, PA requires combustion appliance shutoff verification first.
 
-Field note: Wind exposure category reviewed for ZIP sector 19013/19016.
+FAQ: Can bed bugs spread room-to-room in Chester, PA row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Access points and staging constraints recorded for ZIP 19013/19016 coverage.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Dispatch sectors sampled: ZIP 19013, 19016 (county grid: Delaware County).
+Bird mites in Chester, PA exhaust vents can persist after host nests are removed.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Yellow jacket nests in Chester, PA soffit cavities peak in late summer routing windows.
+
+Wildlife odors in Chester, PA crawlspaces may attract secondary pest activity.
+
+Across Chester, PA, rodent entry points frequently track utility penetrations.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Material note: Perimeter granules in Chester, PA may need reapplication after heavy irrigation.
+
+Exclusion audit 382461: exclusion mesh gauge and rodent runway grease mark reviewed for Chester, PA at 39.8500/-75.3700.
+
+On-site sector marker: Delaware County / primary ZIP 19013 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-19013-c48412fd

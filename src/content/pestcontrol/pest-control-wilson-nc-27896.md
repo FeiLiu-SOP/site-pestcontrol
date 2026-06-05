@@ -11,25 +11,39 @@ lng: -77.9300
 zipSample: ["27895", "27894", "27893", "27896"]
 zipCodes: ["27893", "27894", "27896", "27895"]
 localPaths: ["Wilson County / primary ZIP 27896", "Wilson County / ZIP 27893 sector", "Wilson County / elevation 135 ft band", "Wilson County / ZIP 27895 sector", "Wilson County / ZIP 27894 sector"]
-zillowHomeValueUsd: 279867
 ---
 
-**Engineering Notice for Wilson:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Wilson County.
+**Engineering Notice for Wilson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wilson County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 27896.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Can bed bugs spread room-to-room in Wilson, NC row homes? Wall voids and shared ducts accelerate transfer.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Perimeter granules in Wilson, NC may need reapplication after heavy irrigation.
 
-Tip: compare at least two estimates for scope and timeline.
+State note: Wilson, NC commercial kitchens may require separate documentation for audit visits.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Why schedule quarterly instead of monthly in Wilson, NC? Species pressure and label intervals dictate cadence.
 
-Field note: Moisture pathway inspection logged near ZIP 27895/27894/27896 intake.
+Yellow jacket nests in Wilson, NC soffit cavities peak in late summer routing windows.
 
-Dispatch sectors sampled: ZIP 27895, 27894, 27896, 27893 (county grid: Wilson County).
+Attic misting in Wilson, NC requires combustion air clearance verified before fans restart.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Across Wilson, NC, rodent entry points frequently track utility penetrations.
+
+Tip: Trim vegetation 12 inches from vinyl panels to reduce ant bridges.
+
+Silverfish activity in Wilson, NC attics tracks cardboard storage and ridge vent gaps.
+
+Species trace 961601: re-entry interval label and conducive moisture note keyed to Wilson, NC elevation 135 ft.
+
+Harbor ledger 961601: frass lane, mud-tube scan, and garage jamb gap measure filed for Wilson, NC at 35.7300, -77.9300.
+
+Regional mesh label Wilson County: moisture and logistics baselines are keyed to Wilson, NC before niche-specific work begins.
 
 Service reference: NC-27896-38c86917

@@ -11,27 +11,41 @@ lng: -97.7000
 zipSample: ["78627", "78626", "78633", "78628"]
 zipCodes: ["78626", "78628", "78633", "78627"]
 localPaths: ["Williamson County / ZIP 78627 sector", "Williamson County / coords 30.6700, -97.7000", "Williamson County / ZIP 78633 sector", "Williamson County / ZIP 78628 sector", "Williamson County / elevation 797 ft band"]
-zillowHomeValueUsd: 442377
 ---
 
-**Engineering Notice for Georgetown:** Structural loading calculated based on 797 ft terrain assessment. Regional dispatch grid: Williamson County.
+**Engineering Notice for Georgetown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Williamson County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Georgetown, TX, but intake notes help reduce delays.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Homeowners in Georgetown, TX often face sudden pest control problems that require fast action.
+Cluster fly attic staging in Georgetown, TX peaks on south-facing voids after sunny thaw days.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Silverfish activity in Georgetown, TX attics tracks cardboard storage and ridge vent gaps.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 78633.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Tip: address recurring issues early to prevent bigger damage.
+Bird mites in Georgetown, TX exhaust vents can persist after host nests are removed.
 
-Field note: Moisture pathway inspection logged near ZIP 78633/78626/78628 intake.
+Attic fogging in Georgetown, TX requires combustion appliance shutoff verification first.
 
-Field note: Connection points spot-checked where accessible (ZIP 78633/78626/78628 zone).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Dispatch sectors sampled: ZIP 78633, 78626, 78628, 78627 (county grid: Williamson County).
+Tip: Keep pet food elevated and sealed between service visits.
+
+Humidity in Georgetown, TX can sustain cockroach harborages behind appliance voids.
+
+Material note: Perimeter granules in Georgetown, TX may need reapplication after heavy irrigation.
+
+FAQ: Why schedule quarterly instead of monthly in Georgetown, TX? Species pressure and label intervals dictate cadence.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Perimeter dossier 702013: bait station anchor map and mulch bridge risk flagged for Georgetown, TX county Williamson County (ZIP 78633).
+
+Zone map 702013: attic insulation disturbance trace and pantry pest source logged for Georgetown, TX sector 78633.
+
+Coordinate-anchored dispatch note: center reference 30.6700, -97.7000 at elevation ~797 ft aligns with Williamson County intake staging.
 
 Service reference: TX-78633-ce11e619

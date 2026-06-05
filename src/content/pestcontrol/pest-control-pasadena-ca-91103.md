@@ -11,25 +11,43 @@ lng: -118.1400
 zipSample: ["91126", "91123", "91116", "91189", "91115"]
 zipCodes: ["91110", "91189", "91126", "91106", "91184", "91114", "91182", "91115", "91188", "91102", "91116", "91109"]
 localPaths: ["Los Angeles County / primary ZIP 91103", "Los Angeles County / ZIP 91115 sector", "Los Angeles County / coords 34.1600, -118.1400", "Los Angeles County / ZIP 91123 sector", "Los Angeles County / ZIP 91189 sector"]
-zillowHomeValueUsd: 1083811
 ---
 
-**Engineering Notice for Pasadena:** Structural loading calculated based on 928 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Pasadena:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-We coordinate local dispatch coverage around Pasadena, CA and nearby ZIP sectors.
+Yellow jacket nests in Pasadena, CA soffit cavities peak in late summer routing windows.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 91103.
+Bird mites in Pasadena, CA exhaust vents can persist after host nests are removed.
 
-In Pasadena, CA, urgent pest control issues can escalate quickly.
+Step: record station placement maps for follow-up visits.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+State note: Pasadena, CA commercial kitchens may require separate documentation for audit visits.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Wind exposure category reviewed for ZIP sector 91125/91117/91124.
+Tip: Date bait station lids when servicing Pasadena, CA perimeter lines.
 
-Dispatch sectors sampled: ZIP 91125, 91117, 91124, 91103, 91188 (county grid: Los Angeles County).
+Tip: Log pet access routes when bait stations are placed.
+
+Clover mite staining on Pasadena, CA exterior cladding follows foundation mulch against brick ledges.
+
+Spider populations in Pasadena, CA eaves can signal insect prey density.
+
+In Pasadena, CA, subterranean termite swarms often follow warm rain windows.
+
+FAQ: Can bed bugs spread room-to-room in Pasadena, CA row homes? Wall voids and shared ducts accelerate transfer.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Attic misting in Pasadena, CA requires combustion air clearance verified before fans restart.
+
+Powderpost beetle exit holes in Pasadena, CA trim can be mistaken for dry-wood frass without magnification.
+
+Exclusion audit 964271: exclusion mesh gauge and rodent runway grease mark reviewed for Pasadena, CA at 34.1600/-118.1400.
+
+Zone map 964271: attic insulation disturbance trace and pantry pest source logged for Pasadena, CA sector 91103.
+
+Primary postal anchor 91103 with multi-ZIP overlap in Pasadena; field packets tag Los Angeles County for county-grid reconciliation.
 
 Service reference: CA-91103-bc4efd8d

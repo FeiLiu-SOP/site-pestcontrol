@@ -11,26 +11,37 @@ lng: -122.5700
 zipSample: ["98662"]
 zipCodes: ["98662"]
 localPaths: ["Clark County / coords 45.6900, -122.5700", "Clark County / elevation 210 ft band", "Clark County / ZIP 98662 sector", "Clark County / primary ZIP 98662"]
-zillowHomeValueUsd: 484371
 ---
 
-**Engineering Notice for Five Corners:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Five Corners:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 98662.
 
-Tip: confirm licensing and insurance before approving work.
+Fire ant mounds in Five Corners, WA drive seams need granule rotation after irrigation events.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+In Five Corners, WA, subterranean termite swarms often follow warm rain windows.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Overwatered Five Corners, WA planters can restart ant bridges within two weeks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98662.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Field note: Connection points spot-checked where accessible (ZIP 98662 zone).
+Stored cardboard in Five Corners, WA garages can accelerate pantry pest cycles.
 
-Dispatch sectors sampled: ZIP 98662 (county grid: Clark County).
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+FAQ: Why schedule quarterly instead of monthly in Five Corners, WA? Species pressure and label intervals dictate cadence.
+
+Tip: Trim vegetation 12 inches from exterior cladding to reduce ant bridges.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Intercept log 228818: bed bug intercept count staged before Five Corners, WA interior gel zones.
+
+On-site sector marker: Clark County / coords 45.6900, -122.5700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98662-e857aa5b

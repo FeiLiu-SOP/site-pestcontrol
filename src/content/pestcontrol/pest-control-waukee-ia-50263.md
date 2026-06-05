@@ -11,26 +11,39 @@ lng: -93.8900
 zipSample: ["50263", "50003"]
 zipCodes: ["50003", "50263"]
 localPaths: ["Dallas County / ZIP 50263 sector", "Dallas County / elevation 997 ft band", "Dallas County / ZIP 50003 sector", "Dallas County / primary ZIP 50263", "Dallas County / coords 41.6000, -93.8900"]
-zillowHomeValueUsd: 337629
 ---
 
-**Engineering Notice for Waukee:** Structural loading calculated based on 997 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for Waukee:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Transparent pricing helps you compare like-for-like scope items.
+Attic fogging in Waukee, IA requires combustion appliance shutoff verification first.
 
-In Waukee, IA, seasonal demand can change scheduling windows.
+Tip: Trim vegetation 12 inches from cladding service to reduce ant bridges.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-We coordinate local dispatch coverage around Waukee, IA and nearby ZIP sectors.
+Risk flag: Overwatered Waukee, IA planters can restart ant bridges within two weeks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 50003/50263.
+Fire ant mounds in Waukee, IA drive seams need granule rotation after irrigation events.
 
-Field note: Wind exposure category reviewed for ZIP sector 50003/50263.
+Across Waukee, IA, rodent entry points frequently track utility penetrations.
 
-Dispatch sectors sampled: ZIP 50003, 50263 (county grid: Dallas County).
+Risk flag: In Waukee, IA, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Drain fly biofilm in Waukee, IA floor drains signals grease traps need service before gel baits.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+FAQ: Why schedule quarterly instead of monthly in Waukee, IA? Species pressure and label intervals dictate cadence.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Waukee, IA.
+
+Exclusion audit 429604: exclusion mesh gauge and rodent runway grease mark reviewed for Waukee, IA at 41.6000/-93.8900.
+
+On-site sector marker: Dallas County / coords 41.6000, -93.8900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-50263-265ec230

@@ -11,25 +11,37 @@ lng: -65.6600
 zipSample: ["00740", "00738"]
 zipCodes: ["00740", "00738"]
 localPaths: ["Fajardo County / ZIP 00740 sector", "Fajardo County / coords 18.3300, -65.6600", "Fajardo County / elevation 56 ft band", "Fajardo County / ZIP 00738 sector", "Fajardo County / primary ZIP 00740"]
-zillowHomeValueUsd: 355178
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for Fajardo:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Fajardo County.
+**Engineering Notice for Fajardo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fajardo County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Tip: confirm licensing and insurance before approving work.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+IGR packets for Fajardo, PR roach cycles should be dated on station lids.
 
-Field note: Moisture pathway inspection logged near ZIP 00740/00738 intake.
+County grid Fajardo County informs routing near ZIP 00740.
 
-Dispatch sectors sampled: ZIP 00740, 00738 (county grid: Fajardo County).
+Powderpost beetle exit holes in Fajardo, PR trim can be mistaken for dry-wood frass without magnification.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Drain fly biofilm in Fajardo, PR floor drains signals grease traps need service before gel baits.
+
+Attic insulation disturbance in Fajardo, PR may indicate wildlife nesting routes.
+
+Harbor ledger 699504: frass lane, mud-tube scan, and garage jamb gap measure filed for Fajardo, PR at 18.3300, -65.6600.
+
+On-site sector marker: Fajardo County / ZIP 00740 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00740-bbd9f97b

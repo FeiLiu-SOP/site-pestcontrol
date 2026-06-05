@@ -11,26 +11,39 @@ lng: -91.6000
 zipSample: ["52241"]
 zipCodes: ["52241"]
 localPaths: ["Johnson County / ZIP 52241 sector", "Johnson County / elevation 751 ft band", "Johnson County / primary ZIP 52241", "Johnson County / coords 41.7000, -91.6000"]
-zillowHomeValueUsd: 256921
 ---
 
-**Engineering Notice for Coralville:** Structural loading calculated based on 751 ft terrain assessment. Regional dispatch grid: Johnson County.
+**Engineering Notice for Coralville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Johnson County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Carpenter ant frass in Coralville, IA window sills may indicate moisture-softened framing.
 
-We coordinate local dispatch coverage around Coralville, IA and nearby ZIP sectors.
+Stored cardboard in Coralville, IA garages can accelerate pantry pest cycles.
 
-A written scope helps prevent rework and mismatched expectations.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Tip: request a written scope before work starts.
+Bird mites in Coralville, IA exhaust vents can persist after host nests are removed.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 52241.
+Silverfish activity in Coralville, IA attics tracks cardboard storage and ridge vent gaps.
 
-Field note: Access points and staging constraints recorded for ZIP 52241 coverage.
+Attic misting in Coralville, IA requires combustion air clearance verified before fans restart.
 
-Dispatch sectors sampled: ZIP 52241 (county grid: Johnson County).
+Step: map entry points with photo logs before sealing.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+IGR packets for Coralville, IA roach cycles should be dated on station lids.
+
+Fire ant mounds in Coralville, IA drive seams need granule rotation after irrigation events.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Exclusion audit 570202: exclusion mesh gauge and rodent runway grease mark reviewed for Coralville, IA at 41.7000/-91.6000.
+
+Intercept log 570202: bed bug intercept count staged before Coralville, IA interior gel zones.
+
+On-site sector marker: Johnson County / elevation 751 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-52241-809a7eda

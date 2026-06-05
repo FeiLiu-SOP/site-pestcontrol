@@ -11,24 +11,37 @@ lng: -102.3400
 zipSample: ["79761", "79762", "79768", "79765", "79763"]
 zipCodes: ["79761", "79765", "79768", "79762", "79763"]
 localPaths: ["Ector County / ZIP 79765 sector", "Ector County / primary ZIP 79762", "Ector County / ZIP 79768 sector", "Ector County / ZIP 79762 sector", "Ector County / elevation 2946 ft band"]
-zillowHomeValueUsd: 261307
 ---
 
-**Engineering Notice for Odessa:** Structural loading calculated based on 2946 ft terrain assessment. Regional dispatch grid: Ector County.
+**Engineering Notice for Odessa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ector County.
 
 
-Our service coordination centers on Odessa, TX coverage windows and verified intake details.
+IGR packets for Odessa, TX roach cycles should be dated on station lids.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Earwig harborages in Odessa, TX meter boxes often follow drip irrigation overspray.
 
-Tip: compare at least two estimates for scope and timeline.
+Fire ant mounds in Odessa, TX drive seams need granule rotation after irrigation events.
 
-Field note: Moisture pathway inspection logged near ZIP 79761/79763/79765 intake.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 79761, 79763, 79765, 79768, 79762 (county grid: Ector County).
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Attic fogging in Odessa, TX requires combustion appliance shutoff verification first.
+
+Bird mites in Odessa, TX exhaust vents can persist after host nests are removed.
+
+We coordinate Odessa, TX pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Species trace 192658: re-entry interval label and conducive moisture note keyed to Odessa, TX elevation 2946 ft.
+
+On-site sector marker: Ector County / primary ZIP 79762 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-79762-bd83ccdf

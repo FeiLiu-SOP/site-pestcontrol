@@ -11,26 +11,41 @@ lng: -118.0700
 zipSample: ["90606", "90610"]
 zipCodes: ["90610", "90606"]
 localPaths: ["Los Angeles County / primary ZIP 90606", "Los Angeles County / coords 33.9800, -118.0700", "Los Angeles County / ZIP 90610 sector", "Los Angeles County / ZIP 90606 sector", "Los Angeles County / elevation 167 ft band"]
-zillowHomeValueUsd: 775589
 ---
 
-**Engineering Notice for West Whittier-Los Nietos:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for West Whittier-Los Nietos:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in West Whittier-Los Nietos, CA, but intake notes help reduce delays.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-We coordinate local dispatch coverage around West Whittier-Los Nietos, CA and nearby ZIP sectors.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-In West Whittier-Los Nietos, CA, seasonal demand can change scheduling windows.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In West Whittier-Los Nietos, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Tip: address recurring issues early to prevent bigger damage.
+Across West Whittier-Los Nietos, CA, rodent entry points frequently track utility penetrations.
 
-Field note: Wind exposure category reviewed for ZIP sector 90610/90606.
+Clover mite staining on West Whittier-Los Nietos, CA cladding service follows foundation mulch against brick ledges.
 
-Field note: Moisture pathway inspection logged near ZIP 90610/90606 intake.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 90606.
 
-Dispatch sectors sampled: ZIP 90610, 90606 (county grid: Los Angeles County).
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 90606.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 90606.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Stored cardboard in West Whittier-Los Nietos, CA garages can accelerate pantry pest cycles.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Zone map 575305: attic insulation disturbance trace and pantry pest source logged for West Whittier-Los Nietos, CA sector 90606.
+
+Primary postal anchor 90606 with multi-ZIP overlap in West Whittier-Los Nietos; field packets tag Los Angeles County for county-grid reconciliation.
 
 Service reference: CA-90606-52adc0e0

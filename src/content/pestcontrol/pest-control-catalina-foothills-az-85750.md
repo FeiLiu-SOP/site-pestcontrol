@@ -11,24 +11,39 @@ lng: -110.8800
 zipSample: ["85750", "85718", "85728", "85715"]
 zipCodes: ["85728", "85718", "85750", "85715"]
 localPaths: ["Pima County / ZIP 85718 sector", "Pima County / coords 32.3000, -110.8800", "Pima County / ZIP 85750 sector", "Pima County / elevation 2785 ft band", "Pima County / ZIP 85715 sector"]
-zillowHomeValueUsd: 605321
 ---
 
-**Engineering Notice for Catalina Foothills:** Structural loading calculated based on 2785 ft terrain assessment. Regional dispatch grid: Pima County.
+**Engineering Notice for Catalina Foothills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pima County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Yellow jacket nests in Catalina Foothills, AZ soffit cavities peak in late summer routing windows.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 85750.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Overwatered Catalina Foothills, AZ planters can restart ant bridges within two weeks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Catalina Foothills, AZ, but intake notes help reduce delays.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Field note: Moisture pathway inspection logged near ZIP 85715/85718/85750 intake.
+Tip: Log pet access routes when bait stations are placed.
 
-Dispatch sectors sampled: ZIP 85715, 85718, 85750, 85728 (county grid: Pima County).
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Attic insulation disturbance in Catalina Foothills, AZ may indicate wildlife nesting routes.
+
+Carpenter ant frass in Catalina Foothills, AZ window sills may indicate moisture-softened framing.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 85750.
+
+Flea pupae survive vacuuming in Catalina Foothills, AZ carpet fibers unless heat treatment follows.
+
+Clover mite staining on Catalina Foothills, AZ wall restoration follows foundation mulch against brick ledges.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Seasonal cue 663819: cluster fly attic staging reviewed for Catalina Foothills, AZ soffit cavities.
+
+Primary postal anchor 85750 with multi-ZIP overlap in Catalina Foothills; field packets tag Pima County for county-grid reconciliation.
 
 Service reference: AZ-85750-dda47666

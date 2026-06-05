@@ -11,24 +11,37 @@ lng: -121.1800
 zipSample: ["97756"]
 zipCodes: ["97756"]
 localPaths: ["Deschutes County / coords 44.2600, -121.1800", "Deschutes County / primary ZIP 97756", "Deschutes County / ZIP 97756 sector", "Deschutes County / elevation 3005 ft band"]
-zillowHomeValueUsd: 513425
 ---
 
-**Engineering Notice for Redmond:** Structural loading calculated based on 3005 ft terrain assessment. Regional dispatch grid: Deschutes County.
+**Engineering Notice for Redmond:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Deschutes County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Redmond, OR, but intake notes help reduce delays.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Tip: address recurring issues early to prevent bigger damage.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Our service coordination centers on Redmond, OR coverage windows and verified intake details.
+Clover mite staining on Redmond, OR cladding service follows foundation mulch against brick ledges.
 
-Field note: Access points and staging constraints recorded for ZIP 97756 coverage.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Dispatch sectors sampled: ZIP 97756 (county grid: Deschutes County).
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 97756.
+
+Mud dauber nests in Redmond, OR porch ceilings are benign but signal prey density for spiders.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 97756.
+
+State note: Redmond, OR commercial kitchens may require separate documentation for audit visits.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Exclusion audit 887476: exclusion mesh gauge and rodent runway grease mark reviewed for Redmond, OR at 44.2600/-121.1800.
+
+On-site sector marker: Deschutes County / elevation 3005 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97756-46a71747

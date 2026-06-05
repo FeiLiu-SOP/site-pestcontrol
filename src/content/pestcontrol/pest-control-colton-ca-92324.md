@@ -11,25 +11,37 @@ lng: -117.3300
 zipSample: ["92324"]
 zipCodes: ["92324"]
 localPaths: ["San Bernardino County / coords 34.0500, -117.3300", "San Bernardino County / ZIP 92324 sector", "San Bernardino County / elevation 938 ft band", "San Bernardino County / primary ZIP 92324"]
-zillowHomeValueUsd: 496456
 ---
 
-**Engineering Notice for Colton:** Structural loading calculated based on 938 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Colton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 92324.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Tip: avoid large upfront payments without milestones.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 92324.
+Powderpost beetle exit holes in Colton, CA trim can be mistaken for dry-wood frass without magnification.
 
-Field note: Wind exposure category reviewed for ZIP sector 92324.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 92324 (county grid: San Bernardino County).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Risk flag: Overwatered Colton, CA planters can restart ant bridges within two weeks.
+
+Mud dauber nests in Colton, CA porch ceilings are benign but signal prey density for spiders.
+
+Attic misting in Colton, CA requires combustion air clearance verified before fans restart.
+
+Intercept log 943995: bed bug intercept count staged before Colton, CA interior gel zones.
+
+On-site sector marker: San Bernardino County / ZIP 92324 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92324-8dd2de0e

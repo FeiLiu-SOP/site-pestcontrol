@@ -11,27 +11,39 @@ lng: -118.9200
 zipSample: ["93016", "93015"]
 zipCodes: ["93015", "93016"]
 localPaths: ["Ventura County / ZIP 93016 sector", "Ventura County / coords 34.4000, -118.9200", "Ventura County / primary ZIP 93015", "Ventura County / elevation 466 ft band", "Ventura County / ZIP 93015 sector"]
-zillowHomeValueUsd: 699371
 ---
 
-**Engineering Notice for Fillmore:** Structural loading calculated based on 466 ft terrain assessment. Regional dispatch grid: Ventura County.
+**Engineering Notice for Fillmore:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ventura County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Fillmore, CA, but intake notes help reduce delays.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 93015.
 
-Tip: confirm licensing and insurance before approving work.
+Drain fly biofilm in Fillmore, CA floor drains signals grease traps need service before gel baits.
 
-We coordinate local dispatch coverage around Fillmore, CA and nearby ZIP sectors.
+FAQ: What is exclusion? Without sealing entry points in Fillmore, CA, pressure often rebuilds.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 93015.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-In Fillmore, CA, seasonal demand can change scheduling windows.
+Step: label treatment zones for occupant re-entry timing.
 
-Field note: Wind exposure category reviewed for ZIP sector 93015/93016.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 93015/93016.
+Powderpost beetle exit holes in Fillmore, CA trim can be mistaken for dry-wood frass without magnification.
 
-Dispatch sectors sampled: ZIP 93015, 93016 (county grid: Ventura County).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+State note: Fillmore, CA commercial kitchens may require separate documentation for audit visits.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+In Fillmore, CA, subterranean termite swarms often follow warm rain windows.
+
+Wildlife odors in Fillmore, CA crawlspaces may attract secondary pest activity.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Zone map 595319: attic insulation disturbance trace and pantry pest source logged for Fillmore, CA sector 93015.
+
+Primary postal anchor 93015 with multi-ZIP overlap in Fillmore; field packets tag Ventura County for county-grid reconciliation.
 
 Service reference: CA-93015-0417ac7c

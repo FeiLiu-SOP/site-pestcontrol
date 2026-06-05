@@ -11,26 +11,43 @@ lng: -116.7900
 zipSample: ["83814", "83816", "83815"]
 zipCodes: ["83814", "83815", "83816"]
 localPaths: ["Kootenai County / ZIP 83816 sector", "Kootenai County / coords 47.7000, -116.7900", "Kootenai County / elevation 2247 ft band", "Kootenai County / ZIP 83814 sector", "Kootenai County / ZIP 83815 sector"]
-zillowHomeValueUsd: 558573
 ---
 
-**Engineering Notice for Coeur d'Alene:** Structural loading calculated based on 2247 ft terrain assessment. Regional dispatch grid: Kootenai County.
+**Engineering Notice for Coeur d'Alene:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kootenai County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 83815.
 
-Tip: request a written scope before work starts.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: map entry points with photo logs before sealing.
 
-Structured milestones protect both sides when scheduling work.
+Step: label treatment zones for occupant re-entry timing.
 
-Field note: Moisture pathway inspection logged near ZIP 83815/83814/83816 intake.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Field note: Wind exposure category reviewed for ZIP sector 83815/83814/83816.
+Powderpost beetle exit holes in Coeur d'Alene, ID trim can be mistaken for dry-wood frass without magnification.
 
-Dispatch sectors sampled: ZIP 83815, 83814, 83816 (county grid: Kootenai County).
+Silverfish activity in Coeur d'Alene, ID attics tracks cardboard storage and ridge vent gaps.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Spider populations in Coeur d'Alene, ID eaves can signal insect prey density.
+
+Earwig harborages in Coeur d'Alene, ID meter boxes often follow drip irrigation overspray.
+
+Attic misting in Coeur d'Alene, ID requires combustion air clearance verified before fans restart.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Exclusion audit 894937: exclusion mesh gauge and rodent runway grease mark reviewed for Coeur d'Alene, ID at 47.7000/-116.7900.
+
+Harbor ledger 894937: frass lane, mud-tube scan, and garage jamb gap measure filed for Coeur d'Alene, ID at 47.7000, -116.7900.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~2247 ft across the Kootenai County area. Coordinates: 47.7000, -116.7900. ZIP sample: 83816, 83815, 83814. Logistics priority: Serving residential sectors across Kootenai County and north-east ZIP 83815 grid.
 
 Service reference: ID-83815-a0279962

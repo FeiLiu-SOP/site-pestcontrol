@@ -11,28 +11,43 @@ lng: -93.6100
 zipSample: ["50950", "50393", "50305", "50312", "50309"]
 zipCodes: ["50392", "50302", "50318", "50393", "50981", "50980", "50321", "50313", "50340", "50395", "50332", "50314"]
 localPaths: ["Polk County / elevation 787 ft band", "Polk County / ZIP 50305 sector", "Polk County / coords 41.5700, -93.6100", "Polk County / ZIP 50309 sector", "Polk County / ZIP 50950 sector"]
-zillowHomeValueUsd: 247328
 ---
 
-**Engineering Notice for Des Moines:** Structural loading calculated based on 787 ft terrain assessment. Regional dispatch grid: Polk County.
+**Engineering Notice for Des Moines:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Polk County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 50309.
+Attic misting in Des Moines, IA requires combustion air clearance verified before fans restart.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 50309.
 
-Our service coordination centers on Des Moines, IA coverage windows and verified intake details.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 50309.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Connection points spot-checked where accessible (ZIP 50936/50380/50308 zone).
+Step: label treatment zones for occupant re-entry timing.
 
-Field note: Wind exposure category reviewed for ZIP sector 50936/50380/50308.
+Tip: Date bait station lids when servicing Des Moines, IA perimeter lines.
 
-Dispatch sectors sampled: ZIP 50936, 50380, 50308, 50318, 50315 (county grid: Polk County).
+Tip: Keep pet food elevated and sealed between service visits.
+
+Attic insulation disturbance in Des Moines, IA may indicate wildlife nesting routes.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Fire ant mounds in Des Moines, IA drive seams need granule rotation after irrigation events.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Perimeter dossier 835281: bait station anchor map and mulch bridge risk flagged for Des Moines, IA county Polk County (ZIP 50309).
+
+Seasonal cue 835281: cluster fly attic staging reviewed for Des Moines, IA soffit cavities.
+
+On-site sector marker: Polk County / ZIP 50310 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-50309-d97e2b81

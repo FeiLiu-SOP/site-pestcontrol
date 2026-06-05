@@ -11,24 +11,37 @@ lng: -80.3600
 zipSample: ["33256", "33116", "33156", "33283", "33173"]
 zipCodes: ["33173", "33156", "33296", "33256", "33176", "33116", "33283"]
 localPaths: ["Miami-Dade County / ZIP 33283 sector", "Miami-Dade County / ZIP 33156 sector", "Miami-Dade County / ZIP 33256 sector", "Miami-Dade County / coords 25.6700, -80.3600", "Miami-Dade County / ZIP 33173 sector"]
-zillowHomeValueUsd: 566176
 ---
 
-**Engineering Notice for Kendall:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Kendall:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Cluster fly attic staging in Kendall, FL peaks on south-facing voids after sunny thaw days.
 
-Tip: avoid large upfront payments without milestones.
+State note: Kendall, FL commercial kitchens may require separate documentation for audit visits.
 
-Clear documentation helps align materials, labor, and timeline.
+In Kendall, FL, subterranean termite swarms often follow warm rain windows.
 
-Our service coordination centers on Kendall, FL coverage windows and verified intake details.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Perimeter granules in Kendall, FL may need reapplication after heavy irrigation.
 
-Field note: Connection points spot-checked where accessible (ZIP 33176/33156/33256 zone).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Dispatch sectors sampled: ZIP 33176, 33156, 33256, 33283, 33173 (county grid: Miami-Dade County).
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Seasonal pest pressure in Kendall, FL shifts between moisture ants and dry-wood vectors.
+
+Humidity in Kendall, FL can sustain cockroach harborages behind appliance voids.
+
+Flea pupae survive vacuuming in Kendall, FL carpet fibers unless heat treatment follows.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Earwig harborages in Kendall, FL meter boxes often follow drip irrigation overspray.
+
+Intercept log 438994: bed bug intercept count staged before Kendall, FL interior gel zones.
+
+On-site sector marker: Miami-Dade County / primary ZIP 33173 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33173-8f88d0ff

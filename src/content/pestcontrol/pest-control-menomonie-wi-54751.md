@@ -11,25 +11,39 @@ lng: -91.9100
 zipSample: ["54751"]
 zipCodes: ["54751"]
 localPaths: ["Dunn County / ZIP 54751 sector", "Dunn County / coords 44.8900, -91.9100", "Dunn County / primary ZIP 54751", "Dunn County / elevation 833 ft band"]
-zillowHomeValueUsd: 300368
 ---
 
-**Engineering Notice for Menomonie:** Structural loading calculated based on 833 ft terrain assessment. Regional dispatch grid: Dunn County.
+**Engineering Notice for Menomonie:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dunn County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 54751.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Tip: request a written scope before work starts.
+IGR packets for Menomonie, WI roach cycles should be dated on station lids.
 
-Local conditions in Menomonie, WI can affect timelines and material choices.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-We coordinate local dispatch coverage around Menomonie, WI and nearby ZIP sectors.
+FAQ: Why do pests return after spraying? Without sealing entry points in Menomonie, WI, pressure often rebuilds.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 54751.
+Attic fogging in Menomonie, WI requires combustion appliance shutoff verification first.
 
-Dispatch sectors sampled: ZIP 54751 (county grid: Dunn County).
+Silverfish activity in Menomonie, WI attics tracks cardboard storage and ridge vent gaps.
+
+FAQ: Can bed bugs spread room-to-room in Menomonie, WI row homes? Wall voids and shared ducts accelerate transfer.
+
+Stink bug overwinter seams in Menomonie, WI wall restoration laps require exclusion foam rated for UV exposure.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Perimeter granule carriers in Menomonie, WI clay soils may need lighter irrigation before application.
+
+Material note: Perimeter granules in Menomonie, WI may need reapplication after heavy irrigation.
+
+Drain fly biofilm in Menomonie, WI floor drains signals grease traps need service before gel baits.
+
+Zone map 357158: attic insulation disturbance trace and pantry pest source logged for Menomonie, WI sector 54751.
+
+On-site sector marker: Dunn County / primary ZIP 54751 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-54751-85b0e2a8

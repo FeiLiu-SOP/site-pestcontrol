@@ -11,26 +11,37 @@ lng: -75.1800
 zipSample: ["08865"]
 zipCodes: ["08865"]
 localPaths: ["Warren County / primary ZIP 08865", "Warren County / elevation 308 ft band", "Warren County / ZIP 08865 sector", "Warren County / coords 40.6900, -75.1800"]
-zillowHomeValueUsd: 336512
 ---
 
-**Engineering Notice for Phillipsburg:** Structural loading calculated based on 308 ft terrain assessment. Regional dispatch grid: Warren County.
+**Engineering Notice for Phillipsburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Warren County.
 
 
-Tip: request a written scope before work starts.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Phillipsburg, NJ.
 
-Our service coordination centers on Phillipsburg, NJ coverage windows and verified intake details.
+Yellow jacket nests in Phillipsburg, NJ soffit cavities peak in late summer routing windows.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Phillipsburg, NJ, but intake notes help reduce delays.
+Step: record station placement maps for follow-up visits.
 
-In Phillipsburg, NJ, urgent pest control issues can escalate quickly.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Wind exposure category reviewed for ZIP sector 08865.
+IGR packets for Phillipsburg, NJ roach cycles should be dated on station lids.
 
-Field note: Connection points spot-checked where accessible (ZIP 08865 zone).
+Across Phillipsburg, NJ, rodent entry points frequently track utility penetrations.
 
-Dispatch sectors sampled: ZIP 08865 (county grid: Warren County).
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Risk flag: Overwatered Phillipsburg, NJ planters can restart ant bridges within two weeks.
+
+Tip: Date bait station lids when servicing Phillipsburg, NJ perimeter lines.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Phillipsburg, NJ.
+
+Zone map 469283: attic insulation disturbance trace and pantry pest source logged for Phillipsburg, NJ sector 08865.
+
+On-site sector marker: Warren County / primary ZIP 08865 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-08865-c95bf992

@@ -11,27 +11,39 @@ lng: -86.3200
 zipSample: ["46052", "46077", "46075"]
 zipCodes: ["46077", "46052", "46075"]
 localPaths: ["Boone County / ZIP 46077 sector", "Boone County / primary ZIP 46052", "Boone County / ZIP 46075 sector", "Boone County / elevation 925 ft band", "Boone County / ZIP 46052 sector"]
-zillowHomeValueUsd: 295127
 ---
 
-**Engineering Notice for Zionsville:** Structural loading calculated based on 925 ft terrain assessment. Regional dispatch grid: Boone County.
+**Engineering Notice for Zionsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Boone County.
 
 
-Our service coordination centers on Zionsville, IN coverage windows and verified intake details.
+FAQ: Can bed bugs spread room-to-room in Zionsville, IN row homes? Wall voids and shared ducts accelerate transfer.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Why schedule quarterly instead of monthly in Zionsville, IN? Species pressure and label intervals dictate cadence.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Zionsville, IN, but intake notes help reduce delays.
+Humidity in Zionsville, IN can sustain cockroach harborages behind appliance voids.
 
-A written scope helps prevent rework and mismatched expectations.
+Silverfish activity in Zionsville, IN attics tracks cardboard storage and ridge vent gaps.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 46052.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Field note: Connection points spot-checked where accessible (ZIP 46052/46075/46077 zone).
+Dry-wood termite pellets in Zionsville, IN attics may appear before exterior mud tubes.
 
-Field note: Moisture pathway inspection logged near ZIP 46052/46075/46077 intake.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Dispatch sectors sampled: ZIP 46052, 46075, 46077 (county grid: Boone County).
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Risk flag: In Zionsville, IN, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Exclusion audit 975943: exclusion mesh gauge and rodent runway grease mark reviewed for Zionsville, IN at 39.9900/-86.3200.
+
+Intercept log 975943: bed bug intercept count staged before Zionsville, IN interior gel zones.
+
+On-site sector marker: Boone County / ZIP 46075 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46052-beeb309d

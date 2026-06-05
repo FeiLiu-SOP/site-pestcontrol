@@ -11,24 +11,41 @@ lng: -98.3400
 zipSample: ["78233"]
 zipCodes: ["78233"]
 localPaths: ["Bexar County / primary ZIP 78233", "Bexar County / ZIP 78233 sector", "Bexar County / elevation 866 ft band", "Bexar County / coords 29.5500, -98.3400"]
-zillowHomeValueUsd: 232982
 ---
 
-**Engineering Notice for Live Oak:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Bexar County.
+**Engineering Notice for Live Oak:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bexar County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Yellow jacket nests in Live Oak, TX soffit cavities peak in late summer routing windows.
 
-We coordinate local dispatch coverage around Live Oak, TX and nearby ZIP sectors.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Transparent pricing helps you compare like-for-like scope items.
+Monitoring boards in Live Oak, TX crawlspaces stay 72 hours before snap traps are reset.
 
-Tip: confirm licensing and insurance before approving work.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+State note: Live Oak, TX commercial kitchens may require separate documentation for audit visits.
 
-Field note: Wind exposure category reviewed for ZIP sector 78233.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Dispatch sectors sampled: ZIP 78233 (county grid: Bexar County).
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Attic insulation disturbance in Live Oak, TX may indicate wildlife nesting routes.
+
+Spider populations in Live Oak, TX eaves can signal insect prey density.
+
+IGR packets for Live Oak, TX roach cycles should be dated on station lids.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Powderpost beetle exit holes in Live Oak, TX trim can be mistaken for dry-wood frass without magnification.
+
+Risk flag: In Live Oak, TX, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Harbor ledger 871297: frass lane, mud-tube scan, and garage jamb gap measure filed for Live Oak, TX at 29.5500, -98.3400.
+
+Intercept log 871297: bed bug intercept count staged before Live Oak, TX interior gel zones.
+
+ZIP-corridor snapshot for Live Oak, TX: sampled sectors include 78233; county routing grid remains Bexar County.
 
 Service reference: TX-78233-ffa607b8

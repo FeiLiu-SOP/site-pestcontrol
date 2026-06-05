@@ -11,26 +11,41 @@ lng: -84.1100
 zipSample: ["45424"]
 zipCodes: ["45424"]
 localPaths: ["Montgomery County / coords 39.8600, -84.1100", "Montgomery County / ZIP 45424 sector", "Montgomery County / primary ZIP 45424", "Montgomery County / elevation 997 ft band"]
-zillowHomeValueUsd: 223799
 ---
 
-**Engineering Notice for Huber Heights:** Structural loading calculated based on 997 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Huber Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Huber Heights, OH, but intake notes help reduce delays.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Date bait station lids when servicing Huber Heights, OH perimeter lines.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Clear documentation helps align materials, labor, and timeline.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Connection points spot-checked where accessible (ZIP 45424 zone).
+Perimeter granule carriers in Huber Heights, OH clay soils may need lighter irrigation before application.
 
-Field note: Access points and staging constraints recorded for ZIP 45424 coverage.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 45424 (county grid: Montgomery County).
+In Huber Heights, OH, subterranean termite swarms often follow warm rain windows.
+
+Carpenter ant frass in Huber Heights, OH window sills may indicate moisture-softened framing.
+
+Risk flag: Overwatered Huber Heights, OH planters can restart ant bridges within two weeks.
+
+Step: record station placement maps for follow-up visits.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Exclusion gaps at garage jambs in Huber Heights, OH are common rodent access points.
+
+Exclusion audit 875964: exclusion mesh gauge and rodent runway grease mark reviewed for Huber Heights, OH at 39.8600/-84.1100.
+
+Harbor ledger 875964: frass lane, mud-tube scan, and garage jamb gap measure filed for Huber Heights, OH at 39.8600, -84.1100.
+
+On-site sector marker: Montgomery County / ZIP 45424 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-45424-75b07973

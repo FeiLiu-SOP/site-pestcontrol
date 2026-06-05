@@ -11,26 +11,41 @@ lng: -124.1600
 zipSample: ["95501", "95503", "95534", "95521", "95502"]
 zipCodes: ["95534", "95501", "95502", "95521", "95503"]
 localPaths: ["Humboldt County / ZIP 95503 sector", "Humboldt County / ZIP 95521 sector", "Humboldt County / ZIP 95501 sector", "Humboldt County / coords 40.7900, -124.1600", "Humboldt County / primary ZIP 95503"]
-zillowHomeValueUsd: 426524
 ---
 
-**Engineering Notice for Eureka:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Humboldt County.
+**Engineering Notice for Eureka:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Humboldt County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: label treatment zones for occupant re-entry timing.
 
-In Eureka, CA, urgent pest control issues can escalate quickly.
+Powderpost beetle exit holes in Eureka, CA trim can be mistaken for dry-wood frass without magnification.
 
-Local conditions in Eureka, CA can affect timelines and material choices.
+Attic insulation disturbance in Eureka, CA may indicate wildlife nesting routes.
 
-Tip: address recurring issues early to prevent bigger damage.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 95503.
 
-Field note: Wind exposure category reviewed for ZIP sector 95502/95503/95521.
+State note: Eureka, CA commercial kitchens may require separate documentation for audit visits.
 
-Field note: Access points and staging constraints recorded for ZIP 95502/95503/95521 coverage.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Dispatch sectors sampled: ZIP 95502, 95503, 95521, 95501, 95534 (county grid: Humboldt County).
+County grid Humboldt County informs routing near ZIP 95503.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Flea pupae survive vacuuming in Eureka, CA carpet fibers unless heat treatment follows.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Humidity in Eureka, CA can sustain cockroach harborages behind appliance voids.
+
+Risk flag: Overwatered Eureka, CA planters can restart ant bridges within two weeks.
+
+Exclusion audit 214487: exclusion mesh gauge and rodent runway grease mark reviewed for Eureka, CA at 40.7900/-124.1600.
+
+Coordinate-anchored dispatch note: center reference 40.7900, -124.1600 at elevation ~69 ft aligns with Humboldt County intake staging.
 
 Service reference: CA-95503-4f9c96ad

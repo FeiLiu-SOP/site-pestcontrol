@@ -11,26 +11,39 @@ lng: -84.1800
 zipSample: ["37934"]
 zipCodes: ["37934"]
 localPaths: ["Knox County / ZIP 37934 sector", "Knox County / primary ZIP 37934", "Knox County / coords 35.8700, -84.1800", "Knox County / elevation 955 ft band"]
-zillowHomeValueUsd: 648226
 ---
 
-**Engineering Notice for Farragut:** Structural loading calculated based on 955 ft terrain assessment. Regional dispatch grid: Knox County.
+**Engineering Notice for Farragut:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Knox County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Flea pupae survive vacuuming in Farragut, TN carpet fibers unless heat treatment follows.
 
-Our service coordination centers on Farragut, TN coverage windows and verified intake details.
+Attic insulation disturbance in Farragut, TN may indicate wildlife nesting routes.
 
-Tip: compare at least two estimates for scope and timeline.
+Dry-wood termite pellets in Farragut, TN attics may appear before exterior mud tubes.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Farragut, TN, but intake notes help reduce delays.
+Tip: Date bait station lids when servicing Farragut, TN perimeter lines.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 37934.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Field note: Connection points spot-checked where accessible (ZIP 37934 zone).
+Material note: Perimeter granules in Farragut, TN may need reapplication after heavy irrigation.
 
-Dispatch sectors sampled: ZIP 37934 (county grid: Knox County).
+Earwig harborages in Farragut, TN meter boxes often follow drip irrigation overspray.
+
+Monitoring boards in Farragut, TN crawlspaces stay 72 hours before snap traps are reset.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Risk flag: Overwatered Farragut, TN planters can restart ant bridges within two weeks.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Zone map 631818: attic insulation disturbance trace and pantry pest source logged for Farragut, TN sector 37934.
+
+On-site sector marker: Knox County / coords 35.8700, -84.1800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37934-3f135394

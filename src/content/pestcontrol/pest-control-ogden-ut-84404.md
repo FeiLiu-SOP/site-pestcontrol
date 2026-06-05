@@ -11,26 +11,41 @@ lng: -111.9700
 zipSample: ["84408", "84403", "84407", "84401", "84409"]
 zipCodes: ["84408", "84403", "84244", "84404", "84407", "84409", "84415", "84401"]
 localPaths: ["Weber County / ZIP 84408 sector", "Weber County / coords 41.2300, -111.9700", "Weber County / ZIP 84403 sector", "Weber County / ZIP 84407 sector", "Weber County / primary ZIP 84404"]
-zillowHomeValueUsd: 433254
 ---
 
-**Engineering Notice for Ogden:** Structural loading calculated based on 4350 ft terrain assessment. Regional dispatch grid: Weber County.
+**Engineering Notice for Ogden:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Weber County.
 
 
-In Ogden, UT, urgent pest control issues can escalate quickly.
+Risk flag: Overwatered Ogden, UT planters can restart ant bridges within two weeks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Ogden, UT, but intake notes help reduce delays.
+Step: record station placement maps for follow-up visits.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84407/84244/84415.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Field note: Wind exposure category reviewed for ZIP sector 84407/84244/84415.
+Wildlife odors in Ogden, UT crawlspaces may attract secondary pest activity.
 
-Dispatch sectors sampled: ZIP 84407, 84244, 84415, 84408, 84403 (county grid: Weber County).
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Ogden, UT.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Across Ogden, UT, rodent entry points frequently track utility penetrations.
+
+Step: map entry points with photo logs before sealing.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+IGR packets for Ogden, UT roach cycles should be dated on station lids.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Exclusion audit 453091: exclusion mesh gauge and rodent runway grease mark reviewed for Ogden, UT at 41.2300/-111.9700.
+
+Primary postal anchor 84404 with multi-ZIP overlap in Ogden; field packets tag Weber County for county-grid reconciliation.
 
 Service reference: UT-84404-dc8ecd9a

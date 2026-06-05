@@ -11,26 +11,39 @@ lng: -106.6800
 zipSample: ["87105", "87195"]
 zipCodes: ["87105", "87195"]
 localPaths: ["Bernalillo County / ZIP 87195 sector", "Bernalillo County / ZIP 87105 sector", "Bernalillo County / elevation 4944 ft band", "Bernalillo County / coords 35.0100, -106.6800", "Bernalillo County / primary ZIP 87105"]
-zillowHomeValueUsd: 279732
 ---
 
-**Engineering Notice for South Valley:** Structural loading calculated based on 4944 ft terrain assessment. Regional dispatch grid: Bernalillo County.
+**Engineering Notice for South Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bernalillo County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Humidity in South Valley, NM can sustain cockroach harborages behind appliance voids.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Yellow jacket nests in South Valley, NM soffit cavities peak in late summer routing windows.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Overwatered South Valley, NM planters can restart ant bridges within two weeks.
 
-Tip: request a written scope before work starts.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in South Valley, NM.
 
-Field note: Access points and staging constraints recorded for ZIP 87195/87105 coverage.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 87195/87105.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Dispatch sectors sampled: ZIP 87195, 87105 (county grid: Bernalillo County).
+Perimeter granule carriers in South Valley, NM clay soils may need lighter irrigation before application.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Stink bug overwinter seams in South Valley, NM exterior cladding laps require exclusion foam rated for UV exposure.
+
+Tip: Date bait station lids when servicing South Valley, NM perimeter lines.
+
+Cluster fly attic staging in South Valley, NM peaks on south-facing voids after sunny thaw days.
+
+Harbor ledger 605774: frass lane, mud-tube scan, and garage jamb gap measure filed for South Valley, NM at 35.0100, -106.6800.
+
+Seasonal cue 605774: cluster fly attic staging reviewed for South Valley, NM soffit cavities.
+
+On-site sector marker: Bernalillo County / primary ZIP 87105 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-87105-2b3c4d62

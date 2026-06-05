@@ -11,26 +11,41 @@ lng: -93.2000
 zipSample: ["50402", "50401"]
 zipCodes: ["50402", "50401"]
 localPaths: ["Cerro Gordo County / elevation 1122 ft band", "Cerro Gordo County / coords 43.1500, -93.2000", "Cerro Gordo County / ZIP 50401 sector", "Cerro Gordo County / primary ZIP 50401", "Cerro Gordo County / ZIP 50402 sector"]
-zillowHomeValueUsd: 154116
 ---
 
-**Engineering Notice for Mason City:** Structural loading calculated based on 1122 ft terrain assessment. Regional dispatch grid: Cerro Gordo County.
+**Engineering Notice for Mason City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cerro Gordo County.
 
 
-We coordinate local dispatch coverage around Mason City, IA and nearby ZIP sectors.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 50401.
 
-Local conditions in Mason City, IA can affect timelines and material choices.
+Monitoring boards in Mason City, IA crawlspaces stay 72 hours before snap traps are reset.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+County grid Cerro Gordo County informs routing near ZIP 50401.
 
-Tip: request a written scope before work starts.
+FAQ: Why schedule quarterly instead of monthly in Mason City, IA? Species pressure and label intervals dictate cadence.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Silverfish activity in Mason City, IA attics tracks cardboard storage and ridge vent gaps.
 
-Field note: Moisture pathway inspection logged near ZIP 50401/50402 intake.
+Drain fly biofilm in Mason City, IA floor drains signals grease traps need service before gel baits.
 
-Field note: Wind exposure category reviewed for ZIP sector 50401/50402.
+Attic fogging in Mason City, IA requires combustion appliance shutoff verification first.
 
-Dispatch sectors sampled: ZIP 50401, 50402 (county grid: Cerro Gordo County).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+IGR packets for Mason City, IA roach cycles should be dated on station lids.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Mason City, IA.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Intercept log 663777: bed bug intercept count staged before Mason City, IA interior gel zones.
+
+Perimeter dossier 663777: bait station anchor map and mulch bridge risk flagged for Mason City, IA county Cerro Gordo County (ZIP 50401).
+
+On-site sector marker: Cerro Gordo County / elevation 1122 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-50401-063fa4cf

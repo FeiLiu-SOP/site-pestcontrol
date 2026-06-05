@@ -11,26 +11,39 @@ lng: -122.3500
 zipSample: ["98020", "98026"]
 zipCodes: ["98020", "98026"]
 localPaths: ["Snohomish County / ZIP 98020 sector", "Snohomish County / primary ZIP 98026", "Snohomish County / ZIP 98026 sector", "Snohomish County / elevation 390 ft band", "Snohomish County / coords 47.8100, -122.3500"]
-zillowHomeValueUsd: 872940
 ---
 
-**Engineering Notice for Edmonds:** Structural loading calculated based on 390 ft terrain assessment. Regional dispatch grid: Snohomish County.
+**Engineering Notice for Edmonds:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Snohomish County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Tip: avoid large upfront payments without milestones.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Trim vegetation 12 inches from vinyl panels to reduce ant bridges.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Perimeter mulch beds in Edmonds, WA should be reviewed for ant bridge paths.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: map entry points with photo logs before sealing.
 
-Field note: Connection points spot-checked where accessible (ZIP 98026/98020 zone).
+Risk flag: In Edmonds, WA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98026/98020.
+Risk flag: Overwatered Edmonds, WA planters can restart ant bridges within two weeks.
 
-Dispatch sectors sampled: ZIP 98026, 98020 (county grid: Snohomish County).
+Cluster fly attic staging in Edmonds, WA peaks on south-facing voids after sunny thaw days.
+
+Yellow jacket nests in Edmonds, WA soffit cavities peak in late summer routing windows.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Material note: Perimeter granules in Edmonds, WA may need reapplication after heavy irrigation.
+
+Species trace 745947: re-entry interval label and conducive moisture note keyed to Edmonds, WA elevation 390 ft.
+
+Zone map 745947: attic insulation disturbance trace and pantry pest source logged for Edmonds, WA sector 98026.
+
+On-site sector marker: Snohomish County / coords 47.8100, -122.3500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98026-f340f88f

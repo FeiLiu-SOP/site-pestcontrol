@@ -11,24 +11,43 @@ lng: -85.8100
 zipSample: ["36207", "36205", "36206", "36201", "36204"]
 zipCodes: ["36205", "36201", "36206", "36204", "36207"]
 localPaths: ["Calhoun County / ZIP 36204 sector", "Calhoun County / primary ZIP 36201", "Calhoun County / ZIP 36207 sector", "Calhoun County / ZIP 36206 sector", "Calhoun County / coords 33.6700, -85.8100"]
-zillowHomeValueUsd: 69350
 ---
 
-**Engineering Notice for Anniston:** Structural loading calculated based on 873 ft terrain assessment. Regional dispatch grid: Calhoun County.
+**Engineering Notice for Anniston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Calhoun County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Mosquito breeding in Anniston, AL catch basins can amplify perimeter callbacks.
 
-Our service coordination centers on Anniston, AL coverage windows and verified intake details.
+Attic fogging in Anniston, AL requires combustion appliance shutoff verification first.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: What is exclusion? Without sealing entry points in Anniston, AL, pressure often rebuilds.
 
-Tip: confirm licensing and insurance before approving work.
+Seasonal pest pressure in Anniston, AL shifts between moisture ants and dry-wood vectors.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Anniston, AL, but intake notes help reduce delays.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Field note: Access points and staging constraints recorded for ZIP 36201/36204/36205 coverage.
+Tip: Trim vegetation 12 inches from exterior cladding to reduce ant bridges.
 
-Dispatch sectors sampled: ZIP 36201, 36204, 36205, 36206, 36207 (county grid: Calhoun County).
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Risk flag: In Anniston, AL, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Perimeter granule carriers in Anniston, AL clay soils may need lighter irrigation before application.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+IGR packets for Anniston, AL roach cycles should be dated on station lids.
+
+County grid Calhoun County informs routing near ZIP 36201.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Dry-wood termite pellets in Anniston, AL attics may appear before exterior mud tubes.
+
+Seasonal cue 503834: cluster fly attic staging reviewed for Anniston, AL soffit cavities.
+
+Species trace 503834: re-entry interval label and conducive moisture note keyed to Anniston, AL elevation 873 ft.
+
+On-site sector marker: Calhoun County / ZIP 36207 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36201-441a2959

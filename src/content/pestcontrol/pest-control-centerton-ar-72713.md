@@ -11,27 +11,37 @@ lng: -94.3000
 zipSample: ["72719", "72713"]
 zipCodes: ["72713", "72719"]
 localPaths: ["Benton County / elevation 1309 ft band", "Benton County / ZIP 72719 sector", "Benton County / ZIP 72713 sector", "Benton County / primary ZIP 72713", "Benton County / coords 36.3600, -94.3000"]
-zillowHomeValueUsd: 454886
 ---
 
-**Engineering Notice for Centerton:** Structural loading calculated based on 1309 ft terrain assessment. Regional dispatch grid: Benton County.
+**Engineering Notice for Centerton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Benton County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Centerton, AR, but intake notes help reduce delays.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 72713.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 72713.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Clover mite staining on Centerton, AR exterior cladding follows foundation mulch against brick ledges.
 
-Field note: Moisture pathway inspection logged near ZIP 72713/72719 intake.
+Tip: Date bait station lids when servicing Centerton, AR perimeter lines.
 
-Field note: Access points and staging constraints recorded for ZIP 72713/72719 coverage.
+Seasonal pest pressure in Centerton, AR shifts between moisture ants and dry-wood vectors.
 
-Dispatch sectors sampled: ZIP 72713, 72719 (county grid: Benton County).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 72713.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Powderpost beetle exit holes in Centerton, AR trim can be mistaken for dry-wood frass without magnification.
+
+We coordinate Centerton, AR pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Risk flag: Overwatered Centerton, AR planters can restart ant bridges within two weeks.
+
+Harbor ledger 616701: frass lane, mud-tube scan, and garage jamb gap measure filed for Centerton, AR at 36.3600, -94.3000.
+
+ZIP-corridor snapshot for Centerton, AR: sampled sectors include 72713, 72719; county routing grid remains Benton County.
 
 Service reference: AR-72713-3ebfcd2c

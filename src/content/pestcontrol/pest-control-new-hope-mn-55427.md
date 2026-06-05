@@ -11,24 +11,37 @@ lng: -93.3900
 zipSample: ["55428", "55427"]
 zipCodes: ["55427", "55428"]
 localPaths: ["Hennepin County / ZIP 55427 sector", "Hennepin County / primary ZIP 55427", "Hennepin County / coords 45.0400, -93.3900", "Hennepin County / ZIP 55428 sector", "Hennepin County / elevation 922 ft band"]
-zillowHomeValueUsd: 367324
 ---
 
-**Engineering Notice for New Hope:** Structural loading calculated based on 922 ft terrain assessment. Regional dispatch grid: Hennepin County.
+**Engineering Notice for New Hope:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hennepin County.
 
 
-Tip: avoid large upfront payments without milestones.
+Perimeter mulch beds in New Hope, MN should be reviewed for ant bridge paths.
 
-A written scope helps prevent rework and mismatched expectations.
+Carpenter ant frass in New Hope, MN window sills may indicate moisture-softened framing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+County grid Hennepin County informs routing near ZIP 55427.
 
-Local conditions in New Hope, MN can affect timelines and material choices.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-We coordinate local dispatch coverage around New Hope, MN and nearby ZIP sectors.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Field note: Wind exposure category reviewed for ZIP sector 55428/55427.
+Powderpost beetle exit holes in New Hope, MN trim can be mistaken for dry-wood frass without magnification.
 
-Dispatch sectors sampled: ZIP 55428, 55427 (county grid: Hennepin County).
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Attic misting in New Hope, MN requires combustion air clearance verified before fans restart.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Seasonal cue 272752: cluster fly attic staging reviewed for New Hope, MN soffit cavities.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~922 ft across the Hennepin County area. Coordinates: 45.0400, -93.3900. ZIP sample: 55428, 55427. Regional routing note: Hennepin County traffic flow is balanced around ZIP 55427 service demand.
 
 Service reference: MN-55427-d2a1364e

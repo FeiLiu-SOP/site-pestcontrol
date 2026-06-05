@@ -11,24 +11,41 @@ lng: -77.4800
 zipSample: ["23059", "23060", "23058"]
 zipCodes: ["23059", "23060", "23058"]
 localPaths: ["Henrico County / ZIP 23060 sector", "Henrico County / ZIP 23059 sector", "Henrico County / coords 37.6700, -77.4800", "Henrico County / ZIP 23058 sector", "Henrico County / primary ZIP 23060"]
-zillowHomeValueUsd: 451248
 ---
 
-**Engineering Notice for Glen Allen:** Structural loading calculated based on 223 ft terrain assessment. Regional dispatch grid: Henrico County.
+**Engineering Notice for Glen Allen:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Henrico County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Glen Allen, VA.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Glen Allen, VA, but intake notes help reduce delays.
+Attic misting in Glen Allen, VA requires combustion air clearance verified before fans restart.
 
-Tip: compare at least two estimates for scope and timeline.
+Silverfish activity in Glen Allen, VA attics tracks cardboard storage and ridge vent gaps.
 
-Tip: request a written scope before work starts.
+Cluster fly attic staging in Glen Allen, VA peaks on south-facing voids after sunny thaw days.
 
-Field note: Moisture pathway inspection logged near ZIP 23060/23058/23059 intake.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Dispatch sectors sampled: ZIP 23060, 23058, 23059 (county grid: Henrico County).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 23060.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 23060.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Glen Allen, VA.
+
+Step: record station placement maps for follow-up visits.
+
+Carpenter ant frass in Glen Allen, VA window sills may indicate moisture-softened framing.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 23060.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Zone map 864570: attic insulation disturbance trace and pantry pest source logged for Glen Allen, VA sector 23060.
+
+On-site sector marker: Henrico County / ZIP 23058 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-23060-0e90eee4

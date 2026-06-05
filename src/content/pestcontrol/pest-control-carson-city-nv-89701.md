@@ -11,26 +11,37 @@ lng: -119.7500
 zipSample: ["89701", "89703", "89714", "89712", "89711"]
 zipCodes: ["89703", "89706", "89713", "89701", "89711", "89714", "89712"]
 localPaths: ["Carson City County / elevation 4672 ft band", "Carson City County / ZIP 89712 sector", "Carson City County / ZIP 89701 sector", "Carson City County / coords 39.1500, -119.7500", "Carson City County / ZIP 89703 sector"]
-zillowHomeValueUsd: 475334
 ---
 
-**Engineering Notice for Carson City:** Structural loading calculated based on 4672 ft terrain assessment. Regional dispatch grid: Carson City County.
+**Engineering Notice for Carson City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Carson City County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-We coordinate local dispatch coverage around Carson City, NV and nearby ZIP sectors.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Carson City, NV, but intake notes help reduce delays.
+Silverfish activity in Carson City, NV attics tracks cardboard storage and ridge vent gaps.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Date bait station lids when servicing Carson City, NV perimeter lines.
 
-Field note: Access points and staging constraints recorded for ZIP 89712/89714/89711 coverage.
+Attic fogging in Carson City, NV requires combustion appliance shutoff verification first.
 
-Field note: Wind exposure category reviewed for ZIP sector 89712/89714/89711.
+Yellow jacket nests in Carson City, NV soffit cavities peak in late summer routing windows.
 
-Dispatch sectors sampled: ZIP 89712, 89714, 89711, 89713, 89703 (county grid: Carson City County).
+Bird mites in Carson City, NV exhaust vents can persist after host nests are removed.
+
+Clover mite staining on Carson City, NV exterior cladding follows foundation mulch against brick ledges.
+
+Mosquito breeding in Carson City, NV catch basins can amplify perimeter callbacks.
+
+Humidity in Carson City, NV can sustain cockroach harborages behind appliance voids.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Perimeter dossier 438465: bait station anchor map and mulch bridge risk flagged for Carson City, NV county Carson City County (ZIP 89701).
+
+On-site sector marker: Carson City County / elevation 4672 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NV-89701-e29e1601

@@ -11,26 +11,39 @@ lng: -93.7900
 zipSample: ["50111"]
 zipCodes: ["50111"]
 localPaths: ["Polk County / primary ZIP 50111", "Polk County / elevation 965 ft band", "Polk County / ZIP 50111 sector", "Polk County / coords 41.6800, -93.7900"]
-zillowHomeValueUsd: 346213
 ---
 
-**Engineering Notice for Grimes:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Polk County.
+**Engineering Notice for Grimes:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Polk County.
 
 
-Structured milestones protect both sides when scheduling work.
+Silverfish activity in Grimes, IA attics tracks cardboard storage and ridge vent gaps.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-We coordinate local dispatch coverage around Grimes, IA and nearby ZIP sectors.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: compare at least two estimates for scope and timeline.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 50111.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Access points and staging constraints recorded for ZIP 50111 coverage.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Field note: Wind exposure category reviewed for ZIP sector 50111.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 50111.
 
-Dispatch sectors sampled: ZIP 50111 (county grid: Polk County).
+Attic misting in Grimes, IA requires combustion air clearance verified before fans restart.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Grimes, IA.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Attic fogging in Grimes, IA requires combustion appliance shutoff verification first.
+
+Seasonal cue 883708: cluster fly attic staging reviewed for Grimes, IA soffit cavities.
+
+ZIP-corridor snapshot for Grimes, IA: sampled sectors include 50111; county routing grid remains Polk County.
 
 Service reference: IA-50111-9d0b306f

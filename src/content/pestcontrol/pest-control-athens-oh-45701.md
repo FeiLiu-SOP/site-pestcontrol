@@ -11,24 +11,37 @@ lng: -82.1000
 zipSample: ["45701"]
 zipCodes: ["45701"]
 localPaths: ["Athens County / elevation 715 ft band", "Athens County / coords 39.3300, -82.1000", "Athens County / ZIP 45701 sector", "Athens County / primary ZIP 45701"]
-zillowHomeValueUsd: 239791
 ---
 
-**Engineering Notice for Athens:** Structural loading calculated based on 715 ft terrain assessment. Regional dispatch grid: Athens County.
+**Engineering Notice for Athens:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Athens County.
 
 
-Tip: request a written scope before work starts.
+FAQ: What is exclusion? Without sealing entry points in Athens, OH, pressure often rebuilds.
 
-We coordinate local dispatch coverage around Athens, OH and nearby ZIP sectors.
+Carpenter ant frass in Athens, OH window sills may indicate moisture-softened framing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Athens, OH, but intake notes help reduce delays.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-In Athens, OH, seasonal demand can change scheduling windows.
+County grid Athens County informs routing near ZIP 45701.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Wind exposure category reviewed for ZIP sector 45701.
+In Athens, OH, subterranean termite swarms often follow warm rain windows.
 
-Dispatch sectors sampled: ZIP 45701 (county grid: Athens County).
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Mosquito breeding in Athens, OH catch basins can amplify perimeter callbacks.
+
+Powderpost beetle exit holes in Athens, OH trim can be mistaken for dry-wood frass without magnification.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Seasonal pest pressure in Athens, OH shifts between moisture ants and dry-wood vectors.
+
+Intercept log 953846: bed bug intercept count staged before Athens, OH interior gel zones.
+
+Coordinate-anchored dispatch note: center reference 39.3300, -82.1000 at elevation ~715 ft aligns with Athens County intake staging.
 
 Service reference: OH-45701-d7745921

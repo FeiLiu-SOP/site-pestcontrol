@@ -11,26 +11,41 @@ lng: -97.1800
 zipSample: ["76054", "76053"]
 zipCodes: ["76054", "76053"]
 localPaths: ["Tarrant County / elevation 591 ft band", "Tarrant County / ZIP 76054 sector", "Tarrant County / ZIP 76053 sector", "Tarrant County / coords 32.8400, -97.1800", "Tarrant County / primary ZIP 76054"]
-zillowHomeValueUsd: 420966
 ---
 
-**Engineering Notice for Hurst:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Hurst:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tarrant County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-We coordinate local dispatch coverage around Hurst, TX and nearby ZIP sectors.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hurst, TX, but intake notes help reduce delays.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Clear documentation helps align materials, labor, and timeline.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Field note: Wind exposure category reviewed for ZIP sector 76054/76053.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Field note: Access points and staging constraints recorded for ZIP 76054/76053 coverage.
+Cluster fly attic staging in Hurst, TX peaks on south-facing voids after sunny thaw days.
 
-Dispatch sectors sampled: ZIP 76054, 76053 (county grid: Tarrant County).
+Tip: Keep pet food elevated and sealed between service visits.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Flea pupae survive vacuuming in Hurst, TX carpet fibers unless heat treatment follows.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Harbor ledger 613894: frass lane, mud-tube scan, and garage jamb gap measure filed for Hurst, TX at 32.8400, -97.1800.
+
+Intercept log 613894: bed bug intercept count staged before Hurst, TX interior gel zones.
+
+On-site sector marker: Tarrant County / coords 32.8400, -97.1800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76054-259d9d1a

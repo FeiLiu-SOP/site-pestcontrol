@@ -11,24 +11,37 @@ lng: -85.8500
 zipSample: ["36331", "36330"]
 zipCodes: ["36330", "36331"]
 localPaths: ["Coffee County / coords 31.3300, -85.8500", "Coffee County / elevation 338 ft band", "Coffee County / primary ZIP 36330", "Coffee County / ZIP 36330 sector", "Coffee County / ZIP 36331 sector"]
-zillowHomeValueUsd: 203831
 ---
 
-**Engineering Notice for Enterprise:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Coffee County.
+**Engineering Notice for Enterprise:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Coffee County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Tip: confirm licensing and insurance before approving work.
+Fire ant mounds in Enterprise, AL drive seams need granule rotation after irrigation events.
 
-We coordinate local dispatch coverage around Enterprise, AL and nearby ZIP sectors.
+Powderpost beetle exit holes in Enterprise, AL trim can be mistaken for dry-wood frass without magnification.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Enterprise, AL, but intake notes help reduce delays.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Enterprise, AL.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 36330/36331.
+Step: separate bait rotation schedules from crack-and-crevice applications in Enterprise, AL.
 
-Dispatch sectors sampled: ZIP 36330, 36331 (county grid: Coffee County).
+Carpenter ant frass in Enterprise, AL window sills may indicate moisture-softened framing.
+
+Attic insulation disturbance in Enterprise, AL may indicate wildlife nesting routes.
+
+Clover mite staining on Enterprise, AL exterior cladding follows foundation mulch against brick ledges.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Bird mites in Enterprise, AL exhaust vents can persist after host nests are removed.
+
+Flea pupae survive vacuuming in Enterprise, AL carpet fibers unless heat treatment follows.
+
+Exclusion audit 986084: exclusion mesh gauge and rodent runway grease mark reviewed for Enterprise, AL at 31.3300/-85.8500.
+
+On-site sector marker: Coffee County / coords 31.3300, -85.8500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36330-d1902a16

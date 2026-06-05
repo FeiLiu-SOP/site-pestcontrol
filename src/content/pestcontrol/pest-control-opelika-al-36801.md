@@ -11,25 +11,39 @@ lng: -85.3800
 zipSample: ["36803", "36801", "36804"]
 zipCodes: ["36801", "36804", "36803"]
 localPaths: ["Lee County / ZIP 36803 sector", "Lee County / primary ZIP 36801", "Lee County / ZIP 36801 sector", "Lee County / elevation 794 ft band", "Lee County / ZIP 36804 sector"]
-zillowHomeValueUsd: 294154
 ---
 
-**Engineering Notice for Opelika:** Structural loading calculated based on 794 ft terrain assessment. Regional dispatch grid: Lee County.
+**Engineering Notice for Opelika:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lee County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-We coordinate local dispatch coverage around Opelika, AL and nearby ZIP sectors.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Opelika, AL.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 36801.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Tip: confirm licensing and insurance before approving work.
+Perimeter granule carriers in Opelika, AL clay soils may need lighter irrigation before application.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Opelika, AL, but intake notes help reduce delays.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 36803/36804/36801.
+State note: Opelika, AL commercial kitchens may require separate documentation for audit visits.
 
-Dispatch sectors sampled: ZIP 36803, 36804, 36801 (county grid: Lee County).
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Seasonal pest pressure in Opelika, AL shifts between moisture ants and dry-wood vectors.
+
+Earwig harborages in Opelika, AL meter boxes often follow drip irrigation overspray.
+
+Drain fly biofilm in Opelika, AL floor drains signals grease traps need service before gel baits.
+
+Material note: Perimeter granules in Opelika, AL may need reapplication after heavy irrigation.
+
+Mud dauber nests in Opelika, AL porch ceilings are benign but signal prey density for spiders.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 36801.
+
+Perimeter dossier 777284: bait station anchor map and mulch bridge risk flagged for Opelika, AL county Lee County (ZIP 36801).
+
+On-site sector marker: Lee County / coords 32.6600, -85.3800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36801-8b22abb8

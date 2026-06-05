@@ -11,27 +11,37 @@ lng: -110.3200
 zipSample: ["85635", "85613", "85670", "85650"]
 zipCodes: ["85670", "85613", "85650", "85635"]
 localPaths: ["Cochise County / ZIP 85670 sector", "Cochise County / ZIP 85635 sector", "Cochise County / elevation 4649 ft band", "Cochise County / coords 31.5600, -110.3200", "Cochise County / primary ZIP 85650"]
-zillowHomeValueUsd: 359395
 ---
 
-**Engineering Notice for Sierra Vista:** Structural loading calculated based on 4649 ft terrain assessment. Regional dispatch grid: Cochise County.
+**Engineering Notice for Sierra Vista:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cochise County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Mud dauber nests in Sierra Vista, AZ porch ceilings are benign but signal prey density for spiders.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 85650.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Sierra Vista, AZ.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 85650.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Sierra Vista, AZ, but intake notes help reduce delays.
+Monitoring boards in Sierra Vista, AZ crawlspaces stay 72 hours before snap traps are reset.
 
-Field note: Connection points spot-checked where accessible (ZIP 85613/85635/85650 zone).
+Step: record station placement maps for follow-up visits.
 
-Field note: Wind exposure category reviewed for ZIP sector 85613/85635/85650.
+IGR packets for Sierra Vista, AZ roach cycles should be dated on station lids.
 
-Dispatch sectors sampled: ZIP 85613, 85635, 85650, 85670 (county grid: Cochise County).
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Attic misting in Sierra Vista, AZ requires combustion air clearance verified before fans restart.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Intercept log 336097: bed bug intercept count staged before Sierra Vista, AZ interior gel zones.
+
+Regional mesh label Cochise County: moisture and logistics baselines are keyed to Sierra Vista, AZ before niche-specific work begins.
 
 Service reference: AZ-85650-92f062e5

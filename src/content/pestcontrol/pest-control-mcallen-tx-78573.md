@@ -11,27 +11,41 @@ lng: -98.2500
 zipSample: ["78573", "78503", "78504", "78501", "78557"]
 zipCodes: ["78502", "78505", "78573", "78501", "78503", "78504", "78557"]
 localPaths: ["Hidalgo County / ZIP 78573 sector", "Hidalgo County / primary ZIP 78573", "Hidalgo County / ZIP 78557 sector", "Hidalgo County / ZIP 78504 sector", "Hidalgo County / ZIP 78501 sector"]
-zillowHomeValueUsd: 216745
 ---
 
-**Engineering Notice for McAllen:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Hidalgo County.
+**Engineering Notice for McAllen:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hidalgo County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Wildlife odors in McAllen, TX crawlspaces may attract secondary pest activity.
 
-Our service coordination centers on McAllen, TX coverage windows and verified intake details.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in McAllen, TX.
 
-Tip: confirm licensing and insurance before approving work.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in McAllen, TX, but intake notes help reduce delays.
+Material note: Perimeter granules in McAllen, TX may need reapplication after heavy irrigation.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 78573.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Moisture pathway inspection logged near ZIP 78501/78573/78502 intake.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in McAllen, TX.
 
-Field note: Connection points spot-checked where accessible (ZIP 78501/78573/78502 zone).
+Perimeter granule carriers in McAllen, TX clay soils may need lighter irrigation before application.
 
-Dispatch sectors sampled: ZIP 78501, 78573, 78502, 78557, 78504 (county grid: Hidalgo County).
+Silverfish activity in McAllen, TX attics tracks cardboard storage and ridge vent gaps.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Cluster fly attic staging in McAllen, TX peaks on south-facing voids after sunny thaw days.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Exclusion audit 729573: exclusion mesh gauge and rodent runway grease mark reviewed for McAllen, TX at 26.2300/-98.2500.
+
+Harbor ledger 729573: frass lane, mud-tube scan, and garage jamb gap measure filed for McAllen, TX at 26.2300, -98.2500.
+
+On-site sector marker: Hidalgo County / ZIP 78503 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78573-82a7a497

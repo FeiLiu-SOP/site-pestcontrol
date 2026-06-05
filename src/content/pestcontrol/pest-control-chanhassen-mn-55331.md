@@ -11,24 +11,39 @@ lng: -93.5600
 zipSample: ["55317", "55331", "55318"]
 zipCodes: ["55331", "55318", "55317"]
 localPaths: ["Carver County / primary ZIP 55331", "Carver County / coords 44.8500, -93.5600", "Carver County / ZIP 55317 sector", "Carver County / ZIP 55318 sector", "Carver County / ZIP 55331 sector"]
-zillowHomeValueUsd: 810173
 ---
 
-**Engineering Notice for Chanhassen:** Structural loading calculated based on 938 ft terrain assessment. Regional dispatch grid: Carver County.
+**Engineering Notice for Chanhassen:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Carver County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Earwig harborages in Chanhassen, MN meter boxes often follow drip irrigation overspray.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Perimeter granule carriers in Chanhassen, MN clay soils may need lighter irrigation before application.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Chanhassen, MN, but intake notes help reduce delays.
+Risk flag: In Chanhassen, MN, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Local conditions in Chanhassen, MN can affect timelines and material choices.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Connection points spot-checked where accessible (ZIP 55318/55317/55331 zone).
+Flea pupae survive vacuuming in Chanhassen, MN carpet fibers unless heat treatment follows.
 
-Dispatch sectors sampled: ZIP 55318, 55317, 55331 (county grid: Carver County).
+Request an inspection with species ID before treatment. Serving ZIP Code: 55331.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Attic insulation disturbance in Chanhassen, MN may indicate wildlife nesting routes.
+
+FAQ: Can bed bugs spread room-to-room in Chanhassen, MN row homes? Wall voids and shared ducts accelerate transfer.
+
+Dry-wood termite pellets in Chanhassen, MN attics may appear before exterior mud tubes.
+
+FAQ: Why schedule quarterly instead of monthly in Chanhassen, MN? Species pressure and label intervals dictate cadence.
+
+Perimeter dossier 505903: bait station anchor map and mulch bridge risk flagged for Chanhassen, MN county Carver County (ZIP 55331).
+
+Species trace 505903: re-entry interval label and conducive moisture note keyed to Chanhassen, MN elevation 938 ft.
+
+Coordinate-anchored dispatch note: center reference 44.8500, -93.5600 at elevation ~938 ft aligns with Carver County intake staging.
 
 Service reference: MN-55331-fd04737e

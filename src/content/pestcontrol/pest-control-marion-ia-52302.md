@@ -11,27 +11,41 @@ lng: -91.5800
 zipSample: ["52302"]
 zipCodes: ["52302"]
 localPaths: ["Linn County / ZIP 52302 sector", "Linn County / primary ZIP 52302", "Linn County / elevation 840 ft band", "Linn County / coords 42.0500, -91.5800"]
-zillowHomeValueUsd: 270278
 ---
 
-**Engineering Notice for Marion:** Structural loading calculated based on 840 ft terrain assessment. Regional dispatch grid: Linn County.
+**Engineering Notice for Marion:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Linn County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Silverfish activity in Marion, IA attics tracks cardboard storage and ridge vent gaps.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Our service coordination centers on Marion, IA coverage windows and verified intake details.
+Bird mites in Marion, IA exhaust vents can persist after host nests are removed.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 52302.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Tip: address recurring issues early to prevent bigger damage.
+Mud dauber nests in Marion, IA porch ceilings are benign but signal prey density for spiders.
 
-Field note: Wind exposure category reviewed for ZIP sector 52302.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Access points and staging constraints recorded for ZIP 52302 coverage.
+Yellow jacket nests in Marion, IA soffit cavities peak in late summer routing windows.
 
-Dispatch sectors sampled: ZIP 52302 (county grid: Linn County).
+Attic fogging in Marion, IA requires combustion appliance shutoff verification first.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Marion, IA.
+
+In Marion, IA, subterranean termite swarms often follow warm rain windows.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 52302.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+FAQ: Why schedule quarterly instead of monthly in Marion, IA? Species pressure and label intervals dictate cadence.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 52302.
+
+Zone map 584176: attic insulation disturbance trace and pantry pest source logged for Marion, IA sector 52302.
+
+On-site sector marker: Linn County / ZIP 52302 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-52302-34fecbd7

@@ -11,24 +11,39 @@ lng: -117.0100
 zipSample: ["91921", "91912", "91914", "91910", "91908"]
 zipCodes: ["91912", "91911", "91909", "91913", "91908", "91915", "91910", "91902", "91921", "91914"]
 localPaths: ["San Diego County / ZIP 91921 sector", "San Diego County / elevation 459 ft band", "San Diego County / ZIP 91910 sector", "San Diego County / ZIP 91914 sector", "San Diego County / ZIP 91912 sector"]
-zillowHomeValueUsd: 771253
 ---
 
-**Engineering Notice for Chula Vista:** Structural loading calculated based on 459 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for Chula Vista:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-In Chula Vista, CA, seasonal demand can change scheduling windows.
+Tip: Date bait station lids when servicing Chula Vista, CA perimeter lines.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Chula Vista, CA.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Log pet access routes when bait stations are placed.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 91915/91908/91911.
+Stored cardboard in Chula Vista, CA garages can accelerate pantry pest cycles.
 
-Dispatch sectors sampled: ZIP 91915, 91908, 91911, 91909, 91921 (county grid: San Diego County).
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Tip: Trim vegetation 12 inches from vinyl panels to reduce ant bridges.
+
+Powderpost beetle exit holes in Chula Vista, CA trim can be mistaken for dry-wood frass without magnification.
+
+Bird mites in Chula Vista, CA exhaust vents can persist after host nests are removed.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Intercept log 901450: bed bug intercept count staged before Chula Vista, CA interior gel zones.
+
+Seasonal cue 901450: cluster fly attic staging reviewed for Chula Vista, CA soffit cavities.
+
+On-site sector marker: San Diego County / primary ZIP 91911 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91911-ede4edb6

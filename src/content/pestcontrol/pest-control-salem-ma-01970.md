@@ -11,27 +11,37 @@ lng: -70.9000
 zipSample: ["01970", "01971"]
 zipCodes: ["01971", "01970"]
 localPaths: ["Essex County / primary ZIP 01970", "Essex County / ZIP 01971 sector", "Essex County / ZIP 01970 sector", "Essex County / coords 42.5100, -70.9000", "Essex County / elevation 49 ft band"]
-zillowHomeValueUsd: 604385
 ---
 
-**Engineering Notice for Salem:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Essex County.
+**Engineering Notice for Salem:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Essex County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Monitoring boards in Salem, MA crawlspaces stay 72 hours before snap traps are reset.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 01970.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 01970.
+Bird mites in Salem, MA exhaust vents can persist after host nests are removed.
 
-Clear documentation helps align materials, labor, and timeline.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-We coordinate local dispatch coverage around Salem, MA and nearby ZIP sectors.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Field note: Connection points spot-checked where accessible (ZIP 01971/01970 zone).
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 01971/01970.
+We coordinate Salem, MA pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Dispatch sectors sampled: ZIP 01971, 01970 (county grid: Essex County).
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Salem, MA.
+
+Risk flag: In Salem, MA, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Zone map 546585: attic insulation disturbance trace and pantry pest source logged for Salem, MA sector 01970.
+
+Coordinate-anchored dispatch note: center reference 42.5100, -70.9000 at elevation ~49 ft aligns with Essex County intake staging.
 
 Service reference: MA-01970-8be277fb

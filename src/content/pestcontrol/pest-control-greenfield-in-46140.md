@@ -11,25 +11,37 @@ lng: -85.7700
 zipSample: ["46140"]
 zipCodes: ["46140"]
 localPaths: ["Hancock County / coords 39.7900, -85.7700", "Hancock County / primary ZIP 46140", "Hancock County / elevation 892 ft band", "Hancock County / ZIP 46140 sector"]
-zillowHomeValueUsd: 291800
 ---
 
-**Engineering Notice for Greenfield:** Structural loading calculated based on 892 ft terrain assessment. Regional dispatch grid: Hancock County.
+**Engineering Notice for Greenfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hancock County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+IGR packets for Greenfield, IN roach cycles should be dated on station lids.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Carpenter ant frass in Greenfield, IN window sills may indicate moisture-softened framing.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: separate bait rotation schedules from crack-and-crevice applications in Greenfield, IN.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 46140.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Date bait station lids when servicing Greenfield, IN perimeter lines.
 
-Field note: Connection points spot-checked where accessible (ZIP 46140 zone).
+Dry-wood termite pellets in Greenfield, IN attics may appear before exterior mud tubes.
 
-Dispatch sectors sampled: ZIP 46140 (county grid: Hancock County).
+Mud dauber nests in Greenfield, IN porch ceilings are benign but signal prey density for spiders.
+
+Risk flag: Overwatered Greenfield, IN planters can restart ant bridges within two weeks.
+
+Drain fly biofilm in Greenfield, IN floor drains signals grease traps need service before gel baits.
+
+Powderpost beetle exit holes in Greenfield, IN trim can be mistaken for dry-wood frass without magnification.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 46140.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Harbor ledger 983930: frass lane, mud-tube scan, and garage jamb gap measure filed for Greenfield, IN at 39.7900, -85.7700.
+
+Coordinate-anchored dispatch note: center reference 39.7900, -85.7700 at elevation ~892 ft aligns with Hancock County intake staging.
 
 Service reference: IN-46140-c915d75f

@@ -11,25 +11,41 @@ lng: -89.0200
 zipSample: ["53512", "53511"]
 zipCodes: ["53511", "53512"]
 localPaths: ["Rock County / ZIP 53512 sector", "Rock County / elevation 804 ft band", "Rock County / coords 42.5200, -89.0200", "Rock County / primary ZIP 53511", "Rock County / ZIP 53511 sector"]
-zillowHomeValueUsd: 210163
 ---
 
-**Engineering Notice for Beloit:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Rock County.
+**Engineering Notice for Beloit:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rock County.
 
 
-We coordinate local dispatch coverage around Beloit, WI and nearby ZIP sectors.
+County grid Rock County informs routing near ZIP 53511.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 53511.
+Tip: Keep pet food elevated and sealed between service visits.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Clover mite staining on Beloit, WI wall restoration follows foundation mulch against brick ledges.
 
-Field note: Wind exposure category reviewed for ZIP sector 53512/53511.
+Attic misting in Beloit, WI requires combustion air clearance verified before fans restart.
 
-Dispatch sectors sampled: ZIP 53512, 53511 (county grid: Rock County).
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+FAQ: Why schedule quarterly instead of monthly in Beloit, WI? Species pressure and label intervals dictate cadence.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Carpenter ant frass in Beloit, WI window sills may indicate moisture-softened framing.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Species trace 898833: re-entry interval label and conducive moisture note keyed to Beloit, WI elevation 804 ft.
+
+Zone map 898833: attic insulation disturbance trace and pantry pest source logged for Beloit, WI sector 53511.
+
+On-site sector marker: Rock County / ZIP 53512 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-53511-dbe048ba

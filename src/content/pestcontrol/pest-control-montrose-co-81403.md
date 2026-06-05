@@ -11,25 +11,41 @@ lng: -107.8600
 zipSample: ["81401", "81403", "81402"]
 zipCodes: ["81403", "81401", "81402"]
 localPaths: ["Montrose County / ZIP 81403 sector", "Montrose County / ZIP 81401 sector", "Montrose County / ZIP 81402 sector", "Montrose County / primary ZIP 81403", "Montrose County / coords 38.4700, -107.8600"]
-zillowHomeValueUsd: 600786
 ---
 
-**Engineering Notice for Montrose:** Structural loading calculated based on 5879 ft terrain assessment. Regional dispatch grid: Montrose County.
+**Engineering Notice for Montrose:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montrose County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 81403.
+Risk flag: In Montrose, CO, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Can bed bugs spread room-to-room in Montrose, CO row homes? Wall voids and shared ducts accelerate transfer.
 
-Our service coordination centers on Montrose, CO coverage windows and verified intake details.
+Tip: Date bait station lids when servicing Montrose, CO perimeter lines.
 
-Tip: address recurring issues early to prevent bigger damage.
+State note: Montrose, CO commercial kitchens may require separate documentation for audit visits.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Montrose, CO, but intake notes help reduce delays.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Access points and staging constraints recorded for ZIP 81402/81403/81401 coverage.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 81402, 81403, 81401 (county grid: Montrose County).
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Cluster fly attic staging in Montrose, CO peaks on south-facing voids after sunny thaw days.
+
+Attic misting in Montrose, CO requires combustion air clearance verified before fans restart.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Seasonal pest pressure in Montrose, CO shifts between moisture ants and dry-wood vectors.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 81403.
+
+Exclusion audit 207839: exclusion mesh gauge and rodent runway grease mark reviewed for Montrose, CO at 38.4700/-107.8600.
+
+Primary postal anchor 81403 with multi-ZIP overlap in Montrose; field packets tag Montrose County for county-grid reconciliation.
 
 Service reference: CO-81403-a2218267

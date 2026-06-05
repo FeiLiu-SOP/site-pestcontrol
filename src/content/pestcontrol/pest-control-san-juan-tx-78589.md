@@ -11,26 +11,41 @@ lng: -98.1500
 zipSample: ["78589"]
 zipCodes: ["78589"]
 localPaths: ["Hidalgo County / elevation 121 ft band", "Hidalgo County / primary ZIP 78589", "Hidalgo County / ZIP 78589 sector", "Hidalgo County / coords 26.1900, -98.1500"]
-zillowHomeValueUsd: 183919
 ---
 
-**Engineering Notice for San Juan:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Hidalgo County.
+**Engineering Notice for San Juan:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hidalgo County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Stink bug overwinter seams in San Juan, TX cladding service laps require exclusion foam rated for UV exposure.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Perimeter granule carriers in San Juan, TX clay soils may need lighter irrigation before application.
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Our service coordination centers on San Juan, TX coverage windows and verified intake details.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Field note: Moisture pathway inspection logged near ZIP 78589 intake.
+Tip: Log pet access routes when bait stations are placed.
 
-Field note: Wind exposure category reviewed for ZIP sector 78589.
+Seasonal pest pressure in San Juan, TX shifts between moisture ants and dry-wood vectors.
 
-Dispatch sectors sampled: ZIP 78589 (county grid: Hidalgo County).
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+FAQ: Why schedule quarterly instead of monthly in San Juan, TX? Species pressure and label intervals dictate cadence.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in San Juan, TX, pressure often rebuilds.
+
+Clover mite staining on San Juan, TX exterior cladding follows foundation mulch against brick ledges.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Earwig harborages in San Juan, TX meter boxes often follow drip irrigation overspray.
+
+Seasonal cue 424166: cluster fly attic staging reviewed for San Juan, TX soffit cavities.
+
+On-site sector marker: Hidalgo County / primary ZIP 78589 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78589-ac0b3900

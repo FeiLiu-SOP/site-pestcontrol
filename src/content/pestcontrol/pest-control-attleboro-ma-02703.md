@@ -11,26 +11,37 @@ lng: -71.3000
 zipSample: ["02703"]
 zipCodes: ["02703"]
 localPaths: ["Bristol County / primary ZIP 02703", "Bristol County / coords 41.9300, -71.3000", "Bristol County / elevation 144 ft band", "Bristol County / ZIP 02703 sector"]
-zillowHomeValueUsd: 532890
 ---
 
-**Engineering Notice for Attleboro:** Structural loading calculated based on 144 ft terrain assessment. Regional dispatch grid: Bristol County.
+**Engineering Notice for Attleboro:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bristol County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wildlife odors in Attleboro, MA crawlspaces may attract secondary pest activity.
 
-Tip: request a written scope before work starts.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 02703.
 
-In Attleboro, MA, urgent pest control issues can escalate quickly.
+Risk flag: In Attleboro, MA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-We coordinate local dispatch coverage around Attleboro, MA and nearby ZIP sectors.
+Clover mite staining on Attleboro, MA vinyl panels follows foundation mulch against brick ledges.
 
-Field note: Connection points spot-checked where accessible (ZIP 02703 zone).
+Yellow jacket nests in Attleboro, MA soffit cavities peak in late summer routing windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 02703.
+Silverfish activity in Attleboro, MA attics tracks cardboard storage and ridge vent gaps.
 
-Dispatch sectors sampled: ZIP 02703 (county grid: Bristol County).
+Flea pupae survive vacuuming in Attleboro, MA carpet fibers unless heat treatment follows.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 02703.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Mud dauber nests in Attleboro, MA porch ceilings are benign but signal prey density for spiders.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Intercept log 650671: bed bug intercept count staged before Attleboro, MA interior gel zones.
+
+On-site sector marker: Bristol County / elevation 144 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MA-02703-502a9884

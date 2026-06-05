@@ -11,27 +11,37 @@ lng: -94.5600
 zipSample: ["64118", "64119"]
 zipCodes: ["64118", "64119"]
 localPaths: ["Clay County / elevation 1027 ft band", "Clay County / coords 39.2100, -94.5600", "Clay County / ZIP 64118 sector", "Clay County / ZIP 64119 sector", "Clay County / primary ZIP 64118"]
-zillowHomeValueUsd: 267024
 ---
 
-**Engineering Notice for Gladstone:** Structural loading calculated based on 1027 ft terrain assessment. Regional dispatch grid: Clay County.
+**Engineering Notice for Gladstone:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clay County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Gladstone, MO, but intake notes help reduce delays.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 64118.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Transparent pricing helps you compare like-for-like scope items.
+Carpenter ant frass in Gladstone, MO window sills may indicate moisture-softened framing.
 
-We coordinate local dispatch coverage around Gladstone, MO and nearby ZIP sectors.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Moisture pathway inspection logged near ZIP 64118/64119 intake.
+Step: separate bait rotation schedules from crack-and-crevice applications in Gladstone, MO.
 
-Field note: Connection points spot-checked where accessible (ZIP 64118/64119 zone).
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Dispatch sectors sampled: ZIP 64118, 64119 (county grid: Clay County).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+FAQ: Can bed bugs spread room-to-room in Gladstone, MO row homes? Wall voids and shared ducts accelerate transfer.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Tip: Trim vegetation 12 inches from exterior cladding to reduce ant bridges.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Seasonal cue 676627: cluster fly attic staging reviewed for Gladstone, MO soffit cavities.
+
+On-site sector marker: Clay County / ZIP 64119 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-64118-ce5fab80

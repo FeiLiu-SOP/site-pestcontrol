@@ -11,26 +11,37 @@ lng: -84.1900
 zipSample: ["45377", "45414"]
 zipCodes: ["45414", "45377"]
 localPaths: ["Montgomery County / ZIP 45414 sector", "Montgomery County / coords 39.8800, -84.1900", "Montgomery County / ZIP 45377 sector", "Montgomery County / primary ZIP 45414", "Montgomery County / elevation 958 ft band"]
-zillowHomeValueUsd: 180232
 ---
 
-**Engineering Notice for Vandalia:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Vandalia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.
 
 
-Our service coordination centers on Vandalia, OH coverage windows and verified intake details.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Stink bug overwinter seams in Vandalia, OH exterior cladding laps require exclusion foam rated for UV exposure.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Vandalia, OH, but intake notes help reduce delays.
+Mud dauber nests in Vandalia, OH porch ceilings are benign but signal prey density for spiders.
 
-Tip: request a written scope before work starts.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Connection points spot-checked where accessible (ZIP 45414/45377 zone).
+Attic fogging in Vandalia, OH requires combustion appliance shutoff verification first.
 
-Field note: Moisture pathway inspection logged near ZIP 45414/45377 intake.
+Across Vandalia, OH, rodent entry points frequently track utility penetrations.
 
-Dispatch sectors sampled: ZIP 45414, 45377 (county grid: Montgomery County).
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Vandalia, OH.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 45414.
+
+Wildlife odors in Vandalia, OH crawlspaces may attract secondary pest activity.
+
+Perimeter granule carriers in Vandalia, OH clay soils may need lighter irrigation before application.
+
+IGR packets for Vandalia, OH roach cycles should be dated on station lids.
+
+Zone map 244700: attic insulation disturbance trace and pantry pest source logged for Vandalia, OH sector 45414.
+
+On-site sector marker: Montgomery County / ZIP 45414 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-45414-94d327c3

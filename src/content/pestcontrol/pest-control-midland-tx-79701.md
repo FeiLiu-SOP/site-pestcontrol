@@ -11,26 +11,39 @@ lng: -102.1100
 zipSample: ["79711", "79706", "79708", "79701", "79707"]
 zipCodes: ["79707", "79708", "79706", "79701", "79711", "79705", "79702", "79703"]
 localPaths: ["Midland County / ZIP 79701 sector", "Midland County / ZIP 79707 sector", "Midland County / ZIP 79708 sector", "Midland County / ZIP 79711 sector", "Midland County / coords 32.0200, -102.1100"]
-zillowHomeValueUsd: 217358
 ---
 
-**Engineering Notice for Midland:** Structural loading calculated based on 2815 ft terrain assessment. Regional dispatch grid: Midland County.
+**Engineering Notice for Midland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Midland County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Midland, TX, but intake notes help reduce delays.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 79701.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Tip: avoid large upfront payments without milestones.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Carpenter ant frass in Midland, TX window sills may indicate moisture-softened framing.
 
-Field note: Access points and staging constraints recorded for ZIP 79701/79706/79703 coverage.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Moisture pathway inspection logged near ZIP 79701/79706/79703 intake.
+Risk flag: Overwatered Midland, TX planters can restart ant bridges within two weeks.
 
-Dispatch sectors sampled: ZIP 79701, 79706, 79703, 79702, 79707 (county grid: Midland County).
+State note: Midland, TX commercial kitchens may require separate documentation for audit visits.
+
+Humidity in Midland, TX can sustain cockroach harborages behind appliance voids.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+FAQ: What is exclusion? Without sealing entry points in Midland, TX, pressure often rebuilds.
+
+Clover mite staining on Midland, TX cladding service follows foundation mulch against brick ledges.
+
+Attic insulation disturbance in Midland, TX may indicate wildlife nesting routes.
+
+Zone map 177844: attic insulation disturbance trace and pantry pest source logged for Midland, TX sector 79701.
+
+On-site sector marker: Midland County / elevation 2815 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-79701-33399259

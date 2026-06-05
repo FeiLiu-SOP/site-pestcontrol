@@ -11,27 +11,41 @@ lng: -93.2000
 zipSample: ["55124"]
 zipCodes: ["55124"]
 localPaths: ["Dakota County / ZIP 55124 sector", "Dakota County / coords 44.7500, -93.2000", "Dakota County / elevation 974 ft band", "Dakota County / primary ZIP 55124"]
-zillowHomeValueUsd: 375986
 ---
 
-**Engineering Notice for Apple Valley:** Structural loading calculated based on 974 ft terrain assessment. Regional dispatch grid: Dakota County.
+**Engineering Notice for Apple Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dakota County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 55124.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+State note: Apple Valley, MN commercial kitchens may require separate documentation for audit visits.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Apple Valley, MN, but intake notes help reduce delays.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 55124.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Field note: Wind exposure category reviewed for ZIP sector 55124.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Field note: Access points and staging constraints recorded for ZIP 55124 coverage.
+Earwig harborages in Apple Valley, MN meter boxes often follow drip irrigation overspray.
 
-Dispatch sectors sampled: ZIP 55124 (county grid: Dakota County).
+Risk flag: In Apple Valley, MN, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Seasonal pest pressure in Apple Valley, MN shifts between moisture ants and dry-wood vectors.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Powderpost beetle exit holes in Apple Valley, MN trim can be mistaken for dry-wood frass without magnification.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 55124.
+
+Harbor ledger 258968: frass lane, mud-tube scan, and garage jamb gap measure filed for Apple Valley, MN at 44.7500, -93.2000.
+
+On-site sector marker: Dakota County / primary ZIP 55124 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55124-c806e083

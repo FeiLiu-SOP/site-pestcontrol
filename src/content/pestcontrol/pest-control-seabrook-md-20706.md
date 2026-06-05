@@ -11,24 +11,43 @@ lng: -76.8500
 zipSample: ["20703", "20706"]
 zipCodes: ["20703", "20706"]
 localPaths: ["Prince George's County / ZIP 20703 sector", "Prince George's County / elevation 210 ft band", "Prince George's County / coords 38.9800, -76.8500", "Prince George's County / primary ZIP 20706", "Prince George's County / ZIP 20706 sector"]
-zillowHomeValueUsd: 439993
 ---
 
-**Engineering Notice for Seabrook:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Prince George's County.
+**Engineering Notice for Seabrook:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince George's County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Seabrook, MD, but intake notes help reduce delays.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: record station placement maps for follow-up visits.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Tip: address recurring issues early to prevent bigger damage.
+Perimeter mulch beds in Seabrook, MD should be reviewed for ant bridge paths.
 
-In Seabrook, MD, seasonal demand can change scheduling windows.
+Across Seabrook, MD, rodent entry points frequently track utility penetrations.
 
-Field note: Connection points spot-checked where accessible (ZIP 20703/20706 zone).
+Attic insulation disturbance in Seabrook, MD may indicate wildlife nesting routes.
 
-Dispatch sectors sampled: ZIP 20703, 20706 (county grid: Prince George's County).
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Seabrook, MD, pressure often rebuilds.
+
+Spider populations in Seabrook, MD eaves can signal insect prey density.
+
+Cluster fly attic staging in Seabrook, MD peaks on south-facing voids after sunny thaw days.
+
+Fire ant mounds in Seabrook, MD drive seams need granule rotation after irrigation events.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Zone map 321337: attic insulation disturbance trace and pantry pest source logged for Seabrook, MD sector 20706.
+
+Intercept log 321337: bed bug intercept count staged before Seabrook, MD interior gel zones.
+
+On-site sector marker: Prince George's County / ZIP 20706 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20706-eee7355d

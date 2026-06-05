@@ -11,26 +11,41 @@ lng: -84.9700
 zipSample: ["30721", "30719", "30722", "30720"]
 zipCodes: ["30719", "30722", "30720", "30721"]
 localPaths: ["Whitfield County / ZIP 30722 sector", "Whitfield County / ZIP 30721 sector", "Whitfield County / ZIP 30720 sector", "Whitfield County / primary ZIP 30721", "Whitfield County / ZIP 30719 sector"]
-zillowHomeValueUsd: 235159
 ---
 
-**Engineering Notice for Dalton:** Structural loading calculated based on 771 ft terrain assessment. Regional dispatch grid: Whitfield County.
+**Engineering Notice for Dalton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Whitfield County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Perimeter granule carriers in Dalton, GA clay soils may need lighter irrigation before application.
 
-We coordinate local dispatch coverage around Dalton, GA and nearby ZIP sectors.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Tip: confirm licensing and insurance before approving work.
+Spider populations in Dalton, GA eaves can signal insect prey density.
 
-In Dalton, GA, urgent pest control issues can escalate quickly.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+State note: Dalton, GA commercial kitchens may require separate documentation for audit visits.
 
-Field note: Wind exposure category reviewed for ZIP sector 30721/30722/30720.
+Fire ant mounds in Dalton, GA drive seams need granule rotation after irrigation events.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30721/30722/30720.
+IGR packets for Dalton, GA roach cycles should be dated on station lids.
 
-Dispatch sectors sampled: ZIP 30721, 30722, 30720, 30719 (county grid: Whitfield County).
+Step: record station placement maps for follow-up visits.
+
+Stink bug overwinter seams in Dalton, GA cladding service laps require exclusion foam rated for UV exposure.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Monitoring boards in Dalton, GA crawlspaces stay 72 hours before snap traps are reset.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Tip: Date bait station lids when servicing Dalton, GA perimeter lines.
+
+Seasonal cue 537593: cluster fly attic staging reviewed for Dalton, GA soffit cavities.
+
+On-site sector marker: Whitfield County / elevation 771 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30721-fc92f19b

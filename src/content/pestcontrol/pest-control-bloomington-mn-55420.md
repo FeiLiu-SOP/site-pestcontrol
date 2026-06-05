@@ -11,24 +11,41 @@ lng: -93.3200
 zipSample: ["55437", "55431", "55425", "55435", "55420"]
 zipCodes: ["55431", "55437", "55420", "55435", "55425", "55438"]
 localPaths: ["Hennepin County / primary ZIP 55420", "Hennepin County / ZIP 55420 sector", "Hennepin County / ZIP 55431 sector", "Hennepin County / elevation 804 ft band", "Hennepin County / ZIP 55437 sector"]
-zillowHomeValueUsd: 333315
 ---
 
-**Engineering Notice for Bloomington:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Bloomington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hennepin County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can bed bugs spread room-to-room in Bloomington, MN row homes? Wall voids and shared ducts accelerate transfer.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Bloomington, MN.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bloomington, MN, but intake notes help reduce delays.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+We coordinate Bloomington, MN pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-We coordinate local dispatch coverage around Bloomington, MN and nearby ZIP sectors.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Connection points spot-checked where accessible (ZIP 55435/55420/55431 zone).
+Fire ant mounds in Bloomington, MN drive seams need granule rotation after irrigation events.
 
-Dispatch sectors sampled: ZIP 55435, 55420, 55431, 55438, 55425 (county grid: Hennepin County).
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Bloomington, MN.
+
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+Earwig harborages in Bloomington, MN meter boxes often follow drip irrigation overspray.
+
+Risk flag: In Bloomington, MN, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Attic misting in Bloomington, MN requires combustion air clearance verified before fans restart.
+
+Attic fogging in Bloomington, MN requires combustion appliance shutoff verification first.
+
+Stored cardboard in Bloomington, MN garages can accelerate pantry pest cycles.
+
+Intercept log 142499: bed bug intercept count staged before Bloomington, MN interior gel zones.
+
+Zone map 142499: attic insulation disturbance trace and pantry pest source logged for Bloomington, MN sector 55420.
+
+Primary postal anchor 55420 with multi-ZIP overlap in Bloomington; field packets tag Hennepin County for county-grid reconciliation.
 
 Service reference: MN-55420-30a889c1

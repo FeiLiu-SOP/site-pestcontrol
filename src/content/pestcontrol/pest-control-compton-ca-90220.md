@@ -11,26 +11,39 @@ lng: -118.2300
 zipSample: ["90222", "90223", "90220", "90221"]
 zipCodes: ["90222", "90220", "90221", "90223"]
 localPaths: ["Los Angeles County / ZIP 90221 sector", "Los Angeles County / ZIP 90220 sector", "Los Angeles County / elevation 85 ft band", "Los Angeles County / primary ZIP 90220", "Los Angeles County / ZIP 90222 sector"]
-zillowHomeValueUsd: 638865
 ---
 
-**Engineering Notice for Compton:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Compton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-Our service coordination centers on Compton, CA coverage windows and verified intake details.
+Risk flag: Overwatered Compton, CA planters can restart ant bridges within two weeks.
 
-Tip: request a written scope before work starts.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 90220.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Transparent pricing helps you compare like-for-like scope items.
+Stored cardboard in Compton, CA garages can accelerate pantry pest cycles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 90223/90220/90222.
+Risk flag: In Compton, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Wind exposure category reviewed for ZIP sector 90223/90220/90222.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Dispatch sectors sampled: ZIP 90223, 90220, 90222, 90221 (county grid: Los Angeles County).
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Bird mites in Compton, CA exhaust vents can persist after host nests are removed.
+
+Perimeter dossier 272079: bait station anchor map and mulch bridge risk flagged for Compton, CA county Los Angeles County (ZIP 90220).
+
+Intercept log 272079: bed bug intercept count staged before Compton, CA interior gel zones.
+
+On-site sector marker: Los Angeles County / coords 33.8900, -118.2300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90220-ad9dea03

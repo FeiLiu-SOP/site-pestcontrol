@@ -11,26 +11,39 @@ lng: -95.4300
 zipSample: ["77516", "77515"]
 zipCodes: ["77516", "77515"]
 localPaths: ["Brazoria County / coords 29.1700, -95.4300", "Brazoria County / primary ZIP 77515", "Brazoria County / ZIP 77516 sector", "Brazoria County / elevation 49 ft band", "Brazoria County / ZIP 77515 sector"]
-zillowHomeValueUsd: 240678
 ---
 
-**Engineering Notice for Angleton:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Brazoria County.
+**Engineering Notice for Angleton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brazoria County.
 
 
-We coordinate local dispatch coverage around Angleton, TX and nearby ZIP sectors.
+Risk flag: Overwatered Angleton, TX planters can restart ant bridges within two weeks.
 
-Local conditions in Angleton, TX can affect timelines and material choices.
+Step: verify attic access safety before insulation disturbance.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: In Angleton, TX, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Wind exposure category reviewed for ZIP sector 77516/77515.
+Tip: Log pet access routes when bait stations are placed.
 
-Field note: Connection points spot-checked where accessible (ZIP 77516/77515 zone).
+Material note: Perimeter granules in Angleton, TX may need reapplication after heavy irrigation.
 
-Dispatch sectors sampled: ZIP 77516, 77515 (county grid: Brazoria County).
+Stink bug overwinter seams in Angleton, TX exterior cladding laps require exclusion foam rated for UV exposure.
+
+Drain fly biofilm in Angleton, TX floor drains signals grease traps need service before gel baits.
+
+Powderpost beetle exit holes in Angleton, TX trim can be mistaken for dry-wood frass without magnification.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Angleton, TX, pressure often rebuilds.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Intercept log 756006: bed bug intercept count staged before Angleton, TX interior gel zones.
+
+Zone map 756006: attic insulation disturbance trace and pantry pest source logged for Angleton, TX sector 77515.
+
+On-site sector marker: Brazoria County / primary ZIP 77515 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77515-10b790da

@@ -11,26 +11,43 @@ lng: -122.5400
 zipSample: ["98604"]
 zipCodes: ["98604"]
 localPaths: ["Clark County / ZIP 98604 sector", "Clark County / coords 45.7800, -122.5400", "Clark County / primary ZIP 98604", "Clark County / elevation 282 ft band"]
-zillowHomeValueUsd: 605344
 ---
 
-**Engineering Notice for Battle Ground:** Structural loading calculated based on 282 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Battle Ground:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Silverfish activity in Battle Ground, WA attics tracks cardboard storage and ridge vent gaps.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: What is exclusion? Without sealing entry points in Battle Ground, WA, pressure often rebuilds.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 98604.
 
-Tip: avoid large upfront payments without milestones.
+State note: Battle Ground, WA commercial kitchens may require separate documentation for audit visits.
 
-Transparent pricing helps you compare like-for-like scope items.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Field note: Access points and staging constraints recorded for ZIP 98604 coverage.
+Clover mite staining on Battle Ground, WA cladding service follows foundation mulch against brick ledges.
 
-Field note: Moisture pathway inspection logged near ZIP 98604 intake.
+Cluster fly attic staging in Battle Ground, WA peaks on south-facing voids after sunny thaw days.
 
-Dispatch sectors sampled: ZIP 98604 (county grid: Clark County).
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Attic insulation disturbance in Battle Ground, WA may indicate wildlife nesting routes.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Stink bug overwinter seams in Battle Ground, WA cladding service laps require exclusion foam rated for UV exposure.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Mud dauber nests in Battle Ground, WA porch ceilings are benign but signal prey density for spiders.
+
+Monitoring boards in Battle Ground, WA crawlspaces stay 72 hours before snap traps are reset.
+
+Zone map 183812: attic insulation disturbance trace and pantry pest source logged for Battle Ground, WA sector 98604.
+
+Seasonal cue 183812: cluster fly attic staging reviewed for Battle Ground, WA soffit cavities.
+
+On-site sector marker: Clark County / ZIP 98604 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98604-b2bfca14

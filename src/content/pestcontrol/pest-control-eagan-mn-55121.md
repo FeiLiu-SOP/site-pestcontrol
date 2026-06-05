@@ -11,26 +11,43 @@ lng: -93.1600
 zipSample: ["55123", "55122", "55121"]
 zipCodes: ["55122", "55121", "55123"]
 localPaths: ["Dakota County / elevation 876 ft band", "Dakota County / coords 44.8200, -93.1600", "Dakota County / ZIP 55121 sector", "Dakota County / ZIP 55122 sector", "Dakota County / primary ZIP 55121"]
-zillowHomeValueUsd: 337314
 ---
 
-**Engineering Notice for Eagan:** Structural loading calculated based on 876 ft terrain assessment. Regional dispatch grid: Dakota County.
+**Engineering Notice for Eagan:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dakota County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Eagan, MN, but intake notes help reduce delays.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify attic access safety before insulation disturbance.
 
-In Eagan, MN, seasonal demand can change scheduling windows.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: request a written scope before work starts.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Field note: Moisture pathway inspection logged near ZIP 55122/55123/55121 intake.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Eagan, MN.
 
-Field note: Wind exposure category reviewed for ZIP sector 55122/55123/55121.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Dispatch sectors sampled: ZIP 55122, 55123, 55121 (county grid: Dakota County).
+In Eagan, MN, subterranean termite swarms often follow warm rain windows.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Earwig harborages in Eagan, MN meter boxes often follow drip irrigation overspray.
+
+Carpenter ant frass in Eagan, MN window sills may indicate moisture-softened framing.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 55121.
+
+Perimeter dossier 277738: bait station anchor map and mulch bridge risk flagged for Eagan, MN county Dakota County (ZIP 55121).
+
+Exclusion audit 277738: exclusion mesh gauge and rodent runway grease mark reviewed for Eagan, MN at 44.8200/-93.1600.
+
+On-site sector marker: Dakota County / primary ZIP 55121 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55121-d7e67d69

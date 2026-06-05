@@ -11,24 +11,43 @@ lng: -83.0700
 zipSample: ["43212", "43220", "43221"]
 zipCodes: ["43221", "43220", "43212"]
 localPaths: ["Franklin County / coords 40.0300, -83.0700", "Franklin County / ZIP 43221 sector", "Franklin County / elevation 866 ft band", "Franklin County / ZIP 43212 sector", "Franklin County / primary ZIP 43220"]
-zillowHomeValueUsd: 364461
 ---
 
-**Engineering Notice for Upper Arlington:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Upper Arlington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Franklin County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 43220.
 
-Homeowners in Upper Arlington, OH often face sudden pest control problems that require fast action.
+Monitoring boards in Upper Arlington, OH crawlspaces stay 72 hours before snap traps are reset.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Upper Arlington, OH, but intake notes help reduce delays.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 43220.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Perimeter granules in Upper Arlington, OH may need reapplication after heavy irrigation.
 
-Field note: Access points and staging constraints recorded for ZIP 43220/43212/43221 coverage.
+Tip: Log pet access routes when bait stations are placed.
 
-Dispatch sectors sampled: ZIP 43220, 43212, 43221 (county grid: Franklin County).
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 43220.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Perimeter granule carriers in Upper Arlington, OH clay soils may need lighter irrigation before application.
+
+Yellow jacket nests in Upper Arlington, OH soffit cavities peak in late summer routing windows.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Seasonal cue 652997: cluster fly attic staging reviewed for Upper Arlington, OH soffit cavities.
+
+Species trace 652997: re-entry interval label and conducive moisture note keyed to Upper Arlington, OH elevation 866 ft.
+
+On-site sector marker: Franklin County / coords 40.0300, -83.0700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-43220-b9b8ef7d

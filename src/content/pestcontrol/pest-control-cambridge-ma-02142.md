@@ -11,24 +11,39 @@ lng: -71.1200
 zipSample: ["02139", "02141", "02140", "02142", "02138"]
 zipCodes: ["02141", "02140", "02138", "02477", "02139", "02142", "02238"]
 localPaths: ["Middlesex County / ZIP 02139 sector", "Middlesex County / coords 42.3800, -71.1200", "Middlesex County / ZIP 02141 sector", "Middlesex County / primary ZIP 02142", "Middlesex County / ZIP 02142 sector"]
-zillowHomeValueUsd: 1311573
 ---
 
-**Engineering Notice for Cambridge:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Cambridge:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Tip: confirm licensing and insurance before approving work.
+Mud dauber nests in Cambridge, MA porch ceilings are benign but signal prey density for spiders.
 
-Structured milestones protect both sides when scheduling work.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Powderpost beetle exit holes in Cambridge, MA trim can be mistaken for dry-wood frass without magnification.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Humidity in Cambridge, MA can sustain cockroach harborages behind appliance voids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 02142/02238/02139.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 02142.
 
-Dispatch sectors sampled: ZIP 02142, 02238, 02139, 02477, 02141 (county grid: Middlesex County).
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+IGR packets for Cambridge, MA roach cycles should be dated on station lids.
+
+Wildlife odors in Cambridge, MA crawlspaces may attract secondary pest activity.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Silverfish activity in Cambridge, MA attics tracks cardboard storage and ridge vent gaps.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Drain fly biofilm in Cambridge, MA floor drains signals grease traps need service before gel baits.
+
+Intercept log 471121: bed bug intercept count staged before Cambridge, MA interior gel zones.
+
+On-site sector marker: Middlesex County / ZIP 02138 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MA-02142-5e66368d

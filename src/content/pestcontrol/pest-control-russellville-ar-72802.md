@@ -11,27 +11,39 @@ lng: -93.1400
 zipSample: ["72811", "72802", "72801"]
 zipCodes: ["72801", "72802", "72811"]
 localPaths: ["Pope County / ZIP 72802 sector", "Pope County / elevation 381 ft band", "Pope County / primary ZIP 72802", "Pope County / ZIP 72801 sector", "Pope County / coords 35.2800, -93.1400"]
-zillowHomeValueUsd: 241294
 ---
 
-**Engineering Notice for Russellville:** Structural loading calculated based on 381 ft terrain assessment. Regional dispatch grid: Pope County.
+**Engineering Notice for Russellville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pope County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+IGR packets for Russellville, AR roach cycles should be dated on station lids.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 72802.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Russellville, AR, but intake notes help reduce delays.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Structured milestones protect both sides when scheduling work.
+Flea pupae survive vacuuming in Russellville, AR carpet fibers unless heat treatment follows.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 72811/72802/72801.
+Risk flag: In Russellville, AR, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Moisture pathway inspection logged near ZIP 72811/72802/72801 intake.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Dispatch sectors sampled: ZIP 72811, 72802, 72801 (county grid: Pope County).
+FAQ: Can bed bugs spread room-to-room in Russellville, AR row homes? Wall voids and shared ducts accelerate transfer.
+
+Mosquito breeding in Russellville, AR catch basins can amplify perimeter callbacks.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Russellville, AR, pressure often rebuilds.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Perimeter dossier 952679: bait station anchor map and mulch bridge risk flagged for Russellville, AR county Pope County (ZIP 72802).
+
+**Regional Infrastructure Brief:** Response coverage aligns with Pope County and primary ZIP 72802. Terrain reference: 381 ft. Center point: 35.2800, -93.1400. ZIP sample: 72802, 72801, 72811. Regional routing note: Pope County traffic flow is balanced around ZIP 72802 service demand.
 
 Service reference: AR-72802-59ea5f64

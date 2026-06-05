@@ -11,25 +11,41 @@ lng: -80.0700
 zipSample: ["29456", "29420", "29418", "29404", "29406"]
 zipCodes: ["29420", "29485", "29419", "29416", "29404", "29423", "29418", "29405", "29406", "29456"]
 localPaths: ["Charleston County / ZIP 29456 sector", "Charleston County / ZIP 29404 sector", "Charleston County / ZIP 29406 sector", "Charleston County / coords 32.9100, -80.0700", "Charleston County / primary ZIP 29420"]
-zillowHomeValueUsd: 331640
 ---
 
-**Engineering Notice for North Charleston:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Charleston County.
+**Engineering Notice for North Charleston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Charleston County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 29420.
+Monitoring boards in North Charleston, SC crawlspaces stay 72 hours before snap traps are reset.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: In North Charleston, SC, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Stink bug overwinter seams in North Charleston, SC vinyl panels laps require exclusion foam rated for UV exposure.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Local conditions in North Charleston, SC can affect timelines and material choices.
+Material note: Perimeter granules in North Charleston, SC may need reapplication after heavy irrigation.
 
-Field note: Access points and staging constraints recorded for ZIP 29419/29416/29418 coverage.
+Across North Charleston, SC, rodent entry points frequently track utility penetrations.
 
-Dispatch sectors sampled: ZIP 29419, 29416, 29418, 29485, 29423 (county grid: Charleston County).
+FAQ: Why schedule quarterly instead of monthly in North Charleston, SC? Species pressure and label intervals dictate cadence.
+
+Dry-wood termite pellets in North Charleston, SC attics may appear before exterior mud tubes.
+
+County grid Charleston County informs routing near ZIP 29420.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Seasonal pest pressure in North Charleston, SC shifts between moisture ants and dry-wood vectors.
+
+Clover mite staining on North Charleston, SC vinyl panels follows foundation mulch against brick ledges.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 29420.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Species trace 637292: re-entry interval label and conducive moisture note keyed to North Charleston, SC elevation 43 ft.
+
+Regional mesh label Charleston County: moisture and logistics baselines are keyed to North Charleston, SC before niche-specific work begins.
 
 Service reference: SC-29420-58321c61

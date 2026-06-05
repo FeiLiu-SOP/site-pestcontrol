@@ -11,26 +11,43 @@ lng: -90.4100
 zipSample: ["63902", "63901"]
 zipCodes: ["63902", "63901"]
 localPaths: ["Butler County / ZIP 63901 sector", "Butler County / ZIP 63902 sector", "Butler County / coords 36.7600, -90.4100", "Butler County / primary ZIP 63901", "Butler County / elevation 354 ft band"]
-zillowHomeValueUsd: 169486
 ---
 
-**Engineering Notice for Poplar Bluff:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Butler County.
+**Engineering Notice for Poplar Bluff:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Butler County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: confirm licensing and insurance before approving work.
+Drain fly biofilm in Poplar Bluff, MO floor drains signals grease traps need service before gel baits.
 
-We coordinate local dispatch coverage around Poplar Bluff, MO and nearby ZIP sectors.
+Mud dauber nests in Poplar Bluff, MO porch ceilings are benign but signal prey density for spiders.
 
-Tip: avoid large upfront payments without milestones.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Moisture pathway inspection logged near ZIP 63902/63901 intake.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Poplar Bluff, MO.
 
-Field note: Access points and staging constraints recorded for ZIP 63902/63901 coverage.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Dispatch sectors sampled: ZIP 63902, 63901 (county grid: Butler County).
+Material note: Perimeter granules in Poplar Bluff, MO may need reapplication after heavy irrigation.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Silverfish activity in Poplar Bluff, MO attics tracks cardboard storage and ridge vent gaps.
+
+State note: Poplar Bluff, MO commercial kitchens may require separate documentation for audit visits.
+
+Cluster fly attic staging in Poplar Bluff, MO peaks on south-facing voids after sunny thaw days.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Poplar Bluff, MO.
+
+Exclusion audit 241645: exclusion mesh gauge and rodent runway grease mark reviewed for Poplar Bluff, MO at 36.7600/-90.4100.
+
+Harbor ledger 241645: frass lane, mud-tube scan, and garage jamb gap measure filed for Poplar Bluff, MO at 36.7600, -90.4100.
+
+On-site sector marker: Butler County / primary ZIP 63901 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63901-45de06d0

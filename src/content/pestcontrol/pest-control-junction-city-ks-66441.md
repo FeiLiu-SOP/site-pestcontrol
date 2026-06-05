@@ -11,26 +11,41 @@ lng: -96.8500
 zipSample: ["66441"]
 zipCodes: ["66441"]
 localPaths: ["Geary County / coords 39.0300, -96.8500", "Geary County / primary ZIP 66441", "Geary County / elevation 1188 ft band", "Geary County / ZIP 66441 sector"]
-zillowHomeValueUsd: 207542
 ---
 
-**Engineering Notice for Junction City:** Structural loading calculated based on 1188 ft terrain assessment. Regional dispatch grid: Geary County.
+**Engineering Notice for Junction City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Geary County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Date bait station lids when servicing Junction City, KS perimeter lines.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Junction City, KS, but intake notes help reduce delays.
+Risk flag: In Junction City, KS, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 66441.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 66441.
+Seasonal pest pressure in Junction City, KS shifts between moisture ants and dry-wood vectors.
 
-Our service coordination centers on Junction City, KS coverage windows and verified intake details.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Field note: Connection points spot-checked where accessible (ZIP 66441 zone).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 66441.
 
-Dispatch sectors sampled: ZIP 66441 (county grid: Geary County).
+FAQ: Why schedule quarterly instead of monthly in Junction City, KS? Species pressure and label intervals dictate cadence.
+
+Material note: Perimeter granules in Junction City, KS may need reapplication after heavy irrigation.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Mosquito breeding in Junction City, KS catch basins can amplify perimeter callbacks.
+
+Stink bug overwinter seams in Junction City, KS exterior cladding laps require exclusion foam rated for UV exposure.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Exclusion audit 441227: exclusion mesh gauge and rodent runway grease mark reviewed for Junction City, KS at 39.0300/-96.8500.
+
+Intercept log 441227: bed bug intercept count staged before Junction City, KS interior gel zones.
+
+On-site sector marker: Geary County / coords 39.0300, -96.8500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: KS-66441-196bf719

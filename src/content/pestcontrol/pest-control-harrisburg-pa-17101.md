@@ -11,24 +11,41 @@ lng: -76.8800
 zipSample: ["17120", "17128", "17102", "17123", "17110"]
 zipCodes: ["17127", "17102", "17104", "17105", "17103", "17108", "17126", "17124", "17128", "17125", "17101", "17120"]
 localPaths: ["Dauphin County / coords 40.2800, -76.8800", "Dauphin County / ZIP 17120 sector", "Dauphin County / ZIP 17102 sector", "Dauphin County / elevation 338 ft band", "Dauphin County / ZIP 17123 sector"]
-zillowHomeValueUsd: 214163
 ---
 
-**Engineering Notice for Harrisburg:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Dauphin County.
+**Engineering Notice for Harrisburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dauphin County.
 
 
-We coordinate local dispatch coverage around Harrisburg, PA and nearby ZIP sectors.
+Earwig harborages in Harrisburg, PA meter boxes often follow drip irrigation overspray.
 
-Tip: confirm licensing and insurance before approving work.
+Stink bug overwinter seams in Harrisburg, PA wall restoration laps require exclusion foam rated for UV exposure.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Yellow jacket nests in Harrisburg, PA soffit cavities peak in late summer routing windows.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Harrisburg, PA, but intake notes help reduce delays.
+Flea pupae survive vacuuming in Harrisburg, PA carpet fibers unless heat treatment follows.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Field note: Moisture pathway inspection logged near ZIP 17103/17130/17128 intake.
+FAQ: Why schedule quarterly instead of monthly in Harrisburg, PA? Species pressure and label intervals dictate cadence.
 
-Dispatch sectors sampled: ZIP 17103, 17130, 17128, 17101, 17122 (county grid: Dauphin County).
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 17101.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Perimeter mulch beds in Harrisburg, PA should be reviewed for ant bridge paths.
+
+Risk flag: In Harrisburg, PA, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Risk flag: Overwatered Harrisburg, PA planters can restart ant bridges within two weeks.
+
+Exclusion audit 456606: exclusion mesh gauge and rodent runway grease mark reviewed for Harrisburg, PA at 40.2800/-76.8800.
+
+Zone map 456606: attic insulation disturbance trace and pantry pest source logged for Harrisburg, PA sector 17101.
+
+Coordinate-anchored dispatch note: center reference 40.2800, -76.8800 at elevation ~338 ft aligns with Dauphin County intake staging.
 
 Service reference: PA-17101-0333796c

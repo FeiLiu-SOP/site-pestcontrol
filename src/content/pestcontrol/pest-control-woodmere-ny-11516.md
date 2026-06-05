@@ -11,25 +11,39 @@ lng: -73.7200
 zipSample: ["11581", "11598", "11516"]
 zipCodes: ["11516", "11581", "11598"]
 localPaths: ["Nassau County / coords 40.6400, -73.7200", "Nassau County / elevation 3 ft band", "Nassau County / ZIP 11598 sector", "Nassau County / ZIP 11581 sector", "Nassau County / ZIP 11516 sector"]
-zillowHomeValueUsd: 1210472
 ---
 
-**Engineering Notice for Woodmere:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Woodmere:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Clover mite staining on Woodmere, NY wall restoration follows foundation mulch against brick ledges.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 11516.
+Yellow jacket nests in Woodmere, NY soffit cavities peak in late summer routing windows.
 
-Tip: request a written scope before work starts.
+Attic misting in Woodmere, NY requires combustion air clearance verified before fans restart.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Woodmere, NY, but intake notes help reduce delays.
+Flea pupae survive vacuuming in Woodmere, NY carpet fibers unless heat treatment follows.
 
-Field note: Access points and staging constraints recorded for ZIP 11516/11598/11581 coverage.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Dispatch sectors sampled: ZIP 11516, 11598, 11581 (county grid: Nassau County).
+Carpenter ant frass in Woodmere, NY window sills may indicate moisture-softened framing.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Powderpost beetle exit holes in Woodmere, NY trim can be mistaken for dry-wood frass without magnification.
+
+Fire ant mounds in Woodmere, NY drive seams need granule rotation after irrigation events.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Wildlife odors in Woodmere, NY crawlspaces may attract secondary pest activity.
+
+Harbor ledger 301545: frass lane, mud-tube scan, and garage jamb gap measure filed for Woodmere, NY at 40.6400, -73.7200.
+
+On-site sector marker: Nassau County / primary ZIP 11516 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11516-f71b0766

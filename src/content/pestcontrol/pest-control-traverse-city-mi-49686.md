@@ -11,25 +11,43 @@ lng: -85.6000
 zipSample: ["49684", "49686"]
 zipCodes: ["49684", "49686"]
 localPaths: ["Grand Traverse County / elevation 607 ft band", "Grand Traverse County / ZIP 49684 sector", "Grand Traverse County / primary ZIP 49686", "Grand Traverse County / ZIP 49686 sector", "Grand Traverse County / coords 44.7500, -85.6000"]
-zillowHomeValueUsd: 396348
 ---
 
-**Engineering Notice for Traverse City:** Structural loading calculated based on 607 ft terrain assessment. Regional dispatch grid: Grand Traverse County.
+**Engineering Notice for Traverse City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Grand Traverse County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Yellow jacket nests in Traverse City, MI soffit cavities peak in late summer routing windows.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 49686.
+Silverfish activity in Traverse City, MI attics tracks cardboard storage and ridge vent gaps.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-We coordinate local dispatch coverage around Traverse City, MI and nearby ZIP sectors.
+Clover mite staining on Traverse City, MI vinyl panels follows foundation mulch against brick ledges.
 
-Tip: compare at least two estimates for scope and timeline.
+Carpenter ant frass in Traverse City, MI window sills may indicate moisture-softened framing.
 
-Field note: Wind exposure category reviewed for ZIP sector 49686/49684.
+Dry-wood termite pellets in Traverse City, MI attics may appear before exterior mud tubes.
 
-Dispatch sectors sampled: ZIP 49686, 49684 (county grid: Grand Traverse County).
+Stink bug overwinter seams in Traverse City, MI cladding service laps require exclusion foam rated for UV exposure.
+
+Attic insulation disturbance in Traverse City, MI may indicate wildlife nesting routes.
+
+FAQ: Why schedule quarterly instead of monthly in Traverse City, MI? Species pressure and label intervals dictate cadence.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Tip: Date bait station lids when servicing Traverse City, MI perimeter lines.
+
+Cluster fly attic staging in Traverse City, MI peaks on south-facing voids after sunny thaw days.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+Perimeter dossier 667200: bait station anchor map and mulch bridge risk flagged for Traverse City, MI county Grand Traverse County (ZIP 49686).
+
+Species trace 667200: re-entry interval label and conducive moisture note keyed to Traverse City, MI elevation 607 ft.
+
+Regional mesh label Grand Traverse County: moisture and logistics baselines are keyed to Traverse City, MI before niche-specific work begins.
 
 Service reference: MI-49686-1264ea37

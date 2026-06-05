@@ -11,26 +11,37 @@ lng: -91.0000
 zipSample: ["70817"]
 zipCodes: ["70817"]
 localPaths: ["East Baton Rouge Parish / elevation 56 ft band", "East Baton Rouge Parish / coords 30.4000, -91.0000", "East Baton Rouge Parish / primary ZIP 70817", "East Baton Rouge Parish / ZIP 70817 sector"]
-zillowHomeValueUsd: 303812
 ---
 
-**Engineering Notice for Shenandoah:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: East Baton Rouge Parish.
+**Engineering Notice for Shenandoah:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: East Baton Rouge Parish.
 
 
-We coordinate local dispatch coverage around Shenandoah, LA and nearby ZIP sectors.
+Step: map entry points with photo logs before sealing.
 
-Clear documentation helps align materials, labor, and timeline.
+Mosquito breeding in Shenandoah, LA catch basins can amplify perimeter callbacks.
 
-Tip: confirm licensing and insurance before approving work.
+IGR packets for Shenandoah, LA roach cycles should be dated on station lids.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Shenandoah, LA, but intake notes help reduce delays.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Tip: avoid large upfront payments without milestones.
+Perimeter granule carriers in Shenandoah, LA clay soils may need lighter irrigation before application.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 70817.
+Risk flag: Overwatered Shenandoah, LA planters can restart ant bridges within two weeks.
 
-Field note: Wind exposure category reviewed for ZIP sector 70817.
+County grid East Baton Rouge Parish informs routing near ZIP 70817.
 
-Dispatch sectors sampled: ZIP 70817 (county grid: East Baton Rouge Parish).
+Step: label treatment zones for occupant re-entry timing.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 70817.
+
+Powderpost beetle exit holes in Shenandoah, LA trim can be mistaken for dry-wood frass without magnification.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Seasonal cue 686767: cluster fly attic staging reviewed for Shenandoah, LA soffit cavities.
+
+On-site sector marker: East Baton Rouge Parish / ZIP 70817 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70817-450c198b

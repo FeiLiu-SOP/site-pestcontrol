@@ -11,27 +11,41 @@ lng: -97.0900
 zipSample: ["58206", "58208", "58201", "58203", "58202"]
 zipCodes: ["58208", "58203", "58206", "58202", "58201"]
 localPaths: ["Grand Forks County / coords 47.9200, -97.0900", "Grand Forks County / ZIP 58208 sector", "Grand Forks County / ZIP 58206 sector", "Grand Forks County / ZIP 58203 sector", "Grand Forks County / primary ZIP 58202"]
-zillowHomeValueUsd: 316227
 ---
 
-**Engineering Notice for Grand Forks:** Structural loading calculated based on 833 ft terrain assessment. Regional dispatch grid: Grand Forks County.
+**Engineering Notice for Grand Forks:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Grand Forks County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Why schedule quarterly instead of monthly in Grand Forks, ND? Species pressure and label intervals dictate cadence.
 
-We coordinate local dispatch coverage around Grand Forks, ND and nearby ZIP sectors.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Homeowners in Grand Forks, ND often face sudden pest control problems that require fast action.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 58202.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 58202/58201/58208.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Moisture pathway inspection logged near ZIP 58202/58201/58208 intake.
+Perimeter granule carriers in Grand Forks, ND clay soils may need lighter irrigation before application.
 
-Dispatch sectors sampled: ZIP 58202, 58201, 58208, 58203, 58206 (county grid: Grand Forks County).
+IGR packets for Grand Forks, ND roach cycles should be dated on station lids.
+
+FAQ: What is exclusion? Without sealing entry points in Grand Forks, ND, pressure often rebuilds.
+
+Attic misting in Grand Forks, ND requires combustion air clearance verified before fans restart.
+
+Cluster fly attic staging in Grand Forks, ND peaks on south-facing voids after sunny thaw days.
+
+Mud dauber nests in Grand Forks, ND porch ceilings are benign but signal prey density for spiders.
+
+Fire ant mounds in Grand Forks, ND drive seams need granule rotation after irrigation events.
+
+Species trace 430921: re-entry interval label and conducive moisture note keyed to Grand Forks, ND elevation 833 ft.
+
+Exclusion audit 430921: exclusion mesh gauge and rodent runway grease mark reviewed for Grand Forks, ND at 47.9200/-97.0900.
+
+On-site sector marker: Grand Forks County / ZIP 58202 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: ND-58202-72fc716f

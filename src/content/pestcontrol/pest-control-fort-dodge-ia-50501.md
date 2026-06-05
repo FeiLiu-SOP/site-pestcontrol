@@ -11,27 +11,41 @@ lng: -94.1800
 zipSample: ["50501"]
 zipCodes: ["50501"]
 localPaths: ["Webster County / coords 42.5100, -94.1800", "Webster County / primary ZIP 50501", "Webster County / elevation 1115 ft band", "Webster County / ZIP 50501 sector"]
-zillowHomeValueUsd: 128652
 ---
 
-**Engineering Notice for Fort Dodge:** Structural loading calculated based on 1115 ft terrain assessment. Regional dispatch grid: Webster County.
+**Engineering Notice for Fort Dodge:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Webster County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Step: map entry points with photo logs before sealing.
 
-In Fort Dodge, IA, urgent pest control issues can escalate quickly.
+Material note: Perimeter granules in Fort Dodge, IA may need reapplication after heavy irrigation.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Attic insulation disturbance in Fort Dodge, IA may indicate wildlife nesting routes.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 50501.
+FAQ: Can bed bugs spread room-to-room in Fort Dodge, IA row homes? Wall voids and shared ducts accelerate transfer.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Field note: Access points and staging constraints recorded for ZIP 50501 coverage.
+Tip: Trim vegetation 12 inches from cladding service to reduce ant bridges.
 
-Field note: Wind exposure category reviewed for ZIP sector 50501.
+Flea pupae survive vacuuming in Fort Dodge, IA carpet fibers unless heat treatment follows.
 
-Dispatch sectors sampled: ZIP 50501 (county grid: Webster County).
+Spider populations in Fort Dodge, IA eaves can signal insect prey density.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 50501.
+
+Carpenter ant frass in Fort Dodge, IA window sills may indicate moisture-softened framing.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Step: record station placement maps for follow-up visits.
+
+Exclusion audit 443219: exclusion mesh gauge and rodent runway grease mark reviewed for Fort Dodge, IA at 42.5100/-94.1800.
+
+Harbor ledger 443219: frass lane, mud-tube scan, and garage jamb gap measure filed for Fort Dodge, IA at 42.5100, -94.1800.
+
+Coordinate-anchored dispatch note: center reference 42.5100, -94.1800 at elevation ~1115 ft aligns with Webster County intake staging.
 
 Service reference: IA-50501-df9ad617

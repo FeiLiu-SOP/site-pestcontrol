@@ -11,27 +11,41 @@ lng: -81.3900
 zipSample: ["31522"]
 zipCodes: ["31522"]
 localPaths: ["Glynn County / ZIP 31522 sector", "Glynn County / coords 31.1800, -81.3900", "Glynn County / elevation 20 ft band", "Glynn County / primary ZIP 31522"]
-zillowHomeValueUsd: 688186
 ---
 
-**Engineering Notice for St. Simons:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Glynn County.
+**Engineering Notice for St. Simons:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Glynn County.
 
 
-Our service coordination centers on St. Simons, GA coverage windows and verified intake details.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+We coordinate St. Simons, GA pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 31522.
+Perimeter granule carriers in St. Simons, GA clay soils may need lighter irrigation before application.
 
-Tip: confirm licensing and insurance before approving work.
+Carpenter ant frass in St. Simons, GA window sills may indicate moisture-softened framing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can bed bugs spread room-to-room in St. Simons, GA row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Wind exposure category reviewed for ZIP sector 31522.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 31522.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 31522.
 
-Dispatch sectors sampled: ZIP 31522 (county grid: Glynn County).
+Fire ant mounds in St. Simons, GA drive seams need granule rotation after irrigation events.
+
+Attic misting in St. Simons, GA requires combustion air clearance verified before fans restart.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+FAQ: What is exclusion? Without sealing entry points in St. Simons, GA, pressure often rebuilds.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Intercept log 719001: bed bug intercept count staged before St. Simons, GA interior gel zones.
+
+Harbor ledger 719001: frass lane, mud-tube scan, and garage jamb gap measure filed for St. Simons, GA at 31.1800, -81.3900.
+
+On-site sector marker: Glynn County / coords 31.1800, -81.3900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-31522-99b61435

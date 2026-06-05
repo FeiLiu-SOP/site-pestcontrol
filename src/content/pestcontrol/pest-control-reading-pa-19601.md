@@ -11,24 +11,41 @@ lng: -75.9300
 zipSample: ["19602", "19604", "19603", "19612", "19611"]
 zipCodes: ["19602", "19603", "19604", "19601", "19612", "19611"]
 localPaths: ["Berks County / ZIP 19611 sector", "Berks County / ZIP 19604 sector", "Berks County / coords 40.3400, -75.9300", "Berks County / ZIP 19612 sector", "Berks County / elevation 272 ft band"]
-zillowHomeValueUsd: 179712
 ---
 
-**Engineering Notice for Reading:** Structural loading calculated based on 272 ft terrain assessment. Regional dispatch grid: Berks County.
+**Engineering Notice for Reading:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Berks County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Reading, PA, but intake notes help reduce delays.
+Mud dauber nests in Reading, PA porch ceilings are benign but signal prey density for spiders.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Attic fogging in Reading, PA requires combustion appliance shutoff verification first.
 
-Tip: confirm licensing and insurance before approving work.
+Step: separate bait rotation schedules from crack-and-crevice applications in Reading, PA.
 
-Local conditions in Reading, PA can affect timelines and material choices.
+Seasonal pest pressure in Reading, PA shifts between moisture ants and dry-wood vectors.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Silverfish activity in Reading, PA attics tracks cardboard storage and ridge vent gaps.
 
-Field note: Wind exposure category reviewed for ZIP sector 19602/19612/19601.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 19601.
 
-Dispatch sectors sampled: ZIP 19602, 19612, 19601, 19604, 19611 (county grid: Berks County).
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Humidity in Reading, PA can sustain cockroach harborages behind appliance voids.
+
+Stink bug overwinter seams in Reading, PA cladding service laps require exclusion foam rated for UV exposure.
+
+Carpenter ant frass in Reading, PA window sills may indicate moisture-softened framing.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Material note: Perimeter granules in Reading, PA may need reapplication after heavy irrigation.
+
+Intercept log 635765: bed bug intercept count staged before Reading, PA interior gel zones.
+
+Perimeter dossier 635765: bait station anchor map and mulch bridge risk flagged for Reading, PA county Berks County (ZIP 19601).
+
+On-site sector marker: Berks County / ZIP 19604 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-19601-80e0af69

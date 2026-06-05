@@ -11,24 +11,39 @@ lng: -99.1300
 zipSample: ["78028"]
 zipCodes: ["78028"]
 localPaths: ["Kerr County / primary ZIP 78028", "Kerr County / ZIP 78028 sector", "Kerr County / elevation 1624 ft band", "Kerr County / coords 30.0400, -99.1300"]
-zillowHomeValueUsd: 348608
 ---
 
-**Engineering Notice for Kerrville:** Structural loading calculated based on 1624 ft terrain assessment. Regional dispatch grid: Kerr County.
+**Engineering Notice for Kerrville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kerr County.
 
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-In Kerrville, TX, seasonal demand can change scheduling windows.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Kerrville, TX.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Kerrville, TX, but intake notes help reduce delays.
+Exclusion gaps at garage jambs in Kerrville, TX are common rodent access points.
 
-Tip: request a written scope before work starts.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Our service coordination centers on Kerrville, TX coverage windows and verified intake details.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Access points and staging constraints recorded for ZIP 78028 coverage.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 78028.
 
-Dispatch sectors sampled: ZIP 78028 (county grid: Kerr County).
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Tip: Date bait station lids when servicing Kerrville, TX perimeter lines.
+
+Risk flag: Overwatered Kerrville, TX planters can restart ant bridges within two weeks.
+
+State note: Kerrville, TX commercial kitchens may require separate documentation for audit visits.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 78028.
+
+Perimeter mulch beds in Kerrville, TX should be reviewed for ant bridge paths.
+
+Perimeter dossier 721502: bait station anchor map and mulch bridge risk flagged for Kerrville, TX county Kerr County (ZIP 78028).
+
+Zone map 721502: attic insulation disturbance trace and pantry pest source logged for Kerrville, TX sector 78028.
+
+On-site sector marker: Kerr County / ZIP 78028 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78028-43c5dddb

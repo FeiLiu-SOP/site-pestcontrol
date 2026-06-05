@@ -11,24 +11,37 @@ lng: -72.1000
 zipSample: ["06320"]
 zipCodes: ["06320"]
 localPaths: ["Southeastern Connecticut County / coords 41.3500, -72.1000", "Southeastern Connecticut County / ZIP 06320 sector", "Southeastern Connecticut County / elevation 30 ft band", "Southeastern Connecticut County / primary ZIP 06320"]
-zillowHomeValueUsd: 312559
 ---
 
-**Engineering Notice for New London:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Southeastern Connecticut County.
+**Engineering Notice for New London:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Southeastern Connecticut County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Tip: avoid large upfront payments without milestones.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Our service coordination centers on New London, CT coverage windows and verified intake details.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Tip: address recurring issues early to prevent bigger damage.
+Powderpost beetle exit holes in New London, CT trim can be mistaken for dry-wood frass without magnification.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Drain fly biofilm in New London, CT floor drains signals grease traps need service before gel baits.
 
-Field note: Wind exposure category reviewed for ZIP sector 06320.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Dispatch sectors sampled: ZIP 06320 (county grid: Southeastern Connecticut County).
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 06320.
+
+FAQ: What is exclusion? Without sealing entry points in New London, CT, pressure often rebuilds.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+In New London, CT, subterranean termite swarms often follow warm rain windows.
+
+Carpenter ant frass in New London, CT window sills may indicate moisture-softened framing.
+
+Earwig harborages in New London, CT meter boxes often follow drip irrigation overspray.
+
+Harbor ledger 781338: frass lane, mud-tube scan, and garage jamb gap measure filed for New London, CT at 41.3500, -72.1000.
+
+ZIP-corridor snapshot for New London, CT: sampled sectors include 06320; county routing grid remains Southeastern Connecticut County.
 
 Service reference: CT-06320-546a8f05

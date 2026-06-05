@@ -11,26 +11,37 @@ lng: -73.4500
 zipSample: ["11762"]
 zipCodes: ["11762"]
 localPaths: ["Nassau County / ZIP 11762 sector", "Nassau County / coords 40.6800, -73.4500", "Nassau County / elevation 39 ft band", "Nassau County / primary ZIP 11762"]
-zillowHomeValueUsd: 792756
 ---
 
-**Engineering Notice for Massapequa Park:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Massapequa Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: record station placement maps for follow-up visits.
 
-Homeowners in Massapequa Park, NY often face sudden pest control problems that require fast action.
+Material note: Perimeter granules in Massapequa Park, NY may need reapplication after heavy irrigation.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Attic insulation disturbance in Massapequa Park, NY may indicate wildlife nesting routes.
 
-Tip: request a written scope before work starts.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Tip: address recurring issues early to prevent bigger damage.
+State note: Massapequa Park, NY commercial kitchens may require separate documentation for audit visits.
 
-Field note: Moisture pathway inspection logged near ZIP 11762 intake.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11762.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Dispatch sectors sampled: ZIP 11762 (county grid: Nassau County).
+Mud dauber nests in Massapequa Park, NY porch ceilings are benign but signal prey density for spiders.
+
+Monitoring boards in Massapequa Park, NY crawlspaces stay 72 hours before snap traps are reset.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Harbor ledger 797160: frass lane, mud-tube scan, and garage jamb gap measure filed for Massapequa Park, NY at 40.6800, -73.4500.
+
+Coordinate-anchored dispatch note: center reference 40.6800, -73.4500 at elevation ~39 ft aligns with Nassau County intake staging.
 
 Service reference: NY-11762-b7c97f04

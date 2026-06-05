@@ -11,24 +11,41 @@ lng: -89.9900
 zipSample: ["38651", "38632"]
 zipCodes: ["38651", "38632"]
 localPaths: ["DeSoto County / elevation 318 ft band", "DeSoto County / ZIP 38632 sector", "DeSoto County / ZIP 38651 sector", "DeSoto County / coords 34.8500, -89.9900", "DeSoto County / primary ZIP 38632"]
-zillowHomeValueUsd: 344872
 ---
 
-**Engineering Notice for Hernando:** Structural loading calculated based on 318 ft terrain assessment. Regional dispatch grid: DeSoto County.
+**Engineering Notice for Hernando:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeSoto County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: label treatment zones for occupant re-entry timing.
 
-Tip: compare at least two estimates for scope and timeline.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Stored cardboard in Hernando, MS garages can accelerate pantry pest cycles.
 
-In Hernando, MS, seasonal demand can change scheduling windows.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 38651/38632.
+Fire ant mounds in Hernando, MS drive seams need granule rotation after irrigation events.
 
-Dispatch sectors sampled: ZIP 38651, 38632 (county grid: DeSoto County).
+Tip: Date bait station lids when servicing Hernando, MS perimeter lines.
+
+Earwig harborages in Hernando, MS meter boxes often follow drip irrigation overspray.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+State note: Hernando, MS commercial kitchens may require separate documentation for audit visits.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 38632.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Risk flag: Overwatered Hernando, MS planters can restart ant bridges within two weeks.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Exclusion audit 859484: exclusion mesh gauge and rodent runway grease mark reviewed for Hernando, MS at 34.8500/-89.9900.
+
+ZIP-corridor snapshot for Hernando, MS: sampled sectors include 38632, 38651; county routing grid remains DeSoto County.
 
 Service reference: MS-38632-0de41cf1

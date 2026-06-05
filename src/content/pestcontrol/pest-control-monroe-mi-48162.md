@@ -11,26 +11,39 @@ lng: -83.3800
 zipSample: ["48161", "48162"]
 zipCodes: ["48162", "48161"]
 localPaths: ["Monroe County / ZIP 48162 sector", "Monroe County / elevation 581 ft band", "Monroe County / ZIP 48161 sector", "Monroe County / coords 41.9200, -83.3800", "Monroe County / primary ZIP 48162"]
-zillowHomeValueUsd: 231444
 ---
 
-**Engineering Notice for Monroe:** Structural loading calculated based on 581 ft terrain assessment. Regional dispatch grid: Monroe County.
+**Engineering Notice for Monroe:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Monroe County.
 
 
-Structured milestones protect both sides when scheduling work.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Can bed bugs spread room-to-room in Monroe, MI row homes? Wall voids and shared ducts accelerate transfer.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Our service coordination centers on Monroe, MI coverage windows and verified intake details.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-In Monroe, MI, urgent pest control issues can escalate quickly.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Wind exposure category reviewed for ZIP sector 48162/48161.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Access points and staging constraints recorded for ZIP 48162/48161 coverage.
+Perimeter granule carriers in Monroe, MI clay soils may need lighter irrigation before application.
 
-Dispatch sectors sampled: ZIP 48162, 48161 (county grid: Monroe County).
+Seasonal pest pressure in Monroe, MI shifts between moisture ants and dry-wood vectors.
+
+Bird mites in Monroe, MI exhaust vents can persist after host nests are removed.
+
+Mud dauber nests in Monroe, MI porch ceilings are benign but signal prey density for spiders.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Monroe, MI.
+
+Step: verify attic access safety before insulation disturbance.
+
+Attic misting in Monroe, MI requires combustion air clearance verified before fans restart.
+
+Species trace 113236: re-entry interval label and conducive moisture note keyed to Monroe, MI elevation 581 ft.
+
+ZIP-corridor snapshot for Monroe, MI: sampled sectors include 48161, 48162; county routing grid remains Monroe County.
 
 Service reference: MI-48162-5336eb39

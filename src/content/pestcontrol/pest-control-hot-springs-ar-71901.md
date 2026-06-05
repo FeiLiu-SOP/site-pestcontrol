@@ -11,24 +11,41 @@ lng: -93.0500
 zipSample: ["71902", "71901", "71913", "71914"]
 zipCodes: ["71902", "71913", "71914", "71901"]
 localPaths: ["Garland County / ZIP 71902 sector", "Garland County / elevation 594 ft band", "Garland County / coords 34.4900, -93.0500", "Garland County / ZIP 71901 sector", "Garland County / primary ZIP 71901"]
-zillowHomeValueUsd: 209123
 ---
 
-**Engineering Notice for Hot Springs:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: Garland County.
+**Engineering Notice for Hot Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Garland County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hot Springs, AR, but intake notes help reduce delays.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Tip: compare at least two estimates for scope and timeline.
+Across Hot Springs, AR, rodent entry points frequently track utility penetrations.
 
-Clear documentation helps align materials, labor, and timeline.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-We coordinate local dispatch coverage around Hot Springs, AR and nearby ZIP sectors.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Hot Springs, AR.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Moisture pathway inspection logged near ZIP 71902/71913/71914 intake.
+Risk flag: Overwatered Hot Springs, AR planters can restart ant bridges within two weeks.
 
-Dispatch sectors sampled: ZIP 71902, 71913, 71914, 71901 (county grid: Garland County).
+Material note: Perimeter granules in Hot Springs, AR may need reapplication after heavy irrigation.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Powderpost beetle exit holes in Hot Springs, AR trim can be mistaken for dry-wood frass without magnification.
+
+Monitoring boards in Hot Springs, AR crawlspaces stay 72 hours before snap traps are reset.
+
+Perimeter mulch beds in Hot Springs, AR should be reviewed for ant bridge paths.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Harbor ledger 333085: frass lane, mud-tube scan, and garage jamb gap measure filed for Hot Springs, AR at 34.4900, -93.0500.
+
+On-site sector marker: Garland County / coords 34.4900, -93.0500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-71901-ad10f748

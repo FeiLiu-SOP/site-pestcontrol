@@ -11,26 +11,43 @@ lng: -122.2100
 zipSample: ["98032", "98089", "98042", "98031", "98030"]
 zipCodes: ["98031", "98064", "98042", "98035", "98032", "98089", "98030"]
 localPaths: ["King County / coords 47.3900, -122.2100", "King County / ZIP 98042 sector", "King County / ZIP 98032 sector", "King County / elevation 400 ft band", "King County / ZIP 98031 sector"]
-zillowHomeValueUsd: 679950
 ---
 
-**Engineering Notice for Kent:** Structural loading calculated based on 400 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Kent:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Mud dauber nests in Kent, WA porch ceilings are benign but signal prey density for spiders.
 
-In Kent, WA, seasonal demand can change scheduling windows.
+Fire ant mounds in Kent, WA drive seams need granule rotation after irrigation events.
 
-Tip: request a written scope before work starts.
+Humidity in Kent, WA can sustain cockroach harborages behind appliance voids.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Kent, WA.
 
-Field note: Wind exposure category reviewed for ZIP sector 98031/98089/98032.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 98031.
 
-Field note: Access points and staging constraints recorded for ZIP 98031/98089/98032 coverage.
+Wildlife odors in Kent, WA crawlspaces may attract secondary pest activity.
 
-Dispatch sectors sampled: ZIP 98031, 98089, 98032, 98064, 98030 (county grid: King County).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+In Kent, WA, subterranean termite swarms often follow warm rain windows.
+
+Exclusion gaps at garage jambs in Kent, WA are common rodent access points.
+
+County grid King County informs routing near ZIP 98031.
+
+Stink bug overwinter seams in Kent, WA exterior cladding laps require exclusion foam rated for UV exposure.
+
+IGR packets for Kent, WA roach cycles should be dated on station lids.
+
+Clover mite staining on Kent, WA exterior cladding follows foundation mulch against brick ledges.
+
+Species trace 394063: re-entry interval label and conducive moisture note keyed to Kent, WA elevation 400 ft.
+
+Seasonal cue 394063: cluster fly attic staging reviewed for Kent, WA soffit cavities.
+
+On-site sector marker: King County / ZIP 98031 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98031-f87eb115

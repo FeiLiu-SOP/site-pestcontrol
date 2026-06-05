@@ -11,24 +11,43 @@ lng: -78.8300
 zipSample: ["14218"]
 zipCodes: ["14218"]
 localPaths: ["Erie County / coords 42.8200, -78.8300", "Erie County / primary ZIP 14218", "Erie County / ZIP 14218 sector", "Erie County / elevation 591 ft band"]
-zillowHomeValueUsd: 212848
 ---
 
-**Engineering Notice for Lackawanna:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Erie County.
+**Engineering Notice for Lackawanna:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Erie County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why schedule quarterly instead of monthly in Lackawanna, NY? Species pressure and label intervals dictate cadence.
 
-We coordinate local dispatch coverage around Lackawanna, NY and nearby ZIP sectors.
+We coordinate Lackawanna, NY pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-In Lackawanna, NY, seasonal demand can change scheduling windows.
+Stink bug overwinter seams in Lackawanna, NY cladding service laps require exclusion foam rated for UV exposure.
 
-Field note: Moisture pathway inspection logged near ZIP 14218 intake.
+Material note: Perimeter granules in Lackawanna, NY may need reapplication after heavy irrigation.
 
-Dispatch sectors sampled: ZIP 14218 (county grid: Erie County).
+Tip: Date bait station lids when servicing Lackawanna, NY perimeter lines.
+
+Step: map entry points with photo logs before sealing.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Lackawanna, NY.
+
+Dry-wood termite pellets in Lackawanna, NY attics may appear before exterior mud tubes.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Step: verify attic access safety before insulation disturbance.
+
+Across Lackawanna, NY, rodent entry points frequently track utility penetrations.
+
+Zone map 447766: attic insulation disturbance trace and pantry pest source logged for Lackawanna, NY sector 14218.
+
+Perimeter dossier 447766: bait station anchor map and mulch bridge risk flagged for Lackawanna, NY county Erie County (ZIP 14218).
+
+On-site sector marker: Erie County / ZIP 14218 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-14218-f06da6d7

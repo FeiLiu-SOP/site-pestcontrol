@@ -11,26 +11,39 @@ lng: -80.2200
 zipSample: ["33167", "33168", "33147", "33150"]
 zipCodes: ["33167", "33147", "33150", "33168"]
 localPaths: ["Miami-Dade County / ZIP 33167 sector", "Miami-Dade County / ZIP 33147 sector", "Miami-Dade County / primary ZIP 33147", "Miami-Dade County / coords 25.8700, -80.2200", "Miami-Dade County / elevation 26 ft band"]
-zillowHomeValueUsd: 434314
 ---
 
-**Engineering Notice for Pinewood:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Pinewood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.
 
 
-In Pinewood, FL, seasonal demand can change scheduling windows.
+FAQ: Why schedule quarterly instead of monthly in Pinewood, FL? Species pressure and label intervals dictate cadence.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Pinewood, FL, but intake notes help reduce delays.
+Stink bug overwinter seams in Pinewood, FL cladding service laps require exclusion foam rated for UV exposure.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Date bait station lids when servicing Pinewood, FL perimeter lines.
 
-Homeowners in Pinewood, FL often face sudden pest control problems that require fast action.
+Cluster fly attic staging in Pinewood, FL peaks on south-facing voids after sunny thaw days.
 
-Our service coordination centers on Pinewood, FL coverage windows and verified intake details.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Access points and staging constraints recorded for ZIP 33167/33150/33147 coverage.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Moisture pathway inspection logged near ZIP 33167/33150/33147 intake.
+Material note: Perimeter granules in Pinewood, FL may need reapplication after heavy irrigation.
 
-Dispatch sectors sampled: ZIP 33167, 33150, 33147, 33168 (county grid: Miami-Dade County).
+IGR packets for Pinewood, FL roach cycles should be dated on station lids.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Pinewood, FL.
+
+Attic insulation disturbance in Pinewood, FL may indicate wildlife nesting routes.
+
+Bird mites in Pinewood, FL exhaust vents can persist after host nests are removed.
+
+Step: record station placement maps for follow-up visits.
+
+Exclusion audit 763783: exclusion mesh gauge and rodent runway grease mark reviewed for Pinewood, FL at 25.8700/-80.2200.
+
+Intercept log 763783: bed bug intercept count staged before Pinewood, FL interior gel zones.
+
+On-site sector marker: Miami-Dade County / primary ZIP 33147 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33147-53756e99

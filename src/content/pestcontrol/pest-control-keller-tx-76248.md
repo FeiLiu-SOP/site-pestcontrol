@@ -11,25 +11,39 @@ lng: -97.2300
 zipSample: ["76248", "76262"]
 zipCodes: ["76262", "76248"]
 localPaths: ["Tarrant County / ZIP 76262 sector", "Tarrant County / elevation 669 ft band", "Tarrant County / primary ZIP 76248", "Tarrant County / ZIP 76248 sector", "Tarrant County / coords 32.9300, -97.2300"]
-zillowHomeValueUsd: 589549
 ---
 
-**Engineering Notice for Keller:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Keller:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tarrant County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Keller, TX, but intake notes help reduce delays.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Mud dauber nests in Keller, TX porch ceilings are benign but signal prey density for spiders.
 
-In Keller, TX, seasonal demand can change scheduling windows.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 76248.
+Tip: Trim vegetation 12 inches from vinyl panels to reduce ant bridges.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: verify attic access safety before insulation disturbance.
 
-Field note: Access points and staging constraints recorded for ZIP 76248/76262 coverage.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Dispatch sectors sampled: ZIP 76248, 76262 (county grid: Tarrant County).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 76248.
+
+FAQ: Why schedule quarterly instead of monthly in Keller, TX? Species pressure and label intervals dictate cadence.
+
+Bird mites in Keller, TX exhaust vents can persist after host nests are removed.
+
+Attic fogging in Keller, TX requires combustion appliance shutoff verification first.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Earwig harborages in Keller, TX meter boxes often follow drip irrigation overspray.
+
+Species trace 986068: re-entry interval label and conducive moisture note keyed to Keller, TX elevation 669 ft.
+
+Intercept log 986068: bed bug intercept count staged before Keller, TX interior gel zones.
+
+On-site sector marker: Tarrant County / primary ZIP 76248 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76248-c9fa6ca4

@@ -11,25 +11,41 @@ lng: -119.2600
 zipSample: ["93215"]
 zipCodes: ["93215"]
 localPaths: ["Kern County / elevation 302 ft band", "Kern County / ZIP 93215 sector", "Kern County / coords 35.7700, -119.2600", "Kern County / primary ZIP 93215"]
-zillowHomeValueUsd: 335355
 ---
 
-**Engineering Notice for Delano:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Kern County.
+**Engineering Notice for Delano:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kern County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic fogging in Delano, CA requires combustion appliance shutoff verification first.
 
-Our service coordination centers on Delano, CA coverage windows and verified intake details.
+Attic misting in Delano, CA requires combustion air clearance verified before fans restart.
 
-Tip: request a written scope before work starts.
+FAQ: What is exclusion? Without sealing entry points in Delano, CA, pressure often rebuilds.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 93215.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Connection points spot-checked where accessible (ZIP 93215 zone).
+Across Delano, CA, rodent entry points frequently track utility penetrations.
 
-Dispatch sectors sampled: ZIP 93215 (county grid: Kern County).
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Dry-wood termite pellets in Delano, CA attics may appear before exterior mud tubes.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 93215.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+FAQ: Why schedule quarterly instead of monthly in Delano, CA? Species pressure and label intervals dictate cadence.
+
+FAQ: Can bed bugs spread room-to-room in Delano, CA row homes? Wall voids and shared ducts accelerate transfer.
+
+Seasonal cue 790458: cluster fly attic staging reviewed for Delano, CA soffit cavities.
+
+Zone map 790458: attic insulation disturbance trace and pantry pest source logged for Delano, CA sector 93215.
+
+On-site sector marker: Kern County / primary ZIP 93215 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93215-51bd7876

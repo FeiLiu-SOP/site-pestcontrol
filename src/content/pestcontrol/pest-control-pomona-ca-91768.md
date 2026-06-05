@@ -11,26 +11,41 @@ lng: -117.7600
 zipSample: ["91767", "91766", "91769", "91768"]
 zipCodes: ["91769", "91768", "91767", "91766"]
 localPaths: ["Los Angeles County / primary ZIP 91768", "Los Angeles County / ZIP 91769 sector", "Los Angeles County / ZIP 91768 sector", "Los Angeles County / ZIP 91767 sector", "Los Angeles County / ZIP 91766 sector"]
-zillowHomeValueUsd: 674138
 ---
 
-**Engineering Notice for Pomona:** Structural loading calculated based on 853 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Pomona:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-In Pomona, CA, seasonal demand can change scheduling windows.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 91768.
 
-Tip: avoid large upfront payments without milestones.
+County grid Los Angeles County informs routing near ZIP 91768.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Homeowners in Pomona, CA often face sudden pest control problems that require fast action.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Connection points spot-checked where accessible (ZIP 91769/91766/91767 zone).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Field note: Moisture pathway inspection logged near ZIP 91769/91766/91767 intake.
+FAQ: Why schedule quarterly instead of monthly in Pomona, CA? Species pressure and label intervals dictate cadence.
 
-Dispatch sectors sampled: ZIP 91769, 91766, 91767, 91768 (county grid: Los Angeles County).
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+FAQ: What is exclusion? Without sealing entry points in Pomona, CA, pressure often rebuilds.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+IGR packets for Pomona, CA roach cycles should be dated on station lids.
+
+Material note: Perimeter granules in Pomona, CA may need reapplication after heavy irrigation.
+
+Wildlife odors in Pomona, CA crawlspaces may attract secondary pest activity.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Species trace 400219: re-entry interval label and conducive moisture note keyed to Pomona, CA elevation 853 ft.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Los Angeles County and primary ZIP 91768. Terrain reference: 853 ft. Center point: 34.0600, -117.7600. ZIP sample: 91767, 91769, 91766, 91768. Regional routing note: Los Angeles County traffic flow is balanced around ZIP 91768 service demand.
 
 Service reference: CA-91768-b7708967

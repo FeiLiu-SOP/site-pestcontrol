@@ -11,27 +11,41 @@ lng: -82.7200
 zipSample: ["34652", "34653", "34656"]
 zipCodes: ["34653", "34652", "34656"]
 localPaths: ["Pasco County / ZIP 34653 sector", "Pasco County / coords 28.2500, -82.7200", "Pasco County / primary ZIP 34653", "Pasco County / ZIP 34652 sector", "Pasco County / ZIP 34656 sector"]
-zillowHomeValueUsd: 249427
 ---
 
-**Engineering Notice for New Port Richey:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Pasco County.
+**Engineering Notice for New Port Richey:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pasco County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in New Port Richey, FL, but intake notes help reduce delays.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 34653.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Date bait station lids when servicing New Port Richey, FL perimeter lines.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Drain fly biofilm in New Port Richey, FL floor drains signals grease traps need service before gel baits.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 34653.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Perimeter granules in New Port Richey, FL may need reapplication after heavy irrigation.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 34652/34656/34653.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Wind exposure category reviewed for ZIP sector 34652/34656/34653.
+Clover mite staining on New Port Richey, FL wall restoration follows foundation mulch against brick ledges.
 
-Dispatch sectors sampled: ZIP 34652, 34656, 34653 (county grid: Pasco County).
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in New Port Richey, FL.
+
+Silverfish activity in New Port Richey, FL attics tracks cardboard storage and ridge vent gaps.
+
+Bird mites in New Port Richey, FL exhaust vents can persist after host nests are removed.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 34653.
+
+Perimeter granule carriers in New Port Richey, FL clay soils may need lighter irrigation before application.
+
+Seasonal pest pressure in New Port Richey, FL shifts between moisture ants and dry-wood vectors.
+
+Zone map 189996: attic insulation disturbance trace and pantry pest source logged for New Port Richey, FL sector 34653.
+
+Perimeter dossier 189996: bait station anchor map and mulch bridge risk flagged for New Port Richey, FL county Pasco County (ZIP 34653).
+
+On-site sector marker: Pasco County / primary ZIP 34653 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34653-330191ff

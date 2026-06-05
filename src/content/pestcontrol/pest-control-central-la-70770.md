@@ -11,24 +11,39 @@ lng: -91.0400
 zipSample: ["70818", "70770", "70739", "70791", "70714"]
 zipCodes: ["70739", "70791", "70819", "70818", "70714", "70770"]
 localPaths: ["East Baton Rouge Parish / ZIP 70739 sector", "East Baton Rouge Parish / ZIP 70770 sector", "East Baton Rouge Parish / ZIP 70714 sector", "East Baton Rouge Parish / primary ZIP 70770", "East Baton Rouge Parish / ZIP 70791 sector"]
-zillowHomeValueUsd: 253844
 ---
 
-**Engineering Notice for Central:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: East Baton Rouge Parish.
+**Engineering Notice for Central:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: East Baton Rouge Parish.
 
 
-Tip: avoid large upfront payments without milestones.
+Powderpost beetle exit holes in Central, LA trim can be mistaken for dry-wood frass without magnification.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: map entry points with photo logs before sealing.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Monitoring boards in Central, LA crawlspaces stay 72 hours before snap traps are reset.
 
-Our service coordination centers on Central, LA coverage windows and verified intake details.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: request a written scope before work starts.
+Mud dauber nests in Central, LA porch ceilings are benign but signal prey density for spiders.
 
-Field note: Connection points spot-checked where accessible (ZIP 70819/70770/70818 zone).
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Dispatch sectors sampled: ZIP 70819, 70770, 70818, 70739, 70791 (county grid: East Baton Rouge Parish).
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Central, LA.
+
+Material note: Perimeter granules in Central, LA may need reapplication after heavy irrigation.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Species trace 636950: re-entry interval label and conducive moisture note keyed to Central, LA elevation 82 ft.
+
+On-site sector marker: East Baton Rouge Parish / ZIP 70770 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70770-c45a1d1f

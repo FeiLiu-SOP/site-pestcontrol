@@ -11,24 +11,41 @@ lng: -81.6800
 zipSample: ["44105", "44111", "44198", "44108", "44106"]
 zipCodes: ["44144", "44108", "44194", "44193", "44105", "44103", "44181", "44112", "44119", "44128", "44135", "44115"]
 localPaths: ["Cuyahoga County / ZIP 44108 sector", "Cuyahoga County / elevation 646 ft band", "Cuyahoga County / ZIP 44111 sector", "Cuyahoga County / primary ZIP 44135", "Cuyahoga County / ZIP 44106 sector"]
-zillowHomeValueUsd: 155006
 ---
 
-**Engineering Notice for Cleveland:** Structural loading calculated based on 646 ft terrain assessment. Regional dispatch grid: Cuyahoga County.
+**Engineering Notice for Cleveland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cuyahoga County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: request a written scope before work starts.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-We coordinate local dispatch coverage around Cleveland, OH and nearby ZIP sectors.
+Drain fly biofilm in Cleveland, OH floor drains signals grease traps need service before gel baits.
 
-Field note: Moisture pathway inspection logged near ZIP 44105/44114/44119 intake.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 44105, 44114, 44119, 44101, 44103 (county grid: Cuyahoga County).
+Cluster fly attic staging in Cleveland, OH peaks on south-facing voids after sunny thaw days.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Carpenter ant frass in Cleveland, OH window sills may indicate moisture-softened framing.
+
+Bird mites in Cleveland, OH exhaust vents can persist after host nests are removed.
+
+Risk flag: Overwatered Cleveland, OH planters can restart ant bridges within two weeks.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 44135.
+
+Seasonal cue 121047: cluster fly attic staging reviewed for Cleveland, OH soffit cavities.
+
+Harbor ledger 121047: frass lane, mud-tube scan, and garage jamb gap measure filed for Cleveland, OH at 41.4800, -81.6800.
+
+On-site sector marker: Cuyahoga County / coords 41.4800, -81.6800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44135-108332b6

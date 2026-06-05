@@ -11,24 +11,37 @@ lng: -104.9700
 zipSample: ["80130", "80126", "80163", "80129"]
 zipCodes: ["80130", "80129", "80126", "80163"]
 localPaths: ["Douglas County / ZIP 80163 sector", "Douglas County / ZIP 80130 sector", "Douglas County / coords 39.5400, -104.9700", "Douglas County / ZIP 80126 sector", "Douglas County / ZIP 80129 sector"]
-zillowHomeValueUsd: 682960
 ---
 
-**Engineering Notice for Highlands Ranch:** Structural loading calculated based on 5833 ft terrain assessment. Regional dispatch grid: Douglas County.
+**Engineering Notice for Highlands Ranch:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Douglas County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-In Highlands Ranch, CO, urgent pest control issues can escalate quickly.
+Material note: Perimeter granules in Highlands Ranch, CO may need reapplication after heavy irrigation.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+We coordinate Highlands Ranch, CO pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Field note: Wind exposure category reviewed for ZIP sector 80130/80126/80129.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 80129.
 
-Dispatch sectors sampled: ZIP 80130, 80126, 80129, 80163 (county grid: Douglas County).
+Mud dauber nests in Highlands Ranch, CO porch ceilings are benign but signal prey density for spiders.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Highlands Ranch, CO.
+
+Wildlife odors in Highlands Ranch, CO crawlspaces may attract secondary pest activity.
+
+Drain fly biofilm in Highlands Ranch, CO floor drains signals grease traps need service before gel baits.
+
+Powderpost beetle exit holes in Highlands Ranch, CO trim can be mistaken for dry-wood frass without magnification.
+
+State note: Highlands Ranch, CO commercial kitchens may require separate documentation for audit visits.
+
+Species trace 184131: re-entry interval label and conducive moisture note keyed to Highlands Ranch, CO elevation 5833 ft.
+
+Coordinate-anchored dispatch note: center reference 39.5400, -104.9700 at elevation ~5833 ft aligns with Douglas County intake staging.
 
 Service reference: CO-80129-ffc15760

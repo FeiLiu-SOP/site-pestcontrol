@@ -11,26 +11,39 @@ lng: -96.6100
 zipSample: ["75094"]
 zipCodes: ["75094"]
 localPaths: ["Collin County / elevation 584 ft band", "Collin County / ZIP 75094 sector", "Collin County / primary ZIP 75094", "Collin County / coords 33.0200, -96.6100"]
-zillowHomeValueUsd: 569611
 ---
 
-**Engineering Notice for Murphy:** Structural loading calculated based on 584 ft terrain assessment. Regional dispatch grid: Collin County.
+**Engineering Notice for Murphy:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Collin County.
 
 
-Homeowners in Murphy, TX often face sudden pest control problems that require fast action.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 75094.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Why do pests return after spraying? Without sealing entry points in Murphy, TX, pressure often rebuilds.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Mud dauber nests in Murphy, TX porch ceilings are benign but signal prey density for spiders.
 
-Tip: request a written scope before work starts.
+Powderpost beetle exit holes in Murphy, TX trim can be mistaken for dry-wood frass without magnification.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Dry-wood termite pellets in Murphy, TX attics may appear before exterior mud tubes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75094.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Field note: Moisture pathway inspection logged near ZIP 75094 intake.
+We coordinate Murphy, TX pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Dispatch sectors sampled: ZIP 75094 (county grid: Collin County).
+Carpenter ant frass in Murphy, TX window sills may indicate moisture-softened framing.
+
+Wildlife odors in Murphy, TX crawlspaces may attract secondary pest activity.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Yellow jacket nests in Murphy, TX soffit cavities peak in late summer routing windows.
+
+Intercept log 327579: bed bug intercept count staged before Murphy, TX interior gel zones.
+
+Seasonal cue 327579: cluster fly attic staging reviewed for Murphy, TX soffit cavities.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Collin County and primary ZIP 75094. Terrain reference: 584 ft. Center point: 33.0200, -96.6100. ZIP sample: 75094. Service perimeter note: Coverage extends through Collin County with dispatch centered near ZIP 75094.
 
 Service reference: TX-75094-2222d6fb

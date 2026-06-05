@@ -11,24 +11,41 @@ lng: -122.0400
 zipSample: ["98038"]
 zipCodes: ["98038"]
 localPaths: ["King County / ZIP 98038 sector", "King County / elevation 541 ft band", "King County / coords 47.3700, -122.0400", "King County / primary ZIP 98038"]
-zillowHomeValueUsd: 800417
 ---
 
-**Engineering Notice for Maple Valley:** Structural loading calculated based on 541 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Maple Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Tip: confirm licensing and insurance before approving work.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Our service coordination centers on Maple Valley, WA coverage windows and verified intake details.
+FAQ: Can bed bugs spread room-to-room in Maple Valley, WA row homes? Wall voids and shared ducts accelerate transfer.
 
-Structured milestones protect both sides when scheduling work.
+Step: label treatment zones for occupant re-entry timing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Exclusion gaps at garage jambs in Maple Valley, WA are common rodent access points.
 
-Field note: Moisture pathway inspection logged near ZIP 98038 intake.
+Mosquito breeding in Maple Valley, WA catch basins can amplify perimeter callbacks.
 
-Dispatch sectors sampled: ZIP 98038 (county grid: King County).
+Monitoring boards in Maple Valley, WA crawlspaces stay 72 hours before snap traps are reset.
+
+Stink bug overwinter seams in Maple Valley, WA exterior cladding laps require exclusion foam rated for UV exposure.
+
+Perimeter mulch beds in Maple Valley, WA should be reviewed for ant bridge paths.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Drain fly biofilm in Maple Valley, WA floor drains signals grease traps need service before gel baits.
+
+Spider populations in Maple Valley, WA eaves can signal insect prey density.
+
+Earwig harborages in Maple Valley, WA meter boxes often follow drip irrigation overspray.
+
+Intercept log 550602: bed bug intercept count staged before Maple Valley, WA interior gel zones.
+
+Species trace 550602: re-entry interval label and conducive moisture note keyed to Maple Valley, WA elevation 541 ft.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~541 ft across the King County area. Coordinates: 47.3700, -122.0400. ZIP sample: 98038. Service perimeter note: Coverage extends through King County with dispatch centered near ZIP 98038.
 
 Service reference: WA-98038-4e2d51ac

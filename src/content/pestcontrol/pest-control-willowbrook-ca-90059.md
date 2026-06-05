@@ -11,26 +11,39 @@ lng: -118.2400
 zipSample: ["90059", "90222"]
 zipCodes: ["90222", "90059"]
 localPaths: ["Los Angeles County / coords 33.9200, -118.2400", "Los Angeles County / elevation 92 ft band", "Los Angeles County / ZIP 90059 sector", "Los Angeles County / primary ZIP 90059", "Los Angeles County / ZIP 90222 sector"]
-zillowHomeValueUsd: 613615
 ---
 
-**Engineering Notice for Willowbrook:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Willowbrook:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Perimeter granules in Willowbrook, CA may need reapplication after heavy irrigation.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Willowbrook, CA, but intake notes help reduce delays.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Tip: avoid large upfront payments without milestones.
+Drain fly biofilm in Willowbrook, CA floor drains signals grease traps need service before gel baits.
 
-A written scope helps prevent rework and mismatched expectations.
+Fire ant mounds in Willowbrook, CA drive seams need granule rotation after irrigation events.
 
-Field note: Moisture pathway inspection logged near ZIP 90222/90059 intake.
+Request an inspection with species ID before treatment. Serving ZIP Code: 90059.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 90222/90059.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Dispatch sectors sampled: ZIP 90222, 90059 (county grid: Los Angeles County).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 90059.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 90059.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Powderpost beetle exit holes in Willowbrook, CA trim can be mistaken for dry-wood frass without magnification.
+
+Harbor ledger 497497: frass lane, mud-tube scan, and garage jamb gap measure filed for Willowbrook, CA at 33.9200, -118.2400.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Los Angeles County and primary ZIP 90059. Terrain reference: 92 ft. Center point: 33.9200, -118.2400. ZIP sample: 90222, 90059. Regional routing note: Los Angeles County traffic flow is balanced around ZIP 90059 service demand.
 
 Service reference: CA-90059-15cfcde7

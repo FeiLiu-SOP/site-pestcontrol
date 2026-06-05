@@ -11,27 +11,41 @@ lng: -86.1300
 zipSample: ["46903", "46901", "46965", "46902"]
 zipCodes: ["46901", "46903", "46902", "46965"]
 localPaths: ["Howard County / primary ZIP 46902", "Howard County / coords 40.4600, -86.1300", "Howard County / ZIP 46902 sector", "Howard County / ZIP 46901 sector", "Howard County / ZIP 46903 sector"]
-zillowHomeValueUsd: 198891
 ---
 
-**Engineering Notice for Kokomo:** Structural loading calculated based on 827 ft terrain assessment. Regional dispatch grid: Howard County.
+**Engineering Notice for Kokomo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Howard County.
 
 
-We coordinate local dispatch coverage around Kokomo, IN and nearby ZIP sectors.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Kokomo, IN.
 
-Tip: avoid large upfront payments without milestones.
+Flea pupae survive vacuuming in Kokomo, IN carpet fibers unless heat treatment follows.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 46902.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Local conditions in Kokomo, IN can affect timelines and material choices.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Field note: Moisture pathway inspection logged near ZIP 46902/46965/46903 intake.
+Fire ant mounds in Kokomo, IN drive seams need granule rotation after irrigation events.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 46902/46965/46903.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Dispatch sectors sampled: ZIP 46902, 46965, 46903, 46901 (county grid: Howard County).
+Mosquito breeding in Kokomo, IN catch basins can amplify perimeter callbacks.
+
+FAQ: What is exclusion? Without sealing entry points in Kokomo, IN, pressure often rebuilds.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Silverfish activity in Kokomo, IN attics tracks cardboard storage and ridge vent gaps.
+
+Powderpost beetle exit holes in Kokomo, IN trim can be mistaken for dry-wood frass without magnification.
+
+Step: verify attic access safety before insulation disturbance.
+
+Harbor ledger 988574: frass lane, mud-tube scan, and garage jamb gap measure filed for Kokomo, IN at 40.4600, -86.1300.
+
+Exclusion audit 988574: exclusion mesh gauge and rodent runway grease mark reviewed for Kokomo, IN at 40.4600/-86.1300.
+
+ZIP-corridor snapshot for Kokomo, IN: sampled sectors include 46902, 46965, 46903, 46901; county routing grid remains Howard County.
 
 Service reference: IN-46902-7a24ba45

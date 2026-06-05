@@ -11,26 +11,41 @@ lng: -122.5600
 zipSample: ["94947", "94998", "94945", "94949"]
 zipCodes: ["94947", "94945", "94949", "94998"]
 localPaths: ["Marin County / primary ZIP 94949", "Marin County / elevation 10 ft band", "Marin County / ZIP 94945 sector", "Marin County / ZIP 94998 sector", "Marin County / coords 38.0900, -122.5600"]
-zillowHomeValueUsd: 1237178
 ---
 
-**Engineering Notice for Novato:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Marin County.
+**Engineering Notice for Novato:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marin County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Monitoring boards in Novato, CA crawlspaces stay 72 hours before snap traps are reset.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: label treatment zones for occupant re-entry timing.
 
-Local conditions in Novato, CA can affect timelines and material choices.
+Mud dauber nests in Novato, CA porch ceilings are benign but signal prey density for spiders.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Novato, CA, but intake notes help reduce delays.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94998/94945/94947.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Wind exposure category reviewed for ZIP sector 94998/94945/94947.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 94998, 94945, 94947, 94949 (county grid: Marin County).
+Step: inspect interior harborages before exterior perimeter treatment.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Across Novato, CA, rodent entry points frequently track utility penetrations.
+
+Clover mite staining on Novato, CA vinyl panels follows foundation mulch against brick ledges.
+
+IGR packets for Novato, CA roach cycles should be dated on station lids.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 94949.
+
+Yellow jacket nests in Novato, CA soffit cavities peak in late summer routing windows.
+
+Zone map 977465: attic insulation disturbance trace and pantry pest source logged for Novato, CA sector 94949.
+
+On-site sector marker: Marin County / ZIP 94949 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94949-bc65b372

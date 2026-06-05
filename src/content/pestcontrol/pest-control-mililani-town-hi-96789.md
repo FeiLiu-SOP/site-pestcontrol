@@ -11,26 +11,41 @@ lng: -158.0100
 zipSample: ["96789"]
 zipCodes: ["96789"]
 localPaths: ["Honolulu County / primary ZIP 96789", "Honolulu County / ZIP 96789 sector", "Honolulu County / coords 21.4500, -158.0100", "Honolulu County / elevation 636 ft band"]
-zillowHomeValueUsd: 881720
 ---
 
-**Engineering Notice for Mililani Town:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Mililani Town:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Honolulu County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Stink bug overwinter seams in Mililani Town, HI vinyl panels laps require exclusion foam rated for UV exposure.
 
-Clear documentation helps align materials, labor, and timeline.
+Drain fly biofilm in Mililani Town, HI floor drains signals grease traps need service before gel baits.
 
-Tip: address recurring issues early to prevent bigger damage.
+Silverfish activity in Mililani Town, HI attics tracks cardboard storage and ridge vent gaps.
 
-We coordinate local dispatch coverage around Mililani Town, HI and nearby ZIP sectors.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Tip: request a written scope before work starts.
+Exclusion gaps at garage jambs in Mililani Town, HI are common rodent access points.
 
-Field note: Connection points spot-checked where accessible (ZIP 96789 zone).
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Moisture pathway inspection logged near ZIP 96789 intake.
+Yellow jacket nests in Mililani Town, HI soffit cavities peak in late summer routing windows.
 
-Dispatch sectors sampled: ZIP 96789 (county grid: Honolulu County).
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Mililani Town, HI, pressure often rebuilds.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 96789.
+
+Attic misting in Mililani Town, HI requires combustion air clearance verified before fans restart.
+
+Material note: Perimeter granules in Mililani Town, HI may need reapplication after heavy irrigation.
+
+Exclusion audit 718400: exclusion mesh gauge and rodent runway grease mark reviewed for Mililani Town, HI at 21.4500/-158.0100.
+
+Primary postal anchor 96789 with multi-ZIP overlap in Mililani Town; field packets tag Honolulu County for county-grid reconciliation.
 
 Service reference: HI-96789-e944e2be

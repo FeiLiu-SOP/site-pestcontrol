@@ -11,26 +11,37 @@ lng: -122.2300
 zipSample: ["94592", "94591", "94589", "94590"]
 zipCodes: ["94591", "94589", "94592", "94590"]
 localPaths: ["Solano County / primary ZIP 94592", "Solano County / ZIP 94589 sector", "Solano County / ZIP 94591 sector", "Solano County / coords 38.1100, -122.2300", "Solano County / ZIP 94590 sector"]
-zillowHomeValueUsd: 721275
 ---
 
-**Engineering Notice for Vallejo:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Solano County.
+**Engineering Notice for Vallejo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Solano County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Date bait station lids when servicing Vallejo, CA perimeter lines.
 
-Tip: compare at least two estimates for scope and timeline.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Vallejo, CA, but intake notes help reduce delays.
+FAQ: Can bed bugs spread room-to-room in Vallejo, CA row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Moisture pathway inspection logged near ZIP 94590/94589/94591 intake.
+Mud dauber nests in Vallejo, CA porch ceilings are benign but signal prey density for spiders.
 
-Field note: Wind exposure category reviewed for ZIP sector 94590/94589/94591.
+Attic misting in Vallejo, CA requires combustion air clearance verified before fans restart.
 
-Dispatch sectors sampled: ZIP 94590, 94589, 94591, 94592 (county grid: Solano County).
+Material note: Perimeter granules in Vallejo, CA may need reapplication after heavy irrigation.
+
+Humidity in Vallejo, CA can sustain cockroach harborages behind appliance voids.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Flea pupae survive vacuuming in Vallejo, CA carpet fibers unless heat treatment follows.
+
+IGR packets for Vallejo, CA roach cycles should be dated on station lids.
+
+Seasonal cue 842833: cluster fly attic staging reviewed for Vallejo, CA soffit cavities.
+
+ZIP-corridor snapshot for Vallejo, CA: sampled sectors include 94590, 94592, 94591, 94589; county routing grid remains Solano County.
 
 Service reference: CA-94592-ebb2817b

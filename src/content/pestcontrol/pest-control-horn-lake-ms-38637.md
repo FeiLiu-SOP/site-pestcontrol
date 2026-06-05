@@ -11,26 +11,41 @@ lng: -90.0500
 zipSample: ["38637"]
 zipCodes: ["38637"]
 localPaths: ["DeSoto County / elevation 299 ft band", "DeSoto County / primary ZIP 38637", "DeSoto County / ZIP 38637 sector", "DeSoto County / coords 34.9500, -90.0500"]
-zillowHomeValueUsd: 202246
 ---
 
-**Engineering Notice for Horn Lake:** Structural loading calculated based on 299 ft terrain assessment. Regional dispatch grid: DeSoto County.
+**Engineering Notice for Horn Lake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeSoto County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Perimeter granule carriers in Horn Lake, MS clay soils may need lighter irrigation before application.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Mud dauber nests in Horn Lake, MS porch ceilings are benign but signal prey density for spiders.
 
-Tip: compare at least two estimates for scope and timeline.
+Clover mite staining on Horn Lake, MS cladding service follows foundation mulch against brick ledges.
 
-We coordinate local dispatch coverage around Horn Lake, MS and nearby ZIP sectors.
+Flea pupae survive vacuuming in Horn Lake, MS carpet fibers unless heat treatment follows.
 
-Tip: request a written scope before work starts.
+Risk flag: In Horn Lake, MS, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Connection points spot-checked where accessible (ZIP 38637 zone).
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Wind exposure category reviewed for ZIP sector 38637.
+Risk flag: Overwatered Horn Lake, MS planters can restart ant bridges within two weeks.
 
-Dispatch sectors sampled: ZIP 38637 (county grid: DeSoto County).
+Attic fogging in Horn Lake, MS requires combustion appliance shutoff verification first.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Material note: Perimeter granules in Horn Lake, MS may need reapplication after heavy irrigation.
+
+Tip: Date bait station lids when servicing Horn Lake, MS perimeter lines.
+
+Species trace 779816: re-entry interval label and conducive moisture note keyed to Horn Lake, MS elevation 299 ft.
+
+Primary postal anchor 38637 with multi-ZIP overlap in Horn Lake; field packets tag DeSoto County for county-grid reconciliation.
 
 Service reference: MS-38637-23de6aa3

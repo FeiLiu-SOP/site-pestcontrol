@@ -11,26 +11,37 @@ lng: -77.2400
 zipSample: ["22180", "22081", "22031", "22042", "22119"]
 zipCodes: ["22180", "22081", "22031", "22082", "22119", "22042"]
 localPaths: ["Fairfax County / ZIP 22042 sector", "Fairfax County / ZIP 22180 sector", "Fairfax County / ZIP 22119 sector", "Fairfax County / coords 38.8700, -77.2400", "Fairfax County / elevation 308 ft band"]
-zillowHomeValueUsd: 774729
 ---
 
-**Engineering Notice for Merrifield:** Structural loading calculated based on 308 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Merrifield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Powderpost beetle exit holes in Merrifield, VA trim can be mistaken for dry-wood frass without magnification.
 
-Transparent pricing helps you compare like-for-like scope items.
+Carpenter ant frass in Merrifield, VA window sills may indicate moisture-softened framing.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 22031.
 
-In Merrifield, VA, seasonal demand can change scheduling windows.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Bird mites in Merrifield, VA exhaust vents can persist after host nests are removed.
 
-Field note: Access points and staging constraints recorded for ZIP 22119/22042/22081 coverage.
+Stored cardboard in Merrifield, VA garages can accelerate pantry pest cycles.
 
-Field note: Connection points spot-checked where accessible (ZIP 22119/22042/22081 zone).
+Step: verify attic access safety before insulation disturbance.
 
-Dispatch sectors sampled: ZIP 22119, 22042, 22081, 22031, 22082 (county grid: Fairfax County).
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Merrifield, VA, pressure often rebuilds.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Silverfish activity in Merrifield, VA attics tracks cardboard storage and ridge vent gaps.
+
+Material note: Perimeter granules in Merrifield, VA may need reapplication after heavy irrigation.
+
+Harbor ledger 302900: frass lane, mud-tube scan, and garage jamb gap measure filed for Merrifield, VA at 38.8700, -77.2400.
+
+On-site sector marker: Fairfax County / ZIP 22081 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22031-0e030a07

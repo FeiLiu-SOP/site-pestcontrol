@@ -11,25 +11,41 @@ lng: -84.2500
 zipSample: ["32316", "32306", "32311", "32317", "32301"]
 zipCodes: ["32303", "32309", "32304", "32316", "32313", "32307", "32302", "32311", "32308", "32314", "32315", "32312"]
 localPaths: ["Leon County / ZIP 32306 sector", "Leon County / ZIP 32317 sector", "Leon County / coords 30.4600, -84.2500", "Leon County / ZIP 32301 sector", "Leon County / primary ZIP 32310"]
-zillowHomeValueUsd: 177694
 ---
 
-**Engineering Notice for Tallahassee:** Structural loading calculated based on 164 ft terrain assessment. Regional dispatch grid: Leon County.
+**Engineering Notice for Tallahassee:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Leon County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 32310.
+Step: map entry points with photo logs before sealing.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Date bait station lids when servicing Tallahassee, FL perimeter lines.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Stink bug overwinter seams in Tallahassee, FL wall restoration laps require exclusion foam rated for UV exposure.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Fire ant mounds in Tallahassee, FL drive seams need granule rotation after irrigation events.
 
-Field note: Wind exposure category reviewed for ZIP sector 32310/32316/32304.
+Perimeter granule carriers in Tallahassee, FL clay soils may need lighter irrigation before application.
 
-Dispatch sectors sampled: ZIP 32310, 32316, 32304, 32317, 32301 (county grid: Leon County).
+Risk flag: In Tallahassee, FL, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Wildlife odors in Tallahassee, FL crawlspaces may attract secondary pest activity.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Tallahassee, FL.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Zone map 572561: attic insulation disturbance trace and pantry pest source logged for Tallahassee, FL sector 32310.
+
+ZIP-corridor snapshot for Tallahassee, FL: sampled sectors include 32316, 32308, 32311, 32307, 32313, 32310, 32303, 32314; county routing grid remains Leon County.
 
 Service reference: FL-32310-2e67d94b

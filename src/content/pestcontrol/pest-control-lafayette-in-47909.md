@@ -11,26 +11,41 @@ lng: -86.8600
 zipSample: ["47909", "47901", "47902", "47903", "47904"]
 zipCodes: ["47905", "47901", "47903", "47904", "47902", "47909"]
 localPaths: ["Tippecanoe County / ZIP 47904 sector", "Tippecanoe County / coords 40.4000, -86.8600", "Tippecanoe County / ZIP 47903 sector", "Tippecanoe County / ZIP 47902 sector", "Tippecanoe County / ZIP 47901 sector"]
-zillowHomeValueUsd: 275886
 ---
 
-**Engineering Notice for Lafayette:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Tippecanoe County.
+**Engineering Notice for Lafayette:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tippecanoe County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Our service coordination centers on Lafayette, IN coverage windows and verified intake details.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Log pet access routes when bait stations are placed.
 
-Tip: address recurring issues early to prevent bigger damage.
+Seasonal pest pressure in Lafayette, IN shifts between moisture ants and dry-wood vectors.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Access points and staging constraints recorded for ZIP 47901/47904/47905 coverage.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 47909.
 
-Field note: Wind exposure category reviewed for ZIP sector 47901/47904/47905.
+Step: record station placement maps for follow-up visits.
 
-Dispatch sectors sampled: ZIP 47901, 47904, 47905, 47903, 47902 (county grid: Tippecanoe County).
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 47909.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Earwig harborages in Lafayette, IN meter boxes often follow drip irrigation overspray.
+
+Zone map 345615: attic insulation disturbance trace and pantry pest source logged for Lafayette, IN sector 47909.
+
+Primary postal anchor 47909 with multi-ZIP overlap in Lafayette; field packets tag Tippecanoe County for county-grid reconciliation.
 
 Service reference: IN-47909-d8e217a6

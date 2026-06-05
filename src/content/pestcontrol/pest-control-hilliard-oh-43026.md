@@ -11,26 +11,39 @@ lng: -83.1600
 zipSample: ["43026"]
 zipCodes: ["43026"]
 localPaths: ["Franklin County / coords 40.0400, -83.1600", "Franklin County / elevation 935 ft band", "Franklin County / primary ZIP 43026", "Franklin County / ZIP 43026 sector"]
-zillowHomeValueUsd: 379612
 ---
 
-**Engineering Notice for Hilliard:** Structural loading calculated based on 935 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Hilliard:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Franklin County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hilliard, OH, but intake notes help reduce delays.
+County grid Franklin County informs routing near ZIP 43026.
 
-Tip: request a written scope before work starts.
+Tip: Keep pet food elevated and sealed between service visits.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Can bed bugs spread room-to-room in Hilliard, OH row homes? Wall voids and shared ducts accelerate transfer.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Connection points spot-checked where accessible (ZIP 43026 zone).
+Step: map entry points with photo logs before sealing.
 
-Field note: Wind exposure category reviewed for ZIP sector 43026.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Dispatch sectors sampled: ZIP 43026 (county grid: Franklin County).
+Clover mite staining on Hilliard, OH cladding service follows foundation mulch against brick ledges.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Yellow jacket nests in Hilliard, OH soffit cavities peak in late summer routing windows.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Perimeter dossier 484772: bait station anchor map and mulch bridge risk flagged for Hilliard, OH county Franklin County (ZIP 43026).
+
+Harbor ledger 484772: frass lane, mud-tube scan, and garage jamb gap measure filed for Hilliard, OH at 40.0400, -83.1600.
+
+Primary postal anchor 43026 with multi-ZIP overlap in Hilliard; field packets tag Franklin County for county-grid reconciliation.
 
 Service reference: OH-43026-8152050b

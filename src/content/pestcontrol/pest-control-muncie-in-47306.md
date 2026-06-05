@@ -11,26 +11,39 @@ lng: -85.3900
 zipSample: ["47303", "47305", "47307", "47306", "47302"]
 zipCodes: ["47307", "47302", "47305", "47303", "47304", "47306"]
 localPaths: ["Delaware County / ZIP 47303 sector", "Delaware County / ZIP 47306 sector", "Delaware County / coords 40.2000, -85.3900", "Delaware County / elevation 945 ft band", "Delaware County / ZIP 47302 sector"]
-zillowHomeValueUsd: 209768
 ---
 
-**Engineering Notice for Muncie:** Structural loading calculated based on 945 ft terrain assessment. Regional dispatch grid: Delaware County.
+**Engineering Notice for Muncie:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Delaware County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Flea pupae survive vacuuming in Muncie, IN carpet fibers unless heat treatment follows.
 
-Local conditions in Muncie, IN can affect timelines and material choices.
+Attic insulation disturbance in Muncie, IN may indicate wildlife nesting routes.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Muncie, IN.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Moisture pathway inspection logged near ZIP 47307/47304/47303 intake.
+Step: record station placement maps for follow-up visits.
 
-Field note: Connection points spot-checked where accessible (ZIP 47307/47304/47303 zone).
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Dispatch sectors sampled: ZIP 47307, 47304, 47303, 47306, 47305 (county grid: Delaware County).
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+County grid Delaware County informs routing near ZIP 47306.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 47306.
+
+IGR packets for Muncie, IN roach cycles should be dated on station lids.
+
+Across Muncie, IN, rodent entry points frequently track utility penetrations.
+
+Harbor ledger 995008: frass lane, mud-tube scan, and garage jamb gap measure filed for Muncie, IN at 40.2000, -85.3900.
+
+ZIP-corridor snapshot for Muncie, IN: sampled sectors include 47305, 47306, 47304, 47302, 47307, 47303; county routing grid remains Delaware County.
 
 Service reference: IN-47306-78fe9278

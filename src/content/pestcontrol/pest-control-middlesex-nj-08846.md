@@ -11,26 +11,39 @@ lng: -74.5000
 zipSample: ["08846"]
 zipCodes: ["08846"]
 localPaths: ["Middlesex County / ZIP 08846 sector", "Middlesex County / primary ZIP 08846", "Middlesex County / elevation 52 ft band", "Middlesex County / coords 40.5700, -74.5000"]
-zillowHomeValueUsd: 537800
 ---
 
-**Engineering Notice for Middlesex:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Middlesex:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.
 
 
-In Middlesex, NJ, urgent pest control issues can escalate quickly.
+Across Middlesex, NJ, rodent entry points frequently track utility penetrations.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+State note: Middlesex, NJ commercial kitchens may require separate documentation for audit visits.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Middlesex, NJ, but intake notes help reduce delays.
+Carpenter ant frass in Middlesex, NJ window sills may indicate moisture-softened framing.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: In Middlesex, NJ, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Moisture pathway inspection logged near ZIP 08846 intake.
+IGR packets for Middlesex, NJ roach cycles should be dated on station lids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 08846.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Dispatch sectors sampled: ZIP 08846 (county grid: Middlesex County).
+Flea pupae survive vacuuming in Middlesex, NJ carpet fibers unless heat treatment follows.
+
+FAQ: Why schedule quarterly instead of monthly in Middlesex, NJ? Species pressure and label intervals dictate cadence.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Middlesex, NJ.
+
+Step: map entry points with photo logs before sealing.
+
+Exclusion audit 972415: exclusion mesh gauge and rodent runway grease mark reviewed for Middlesex, NJ at 40.5700/-74.5000.
+
+Species trace 972415: re-entry interval label and conducive moisture note keyed to Middlesex, NJ elevation 52 ft.
+
+Regional mesh label Middlesex County: moisture and logistics baselines are keyed to Middlesex, NJ before niche-specific work begins.
 
 Service reference: NJ-08846-ed0cd3f2

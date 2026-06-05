@@ -11,24 +11,41 @@ lng: -79.9600
 zipSample: ["24010", "24007", "24015", "24005", "24012"]
 zipCodes: ["24043", "24014", "24037", "24004", "24015", "24016", "24010", "24033", "24027", "24013", "24022", "24012"]
 localPaths: ["Roanoke County / ZIP 24005 sector", "Roanoke County / ZIP 24010 sector", "Roanoke County / ZIP 24012 sector", "Roanoke County / primary ZIP 24019", "Roanoke County / ZIP 24015 sector"]
-zillowHomeValueUsd: 306173
 ---
 
-**Engineering Notice for Roanoke:** Structural loading calculated based on 971 ft terrain assessment. Regional dispatch grid: Roanoke County.
+**Engineering Notice for Roanoke:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Roanoke County.
 
 
-We coordinate local dispatch coverage around Roanoke, VA and nearby ZIP sectors.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: request a written scope before work starts.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic fogging in Roanoke, VA requires combustion appliance shutoff verification first.
 
-Local conditions in Roanoke, VA can affect timelines and material choices.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 24027/24014/24016.
+Tip: Trim vegetation 12 inches from vinyl panels to reduce ant bridges.
 
-Dispatch sectors sampled: ZIP 24027, 24014, 24016, 24011, 24036 (county grid: Roanoke County).
+Material note: Perimeter granules in Roanoke, VA may need reapplication after heavy irrigation.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Risk flag: In Roanoke, VA, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 24019.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Powderpost beetle exit holes in Roanoke, VA trim can be mistaken for dry-wood frass without magnification.
+
+Zone map 334156: attic insulation disturbance trace and pantry pest source logged for Roanoke, VA sector 24019.
+
+Intercept log 334156: bed bug intercept count staged before Roanoke, VA interior gel zones.
+
+On-site sector marker: Roanoke County / primary ZIP 24019 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-24019-340d914b

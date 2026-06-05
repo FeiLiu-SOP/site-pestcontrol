@@ -11,26 +11,37 @@ lng: -91.0200
 zipSample: ["63090"]
 zipCodes: ["63090"]
 localPaths: ["Franklin County / ZIP 63090 sector", "Franklin County / primary ZIP 63090", "Franklin County / elevation 558 ft band", "Franklin County / coords 38.5500, -91.0200"]
-zillowHomeValueUsd: 307016
 ---
 
-**Engineering Notice for Washington:** Structural loading calculated based on 558 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Washington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Franklin County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Washington, MO, but intake notes help reduce delays.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-We coordinate local dispatch coverage around Washington, MO and nearby ZIP sectors.
+Flea pupae survive vacuuming in Washington, MO carpet fibers unless heat treatment follows.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Tip: address recurring issues early to prevent bigger damage.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Wind exposure category reviewed for ZIP sector 63090.
+Mud dauber nests in Washington, MO porch ceilings are benign but signal prey density for spiders.
 
-Field note: Moisture pathway inspection logged near ZIP 63090 intake.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Dispatch sectors sampled: ZIP 63090 (county grid: Franklin County).
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Attic fogging in Washington, MO requires combustion appliance shutoff verification first.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Across Washington, MO, rodent entry points frequently track utility penetrations.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Exclusion audit 175859: exclusion mesh gauge and rodent runway grease mark reviewed for Washington, MO at 38.5500/-91.0200.
+
+Primary postal anchor 63090 with multi-ZIP overlap in Washington; field packets tag Franklin County for county-grid reconciliation.
 
 Service reference: MO-63090-aa4ee0c5

@@ -11,26 +11,37 @@ lng: -83.2400
 zipSample: ["48326", "48321"]
 zipCodes: ["48326", "48321"]
 localPaths: ["Oakland County / elevation 965 ft band", "Oakland County / coords 42.6700, -83.2400", "Oakland County / ZIP 48321 sector", "Oakland County / primary ZIP 48326", "Oakland County / ZIP 48326 sector"]
-zillowHomeValueUsd: 280653
 ---
 
-**Engineering Notice for Auburn Hills:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for Auburn Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oakland County.
 
 
-Our service coordination centers on Auburn Hills, MI coverage windows and verified intake details.
+Yellow jacket nests in Auburn Hills, MI soffit cavities peak in late summer routing windows.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Dry-wood termite pellets in Auburn Hills, MI attics may appear before exterior mud tubes.
 
-Structured milestones protect both sides when scheduling work.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Tip: request a written scope before work starts.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Moisture pathway inspection logged near ZIP 48326/48321 intake.
+In Auburn Hills, MI, subterranean termite swarms often follow warm rain windows.
 
-Field note: Access points and staging constraints recorded for ZIP 48326/48321 coverage.
+Monitoring boards in Auburn Hills, MI crawlspaces stay 72 hours before snap traps are reset.
 
-Dispatch sectors sampled: ZIP 48326, 48321 (county grid: Oakland County).
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Perimeter mulch beds in Auburn Hills, MI should be reviewed for ant bridge paths.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Silverfish activity in Auburn Hills, MI attics tracks cardboard storage and ridge vent gaps.
+
+Intercept log 928301: bed bug intercept count staged before Auburn Hills, MI interior gel zones.
+
+On-site sector marker: Oakland County / ZIP 48326 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48326-82623d2c

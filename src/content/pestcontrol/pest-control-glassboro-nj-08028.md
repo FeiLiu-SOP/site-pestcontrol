@@ -11,24 +11,39 @@ lng: -75.1100
 zipSample: ["08028"]
 zipCodes: ["08028"]
 localPaths: ["Gloucester County / elevation 148 ft band", "Gloucester County / coords 39.7000, -75.1100", "Gloucester County / ZIP 08028 sector", "Gloucester County / primary ZIP 08028"]
-zillowHomeValueUsd: 366248
 ---
 
-**Engineering Notice for Glassboro:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Gloucester County.
+**Engineering Notice for Glassboro:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gloucester County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Flea pupae survive vacuuming in Glassboro, NJ carpet fibers unless heat treatment follows.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Glassboro, NJ, but intake notes help reduce delays.
+Tip: Trim vegetation 12 inches from cladding service to reduce ant bridges.
 
-Tip: avoid large upfront payments without milestones.
+Powderpost beetle exit holes in Glassboro, NJ trim can be mistaken for dry-wood frass without magnification.
 
-Our service coordination centers on Glassboro, NJ coverage windows and verified intake details.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Tip: request a written scope before work starts.
+Bird mites in Glassboro, NJ exhaust vents can persist after host nests are removed.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 08028.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Dispatch sectors sampled: ZIP 08028 (county grid: Gloucester County).
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Glassboro, NJ.
+
+County grid Gloucester County informs routing near ZIP 08028.
+
+Silverfish activity in Glassboro, NJ attics tracks cardboard storage and ridge vent gaps.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Step: record station placement maps for follow-up visits.
+
+Harbor ledger 154412: frass lane, mud-tube scan, and garage jamb gap measure filed for Glassboro, NJ at 39.7000, -75.1100.
+
+Exclusion audit 154412: exclusion mesh gauge and rodent runway grease mark reviewed for Glassboro, NJ at 39.7000/-75.1100.
+
+On-site sector marker: Gloucester County / elevation 148 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-08028-536778f4

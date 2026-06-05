@@ -11,24 +11,39 @@ lng: -76.3100
 zipSample: ["21015", "21014", "21009"]
 zipCodes: ["21015", "21014", "21009"]
 localPaths: ["Harford County / ZIP 21009 sector", "Harford County / ZIP 21014 sector", "Harford County / primary ZIP 21009", "Harford County / ZIP 21015 sector", "Harford County / elevation 213 ft band"]
-zillowHomeValueUsd: 374707
 ---
 
-**Engineering Notice for Bel Air South:** Structural loading calculated based on 213 ft terrain assessment. Regional dispatch grid: Harford County.
+**Engineering Notice for Bel Air South:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harford County.
 
 
-Our service coordination centers on Bel Air South, MD coverage windows and verified intake details.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Tip: confirm licensing and insurance before approving work.
+Silverfish activity in Bel Air South, MD attics tracks cardboard storage and ridge vent gaps.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Spider populations in Bel Air South, MD eaves can signal insect prey density.
 
-Field note: Moisture pathway inspection logged near ZIP 21014/21015/21009 intake.
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
 
-Dispatch sectors sampled: ZIP 21014, 21015, 21009 (county grid: Harford County).
+Risk flag: In Bel Air South, MD, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Flea pupae survive vacuuming in Bel Air South, MD carpet fibers unless heat treatment follows.
+
+Seasonal pest pressure in Bel Air South, MD shifts between moisture ants and dry-wood vectors.
+
+Mosquito breeding in Bel Air South, MD catch basins can amplify perimeter callbacks.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Mud dauber nests in Bel Air South, MD porch ceilings are benign but signal prey density for spiders.
+
+Perimeter dossier 370230: bait station anchor map and mulch bridge risk flagged for Bel Air South, MD county Harford County (ZIP 21009).
+
+Seasonal cue 370230: cluster fly attic staging reviewed for Bel Air South, MD soffit cavities.
+
+Primary postal anchor 21009 with multi-ZIP overlap in Bel Air South; field packets tag Harford County for county-grid reconciliation.
 
 Service reference: MD-21009-7985b84c

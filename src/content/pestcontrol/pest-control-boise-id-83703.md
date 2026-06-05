@@ -11,26 +11,37 @@ lng: -116.2300
 zipSample: ["83722", "83799", "83701", "83756", "83703"]
 zipCodes: ["83704", "83708", "83729", "83725", "83706", "83735", "83724", "83715", "83712", "83720", "83703", "83702"]
 localPaths: ["Ada County / ZIP 83722 sector", "Ada County / elevation 2756 ft band", "Ada County / ZIP 83703 sector", "Ada County / ZIP 83799 sector", "Ada County / primary ZIP 83703"]
-zillowHomeValueUsd: 530664
 ---
 
-**Engineering Notice for Boise:** Structural loading calculated based on 2756 ft terrain assessment. Regional dispatch grid: Ada County.
+**Engineering Notice for Boise:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ada County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Boise, ID, but intake notes help reduce delays.
+Dry-wood termite pellets in Boise, ID attics may appear before exterior mud tubes.
 
-We coordinate local dispatch coverage around Boise, ID and nearby ZIP sectors.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Tip: request a written scope before work starts.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-A written scope helps prevent rework and mismatched expectations.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 83703.
 
-Local conditions in Boise, ID can affect timelines and material choices.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Connection points spot-checked where accessible (ZIP 83728/83717/83722 zone).
+Yellow jacket nests in Boise, ID soffit cavities peak in late summer routing windows.
 
-Field note: Access points and staging constraints recorded for ZIP 83728/83717/83722 coverage.
+Request an inspection with species ID before treatment. Serving ZIP Code: 83703.
 
-Dispatch sectors sampled: ZIP 83728, 83717, 83722, 83702, 83704 (county grid: Ada County).
+Attic fogging in Boise, ID requires combustion appliance shutoff verification first.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Boise, ID, pressure often rebuilds.
+
+Perimeter dossier 203852: bait station anchor map and mulch bridge risk flagged for Boise, ID county Ada County (ZIP 83703).
+
+Coordinate-anchored dispatch note: center reference 43.6000, -116.2300 at elevation ~2756 ft aligns with Ada County intake staging.
 
 Service reference: ID-83703-349f898e

@@ -11,24 +11,41 @@ lng: -80.1500
 zipSample: ["26555", "26554"]
 zipCodes: ["26555", "26554"]
 localPaths: ["Marion County / primary ZIP 26554", "Marion County / elevation 997 ft band", "Marion County / ZIP 26555 sector", "Marion County / coords 39.4800, -80.1500", "Marion County / ZIP 26554 sector"]
-zillowHomeValueUsd: 182390
 ---
 
-**Engineering Notice for Fairmont:** Structural loading calculated based on 997 ft terrain assessment. Regional dispatch grid: Marion County.
+**Engineering Notice for Fairmont:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marion County.
 
 
-Tip: avoid large upfront payments without milestones.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Stink bug overwinter seams in Fairmont, WV exterior cladding laps require exclusion foam rated for UV exposure.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+State note: Fairmont, WV commercial kitchens may require separate documentation for audit visits.
 
-Local conditions in Fairmont, WV can affect timelines and material choices.
+Drain fly biofilm in Fairmont, WV floor drains signals grease traps need service before gel baits.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 26554/26555.
+Material note: Perimeter granules in Fairmont, WV may need reapplication after heavy irrigation.
 
-Dispatch sectors sampled: ZIP 26554, 26555 (county grid: Marion County).
+Step: label treatment zones for occupant re-entry timing.
+
+Attic misting in Fairmont, WV requires combustion air clearance verified before fans restart.
+
+Risk flag: Overwatered Fairmont, WV planters can restart ant bridges within two weeks.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 26554.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Exclusion gaps at garage jambs in Fairmont, WV are common rodent access points.
+
+Stored cardboard in Fairmont, WV garages can accelerate pantry pest cycles.
+
+Seasonal cue 789720: cluster fly attic staging reviewed for Fairmont, WV soffit cavities.
+
+On-site sector marker: Marion County / primary ZIP 26554 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WV-26554-2d50a7ff

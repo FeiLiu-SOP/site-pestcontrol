@@ -11,26 +11,43 @@ lng: -90.1500
 zipSample: ["62002", "62018"]
 zipCodes: ["62002", "62018"]
 localPaths: ["Madison County / coords 38.9000, -90.1500", "Madison County / ZIP 62002 sector", "Madison County / ZIP 62018 sector", "Madison County / elevation 535 ft band", "Madison County / primary ZIP 62018"]
-zillowHomeValueUsd: 107996
 ---
 
-**Engineering Notice for Alton:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: Madison County.
+**Engineering Notice for Alton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Madison County.
 
 
-We coordinate local dispatch coverage around Alton, IL and nearby ZIP sectors.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 62018.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Tip: confirm licensing and insurance before approving work.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Transparent pricing helps you compare like-for-like scope items.
+Flea pupae survive vacuuming in Alton, IL carpet fibers unless heat treatment follows.
 
-Tip: compare at least two estimates for scope and timeline.
+Stored cardboard in Alton, IL garages can accelerate pantry pest cycles.
 
-Field note: Connection points spot-checked where accessible (ZIP 62002/62018 zone).
+Perimeter granule carriers in Alton, IL clay soils may need lighter irrigation before application.
 
-Field note: Wind exposure category reviewed for ZIP sector 62002/62018.
+Yellow jacket nests in Alton, IL soffit cavities peak in late summer routing windows.
 
-Dispatch sectors sampled: ZIP 62002, 62018 (county grid: Madison County).
+Mud dauber nests in Alton, IL porch ceilings are benign but signal prey density for spiders.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Spider populations in Alton, IL eaves can signal insect prey density.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Zone map 650082: attic insulation disturbance trace and pantry pest source logged for Alton, IL sector 62018.
+
+Seasonal cue 650082: cluster fly attic staging reviewed for Alton, IL soffit cavities.
+
+On-site sector marker: Madison County / coords 38.9000, -90.1500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-62018-75fd0bf7

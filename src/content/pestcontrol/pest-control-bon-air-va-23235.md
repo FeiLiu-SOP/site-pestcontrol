@@ -11,24 +11,41 @@ lng: -77.5700
 zipSample: ["23235"]
 zipCodes: ["23235"]
 localPaths: ["Chesterfield County / elevation 322 ft band", "Chesterfield County / ZIP 23235 sector", "Chesterfield County / coords 37.5200, -77.5700", "Chesterfield County / primary ZIP 23235"]
-zillowHomeValueUsd: 412262
 ---
 
-**Engineering Notice for Bon Air:** Structural loading calculated based on 322 ft terrain assessment. Regional dispatch grid: Chesterfield County.
+**Engineering Notice for Bon Air:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Chesterfield County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: record station placement maps for follow-up visits.
 
-In Bon Air, VA, urgent pest control issues can escalate quickly.
+Bird mites in Bon Air, VA exhaust vents can persist after host nests are removed.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Yellow jacket nests in Bon Air, VA soffit cavities peak in late summer routing windows.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Wind exposure category reviewed for ZIP sector 23235.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Dispatch sectors sampled: ZIP 23235 (county grid: Chesterfield County).
+Risk flag: Overwatered Bon Air, VA planters can restart ant bridges within two weeks.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Bon Air, VA.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Cluster fly attic staging in Bon Air, VA peaks on south-facing voids after sunny thaw days.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Perimeter granule carriers in Bon Air, VA clay soils may need lighter irrigation before application.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Seasonal cue 823601: cluster fly attic staging reviewed for Bon Air, VA soffit cavities.
+
+Primary postal anchor 23235 with multi-ZIP overlap in Bon Air; field packets tag Chesterfield County for county-grid reconciliation.
 
 Service reference: VA-23235-3cc2614d

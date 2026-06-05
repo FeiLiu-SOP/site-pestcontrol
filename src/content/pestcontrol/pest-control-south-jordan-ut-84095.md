@@ -11,26 +11,39 @@ lng: -111.9800
 zipSample: ["84095", "84009", "84096"]
 zipCodes: ["84009", "84096", "84095"]
 localPaths: ["Salt Lake County / elevation 4672 ft band", "Salt Lake County / ZIP 84009 sector", "Salt Lake County / primary ZIP 84095", "Salt Lake County / coords 40.5600, -111.9800", "Salt Lake County / ZIP 84095 sector"]
-zillowHomeValueUsd: 759210
 ---
 
-**Engineering Notice for South Jordan:** Structural loading calculated based on 4672 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for South Jordan:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Salt Lake County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Log pet access routes when bait stations are placed.
 
-Tip: avoid large upfront payments without milestones.
+Monitoring boards in South Jordan, UT crawlspaces stay 72 hours before snap traps are reset.
 
-In South Jordan, UT, seasonal demand can change scheduling windows.
+Silverfish activity in South Jordan, UT attics tracks cardboard storage and ridge vent gaps.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in South Jordan, UT, but intake notes help reduce delays.
+Step: label treatment zones for occupant re-entry timing.
 
-Transparent pricing helps you compare like-for-like scope items.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Connection points spot-checked where accessible (ZIP 84009/84095/84096 zone).
+Exclusion gaps at garage jambs in South Jordan, UT are common rodent access points.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84009/84095/84096.
+Mosquito breeding in South Jordan, UT catch basins can amplify perimeter callbacks.
 
-Dispatch sectors sampled: ZIP 84009, 84095, 84096 (county grid: Salt Lake County).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+IGR packets for South Jordan, UT roach cycles should be dated on station lids.
+
+Risk flag: Overwatered South Jordan, UT planters can restart ant bridges within two weeks.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 84095.
+
+Yellow jacket nests in South Jordan, UT soffit cavities peak in late summer routing windows.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Exclusion audit 449945: exclusion mesh gauge and rodent runway grease mark reviewed for South Jordan, UT at 40.5600/-111.9800.
+
+On-site sector marker: Salt Lake County / ZIP 84095 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84095-76f3dbc5

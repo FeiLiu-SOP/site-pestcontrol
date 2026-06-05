@@ -11,26 +11,39 @@ lng: -111.8200
 zipSample: ["84121", "84117", "84124"]
 zipCodes: ["84124", "84117", "84121"]
 localPaths: ["Salt Lake County / coords 40.6600, -111.8200", "Salt Lake County / elevation 4452 ft band", "Salt Lake County / ZIP 84117 sector", "Salt Lake County / ZIP 84124 sector", "Salt Lake County / primary ZIP 84117"]
-zillowHomeValueUsd: 694483
 ---
 
-**Engineering Notice for Holladay:** Structural loading calculated based on 4452 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Holladay:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Salt Lake County.
 
 
-We coordinate local dispatch coverage around Holladay, UT and nearby ZIP sectors.
+Mud dauber nests in Holladay, UT porch ceilings are benign but signal prey density for spiders.
 
-Tip: confirm licensing and insurance before approving work.
+State note: Holladay, UT commercial kitchens may require separate documentation for audit visits.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Log pet access routes when bait stations are placed.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Earwig harborages in Holladay, UT meter boxes often follow drip irrigation overspray.
 
-Field note: Access points and staging constraints recorded for ZIP 84121/84117/84124 coverage.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84121/84117/84124.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Dispatch sectors sampled: ZIP 84121, 84117, 84124 (county grid: Salt Lake County).
+Silverfish activity in Holladay, UT attics tracks cardboard storage and ridge vent gaps.
+
+Fire ant mounds in Holladay, UT drive seams need granule rotation after irrigation events.
+
+Wildlife odors in Holladay, UT crawlspaces may attract secondary pest activity.
+
+Yellow jacket nests in Holladay, UT soffit cavities peak in late summer routing windows.
+
+Risk flag: In Holladay, UT, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Seasonal cue 373719: cluster fly attic staging reviewed for Holladay, UT soffit cavities.
+
+Exclusion audit 373719: exclusion mesh gauge and rodent runway grease mark reviewed for Holladay, UT at 40.6600/-111.8200.
+
+On-site sector marker: Salt Lake County / coords 40.6600, -111.8200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84117-f036578c

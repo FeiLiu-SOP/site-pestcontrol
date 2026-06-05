@@ -11,26 +11,41 @@ lng: -96.6800
 zipSample: ["68509", "68520", "68544", "68503", "68583"]
 zipCodes: ["68588", "68520", "68521", "68526", "68544", "68524", "68506", "68504", "68508", "68528", "68529", "68502"]
 localPaths: ["Lancaster County / elevation 1224 ft band", "Lancaster County / ZIP 68544 sector", "Lancaster County / ZIP 68583 sector", "Lancaster County / ZIP 68509 sector", "Lancaster County / coords 40.8100, -96.6800"]
-zillowHomeValueUsd: 287525
 ---
 
-**Engineering Notice for Lincoln:** Structural loading calculated based on 1224 ft terrain assessment. Regional dispatch grid: Lancaster County.
+**Engineering Notice for Lincoln:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lancaster County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Across Lincoln, NE, rodent entry points frequently track utility penetrations.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Lincoln, NE, but intake notes help reduce delays.
+Silverfish activity in Lincoln, NE attics tracks cardboard storage and ridge vent gaps.
 
-Our service coordination centers on Lincoln, NE coverage windows and verified intake details.
+Monitoring boards in Lincoln, NE crawlspaces stay 72 hours before snap traps are reset.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 68507/68524/68512.
+Earwig harborages in Lincoln, NE meter boxes often follow drip irrigation overspray.
 
-Field note: Access points and staging constraints recorded for ZIP 68507/68524/68512 coverage.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Dispatch sectors sampled: ZIP 68507, 68524, 68512, 68520, 68503 (county grid: Lancaster County).
+Material note: Perimeter granules in Lincoln, NE may need reapplication after heavy irrigation.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Step: map entry points with photo logs before sealing.
+
+Seasonal cue 142591: cluster fly attic staging reviewed for Lincoln, NE soffit cavities.
+
+Intercept log 142591: bed bug intercept count staged before Lincoln, NE interior gel zones.
+
+Coordinate-anchored dispatch note: center reference 40.8100, -96.6800 at elevation ~1224 ft aligns with Lancaster County intake staging.
 
 Service reference: NE-68528-2e9046e7

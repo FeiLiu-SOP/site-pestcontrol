@@ -11,26 +11,37 @@ lng: -74.0300
 zipSample: ["07087"]
 zipCodes: ["07087"]
 localPaths: ["Hudson County / coords 40.7700, -74.0300", "Hudson County / elevation 210 ft band", "Hudson County / primary ZIP 07087", "Hudson County / ZIP 07087 sector"]
-zillowHomeValueUsd: 567879
 ---
 
-**Engineering Notice for Union City:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Hudson County.
+**Engineering Notice for Union City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hudson County.
 
 
-We coordinate local dispatch coverage around Union City, NJ and nearby ZIP sectors.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Yellow jacket nests in Union City, NJ soffit cavities peak in late summer routing windows.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Union City, NJ, but intake notes help reduce delays.
+FAQ: What is exclusion? Without sealing entry points in Union City, NJ, pressure often rebuilds.
 
-Local conditions in Union City, NJ can affect timelines and material choices.
+Seasonal pest pressure in Union City, NJ shifts between moisture ants and dry-wood vectors.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Spider populations in Union City, NJ eaves can signal insect prey density.
 
-Field note: Access points and staging constraints recorded for ZIP 07087 coverage.
+Earwig harborages in Union City, NJ meter boxes often follow drip irrigation overspray.
 
-Field note: Wind exposure category reviewed for ZIP sector 07087.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Dispatch sectors sampled: ZIP 07087 (county grid: Hudson County).
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Material note: Perimeter granules in Union City, NJ may need reapplication after heavy irrigation.
+
+Risk flag: In Union City, NJ, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Step: verify attic access safety before insulation disturbance.
+
+Drain fly biofilm in Union City, NJ floor drains signals grease traps need service before gel baits.
+
+Species trace 335373: re-entry interval label and conducive moisture note keyed to Union City, NJ elevation 210 ft.
+
+Primary postal anchor 07087 with multi-ZIP overlap in Union City; field packets tag Hudson County for county-grid reconciliation.
 
 Service reference: NJ-07087-d4d718f2

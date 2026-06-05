@@ -11,25 +11,39 @@ lng: -116.3700
 zipSample: ["92255", "92260", "92211"]
 zipCodes: ["92260", "92255", "92211"]
 localPaths: ["Riverside County / coords 33.7400, -116.3700", "Riverside County / primary ZIP 92260", "Riverside County / ZIP 92255 sector", "Riverside County / elevation 154 ft band", "Riverside County / ZIP 92260 sector"]
-zillowHomeValueUsd: 589945
 ---
 
-**Engineering Notice for Palm Desert:** Structural loading calculated based on 154 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Palm Desert:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 92260.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Log pet access routes when bait stations are placed.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: request a written scope before work starts.
+Exclusion gaps at garage jambs in Palm Desert, CA are common rodent access points.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Connection points spot-checked where accessible (ZIP 92211/92260/92255 zone).
+Wildlife odors in Palm Desert, CA crawlspaces may attract secondary pest activity.
 
-Dispatch sectors sampled: ZIP 92211, 92260, 92255 (county grid: Riverside County).
+Step: record station placement maps for follow-up visits.
+
+Tip: Trim vegetation 12 inches from exterior cladding to reduce ant bridges.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Flea pupae survive vacuuming in Palm Desert, CA carpet fibers unless heat treatment follows.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Mud dauber nests in Palm Desert, CA porch ceilings are benign but signal prey density for spiders.
+
+Seasonal cue 674448: cluster fly attic staging reviewed for Palm Desert, CA soffit cavities.
+
+Perimeter dossier 674448: bait station anchor map and mulch bridge risk flagged for Palm Desert, CA county Riverside County (ZIP 92260).
+
+On-site sector marker: Riverside County / ZIP 92211 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92260-1cfdedfd

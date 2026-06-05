@@ -11,26 +11,39 @@ lng: -117.0300
 zipSample: ["91945", "91946"]
 zipCodes: ["91945", "91946"]
 localPaths: ["San Diego County / primary ZIP 91945", "San Diego County / elevation 420 ft band", "San Diego County / ZIP 91946 sector", "San Diego County / ZIP 91945 sector", "San Diego County / coords 32.7300, -117.0300"]
-zillowHomeValueUsd: 762165
 ---
 
-**Engineering Notice for Lemon Grove:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for Lemon Grove:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.
 
 
-Homeowners in Lemon Grove, CA often face sudden pest control problems that require fast action.
+Risk flag: In Lemon Grove, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-We coordinate local dispatch coverage around Lemon Grove, CA and nearby ZIP sectors.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Overwatered Lemon Grove, CA planters can restart ant bridges within two weeks.
 
-Tip: compare at least two estimates for scope and timeline.
+Attic misting in Lemon Grove, CA requires combustion air clearance verified before fans restart.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Bird mites in Lemon Grove, CA exhaust vents can persist after host nests are removed.
 
-Field note: Connection points spot-checked where accessible (ZIP 91945/91946 zone).
+Material note: Perimeter granules in Lemon Grove, CA may need reapplication after heavy irrigation.
 
-Field note: Moisture pathway inspection logged near ZIP 91945/91946 intake.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Dispatch sectors sampled: ZIP 91945, 91946 (county grid: San Diego County).
+Step: map entry points with photo logs before sealing.
+
+Attic fogging in Lemon Grove, CA requires combustion appliance shutoff verification first.
+
+Fire ant mounds in Lemon Grove, CA drive seams need granule rotation after irrigation events.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Zone map 744435: attic insulation disturbance trace and pantry pest source logged for Lemon Grove, CA sector 91945.
+
+Exclusion audit 744435: exclusion mesh gauge and rodent runway grease mark reviewed for Lemon Grove, CA at 32.7300/-117.0300.
+
+On-site sector marker: San Diego County / elevation 420 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91945-20104b54

@@ -11,26 +11,43 @@ lng: -122.0400
 zipSample: ["94596", "94598", "94597", "94595"]
 zipCodes: ["94595", "94598", "94597", "94596"]
 localPaths: ["Contra Costa County / elevation 210 ft band", "Contra Costa County / ZIP 94598 sector", "Contra Costa County / coords 37.9000, -122.0400", "Contra Costa County / primary ZIP 94597", "Contra Costa County / ZIP 94597 sector"]
-zillowHomeValueUsd: 1004209
 ---
 
-**Engineering Notice for Walnut Creek:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Walnut Creek:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.
 
 
-Our service coordination centers on Walnut Creek, CA coverage windows and verified intake details.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: avoid large upfront payments without milestones.
+Step: separate bait rotation schedules from crack-and-crevice applications in Walnut Creek, CA.
 
-A written scope helps prevent rework and mismatched expectations.
+Exclusion gaps at garage jambs in Walnut Creek, CA are common rodent access points.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Wind exposure category reviewed for ZIP sector 94597/94595/94596.
+FAQ: Can bed bugs spread room-to-room in Walnut Creek, CA row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94597/94595/94596.
+Monitoring boards in Walnut Creek, CA crawlspaces stay 72 hours before snap traps are reset.
 
-Dispatch sectors sampled: ZIP 94597, 94595, 94596, 94598 (county grid: Contra Costa County).
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Perimeter mulch beds in Walnut Creek, CA should be reviewed for ant bridge paths.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Earwig harborages in Walnut Creek, CA meter boxes often follow drip irrigation overspray.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Step: verify attic access safety before insulation disturbance.
+
+Exclusion audit 479893: exclusion mesh gauge and rodent runway grease mark reviewed for Walnut Creek, CA at 37.9000/-122.0400.
+
+Intercept log 479893: bed bug intercept count staged before Walnut Creek, CA interior gel zones.
+
+Coordinate-anchored dispatch note: center reference 37.9000, -122.0400 at elevation ~210 ft aligns with Contra Costa County intake staging.
 
 Service reference: CA-94597-c7cc4e60

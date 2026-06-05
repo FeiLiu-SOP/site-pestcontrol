@@ -11,24 +11,41 @@ lng: -94.1500
 zipSample: ["72716", "72758", "72757", "72756"]
 zipCodes: ["72716", "72758", "72756", "72757"]
 localPaths: ["Benton County / elevation 1362 ft band", "Benton County / primary ZIP 72758", "Benton County / ZIP 72758 sector", "Benton County / ZIP 72756 sector", "Benton County / ZIP 72716 sector"]
-zillowHomeValueUsd: 455802
 ---
 
-**Engineering Notice for Rogers:** Structural loading calculated based on 1362 ft terrain assessment. Regional dispatch grid: Benton County.
+**Engineering Notice for Rogers:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Benton County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Clover mite staining on Rogers, AR cladding service follows foundation mulch against brick ledges.
 
-We coordinate local dispatch coverage around Rogers, AR and nearby ZIP sectors.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Rogers, AR.
 
-Tip: avoid large upfront payments without milestones.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Exclusion gaps at garage jambs in Rogers, AR are common rodent access points.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Connection points spot-checked where accessible (ZIP 72716/72756/72757 zone).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Dispatch sectors sampled: ZIP 72716, 72756, 72757, 72758 (county grid: Benton County).
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Attic fogging in Rogers, AR requires combustion appliance shutoff verification first.
+
+Dry-wood termite pellets in Rogers, AR attics may appear before exterior mud tubes.
+
+FAQ: Why schedule quarterly instead of monthly in Rogers, AR? Species pressure and label intervals dictate cadence.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Tip: Date bait station lids when servicing Rogers, AR perimeter lines.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 72758.
+
+Zone map 658702: attic insulation disturbance trace and pantry pest source logged for Rogers, AR sector 72758.
+
+On-site sector marker: Benton County / ZIP 72758 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-72758-8725bdd8

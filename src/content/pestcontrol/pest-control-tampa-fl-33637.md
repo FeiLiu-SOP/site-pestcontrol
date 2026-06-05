@@ -11,26 +11,41 @@ lng: -82.4400
 zipSample: ["33603", "33637", "33664", "33633", "33606"]
 zipCodes: ["33608", "33602", "33614", "33677", "33619", "33686", "33621", "33613", "33603", "33630", "33620", "33647"]
 localPaths: ["Hillsborough County / ZIP 33633 sector", "Hillsborough County / ZIP 33606 sector", "Hillsborough County / ZIP 33664 sector", "Hillsborough County / primary ZIP 33637", "Hillsborough County / ZIP 33603 sector"]
-zillowHomeValueUsd: 295104
 ---
 
-**Engineering Notice for Tampa:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Tampa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: In Tampa, FL, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Tip: request a written scope before work starts.
+Powderpost beetle exit holes in Tampa, FL trim can be mistaken for dry-wood frass without magnification.
 
-Local conditions in Tampa, FL can affect timelines and material choices.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Tampa, FL, but intake notes help reduce delays.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-We coordinate local dispatch coverage around Tampa, FL and nearby ZIP sectors.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Tampa, FL.
 
-Field note: Wind exposure category reviewed for ZIP sector 33604/33629/33631.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33604/33629/33631.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Dispatch sectors sampled: ZIP 33604, 33629, 33631, 33646, 33610 (county grid: Hillsborough County).
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Clover mite staining on Tampa, FL exterior cladding follows foundation mulch against brick ledges.
+
+Dry-wood termite pellets in Tampa, FL attics may appear before exterior mud tubes.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Perimeter granule carriers in Tampa, FL clay soils may need lighter irrigation before application.
+
+Mud dauber nests in Tampa, FL porch ceilings are benign but signal prey density for spiders.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Perimeter dossier 202088: bait station anchor map and mulch bridge risk flagged for Tampa, FL county Hillsborough County (ZIP 33637).
+
+On-site sector marker: Hillsborough County / primary ZIP 33637 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33637-c408dc9d

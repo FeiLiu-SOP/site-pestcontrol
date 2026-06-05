@@ -11,24 +11,39 @@ lng: -118.4000
 zipSample: ["90230", "90231", "90232"]
 zipCodes: ["90230", "90231", "90232"]
 localPaths: ["Los Angeles County / ZIP 90232 sector", "Los Angeles County / ZIP 90231 sector", "Los Angeles County / primary ZIP 90232", "Los Angeles County / elevation 59 ft band", "Los Angeles County / ZIP 90230 sector"]
-zillowHomeValueUsd: 1737086
 ---
 
-**Engineering Notice for Culver City:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Culver City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Culver City, CA, but intake notes help reduce delays.
+IGR packets for Culver City, CA roach cycles should be dated on station lids.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 90232.
 
-We coordinate local dispatch coverage around Culver City, CA and nearby ZIP sectors.
+FAQ: Can bed bugs spread room-to-room in Culver City, CA row homes? Wall voids and shared ducts accelerate transfer.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Seasonal pest pressure in Culver City, CA shifts between moisture ants and dry-wood vectors.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Date bait station lids when servicing Culver City, CA perimeter lines.
 
-Field note: Access points and staging constraints recorded for ZIP 90232/90231/90230 coverage.
+Monitoring boards in Culver City, CA crawlspaces stay 72 hours before snap traps are reset.
 
-Dispatch sectors sampled: ZIP 90232, 90231, 90230 (county grid: Los Angeles County).
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Mosquito breeding in Culver City, CA catch basins can amplify perimeter callbacks.
+
+Step: label treatment zones for occupant re-entry timing.
+
+FAQ: Why schedule quarterly instead of monthly in Culver City, CA? Species pressure and label intervals dictate cadence.
+
+Attic insulation disturbance in Culver City, CA may indicate wildlife nesting routes.
+
+Intercept log 276573: bed bug intercept count staged before Culver City, CA interior gel zones.
+
+Seasonal cue 276573: cluster fly attic staging reviewed for Culver City, CA soffit cavities.
+
+On-site sector marker: Los Angeles County / ZIP 90231 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90232-fe23aed6

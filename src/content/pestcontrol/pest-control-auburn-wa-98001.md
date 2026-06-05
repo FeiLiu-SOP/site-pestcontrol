@@ -11,26 +11,41 @@ lng: -122.2100
 zipSample: ["98002", "98001", "98092"]
 zipCodes: ["98001", "98002", "98092"]
 localPaths: ["King County / elevation 92 ft band", "King County / ZIP 98002 sector", "King County / coords 47.3000, -122.2100", "King County / primary ZIP 98001", "King County / ZIP 98092 sector"]
-zillowHomeValueUsd: 640530
 ---
 
-**Engineering Notice for Auburn:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Auburn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Earwig harborages in Auburn, WA meter boxes often follow drip irrigation overspray.
 
-Homeowners in Auburn, WA often face sudden pest control problems that require fast action.
+Humidity in Auburn, WA can sustain cockroach harborages behind appliance voids.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+State note: Auburn, WA commercial kitchens may require separate documentation for audit visits.
 
-Tip: address recurring issues early to prevent bigger damage.
+Attic fogging in Auburn, WA requires combustion appliance shutoff verification first.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Overwatered Auburn, WA planters can restart ant bridges within two weeks.
 
-Field note: Access points and staging constraints recorded for ZIP 98092/98001/98002 coverage.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98092/98001/98002.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Auburn, WA.
 
-Dispatch sectors sampled: ZIP 98092, 98001, 98002 (county grid: King County).
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Wildlife odors in Auburn, WA crawlspaces may attract secondary pest activity.
+
+Silverfish activity in Auburn, WA attics tracks cardboard storage and ridge vent gaps.
+
+FAQ: Can bed bugs spread room-to-room in Auburn, WA row homes? Wall voids and shared ducts accelerate transfer.
+
+Perimeter granule carriers in Auburn, WA clay soils may need lighter irrigation before application.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Intercept log 542189: bed bug intercept count staged before Auburn, WA interior gel zones.
+
+Harbor ledger 542189: frass lane, mud-tube scan, and garage jamb gap measure filed for Auburn, WA at 47.3000, -122.2100.
+
+On-site sector marker: King County / ZIP 98092 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98001-7db2925c

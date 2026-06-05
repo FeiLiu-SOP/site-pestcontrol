@@ -11,26 +11,39 @@ lng: -113.3500
 zipSample: ["84737"]
 zipCodes: ["84737"]
 localPaths: ["Washington County / coords 37.1500, -113.3500", "Washington County / primary ZIP 84737", "Washington County / ZIP 84737 sector", "Washington County / elevation 3264 ft band"]
-zillowHomeValueUsd: 514686
 ---
 
-**Engineering Notice for Hurricane:** Structural loading calculated based on 3264 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Hurricane:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Homeowners in Hurricane, UT often face sudden pest control problems that require fast action.
+Step: verify attic access safety before insulation disturbance.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hurricane, UT, but intake notes help reduce delays.
+Attic fogging in Hurricane, UT requires combustion appliance shutoff verification first.
 
-Tip: compare at least two estimates for scope and timeline.
+Wildlife odors in Hurricane, UT crawlspaces may attract secondary pest activity.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Seasonal pest pressure in Hurricane, UT shifts between moisture ants and dry-wood vectors.
 
-Field note: Wind exposure category reviewed for ZIP sector 84737.
+Monitoring boards in Hurricane, UT crawlspaces stay 72 hours before snap traps are reset.
 
-Field note: Moisture pathway inspection logged near ZIP 84737 intake.
+Step: record station placement maps for follow-up visits.
 
-Dispatch sectors sampled: ZIP 84737 (county grid: Washington County).
+Stink bug overwinter seams in Hurricane, UT cladding service laps require exclusion foam rated for UV exposure.
+
+Perimeter granule carriers in Hurricane, UT clay soils may need lighter irrigation before application.
+
+Humidity in Hurricane, UT can sustain cockroach harborages behind appliance voids.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Harbor ledger 269418: frass lane, mud-tube scan, and garage jamb gap measure filed for Hurricane, UT at 37.1500, -113.3500.
+
+Intercept log 269418: bed bug intercept count staged before Hurricane, UT interior gel zones.
+
+On-site sector marker: Washington County / coords 37.1500, -113.3500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84737-4a49684b

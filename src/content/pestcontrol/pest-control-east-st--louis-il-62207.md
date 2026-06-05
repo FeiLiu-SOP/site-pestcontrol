@@ -11,26 +11,39 @@ lng: -90.1300
 zipSample: ["62204", "62205", "62202", "62201", "62207"]
 zipCodes: ["62204", "62205", "62203", "62207", "62201", "62202"]
 localPaths: ["St. Clair County / ZIP 62207 sector", "St. Clair County / ZIP 62201 sector", "St. Clair County / ZIP 62202 sector", "St. Clair County / primary ZIP 62207", "St. Clair County / elevation 420 ft band"]
-zillowHomeValueUsd: 42229
 ---
 
-**Engineering Notice for East St. Louis:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: St. Clair County.
+**Engineering Notice for East St. Louis:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Clair County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Earwig harborages in East St. Louis, IL meter boxes often follow drip irrigation overspray.
 
-Local conditions in East St. Louis, IL can affect timelines and material choices.
+Powderpost beetle exit holes in East St. Louis, IL trim can be mistaken for dry-wood frass without magnification.
 
-Tip: avoid large upfront payments without milestones.
+Clover mite staining on East St. Louis, IL wall restoration follows foundation mulch against brick ledges.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in East St. Louis, IL, but intake notes help reduce delays.
+FAQ: Why schedule quarterly instead of monthly in East St. Louis, IL? Species pressure and label intervals dictate cadence.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Carpenter ant frass in East St. Louis, IL window sills may indicate moisture-softened framing.
 
-Field note: Access points and staging constraints recorded for ZIP 62205/62201/62207 coverage.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Connection points spot-checked where accessible (ZIP 62205/62201/62207 zone).
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
 
-Dispatch sectors sampled: ZIP 62205, 62201, 62207, 62202, 62204 (county grid: St. Clair County).
+Flea pupae survive vacuuming in East St. Louis, IL carpet fibers unless heat treatment follows.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 62207.
+
+Across East St. Louis, IL, rodent entry points frequently track utility penetrations.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 62207.
+
+Intercept log 222255: bed bug intercept count staged before East St. Louis, IL interior gel zones.
+
+Zone map 222255: attic insulation disturbance trace and pantry pest source logged for East St. Louis, IL sector 62207.
+
+Primary postal anchor 62207 with multi-ZIP overlap in East St. Louis; field packets tag St. Clair County for county-grid reconciliation.
 
 Service reference: IL-62207-abe899d6

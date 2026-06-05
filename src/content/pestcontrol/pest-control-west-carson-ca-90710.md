@@ -11,26 +11,43 @@ lng: -118.2900
 zipSample: ["90710", "90502"]
 zipCodes: ["90710", "90502"]
 localPaths: ["Los Angeles County / primary ZIP 90710", "Los Angeles County / elevation 52 ft band", "Los Angeles County / coords 33.8200, -118.2900", "Los Angeles County / ZIP 90710 sector", "Los Angeles County / ZIP 90502 sector"]
-zillowHomeValueUsd: 843439
 ---
 
-**Engineering Notice for West Carson:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for West Carson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-Structured milestones protect both sides when scheduling work.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 90710.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Why schedule quarterly instead of monthly in West Carson, CA? Species pressure and label intervals dictate cadence.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 90710.
 
-Field note: Wind exposure category reviewed for ZIP sector 90502/90710.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in West Carson, CA.
 
-Field note: Connection points spot-checked where accessible (ZIP 90502/90710 zone).
+Material note: Perimeter granules in West Carson, CA may need reapplication after heavy irrigation.
 
-Dispatch sectors sampled: ZIP 90502, 90710 (county grid: Los Angeles County).
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Powderpost beetle exit holes in West Carson, CA trim can be mistaken for dry-wood frass without magnification.
+
+Drain fly biofilm in West Carson, CA floor drains signals grease traps need service before gel baits.
+
+State note: West Carson, CA commercial kitchens may require separate documentation for audit visits.
+
+Across West Carson, CA, rodent entry points frequently track utility penetrations.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Flea pupae survive vacuuming in West Carson, CA carpet fibers unless heat treatment follows.
+
+Harbor ledger 682494: frass lane, mud-tube scan, and garage jamb gap measure filed for West Carson, CA at 33.8200, -118.2900.
+
+Perimeter dossier 682494: bait station anchor map and mulch bridge risk flagged for West Carson, CA county Los Angeles County (ZIP 90710).
+
+On-site sector marker: Los Angeles County / ZIP 90710 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90710-52e00c6b

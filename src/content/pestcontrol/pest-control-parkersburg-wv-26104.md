@@ -11,27 +11,39 @@ lng: -81.5400
 zipSample: ["26103", "26104", "26101"]
 zipCodes: ["26104", "26101", "26103"]
 localPaths: ["Wood County / ZIP 26103 sector", "Wood County / ZIP 26104 sector", "Wood County / primary ZIP 26104", "Wood County / ZIP 26101 sector", "Wood County / coords 39.2600, -81.5400"]
-zillowHomeValueUsd: 172465
 ---
 
-**Engineering Notice for Parkersburg:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Wood County.
+**Engineering Notice for Parkersburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wood County.
 
 
-Tip: request a written scope before work starts.
+Risk flag: In Parkersburg, WV, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-We coordinate local dispatch coverage around Parkersburg, WV and nearby ZIP sectors.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Parkersburg, WV.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 26104.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Connection points spot-checked where accessible (ZIP 26104/26103/26101 zone).
+Drain fly biofilm in Parkersburg, WV floor drains signals grease traps need service before gel baits.
 
-Field note: Moisture pathway inspection logged near ZIP 26104/26103/26101 intake.
+Clover mite staining on Parkersburg, WV exterior cladding follows foundation mulch against brick ledges.
 
-Dispatch sectors sampled: ZIP 26104, 26103, 26101 (county grid: Wood County).
+Attic insulation disturbance in Parkersburg, WV may indicate wildlife nesting routes.
+
+Carpenter ant frass in Parkersburg, WV window sills may indicate moisture-softened framing.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+FAQ: Can bed bugs spread room-to-room in Parkersburg, WV row homes? Wall voids and shared ducts accelerate transfer.
+
+Species trace 881668: re-entry interval label and conducive moisture note keyed to Parkersburg, WV elevation 627 ft.
+
+Perimeter dossier 881668: bait station anchor map and mulch bridge risk flagged for Parkersburg, WV county Wood County (ZIP 26104).
+
+Coordinate-anchored dispatch note: center reference 39.2600, -81.5400 at elevation ~627 ft aligns with Wood County intake staging.
 
 Service reference: WV-26104-5cf4a550

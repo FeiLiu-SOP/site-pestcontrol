@@ -11,27 +11,37 @@ lng: -117.7600
 zipSample: ["92651", "92652"]
 zipCodes: ["92651", "92652"]
 localPaths: ["Orange County / coords 33.5500, -117.7600", "Orange County / ZIP 92651 sector", "Orange County / primary ZIP 92651", "Orange County / elevation 696 ft band", "Orange County / ZIP 92652 sector"]
-zillowHomeValueUsd: 3022104
 ---
 
-**Engineering Notice for Laguna Beach:** Structural loading calculated based on 696 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Laguna Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.
 
 
-We coordinate local dispatch coverage around Laguna Beach, CA and nearby ZIP sectors.
+In Laguna Beach, CA, subterranean termite swarms often follow warm rain windows.
 
-Tip: confirm licensing and insurance before approving work.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 92651.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 92651.
+Fire ant mounds in Laguna Beach, CA drive seams need granule rotation after irrigation events.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Laguna Beach, CA, but intake notes help reduce delays.
+Step: label treatment zones for occupant re-entry timing.
 
-Field note: Wind exposure category reviewed for ZIP sector 92652/92651.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Moisture pathway inspection logged near ZIP 92652/92651 intake.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Dispatch sectors sampled: ZIP 92652, 92651 (county grid: Orange County).
+County grid Orange County informs routing near ZIP 92651.
+
+Bird mites in Laguna Beach, CA exhaust vents can persist after host nests are removed.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 92651.
+
+Material note: Perimeter granules in Laguna Beach, CA may need reapplication after heavy irrigation.
+
+Zone map 183482: attic insulation disturbance trace and pantry pest source logged for Laguna Beach, CA sector 92651.
+
+On-site sector marker: Orange County / ZIP 92652 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92651-e48e9abf

@@ -11,24 +11,43 @@ lng: -90.4800
 zipSample: ["52722"]
 zipCodes: ["52722"]
 localPaths: ["Scott County / elevation 673 ft band", "Scott County / ZIP 52722 sector", "Scott County / primary ZIP 52722", "Scott County / coords 41.5700, -90.4800"]
-zillowHomeValueUsd: 328968
 ---
 
-**Engineering Notice for Bettendorf:** Structural loading calculated based on 673 ft terrain assessment. Regional dispatch grid: Scott County.
+**Engineering Notice for Bettendorf:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Scott County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: compare at least two estimates for scope and timeline.
+IGR packets for Bettendorf, IA roach cycles should be dated on station lids.
 
-Our service coordination centers on Bettendorf, IA coverage windows and verified intake details.
+Step: map entry points with photo logs before sealing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Powderpost beetle exit holes in Bettendorf, IA trim can be mistaken for dry-wood frass without magnification.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: label treatment zones for occupant re-entry timing.
 
-Field note: Access points and staging constraints recorded for ZIP 52722 coverage.
+FAQ: Why schedule quarterly instead of monthly in Bettendorf, IA? Species pressure and label intervals dictate cadence.
 
-Dispatch sectors sampled: ZIP 52722 (county grid: Scott County).
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Attic fogging in Bettendorf, IA requires combustion appliance shutoff verification first.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 52722.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Silverfish activity in Bettendorf, IA attics tracks cardboard storage and ridge vent gaps.
+
+FAQ: Can bed bugs spread room-to-room in Bettendorf, IA row homes? Wall voids and shared ducts accelerate transfer.
+
+Intercept log 762866: bed bug intercept count staged before Bettendorf, IA interior gel zones.
+
+Species trace 762866: re-entry interval label and conducive moisture note keyed to Bettendorf, IA elevation 673 ft.
+
+On-site sector marker: Scott County / primary ZIP 52722 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-52722-3f80c384

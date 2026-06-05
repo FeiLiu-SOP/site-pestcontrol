@@ -11,25 +11,41 @@ lng: -80.1700
 zipSample: ["33412", "33403", "33410", "33418"]
 zipCodes: ["33412", "33410", "33418", "33403"]
 localPaths: ["Palm Beach County / primary ZIP 33418", "Palm Beach County / ZIP 33412 sector", "Palm Beach County / ZIP 33418 sector", "Palm Beach County / ZIP 33403 sector", "Palm Beach County / ZIP 33410 sector"]
-zillowHomeValueUsd: 712859
 ---
 
-**Engineering Notice for Palm Beach Gardens:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Palm Beach County.
+**Engineering Notice for Palm Beach Gardens:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Palm Beach County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Monitoring boards in Palm Beach Gardens, FL crawlspaces stay 72 hours before snap traps are reset.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-We coordinate local dispatch coverage around Palm Beach Gardens, FL and nearby ZIP sectors.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 33418.
+State note: Palm Beach Gardens, FL commercial kitchens may require separate documentation for audit visits.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33418/33403/33412.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Dispatch sectors sampled: ZIP 33418, 33403, 33412, 33410 (county grid: Palm Beach County).
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Stink bug overwinter seams in Palm Beach Gardens, FL exterior cladding laps require exclusion foam rated for UV exposure.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Cluster fly attic staging in Palm Beach Gardens, FL peaks on south-facing voids after sunny thaw days.
+
+Risk flag: In Palm Beach Gardens, FL, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Dry-wood termite pellets in Palm Beach Gardens, FL attics may appear before exterior mud tubes.
+
+Harbor ledger 944958: frass lane, mud-tube scan, and garage jamb gap measure filed for Palm Beach Gardens, FL at 26.8500, -80.1700.
+
+Perimeter dossier 944958: bait station anchor map and mulch bridge risk flagged for Palm Beach Gardens, FL county Palm Beach County (ZIP 33418).
+
+On-site sector marker: Palm Beach County / primary ZIP 33418 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33418-2971e4fb

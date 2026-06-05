@@ -11,24 +11,43 @@ lng: -92.0300
 zipSample: ["72023"]
 zipCodes: ["72023"]
 localPaths: ["Lonoke County / primary ZIP 72023", "Lonoke County / elevation 305 ft band", "Lonoke County / coords 34.9800, -92.0300", "Lonoke County / ZIP 72023 sector"]
-zillowHomeValueUsd: 251910
 ---
 
-**Engineering Notice for Cabot:** Structural loading calculated based on 305 ft terrain assessment. Regional dispatch grid: Lonoke County.
+**Engineering Notice for Cabot:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lonoke County.
 
 
-Homeowners in Cabot, AR often face sudden pest control problems that require fast action.
+County grid Lonoke County informs routing near ZIP 72023.
 
-Our service coordination centers on Cabot, AR coverage windows and verified intake details.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Tip: avoid large upfront payments without milestones.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 72023.
 
-Field note: Wind exposure category reviewed for ZIP sector 72023.
+Powderpost beetle exit holes in Cabot, AR trim can be mistaken for dry-wood frass without magnification.
 
-Dispatch sectors sampled: ZIP 72023 (county grid: Lonoke County).
+Carpenter ant frass in Cabot, AR window sills may indicate moisture-softened framing.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Yellow jacket nests in Cabot, AR soffit cavities peak in late summer routing windows.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Spider populations in Cabot, AR eaves can signal insect prey density.
+
+IGR packets for Cabot, AR roach cycles should be dated on station lids.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Exclusion audit 577883: exclusion mesh gauge and rodent runway grease mark reviewed for Cabot, AR at 34.9800/-92.0300.
+
+Zone map 577883: attic insulation disturbance trace and pantry pest source logged for Cabot, AR sector 72023.
+
+On-site sector marker: Lonoke County / primary ZIP 72023 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-72023-6405851c

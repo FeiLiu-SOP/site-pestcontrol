@@ -11,26 +11,39 @@ lng: -89.9100
 zipSample: ["62269"]
 zipCodes: ["62269"]
 localPaths: ["St. Clair County / primary ZIP 62269", "St. Clair County / elevation 548 ft band", "St. Clair County / coords 38.6000, -89.9100", "St. Clair County / ZIP 62269 sector"]
-zillowHomeValueUsd: 306879
 ---
 
-**Engineering Notice for O'Fallon:** Structural loading calculated based on 548 ft terrain assessment. Regional dispatch grid: St. Clair County.
+**Engineering Notice for O'Fallon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Clair County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Our service coordination centers on O'Fallon, IL coverage windows and verified intake details.
+Stored cardboard in O'Fallon, IL garages can accelerate pantry pest cycles.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Local conditions in O'Fallon, IL can affect timelines and material choices.
+Seasonal pest pressure in O'Fallon, IL shifts between moisture ants and dry-wood vectors.
 
-In O'Fallon, IL, urgent pest control issues can escalate quickly.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Field note: Connection points spot-checked where accessible (ZIP 62269 zone).
+FAQ: Can bed bugs spread room-to-room in O'Fallon, IL row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Wind exposure category reviewed for ZIP sector 62269.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Dispatch sectors sampled: ZIP 62269 (county grid: St. Clair County).
+Earwig harborages in O'Fallon, IL meter boxes often follow drip irrigation overspray.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Mud dauber nests in O'Fallon, IL porch ceilings are benign but signal prey density for spiders.
+
+Risk flag: In O'Fallon, IL, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Zone map 387937: attic insulation disturbance trace and pantry pest source logged for O'Fallon, IL sector 62269.
+
+Coordinate-anchored dispatch note: center reference 38.6000, -89.9100 at elevation ~548 ft aligns with St. Clair County intake staging.
 
 Service reference: IL-62269-5a0e7b6a

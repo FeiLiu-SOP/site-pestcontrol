@@ -11,24 +11,39 @@ lng: -105.0600
 zipSample: ["80021", "80030", "80005", "80035", "80234"]
 zipCodes: ["80036", "80035", "80030", "80021", "80031", "80020", "80005", "80234", "80003"]
 localPaths: ["Adams County / ZIP 80234 sector", "Adams County / ZIP 80035 sector", "Adams County / coords 39.8800, -105.0600", "Adams County / elevation 5325 ft band", "Adams County / ZIP 80021 sector"]
-zillowHomeValueUsd: 441645
 ---
 
-**Engineering Notice for Westminster:** Structural loading calculated based on 5325 ft terrain assessment. Regional dispatch grid: Adams County.
+**Engineering Notice for Westminster:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Adams County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-A written scope helps prevent rework and mismatched expectations.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Humidity in Westminster, CO can sustain cockroach harborages behind appliance voids.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Our service coordination centers on Westminster, CO coverage windows and verified intake details.
+Across Westminster, CO, rodent entry points frequently track utility penetrations.
 
-Field note: Access points and staging constraints recorded for ZIP 80003/80005/80035 coverage.
+Material note: Perimeter granules in Westminster, CO may need reapplication after heavy irrigation.
 
-Dispatch sectors sampled: ZIP 80003, 80005, 80035, 80030, 80031 (county grid: Adams County).
+Bird mites in Westminster, CO exhaust vents can persist after host nests are removed.
+
+Carpenter ant frass in Westminster, CO window sills may indicate moisture-softened framing.
+
+FAQ: Can bed bugs spread room-to-room in Westminster, CO row homes? Wall voids and shared ducts accelerate transfer.
+
+Risk flag: Overwatered Westminster, CO planters can restart ant bridges within two weeks.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Westminster, CO.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Harbor ledger 993245: frass lane, mud-tube scan, and garage jamb gap measure filed for Westminster, CO at 39.8800, -105.0600.
+
+Seasonal cue 993245: cluster fly attic staging reviewed for Westminster, CO soffit cavities.
+
+On-site sector marker: Adams County / ZIP 80234 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80030-35019a55

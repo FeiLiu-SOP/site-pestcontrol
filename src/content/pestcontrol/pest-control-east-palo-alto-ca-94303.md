@@ -11,25 +11,41 @@ lng: -122.1400
 zipSample: ["94303"]
 zipCodes: ["94303"]
 localPaths: ["San Mateo County / elevation 10 ft band", "San Mateo County / primary ZIP 94303", "San Mateo County / coords 37.4700, -122.1400", "San Mateo County / ZIP 94303 sector"]
-zillowHomeValueUsd: 2133405
 ---
 
-**Engineering Notice for East Palo Alto:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: San Mateo County.
+**Engineering Notice for East Palo Alto:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Mateo County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: label treatment zones for occupant re-entry timing.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Perimeter granule carriers in East Palo Alto, CA clay soils may need lighter irrigation before application.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 94303.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in East Palo Alto, CA.
 
-Field note: Wind exposure category reviewed for ZIP sector 94303.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Dispatch sectors sampled: ZIP 94303 (county grid: San Mateo County).
+Tip: Log pet access routes when bait stations are placed.
+
+County grid San Mateo County informs routing near ZIP 94303.
+
+Perimeter mulch beds in East Palo Alto, CA should be reviewed for ant bridge paths.
+
+IGR packets for East Palo Alto, CA roach cycles should be dated on station lids.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 94303.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Silverfish activity in East Palo Alto, CA attics tracks cardboard storage and ridge vent gaps.
+
+Harbor ledger 201309: frass lane, mud-tube scan, and garage jamb gap measure filed for East Palo Alto, CA at 37.4700, -122.1400.
+
+Perimeter dossier 201309: bait station anchor map and mulch bridge risk flagged for East Palo Alto, CA county San Mateo County (ZIP 94303).
+
+On-site sector marker: San Mateo County / ZIP 94303 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94303-e7d113be

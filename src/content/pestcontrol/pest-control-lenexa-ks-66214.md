@@ -11,27 +11,43 @@ lng: -94.8000
 zipSample: ["66216", "66219", "66215", "66227", "66220"]
 zipCodes: ["66214", "66215", "66216", "66227", "66220", "66219", "66250"]
 localPaths: ["Johnson County / ZIP 66216 sector", "Johnson County / ZIP 66220 sector", "Johnson County / elevation 886 ft band", "Johnson County / primary ZIP 66214", "Johnson County / ZIP 66227 sector"]
-zillowHomeValueUsd: 389014
 ---
 
-**Engineering Notice for Lenexa:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Johnson County.
+**Engineering Notice for Lenexa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Johnson County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Request an inspection with species ID before treatment. Serving ZIP Code: 66214.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 66214.
+Flea pupae survive vacuuming in Lenexa, KS carpet fibers unless heat treatment follows.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: verify attic access safety before insulation disturbance.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 66214/66216/66215.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Lenexa, KS.
 
-Field note: Connection points spot-checked where accessible (ZIP 66214/66216/66215 zone).
+Cluster fly attic staging in Lenexa, KS peaks on south-facing voids after sunny thaw days.
 
-Dispatch sectors sampled: ZIP 66214, 66216, 66215, 66227, 66220 (county grid: Johnson County).
+IGR packets for Lenexa, KS roach cycles should be dated on station lids.
+
+FAQ: Why schedule quarterly instead of monthly in Lenexa, KS? Species pressure and label intervals dictate cadence.
+
+Carpenter ant frass in Lenexa, KS window sills may indicate moisture-softened framing.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Risk flag: Overwatered Lenexa, KS planters can restart ant bridges within two weeks.
+
+Clover mite staining on Lenexa, KS wall restoration follows foundation mulch against brick ledges.
+
+Stored cardboard in Lenexa, KS garages can accelerate pantry pest cycles.
+
+Zone map 678587: attic insulation disturbance trace and pantry pest source logged for Lenexa, KS sector 66214.
+
+Harbor ledger 678587: frass lane, mud-tube scan, and garage jamb gap measure filed for Lenexa, KS at 38.9600, -94.8000.
+
+Regional mesh label Johnson County: moisture and logistics baselines are keyed to Lenexa, KS before niche-specific work begins.
 
 Service reference: KS-66214-78d8bcf7

@@ -11,25 +11,39 @@ lng: -122.1400
 zipSample: ["98223"]
 zipCodes: ["98223"]
 localPaths: ["Snohomish County / coords 48.1700, -122.1400", "Snohomish County / ZIP 98223 sector", "Snohomish County / elevation 223 ft band", "Snohomish County / primary ZIP 98223"]
-zillowHomeValueUsd: 663347
 ---
 
-**Engineering Notice for Arlington:** Structural loading calculated based on 223 ft terrain assessment. Regional dispatch grid: Snohomish County.
+**Engineering Notice for Arlington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Snohomish County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Arlington, WA, but intake notes help reduce delays.
+In Arlington, WA, subterranean termite swarms often follow warm rain windows.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 98223.
+Request an inspection with species ID before treatment. Serving ZIP Code: 98223.
 
-Clear documentation helps align materials, labor, and timeline.
+IGR packets for Arlington, WA roach cycles should be dated on station lids.
 
-We coordinate local dispatch coverage around Arlington, WA and nearby ZIP sectors.
+Drain fly biofilm in Arlington, WA floor drains signals grease traps need service before gel baits.
 
-Tip: request a written scope before work starts.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Field note: Moisture pathway inspection logged near ZIP 98223 intake.
+Bird mites in Arlington, WA exhaust vents can persist after host nests are removed.
 
-Dispatch sectors sampled: ZIP 98223 (county grid: Snohomish County).
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Attic misting in Arlington, WA requires combustion air clearance verified before fans restart.
+
+Stink bug overwinter seams in Arlington, WA cladding service laps require exclusion foam rated for UV exposure.
+
+Material note: Perimeter granules in Arlington, WA may need reapplication after heavy irrigation.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Intercept log 424665: bed bug intercept count staged before Arlington, WA interior gel zones.
+
+Species trace 424665: re-entry interval label and conducive moisture note keyed to Arlington, WA elevation 223 ft.
+
+On-site sector marker: Snohomish County / elevation 223 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98223-dfaf8169

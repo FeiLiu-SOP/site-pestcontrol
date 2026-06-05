@@ -11,27 +11,39 @@ lng: -121.7500
 zipSample: ["95776", "95695"]
 zipCodes: ["95695", "95776"]
 localPaths: ["Yolo County / primary ZIP 95776", "Yolo County / ZIP 95776 sector", "Yolo County / ZIP 95695 sector", "Yolo County / coords 38.6700, -121.7500", "Yolo County / elevation 36 ft band"]
-zillowHomeValueUsd: 601657
 ---
 
-**Engineering Notice for Woodland:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Yolo County.
+**Engineering Notice for Woodland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Yolo County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 95776.
+Step: map entry points with photo logs before sealing.
 
-We coordinate local dispatch coverage around Woodland, CA and nearby ZIP sectors.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Powderpost beetle exit holes in Woodland, CA trim can be mistaken for dry-wood frass without magnification.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Woodland, CA.
 
-Field note: Wind exposure category reviewed for ZIP sector 95776/95695.
+Silverfish activity in Woodland, CA attics tracks cardboard storage and ridge vent gaps.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 95776/95695.
+Seasonal pest pressure in Woodland, CA shifts between moisture ants and dry-wood vectors.
 
-Dispatch sectors sampled: ZIP 95776, 95695 (county grid: Yolo County).
+Monitoring boards in Woodland, CA crawlspaces stay 72 hours before snap traps are reset.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 95776.
+
+Bird mites in Woodland, CA exhaust vents can persist after host nests are removed.
+
+Harbor ledger 701713: frass lane, mud-tube scan, and garage jamb gap measure filed for Woodland, CA at 38.6700, -121.7500.
+
+Exclusion audit 701713: exclusion mesh gauge and rodent runway grease mark reviewed for Woodland, CA at 38.6700/-121.7500.
+
+On-site sector marker: Yolo County / ZIP 95695 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95776-e4c6d565

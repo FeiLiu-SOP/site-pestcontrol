@@ -11,24 +11,39 @@ lng: -96.8300
 zipSample: ["58125", "58121", "58108", "58104", "58105"]
 zipCodes: ["58104", "58107", "58105", "58125", "58122", "58121", "58106", "58102", "58108", "58124", "58126", "58109"]
 localPaths: ["Cass County / primary ZIP 58102", "Cass County / coords 46.8700, -96.8300", "Cass County / ZIP 58108 sector", "Cass County / ZIP 58104 sector", "Cass County / elevation 902 ft band"]
-zillowHomeValueUsd: 267520
 ---
 
-**Engineering Notice for Fargo:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Cass County.
+**Engineering Notice for Fargo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cass County.
 
 
-We coordinate local dispatch coverage around Fargo, ND and nearby ZIP sectors.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Tip: confirm licensing and insurance before approving work.
+Attic insulation disturbance in Fargo, ND may indicate wildlife nesting routes.
 
-In Fargo, ND, urgent pest control issues can escalate quickly.
+Step: map entry points with photo logs before sealing.
 
-In Fargo, ND, seasonal demand can change scheduling windows.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Log pet access routes when bait stations are placed.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 58124/58109/58107.
+Step: label treatment zones for occupant re-entry timing.
 
-Dispatch sectors sampled: ZIP 58124, 58109, 58107, 58121, 58108 (county grid: Cass County).
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Monitoring boards in Fargo, ND crawlspaces stay 72 hours before snap traps are reset.
+
+Tip: Date bait station lids when servicing Fargo, ND perimeter lines.
+
+Perimeter granule carriers in Fargo, ND clay soils may need lighter irrigation before application.
+
+Material note: Perimeter granules in Fargo, ND may need reapplication after heavy irrigation.
+
+Stink bug overwinter seams in Fargo, ND vinyl panels laps require exclusion foam rated for UV exposure.
+
+IGR packets for Fargo, ND roach cycles should be dated on station lids.
+
+Perimeter dossier 858398: bait station anchor map and mulch bridge risk flagged for Fargo, ND county Cass County (ZIP 58102).
+
+Primary postal anchor 58102 with multi-ZIP overlap in Fargo; field packets tag Cass County for county-grid reconciliation.
 
 Service reference: ND-58102-a957bc3d

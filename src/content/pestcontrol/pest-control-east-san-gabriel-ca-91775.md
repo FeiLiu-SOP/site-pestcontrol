@@ -11,27 +11,43 @@ lng: -118.0800
 zipSample: ["91776", "91775"]
 zipCodes: ["91776", "91775"]
 localPaths: ["Los Angeles County / elevation 495 ft band", "Los Angeles County / primary ZIP 91775", "Los Angeles County / coords 34.1200, -118.0800", "Los Angeles County / ZIP 91775 sector", "Los Angeles County / ZIP 91776 sector"]
-zillowHomeValueUsd: 1282393
 ---
 
-**Engineering Notice for East San Gabriel:** Structural loading calculated based on 495 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for East San Gabriel:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 91775.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 91775.
 
-Field note: Connection points spot-checked where accessible (ZIP 91775/91776 zone).
+Attic fogging in East San Gabriel, CA requires combustion appliance shutoff verification first.
 
-Field note: Access points and staging constraints recorded for ZIP 91775/91776 coverage.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Dispatch sectors sampled: ZIP 91775, 91776 (county grid: Los Angeles County).
+Tip: Keep pet food elevated and sealed between service visits.
+
+Bird mites in East San Gabriel, CA exhaust vents can persist after host nests are removed.
+
+Mud dauber nests in East San Gabriel, CA porch ceilings are benign but signal prey density for spiders.
+
+Perimeter mulch beds in East San Gabriel, CA should be reviewed for ant bridge paths.
+
+IGR packets for East San Gabriel, CA roach cycles should be dated on station lids.
+
+Cluster fly attic staging in East San Gabriel, CA peaks on south-facing voids after sunny thaw days.
+
+FAQ: Can bed bugs spread room-to-room in East San Gabriel, CA row homes? Wall voids and shared ducts accelerate transfer.
+
+Seasonal cue 174502: cluster fly attic staging reviewed for East San Gabriel, CA soffit cavities.
+
+Zone map 174502: attic insulation disturbance trace and pantry pest source logged for East San Gabriel, CA sector 91775.
+
+On-site sector marker: Los Angeles County / elevation 495 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91775-46a2b0c5

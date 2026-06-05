@@ -11,24 +11,41 @@ lng: -92.4700
 zipSample: ["71309", "71348", "71301", "71307", "71315"]
 zipCodes: ["71348", "71307", "71301", "71315", "71302", "71303", "71309"]
 localPaths: ["Rapides Parish / elevation 98 ft band", "Rapides Parish / primary ZIP 71302", "Rapides Parish / ZIP 71315 sector", "Rapides Parish / ZIP 71301 sector", "Rapides Parish / ZIP 71309 sector"]
-zillowHomeValueUsd: 89909
 ---
 
-**Engineering Notice for Alexandria:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Rapides Parish.
+**Engineering Notice for Alexandria:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rapides Parish.
 
 
-Tip: confirm licensing and insurance before approving work.
+Cluster fly attic staging in Alexandria, LA peaks on south-facing voids after sunny thaw days.
 
-We coordinate local dispatch coverage around Alexandria, LA and nearby ZIP sectors.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Alexandria, LA.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 71302.
 
-Local conditions in Alexandria, LA can affect timelines and material choices.
+FAQ: Can bed bugs spread room-to-room in Alexandria, LA row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Wind exposure category reviewed for ZIP sector 71307/71302/71303.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 71302.
 
-Dispatch sectors sampled: ZIP 71307, 71302, 71303, 71309, 71301 (county grid: Rapides Parish).
+State note: Alexandria, LA commercial kitchens may require separate documentation for audit visits.
+
+Powderpost beetle exit holes in Alexandria, LA trim can be mistaken for dry-wood frass without magnification.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Flea pupae survive vacuuming in Alexandria, LA carpet fibers unless heat treatment follows.
+
+FAQ: Why schedule quarterly instead of monthly in Alexandria, LA? Species pressure and label intervals dictate cadence.
+
+Material note: Perimeter granules in Alexandria, LA may need reapplication after heavy irrigation.
+
+Perimeter dossier 594129: bait station anchor map and mulch bridge risk flagged for Alexandria, LA county Rapides Parish (ZIP 71302).
+
+On-site sector marker: Rapides Parish / coords 31.2900, -92.4700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-71302-f716d75a

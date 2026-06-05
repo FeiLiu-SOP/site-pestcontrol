@@ -11,26 +11,41 @@ lng: -92.0800
 zipSample: ["71202", "71201", "71212", "71213", "71209"]
 zipCodes: ["71201", "71213", "71207", "71209", "71212", "71210", "71203", "71202", "71217"]
 localPaths: ["Ouachita Parish / ZIP 71209 sector", "Ouachita Parish / primary ZIP 71212", "Ouachita Parish / coords 32.5200, -92.0800", "Ouachita Parish / elevation 95 ft band", "Ouachita Parish / ZIP 71213 sector"]
-zillowHomeValueUsd: 182870
 ---
 
-**Engineering Notice for Monroe:** Structural loading calculated based on 95 ft terrain assessment. Regional dispatch grid: Ouachita Parish.
+**Engineering Notice for Monroe:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ouachita Parish.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Date bait station lids when servicing Monroe, LA perimeter lines.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 71212.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Monroe, LA, but intake notes help reduce delays.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 71212.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 71217/71212/71213.
+FAQ: What is exclusion? Without sealing entry points in Monroe, LA, pressure often rebuilds.
 
-Field note: Moisture pathway inspection logged near ZIP 71217/71212/71213 intake.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Dispatch sectors sampled: ZIP 71217, 71212, 71213, 71210, 71202 (county grid: Ouachita Parish).
+In Monroe, LA, subterranean termite swarms often follow warm rain windows.
+
+Earwig harborages in Monroe, LA meter boxes often follow drip irrigation overspray.
+
+Bird mites in Monroe, LA exhaust vents can persist after host nests are removed.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Monroe, LA.
+
+Stink bug overwinter seams in Monroe, LA vinyl panels laps require exclusion foam rated for UV exposure.
+
+Cluster fly attic staging in Monroe, LA peaks on south-facing voids after sunny thaw days.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Seasonal cue 194218: cluster fly attic staging reviewed for Monroe, LA soffit cavities.
+
+On-site sector marker: Ouachita Parish / ZIP 71213 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-71212-d6d5e17c

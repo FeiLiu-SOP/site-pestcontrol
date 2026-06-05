@@ -11,26 +11,39 @@ lng: -122.2300
 zipSample: ["98040"]
 zipCodes: ["98040"]
 localPaths: ["King County / coords 47.5700, -122.2300", "King County / primary ZIP 98040", "King County / ZIP 98040 sector", "King County / elevation 92 ft band"]
-zillowHomeValueUsd: 2327615
 ---
 
-**Engineering Notice for Mercer Island:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Mercer Island:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Tip: compare at least two estimates for scope and timeline.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Mercer Island, WA, but intake notes help reduce delays.
+Cluster fly attic staging in Mercer Island, WA peaks on south-facing voids after sunny thaw days.
 
-In Mercer Island, WA, seasonal demand can change scheduling windows.
+Tip: Log pet access routes when bait stations are placed.
 
-Field note: Wind exposure category reviewed for ZIP sector 98040.
+Dry-wood termite pellets in Mercer Island, WA attics may appear before exterior mud tubes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98040.
+FAQ: What is exclusion? Without sealing entry points in Mercer Island, WA, pressure often rebuilds.
 
-Dispatch sectors sampled: ZIP 98040 (county grid: King County).
+Attic misting in Mercer Island, WA requires combustion air clearance verified before fans restart.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 98040.
+
+Tip: Date bait station lids when servicing Mercer Island, WA perimeter lines.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+We coordinate Mercer Island, WA pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Earwig harborages in Mercer Island, WA meter boxes often follow drip irrigation overspray.
+
+Species trace 990482: re-entry interval label and conducive moisture note keyed to Mercer Island, WA elevation 92 ft.
+
+On-site sector marker: King County / primary ZIP 98040 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98040-fc03044d

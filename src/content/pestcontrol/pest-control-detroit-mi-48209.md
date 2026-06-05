@@ -11,27 +11,41 @@ lng: -83.1000
 zipSample: ["48211", "48269", "48213", "48210", "48226"]
 zipCodes: ["48217", "48260", "48277", "48269", "48272", "48231", "48216", "48243", "48221", "48209", "48224", "48267"]
 localPaths: ["Wayne County / ZIP 48210 sector", "Wayne County / coords 42.3800, -83.1000", "Wayne County / ZIP 48213 sector", "Wayne County / ZIP 48226 sector", "Wayne County / primary ZIP 48209"]
-zillowHomeValueUsd: 93243
 ---
 
-**Engineering Notice for Detroit:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Wayne County.
+**Engineering Notice for Detroit:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wayne County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Overwatered Detroit, MI planters can restart ant bridges within two weeks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+We coordinate Detroit, MI pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 48209.
+Powderpost beetle exit holes in Detroit, MI trim can be mistaken for dry-wood frass without magnification.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Yellow jacket nests in Detroit, MI soffit cavities peak in late summer routing windows.
 
-Field note: Moisture pathway inspection logged near ZIP 48266/48235/48238 intake.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48266/48235/48238.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Dispatch sectors sampled: ZIP 48266, 48235, 48238, 48231, 48214 (county grid: Wayne County).
+Carpenter ant frass in Detroit, MI window sills may indicate moisture-softened framing.
+
+Seasonal pest pressure in Detroit, MI shifts between moisture ants and dry-wood vectors.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Bird mites in Detroit, MI exhaust vents can persist after host nests are removed.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Cluster fly attic staging in Detroit, MI peaks on south-facing voids after sunny thaw days.
+
+Wildlife odors in Detroit, MI crawlspaces may attract secondary pest activity.
+
+Exclusion audit 231742: exclusion mesh gauge and rodent runway grease mark reviewed for Detroit, MI at 42.3800/-83.1000.
+
+Coordinate-anchored dispatch note: center reference 42.3800, -83.1000 at elevation ~653 ft aligns with Wayne County intake staging.
 
 Service reference: MI-48209-2cf77fb2

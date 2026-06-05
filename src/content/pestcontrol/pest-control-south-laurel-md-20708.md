@@ -11,24 +11,39 @@ lng: -76.8500
 zipSample: ["20708", "20726", "20709"]
 zipCodes: ["20726", "20708", "20709"]
 localPaths: ["Prince George's County / ZIP 20726 sector", "Prince George's County / coords 39.0600, -76.8500", "Prince George's County / ZIP 20708 sector", "Prince George's County / elevation 220 ft band", "Prince George's County / primary ZIP 20708"]
-zillowHomeValueUsd: 486602
 ---
 
-**Engineering Notice for South Laurel:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Prince George's County.
+**Engineering Notice for South Laurel:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince George's County.
 
 
-Our service coordination centers on South Laurel, MD coverage windows and verified intake details.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in South Laurel, MD, but intake notes help reduce delays.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Stink bug overwinter seams in South Laurel, MD exterior cladding laps require exclusion foam rated for UV exposure.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Mud dauber nests in South Laurel, MD porch ceilings are benign but signal prey density for spiders.
 
-Field note: Connection points spot-checked where accessible (ZIP 20709/20726/20708 zone).
+Risk flag: Overwatered South Laurel, MD planters can restart ant bridges within two weeks.
 
-Dispatch sectors sampled: ZIP 20709, 20726, 20708 (county grid: Prince George's County).
+Perimeter mulch beds in South Laurel, MD should be reviewed for ant bridge paths.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 20708.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+State note: South Laurel, MD commercial kitchens may require separate documentation for audit visits.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Mosquito breeding in South Laurel, MD catch basins can amplify perimeter callbacks.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Intercept log 119365: bed bug intercept count staged before South Laurel, MD interior gel zones.
+
+Regional mesh label Prince George's County: moisture and logistics baselines are keyed to South Laurel, MD before niche-specific work begins.
 
 Service reference: MD-20708-652811c9

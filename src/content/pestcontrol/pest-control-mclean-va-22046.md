@@ -11,27 +11,41 @@ lng: -77.1900
 zipSample: ["22043", "22106", "22103", "22101", "22109"]
 zipCodes: ["22046", "22102", "22067", "22107", "22106", "22101", "22108", "22103", "22043", "22109"]
 localPaths: ["Fairfax County / coords 38.9400, -77.1900", "Fairfax County / ZIP 22103 sector", "Fairfax County / ZIP 22043 sector", "Fairfax County / primary ZIP 22046", "Fairfax County / ZIP 22101 sector"]
-zillowHomeValueUsd: 1052487
 ---
 
-**Engineering Notice for McLean:** Structural loading calculated based on 341 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for McLean:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 22046.
+Perimeter granule carriers in McLean, VA clay soils may need lighter irrigation before application.
 
-We coordinate local dispatch coverage around McLean, VA and nearby ZIP sectors.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in McLean, VA, but intake notes help reduce delays.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Tip: address recurring issues early to prevent bigger damage.
+Powderpost beetle exit holes in McLean, VA trim can be mistaken for dry-wood frass without magnification.
 
-Structured milestones protect both sides when scheduling work.
+Material note: Perimeter granules in McLean, VA may need reapplication after heavy irrigation.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 22043/22103/22109.
+Step: label treatment zones for occupant re-entry timing.
 
-Field note: Connection points spot-checked where accessible (ZIP 22043/22103/22109 zone).
+Tip: Date bait station lids when servicing McLean, VA perimeter lines.
 
-Dispatch sectors sampled: ZIP 22043, 22103, 22109, 22102, 22106 (county grid: Fairfax County).
+Cluster fly attic staging in McLean, VA peaks on south-facing voids after sunny thaw days.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in McLean, VA.
+
+Mud dauber nests in McLean, VA porch ceilings are benign but signal prey density for spiders.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in McLean, VA.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Harbor ledger 932811: frass lane, mud-tube scan, and garage jamb gap measure filed for McLean, VA at 38.9400, -77.1900.
+
+Intercept log 932811: bed bug intercept count staged before McLean, VA interior gel zones.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Fairfax County and primary ZIP 22046. Terrain reference: 341 ft. Center point: 38.9400, -77.1900. ZIP sample: 22103, 22101, 22107, 22106, 22109. Service perimeter note: Coverage extends through Fairfax County with dispatch centered near ZIP 22046.
 
 Service reference: VA-22046-79acc19b

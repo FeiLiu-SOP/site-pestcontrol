@@ -11,26 +11,39 @@ lng: -71.4400
 zipSample: ["01704", "01702", "01705", "01703", "01701"]
 zipCodes: ["01705", "01703", "01701", "01702", "01704"]
 localPaths: ["Middlesex County / ZIP 01702 sector", "Middlesex County / primary ZIP 01701", "Middlesex County / elevation 177 ft band", "Middlesex County / coords 42.3100, -71.4400", "Middlesex County / ZIP 01703 sector"]
-zillowHomeValueUsd: 705058
 ---
 
-**Engineering Notice for Framingham:** Structural loading calculated based on 177 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Framingham:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Date bait station lids when servicing Framingham, MA perimeter lines.
 
-Transparent pricing helps you compare like-for-like scope items.
+Perimeter granule carriers in Framingham, MA clay soils may need lighter irrigation before application.
 
-Tip: compare at least two estimates for scope and timeline.
+Stink bug overwinter seams in Framingham, MA exterior cladding laps require exclusion foam rated for UV exposure.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Field note: Moisture pathway inspection logged near ZIP 01703/01705/01704 intake.
+Across Framingham, MA, rodent entry points frequently track utility penetrations.
 
-Field note: Wind exposure category reviewed for ZIP sector 01703/01705/01704.
+County grid Middlesex County informs routing near ZIP 01701.
 
-Dispatch sectors sampled: ZIP 01703, 01705, 01704, 01702, 01701 (county grid: Middlesex County).
+Silverfish activity in Framingham, MA attics tracks cardboard storage and ridge vent gaps.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Attic fogging in Framingham, MA requires combustion appliance shutoff verification first.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Harbor ledger 143776: frass lane, mud-tube scan, and garage jamb gap measure filed for Framingham, MA at 42.3100, -71.4400.
+
+Seasonal cue 143776: cluster fly attic staging reviewed for Framingham, MA soffit cavities.
+
+On-site sector marker: Middlesex County / ZIP 01705 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MA-01701-659a99bc

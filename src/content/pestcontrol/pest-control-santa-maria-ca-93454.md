@@ -11,24 +11,43 @@ lng: -120.4400
 zipSample: ["93458", "93454", "93455"]
 zipCodes: ["93454", "93458", "93455"]
 localPaths: ["Santa Barbara County / ZIP 93454 sector", "Santa Barbara County / coords 34.9300, -120.4400", "Santa Barbara County / primary ZIP 93454", "Santa Barbara County / ZIP 93458 sector", "Santa Barbara County / ZIP 93455 sector"]
-zillowHomeValueUsd: 626978
 ---
 
-**Engineering Notice for Santa Maria:** Structural loading calculated based on 213 ft terrain assessment. Regional dispatch grid: Santa Barbara County.
+**Engineering Notice for Santa Maria:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Barbara County.
 
 
-In Santa Maria, CA, seasonal demand can change scheduling windows.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-We coordinate local dispatch coverage around Santa Maria, CA and nearby ZIP sectors.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 93454.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Tip: compare at least two estimates for scope and timeline.
+Earwig harborages in Santa Maria, CA meter boxes often follow drip irrigation overspray.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Log pet access routes when bait stations are placed.
 
-Field note: Wind exposure category reviewed for ZIP sector 93454/93458/93455.
+IGR packets for Santa Maria, CA roach cycles should be dated on station lids.
 
-Dispatch sectors sampled: ZIP 93454, 93458, 93455 (county grid: Santa Barbara County).
+Silverfish activity in Santa Maria, CA attics tracks cardboard storage and ridge vent gaps.
+
+Risk flag: In Santa Maria, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Perimeter mulch beds in Santa Maria, CA should be reviewed for ant bridge paths.
+
+Fire ant mounds in Santa Maria, CA drive seams need granule rotation after irrigation events.
+
+Attic insulation disturbance in Santa Maria, CA may indicate wildlife nesting routes.
+
+Stink bug overwinter seams in Santa Maria, CA wall restoration laps require exclusion foam rated for UV exposure.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Species trace 183778: re-entry interval label and conducive moisture note keyed to Santa Maria, CA elevation 213 ft.
+
+Seasonal cue 183778: cluster fly attic staging reviewed for Santa Maria, CA soffit cavities.
+
+Regional mesh label Santa Barbara County: moisture and logistics baselines are keyed to Santa Maria, CA before niche-specific work begins.
 
 Service reference: CA-93454-7347c370

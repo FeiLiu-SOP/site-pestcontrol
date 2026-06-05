@@ -11,26 +11,41 @@ lng: -122.2800
 zipSample: ["94710", "94707", "94705", "94708", "94703"]
 zipCodes: ["94703", "94701", "94702", "94712", "94707", "94709", "94710", "94708", "94705", "94720", "94704"]
 localPaths: ["Alameda County / ZIP 94710 sector", "Alameda County / ZIP 94708 sector", "Alameda County / ZIP 94703 sector", "Alameda County / elevation 157 ft band", "Alameda County / primary ZIP 94708"]
-zillowHomeValueUsd: 1635556
 ---
 
-**Engineering Notice for Berkeley:** Structural loading calculated based on 157 ft terrain assessment. Regional dispatch grid: Alameda County.
+**Engineering Notice for Berkeley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alameda County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Tip: address recurring issues early to prevent bigger damage.
+Bird mites in Berkeley, CA exhaust vents can persist after host nests are removed.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 94708.
 
-Our service coordination centers on Berkeley, CA coverage windows and verified intake details.
+Step: map entry points with photo logs before sealing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+In Berkeley, CA, subterranean termite swarms often follow warm rain windows.
 
-Field note: Moisture pathway inspection logged near ZIP 94701/94720/94708 intake.
+Mud dauber nests in Berkeley, CA porch ceilings are benign but signal prey density for spiders.
 
-Field note: Connection points spot-checked where accessible (ZIP 94701/94720/94708 zone).
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Dispatch sectors sampled: ZIP 94701, 94720, 94708, 94703, 94707 (county grid: Alameda County).
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Berkeley, CA.
+
+Cluster fly attic staging in Berkeley, CA peaks on south-facing voids after sunny thaw days.
+
+Perimeter mulch beds in Berkeley, CA should be reviewed for ant bridge paths.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Stored cardboard in Berkeley, CA garages can accelerate pantry pest cycles.
+
+Fire ant mounds in Berkeley, CA drive seams need granule rotation after irrigation events.
+
+Exclusion audit 390502: exclusion mesh gauge and rodent runway grease mark reviewed for Berkeley, CA at 37.8700/-122.2800.
+
+Coordinate-anchored dispatch note: center reference 37.8700, -122.2800 at elevation ~157 ft aligns with Alameda County intake staging.
 
 Service reference: CA-94708-69f213f7

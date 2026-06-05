@@ -11,26 +11,41 @@ lng: -93.2300
 zipSample: ["65302", "65301"]
 zipCodes: ["65301", "65302"]
 localPaths: ["Pettis County / ZIP 65301 sector", "Pettis County / ZIP 65302 sector", "Pettis County / primary ZIP 65301", "Pettis County / coords 38.7100, -93.2300", "Pettis County / elevation 912 ft band"]
-zillowHomeValueUsd: 182079
 ---
 
-**Engineering Notice for Sedalia:** Structural loading calculated based on 912 ft terrain assessment. Regional dispatch grid: Pettis County.
+**Engineering Notice for Sedalia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pettis County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: What is exclusion? Without sealing entry points in Sedalia, MO, pressure often rebuilds.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Sedalia, MO, but intake notes help reduce delays.
+Stink bug overwinter seams in Sedalia, MO wall restoration laps require exclusion foam rated for UV exposure.
 
-We coordinate local dispatch coverage around Sedalia, MO and nearby ZIP sectors.
+Tip: Keep pet food elevated and sealed between service visits.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Attic insulation disturbance in Sedalia, MO may indicate wildlife nesting routes.
 
-Field note: Moisture pathway inspection logged near ZIP 65301/65302 intake.
+Mud dauber nests in Sedalia, MO porch ceilings are benign but signal prey density for spiders.
 
-Field note: Access points and staging constraints recorded for ZIP 65301/65302 coverage.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Dispatch sectors sampled: ZIP 65301, 65302 (county grid: Pettis County).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+FAQ: Can bed bugs spread room-to-room in Sedalia, MO row homes? Wall voids and shared ducts accelerate transfer.
+
+Clover mite staining on Sedalia, MO cladding service follows foundation mulch against brick ledges.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Spider populations in Sedalia, MO eaves can signal insect prey density.
+
+Exclusion gaps at garage jambs in Sedalia, MO are common rodent access points.
+
+Intercept log 308693: bed bug intercept count staged before Sedalia, MO interior gel zones.
+
+Harbor ledger 308693: frass lane, mud-tube scan, and garage jamb gap measure filed for Sedalia, MO at 38.7100, -93.2300.
+
+ZIP-corridor snapshot for Sedalia, MO: sampled sectors include 65302, 65301; county routing grid remains Pettis County.
 
 Service reference: MO-65301-adb777e9

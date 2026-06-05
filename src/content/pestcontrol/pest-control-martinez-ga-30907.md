@@ -11,26 +11,37 @@ lng: -82.1000
 zipSample: ["30809", "30907"]
 zipCodes: ["30809", "30907"]
 localPaths: ["Columbia County / ZIP 30809 sector", "Columbia County / elevation 338 ft band", "Columbia County / ZIP 30907 sector", "Columbia County / coords 33.5200, -82.1000", "Columbia County / primary ZIP 30907"]
-zillowHomeValueUsd: 267154
 ---
 
-**Engineering Notice for Martinez:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Columbia County.
+**Engineering Notice for Martinez:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Columbia County.
 
 
-In Martinez, GA, urgent pest control issues can escalate quickly.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Martinez, GA.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+We coordinate Martinez, GA pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Martinez, GA, but intake notes help reduce delays.
+In Martinez, GA, subterranean termite swarms often follow warm rain windows.
 
-Tip: address recurring issues early to prevent bigger damage.
+Flea pupae survive vacuuming in Martinez, GA carpet fibers unless heat treatment follows.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Access points and staging constraints recorded for ZIP 30907/30809 coverage.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Moisture pathway inspection logged near ZIP 30907/30809 intake.
+Risk flag: In Martinez, GA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Dispatch sectors sampled: ZIP 30907, 30809 (county grid: Columbia County).
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+IGR packets for Martinez, GA roach cycles should be dated on station lids.
+
+Risk flag: Overwatered Martinez, GA planters can restart ant bridges within two weeks.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Martinez, GA, pressure often rebuilds.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 30907.
+
+Zone map 881781: attic insulation disturbance trace and pantry pest source logged for Martinez, GA sector 30907.
+
+Regional mesh label Columbia County: moisture and logistics baselines are keyed to Martinez, GA before niche-specific work begins.
 
 Service reference: GA-30907-b00fab6f

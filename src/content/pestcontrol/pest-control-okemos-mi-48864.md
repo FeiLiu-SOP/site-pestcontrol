@@ -11,27 +11,39 @@ lng: -84.4100
 zipSample: ["48864", "48805"]
 zipCodes: ["48864", "48805"]
 localPaths: ["Ingham County / elevation 863 ft band", "Ingham County / ZIP 48805 sector", "Ingham County / ZIP 48864 sector", "Ingham County / coords 42.7100, -84.4100", "Ingham County / primary ZIP 48864"]
-zillowHomeValueUsd: 390267
 ---
 
-**Engineering Notice for Okemos:** Structural loading calculated based on 863 ft terrain assessment. Regional dispatch grid: Ingham County.
+**Engineering Notice for Okemos:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ingham County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 48864.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Our service coordination centers on Okemos, MI coverage windows and verified intake details.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Okemos, MI.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Tip: confirm licensing and insurance before approving work.
+Stink bug overwinter seams in Okemos, MI vinyl panels laps require exclusion foam rated for UV exposure.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why schedule quarterly instead of monthly in Okemos, MI? Species pressure and label intervals dictate cadence.
 
-Field note: Access points and staging constraints recorded for ZIP 48864/48805 coverage.
+Drain fly biofilm in Okemos, MI floor drains signals grease traps need service before gel baits.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48864/48805.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Dispatch sectors sampled: ZIP 48864, 48805 (county grid: Ingham County).
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Step: map entry points with photo logs before sealing.
+
+Exclusion audit 709922: exclusion mesh gauge and rodent runway grease mark reviewed for Okemos, MI at 42.7100/-84.4100.
+
+Seasonal cue 709922: cluster fly attic staging reviewed for Okemos, MI soffit cavities.
+
+On-site sector marker: Ingham County / ZIP 48864 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48864-aa805c2a

@@ -11,25 +11,39 @@ lng: -118.3500
 zipSample: ["90260"]
 zipCodes: ["90260"]
 localPaths: ["Los Angeles County / ZIP 90260 sector", "Los Angeles County / primary ZIP 90260", "Los Angeles County / coords 33.8900, -118.3500", "Los Angeles County / elevation 69 ft band"]
-zillowHomeValueUsd: 814642
 ---
 
-**Engineering Notice for Lawndale:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Lawndale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lawndale, CA, but intake notes help reduce delays.
+Risk flag: Overwatered Lawndale, CA planters can restart ant bridges within two weeks.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Our service coordination centers on Lawndale, CA coverage windows and verified intake details.
+Risk flag: In Lawndale, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Tip: request a written scope before work starts.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Lawndale, CA.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 90260.
+Tip: Date bait station lids when servicing Lawndale, CA perimeter lines.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 90260.
+Earwig harborages in Lawndale, CA meter boxes often follow drip irrigation overspray.
 
-Dispatch sectors sampled: ZIP 90260 (county grid: Los Angeles County).
+Carpenter ant frass in Lawndale, CA window sills may indicate moisture-softened framing.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Mud dauber nests in Lawndale, CA porch ceilings are benign but signal prey density for spiders.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+FAQ: Can bed bugs spread room-to-room in Lawndale, CA row homes? Wall voids and shared ducts accelerate transfer.
+
+Perimeter dossier 911706: bait station anchor map and mulch bridge risk flagged for Lawndale, CA county Los Angeles County (ZIP 90260).
+
+On-site sector marker: Los Angeles County / coords 33.8900, -118.3500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90260-aaeb9970

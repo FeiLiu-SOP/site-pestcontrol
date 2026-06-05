@@ -11,26 +11,43 @@ lng: -89.2200
 zipSample: ["62901", "62902", "62903"]
 zipCodes: ["62902", "62903", "62901"]
 localPaths: ["Jackson County / ZIP 62902 sector", "Jackson County / ZIP 62903 sector", "Jackson County / elevation 446 ft band", "Jackson County / coords 37.7200, -89.2200", "Jackson County / primary ZIP 62901"]
-zillowHomeValueUsd: 119696
 ---
 
-**Engineering Notice for Carbondale:** Structural loading calculated based on 446 ft terrain assessment. Regional dispatch grid: Jackson County.
+**Engineering Notice for Carbondale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jackson County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Carbondale, IL, but intake notes help reduce delays.
+Dry-wood termite pellets in Carbondale, IL attics may appear before exterior mud tubes.
 
-Tip: address recurring issues early to prevent bigger damage.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: request a written scope before work starts.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+IGR packets for Carbondale, IL roach cycles should be dated on station lids.
 
-Field note: Moisture pathway inspection logged near ZIP 62903/62902/62901 intake.
+Stored cardboard in Carbondale, IL garages can accelerate pantry pest cycles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 62903/62902/62901.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 62903, 62902, 62901 (county grid: Jackson County).
+State note: Carbondale, IL commercial kitchens may require separate documentation for audit visits.
+
+FAQ: Why schedule quarterly instead of monthly in Carbondale, IL? Species pressure and label intervals dictate cadence.
+
+Mud dauber nests in Carbondale, IL porch ceilings are benign but signal prey density for spiders.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 62901.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Carbondale, IL.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Perimeter granule carriers in Carbondale, IL clay soils may need lighter irrigation before application.
+
+Intercept log 549766: bed bug intercept count staged before Carbondale, IL interior gel zones.
+
+Perimeter dossier 549766: bait station anchor map and mulch bridge risk flagged for Carbondale, IL county Jackson County (ZIP 62901).
+
+On-site sector marker: Jackson County / ZIP 62903 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-62901-65b9a97d

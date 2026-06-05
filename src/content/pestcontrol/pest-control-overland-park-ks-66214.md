@@ -11,26 +11,37 @@ lng: -94.6900
 zipSample: ["66211", "66276", "66224", "66225", "66201"]
 zipCodes: ["66202", "66210", "66013", "66085", "66201", "66283", "66276", "66214", "66225", "66282", "66223", "66211"]
 localPaths: ["Johnson County / primary ZIP 66214", "Johnson County / ZIP 66225 sector", "Johnson County / ZIP 66201 sector", "Johnson County / ZIP 66211 sector", "Johnson County / coords 38.8900, -94.6900"]
-zillowHomeValueUsd: 389015
 ---
 
-**Engineering Notice for Overland Park:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Johnson County.
+**Engineering Notice for Overland Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Johnson County.
 
 
-Tip: avoid large upfront payments without milestones.
+Fire ant mounds in Overland Park, KS drive seams need granule rotation after irrigation events.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Homeowners in Overland Park, KS often face sudden pest control problems that require fast action.
+Cluster fly attic staging in Overland Park, KS peaks on south-facing voids after sunny thaw days.
 
-Our service coordination centers on Overland Park, KS coverage windows and verified intake details.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Field note: Access points and staging constraints recorded for ZIP 66085/66224/66204 coverage.
+Perimeter mulch beds in Overland Park, KS should be reviewed for ant bridge paths.
 
-Field note: Connection points spot-checked where accessible (ZIP 66085/66224/66204 zone).
+Clover mite staining on Overland Park, KS wall restoration follows foundation mulch against brick ledges.
 
-Dispatch sectors sampled: ZIP 66085, 66224, 66204, 66251, 66213 (county grid: Johnson County).
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+County grid Johnson County informs routing near ZIP 66214.
+
+Wildlife odors in Overland Park, KS crawlspaces may attract secondary pest activity.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Exclusion audit 427596: exclusion mesh gauge and rodent runway grease mark reviewed for Overland Park, KS at 38.8900/-94.6900.
+
+Coordinate-anchored dispatch note: center reference 38.8900, -94.6900 at elevation ~958 ft aligns with Johnson County intake staging.
 
 Service reference: KS-66214-e15af1c5

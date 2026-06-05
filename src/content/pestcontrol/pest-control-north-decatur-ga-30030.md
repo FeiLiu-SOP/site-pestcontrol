@@ -11,26 +11,41 @@ lng: -84.2900
 zipSample: ["30030", "30033"]
 zipCodes: ["30030", "30033"]
 localPaths: ["DeKalb County / coords 33.8100, -84.2900", "DeKalb County / ZIP 30030 sector", "DeKalb County / primary ZIP 30030", "DeKalb County / elevation 955 ft band", "DeKalb County / ZIP 30033 sector"]
-zillowHomeValueUsd: 639011
 ---
 
-**Engineering Notice for North Decatur:** Structural loading calculated based on 955 ft terrain assessment. Regional dispatch grid: DeKalb County.
+**Engineering Notice for North Decatur:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeKalb County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Attic fogging in North Decatur, GA requires combustion appliance shutoff verification first.
 
-Transparent pricing helps you compare like-for-like scope items.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 30030.
 
-We coordinate local dispatch coverage around North Decatur, GA and nearby ZIP sectors.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Tip: avoid large upfront payments without milestones.
+Spider populations in North Decatur, GA eaves can signal insect prey density.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Fire ant mounds in North Decatur, GA drive seams need granule rotation after irrigation events.
 
-Field note: Wind exposure category reviewed for ZIP sector 30030/30033.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Field note: Moisture pathway inspection logged near ZIP 30030/30033 intake.
+Cluster fly attic staging in North Decatur, GA peaks on south-facing voids after sunny thaw days.
 
-Dispatch sectors sampled: ZIP 30030, 30033 (county grid: DeKalb County).
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Powderpost beetle exit holes in North Decatur, GA trim can be mistaken for dry-wood frass without magnification.
+
+Humidity in North Decatur, GA can sustain cockroach harborages behind appliance voids.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 30030.
+
+Mud dauber nests in North Decatur, GA porch ceilings are benign but signal prey density for spiders.
+
+Perimeter dossier 458474: bait station anchor map and mulch bridge risk flagged for North Decatur, GA county DeKalb County (ZIP 30030).
+
+Species trace 458474: re-entry interval label and conducive moisture note keyed to North Decatur, GA elevation 955 ft.
+
+On-site sector marker: DeKalb County / coords 33.8100, -84.2900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30030-66ad4192

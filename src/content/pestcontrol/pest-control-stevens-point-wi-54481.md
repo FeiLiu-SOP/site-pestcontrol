@@ -11,26 +11,41 @@ lng: -89.5500
 zipSample: ["54482", "54481"]
 zipCodes: ["54482", "54481"]
 localPaths: ["Portage County / coords 44.5200, -89.5500", "Portage County / primary ZIP 54481", "Portage County / ZIP 54482 sector", "Portage County / ZIP 54481 sector", "Portage County / elevation 1099 ft band"]
-zillowHomeValueUsd: 254642
 ---
 
-**Engineering Notice for Stevens Point:** Structural loading calculated based on 1099 ft terrain assessment. Regional dispatch grid: Portage County.
+**Engineering Notice for Stevens Point:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Portage County.
 
 
-In Stevens Point, WI, seasonal demand can change scheduling windows.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Why do pests return after spraying? Without sealing entry points in Stevens Point, WI, pressure often rebuilds.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Stevens Point, WI, but intake notes help reduce delays.
+Cluster fly attic staging in Stevens Point, WI peaks on south-facing voids after sunny thaw days.
 
-Tip: compare at least two estimates for scope and timeline.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Field note: Wind exposure category reviewed for ZIP sector 54482/54481.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Connection points spot-checked where accessible (ZIP 54482/54481 zone).
+Tip: Trim vegetation 12 inches from exterior cladding to reduce ant bridges.
 
-Dispatch sectors sampled: ZIP 54482, 54481 (county grid: Portage County).
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Wildlife odors in Stevens Point, WI crawlspaces may attract secondary pest activity.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Mud dauber nests in Stevens Point, WI porch ceilings are benign but signal prey density for spiders.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Tip: Date bait station lids when servicing Stevens Point, WI perimeter lines.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Perimeter dossier 342577: bait station anchor map and mulch bridge risk flagged for Stevens Point, WI county Portage County (ZIP 54481).
+
+ZIP-corridor snapshot for Stevens Point, WI: sampled sectors include 54482, 54481; county routing grid remains Portage County.
 
 Service reference: WI-54481-e5aa3f20

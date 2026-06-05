@@ -11,25 +11,39 @@ lng: -111.9000
 zipSample: ["84190", "84119", "84115", "84165"]
 zipCodes: ["84190", "84115", "84165", "84119"]
 localPaths: ["Salt Lake County / ZIP 84119 sector", "Salt Lake County / coords 40.7100, -111.9000", "Salt Lake County / ZIP 84115 sector", "Salt Lake County / ZIP 84165 sector", "Salt Lake County / primary ZIP 84119"]
-zillowHomeValueUsd: 437594
 ---
 
-**Engineering Notice for South Salt Lake:** Structural loading calculated based on 4262 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for South Salt Lake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Salt Lake County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 84119.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 84119.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Our service coordination centers on South Salt Lake, UT coverage windows and verified intake details.
+Spider populations in South Salt Lake, UT eaves can signal insect prey density.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in South Salt Lake, UT, but intake notes help reduce delays.
+Risk flag: In South Salt Lake, UT, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84115/84119/84165.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Dispatch sectors sampled: ZIP 84115, 84119, 84165, 84190 (county grid: Salt Lake County).
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Risk flag: Overwatered South Salt Lake, UT planters can restart ant bridges within two weeks.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Stink bug overwinter seams in South Salt Lake, UT vinyl panels laps require exclusion foam rated for UV exposure.
+
+In South Salt Lake, UT, subterranean termite swarms often follow warm rain windows.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in South Salt Lake, UT, pressure often rebuilds.
+
+Species trace 963707: re-entry interval label and conducive moisture note keyed to South Salt Lake, UT elevation 4262 ft.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Salt Lake County and primary ZIP 84119. Terrain reference: 4262 ft. Center point: 40.7100, -111.9000. ZIP sample: 84165, 84190, 84119, 84115. Regional routing note: Salt Lake County traffic flow is balanced around ZIP 84119 service demand.
 
 Service reference: UT-84119-f1bc4eb8

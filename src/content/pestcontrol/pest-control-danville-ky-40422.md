@@ -11,24 +11,39 @@ lng: -84.7800
 zipSample: ["40423", "40422"]
 zipCodes: ["40422", "40423"]
 localPaths: ["Boyle County / elevation 961 ft band", "Boyle County / ZIP 40422 sector", "Boyle County / primary ZIP 40422", "Boyle County / coords 37.6400, -84.7800", "Boyle County / ZIP 40423 sector"]
-zillowHomeValueUsd: 247926
 ---
 
-**Engineering Notice for Danville:** Structural loading calculated based on 961 ft terrain assessment. Regional dispatch grid: Boyle County.
+**Engineering Notice for Danville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Boyle County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why do pests return after spraying? Without sealing entry points in Danville, KY, pressure often rebuilds.
 
-Local conditions in Danville, KY can affect timelines and material choices.
+State note: Danville, KY commercial kitchens may require separate documentation for audit visits.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Tip: request a written scope before work starts.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Connection points spot-checked where accessible (ZIP 40423/40422 zone).
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Dispatch sectors sampled: ZIP 40423, 40422 (county grid: Boyle County).
+Risk flag: In Danville, KY, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Tip: Trim vegetation 12 inches from vinyl panels to reduce ant bridges.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 40422.
+
+Perimeter dossier 950782: bait station anchor map and mulch bridge risk flagged for Danville, KY county Boyle County (ZIP 40422).
+
+Harbor ledger 950782: frass lane, mud-tube scan, and garage jamb gap measure filed for Danville, KY at 37.6400, -84.7800.
+
+On-site sector marker: Boyle County / ZIP 40422 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-40422-d231f279

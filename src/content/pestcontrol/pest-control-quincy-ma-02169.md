@@ -11,24 +11,39 @@ lng: -71.0200
 zipSample: ["02171", "02269", "02169", "02170"]
 zipCodes: ["02269", "02169", "02171", "02170"]
 localPaths: ["Norfolk County / ZIP 02269 sector", "Norfolk County / primary ZIP 02169", "Norfolk County / ZIP 02171 sector", "Norfolk County / coords 42.2500, -71.0200", "Norfolk County / ZIP 02169 sector"]
-zillowHomeValueUsd: 631220
 ---
 
-**Engineering Notice for Quincy:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: Norfolk County.
+**Engineering Notice for Quincy:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Norfolk County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Overwatered Quincy, MA planters can restart ant bridges within two weeks.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Drain fly biofilm in Quincy, MA floor drains signals grease traps need service before gel baits.
 
-In Quincy, MA, seasonal demand can change scheduling windows.
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 02169/02171/02170.
+FAQ: Why do pests return after spraying? Without sealing entry points in Quincy, MA, pressure often rebuilds.
 
-Dispatch sectors sampled: ZIP 02169, 02171, 02170, 02269 (county grid: Norfolk County).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Material note: Perimeter granules in Quincy, MA may need reapplication after heavy irrigation.
+
+Monitoring boards in Quincy, MA crawlspaces stay 72 hours before snap traps are reset.
+
+Silverfish activity in Quincy, MA attics tracks cardboard storage and ridge vent gaps.
+
+IGR packets for Quincy, MA roach cycles should be dated on station lids.
+
+Flea pupae survive vacuuming in Quincy, MA carpet fibers unless heat treatment follows.
+
+Harbor ledger 195431: frass lane, mud-tube scan, and garage jamb gap measure filed for Quincy, MA at 42.2500, -71.0200.
+
+Intercept log 195431: bed bug intercept count staged before Quincy, MA interior gel zones.
+
+On-site sector marker: Norfolk County / elevation 151 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MA-02169-900138a3

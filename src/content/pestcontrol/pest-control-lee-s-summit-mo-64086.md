@@ -11,26 +11,39 @@ lng: -94.3800
 zipSample: ["64086", "64002", "64082", "64064", "64063"]
 zipCodes: ["64081", "64086", "64082", "64064", "64063", "64002"]
 localPaths: ["Jackson County / coords 38.9200, -94.3800", "Jackson County / ZIP 64063 sector", "Jackson County / ZIP 64064 sector", "Jackson County / ZIP 64086 sector", "Jackson County / ZIP 64002 sector"]
-zillowHomeValueUsd: 375366
 ---
 
-**Engineering Notice for Lee's Summit:** Structural loading calculated based on 1030 ft terrain assessment. Regional dispatch grid: Jackson County.
+**Engineering Notice for Lee's Summit:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jackson County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Tip: avoid large upfront payments without milestones.
+Perimeter granule carriers in Lee's Summit, MO clay soils may need lighter irrigation before application.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Connection points spot-checked where accessible (ZIP 64064/64082/64063 zone).
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Field note: Moisture pathway inspection logged near ZIP 64064/64082/64063 intake.
+Mud dauber nests in Lee's Summit, MO porch ceilings are benign but signal prey density for spiders.
 
-Dispatch sectors sampled: ZIP 64064, 64082, 64063, 64081, 64002 (county grid: Jackson County).
+We coordinate Lee's Summit, MO pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+Silverfish activity in Lee's Summit, MO attics tracks cardboard storage and ridge vent gaps.
+
+FAQ: Can bed bugs spread room-to-room in Lee's Summit, MO row homes? Wall voids and shared ducts accelerate transfer.
+
+Zone map 817883: attic insulation disturbance trace and pantry pest source logged for Lee's Summit, MO sector 64086.
+
+On-site sector marker: Jackson County / elevation 1030 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-64086-fc07c3e6

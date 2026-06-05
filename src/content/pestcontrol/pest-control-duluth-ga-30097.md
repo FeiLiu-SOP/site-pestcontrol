@@ -11,26 +11,43 @@ lng: -84.1500
 zipSample: ["30098", "30097", "30096"]
 zipCodes: ["30096", "30097", "30098"]
 localPaths: ["Gwinnett County / ZIP 30097 sector", "Gwinnett County / ZIP 30098 sector", "Gwinnett County / primary ZIP 30097", "Gwinnett County / coords 34.0100, -84.1500", "Gwinnett County / ZIP 30096 sector"]
-zillowHomeValueUsd: 720350
 ---
 
-**Engineering Notice for Duluth:** Structural loading calculated based on 1083 ft terrain assessment. Regional dispatch grid: Gwinnett County.
+**Engineering Notice for Duluth:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gwinnett County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Duluth, GA, but intake notes help reduce delays.
+Silverfish activity in Duluth, GA attics tracks cardboard storage and ridge vent gaps.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: separate bait rotation schedules from crack-and-crevice applications in Duluth, GA.
 
-In Duluth, GA, seasonal demand can change scheduling windows.
+Cluster fly attic staging in Duluth, GA peaks on south-facing voids after sunny thaw days.
 
-Tip: request a written scope before work starts.
+Step: label treatment zones for occupant re-entry timing.
 
-We coordinate local dispatch coverage around Duluth, GA and nearby ZIP sectors.
+Carpenter ant frass in Duluth, GA window sills may indicate moisture-softened framing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30096/30098/30097.
+Attic fogging in Duluth, GA requires combustion appliance shutoff verification first.
 
-Field note: Moisture pathway inspection logged near ZIP 30096/30098/30097 intake.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Dispatch sectors sampled: ZIP 30096, 30098, 30097 (county grid: Gwinnett County).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Fire ant mounds in Duluth, GA drive seams need granule rotation after irrigation events.
+
+Dry-wood termite pellets in Duluth, GA attics may appear before exterior mud tubes.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+In Duluth, GA, subterranean termite swarms often follow warm rain windows.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Intercept log 352802: bed bug intercept count staged before Duluth, GA interior gel zones.
+
+Perimeter dossier 352802: bait station anchor map and mulch bridge risk flagged for Duluth, GA county Gwinnett County (ZIP 30097).
+
+Coordinate-anchored dispatch note: center reference 34.0100, -84.1500 at elevation ~1083 ft aligns with Gwinnett County intake staging.
 
 Service reference: GA-30097-7a639193

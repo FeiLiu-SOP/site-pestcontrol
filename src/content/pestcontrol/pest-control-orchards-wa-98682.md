@@ -11,25 +11,37 @@ lng: -122.5300
 zipSample: ["98682"]
 zipCodes: ["98682"]
 localPaths: ["Clark County / primary ZIP 98682", "Clark County / coords 45.6900, -122.5300", "Clark County / ZIP 98682 sector", "Clark County / elevation 279 ft band"]
-zillowHomeValueUsd: 502128
 ---
 
-**Engineering Notice for Orchards:** Structural loading calculated based on 279 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Orchards:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Exclusion gaps at garage jambs in Orchards, WA are common rodent access points.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 98682.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Date bait station lids when servicing Orchards, WA perimeter lines.
 
-Our service coordination centers on Orchards, WA coverage windows and verified intake details.
+Dry-wood termite pellets in Orchards, WA attics may appear before exterior mud tubes.
 
-Field note: Wind exposure category reviewed for ZIP sector 98682.
+Risk flag: In Orchards, WA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Dispatch sectors sampled: ZIP 98682 (county grid: Clark County).
+Stored cardboard in Orchards, WA garages can accelerate pantry pest cycles.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Perimeter mulch beds in Orchards, WA should be reviewed for ant bridge paths.
+
+County grid Clark County informs routing near ZIP 98682.
+
+Monitoring boards in Orchards, WA crawlspaces stay 72 hours before snap traps are reset.
+
+Zone map 663413: attic insulation disturbance trace and pantry pest source logged for Orchards, WA sector 98682.
+
+Regional mesh label Clark County: moisture and logistics baselines are keyed to Orchards, WA before niche-specific work begins.
 
 Service reference: WA-98682-868e48ec

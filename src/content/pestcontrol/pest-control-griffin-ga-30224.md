@@ -11,26 +11,37 @@ lng: -84.2700
 zipSample: ["30223", "30224"]
 zipCodes: ["30223", "30224"]
 localPaths: ["Spalding County / ZIP 30224 sector", "Spalding County / ZIP 30223 sector", "Spalding County / elevation 981 ft band", "Spalding County / coords 33.2400, -84.2700", "Spalding County / primary ZIP 30224"]
-zillowHomeValueUsd: 258638
 ---
 
-**Engineering Notice for Griffin:** Structural loading calculated based on 981 ft terrain assessment. Regional dispatch grid: Spalding County.
+**Engineering Notice for Griffin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Spalding County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Trim vegetation 12 inches from vinyl panels to reduce ant bridges.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-We coordinate local dispatch coverage around Griffin, GA and nearby ZIP sectors.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Structured milestones protect both sides when scheduling work.
+Monitoring boards in Griffin, GA crawlspaces stay 72 hours before snap traps are reset.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30223/30224.
+Attic misting in Griffin, GA requires combustion air clearance verified before fans restart.
 
-Field note: Connection points spot-checked where accessible (ZIP 30223/30224 zone).
+Cluster fly attic staging in Griffin, GA peaks on south-facing voids after sunny thaw days.
 
-Dispatch sectors sampled: ZIP 30223, 30224 (county grid: Spalding County).
+Bird mites in Griffin, GA exhaust vents can persist after host nests are removed.
+
+State note: Griffin, GA commercial kitchens may require separate documentation for audit visits.
+
+Mosquito breeding in Griffin, GA catch basins can amplify perimeter callbacks.
+
+Spider populations in Griffin, GA eaves can signal insect prey density.
+
+Step: record station placement maps for follow-up visits.
+
+Intercept log 322314: bed bug intercept count staged before Griffin, GA interior gel zones.
+
+On-site sector marker: Spalding County / coords 33.2400, -84.2700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30224-a6fbc6fc

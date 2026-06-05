@@ -11,26 +11,39 @@ lng: -81.5500
 zipSample: ["34786"]
 zipCodes: ["34786"]
 localPaths: ["Orange County / primary ZIP 34786", "Orange County / ZIP 34786 sector", "Orange County / coords 28.4900, -81.5500", "Orange County / elevation 92 ft band"]
-zillowHomeValueUsd: 700009
 ---
 
-**Engineering Notice for Lake Butler:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Lake Butler:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Mud dauber nests in Lake Butler, FL porch ceilings are benign but signal prey density for spiders.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Lake Butler, FL.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Clover mite staining on Lake Butler, FL cladding service follows foundation mulch against brick ledges.
 
-Field note: Connection points spot-checked where accessible (ZIP 34786 zone).
+State note: Lake Butler, FL commercial kitchens may require separate documentation for audit visits.
 
-Field note: Access points and staging constraints recorded for ZIP 34786 coverage.
+Step: label treatment zones for occupant re-entry timing.
 
-Dispatch sectors sampled: ZIP 34786 (county grid: Orange County).
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Fire ant mounds in Lake Butler, FL drive seams need granule rotation after irrigation events.
+
+Silverfish activity in Lake Butler, FL attics tracks cardboard storage and ridge vent gaps.
+
+Harbor ledger 423583: frass lane, mud-tube scan, and garage jamb gap measure filed for Lake Butler, FL at 28.4900, -81.5500.
+
+Species trace 423583: re-entry interval label and conducive moisture note keyed to Lake Butler, FL elevation 92 ft.
+
+On-site sector marker: Orange County / primary ZIP 34786 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34786-aa2c83c3

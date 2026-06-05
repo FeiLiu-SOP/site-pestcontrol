@@ -11,25 +11,37 @@ lng: -118.0800
 zipSample: ["91770", "91772", "91771"]
 zipCodes: ["91772", "91771", "91770"]
 localPaths: ["Los Angeles County / ZIP 91771 sector", "Los Angeles County / coords 34.0700, -118.0800", "Los Angeles County / elevation 285 ft band", "Los Angeles County / ZIP 91770 sector", "Los Angeles County / ZIP 91772 sector"]
-zillowHomeValueUsd: 912810
 ---
 
-**Engineering Notice for Rosemead:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Rosemead:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Silverfish activity in Rosemead, CA attics tracks cardboard storage and ridge vent gaps.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 91770.
+Yellow jacket nests in Rosemead, CA soffit cavities peak in late summer routing windows.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Rosemead, CA, but intake notes help reduce delays.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Tip: avoid large upfront payments without milestones.
+Step: map entry points with photo logs before sealing.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Powderpost beetle exit holes in Rosemead, CA trim can be mistaken for dry-wood frass without magnification.
 
-Field note: Access points and staging constraints recorded for ZIP 91771/91772/91770 coverage.
+Step: record station placement maps for follow-up visits.
 
-Dispatch sectors sampled: ZIP 91771, 91772, 91770 (county grid: Los Angeles County).
+Carpenter ant frass in Rosemead, CA window sills may indicate moisture-softened framing.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Rosemead, CA.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Material note: Perimeter granules in Rosemead, CA may need reapplication after heavy irrigation.
+
+Fire ant mounds in Rosemead, CA drive seams need granule rotation after irrigation events.
+
+Clover mite staining on Rosemead, CA wall restoration follows foundation mulch against brick ledges.
+
+Intercept log 805908: bed bug intercept count staged before Rosemead, CA interior gel zones.
+
+On-site sector marker: Los Angeles County / elevation 285 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91770-315be862

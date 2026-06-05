@@ -11,27 +11,39 @@ lng: -75.3700
 zipSample: ["18015", "18018", "18017", "18016"]
 zipCodes: ["18016", "18018", "18015", "18017"]
 localPaths: ["Northampton County / primary ZIP 18017", "Northampton County / ZIP 18015 sector", "Northampton County / ZIP 18018 sector", "Northampton County / elevation 351 ft band", "Northampton County / coords 40.6300, -75.3700"]
-zillowHomeValueUsd: 378583
 ---
 
-**Engineering Notice for Bethlehem:** Structural loading calculated based on 351 ft terrain assessment. Regional dispatch grid: Northampton County.
+**Engineering Notice for Bethlehem:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Northampton County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Clover mite staining on Bethlehem, PA vinyl panels follows foundation mulch against brick ledges.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bethlehem, PA, but intake notes help reduce delays.
+Carpenter ant frass in Bethlehem, PA window sills may indicate moisture-softened framing.
 
-Tip: address recurring issues early to prevent bigger damage.
+Wildlife odors in Bethlehem, PA crawlspaces may attract secondary pest activity.
 
-Our service coordination centers on Bethlehem, PA coverage windows and verified intake details.
+Earwig harborages in Bethlehem, PA meter boxes often follow drip irrigation overspray.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 18017.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 18017.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 18018/18015/18017.
+Exclusion gaps at garage jambs in Bethlehem, PA are common rodent access points.
 
-Field note: Wind exposure category reviewed for ZIP sector 18018/18015/18017.
+Dry-wood termite pellets in Bethlehem, PA attics may appear before exterior mud tubes.
 
-Dispatch sectors sampled: ZIP 18018, 18015, 18017, 18016 (county grid: Northampton County).
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+FAQ: What is exclusion? Without sealing entry points in Bethlehem, PA, pressure often rebuilds.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Species trace 992783: re-entry interval label and conducive moisture note keyed to Bethlehem, PA elevation 351 ft.
+
+On-site sector marker: Northampton County / ZIP 18015 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-18017-f6d4989a

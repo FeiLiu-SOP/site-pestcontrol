@@ -11,26 +11,37 @@ lng: -93.7800
 zipSample: ["50334", "50322", "50323"]
 zipCodes: ["50323", "50322", "50334"]
 localPaths: ["Polk County / primary ZIP 50323", "Polk County / ZIP 50334 sector", "Polk County / coords 41.6400, -93.7800", "Polk County / ZIP 50323 sector", "Polk County / elevation 971 ft band"]
-zillowHomeValueUsd: 452172
 ---
 
-**Engineering Notice for Urbandale:** Structural loading calculated based on 971 ft terrain assessment. Regional dispatch grid: Polk County.
+**Engineering Notice for Urbandale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Polk County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 50323.
 
-We coordinate local dispatch coverage around Urbandale, IA and nearby ZIP sectors.
+Tip: Log pet access routes when bait stations are placed.
 
-Homeowners in Urbandale, IA often face sudden pest control problems that require fast action.
+Earwig harborages in Urbandale, IA meter boxes often follow drip irrigation overspray.
 
-Local conditions in Urbandale, IA can affect timelines and material choices.
+Attic fogging in Urbandale, IA requires combustion appliance shutoff verification first.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Cluster fly attic staging in Urbandale, IA peaks on south-facing voids after sunny thaw days.
 
-Field note: Access points and staging constraints recorded for ZIP 50323/50322/50334 coverage.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Field note: Moisture pathway inspection logged near ZIP 50323/50322/50334 intake.
+Mud dauber nests in Urbandale, IA porch ceilings are benign but signal prey density for spiders.
 
-Dispatch sectors sampled: ZIP 50323, 50322, 50334 (county grid: Polk County).
+Flea pupae survive vacuuming in Urbandale, IA carpet fibers unless heat treatment follows.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Intercept log 212252: bed bug intercept count staged before Urbandale, IA interior gel zones.
+
+On-site sector marker: Polk County / ZIP 50322 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-50323-e8e1f0e8

@@ -11,27 +11,41 @@ lng: -100.9300
 zipSample: ["67905", "67901"]
 zipCodes: ["67901", "67905"]
 localPaths: ["Seward County / ZIP 67901 sector", "Seward County / elevation 2858 ft band", "Seward County / coords 37.0500, -100.9300", "Seward County / primary ZIP 67901", "Seward County / ZIP 67905 sector"]
-zillowHomeValueUsd: 144570
 ---
 
-**Engineering Notice for Liberal:** Structural loading calculated based on 2858 ft terrain assessment. Regional dispatch grid: Seward County.
+**Engineering Notice for Liberal:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Seward County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Powderpost beetle exit holes in Liberal, KS trim can be mistaken for dry-wood frass without magnification.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Liberal, KS, but intake notes help reduce delays.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Fire ant mounds in Liberal, KS drive seams need granule rotation after irrigation events.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 67901.
+Mud dauber nests in Liberal, KS porch ceilings are benign but signal prey density for spiders.
 
-Field note: Connection points spot-checked where accessible (ZIP 67905/67901 zone).
+Attic fogging in Liberal, KS requires combustion appliance shutoff verification first.
 
-Field note: Moisture pathway inspection logged near ZIP 67905/67901 intake.
+Step: record station placement maps for follow-up visits.
 
-Dispatch sectors sampled: ZIP 67905, 67901 (county grid: Seward County).
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 67901.
+
+Spider populations in Liberal, KS eaves can signal insect prey density.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Liberal, KS.
+
+Seasonal cue 508752: cluster fly attic staging reviewed for Liberal, KS soffit cavities.
+
+Zone map 508752: attic insulation disturbance trace and pantry pest source logged for Liberal, KS sector 67901.
+
+Coordinate-anchored dispatch note: center reference 37.0500, -100.9300 at elevation ~2858 ft aligns with Seward County intake staging.
 
 Service reference: KS-67901-b4258f4e

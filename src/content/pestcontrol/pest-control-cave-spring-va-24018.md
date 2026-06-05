@@ -11,27 +11,39 @@ lng: -80.0100
 zipSample: ["24018"]
 zipCodes: ["24018"]
 localPaths: ["Roanoke County / coords 37.2300, -80.0100", "Roanoke County / elevation 1148 ft band", "Roanoke County / primary ZIP 24018", "Roanoke County / ZIP 24018 sector"]
-zillowHomeValueUsd: 376376
 ---
 
-**Engineering Notice for Cave Spring:** Structural loading calculated based on 1148 ft terrain assessment. Regional dispatch grid: Roanoke County.
+**Engineering Notice for Cave Spring:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Roanoke County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-We coordinate local dispatch coverage around Cave Spring, VA and nearby ZIP sectors.
+FAQ: What is exclusion? Without sealing entry points in Cave Spring, VA, pressure often rebuilds.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Tip: confirm licensing and insurance before approving work.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 24018.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 24018.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Access points and staging constraints recorded for ZIP 24018 coverage.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Moisture pathway inspection logged near ZIP 24018 intake.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Dispatch sectors sampled: ZIP 24018 (county grid: Roanoke County).
+Clover mite staining on Cave Spring, VA exterior cladding follows foundation mulch against brick ledges.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Attic fogging in Cave Spring, VA requires combustion appliance shutoff verification first.
+
+County grid Roanoke County informs routing near ZIP 24018.
+
+IGR packets for Cave Spring, VA roach cycles should be dated on station lids.
+
+Zone map 789537: attic insulation disturbance trace and pantry pest source logged for Cave Spring, VA sector 24018.
+
+Intercept log 789537: bed bug intercept count staged before Cave Spring, VA interior gel zones.
+
+Regional mesh label Roanoke County: moisture and logistics baselines are keyed to Cave Spring, VA before niche-specific work begins.
 
 Service reference: VA-24018-b9e2f7d1

@@ -11,26 +11,39 @@ lng: -92.9500
 zipSample: ["55746"]
 zipCodes: ["55746"]
 localPaths: ["St. Louis County / primary ZIP 55746", "St. Louis County / elevation 1512 ft band", "St. Louis County / coords 47.4000, -92.9500", "St. Louis County / ZIP 55746 sector"]
-zillowHomeValueUsd: 154200
 ---
 
-**Engineering Notice for Hibbing:** Structural loading calculated based on 1512 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Hibbing:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hibbing, MN, but intake notes help reduce delays.
+Dry-wood termite pellets in Hibbing, MN attics may appear before exterior mud tubes.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Tip: request a written scope before work starts.
+Risk flag: In Hibbing, MN, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Wind exposure category reviewed for ZIP sector 55746.
+Step: label treatment zones for occupant re-entry timing.
 
-Field note: Moisture pathway inspection logged near ZIP 55746 intake.
+Step: separate bait rotation schedules from crack-and-crevice applications in Hibbing, MN.
 
-Dispatch sectors sampled: ZIP 55746 (county grid: St. Louis County).
+Silverfish activity in Hibbing, MN attics tracks cardboard storage and ridge vent gaps.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 55746.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+Species trace 353559: re-entry interval label and conducive moisture note keyed to Hibbing, MN elevation 1512 ft.
+
+On-site sector marker: St. Louis County / elevation 1512 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55746-8621eb7f

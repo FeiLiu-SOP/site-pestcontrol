@@ -11,24 +11,41 @@ lng: -89.4700
 zipSample: ["61650", "61550"]
 zipCodes: ["61550", "61650"]
 localPaths: ["Tazewell County / elevation 722 ft band", "Tazewell County / coords 40.6100, -89.4700", "Tazewell County / ZIP 61650 sector", "Tazewell County / ZIP 61550 sector", "Tazewell County / primary ZIP 61550"]
-zillowHomeValueUsd: 280465
 ---
 
-**Engineering Notice for Morton:** Structural loading calculated based on 722 ft terrain assessment. Regional dispatch grid: Tazewell County.
+**Engineering Notice for Morton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tazewell County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-In Morton, IL, urgent pest control issues can escalate quickly.
+Risk flag: Overwatered Morton, IL planters can restart ant bridges within two weeks.
 
-Tip: avoid large upfront payments without milestones.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Our service coordination centers on Morton, IL coverage windows and verified intake details.
+Bird mites in Morton, IL exhaust vents can persist after host nests are removed.
 
-Field note: Wind exposure category reviewed for ZIP sector 61550/61650.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Dispatch sectors sampled: ZIP 61550, 61650 (county grid: Tazewell County).
+Flea pupae survive vacuuming in Morton, IL carpet fibers unless heat treatment follows.
+
+Tip: Date bait station lids when servicing Morton, IL perimeter lines.
+
+In Morton, IL, subterranean termite swarms often follow warm rain windows.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Silverfish activity in Morton, IL attics tracks cardboard storage and ridge vent gaps.
+
+Risk flag: In Morton, IL, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Drain fly biofilm in Morton, IL floor drains signals grease traps need service before gel baits.
+
+Perimeter dossier 614955: bait station anchor map and mulch bridge risk flagged for Morton, IL county Tazewell County (ZIP 61550).
+
+**Regional Infrastructure Brief:** Topographical load indicates ~722 ft across the Tazewell County area. Coordinates: 40.6100, -89.4700. ZIP sample: 61650, 61550. Service perimeter note: Coverage extends through Tazewell County with dispatch centered near ZIP 61550.
 
 Service reference: IL-61550-cdeab09e

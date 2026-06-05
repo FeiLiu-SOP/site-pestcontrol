@@ -11,24 +11,43 @@ lng: -82.3500
 zipSample: ["32603", "32610", "32609", "32604", "32612"]
 zipCodes: ["32607", "32603", "32614", "32653", "32609", "32608", "32604", "32612", "32627", "32605", "32610", "32601"]
 localPaths: ["Alachua County / ZIP 32609 sector", "Alachua County / coords 29.6800, -82.3500", "Alachua County / ZIP 32612 sector", "Alachua County / ZIP 32603 sector", "Alachua County / elevation 180 ft band"]
-zillowHomeValueUsd: 337042
 ---
 
-**Engineering Notice for Gainesville:** Structural loading calculated based on 180 ft terrain assessment. Regional dispatch grid: Alachua County.
+**Engineering Notice for Gainesville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alachua County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Perimeter granules in Gainesville, FL may need reapplication after heavy irrigation.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Gainesville, FL, but intake notes help reduce delays.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Fire ant mounds in Gainesville, FL drive seams need granule rotation after irrigation events.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Access points and staging constraints recorded for ZIP 32608/32614/32653 coverage.
+Step: verify attic access safety before insulation disturbance.
 
-Dispatch sectors sampled: ZIP 32608, 32614, 32653, 32627, 32603 (county grid: Alachua County).
+Stink bug overwinter seams in Gainesville, FL vinyl panels laps require exclusion foam rated for UV exposure.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 32608.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Gainesville, FL.
+
+We coordinate Gainesville, FL pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 32608.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+FAQ: Can bed bugs spread room-to-room in Gainesville, FL row homes? Wall voids and shared ducts accelerate transfer.
+
+Perimeter dossier 831386: bait station anchor map and mulch bridge risk flagged for Gainesville, FL county Alachua County (ZIP 32608).
+
+Species trace 831386: re-entry interval label and conducive moisture note keyed to Gainesville, FL elevation 180 ft.
+
+On-site sector marker: Alachua County / ZIP 32635 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32608-2a73fc81

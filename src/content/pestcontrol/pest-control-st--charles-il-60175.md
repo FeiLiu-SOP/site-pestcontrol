@@ -11,26 +11,41 @@ lng: -88.3100
 zipSample: ["60174", "60175"]
 zipCodes: ["60175", "60174"]
 localPaths: ["Kane County / primary ZIP 60175", "Kane County / coords 41.9200, -88.3100", "Kane County / ZIP 60175 sector", "Kane County / ZIP 60174 sector", "Kane County / elevation 768 ft band"]
-zillowHomeValueUsd: 624838
 ---
 
-**Engineering Notice for St. Charles:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: Kane County.
+**Engineering Notice for St. Charles:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kane County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Yellow jacket nests in St. Charles, IL soffit cavities peak in late summer routing windows.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in St. Charles, IL, but intake notes help reduce delays.
+Risk flag: In St. Charles, IL, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Tip: request a written scope before work starts.
+Tip: Date bait station lids when servicing St. Charles, IL perimeter lines.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Perimeter granule carriers in St. Charles, IL clay soils may need lighter irrigation before application.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60175/60174.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Connection points spot-checked where accessible (ZIP 60175/60174 zone).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Dispatch sectors sampled: ZIP 60175, 60174 (county grid: Kane County).
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+In St. Charles, IL, subterranean termite swarms often follow warm rain windows.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+IGR packets for St. Charles, IL roach cycles should be dated on station lids.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Zone map 426360: attic insulation disturbance trace and pantry pest source logged for St. Charles, IL sector 60175.
+
+Perimeter dossier 426360: bait station anchor map and mulch bridge risk flagged for St. Charles, IL county Kane County (ZIP 60175).
+
+Regional mesh label Kane County: moisture and logistics baselines are keyed to St. Charles, IL before niche-specific work begins.
 
 Service reference: IL-60175-892cfb89

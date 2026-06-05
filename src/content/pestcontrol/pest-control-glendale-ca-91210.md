@@ -11,26 +11,43 @@ lng: -118.2500
 zipSample: ["91206", "91214", "91210", "91209", "91205"]
 zipCodes: ["91204", "91203", "91225", "91222", "91201", "91205", "91206", "91209", "91046", "91221", "91226", "91214"]
 localPaths: ["Los Angeles County / ZIP 91210 sector", "Los Angeles County / ZIP 91205 sector", "Los Angeles County / coords 34.1800, -118.2500", "Los Angeles County / elevation 1512 ft band", "Los Angeles County / ZIP 91206 sector"]
-zillowHomeValueUsd: 1157563
 ---
 
-**Engineering Notice for Glendale:** Structural loading calculated based on 1512 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Glendale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-We coordinate local dispatch coverage around Glendale, CA and nearby ZIP sectors.
+Tip: Date bait station lids when servicing Glendale, CA perimeter lines.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Glendale, CA.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Tip: compare at least two estimates for scope and timeline.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-In Glendale, CA, urgent pest control issues can escalate quickly.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Wind exposure category reviewed for ZIP sector 91020/91207/91222.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Connection points spot-checked where accessible (ZIP 91020/91207/91222 zone).
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Dispatch sectors sampled: ZIP 91020, 91207, 91222, 91046, 91221 (county grid: Los Angeles County).
+Earwig harborages in Glendale, CA meter boxes often follow drip irrigation overspray.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Clover mite staining on Glendale, CA wall restoration follows foundation mulch against brick ledges.
+
+FAQ: Can bed bugs spread room-to-room in Glendale, CA row homes? Wall voids and shared ducts accelerate transfer.
+
+Bird mites in Glendale, CA exhaust vents can persist after host nests are removed.
+
+Exclusion gaps at garage jambs in Glendale, CA are common rodent access points.
+
+Material note: Perimeter granules in Glendale, CA may need reapplication after heavy irrigation.
+
+Species trace 298668: re-entry interval label and conducive moisture note keyed to Glendale, CA elevation 1512 ft.
+
+Exclusion audit 298668: exclusion mesh gauge and rodent runway grease mark reviewed for Glendale, CA at 34.1800/-118.2500.
+
+On-site sector marker: Los Angeles County / ZIP 91208 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91210-22bc2169

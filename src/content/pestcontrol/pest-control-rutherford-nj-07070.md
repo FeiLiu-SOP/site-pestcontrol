@@ -11,24 +11,43 @@ lng: -74.1100
 zipSample: ["07070"]
 zipCodes: ["07070"]
 localPaths: ["Bergen County / primary ZIP 07070", "Bergen County / elevation 72 ft band", "Bergen County / ZIP 07070 sector", "Bergen County / coords 40.8200, -74.1100"]
-zillowHomeValueUsd: 738676
 ---
 
-**Engineering Notice for Rutherford:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Bergen County.
+**Engineering Notice for Rutherford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bergen County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Tip: confirm licensing and insurance before approving work.
+In Rutherford, NJ, subterranean termite swarms often follow warm rain windows.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep pet food elevated and sealed between service visits.
 
-We coordinate local dispatch coverage around Rutherford, NJ and nearby ZIP sectors.
+FAQ: Why schedule quarterly instead of monthly in Rutherford, NJ? Species pressure and label intervals dictate cadence.
 
-Field note: Connection points spot-checked where accessible (ZIP 07070 zone).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Dispatch sectors sampled: ZIP 07070 (county grid: Bergen County).
+Step: map entry points with photo logs before sealing.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Mud dauber nests in Rutherford, NJ porch ceilings are benign but signal prey density for spiders.
+
+Yellow jacket nests in Rutherford, NJ soffit cavities peak in late summer routing windows.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Earwig harborages in Rutherford, NJ meter boxes often follow drip irrigation overspray.
+
+FAQ: Can bed bugs spread room-to-room in Rutherford, NJ row homes? Wall voids and shared ducts accelerate transfer.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 07070.
+
+Perimeter dossier 835931: bait station anchor map and mulch bridge risk flagged for Rutherford, NJ county Bergen County (ZIP 07070).
+
+Exclusion audit 835931: exclusion mesh gauge and rodent runway grease mark reviewed for Rutherford, NJ at 40.8200/-74.1100.
+
+Primary postal anchor 07070 with multi-ZIP overlap in Rutherford; field packets tag Bergen County for county-grid reconciliation.
 
 Service reference: NJ-07070-3c4b2243

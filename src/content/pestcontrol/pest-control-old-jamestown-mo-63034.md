@@ -11,24 +11,39 @@ lng: -90.2800
 zipSample: ["63034"]
 zipCodes: ["63034"]
 localPaths: ["St. Louis County / primary ZIP 63034", "St. Louis County / elevation 558 ft band", "St. Louis County / coords 38.8400, -90.2800", "St. Louis County / ZIP 63034 sector"]
-zillowHomeValueUsd: 272156
 ---
 
-**Engineering Notice for Old Jamestown:** Structural loading calculated based on 558 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Old Jamestown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Mud dauber nests in Old Jamestown, MO porch ceilings are benign but signal prey density for spiders.
 
-Tip: address recurring issues early to prevent bigger damage.
+IGR packets for Old Jamestown, MO roach cycles should be dated on station lids.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Perimeter granule carriers in Old Jamestown, MO clay soils may need lighter irrigation before application.
 
-Transparent pricing helps you compare like-for-like scope items.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 63034.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 63034.
+County grid St. Louis County informs routing near ZIP 63034.
 
-Dispatch sectors sampled: ZIP 63034 (county grid: St. Louis County).
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Earwig harborages in Old Jamestown, MO meter boxes often follow drip irrigation overspray.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Attic insulation disturbance in Old Jamestown, MO may indicate wildlife nesting routes.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Old Jamestown, MO.
+
+Attic fogging in Old Jamestown, MO requires combustion appliance shutoff verification first.
+
+Harbor ledger 317958: frass lane, mud-tube scan, and garage jamb gap measure filed for Old Jamestown, MO at 38.8400, -90.2800.
+
+Regional mesh label St. Louis County: moisture and logistics baselines are keyed to Old Jamestown, MO before niche-specific work begins.
 
 Service reference: MO-63034-5e6eea93

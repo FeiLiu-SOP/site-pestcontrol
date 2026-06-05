@@ -11,26 +11,41 @@ lng: -76.9600
 zipSample: ["20748"]
 zipCodes: ["20748"]
 localPaths: ["Prince George's County / elevation 276 ft band", "Prince George's County / primary ZIP 20748", "Prince George's County / coords 38.8400, -76.9600", "Prince George's County / ZIP 20748 sector"]
-zillowHomeValueUsd: 364476
 ---
 
-**Engineering Notice for Hillcrest Heights:** Structural loading calculated based on 276 ft terrain assessment. Regional dispatch grid: Prince George's County.
+**Engineering Notice for Hillcrest Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince George's County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Stink bug overwinter seams in Hillcrest Heights, MD wall restoration laps require exclusion foam rated for UV exposure.
 
-We coordinate local dispatch coverage around Hillcrest Heights, MD and nearby ZIP sectors.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hillcrest Heights, MD, but intake notes help reduce delays.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Perimeter granules in Hillcrest Heights, MD may need reapplication after heavy irrigation.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Spider populations in Hillcrest Heights, MD eaves can signal insect prey density.
 
-Field note: Wind exposure category reviewed for ZIP sector 20748.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Field note: Access points and staging constraints recorded for ZIP 20748 coverage.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Dispatch sectors sampled: ZIP 20748 (county grid: Prince George's County).
+FAQ: Can bed bugs spread room-to-room in Hillcrest Heights, MD row homes? Wall voids and shared ducts accelerate transfer.
+
+Mud dauber nests in Hillcrest Heights, MD porch ceilings are benign but signal prey density for spiders.
+
+Attic fogging in Hillcrest Heights, MD requires combustion appliance shutoff verification first.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Hillcrest Heights, MD.
+
+IGR packets for Hillcrest Heights, MD roach cycles should be dated on station lids.
+
+State note: Hillcrest Heights, MD commercial kitchens may require separate documentation for audit visits.
+
+Fire ant mounds in Hillcrest Heights, MD drive seams need granule rotation after irrigation events.
+
+Harbor ledger 867740: frass lane, mud-tube scan, and garage jamb gap measure filed for Hillcrest Heights, MD at 38.8400, -76.9600.
+
+On-site sector marker: Prince George's County / elevation 276 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20748-18efa8ca

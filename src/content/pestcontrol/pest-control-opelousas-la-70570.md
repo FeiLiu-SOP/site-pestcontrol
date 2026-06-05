@@ -11,24 +11,37 @@ lng: -92.0800
 zipSample: ["70570", "70571"]
 zipCodes: ["70571", "70570"]
 localPaths: ["St. Landry Parish / primary ZIP 70570", "St. Landry Parish / ZIP 70570 sector", "St. Landry Parish / ZIP 70571 sector", "St. Landry Parish / elevation 72 ft band", "St. Landry Parish / coords 30.5300, -92.0800"]
-zillowHomeValueUsd: 122647
 ---
 
-**Engineering Notice for Opelousas:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: St. Landry Parish.
+**Engineering Notice for Opelousas:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Landry Parish.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Earwig harborages in Opelousas, LA meter boxes often follow drip irrigation overspray.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Can bed bugs spread room-to-room in Opelousas, LA row homes? Wall voids and shared ducts accelerate transfer.
 
-Clear documentation helps align materials, labor, and timeline.
+Yellow jacket nests in Opelousas, LA soffit cavities peak in late summer routing windows.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Connection points spot-checked where accessible (ZIP 70571/70570 zone).
+Perimeter granule carriers in Opelousas, LA clay soils may need lighter irrigation before application.
 
-Dispatch sectors sampled: ZIP 70571, 70570 (county grid: St. Landry Parish).
+Step: map entry points with photo logs before sealing.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Attic fogging in Opelousas, LA requires combustion appliance shutoff verification first.
+
+County grid St. Landry Parish informs routing near ZIP 70570.
+
+Step: record station placement maps for follow-up visits.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Seasonal cue 984413: cluster fly attic staging reviewed for Opelousas, LA soffit cavities.
+
+On-site sector marker: St. Landry Parish / coords 30.5300, -92.0800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70570-bef3a81d

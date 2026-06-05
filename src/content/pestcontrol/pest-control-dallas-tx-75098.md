@@ -11,27 +11,41 @@ lng: -96.7700
 zipSample: ["75247", "75372", "75336", "75252", "75251"]
 zipCodes: ["75219", "75210", "75247", "75032", "75354", "75237", "75220", "75088", "75236", "75357", "75225", "75360"]
 localPaths: ["Dallas County / primary ZIP 75098", "Dallas County / elevation 502 ft band", "Dallas County / ZIP 75247 sector", "Dallas County / ZIP 75372 sector", "Dallas County / ZIP 75336 sector"]
-zillowHomeValueUsd: 423154
 ---
 
-**Engineering Notice for Dallas:** Structural loading calculated based on 502 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for Dallas:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Carpenter ant frass in Dallas, TX window sills may indicate moisture-softened framing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Dallas, TX, but intake notes help reduce delays.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 75098.
+Flea pupae survive vacuuming in Dallas, TX carpet fibers unless heat treatment follows.
 
-Tip: request a written scope before work starts.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Why schedule quarterly instead of monthly in Dallas, TX? Species pressure and label intervals dictate cadence.
 
-Field note: Access points and staging constraints recorded for ZIP 75254/75216/75247 coverage.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 75098.
 
-Field note: Connection points spot-checked where accessible (ZIP 75254/75216/75247 zone).
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Dispatch sectors sampled: ZIP 75254, 75216, 75247, 75220, 75208 (county grid: Dallas County).
+Perimeter mulch beds in Dallas, TX should be reviewed for ant bridge paths.
+
+Silverfish activity in Dallas, TX attics tracks cardboard storage and ridge vent gaps.
+
+Attic misting in Dallas, TX requires combustion air clearance verified before fans restart.
+
+Step: map entry points with photo logs before sealing.
+
+Material note: Perimeter granules in Dallas, TX may need reapplication after heavy irrigation.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Species trace 797448: re-entry interval label and conducive moisture note keyed to Dallas, TX elevation 502 ft.
+
+Perimeter dossier 797448: bait station anchor map and mulch bridge risk flagged for Dallas, TX county Dallas County (ZIP 75098).
+
+On-site sector marker: Dallas County / ZIP 75231 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75098-e411e862

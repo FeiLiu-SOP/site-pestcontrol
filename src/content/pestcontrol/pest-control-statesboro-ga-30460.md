@@ -11,25 +11,43 @@ lng: -81.7800
 zipSample: ["30459", "30461", "30460", "30458"]
 zipCodes: ["30460", "30458", "30461", "30459"]
 localPaths: ["Bulloch County / ZIP 30459 sector", "Bulloch County / ZIP 30458 sector", "Bulloch County / ZIP 30460 sector", "Bulloch County / coords 32.4400, -81.7800", "Bulloch County / ZIP 30461 sector"]
-zillowHomeValueUsd: 259358
 ---
 
-**Engineering Notice for Statesboro:** Structural loading calculated based on 236 ft terrain assessment. Regional dispatch grid: Bulloch County.
+**Engineering Notice for Statesboro:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bulloch County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 30460.
+Humidity in Statesboro, GA can sustain cockroach harborages behind appliance voids.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Yellow jacket nests in Statesboro, GA soffit cavities peak in late summer routing windows.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Statesboro, GA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Clear documentation helps align materials, labor, and timeline.
+IGR packets for Statesboro, GA roach cycles should be dated on station lids.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Attic fogging in Statesboro, GA requires combustion appliance shutoff verification first.
 
-Field note: Connection points spot-checked where accessible (ZIP 30461/30458/30459 zone).
+Powderpost beetle exit holes in Statesboro, GA trim can be mistaken for dry-wood frass without magnification.
 
-Dispatch sectors sampled: ZIP 30461, 30458, 30459, 30460 (county grid: Bulloch County).
+Flea pupae survive vacuuming in Statesboro, GA carpet fibers unless heat treatment follows.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Monitoring boards in Statesboro, GA crawlspaces stay 72 hours before snap traps are reset.
+
+Step: record station placement maps for follow-up visits.
+
+Drain fly biofilm in Statesboro, GA floor drains signals grease traps need service before gel baits.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Intercept log 878094: bed bug intercept count staged before Statesboro, GA interior gel zones.
+
+Perimeter dossier 878094: bait station anchor map and mulch bridge risk flagged for Statesboro, GA county Bulloch County (ZIP 30460).
+
+On-site sector marker: Bulloch County / coords 32.4400, -81.7800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30460-c3e17f19

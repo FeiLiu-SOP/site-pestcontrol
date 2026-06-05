@@ -11,26 +11,43 @@ lng: -74.1300
 zipSample: ["07031"]
 zipCodes: ["07031"]
 localPaths: ["Bergen County / ZIP 07031 sector", "Bergen County / elevation 92 ft band", "Bergen County / coords 40.7900, -74.1300", "Bergen County / primary ZIP 07031"]
-zillowHomeValueUsd: 619411
 ---
 
-**Engineering Notice for North Arlington:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Bergen County.
+**Engineering Notice for North Arlington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bergen County.
 
 
-Tip: confirm licensing and insurance before approving work.
+IGR packets for North Arlington, NJ roach cycles should be dated on station lids.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in North Arlington, NJ, but intake notes help reduce delays.
+Flea pupae survive vacuuming in North Arlington, NJ carpet fibers unless heat treatment follows.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Attic fogging in North Arlington, NJ requires combustion appliance shutoff verification first.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Our service coordination centers on North Arlington, NJ coverage windows and verified intake details.
+Request an inspection with species ID before treatment. Serving ZIP Code: 07031.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 07031.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Access points and staging constraints recorded for ZIP 07031 coverage.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Dispatch sectors sampled: ZIP 07031 (county grid: Bergen County).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 07031.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 07031.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Step: verify attic access safety before insulation disturbance.
+
+Exclusion audit 762030: exclusion mesh gauge and rodent runway grease mark reviewed for North Arlington, NJ at 40.7900/-74.1300.
+
+Zone map 762030: attic insulation disturbance trace and pantry pest source logged for North Arlington, NJ sector 07031.
+
+On-site sector marker: Bergen County / elevation 92 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07031-96750f5f

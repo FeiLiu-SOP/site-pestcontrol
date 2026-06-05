@@ -11,27 +11,37 @@ lng: -97.6100
 zipSample: ["67401", "67402"]
 zipCodes: ["67402", "67401"]
 localPaths: ["Saline County / coords 38.8100, -97.6100", "Saline County / ZIP 67402 sector", "Saline County / ZIP 67401 sector", "Saline County / primary ZIP 67401", "Saline County / elevation 1250 ft band"]
-zillowHomeValueUsd: 172809
 ---
 
-**Engineering Notice for Salina:** Structural loading calculated based on 1250 ft terrain assessment. Regional dispatch grid: Saline County.
+**Engineering Notice for Salina:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Saline County.
 
 
-Our service coordination centers on Salina, KS coverage windows and verified intake details.
+Attic fogging in Salina, KS requires combustion appliance shutoff verification first.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 67401.
+Earwig harborages in Salina, KS meter boxes often follow drip irrigation overspray.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Salina, KS.
 
-Tip: confirm licensing and insurance before approving work.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Structured milestones protect both sides when scheduling work.
+Flea pupae survive vacuuming in Salina, KS carpet fibers unless heat treatment follows.
 
-Field note: Connection points spot-checked where accessible (ZIP 67402/67401 zone).
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Field note: Access points and staging constraints recorded for ZIP 67402/67401 coverage.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Dispatch sectors sampled: ZIP 67402, 67401 (county grid: Saline County).
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Risk flag: Overwatered Salina, KS planters can restart ant bridges within two weeks.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Yellow jacket nests in Salina, KS soffit cavities peak in late summer routing windows.
+
+Intercept log 212072: bed bug intercept count staged before Salina, KS interior gel zones.
+
+Primary postal anchor 67401 with multi-ZIP overlap in Salina; field packets tag Saline County for county-grid reconciliation.
 
 Service reference: KS-67401-236c8f24

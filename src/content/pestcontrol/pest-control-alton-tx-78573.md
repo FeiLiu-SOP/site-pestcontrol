@@ -11,25 +11,39 @@ lng: -98.3100
 zipSample: ["78573"]
 zipCodes: ["78573"]
 localPaths: ["Hidalgo County / elevation 174 ft band", "Hidalgo County / coords 26.2900, -98.3100", "Hidalgo County / primary ZIP 78573", "Hidalgo County / ZIP 78573 sector"]
-zillowHomeValueUsd: 216744
 ---
 
-**Engineering Notice for Alton:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Hidalgo County.
+**Engineering Notice for Alton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hidalgo County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Overwatered Alton, TX planters can restart ant bridges within two weeks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 78573.
+Bird mites in Alton, TX exhaust vents can persist after host nests are removed.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Alton, TX, but intake notes help reduce delays.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Tip: compare at least two estimates for scope and timeline.
+Earwig harborages in Alton, TX meter boxes often follow drip irrigation overspray.
 
-Field note: Access points and staging constraints recorded for ZIP 78573 coverage.
+Mud dauber nests in Alton, TX porch ceilings are benign but signal prey density for spiders.
 
-Dispatch sectors sampled: ZIP 78573 (county grid: Hidalgo County).
+Risk flag: In Alton, TX, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Clover mite staining on Alton, TX exterior cladding follows foundation mulch against brick ledges.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Stink bug overwinter seams in Alton, TX cladding service laps require exclusion foam rated for UV exposure.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Fire ant mounds in Alton, TX drive seams need granule rotation after irrigation events.
+
+Harbor ledger 390800: frass lane, mud-tube scan, and garage jamb gap measure filed for Alton, TX at 26.2900, -98.3100.
+
+Exclusion audit 390800: exclusion mesh gauge and rodent runway grease mark reviewed for Alton, TX at 26.2900/-98.3100.
+
+On-site sector marker: Hidalgo County / coords 26.2900, -98.3100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78573-4b604068

@@ -11,26 +11,41 @@ lng: -92.6600
 zipSample: ["65536"]
 zipCodes: ["65536"]
 localPaths: ["Laclede County / ZIP 65536 sector", "Laclede County / elevation 1286 ft band", "Laclede County / coords 37.6700, -92.6600", "Laclede County / primary ZIP 65536"]
-zillowHomeValueUsd: 228892
 ---
 
-**Engineering Notice for Lebanon:** Structural loading calculated based on 1286 ft terrain assessment. Regional dispatch grid: Laclede County.
+**Engineering Notice for Lebanon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Laclede County.
 
 
-Tip: request a written scope before work starts.
+Perimeter granule carriers in Lebanon, MO clay soils may need lighter irrigation before application.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lebanon, MO, but intake notes help reduce delays.
+FAQ: Why schedule quarterly instead of monthly in Lebanon, MO? Species pressure and label intervals dictate cadence.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: label treatment zones for occupant re-entry timing.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Perimeter granules in Lebanon, MO may need reapplication after heavy irrigation.
 
-In Lebanon, MO, urgent pest control issues can escalate quickly.
+Stored cardboard in Lebanon, MO garages can accelerate pantry pest cycles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 65536.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Field note: Moisture pathway inspection logged near ZIP 65536 intake.
+Dry-wood termite pellets in Lebanon, MO attics may appear before exterior mud tubes.
 
-Dispatch sectors sampled: ZIP 65536 (county grid: Laclede County).
+Seasonal pest pressure in Lebanon, MO shifts between moisture ants and dry-wood vectors.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Monitoring boards in Lebanon, MO crawlspaces stay 72 hours before snap traps are reset.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Seasonal cue 951862: cluster fly attic staging reviewed for Lebanon, MO soffit cavities.
+
+On-site sector marker: Laclede County / ZIP 65536 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-65536-c2529299

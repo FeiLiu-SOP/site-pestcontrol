@@ -11,27 +11,37 @@ lng: -83.1900
 zipSample: ["48072"]
 zipCodes: ["48072"]
 localPaths: ["Oakland County / primary ZIP 48072", "Oakland County / coords 42.5000, -83.1900", "Oakland County / ZIP 48072 sector", "Oakland County / elevation 696 ft band"]
-zillowHomeValueUsd: 314755
 ---
 
-**Engineering Notice for Berkley:** Structural loading calculated based on 696 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for Berkley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oakland County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 48072.
+Attic fogging in Berkley, MI requires combustion appliance shutoff verification first.
 
-Tip: compare at least two estimates for scope and timeline.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Drain fly biofilm in Berkley, MI floor drains signals grease traps need service before gel baits.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Perimeter granule carriers in Berkley, MI clay soils may need lighter irrigation before application.
 
-We coordinate local dispatch coverage around Berkley, MI and nearby ZIP sectors.
+Silverfish activity in Berkley, MI attics tracks cardboard storage and ridge vent gaps.
 
-Field note: Wind exposure category reviewed for ZIP sector 48072.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Connection points spot-checked where accessible (ZIP 48072 zone).
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Dispatch sectors sampled: ZIP 48072 (county grid: Oakland County).
+Flea pupae survive vacuuming in Berkley, MI carpet fibers unless heat treatment follows.
+
+Fire ant mounds in Berkley, MI drive seams need granule rotation after irrigation events.
+
+Stored cardboard in Berkley, MI garages can accelerate pantry pest cycles.
+
+Dry-wood termite pellets in Berkley, MI attics may appear before exterior mud tubes.
+
+State note: Berkley, MI commercial kitchens may require separate documentation for audit visits.
+
+Harbor ledger 770082: frass lane, mud-tube scan, and garage jamb gap measure filed for Berkley, MI at 42.5000, -83.1900.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~696 ft across the Oakland County area. Coordinates: 42.5000, -83.1900. ZIP sample: 48072. Logistics priority: Serving residential sectors across Oakland County and north-east ZIP 48072 grid.
 
 Service reference: MI-48072-ac541bb6

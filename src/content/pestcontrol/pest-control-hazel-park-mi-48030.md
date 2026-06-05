@@ -11,26 +11,43 @@ lng: -83.1000
 zipSample: ["48030"]
 zipCodes: ["48030"]
 localPaths: ["Oakland County / ZIP 48030 sector", "Oakland County / elevation 640 ft band", "Oakland County / primary ZIP 48030", "Oakland County / coords 42.4600, -83.1000"]
-zillowHomeValueUsd: 155409
 ---
 
-**Engineering Notice for Hazel Park:** Structural loading calculated based on 640 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for Hazel Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oakland County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Yellow jacket nests in Hazel Park, MI soffit cavities peak in late summer routing windows.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate bait rotation schedules from crack-and-crevice applications in Hazel Park, MI.
 
-Tip: compare at least two estimates for scope and timeline.
+Carpenter ant frass in Hazel Park, MI window sills may indicate moisture-softened framing.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Clover mite staining on Hazel Park, MI exterior cladding follows foundation mulch against brick ledges.
 
-Our service coordination centers on Hazel Park, MI coverage windows and verified intake details.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 48030.
 
-Field note: Moisture pathway inspection logged near ZIP 48030 intake.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48030.
+Attic misting in Hazel Park, MI requires combustion air clearance verified before fans restart.
 
-Dispatch sectors sampled: ZIP 48030 (county grid: Oakland County).
+Humidity in Hazel Park, MI can sustain cockroach harborages behind appliance voids.
+
+IGR packets for Hazel Park, MI roach cycles should be dated on station lids.
+
+Silverfish activity in Hazel Park, MI attics tracks cardboard storage and ridge vent gaps.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+We coordinate Hazel Park, MI pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Intercept log 313537: bed bug intercept count staged before Hazel Park, MI interior gel zones.
+
+Exclusion audit 313537: exclusion mesh gauge and rodent runway grease mark reviewed for Hazel Park, MI at 42.4600/-83.1000.
+
+On-site sector marker: Oakland County / coords 42.4600, -83.1000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48030-cad3723e

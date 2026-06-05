@@ -11,25 +11,39 @@ lng: -121.5400
 zipSample: ["95901", "95961"]
 zipCodes: ["95961", "95901"]
 localPaths: ["Yuba County / coords 39.1200, -121.5400", "Yuba County / primary ZIP 95961", "Yuba County / ZIP 95901 sector", "Yuba County / ZIP 95961 sector", "Yuba County / elevation 62 ft band"]
-zillowHomeValueUsd: 448205
 ---
 
-**Engineering Notice for Linda:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Yuba County.
+**Engineering Notice for Linda:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Yuba County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Linda, CA, but intake notes help reduce delays.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Tip: address recurring issues early to prevent bigger damage.
+Attic misting in Linda, CA requires combustion air clearance verified before fans restart.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 95961.
+FAQ: Can bed bugs spread room-to-room in Linda, CA row homes? Wall voids and shared ducts accelerate transfer.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Date bait station lids when servicing Linda, CA perimeter lines.
 
-Field note: Connection points spot-checked where accessible (ZIP 95961/95901 zone).
+Drain fly biofilm in Linda, CA floor drains signals grease traps need service before gel baits.
 
-Dispatch sectors sampled: ZIP 95961, 95901 (county grid: Yuba County).
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Linda, CA.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Spider populations in Linda, CA eaves can signal insect prey density.
+
+Attic fogging in Linda, CA requires combustion appliance shutoff verification first.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Perimeter dossier 919946: bait station anchor map and mulch bridge risk flagged for Linda, CA county Yuba County (ZIP 95961).
+
+Zone map 919946: attic insulation disturbance trace and pantry pest source logged for Linda, CA sector 95961.
+
+On-site sector marker: Yuba County / ZIP 95901 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95961-af6fee81

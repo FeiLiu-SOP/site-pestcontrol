@@ -11,24 +11,37 @@ lng: -105.0000
 zipSample: ["80221", "80263"]
 zipCodes: ["80263", "80221"]
 localPaths: ["Adams County / ZIP 80221 sector", "Adams County / coords 39.8400, -105.0000", "Adams County / primary ZIP 80221", "Adams County / ZIP 80263 sector", "Adams County / elevation 5302 ft band"]
-zillowHomeValueUsd: 456444
 ---
 
-**Engineering Notice for Sherrelwood:** Structural loading calculated based on 5302 ft terrain assessment. Regional dispatch grid: Adams County.
+**Engineering Notice for Sherrelwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Adams County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic insulation disturbance in Sherrelwood, CO may indicate wildlife nesting routes.
 
-We coordinate local dispatch coverage around Sherrelwood, CO and nearby ZIP sectors.
+Risk flag: Overwatered Sherrelwood, CO planters can restart ant bridges within two weeks.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: record station placement maps for follow-up visits.
 
-Field note: Moisture pathway inspection logged near ZIP 80263/80221 intake.
+Yellow jacket nests in Sherrelwood, CO soffit cavities peak in late summer routing windows.
 
-Dispatch sectors sampled: ZIP 80263, 80221 (county grid: Adams County).
+Silverfish activity in Sherrelwood, CO attics tracks cardboard storage and ridge vent gaps.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Perimeter mulch beds in Sherrelwood, CO should be reviewed for ant bridge paths.
+
+Attic fogging in Sherrelwood, CO requires combustion appliance shutoff verification first.
+
+Bird mites in Sherrelwood, CO exhaust vents can persist after host nests are removed.
+
+Zone map 859205: attic insulation disturbance trace and pantry pest source logged for Sherrelwood, CO sector 80221.
+
+On-site sector marker: Adams County / primary ZIP 80221 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80221-11567103

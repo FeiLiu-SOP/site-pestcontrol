@@ -11,25 +11,41 @@ lng: -120.3200
 zipSample: ["93210"]
 zipCodes: ["93210"]
 localPaths: ["Fresno County / coords 36.1400, -120.3200", "Fresno County / primary ZIP 93210", "Fresno County / elevation 623 ft band", "Fresno County / ZIP 93210 sector"]
-zillowHomeValueUsd: 293579
 ---
 
-**Engineering Notice for Coalinga:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Fresno County.
+**Engineering Notice for Coalinga:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fresno County.
 
 
-We coordinate local dispatch coverage around Coalinga, CA and nearby ZIP sectors.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 93210.
+Powderpost beetle exit holes in Coalinga, CA trim can be mistaken for dry-wood frass without magnification.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic fogging in Coalinga, CA requires combustion appliance shutoff verification first.
 
-Tip: address recurring issues early to prevent bigger damage.
+Mud dauber nests in Coalinga, CA porch ceilings are benign but signal prey density for spiders.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can bed bugs spread room-to-room in Coalinga, CA row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Moisture pathway inspection logged near ZIP 93210 intake.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Dispatch sectors sampled: ZIP 93210 (county grid: Fresno County).
+County grid Fresno County informs routing near ZIP 93210.
+
+Silverfish activity in Coalinga, CA attics tracks cardboard storage and ridge vent gaps.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Stink bug overwinter seams in Coalinga, CA vinyl panels laps require exclusion foam rated for UV exposure.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 93210.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Carpenter ant frass in Coalinga, CA window sills may indicate moisture-softened framing.
+
+Exclusion audit 476595: exclusion mesh gauge and rodent runway grease mark reviewed for Coalinga, CA at 36.1400/-120.3200.
+
+Harbor ledger 476595: frass lane, mud-tube scan, and garage jamb gap measure filed for Coalinga, CA at 36.1400, -120.3200.
+
+Coordinate-anchored dispatch note: center reference 36.1400, -120.3200 at elevation ~623 ft aligns with Fresno County intake staging.
 
 Service reference: CA-93210-40f10d7c

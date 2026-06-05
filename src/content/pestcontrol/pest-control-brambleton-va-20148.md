@@ -11,24 +11,39 @@ lng: -77.5300
 zipSample: ["20148"]
 zipCodes: ["20148"]
 localPaths: ["Loudoun County / ZIP 20148 sector", "Loudoun County / coords 38.9800, -77.5300", "Loudoun County / elevation 341 ft band", "Loudoun County / primary ZIP 20148"]
-zillowHomeValueUsd: 886932
 ---
 
-**Engineering Notice for Brambleton:** Structural loading calculated based on 341 ft terrain assessment. Regional dispatch grid: Loudoun County.
+**Engineering Notice for Brambleton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Loudoun County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+IGR packets for Brambleton, VA roach cycles should be dated on station lids.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Silverfish activity in Brambleton, VA attics tracks cardboard storage and ridge vent gaps.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: label treatment zones for occupant re-entry timing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Dry-wood termite pellets in Brambleton, VA attics may appear before exterior mud tubes.
 
-Field note: Wind exposure category reviewed for ZIP sector 20148.
+Earwig harborages in Brambleton, VA meter boxes often follow drip irrigation overspray.
 
-Dispatch sectors sampled: ZIP 20148 (county grid: Loudoun County).
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Powderpost beetle exit holes in Brambleton, VA trim can be mistaken for dry-wood frass without magnification.
+
+Attic insulation disturbance in Brambleton, VA may indicate wildlife nesting routes.
+
+FAQ: Can bed bugs spread room-to-room in Brambleton, VA row homes? Wall voids and shared ducts accelerate transfer.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 20148.
+
+Humidity in Brambleton, VA can sustain cockroach harborages behind appliance voids.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Species trace 946893: re-entry interval label and conducive moisture note keyed to Brambleton, VA elevation 341 ft.
+
+On-site sector marker: Loudoun County / coords 38.9800, -77.5300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-20148-ed3542da

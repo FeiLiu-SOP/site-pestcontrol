@@ -11,25 +11,39 @@ lng: -121.9700
 zipSample: ["95053", "95056", "95052", "95054", "95051"]
 zipCodes: ["95050", "95053", "95056", "95052", "95054", "95055", "95051"]
 localPaths: ["Santa Clara County / coords 37.3600, -121.9700", "Santa Clara County / elevation 49 ft band", "Santa Clara County / primary ZIP 95054", "Santa Clara County / ZIP 95052 sector", "Santa Clara County / ZIP 95056 sector"]
-zillowHomeValueUsd: 1556570
 ---
 
-**Engineering Notice for Santa Clara:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Santa Clara:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Clara County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Santa Clara, CA, but intake notes help reduce delays.
+Dry-wood termite pellets in Santa Clara, CA attics may appear before exterior mud tubes.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 95054.
+Wildlife odors in Santa Clara, CA crawlspaces may attract secondary pest activity.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: Can bed bugs spread room-to-room in Santa Clara, CA row homes? Wall voids and shared ducts accelerate transfer.
 
-We coordinate local dispatch coverage around Santa Clara, CA and nearby ZIP sectors.
+Risk flag: In Santa Clara, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Santa Clara, CA.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 95050/95053/95056.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Dispatch sectors sampled: ZIP 95050, 95053, 95056, 95055, 95054 (county grid: Santa Clara County).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Fire ant mounds in Santa Clara, CA drive seams need granule rotation after irrigation events.
+
+Earwig harborages in Santa Clara, CA meter boxes often follow drip irrigation overspray.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 95054.
+
+Bird mites in Santa Clara, CA exhaust vents can persist after host nests are removed.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Species trace 939390: re-entry interval label and conducive moisture note keyed to Santa Clara, CA elevation 49 ft.
+
+On-site sector marker: Santa Clara County / elevation 49 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95054-eeb06201

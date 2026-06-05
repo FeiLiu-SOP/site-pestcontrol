@@ -11,26 +11,39 @@ lng: -90.3600
 zipSample: ["63128", "63123"]
 zipCodes: ["63128", "63123"]
 localPaths: ["St. Louis County / coords 38.5100, -90.3600", "St. Louis County / ZIP 63128 sector", "St. Louis County / ZIP 63123 sector", "St. Louis County / elevation 574 ft band", "St. Louis County / primary ZIP 63128"]
-zillowHomeValueUsd: 369540
 ---
 
-**Engineering Notice for Concord:** Structural loading calculated based on 574 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Concord:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Concord, MO, but intake notes help reduce delays.
+Fire ant mounds in Concord, MO drive seams need granule rotation after irrigation events.
 
-Tip: address recurring issues early to prevent bigger damage.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Tip: request a written scope before work starts.
+Attic fogging in Concord, MO requires combustion appliance shutoff verification first.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Earwig harborages in Concord, MO meter boxes often follow drip irrigation overspray.
 
-A written scope helps prevent rework and mismatched expectations.
+Stink bug overwinter seams in Concord, MO wall restoration laps require exclusion foam rated for UV exposure.
 
-Field note: Connection points spot-checked where accessible (ZIP 63123/63128 zone).
+Across Concord, MO, rodent entry points frequently track utility penetrations.
 
-Field note: Access points and staging constraints recorded for ZIP 63123/63128 coverage.
+Step: verify attic access safety before insulation disturbance.
 
-Dispatch sectors sampled: ZIP 63123, 63128 (county grid: St. Louis County).
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Drain fly biofilm in Concord, MO floor drains signals grease traps need service before gel baits.
+
+Intercept log 119085: bed bug intercept count staged before Concord, MO interior gel zones.
+
+Zone map 119085: attic insulation disturbance trace and pantry pest source logged for Concord, MO sector 63128.
+
+Primary postal anchor 63128 with multi-ZIP overlap in Concord; field packets tag St. Louis County for county-grid reconciliation.
 
 Service reference: MO-63128-72439799

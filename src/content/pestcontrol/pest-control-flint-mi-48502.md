@@ -11,26 +11,39 @@ lng: -83.6900
 zipSample: ["48505", "48503", "48557", "48504", "48506"]
 zipCodes: ["48503", "48553", "48505", "48504", "48557", "48507", "48552", "48502", "48551", "48550", "48506", "48556"]
 localPaths: ["Genesee County / elevation 732 ft band", "Genesee County / primary ZIP 48502", "Genesee County / ZIP 48503 sector", "Genesee County / ZIP 48506 sector", "Genesee County / coords 43.0200, -83.6900"]
-zillowHomeValueUsd: 105690
 ---
 
-**Engineering Notice for Flint:** Structural loading calculated based on 732 ft terrain assessment. Regional dispatch grid: Genesee County.
+**Engineering Notice for Flint:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Genesee County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Spider populations in Flint, MI eaves can signal insect prey density.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Seasonal pest pressure in Flint, MI shifts between moisture ants and dry-wood vectors.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Our service coordination centers on Flint, MI coverage windows and verified intake details.
+Perimeter granule carriers in Flint, MI clay soils may need lighter irrigation before application.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify attic access safety before insulation disturbance.
 
-Field note: Connection points spot-checked where accessible (ZIP 48505/48506/48503 zone).
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Access points and staging constraints recorded for ZIP 48505/48506/48503 coverage.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Dispatch sectors sampled: ZIP 48505, 48506, 48503, 48553, 48504 (county grid: Genesee County).
+FAQ: Why do pests return after spraying? Without sealing entry points in Flint, MI, pressure often rebuilds.
+
+Drain fly biofilm in Flint, MI floor drains signals grease traps need service before gel baits.
+
+Powderpost beetle exit holes in Flint, MI trim can be mistaken for dry-wood frass without magnification.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 48502.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Flint, MI.
+
+Silverfish activity in Flint, MI attics tracks cardboard storage and ridge vent gaps.
+
+Harbor ledger 344225: frass lane, mud-tube scan, and garage jamb gap measure filed for Flint, MI at 43.0200, -83.6900.
+
+On-site sector marker: Genesee County / ZIP 48553 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48502-ce4f219d

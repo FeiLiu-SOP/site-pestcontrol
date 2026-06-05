@@ -11,26 +11,39 @@ lng: -80.5700
 zipSample: ["26062"]
 zipCodes: ["26062"]
 localPaths: ["Hancock County / ZIP 26062 sector", "Hancock County / coords 40.4100, -80.5700", "Hancock County / elevation 991 ft band", "Hancock County / primary ZIP 26062"]
-zillowHomeValueUsd: 146986
 ---
 
-**Engineering Notice for Weirton:** Structural loading calculated based on 991 ft terrain assessment. Regional dispatch grid: Hancock County.
+**Engineering Notice for Weirton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hancock County.
 
 
-Our service coordination centers on Weirton, WV coverage windows and verified intake details.
+Risk flag: Overwatered Weirton, WV planters can restart ant bridges within two weeks.
 
-Tip: address recurring issues early to prevent bigger damage.
+Fire ant mounds in Weirton, WV drive seams need granule rotation after irrigation events.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Weirton, WV, but intake notes help reduce delays.
+FAQ: Why do pests return after spraying? Without sealing entry points in Weirton, WV, pressure often rebuilds.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Yellow jacket nests in Weirton, WV soffit cavities peak in late summer routing windows.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Field note: Moisture pathway inspection logged near ZIP 26062 intake.
+Request an inspection with species ID before treatment. Serving ZIP Code: 26062.
 
-Field note: Wind exposure category reviewed for ZIP sector 26062.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Dispatch sectors sampled: ZIP 26062 (county grid: Hancock County).
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Weirton, WV.
+
+Step: record station placement maps for follow-up visits.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 26062.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Harbor ledger 767149: frass lane, mud-tube scan, and garage jamb gap measure filed for Weirton, WV at 40.4100, -80.5700.
+
+Regional mesh label Hancock County: moisture and logistics baselines are keyed to Weirton, WV before niche-specific work begins.
 
 Service reference: WV-26062-e361f68a

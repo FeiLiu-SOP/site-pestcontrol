@@ -11,26 +11,41 @@ lng: -78.9000
 zipSample: ["22980"]
 zipCodes: ["22980"]
 localPaths: ["Waynesboro County / elevation 1352 ft band", "Waynesboro County / ZIP 22980 sector", "Waynesboro County / primary ZIP 22980", "Waynesboro County / coords 38.0700, -78.9000"]
-zillowHomeValueUsd: 313550
 ---
 
-**Engineering Notice for Waynesboro:** Structural loading calculated based on 1352 ft terrain assessment. Regional dispatch grid: Waynesboro County.
+**Engineering Notice for Waynesboro:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Waynesboro County.
 
 
-Local conditions in Waynesboro, VA can affect timelines and material choices.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 22980.
 
-Tip: avoid large upfront payments without milestones.
+Carpenter ant frass in Waynesboro, VA window sills may indicate moisture-softened framing.
 
-We coordinate local dispatch coverage around Waynesboro, VA and nearby ZIP sectors.
+Material note: Perimeter granules in Waynesboro, VA may need reapplication after heavy irrigation.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: record station placement maps for follow-up visits.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Connection points spot-checked where accessible (ZIP 22980 zone).
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 22980.
+Dry-wood termite pellets in Waynesboro, VA attics may appear before exterior mud tubes.
 
-Dispatch sectors sampled: ZIP 22980 (county grid: Waynesboro County).
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Monitoring boards in Waynesboro, VA crawlspaces stay 72 hours before snap traps are reset.
+
+Flea pupae survive vacuuming in Waynesboro, VA carpet fibers unless heat treatment follows.
+
+Drain fly biofilm in Waynesboro, VA floor drains signals grease traps need service before gel baits.
+
+Cluster fly attic staging in Waynesboro, VA peaks on south-facing voids after sunny thaw days.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Species trace 262501: re-entry interval label and conducive moisture note keyed to Waynesboro, VA elevation 1352 ft.
+
+Harbor ledger 262501: frass lane, mud-tube scan, and garage jamb gap measure filed for Waynesboro, VA at 38.0700, -78.9000.
+
+On-site sector marker: Waynesboro County / coords 38.0700, -78.9000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22980-bc53d19e

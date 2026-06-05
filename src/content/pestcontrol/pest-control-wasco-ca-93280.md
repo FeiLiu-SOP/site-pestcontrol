@@ -11,26 +11,41 @@ lng: -119.3700
 zipSample: ["93280"]
 zipCodes: ["93280"]
 localPaths: ["Kern County / elevation 318 ft band", "Kern County / coords 35.5900, -119.3700", "Kern County / ZIP 93280 sector", "Kern County / primary ZIP 93280"]
-zillowHomeValueUsd: 316601
 ---
 
-**Engineering Notice for Wasco:** Structural loading calculated based on 318 ft terrain assessment. Regional dispatch grid: Kern County.
+**Engineering Notice for Wasco:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kern County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Yellow jacket nests in Wasco, CA soffit cavities peak in late summer routing windows.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Stink bug overwinter seams in Wasco, CA vinyl panels laps require exclusion foam rated for UV exposure.
 
-Our service coordination centers on Wasco, CA coverage windows and verified intake details.
+Flea pupae survive vacuuming in Wasco, CA carpet fibers unless heat treatment follows.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Mud dauber nests in Wasco, CA porch ceilings are benign but signal prey density for spiders.
 
-Tip: address recurring issues early to prevent bigger damage.
+Clover mite staining on Wasco, CA wall restoration follows foundation mulch against brick ledges.
 
-Field note: Wind exposure category reviewed for ZIP sector 93280.
+IGR packets for Wasco, CA roach cycles should be dated on station lids.
 
-Field note: Connection points spot-checked where accessible (ZIP 93280 zone).
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Dispatch sectors sampled: ZIP 93280 (county grid: Kern County).
+Risk flag: In Wasco, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Fire ant mounds in Wasco, CA drive seams need granule rotation after irrigation events.
+
+FAQ: Can bed bugs spread room-to-room in Wasco, CA row homes? Wall voids and shared ducts accelerate transfer.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 93280.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Seasonal pest pressure in Wasco, CA shifts between moisture ants and dry-wood vectors.
+
+Carpenter ant frass in Wasco, CA window sills may indicate moisture-softened framing.
+
+Seasonal cue 700844: cluster fly attic staging reviewed for Wasco, CA soffit cavities.
+
+ZIP-corridor snapshot for Wasco, CA: sampled sectors include 93280; county routing grid remains Kern County.
 
 Service reference: CA-93280-2d61b54f

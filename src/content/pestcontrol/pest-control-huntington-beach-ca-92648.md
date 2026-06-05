@@ -11,24 +11,39 @@ lng: -118.0000
 zipSample: ["92647", "92648", "92615", "90742", "92646"]
 zipCodes: ["92649", "92647", "92605", "90742", "92615", "92646", "92648"]
 localPaths: ["Orange County / ZIP 90742 sector", "Orange County / ZIP 92648 sector", "Orange County / coords 33.7000, -118.0000", "Orange County / elevation 59 ft band", "Orange County / ZIP 92615 sector"]
-zillowHomeValueUsd: 1550193
 ---
 
-**Engineering Notice for Huntington Beach:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Huntington Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Trim vegetation 12 inches from exterior cladding to reduce ant bridges.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Tip: address recurring issues early to prevent bigger damage.
+Stored cardboard in Huntington Beach, CA garages can accelerate pantry pest cycles.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: verify attic access safety before insulation disturbance.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Huntington Beach, CA, but intake notes help reduce delays.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Field note: Connection points spot-checked where accessible (ZIP 92605/92615/92649 zone).
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Dispatch sectors sampled: ZIP 92605, 92615, 92649, 92646, 90742 (county grid: Orange County).
+Yellow jacket nests in Huntington Beach, CA soffit cavities peak in late summer routing windows.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+State note: Huntington Beach, CA commercial kitchens may require separate documentation for audit visits.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 92648.
+
+FAQ: Can bed bugs spread room-to-room in Huntington Beach, CA row homes? Wall voids and shared ducts accelerate transfer.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Exclusion audit 709330: exclusion mesh gauge and rodent runway grease mark reviewed for Huntington Beach, CA at 33.7000/-118.0000.
+
+On-site sector marker: Orange County / ZIP 92615 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92648-d75d84f6

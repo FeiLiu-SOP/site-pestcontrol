@@ -11,24 +11,43 @@ lng: -86.5200
 zipSample: ["46041"]
 zipCodes: ["46041"]
 localPaths: ["Clinton County / ZIP 46041 sector", "Clinton County / elevation 866 ft band", "Clinton County / coords 40.2800, -86.5200", "Clinton County / primary ZIP 46041"]
-zillowHomeValueUsd: 209994
 ---
 
-**Engineering Notice for Frankfort:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Clinton County.
+**Engineering Notice for Frankfort:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clinton County.
 
 
-In Frankfort, IN, seasonal demand can change scheduling windows.
+Tip: Log pet access routes when bait stations are placed.
 
-Tip: request a written scope before work starts.
+Request an inspection with species ID before treatment. Serving ZIP Code: 46041.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Frankfort, IN, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Bird mites in Frankfort, IN exhaust vents can persist after host nests are removed.
 
-We coordinate local dispatch coverage around Frankfort, IN and nearby ZIP sectors.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Field note: Access points and staging constraints recorded for ZIP 46041 coverage.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Dispatch sectors sampled: ZIP 46041 (county grid: Clinton County).
+Mud dauber nests in Frankfort, IN porch ceilings are benign but signal prey density for spiders.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Perimeter granule carriers in Frankfort, IN clay soils may need lighter irrigation before application.
+
+Flea pupae survive vacuuming in Frankfort, IN carpet fibers unless heat treatment follows.
+
+Exclusion gaps at garage jambs in Frankfort, IN are common rodent access points.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Zone map 627762: attic insulation disturbance trace and pantry pest source logged for Frankfort, IN sector 46041.
+
+Harbor ledger 627762: frass lane, mud-tube scan, and garage jamb gap measure filed for Frankfort, IN at 40.2800, -86.5200.
+
+Coordinate-anchored dispatch note: center reference 40.2800, -86.5200 at elevation ~866 ft aligns with Clinton County intake staging.
 
 Service reference: IN-46041-acfe7f0d

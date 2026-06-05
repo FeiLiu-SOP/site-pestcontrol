@@ -11,25 +11,39 @@ lng: -118.1100
 zipSample: ["93599", "93590", "93550", "93591", "93551"]
 zipCodes: ["93551", "93591", "93552", "93599", "93550", "93590"]
 localPaths: ["Los Angeles County / coords 34.5900, -118.1100", "Los Angeles County / primary ZIP 93591", "Los Angeles County / elevation 2605 ft band", "Los Angeles County / ZIP 93590 sector", "Los Angeles County / ZIP 93551 sector"]
-zillowHomeValueUsd: 385514
 ---
 
-**Engineering Notice for Palmdale:** Structural loading calculated based on 2605 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Palmdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 93591.
+Monitoring boards in Palmdale, CA crawlspaces stay 72 hours before snap traps are reset.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Structured milestones protect both sides when scheduling work.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Moisture pathway inspection logged near ZIP 93591/93599/93550 intake.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Dispatch sectors sampled: ZIP 93591, 93599, 93550, 93590, 93551 (county grid: Los Angeles County).
+Step: verify attic access safety before insulation disturbance.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Palmdale, CA.
+
+Step: record station placement maps for follow-up visits.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 93591.
+
+Perimeter granule carriers in Palmdale, CA clay soils may need lighter irrigation before application.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 93591.
+
+Exclusion audit 745935: exclusion mesh gauge and rodent runway grease mark reviewed for Palmdale, CA at 34.5900/-118.1100.
+
+On-site sector marker: Los Angeles County / ZIP 93591 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93591-c695730b

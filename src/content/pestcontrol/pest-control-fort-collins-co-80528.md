@@ -11,24 +11,37 @@ lng: -105.0700
 zipSample: ["80527", "80528", "80521", "80523", "80526"]
 zipCodes: ["80524", "80528", "80526", "80527", "80553", "80525", "80523", "80521"]
 localPaths: ["Larimer County / ZIP 80527 sector", "Larimer County / ZIP 80526 sector", "Larimer County / ZIP 80521 sector", "Larimer County / coords 40.5500, -105.0700", "Larimer County / ZIP 80523 sector"]
-zillowHomeValueUsd: 648739
 ---
 
-**Engineering Notice for Fort Collins:** Structural loading calculated based on 5007 ft terrain assessment. Regional dispatch grid: Larimer County.
+**Engineering Notice for Fort Collins:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Larimer County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Clover mite staining on Fort Collins, CO exterior cladding follows foundation mulch against brick ledges.
 
-Our service coordination centers on Fort Collins, CO coverage windows and verified intake details.
+Risk flag: In Fort Collins, CO, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Tip: compare at least two estimates for scope and timeline.
+Attic fogging in Fort Collins, CO requires combustion appliance shutoff verification first.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Across Fort Collins, CO, rodent entry points frequently track utility penetrations.
 
-Field note: Access points and staging constraints recorded for ZIP 80521/80525/80528 coverage.
+Stored cardboard in Fort Collins, CO garages can accelerate pantry pest cycles.
 
-Dispatch sectors sampled: ZIP 80521, 80525, 80528, 80524, 80527 (county grid: Larimer County).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Flea pupae survive vacuuming in Fort Collins, CO carpet fibers unless heat treatment follows.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Cluster fly attic staging in Fort Collins, CO peaks on south-facing voids after sunny thaw days.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 80528.
+
+Intercept log 414494: bed bug intercept count staged before Fort Collins, CO interior gel zones.
+
+On-site sector marker: Larimer County / ZIP 80521 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80528-2b3ec9c0

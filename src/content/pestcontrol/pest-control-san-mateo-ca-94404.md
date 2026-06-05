@@ -11,24 +11,37 @@ lng: -122.3100
 zipSample: ["94402", "94497", "94404", "94403", "94401"]
 zipCodes: ["94401", "94497", "94403", "94402", "94404"]
 localPaths: ["San Mateo County / ZIP 94404 sector", "San Mateo County / ZIP 94402 sector", "San Mateo County / ZIP 94401 sector", "San Mateo County / ZIP 94497 sector", "San Mateo County / ZIP 94403 sector"]
-zillowHomeValueUsd: 1763668
 ---
 
-**Engineering Notice for San Mateo:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: San Mateo County.
+**Engineering Notice for San Mateo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Mateo County.
 
 
-In San Mateo, CA, urgent pest control issues can escalate quickly.
+County grid San Mateo County informs routing near ZIP 94404.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in San Mateo, CA, but intake notes help reduce delays.
+State note: San Mateo, CA commercial kitchens may require separate documentation for audit visits.
 
-We coordinate local dispatch coverage around San Mateo, CA and nearby ZIP sectors.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Tip: compare at least two estimates for scope and timeline.
+Perimeter granule carriers in San Mateo, CA clay soils may need lighter irrigation before application.
 
-Field note: Wind exposure category reviewed for ZIP sector 94402/94403/94497.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Dispatch sectors sampled: ZIP 94402, 94403, 94497, 94404, 94401 (county grid: San Mateo County).
+FAQ: Why do pests return after spraying? Without sealing entry points in San Mateo, CA, pressure often rebuilds.
+
+Yellow jacket nests in San Mateo, CA soffit cavities peak in late summer routing windows.
+
+Stink bug overwinter seams in San Mateo, CA cladding service laps require exclusion foam rated for UV exposure.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Risk flag: Overwatered San Mateo, CA planters can restart ant bridges within two weeks.
+
+Species trace 583061: re-entry interval label and conducive moisture note keyed to San Mateo, CA elevation 13 ft.
+
+On-site sector marker: San Mateo County / ZIP 94401 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94404-53e1506a

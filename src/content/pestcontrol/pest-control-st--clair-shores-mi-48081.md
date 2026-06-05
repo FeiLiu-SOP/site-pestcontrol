@@ -11,27 +11,41 @@ lng: -82.9000
 zipSample: ["48090", "48082", "48080", "48081"]
 zipCodes: ["48081", "48080", "48090", "48082"]
 localPaths: ["Macomb County / primary ZIP 48081", "Macomb County / coords 42.4900, -82.9000", "Macomb County / ZIP 48080 sector", "Macomb County / ZIP 48090 sector", "Macomb County / elevation 597 ft band"]
-zillowHomeValueUsd: 238807
 ---
 
-**Engineering Notice for St. Clair Shores:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Macomb County.
+**Engineering Notice for St. Clair Shores:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Macomb County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Earwig harborages in St. Clair Shores, MI meter boxes often follow drip irrigation overspray.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Date bait station lids when servicing St. Clair Shores, MI perimeter lines.
 
-We coordinate local dispatch coverage around St. Clair Shores, MI and nearby ZIP sectors.
+Attic misting in St. Clair Shores, MI requires combustion air clearance verified before fans restart.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: verify attic access safety before insulation disturbance.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 48081.
+FAQ: Can bed bugs spread room-to-room in St. Clair Shores, MI row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Wind exposure category reviewed for ZIP sector 48080/48081/48090.
+Drain fly biofilm in St. Clair Shores, MI floor drains signals grease traps need service before gel baits.
 
-Field note: Connection points spot-checked where accessible (ZIP 48080/48081/48090 zone).
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Dispatch sectors sampled: ZIP 48080, 48081, 48090, 48082 (county grid: Macomb County).
+We coordinate St. Clair Shores, MI pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Perimeter granule carriers in St. Clair Shores, MI clay soils may need lighter irrigation before application.
+
+Spider populations in St. Clair Shores, MI eaves can signal insect prey density.
+
+Material note: Perimeter granules in St. Clair Shores, MI may need reapplication after heavy irrigation.
+
+Fire ant mounds in St. Clair Shores, MI drive seams need granule rotation after irrigation events.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Seasonal cue 174743: cluster fly attic staging reviewed for St. Clair Shores, MI soffit cavities.
+
+On-site sector marker: Macomb County / coords 42.4900, -82.9000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48081-8687118f

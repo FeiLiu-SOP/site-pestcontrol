@@ -11,25 +11,43 @@ lng: -134.1700
 zipSample: ["99812", "99811", "99821", "99801", "99803"]
 zipCodes: ["99821", "99802", "99812", "99803", "99801", "99824", "99811"]
 localPaths: ["Juneau County / primary ZIP 99824", "Juneau County / ZIP 99821 sector", "Juneau County / ZIP 99812 sector", "Juneau County / ZIP 99811 sector", "Juneau County / coords 58.4500, -134.1700"]
-zillowHomeValueUsd: 350359
 ---
 
-**Engineering Notice for Juneau:** Structural loading calculated based on 1942 ft terrain assessment. Regional dispatch grid: Juneau County.
+**Engineering Notice for Juneau:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Juneau County.
 
 
-Our service coordination centers on Juneau, AK coverage windows and verified intake details.
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Perimeter granules in Juneau, AK may need reapplication after heavy irrigation.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Tip: request a written scope before work starts.
+Stink bug overwinter seams in Juneau, AK cladding service laps require exclusion foam rated for UV exposure.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 99824.
+Step: label treatment zones for occupant re-entry timing.
 
-Field note: Moisture pathway inspection logged near ZIP 99802/99821/99803 intake.
+Step: map entry points with photo logs before sealing.
 
-Dispatch sectors sampled: ZIP 99802, 99821, 99803, 99824, 99801 (county grid: Juneau County).
+Carpenter ant frass in Juneau, AK window sills may indicate moisture-softened framing.
+
+Monitoring boards in Juneau, AK crawlspaces stay 72 hours before snap traps are reset.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Juneau, AK.
+
+FAQ: What is exclusion? Without sealing entry points in Juneau, AK, pressure often rebuilds.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 99824.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 99824.
+
+Exclusion gaps at garage jambs in Juneau, AK are common rodent access points.
+
+Zone map 954196: attic insulation disturbance trace and pantry pest source logged for Juneau, AK sector 99824.
+
+Seasonal cue 954196: cluster fly attic staging reviewed for Juneau, AK soffit cavities.
+
+Primary postal anchor 99824 with multi-ZIP overlap in Juneau; field packets tag Juneau County for county-grid reconciliation.
 
 Service reference: AK-99824-edea398d

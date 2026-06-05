@@ -11,25 +11,41 @@ lng: -80.8100
 zipSample: ["32927"]
 zipCodes: ["32927"]
 localPaths: ["Brevard County / primary ZIP 32927", "Brevard County / coords 28.4800, -80.8100", "Brevard County / ZIP 32927 sector", "Brevard County / elevation 39 ft band"]
-zillowHomeValueUsd: 301835
 ---
 
-**Engineering Notice for Port St. John:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Brevard County.
+**Engineering Notice for Port St. John:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brevard County.
 
 
-Tip: avoid large upfront payments without milestones.
+Step: separate bait rotation schedules from crack-and-crevice applications in Port St. John, FL.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Flea pupae survive vacuuming in Port St. John, FL carpet fibers unless heat treatment follows.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Stored cardboard in Port St. John, FL garages can accelerate pantry pest cycles.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 32927.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 32927.
 
-Field note: Moisture pathway inspection logged near ZIP 32927 intake.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Port St. John, FL.
 
-Dispatch sectors sampled: ZIP 32927 (county grid: Brevard County).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 32927.
+
+Carpenter ant frass in Port St. John, FL window sills may indicate moisture-softened framing.
+
+Across Port St. John, FL, rodent entry points frequently track utility penetrations.
+
+FAQ: Can bed bugs spread room-to-room in Port St. John, FL row homes? Wall voids and shared ducts accelerate transfer.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Mud dauber nests in Port St. John, FL porch ceilings are benign but signal prey density for spiders.
+
+Exclusion audit 439935: exclusion mesh gauge and rodent runway grease mark reviewed for Port St. John, FL at 28.4800/-80.8100.
+
+On-site sector marker: Brevard County / coords 28.4800, -80.8100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32927-c8183974

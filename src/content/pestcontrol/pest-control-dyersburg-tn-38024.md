@@ -11,27 +11,39 @@ lng: -89.3800
 zipSample: ["38024", "38025"]
 zipCodes: ["38024", "38025"]
 localPaths: ["Dyer County / ZIP 38024 sector", "Dyer County / elevation 348 ft band", "Dyer County / coords 36.0500, -89.3800", "Dyer County / primary ZIP 38024", "Dyer County / ZIP 38025 sector"]
-zillowHomeValueUsd: 166544
 ---
 
-**Engineering Notice for Dyersburg:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Dyer County.
+**Engineering Notice for Dyersburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dyer County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Dyersburg, TN, but intake notes help reduce delays.
+Step: map entry points with photo logs before sealing.
 
-Tip: avoid large upfront payments without milestones.
+Earwig harborages in Dyersburg, TN meter boxes often follow drip irrigation overspray.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 38024.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Homeowners in Dyersburg, TN often face sudden pest control problems that require fast action.
+Fire ant mounds in Dyersburg, TN drive seams need granule rotation after irrigation events.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+State note: Dyersburg, TN commercial kitchens may require separate documentation for audit visits.
 
-Field note: Connection points spot-checked where accessible (ZIP 38024/38025 zone).
+Wildlife odors in Dyersburg, TN crawlspaces may attract secondary pest activity.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 38024/38025.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 38024.
 
-Dispatch sectors sampled: ZIP 38024, 38025 (county grid: Dyer County).
+Clover mite staining on Dyersburg, TN cladding service follows foundation mulch against brick ledges.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Risk flag: In Dyersburg, TN, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+IGR packets for Dyersburg, TN roach cycles should be dated on station lids.
+
+Zone map 607492: attic insulation disturbance trace and pantry pest source logged for Dyersburg, TN sector 38024.
+
+Intercept log 607492: bed bug intercept count staged before Dyersburg, TN interior gel zones.
+
+On-site sector marker: Dyer County / ZIP 38024 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-38024-9b64babf

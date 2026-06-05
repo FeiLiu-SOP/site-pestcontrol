@@ -11,26 +11,39 @@ lng: -121.9800
 zipSample: ["94538", "94555", "94536", "94560", "94537"]
 zipCodes: ["94555", "94538", "94539", "94537", "94536", "94560"]
 localPaths: ["Alameda County / ZIP 94555 sector", "Alameda County / ZIP 94560 sector", "Alameda County / ZIP 94537 sector", "Alameda County / ZIP 94538 sector", "Alameda County / coords 37.5300, -121.9800"]
-zillowHomeValueUsd: 1260647
 ---
 
-**Engineering Notice for Fremont:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Alameda County.
+**Engineering Notice for Fremont:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alameda County.
 
 
-Tip: request a written scope before work starts.
+Perimeter granule carriers in Fremont, CA clay soils may need lighter irrigation before application.
 
-Tip: compare at least two estimates for scope and timeline.
+State note: Fremont, CA commercial kitchens may require separate documentation for audit visits.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-A written scope helps prevent rework and mismatched expectations.
+Flea pupae survive vacuuming in Fremont, CA carpet fibers unless heat treatment follows.
 
-Our service coordination centers on Fremont, CA coverage windows and verified intake details.
+FAQ: Why schedule quarterly instead of monthly in Fremont, CA? Species pressure and label intervals dictate cadence.
 
-Field note: Wind exposure category reviewed for ZIP sector 94555/94536/94560.
+Fire ant mounds in Fremont, CA drive seams need granule rotation after irrigation events.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94555/94536/94560.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Dispatch sectors sampled: ZIP 94555, 94536, 94560, 94539, 94537 (county grid: Alameda County).
+Clover mite staining on Fremont, CA vinyl panels follows foundation mulch against brick ledges.
+
+Stink bug overwinter seams in Fremont, CA wall restoration laps require exclusion foam rated for UV exposure.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Fremont, CA.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Fremont, CA.
+
+Intercept log 687348: bed bug intercept count staged before Fremont, CA interior gel zones.
+
+On-site sector marker: Alameda County / ZIP 94538 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94560-69779916

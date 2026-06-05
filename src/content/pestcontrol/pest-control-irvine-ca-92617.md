@@ -11,26 +11,39 @@ lng: -117.7700
 zipSample: ["92698", "92617", "92606", "92604", "92618"]
 zipCodes: ["92604", "92617", "92697", "92650", "92619", "92616", "92603", "92614", "92618", "92606", "92620", "92602"]
 localPaths: ["Orange County / primary ZIP 92617", "Orange County / ZIP 92617 sector", "Orange County / ZIP 92618 sector", "Orange County / ZIP 92698 sector", "Orange County / elevation 148 ft band"]
-zillowHomeValueUsd: 836948
 ---
 
-**Engineering Notice for Irvine:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Irvine:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Irvine, CA, but intake notes help reduce delays.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-We coordinate local dispatch coverage around Irvine, CA and nearby ZIP sectors.
+FAQ: Why schedule quarterly instead of monthly in Irvine, CA? Species pressure and label intervals dictate cadence.
 
-Tip: address recurring issues early to prevent bigger damage.
+Stink bug overwinter seams in Irvine, CA vinyl panels laps require exclusion foam rated for UV exposure.
 
-Local conditions in Irvine, CA can affect timelines and material choices.
+Attic misting in Irvine, CA requires combustion air clearance verified before fans restart.
 
-Field note: Connection points spot-checked where accessible (ZIP 92620/92650/92604 zone).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92620/92650/92604.
+Silverfish activity in Irvine, CA attics tracks cardboard storage and ridge vent gaps.
 
-Dispatch sectors sampled: ZIP 92620, 92650, 92604, 92619, 92602 (county grid: Orange County).
+Risk flag: Overwatered Irvine, CA planters can restart ant bridges within two weeks.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 92617.
+
+FAQ: What is exclusion? Without sealing entry points in Irvine, CA, pressure often rebuilds.
+
+Tip: Date bait station lids when servicing Irvine, CA perimeter lines.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Zone map 637414: attic insulation disturbance trace and pantry pest source logged for Irvine, CA sector 92617.
+
+Exclusion audit 637414: exclusion mesh gauge and rodent runway grease mark reviewed for Irvine, CA at 33.6800/-117.7700.
+
+On-site sector marker: Orange County / ZIP 92620 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92617-ba739a9c

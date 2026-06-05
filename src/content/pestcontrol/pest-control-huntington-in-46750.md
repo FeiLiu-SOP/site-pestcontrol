@@ -11,26 +11,39 @@ lng: -85.5100
 zipSample: ["46750"]
 zipCodes: ["46750"]
 localPaths: ["Huntington County / elevation 794 ft band", "Huntington County / coords 40.8800, -85.5100", "Huntington County / primary ZIP 46750", "Huntington County / ZIP 46750 sector"]
-zillowHomeValueUsd: 191594
 ---
 
-**Engineering Notice for Huntington:** Structural loading calculated based on 794 ft terrain assessment. Regional dispatch grid: Huntington County.
+**Engineering Notice for Huntington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Huntington County.
 
 
-We coordinate local dispatch coverage around Huntington, IN and nearby ZIP sectors.
+Earwig harborages in Huntington, IN meter boxes often follow drip irrigation overspray.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Tip: avoid large upfront payments without milestones.
+Bird mites in Huntington, IN exhaust vents can persist after host nests are removed.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Cluster fly attic staging in Huntington, IN peaks on south-facing voids after sunny thaw days.
 
-Field note: Connection points spot-checked where accessible (ZIP 46750 zone).
+Attic fogging in Huntington, IN requires combustion appliance shutoff verification first.
 
-Field note: Wind exposure category reviewed for ZIP sector 46750.
+Fire ant mounds in Huntington, IN drive seams need granule rotation after irrigation events.
 
-Dispatch sectors sampled: ZIP 46750 (county grid: Huntington County).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 46750.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Step: map entry points with photo logs before sealing.
+
+Silverfish activity in Huntington, IN attics tracks cardboard storage and ridge vent gaps.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Zone map 478900: attic insulation disturbance trace and pantry pest source logged for Huntington, IN sector 46750.
+
+Harbor ledger 478900: frass lane, mud-tube scan, and garage jamb gap measure filed for Huntington, IN at 40.8800, -85.5100.
+
+Primary postal anchor 46750 with multi-ZIP overlap in Huntington; field packets tag Huntington County for county-grid reconciliation.
 
 Service reference: IN-46750-6a98e7f1

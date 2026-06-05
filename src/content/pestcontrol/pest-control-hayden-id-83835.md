@@ -11,26 +11,43 @@ lng: -116.8000
 zipSample: ["83835"]
 zipCodes: ["83835"]
 localPaths: ["Kootenai County / coords 47.7700, -116.8000", "Kootenai County / ZIP 83835 sector", "Kootenai County / primary ZIP 83835", "Kootenai County / elevation 2293 ft band"]
-zillowHomeValueUsd: 647064
 ---
 
-**Engineering Notice for Hayden:** Structural loading calculated based on 2293 ft terrain assessment. Regional dispatch grid: Kootenai County.
+**Engineering Notice for Hayden:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kootenai County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 83835.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: In Hayden, ID, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+State note: Hayden, ID commercial kitchens may require separate documentation for audit visits.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Wind exposure category reviewed for ZIP sector 83835.
+Drain fly biofilm in Hayden, ID floor drains signals grease traps need service before gel baits.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 83835.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Dispatch sectors sampled: ZIP 83835 (county grid: Kootenai County).
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Material note: Perimeter granules in Hayden, ID may need reapplication after heavy irrigation.
+
+Spider populations in Hayden, ID eaves can signal insect prey density.
+
+In Hayden, ID, subterranean termite swarms often follow warm rain windows.
+
+Monitoring boards in Hayden, ID crawlspaces stay 72 hours before snap traps are reset.
+
+Attic fogging in Hayden, ID requires combustion appliance shutoff verification first.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Species trace 767974: re-entry interval label and conducive moisture note keyed to Hayden, ID elevation 2293 ft.
+
+Intercept log 767974: bed bug intercept count staged before Hayden, ID interior gel zones.
+
+Regional mesh label Kootenai County: moisture and logistics baselines are keyed to Hayden, ID before niche-specific work begins.
 
 Service reference: ID-83835-f3258aba

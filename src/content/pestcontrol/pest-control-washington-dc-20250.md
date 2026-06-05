@@ -11,26 +11,39 @@ lng: -77.0200
 zipSample: ["20289", "20033", "20463", "20039", "20037"]
 zipCodes: ["20420", "20076", "20027", "20222", "20395", "20319", "20557", "20422", "20453", "20594", "20081", "20522"]
 localPaths: ["District of Columbia County / ZIP 20289 sector", "District of Columbia County / elevation 69 ft band", "District of Columbia County / coords 38.9000, -77.0200", "District of Columbia County / primary ZIP 20250", "District of Columbia County / ZIP 20037 sector"]
-zillowHomeValueUsd: 615775
 ---
 
-**Engineering Notice for Washington:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: District of Columbia County.
+**Engineering Notice for Washington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: District of Columbia County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Our service coordination centers on Washington, DC coverage windows and verified intake details.
+FAQ: Can bed bugs spread room-to-room in Washington, DC row homes? Wall voids and shared ducts accelerate transfer.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Monitoring boards in Washington, DC crawlspaces stay 72 hours before snap traps are reset.
 
-Tip: compare at least two estimates for scope and timeline.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Moisture pathway inspection logged near ZIP 20451/20049/20565 intake.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 20451/20049/20565.
+Tip: Date bait station lids when servicing Washington, DC perimeter lines.
 
-Dispatch sectors sampled: ZIP 20451, 20049, 20565, 20207, 20020 (county grid: District of Columbia County).
+Mud dauber nests in Washington, DC porch ceilings are benign but signal prey density for spiders.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+State note: Washington, DC commercial kitchens may require separate documentation for audit visits.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Seasonal cue 655255: cluster fly attic staging reviewed for Washington, DC soffit cavities.
+
+Zone map 655255: attic insulation disturbance trace and pantry pest source logged for Washington, DC sector 20250.
+
+On-site sector marker: District of Columbia County / ZIP 20223 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: DC-20250-1f6ece55

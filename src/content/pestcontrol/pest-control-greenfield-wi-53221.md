@@ -11,24 +11,41 @@ lng: -88.0100
 zipSample: ["53220", "53221", "53228"]
 zipCodes: ["53228", "53221", "53220"]
 localPaths: ["Milwaukee County / coords 42.9600, -88.0100", "Milwaukee County / ZIP 53220 sector", "Milwaukee County / ZIP 53221 sector", "Milwaukee County / elevation 817 ft band", "Milwaukee County / ZIP 53228 sector"]
-zillowHomeValueUsd: 287542
 ---
 
-**Engineering Notice for Greenfield:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Milwaukee County.
+**Engineering Notice for Greenfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Milwaukee County.
 
 
-Tip: avoid large upfront payments without milestones.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Tip: confirm licensing and insurance before approving work.
+Step: verify attic access safety before insulation disturbance.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+We coordinate Greenfield, WI pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-In Greenfield, WI, urgent pest control issues can escalate quickly.
+Risk flag: In Greenfield, WI, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Clover mite staining on Greenfield, WI cladding service follows foundation mulch against brick ledges.
 
-Field note: Moisture pathway inspection logged near ZIP 53220/53221/53228 intake.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Dispatch sectors sampled: ZIP 53220, 53221, 53228 (county grid: Milwaukee County).
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 53221.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 53221.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Drain fly biofilm in Greenfield, WI floor drains signals grease traps need service before gel baits.
+
+Flea pupae survive vacuuming in Greenfield, WI carpet fibers unless heat treatment follows.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Spider populations in Greenfield, WI eaves can signal insect prey density.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Harbor ledger 317383: frass lane, mud-tube scan, and garage jamb gap measure filed for Greenfield, WI at 42.9600, -88.0100.
+
+On-site sector marker: Milwaukee County / elevation 817 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-53221-8ab5c84b

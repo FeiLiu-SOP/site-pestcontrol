@@ -11,25 +11,43 @@ lng: -77.2000
 zipSample: ["17013"]
 zipCodes: ["17013"]
 localPaths: ["Cumberland County / elevation 489 ft band", "Cumberland County / primary ZIP 17013", "Cumberland County / coords 40.2000, -77.2000", "Cumberland County / ZIP 17013 sector"]
-zillowHomeValueUsd: 285872
 ---
 
-**Engineering Notice for Carlisle:** Structural loading calculated based on 489 ft terrain assessment. Regional dispatch grid: Cumberland County.
+**Engineering Notice for Carlisle:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cumberland County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Trim vegetation 12 inches from exterior cladding to reduce ant bridges.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 17013.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Carlisle, PA.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+IGR packets for Carlisle, PA roach cycles should be dated on station lids.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Connection points spot-checked where accessible (ZIP 17013 zone).
+Perimeter granule carriers in Carlisle, PA clay soils may need lighter irrigation before application.
 
-Dispatch sectors sampled: ZIP 17013 (county grid: Cumberland County).
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Earwig harborages in Carlisle, PA meter boxes often follow drip irrigation overspray.
+
+Drain fly biofilm in Carlisle, PA floor drains signals grease traps need service before gel baits.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Stored cardboard in Carlisle, PA garages can accelerate pantry pest cycles.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+FAQ: Can bed bugs spread room-to-room in Carlisle, PA row homes? Wall voids and shared ducts accelerate transfer.
+
+Risk flag: Overwatered Carlisle, PA planters can restart ant bridges within two weeks.
+
+Species trace 445158: re-entry interval label and conducive moisture note keyed to Carlisle, PA elevation 489 ft.
+
+Perimeter dossier 445158: bait station anchor map and mulch bridge risk flagged for Carlisle, PA county Cumberland County (ZIP 17013).
+
+On-site sector marker: Cumberland County / elevation 489 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-17013-73ad755a

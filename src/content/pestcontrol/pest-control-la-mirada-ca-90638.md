@@ -11,24 +11,41 @@ lng: -118.0100
 zipSample: ["90638", "90637", "90639"]
 zipCodes: ["90639", "90637", "90638"]
 localPaths: ["Los Angeles County / primary ZIP 90638", "Los Angeles County / ZIP 90638 sector", "Los Angeles County / elevation 161 ft band", "Los Angeles County / ZIP 90639 sector", "Los Angeles County / ZIP 90637 sector"]
-zillowHomeValueUsd: 887399
 ---
 
-**Engineering Notice for La Mirada:** Structural loading calculated based on 161 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for La Mirada:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 90638.
 
-A written scope helps prevent rework and mismatched expectations.
+Yellow jacket nests in La Mirada, CA soffit cavities peak in late summer routing windows.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: record station placement maps for follow-up visits.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Perimeter granule carriers in La Mirada, CA clay soils may need lighter irrigation before application.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+State note: La Mirada, CA commercial kitchens may require separate documentation for audit visits.
 
-Field note: Moisture pathway inspection logged near ZIP 90639/90638/90637 intake.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 90638.
 
-Dispatch sectors sampled: ZIP 90639, 90638, 90637 (county grid: Los Angeles County).
+Powderpost beetle exit holes in La Mirada, CA trim can be mistaken for dry-wood frass without magnification.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in La Mirada, CA.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Risk flag: Overwatered La Mirada, CA planters can restart ant bridges within two weeks.
+
+Carpenter ant frass in La Mirada, CA window sills may indicate moisture-softened framing.
+
+Flea pupae survive vacuuming in La Mirada, CA carpet fibers unless heat treatment follows.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Seasonal cue 164007: cluster fly attic staging reviewed for La Mirada, CA soffit cavities.
+
+On-site sector marker: Los Angeles County / ZIP 90639 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90638-b377ca44

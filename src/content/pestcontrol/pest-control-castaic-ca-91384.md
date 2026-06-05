@@ -11,25 +11,39 @@ lng: -118.6300
 zipSample: ["91384", "91310"]
 zipCodes: ["91384", "91310"]
 localPaths: ["Los Angeles County / primary ZIP 91384", "Los Angeles County / coords 34.4800, -118.6300", "Los Angeles County / elevation 1699 ft band", "Los Angeles County / ZIP 91310 sector", "Los Angeles County / ZIP 91384 sector"]
-zillowHomeValueUsd: 805405
 ---
 
-**Engineering Notice for Castaic:** Structural loading calculated based on 1699 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Castaic:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Dry-wood termite pellets in Castaic, CA attics may appear before exterior mud tubes.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 91384.
+State note: Castaic, CA commercial kitchens may require separate documentation for audit visits.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Mud dauber nests in Castaic, CA porch ceilings are benign but signal prey density for spiders.
 
-Tip: compare at least two estimates for scope and timeline.
+Silverfish activity in Castaic, CA attics tracks cardboard storage and ridge vent gaps.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Fire ant mounds in Castaic, CA drive seams need granule rotation after irrigation events.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 91310/91384.
+Step: map entry points with photo logs before sealing.
 
-Dispatch sectors sampled: ZIP 91310, 91384 (county grid: Los Angeles County).
+Risk flag: In Castaic, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Attic insulation disturbance in Castaic, CA may indicate wildlife nesting routes.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Step: record station placement maps for follow-up visits.
+
+Risk flag: Overwatered Castaic, CA planters can restart ant bridges within two weeks.
+
+Species trace 663364: re-entry interval label and conducive moisture note keyed to Castaic, CA elevation 1699 ft.
+
+Exclusion audit 663364: exclusion mesh gauge and rodent runway grease mark reviewed for Castaic, CA at 34.4800/-118.6300.
+
+On-site sector marker: Los Angeles County / ZIP 91384 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91384-3e6e3b40

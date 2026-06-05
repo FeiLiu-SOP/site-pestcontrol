@@ -11,26 +11,39 @@ lng: -111.7400
 zipSample: ["85268", "85269"]
 zipCodes: ["85269", "85268"]
 localPaths: ["Maricopa County / elevation 1824 ft band", "Maricopa County / ZIP 85269 sector", "Maricopa County / ZIP 85268 sector", "Maricopa County / coords 33.6100, -111.7400", "Maricopa County / primary ZIP 85268"]
-zillowHomeValueUsd: 675152
 ---
 
-**Engineering Notice for Fountain Hills:** Structural loading calculated based on 1824 ft terrain assessment. Regional dispatch grid: Maricopa County.
+**Engineering Notice for Fountain Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Maricopa County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Log pet access routes when bait stations are placed.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 85268.
 
-In Fountain Hills, AZ, urgent pest control issues can escalate quickly.
+IGR packets for Fountain Hills, AZ roach cycles should be dated on station lids.
 
-Field note: Access points and staging constraints recorded for ZIP 85268/85269 coverage.
+County grid Maricopa County informs routing near ZIP 85268.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 85268/85269.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Dispatch sectors sampled: ZIP 85268, 85269 (county grid: Maricopa County).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Perimeter granule carriers in Fountain Hills, AZ clay soils may need lighter irrigation before application.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 85268.
+
+Attic misting in Fountain Hills, AZ requires combustion air clearance verified before fans restart.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Harbor ledger 321778: frass lane, mud-tube scan, and garage jamb gap measure filed for Fountain Hills, AZ at 33.6100, -111.7400.
+
+Zone map 321778: attic insulation disturbance trace and pantry pest source logged for Fountain Hills, AZ sector 85268.
+
+On-site sector marker: Maricopa County / elevation 1824 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85268-7b9dd6a5

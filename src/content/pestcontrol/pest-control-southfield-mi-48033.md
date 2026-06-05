@@ -11,26 +11,41 @@ lng: -83.2600
 zipSample: ["48037", "48075", "48034", "48033", "48076"]
 zipCodes: ["48034", "48086", "48037", "48033", "48076", "48075"]
 localPaths: ["Oakland County / ZIP 48075 sector", "Oakland County / elevation 682 ft band", "Oakland County / ZIP 48034 sector", "Oakland County / primary ZIP 48033", "Oakland County / ZIP 48033 sector"]
-zillowHomeValueUsd: 223525
 ---
 
-**Engineering Notice for Southfield:** Structural loading calculated based on 682 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for Southfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oakland County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Cluster fly attic staging in Southfield, MI peaks on south-facing voids after sunny thaw days.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: In Southfield, MI, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Wind exposure category reviewed for ZIP sector 48086/48034/48033.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Connection points spot-checked where accessible (ZIP 48086/48034/48033 zone).
+FAQ: Why schedule quarterly instead of monthly in Southfield, MI? Species pressure and label intervals dictate cadence.
 
-Dispatch sectors sampled: ZIP 48086, 48034, 48033, 48075, 48076 (county grid: Oakland County).
+FAQ: What is exclusion? Without sealing entry points in Southfield, MI, pressure often rebuilds.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Southfield, MI.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Carpenter ant frass in Southfield, MI window sills may indicate moisture-softened framing.
+
+Monitoring boards in Southfield, MI crawlspaces stay 72 hours before snap traps are reset.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Seasonal cue 533335: cluster fly attic staging reviewed for Southfield, MI soffit cavities.
+
+On-site sector marker: Oakland County / ZIP 48037 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48033-863fd16b

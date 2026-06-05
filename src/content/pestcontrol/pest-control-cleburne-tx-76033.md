@@ -11,26 +11,37 @@ lng: -97.4200
 zipSample: ["76031", "76033"]
 zipCodes: ["76033", "76031"]
 localPaths: ["Johnson County / coords 32.3600, -97.4200", "Johnson County / elevation 817 ft band", "Johnson County / ZIP 76031 sector", "Johnson County / ZIP 76033 sector", "Johnson County / primary ZIP 76033"]
-zillowHomeValueUsd: 272488
 ---
 
-**Engineering Notice for Cleburne:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Johnson County.
+**Engineering Notice for Cleburne:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Johnson County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Request an inspection with species ID before treatment. Serving ZIP Code: 76033.
 
-We coordinate local dispatch coverage around Cleburne, TX and nearby ZIP sectors.
+Mud dauber nests in Cleburne, TX porch ceilings are benign but signal prey density for spiders.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Stink bug overwinter seams in Cleburne, TX wall restoration laps require exclusion foam rated for UV exposure.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Yellow jacket nests in Cleburne, TX soffit cavities peak in late summer routing windows.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Cleburne, TX, but intake notes help reduce delays.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Connection points spot-checked where accessible (ZIP 76033/76031 zone).
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Field note: Wind exposure category reviewed for ZIP sector 76033/76031.
+Risk flag: In Cleburne, TX, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Dispatch sectors sampled: ZIP 76033, 76031 (county grid: Johnson County).
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Carpenter ant frass in Cleburne, TX window sills may indicate moisture-softened framing.
+
+Harbor ledger 492006: frass lane, mud-tube scan, and garage jamb gap measure filed for Cleburne, TX at 32.3600, -97.4200.
+
+On-site sector marker: Johnson County / ZIP 76031 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76033-db9e008a

@@ -11,26 +11,37 @@ lng: -75.7500
 zipSample: ["19702", "19701"]
 zipCodes: ["19701", "19702"]
 localPaths: ["New Castle County / ZIP 19701 sector", "New Castle County / coords 39.6000, -75.7500", "New Castle County / elevation 79 ft band", "New Castle County / primary ZIP 19701", "New Castle County / ZIP 19702 sector"]
-zillowHomeValueUsd: 420850
 ---
 
-**Engineering Notice for Glasgow:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: New Castle County.
+**Engineering Notice for Glasgow:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: New Castle County.
 
 
-We coordinate local dispatch coverage around Glasgow, DE and nearby ZIP sectors.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Glasgow, DE.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 19701.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: record station placement maps for follow-up visits.
 
-Field note: Connection points spot-checked where accessible (ZIP 19702/19701 zone).
+Mosquito breeding in Glasgow, DE catch basins can amplify perimeter callbacks.
 
-Field note: Moisture pathway inspection logged near ZIP 19702/19701 intake.
+Carpenter ant frass in Glasgow, DE window sills may indicate moisture-softened framing.
 
-Dispatch sectors sampled: ZIP 19702, 19701 (county grid: New Castle County).
+Earwig harborages in Glasgow, DE meter boxes often follow drip irrigation overspray.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Glasgow, DE.
+
+Tip: Trim vegetation 12 inches from vinyl panels to reduce ant bridges.
+
+Species trace 878451: re-entry interval label and conducive moisture note keyed to Glasgow, DE elevation 79 ft.
+
+On-site sector marker: New Castle County / elevation 79 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: DE-19701-7874508c

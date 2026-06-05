@@ -11,27 +11,39 @@ lng: -84.3300
 zipSample: ["30324", "31119", "30329", "30319"]
 zipCodes: ["31119", "30319", "30329", "30324"]
 localPaths: ["DeKalb County / elevation 1024 ft band", "DeKalb County / ZIP 31119 sector", "DeKalb County / coords 33.8700, -84.3300", "DeKalb County / ZIP 30324 sector", "DeKalb County / ZIP 30329 sector"]
-zillowHomeValueUsd: 524002
 ---
 
-**Engineering Notice for Brookhaven:** Structural loading calculated based on 1024 ft terrain assessment. Regional dispatch grid: DeKalb County.
+**Engineering Notice for Brookhaven:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeKalb County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Why schedule quarterly instead of monthly in Brookhaven, GA? Species pressure and label intervals dictate cadence.
 
-We coordinate local dispatch coverage around Brookhaven, GA and nearby ZIP sectors.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: avoid large upfront payments without milestones.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Brookhaven, GA, but intake notes help reduce delays.
+Exclusion gaps at garage jambs in Brookhaven, GA are common rodent access points.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 30329.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Field note: Access points and staging constraints recorded for ZIP 30319/30329/30324 coverage.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30319/30329/30324.
+In Brookhaven, GA, subterranean termite swarms often follow warm rain windows.
 
-Dispatch sectors sampled: ZIP 30319, 30329, 30324, 31119 (county grid: DeKalb County).
+State note: Brookhaven, GA commercial kitchens may require separate documentation for audit visits.
+
+Risk flag: Overwatered Brookhaven, GA planters can restart ant bridges within two weeks.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Brookhaven, GA.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Seasonal cue 441392: cluster fly attic staging reviewed for Brookhaven, GA soffit cavities.
+
+Perimeter dossier 441392: bait station anchor map and mulch bridge risk flagged for Brookhaven, GA county DeKalb County (ZIP 30329).
+
+Primary postal anchor 30329 with multi-ZIP overlap in Brookhaven; field packets tag DeKalb County for county-grid reconciliation.
 
 Service reference: GA-30329-6d2b50f6

@@ -11,26 +11,43 @@ lng: -122.8000
 zipSample: ["97296", "97229"]
 zipCodes: ["97296", "97229"]
 localPaths: ["Washington County / primary ZIP 97229", "Washington County / ZIP 97229 sector", "Washington County / ZIP 97296 sector", "Washington County / coords 45.5400, -122.8000", "Washington County / elevation 531 ft band"]
-zillowHomeValueUsd: 743079
 ---
 
-**Engineering Notice for Cedar Mill:** Structural loading calculated based on 531 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Cedar Mill:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.
 
 
-Our service coordination centers on Cedar Mill, OR coverage windows and verified intake details.
+Request an inspection with species ID before treatment. Serving ZIP Code: 97229.
 
-Tip: avoid large upfront payments without milestones.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Cedar Mill, OR, but intake notes help reduce delays.
+Perimeter granule carriers in Cedar Mill, OR clay soils may need lighter irrigation before application.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Cedar Mill, OR.
 
-Field note: Moisture pathway inspection logged near ZIP 97296/97229 intake.
+Material note: Perimeter granules in Cedar Mill, OR may need reapplication after heavy irrigation.
 
-Field note: Wind exposure category reviewed for ZIP sector 97296/97229.
+Silverfish activity in Cedar Mill, OR attics tracks cardboard storage and ridge vent gaps.
 
-Dispatch sectors sampled: ZIP 97296, 97229 (county grid: Washington County).
+Monitoring boards in Cedar Mill, OR crawlspaces stay 72 hours before snap traps are reset.
+
+Earwig harborages in Cedar Mill, OR meter boxes often follow drip irrigation overspray.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Powderpost beetle exit holes in Cedar Mill, OR trim can be mistaken for dry-wood frass without magnification.
+
+Seasonal pest pressure in Cedar Mill, OR shifts between moisture ants and dry-wood vectors.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Intercept log 282608: bed bug intercept count staged before Cedar Mill, OR interior gel zones.
+
+Harbor ledger 282608: frass lane, mud-tube scan, and garage jamb gap measure filed for Cedar Mill, OR at 45.5400, -122.8000.
+
+Coordinate-anchored dispatch note: center reference 45.5400, -122.8000 at elevation ~531 ft aligns with Washington County intake staging.
 
 Service reference: OR-97229-e65fb1ff

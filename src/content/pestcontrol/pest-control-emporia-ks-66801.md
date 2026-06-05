@@ -11,27 +11,41 @@ lng: -96.1900
 zipSample: ["66801"]
 zipCodes: ["66801"]
 localPaths: ["Lyon County / primary ZIP 66801", "Lyon County / ZIP 66801 sector", "Lyon County / elevation 1145 ft band", "Lyon County / coords 38.4000, -96.1900"]
-zillowHomeValueUsd: 168942
 ---
 
-**Engineering Notice for Emporia:** Structural loading calculated based on 1145 ft terrain assessment. Regional dispatch grid: Lyon County.
+**Engineering Notice for Emporia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lyon County.
 
 
-In Emporia, KS, seasonal demand can change scheduling windows.
+Powderpost beetle exit holes in Emporia, KS trim can be mistaken for dry-wood frass without magnification.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 66801.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Emporia, KS, but intake notes help reduce delays.
+Earwig harborages in Emporia, KS meter boxes often follow drip irrigation overspray.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Fire ant mounds in Emporia, KS drive seams need granule rotation after irrigation events.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Field note: Wind exposure category reviewed for ZIP sector 66801.
+Risk flag: In Emporia, KS, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Access points and staging constraints recorded for ZIP 66801 coverage.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Dispatch sectors sampled: ZIP 66801 (county grid: Lyon County).
+Yellow jacket nests in Emporia, KS soffit cavities peak in late summer routing windows.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 66801.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Drain fly biofilm in Emporia, KS floor drains signals grease traps need service before gel baits.
+
+Clover mite staining on Emporia, KS exterior cladding follows foundation mulch against brick ledges.
+
+Exclusion audit 442857: exclusion mesh gauge and rodent runway grease mark reviewed for Emporia, KS at 38.4000/-96.1900.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Lyon County. Reference elevation: 1145 ft. Primary coordinates: 38.4000, -96.1900. ZIP sample: 66801. Service perimeter note: Coverage extends through Lyon County with dispatch centered near ZIP 66801.
 
 Service reference: KS-66801-b641a859

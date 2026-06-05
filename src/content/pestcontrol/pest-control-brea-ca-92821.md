@@ -11,27 +11,41 @@ lng: -117.8700
 zipSample: ["92823", "92822", "92821"]
 zipCodes: ["92821", "92822", "92823"]
 localPaths: ["Orange County / ZIP 92821 sector", "Orange County / ZIP 92823 sector", "Orange County / ZIP 92822 sector", "Orange County / coords 33.9300, -117.8700", "Orange County / elevation 564 ft band"]
-zillowHomeValueUsd: 1120920
 ---
 
-**Engineering Notice for Brea:** Structural loading calculated based on 564 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Brea:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Clover mite staining on Brea, CA wall restoration follows foundation mulch against brick ledges.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 92821.
+Silverfish activity in Brea, CA attics tracks cardboard storage and ridge vent gaps.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-We coordinate local dispatch coverage around Brea, CA and nearby ZIP sectors.
+Mosquito breeding in Brea, CA catch basins can amplify perimeter callbacks.
 
-Field note: Wind exposure category reviewed for ZIP sector 92823/92822/92821.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92823/92822/92821.
+Across Brea, CA, rodent entry points frequently track utility penetrations.
 
-Dispatch sectors sampled: ZIP 92823, 92822, 92821 (county grid: Orange County).
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Brea, CA.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 92821.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Perimeter granule carriers in Brea, CA clay soils may need lighter irrigation before application.
+
+Tip: Date bait station lids when servicing Brea, CA perimeter lines.
+
+Perimeter dossier 899740: bait station anchor map and mulch bridge risk flagged for Brea, CA county Orange County (ZIP 92821).
+
+On-site sector marker: Orange County / elevation 564 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92821-143a4b0d

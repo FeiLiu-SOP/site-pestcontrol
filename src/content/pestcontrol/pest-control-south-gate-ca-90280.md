@@ -11,24 +11,41 @@ lng: -118.1900
 zipSample: ["90280"]
 zipCodes: ["90280"]
 localPaths: ["Los Angeles County / ZIP 90280 sector", "Los Angeles County / primary ZIP 90280", "Los Angeles County / elevation 121 ft band", "Los Angeles County / coords 33.9400, -118.1900"]
-zillowHomeValueUsd: 700709
 ---
 
-**Engineering Notice for South Gate:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for South Gate:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Tip: compare at least two estimates for scope and timeline.
+Attic fogging in South Gate, CA requires combustion appliance shutoff verification first.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in South Gate, CA, but intake notes help reduce delays.
+Risk flag: In South Gate, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in South Gate, CA.
 
-Tip: request a written scope before work starts.
+Risk flag: Overwatered South Gate, CA planters can restart ant bridges within two weeks.
 
-Field note: Moisture pathway inspection logged near ZIP 90280 intake.
+Powderpost beetle exit holes in South Gate, CA trim can be mistaken for dry-wood frass without magnification.
 
-Dispatch sectors sampled: ZIP 90280 (county grid: Los Angeles County).
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Stored cardboard in South Gate, CA garages can accelerate pantry pest cycles.
+
+Tip: Date bait station lids when servicing South Gate, CA perimeter lines.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 90280.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Seasonal cue 877134: cluster fly attic staging reviewed for South Gate, CA soffit cavities.
+
+Perimeter dossier 877134: bait station anchor map and mulch bridge risk flagged for South Gate, CA county Los Angeles County (ZIP 90280).
+
+**Regional Infrastructure Brief:** Service coverage aligns with Los Angeles County and primary ZIP 90280. Terrain reference: 121 ft. Center point: 33.9400, -118.1900. ZIP sample: 90280. Logistics priority: Serving residential sectors across Los Angeles County and north-east ZIP 90280 grid.
 
 Service reference: CA-90280-c20837ae

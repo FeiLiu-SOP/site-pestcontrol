@@ -11,24 +11,41 @@ lng: -120.8500
 zipSample: ["95361"]
 zipCodes: ["95361"]
 localPaths: ["Stanislaus County / ZIP 95361 sector", "Stanislaus County / primary ZIP 95361", "Stanislaus County / elevation 157 ft band", "Stanislaus County / coords 37.7600, -120.8500"]
-zillowHomeValueUsd: 557704
 ---
 
-**Engineering Notice for Oakdale:** Structural loading calculated based on 157 ft terrain assessment. Regional dispatch grid: Stanislaus County.
+**Engineering Notice for Oakdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Stanislaus County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Fire ant mounds in Oakdale, CA drive seams need granule rotation after irrigation events.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Material note: Perimeter granules in Oakdale, CA may need reapplication after heavy irrigation.
 
-We coordinate local dispatch coverage around Oakdale, CA and nearby ZIP sectors.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Tip: avoid large upfront payments without milestones.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Why do pests return after spraying? Without sealing entry points in Oakdale, CA, pressure often rebuilds.
 
-Field note: Moisture pathway inspection logged near ZIP 95361 intake.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Dispatch sectors sampled: ZIP 95361 (county grid: Stanislaus County).
+Step: inspect interior harborages before exterior perimeter treatment.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Risk flag: In Oakdale, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Yellow jacket nests in Oakdale, CA soffit cavities peak in late summer routing windows.
+
+State note: Oakdale, CA commercial kitchens may require separate documentation for audit visits.
+
+Risk flag: Overwatered Oakdale, CA planters can restart ant bridges within two weeks.
+
+Seasonal cue 194270: cluster fly attic staging reviewed for Oakdale, CA soffit cavities.
+
+Harbor ledger 194270: frass lane, mud-tube scan, and garage jamb gap measure filed for Oakdale, CA at 37.7600, -120.8500.
+
+On-site sector marker: Stanislaus County / elevation 157 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95361-fe61dcde

@@ -11,24 +11,37 @@ lng: -122.5200
 zipSample: ["94903", "94912", "94915", "94901"]
 zipCodes: ["94915", "94901", "94903", "94912"]
 localPaths: ["Marin County / primary ZIP 94901", "Marin County / coords 37.9900, -122.5200", "Marin County / ZIP 94912 sector", "Marin County / ZIP 94901 sector", "Marin County / ZIP 94903 sector"]
-zillowHomeValueUsd: 1408571
 ---
 
-**Engineering Notice for San Rafael:** Structural loading calculated based on 482 ft terrain assessment. Regional dispatch grid: Marin County.
+**Engineering Notice for San Rafael:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marin County.
 
 
-Tip: avoid large upfront payments without milestones.
+County grid Marin County informs routing near ZIP 94901.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in San Rafael, CA, but intake notes help reduce delays.
+Yellow jacket nests in San Rafael, CA soffit cavities peak in late summer routing windows.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Tip: address recurring issues early to prevent bigger damage.
+Earwig harborages in San Rafael, CA meter boxes often follow drip irrigation overspray.
 
-Field note: Wind exposure category reviewed for ZIP sector 94912/94901/94903.
+Attic fogging in San Rafael, CA requires combustion appliance shutoff verification first.
 
-Dispatch sectors sampled: ZIP 94912, 94901, 94903, 94915 (county grid: Marin County).
+Seasonal pest pressure in San Rafael, CA shifts between moisture ants and dry-wood vectors.
+
+Tip: Date bait station lids when servicing San Rafael, CA perimeter lines.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+FAQ: Can bed bugs spread room-to-room in San Rafael, CA row homes? Wall voids and shared ducts accelerate transfer.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Harbor ledger 175507: frass lane, mud-tube scan, and garage jamb gap measure filed for San Rafael, CA at 37.9900, -122.5200.
+
+Regional mesh label Marin County: moisture and logistics baselines are keyed to San Rafael, CA before niche-specific work begins.
 
 Service reference: CA-94901-2300abc9

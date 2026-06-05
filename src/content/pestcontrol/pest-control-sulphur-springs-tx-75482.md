@@ -11,26 +11,39 @@ lng: -95.6100
 zipSample: ["75482", "75483"]
 zipCodes: ["75483", "75482"]
 localPaths: ["Hopkins County / primary ZIP 75482", "Hopkins County / ZIP 75482 sector", "Hopkins County / ZIP 75483 sector", "Hopkins County / elevation 522 ft band", "Hopkins County / coords 33.1400, -95.6100"]
-zillowHomeValueUsd: 243081
 ---
 
-**Engineering Notice for Sulphur Springs:** Structural loading calculated based on 522 ft terrain assessment. Regional dispatch grid: Hopkins County.
+**Engineering Notice for Sulphur Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hopkins County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep pet food elevated and sealed between service visits.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Sulphur Springs, TX, but intake notes help reduce delays.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 75482.
 
-Clear documentation helps align materials, labor, and timeline.
+Yellow jacket nests in Sulphur Springs, TX soffit cavities peak in late summer routing windows.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Stink bug overwinter seams in Sulphur Springs, TX exterior cladding laps require exclusion foam rated for UV exposure.
 
-Field note: Wind exposure category reviewed for ZIP sector 75483/75482.
+Risk flag: In Sulphur Springs, TX, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Moisture pathway inspection logged near ZIP 75483/75482 intake.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Dispatch sectors sampled: ZIP 75483, 75482 (county grid: Hopkins County).
+Mud dauber nests in Sulphur Springs, TX porch ceilings are benign but signal prey density for spiders.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Dry-wood termite pellets in Sulphur Springs, TX attics may appear before exterior mud tubes.
+
+Harbor ledger 483123: frass lane, mud-tube scan, and garage jamb gap measure filed for Sulphur Springs, TX at 33.1400, -95.6100.
+
+Species trace 483123: re-entry interval label and conducive moisture note keyed to Sulphur Springs, TX elevation 522 ft.
+
+On-site sector marker: Hopkins County / primary ZIP 75482 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75482-7a91fb25

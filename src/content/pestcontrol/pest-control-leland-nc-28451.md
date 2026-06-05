@@ -11,26 +11,41 @@ lng: -78.0300
 zipSample: ["28479", "28451"]
 zipCodes: ["28451", "28479"]
 localPaths: ["Brunswick County / coords 34.2000, -78.0300", "Brunswick County / elevation 20 ft band", "Brunswick County / ZIP 28479 sector", "Brunswick County / ZIP 28451 sector", "Brunswick County / primary ZIP 28451"]
-zillowHomeValueUsd: 377975
 ---
 
-**Engineering Notice for Leland:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Brunswick County.
+**Engineering Notice for Leland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brunswick County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Yellow jacket nests in Leland, NC soffit cavities peak in late summer routing windows.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Earwig harborages in Leland, NC meter boxes often follow drip irrigation overspray.
 
-Tip: request a written scope before work starts.
+IGR packets for Leland, NC roach cycles should be dated on station lids.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: What is exclusion? Without sealing entry points in Leland, NC, pressure often rebuilds.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Date bait station lids when servicing Leland, NC perimeter lines.
 
-Field note: Connection points spot-checked where accessible (ZIP 28451/28479 zone).
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Access points and staging constraints recorded for ZIP 28451/28479 coverage.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 28451.
 
-Dispatch sectors sampled: ZIP 28451, 28479 (county grid: Brunswick County).
+Bird mites in Leland, NC exhaust vents can persist after host nests are removed.
+
+Material note: Perimeter granules in Leland, NC may need reapplication after heavy irrigation.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Attic fogging in Leland, NC requires combustion appliance shutoff verification first.
+
+Perimeter dossier 394180: bait station anchor map and mulch bridge risk flagged for Leland, NC county Brunswick County (ZIP 28451).
+
+Seasonal cue 394180: cluster fly attic staging reviewed for Leland, NC soffit cavities.
+
+On-site sector marker: Brunswick County / ZIP 28451 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28451-364c68ae

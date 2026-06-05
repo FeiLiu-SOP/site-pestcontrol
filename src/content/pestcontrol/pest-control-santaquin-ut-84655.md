@@ -11,26 +11,41 @@ lng: -111.7900
 zipSample: ["84655"]
 zipCodes: ["84655"]
 localPaths: ["Utah County / coords 39.9700, -111.7900", "Utah County / elevation 4997 ft band", "Utah County / ZIP 84655 sector", "Utah County / primary ZIP 84655"]
-zillowHomeValueUsd: 500586
 ---
 
-**Engineering Notice for Santaquin:** Structural loading calculated based on 4997 ft terrain assessment. Regional dispatch grid: Utah County.
+**Engineering Notice for Santaquin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Utah County.
 
 
-Local conditions in Santaquin, UT can affect timelines and material choices.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Carpenter ant frass in Santaquin, UT window sills may indicate moisture-softened framing.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Our service coordination centers on Santaquin, UT coverage windows and verified intake details.
+Step: label treatment zones for occupant re-entry timing.
 
-Field note: Access points and staging constraints recorded for ZIP 84655 coverage.
+Material note: Perimeter granules in Santaquin, UT may need reapplication after heavy irrigation.
 
-Field note: Connection points spot-checked where accessible (ZIP 84655 zone).
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Dispatch sectors sampled: ZIP 84655 (county grid: Utah County).
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Stink bug overwinter seams in Santaquin, UT vinyl panels laps require exclusion foam rated for UV exposure.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Powderpost beetle exit holes in Santaquin, UT trim can be mistaken for dry-wood frass without magnification.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Earwig harborages in Santaquin, UT meter boxes often follow drip irrigation overspray.
+
+Seasonal cue 246419: cluster fly attic staging reviewed for Santaquin, UT soffit cavities.
+
+Intercept log 246419: bed bug intercept count staged before Santaquin, UT interior gel zones.
+
+On-site sector marker: Utah County / elevation 4997 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84655-447ed3a6

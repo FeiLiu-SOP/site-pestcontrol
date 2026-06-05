@@ -11,24 +11,39 @@ lng: -83.3800
 zipSample: ["48335", "48331", "48336", "48334"]
 zipCodes: ["48334", "48331", "48335", "48336"]
 localPaths: ["Oakland County / ZIP 48336 sector", "Oakland County / elevation 866 ft band", "Oakland County / coords 42.4900, -83.3800", "Oakland County / primary ZIP 48336", "Oakland County / ZIP 48331 sector"]
-zillowHomeValueUsd: 300810
 ---
 
-**Engineering Notice for Farmington Hills:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for Farmington Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oakland County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Farmington Hills, MI, but intake notes help reduce delays.
+Material note: Perimeter granules in Farmington Hills, MI may need reapplication after heavy irrigation.
 
-Local conditions in Farmington Hills, MI can affect timelines and material choices.
+Mud dauber nests in Farmington Hills, MI porch ceilings are benign but signal prey density for spiders.
 
-Tip: confirm licensing and insurance before approving work.
+Cluster fly attic staging in Farmington Hills, MI peaks on south-facing voids after sunny thaw days.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Farmington Hills, MI, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Our service coordination centers on Farmington Hills, MI coverage windows and verified intake details.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Farmington Hills, MI.
 
-Field note: Access points and staging constraints recorded for ZIP 48335/48336/48334 coverage.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Dispatch sectors sampled: ZIP 48335, 48336, 48334, 48331 (county grid: Oakland County).
+State note: Farmington Hills, MI commercial kitchens may require separate documentation for audit visits.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Risk flag: Overwatered Farmington Hills, MI planters can restart ant bridges within two weeks.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Seasonal cue 312201: cluster fly attic staging reviewed for Farmington Hills, MI soffit cavities.
+
+On-site sector marker: Oakland County / primary ZIP 48336 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48336-d0b94d8c

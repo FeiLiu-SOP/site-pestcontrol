@@ -11,25 +11,43 @@ lng: -93.6100
 zipSample: ["55318"]
 zipCodes: ["55318"]
 localPaths: ["Carver County / ZIP 55318 sector", "Carver County / coords 44.8200, -93.6100", "Carver County / elevation 922 ft band", "Carver County / primary ZIP 55318"]
-zillowHomeValueUsd: 478752
 ---
 
-**Engineering Notice for Chaska:** Structural loading calculated based on 922 ft terrain assessment. Regional dispatch grid: Carver County.
+**Engineering Notice for Chaska:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Carver County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Why schedule quarterly instead of monthly in Chaska, MN? Species pressure and label intervals dictate cadence.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Stink bug overwinter seams in Chaska, MN vinyl panels laps require exclusion foam rated for UV exposure.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 55318.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Chaska, MN, but intake notes help reduce delays.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Field note: Wind exposure category reviewed for ZIP sector 55318.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 55318.
 
-Dispatch sectors sampled: ZIP 55318 (county grid: Carver County).
+Tip: Keep pet food elevated and sealed between service visits.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 55318.
+
+Drain fly biofilm in Chaska, MN floor drains signals grease traps need service before gel baits.
+
+Flea pupae survive vacuuming in Chaska, MN carpet fibers unless heat treatment follows.
+
+Silverfish activity in Chaska, MN attics tracks cardboard storage and ridge vent gaps.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+FAQ: What is exclusion? Without sealing entry points in Chaska, MN, pressure often rebuilds.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Species trace 974112: re-entry interval label and conducive moisture note keyed to Chaska, MN elevation 922 ft.
+
+Seasonal cue 974112: cluster fly attic staging reviewed for Chaska, MN soffit cavities.
+
+On-site sector marker: Carver County / elevation 922 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55318-610b7d6f

@@ -11,25 +11,41 @@ lng: -90.7200
 zipSample: ["63366", "63367", "63368"]
 zipCodes: ["63367", "63368", "63366"]
 localPaths: ["St. Charles County / ZIP 63366 sector", "St. Charles County / ZIP 63367 sector", "St. Charles County / elevation 597 ft band", "St. Charles County / coords 38.7800, -90.7200", "St. Charles County / ZIP 63368 sector"]
-zillowHomeValueUsd: 441335
 ---
 
-**Engineering Notice for O'Fallon:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: St. Charles County.
+**Engineering Notice for O'Fallon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Charles County.
 
 
-We coordinate local dispatch coverage around O'Fallon, MO and nearby ZIP sectors.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 63367.
+IGR packets for O'Fallon, MO roach cycles should be dated on station lids.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in O'Fallon, MO, but intake notes help reduce delays.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+State note: O'Fallon, MO commercial kitchens may require separate documentation for audit visits.
 
-Tip: request a written scope before work starts.
+Request an inspection with species ID before treatment. Serving ZIP Code: 63367.
 
-Field note: Connection points spot-checked where accessible (ZIP 63366/63368/63367 zone).
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in O'Fallon, MO.
 
-Dispatch sectors sampled: ZIP 63366, 63368, 63367 (county grid: St. Charles County).
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Step: label treatment zones for occupant re-entry timing.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Tip: Date bait station lids when servicing O'Fallon, MO perimeter lines.
+
+Flea pupae survive vacuuming in O'Fallon, MO carpet fibers unless heat treatment follows.
+
+Silverfish activity in O'Fallon, MO attics tracks cardboard storage and ridge vent gaps.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Harbor ledger 398515: frass lane, mud-tube scan, and garage jamb gap measure filed for O'Fallon, MO at 38.7800, -90.7200.
+
+Zone map 398515: attic insulation disturbance trace and pantry pest source logged for O'Fallon, MO sector 63367.
+
+Primary postal anchor 63367 with multi-ZIP overlap in O'Fallon; field packets tag St. Charles County for county-grid reconciliation.
 
 Service reference: MO-63367-187c4923

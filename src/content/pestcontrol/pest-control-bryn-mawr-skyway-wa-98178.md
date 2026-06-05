@@ -11,24 +11,43 @@ lng: -122.2400
 zipSample: ["98178"]
 zipCodes: ["98178"]
 localPaths: ["King County / ZIP 98178 sector", "King County / elevation 387 ft band", "King County / primary ZIP 98178", "King County / coords 47.4900, -122.2400"]
-zillowHomeValueUsd: 670391
 ---
 
-**Engineering Notice for Bryn Mawr-Skyway:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Bryn Mawr-Skyway:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bryn Mawr-Skyway, WA, but intake notes help reduce delays.
+Carpenter ant frass in Bryn Mawr-Skyway, WA window sills may indicate moisture-softened framing.
 
-Tip: request a written scope before work starts.
+Monitoring boards in Bryn Mawr-Skyway, WA crawlspaces stay 72 hours before snap traps are reset.
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Our service coordination centers on Bryn Mawr-Skyway, WA coverage windows and verified intake details.
+Drain fly biofilm in Bryn Mawr-Skyway, WA floor drains signals grease traps need service before gel baits.
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98178.
+Stink bug overwinter seams in Bryn Mawr-Skyway, WA vinyl panels laps require exclusion foam rated for UV exposure.
 
-Dispatch sectors sampled: ZIP 98178 (county grid: King County).
+Yellow jacket nests in Bryn Mawr-Skyway, WA soffit cavities peak in late summer routing windows.
+
+Risk flag: In Bryn Mawr-Skyway, WA, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Material note: Perimeter granules in Bryn Mawr-Skyway, WA may need reapplication after heavy irrigation.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Exclusion gaps at garage jambs in Bryn Mawr-Skyway, WA are common rodent access points.
+
+Perimeter dossier 349347: bait station anchor map and mulch bridge risk flagged for Bryn Mawr-Skyway, WA county King County (ZIP 98178).
+
+Seasonal cue 349347: cluster fly attic staging reviewed for Bryn Mawr-Skyway, WA soffit cavities.
+
+On-site sector marker: King County / ZIP 98178 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98178-1cc3d11b

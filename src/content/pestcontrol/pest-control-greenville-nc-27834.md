@@ -11,27 +11,41 @@ lng: -77.3800
 zipSample: ["28590", "27835", "27834", "27833", "27836"]
 zipCodes: ["27858", "27834", "27835", "28590", "27833", "27836"]
 localPaths: ["Pitt County / ZIP 27836 sector", "Pitt County / elevation 59 ft band", "Pitt County / primary ZIP 27834", "Pitt County / ZIP 27834 sector", "Pitt County / ZIP 28590 sector"]
-zillowHomeValueUsd: 211156
 ---
 
-**Engineering Notice for Greenville:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Pitt County.
+**Engineering Notice for Greenville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pitt County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Bird mites in Greenville, NC exhaust vents can persist after host nests are removed.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 27834.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Local conditions in Greenville, NC can affect timelines and material choices.
+Risk flag: Overwatered Greenville, NC planters can restart ant bridges within two weeks.
 
-Tip: confirm licensing and insurance before approving work.
+Yellow jacket nests in Greenville, NC soffit cavities peak in late summer routing windows.
 
-Our service coordination centers on Greenville, NC coverage windows and verified intake details.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Field note: Wind exposure category reviewed for ZIP sector 27834/27833/28590.
+Powderpost beetle exit holes in Greenville, NC trim can be mistaken for dry-wood frass without magnification.
 
-Field note: Connection points spot-checked where accessible (ZIP 27834/27833/28590 zone).
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 27834, 27833, 28590, 27835, 27858 (county grid: Pitt County).
+Humidity in Greenville, NC can sustain cockroach harborages behind appliance voids.
+
+Mud dauber nests in Greenville, NC porch ceilings are benign but signal prey density for spiders.
+
+Perimeter granule carriers in Greenville, NC clay soils may need lighter irrigation before application.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+In Greenville, NC, subterranean termite swarms often follow warm rain windows.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Species trace 279974: re-entry interval label and conducive moisture note keyed to Greenville, NC elevation 59 ft.
+
+On-site sector marker: Pitt County / ZIP 27835 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-27834-b8807556

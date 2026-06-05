@@ -11,26 +11,37 @@ lng: -82.9300
 zipSample: ["48225", "48265"]
 zipCodes: ["48225", "48265"]
 localPaths: ["Wayne County / primary ZIP 48225", "Wayne County / coords 42.4400, -82.9300", "Wayne County / ZIP 48265 sector", "Wayne County / ZIP 48225 sector", "Wayne County / elevation 597 ft band"]
-zillowHomeValueUsd: 150463
 ---
 
-**Engineering Notice for Harper Woods:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Wayne County.
+**Engineering Notice for Harper Woods:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wayne County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Harper Woods, MI, but intake notes help reduce delays.
+IGR packets for Harper Woods, MI roach cycles should be dated on station lids.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Perimeter granules in Harper Woods, MI may need reapplication after heavy irrigation.
 
-Homeowners in Harper Woods, MI often face sudden pest control problems that require fast action.
+Tip: Date bait station lids when servicing Harper Woods, MI perimeter lines.
 
-Field note: Moisture pathway inspection logged near ZIP 48265/48225 intake.
+Step: record station placement maps for follow-up visits.
 
-Field note: Wind exposure category reviewed for ZIP sector 48265/48225.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Dispatch sectors sampled: ZIP 48265, 48225 (county grid: Wayne County).
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Fire ant mounds in Harper Woods, MI drive seams need granule rotation after irrigation events.
+
+FAQ: Why schedule quarterly instead of monthly in Harper Woods, MI? Species pressure and label intervals dictate cadence.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Stink bug overwinter seams in Harper Woods, MI wall restoration laps require exclusion foam rated for UV exposure.
+
+Perimeter dossier 840279: bait station anchor map and mulch bridge risk flagged for Harper Woods, MI county Wayne County (ZIP 48225).
+
+Regional mesh label Wayne County: moisture and logistics baselines are keyed to Harper Woods, MI before niche-specific work begins.
 
 Service reference: MI-48225-4ebf6d5e

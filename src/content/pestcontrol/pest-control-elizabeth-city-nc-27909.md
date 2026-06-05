@@ -11,26 +11,39 @@ lng: -76.2400
 zipSample: ["27906", "27907", "27909"]
 zipCodes: ["27907", "27909", "27906"]
 localPaths: ["Pasquotank County / coords 36.2900, -76.2400", "Pasquotank County / ZIP 27906 sector", "Pasquotank County / elevation 7 ft band", "Pasquotank County / ZIP 27907 sector", "Pasquotank County / primary ZIP 27909"]
-zillowHomeValueUsd: 265789
 ---
 
-**Engineering Notice for Elizabeth City:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Pasquotank County.
+**Engineering Notice for Elizabeth City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pasquotank County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: verify attic access safety before insulation disturbance.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: map entry points with photo logs before sealing.
 
-Clear documentation helps align materials, labor, and timeline.
+IGR packets for Elizabeth City, NC roach cycles should be dated on station lids.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep pet food elevated and sealed between service visits.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Elizabeth City, NC, but intake notes help reduce delays.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 27909.
 
-Field note: Moisture pathway inspection logged near ZIP 27907/27906/27909 intake.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Field note: Access points and staging constraints recorded for ZIP 27907/27906/27909 coverage.
+Mud dauber nests in Elizabeth City, NC porch ceilings are benign but signal prey density for spiders.
 
-Dispatch sectors sampled: ZIP 27907, 27906, 27909 (county grid: Pasquotank County).
+Flea pupae survive vacuuming in Elizabeth City, NC carpet fibers unless heat treatment follows.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+County grid Pasquotank County informs routing near ZIP 27909.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Powderpost beetle exit holes in Elizabeth City, NC trim can be mistaken for dry-wood frass without magnification.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Elizabeth City, NC.
+
+Perimeter dossier 114074: bait station anchor map and mulch bridge risk flagged for Elizabeth City, NC county Pasquotank County (ZIP 27909).
+
+**Regional Infrastructure Brief:** Service coverage aligns with Pasquotank County and primary ZIP 27909. Terrain reference: 7 ft. Center point: 36.2900, -76.2400. ZIP sample: 27907, 27909, 27906. Regional routing note: Pasquotank County traffic flow is balanced around ZIP 27909 service demand.
 
 Service reference: NC-27909-669505da

@@ -11,24 +11,41 @@ lng: -90.4400
 zipSample: ["63141", "63167"]
 zipCodes: ["63141", "63167"]
 localPaths: ["St. Louis County / ZIP 63167 sector", "St. Louis County / elevation 627 ft band", "St. Louis County / coords 38.6600, -90.4400", "St. Louis County / ZIP 63141 sector", "St. Louis County / primary ZIP 63141"]
-zillowHomeValueUsd: 653040
 ---
 
-**Engineering Notice for Creve Coeur:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Creve Coeur:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Perimeter granule carriers in Creve Coeur, MO clay soils may need lighter irrigation before application.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-A written scope helps prevent rework and mismatched expectations.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 63141.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Attic insulation disturbance in Creve Coeur, MO may indicate wildlife nesting routes.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Creve Coeur, MO, but intake notes help reduce delays.
+Attic misting in Creve Coeur, MO requires combustion air clearance verified before fans restart.
 
-Field note: Wind exposure category reviewed for ZIP sector 63167/63141.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Dispatch sectors sampled: ZIP 63167, 63141 (county grid: St. Louis County).
+Stink bug overwinter seams in Creve Coeur, MO wall restoration laps require exclusion foam rated for UV exposure.
+
+Carpenter ant frass in Creve Coeur, MO window sills may indicate moisture-softened framing.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Tip: Date bait station lids when servicing Creve Coeur, MO perimeter lines.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Risk flag: Overwatered Creve Coeur, MO planters can restart ant bridges within two weeks.
+
+State note: Creve Coeur, MO commercial kitchens may require separate documentation for audit visits.
+
+Harbor ledger 263214: frass lane, mud-tube scan, and garage jamb gap measure filed for Creve Coeur, MO at 38.6600, -90.4400.
+
+Perimeter dossier 263214: bait station anchor map and mulch bridge risk flagged for Creve Coeur, MO county St. Louis County (ZIP 63141).
+
+ZIP-corridor snapshot for Creve Coeur, MO: sampled sectors include 63167, 63141; county routing grid remains St. Louis County.
 
 Service reference: MO-63141-ac5aa105

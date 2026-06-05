@@ -11,26 +11,41 @@ lng: -84.5900
 zipSample: ["30268", "30213"]
 zipCodes: ["30268", "30213"]
 localPaths: ["Fulton County / primary ZIP 30268", "Fulton County / ZIP 30213 sector", "Fulton County / coords 33.5500, -84.5900", "Fulton County / elevation 1027 ft band", "Fulton County / ZIP 30268 sector"]
-zillowHomeValueUsd: 320041
 ---
 
-**Engineering Notice for Fairburn:** Structural loading calculated based on 1027 ft terrain assessment. Regional dispatch grid: Fulton County.
+**Engineering Notice for Fairburn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fulton County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Powderpost beetle exit holes in Fairburn, GA trim can be mistaken for dry-wood frass without magnification.
 
-Tip: request a written scope before work starts.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 30268.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: label treatment zones for occupant re-entry timing.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Fairburn, GA, but intake notes help reduce delays.
+Dry-wood termite pellets in Fairburn, GA attics may appear before exterior mud tubes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Clover mite staining on Fairburn, GA cladding service follows foundation mulch against brick ledges.
 
-Field note: Wind exposure category reviewed for ZIP sector 30213/30268.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30213/30268.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Dispatch sectors sampled: ZIP 30213, 30268 (county grid: Fulton County).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Tip: Date bait station lids when servicing Fairburn, GA perimeter lines.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+In Fairburn, GA, subterranean termite swarms often follow warm rain windows.
+
+Attic fogging in Fairburn, GA requires combustion appliance shutoff verification first.
+
+Intercept log 213255: bed bug intercept count staged before Fairburn, GA interior gel zones.
+
+Perimeter dossier 213255: bait station anchor map and mulch bridge risk flagged for Fairburn, GA county Fulton County (ZIP 30268).
+
+On-site sector marker: Fulton County / ZIP 30268 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30268-88223818

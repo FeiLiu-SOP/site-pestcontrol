@@ -11,25 +11,43 @@ lng: -75.6800
 zipSample: ["19701", "19702"]
 zipCodes: ["19701", "19702"]
 localPaths: ["New Castle County / elevation 69 ft band", "New Castle County / ZIP 19701 sector", "New Castle County / ZIP 19702 sector", "New Castle County / primary ZIP 19701", "New Castle County / coords 39.6200, -75.6800"]
-zillowHomeValueUsd: 420849
 ---
 
-**Engineering Notice for Bear:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: New Castle County.
+**Engineering Notice for Bear:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: New Castle County.
 
 
-Our service coordination centers on Bear, DE coverage windows and verified intake details.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 19701.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bear, DE, but intake notes help reduce delays.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Clover mite staining on Bear, DE wall restoration follows foundation mulch against brick ledges.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Overwatered Bear, DE planters can restart ant bridges within two weeks.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 19701.
+Humidity in Bear, DE can sustain cockroach harborages behind appliance voids.
 
-Field note: Moisture pathway inspection logged near ZIP 19701/19702 intake.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Dispatch sectors sampled: ZIP 19701, 19702 (county grid: New Castle County).
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+County grid New Castle County informs routing near ZIP 19701.
+
+Attic fogging in Bear, DE requires combustion appliance shutoff verification first.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Material note: Perimeter granules in Bear, DE may need reapplication after heavy irrigation.
+
+Zone map 632093: attic insulation disturbance trace and pantry pest source logged for Bear, DE sector 19701.
+
+Harbor ledger 632093: frass lane, mud-tube scan, and garage jamb gap measure filed for Bear, DE at 39.6200, -75.6800.
+
+ZIP-corridor snapshot for Bear, DE: sampled sectors include 19701, 19702; county routing grid remains New Castle County.
 
 Service reference: DE-19701-0525a9a9

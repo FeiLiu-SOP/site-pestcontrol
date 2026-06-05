@@ -11,26 +11,39 @@ lng: -74.0700
 zipSample: ["07399", "07308", "07097", "07303", "07305"]
 zipCodes: ["07305", "07308", "07307", "07399", "07395", "07311", "07303", "07306", "07097", "07302", "07304", "07310"]
 localPaths: ["Hudson County / ZIP 07305 sector", "Hudson County / ZIP 07303 sector", "Hudson County / ZIP 07097 sector", "Hudson County / ZIP 07308 sector", "Hudson County / ZIP 07399 sector"]
-zillowHomeValueUsd: 928927
 ---
 
-**Engineering Notice for Jersey City:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Hudson County.
+**Engineering Notice for Jersey City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hudson County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Carpenter ant frass in Jersey City, NJ window sills may indicate moisture-softened framing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Jersey City, NJ, but intake notes help reduce delays.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: What is exclusion? Without sealing entry points in Jersey City, NJ, pressure often rebuilds.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Clover mite staining on Jersey City, NJ vinyl panels follows foundation mulch against brick ledges.
 
-Our service coordination centers on Jersey City, NJ coverage windows and verified intake details.
+Drain fly biofilm in Jersey City, NJ floor drains signals grease traps need service before gel baits.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 07304/07303/07399.
+Material note: Perimeter granules in Jersey City, NJ may need reapplication after heavy irrigation.
 
-Field note: Wind exposure category reviewed for ZIP sector 07304/07303/07399.
+Stink bug overwinter seams in Jersey City, NJ wall restoration laps require exclusion foam rated for UV exposure.
 
-Dispatch sectors sampled: ZIP 07304, 07303, 07399, 07311, 07302 (county grid: Hudson County).
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Jersey City, NJ.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Dry-wood termite pellets in Jersey City, NJ attics may appear before exterior mud tubes.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 07310.
+
+FAQ: Can bed bugs spread room-to-room in Jersey City, NJ row homes? Wall voids and shared ducts accelerate transfer.
+
+Intercept log 320668: bed bug intercept count staged before Jersey City, NJ interior gel zones.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Hudson County. Reference elevation: 75 ft. Primary coordinates: 40.7200, -74.0700. ZIP sample: 07308, 07303, 07305, 07304, 07097. Service perimeter note: Coverage extends through Hudson County with dispatch centered near ZIP 07310.
 
 Service reference: NJ-07310-eeba32cc

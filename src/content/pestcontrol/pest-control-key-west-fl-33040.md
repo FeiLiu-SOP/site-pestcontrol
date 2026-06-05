@@ -11,25 +11,41 @@ lng: -81.7800
 zipSample: ["33040", "33045", "33041"]
 zipCodes: ["33041", "33045", "33040"]
 localPaths: ["Monroe County / ZIP 33041 sector", "Monroe County / ZIP 33040 sector", "Monroe County / ZIP 33045 sector", "Monroe County / coords 24.5600, -81.7800", "Monroe County / primary ZIP 33040"]
-zillowHomeValueUsd: 959835
 ---
 
-**Engineering Notice for Key West:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Monroe County.
+**Engineering Notice for Key West:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Monroe County.
 
 
-In Key West, FL, seasonal demand can change scheduling windows.
+Exclusion gaps at garage jambs in Key West, FL are common rodent access points.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33040.
+Bird mites in Key West, FL exhaust vents can persist after host nests are removed.
 
-Tip: avoid large upfront payments without milestones.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Key West, FL, but intake notes help reduce delays.
+Perimeter mulch beds in Key West, FL should be reviewed for ant bridge paths.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Connection points spot-checked where accessible (ZIP 33045/33040/33041 zone).
+Attic insulation disturbance in Key West, FL may indicate wildlife nesting routes.
 
-Dispatch sectors sampled: ZIP 33045, 33040, 33041 (county grid: Monroe County).
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Earwig harborages in Key West, FL meter boxes often follow drip irrigation overspray.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Attic fogging in Key West, FL requires combustion appliance shutoff verification first.
+
+Attic misting in Key West, FL requires combustion air clearance verified before fans restart.
+
+FAQ: Why schedule quarterly instead of monthly in Key West, FL? Species pressure and label intervals dictate cadence.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Seasonal cue 129821: cluster fly attic staging reviewed for Key West, FL soffit cavities.
+
+On-site sector marker: Monroe County / primary ZIP 33040 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33040-7fa04230

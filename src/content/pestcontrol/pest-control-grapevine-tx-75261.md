@@ -11,26 +11,43 @@ lng: -97.0700
 zipSample: ["76051", "76099", "75261"]
 zipCodes: ["76051", "75261", "76099"]
 localPaths: ["Tarrant County / primary ZIP 75261", "Tarrant County / ZIP 75261 sector", "Tarrant County / elevation 643 ft band", "Tarrant County / ZIP 76099 sector", "Tarrant County / coords 32.9300, -97.0700"]
-zillowHomeValueUsd: 548093
 ---
 
-**Engineering Notice for Grapevine:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Grapevine:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tarrant County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+State note: Grapevine, TX commercial kitchens may require separate documentation for audit visits.
 
-Tip: avoid large upfront payments without milestones.
+Drain fly biofilm in Grapevine, TX floor drains signals grease traps need service before gel baits.
 
-We coordinate local dispatch coverage around Grapevine, TX and nearby ZIP sectors.
+Step: separate bait rotation schedules from crack-and-crevice applications in Grapevine, TX.
 
-Tip: confirm licensing and insurance before approving work.
+Attic misting in Grapevine, TX requires combustion air clearance verified before fans restart.
 
-Field note: Access points and staging constraints recorded for ZIP 76099/75261/76051 coverage.
+Stored cardboard in Grapevine, TX garages can accelerate pantry pest cycles.
 
-Field note: Connection points spot-checked where accessible (ZIP 76099/75261/76051 zone).
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Dispatch sectors sampled: ZIP 76099, 75261, 76051 (county grid: Tarrant County).
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 75261.
+
+Earwig harborages in Grapevine, TX meter boxes often follow drip irrigation overspray.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Clover mite staining on Grapevine, TX wall restoration follows foundation mulch against brick ledges.
+
+In Grapevine, TX, subterranean termite swarms often follow warm rain windows.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Exclusion audit 640318: exclusion mesh gauge and rodent runway grease mark reviewed for Grapevine, TX at 32.9300/-97.0700.
+
+Zone map 640318: attic insulation disturbance trace and pantry pest source logged for Grapevine, TX sector 75261.
+
+On-site sector marker: Tarrant County / coords 32.9300, -97.0700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75261-973d8197

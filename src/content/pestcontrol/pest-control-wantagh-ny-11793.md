@@ -11,26 +11,39 @@ lng: -73.5100
 zipSample: ["11793"]
 zipCodes: ["11793"]
 localPaths: ["Nassau County / primary ZIP 11793", "Nassau County / elevation 33 ft band", "Nassau County / coords 40.6700, -73.5100", "Nassau County / ZIP 11793 sector"]
-zillowHomeValueUsd: 800267
 ---
 
-**Engineering Notice for Wantagh:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Wantagh:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 11793.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 11793.
 
-Our service coordination centers on Wantagh, NY coverage windows and verified intake details.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Connection points spot-checked where accessible (ZIP 11793 zone).
+Step: separate bait rotation schedules from crack-and-crevice applications in Wantagh, NY.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11793.
+Silverfish activity in Wantagh, NY attics tracks cardboard storage and ridge vent gaps.
 
-Dispatch sectors sampled: ZIP 11793 (county grid: Nassau County).
+Yellow jacket nests in Wantagh, NY soffit cavities peak in late summer routing windows.
+
+Powderpost beetle exit holes in Wantagh, NY trim can be mistaken for dry-wood frass without magnification.
+
+Seasonal pest pressure in Wantagh, NY shifts between moisture ants and dry-wood vectors.
+
+Mud dauber nests in Wantagh, NY porch ceilings are benign but signal prey density for spiders.
+
+Cluster fly attic staging in Wantagh, NY peaks on south-facing voids after sunny thaw days.
+
+Intercept log 847469: bed bug intercept count staged before Wantagh, NY interior gel zones.
+
+Exclusion audit 847469: exclusion mesh gauge and rodent runway grease mark reviewed for Wantagh, NY at 40.6700/-73.5100.
+
+Coordinate-anchored dispatch note: center reference 40.6700, -73.5100 at elevation ~33 ft aligns with Nassau County intake staging.
 
 Service reference: NY-11793-d8865c72

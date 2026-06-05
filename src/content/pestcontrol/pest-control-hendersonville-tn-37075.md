@@ -11,25 +11,39 @@ lng: -86.6000
 zipSample: ["37075", "37077"]
 zipCodes: ["37077", "37075"]
 localPaths: ["Sumner County / ZIP 37077 sector", "Sumner County / elevation 502 ft band", "Sumner County / ZIP 37075 sector", "Sumner County / primary ZIP 37075", "Sumner County / coords 36.3100, -86.6000"]
-zillowHomeValueUsd: 515376
 ---
 
-**Engineering Notice for Hendersonville:** Structural loading calculated based on 502 ft terrain assessment. Regional dispatch grid: Sumner County.
+**Engineering Notice for Hendersonville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sumner County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 37075.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: request a written scope before work starts.
+Material note: Perimeter granules in Hendersonville, TN may need reapplication after heavy irrigation.
 
-We coordinate local dispatch coverage around Hendersonville, TN and nearby ZIP sectors.
+Bird mites in Hendersonville, TN exhaust vents can persist after host nests are removed.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 37075.
+Drain fly biofilm in Hendersonville, TN floor drains signals grease traps need service before gel baits.
 
-Field note: Access points and staging constraints recorded for ZIP 37075/37077 coverage.
+Yellow jacket nests in Hendersonville, TN soffit cavities peak in late summer routing windows.
 
-Dispatch sectors sampled: ZIP 37075, 37077 (county grid: Sumner County).
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Risk flag: In Hendersonville, TN, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Tip: Date bait station lids when servicing Hendersonville, TN perimeter lines.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Step: map entry points with photo logs before sealing.
+
+IGR packets for Hendersonville, TN roach cycles should be dated on station lids.
+
+Powderpost beetle exit holes in Hendersonville, TN trim can be mistaken for dry-wood frass without magnification.
+
+Perimeter dossier 445909: bait station anchor map and mulch bridge risk flagged for Hendersonville, TN county Sumner County (ZIP 37075).
+
+On-site sector marker: Sumner County / ZIP 37075 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37075-a07bad12

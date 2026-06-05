@@ -11,26 +11,41 @@ lng: -104.2400
 zipSample: ["88220", "88221"]
 zipCodes: ["88220", "88221"]
 localPaths: ["Eddy County / ZIP 88220 sector", "Eddy County / primary ZIP 88220", "Eddy County / elevation 3127 ft band", "Eddy County / coords 32.4000, -104.2400", "Eddy County / ZIP 88221 sector"]
-zillowHomeValueUsd: 251237
 ---
 
-**Engineering Notice for Carlsbad:** Structural loading calculated based on 3127 ft terrain assessment. Regional dispatch grid: Eddy County.
+**Engineering Notice for Carlsbad:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Eddy County.
 
 
-Tip: request a written scope before work starts.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Carlsbad, NM.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: map entry points with photo logs before sealing.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Cluster fly attic staging in Carlsbad, NM peaks on south-facing voids after sunny thaw days.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Carlsbad, NM, but intake notes help reduce delays.
+Perimeter granule carriers in Carlsbad, NM clay soils may need lighter irrigation before application.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Spider populations in Carlsbad, NM eaves can signal insect prey density.
 
-Field note: Moisture pathway inspection logged near ZIP 88221/88220 intake.
+In Carlsbad, NM, subterranean termite swarms often follow warm rain windows.
 
-Field note: Connection points spot-checked where accessible (ZIP 88221/88220 zone).
+Yellow jacket nests in Carlsbad, NM soffit cavities peak in late summer routing windows.
 
-Dispatch sectors sampled: ZIP 88221, 88220 (county grid: Eddy County).
+Carpenter ant frass in Carlsbad, NM window sills may indicate moisture-softened framing.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Exclusion gaps at garage jambs in Carlsbad, NM are common rodent access points.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+County grid Eddy County informs routing near ZIP 88220.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Intercept log 372618: bed bug intercept count staged before Carlsbad, NM interior gel zones.
+
+Exclusion audit 372618: exclusion mesh gauge and rodent runway grease mark reviewed for Carlsbad, NM at 32.4000/-104.2400.
+
+On-site sector marker: Eddy County / elevation 3127 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-88220-70de35ac

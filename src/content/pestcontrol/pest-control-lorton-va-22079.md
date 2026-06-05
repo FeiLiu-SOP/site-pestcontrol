@@ -11,24 +11,39 @@ lng: -77.2200
 zipSample: ["22079", "22199"]
 zipCodes: ["22079", "22199"]
 localPaths: ["Fairfax County / ZIP 22199 sector", "Fairfax County / primary ZIP 22079", "Fairfax County / ZIP 22079 sector", "Fairfax County / elevation 112 ft band", "Fairfax County / coords 38.7000, -77.2200"]
-zillowHomeValueUsd: 684747
 ---
 
-**Engineering Notice for Lorton:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Lorton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Wildlife odors in Lorton, VA crawlspaces may attract secondary pest activity.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can bed bugs spread room-to-room in Lorton, VA row homes? Wall voids and shared ducts accelerate transfer.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Overwatered Lorton, VA planters can restart ant bridges within two weeks.
 
-In Lorton, VA, seasonal demand can change scheduling windows.
+Step: record station placement maps for follow-up visits.
 
-Tip: address recurring issues early to prevent bigger damage.
+Attic fogging in Lorton, VA requires combustion appliance shutoff verification first.
 
-Field note: Moisture pathway inspection logged near ZIP 22079/22199 intake.
+Mud dauber nests in Lorton, VA porch ceilings are benign but signal prey density for spiders.
 
-Dispatch sectors sampled: ZIP 22079, 22199 (county grid: Fairfax County).
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Humidity in Lorton, VA can sustain cockroach harborages behind appliance voids.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Silverfish activity in Lorton, VA attics tracks cardboard storage and ridge vent gaps.
+
+We coordinate Lorton, VA pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Dry-wood termite pellets in Lorton, VA attics may appear before exterior mud tubes.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 22079.
+
+Species trace 405206: re-entry interval label and conducive moisture note keyed to Lorton, VA elevation 112 ft.
+
+On-site sector marker: Fairfax County / primary ZIP 22079 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22079-7ffaa476

@@ -11,27 +11,39 @@ lng: -80.4900
 zipSample: ["28144", "28145", "28147", "28146"]
 zipCodes: ["28144", "28145", "28146", "28147"]
 localPaths: ["Rowan County / primary ZIP 28146", "Rowan County / ZIP 28146 sector", "Rowan County / ZIP 28144 sector", "Rowan County / ZIP 28147 sector", "Rowan County / elevation 715 ft band"]
-zillowHomeValueUsd: 302595
 ---
 
-**Engineering Notice for Salisbury:** Structural loading calculated based on 715 ft terrain assessment. Regional dispatch grid: Rowan County.
+**Engineering Notice for Salisbury:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rowan County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Why schedule quarterly instead of monthly in Salisbury, NC? Species pressure and label intervals dictate cadence.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 28146.
+Tip: Log pet access routes when bait stations are placed.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Attic misting in Salisbury, NC requires combustion air clearance verified before fans restart.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Cluster fly attic staging in Salisbury, NC peaks on south-facing voids after sunny thaw days.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 28146.
 
-Field note: Moisture pathway inspection logged near ZIP 28147/28144/28145 intake.
+Wildlife odors in Salisbury, NC crawlspaces may attract secondary pest activity.
 
-Field note: Wind exposure category reviewed for ZIP sector 28147/28144/28145.
+Request an inspection with species ID before treatment. Serving ZIP Code: 28146.
 
-Dispatch sectors sampled: ZIP 28147, 28144, 28145, 28146 (county grid: Rowan County).
+Tip: Date bait station lids when servicing Salisbury, NC perimeter lines.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Salisbury, NC.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Perimeter granule carriers in Salisbury, NC clay soils may need lighter irrigation before application.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Species trace 134181: re-entry interval label and conducive moisture note keyed to Salisbury, NC elevation 715 ft.
+
+ZIP-corridor snapshot for Salisbury, NC: sampled sectors include 28144, 28145, 28147, 28146; county routing grid remains Rowan County.
 
 Service reference: NC-28146-7d621ad5

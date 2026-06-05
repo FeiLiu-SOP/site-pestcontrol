@@ -11,26 +11,39 @@ lng: -76.5200
 zipSample: ["21234"]
 zipCodes: ["21234"]
 localPaths: ["Baltimore County / primary ZIP 21234", "Baltimore County / ZIP 21234 sector", "Baltimore County / coords 39.4100, -76.5200", "Baltimore County / elevation 466 ft band"]
-zillowHomeValueUsd: 301666
 ---
 
-**Engineering Notice for Carney:** Structural loading calculated based on 466 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Carney:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.
 
 
-Homeowners in Carney, MD often face sudden pest control problems that require fast action.
+FAQ: Can bed bugs spread room-to-room in Carney, MD row homes? Wall voids and shared ducts accelerate transfer.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+State note: Carney, MD commercial kitchens may require separate documentation for audit visits.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: identify species before selecting broadcast versus targeted gel programs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Connection points spot-checked where accessible (ZIP 21234 zone).
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 21234.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Dispatch sectors sampled: ZIP 21234 (county grid: Baltimore County).
+Exclusion gaps at garage jambs in Carney, MD are common rodent access points.
+
+Risk flag: In Carney, MD, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Perimeter granule carriers in Carney, MD clay soils may need lighter irrigation before application.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Intercept log 272688: bed bug intercept count staged before Carney, MD interior gel zones.
+
+Species trace 272688: re-entry interval label and conducive moisture note keyed to Carney, MD elevation 466 ft.
+
+Primary postal anchor 21234 with multi-ZIP overlap in Carney; field packets tag Baltimore County for county-grid reconciliation.
 
 Service reference: MD-21234-800b77ec

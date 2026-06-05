@@ -11,27 +11,43 @@ lng: -76.7300
 zipSample: ["21207", "21208"]
 zipCodes: ["21207", "21208"]
 localPaths: ["Baltimore County / elevation 390 ft band", "Baltimore County / coords 39.3500, -76.7300", "Baltimore County / ZIP 21207 sector", "Baltimore County / ZIP 21208 sector", "Baltimore County / primary ZIP 21208"]
-zillowHomeValueUsd: 374174
 ---
 
-**Engineering Notice for Lochearn:** Structural loading calculated based on 390 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Lochearn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Perimeter granule carriers in Lochearn, MD clay soils may need lighter irrigation before application.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Dry-wood termite pellets in Lochearn, MD attics may appear before exterior mud tubes.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 21208.
+Request an inspection with species ID before treatment. Serving ZIP Code: 21208.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: record station placement maps for follow-up visits.
 
-We coordinate local dispatch coverage around Lochearn, MD and nearby ZIP sectors.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 21208/21207.
+Yellow jacket nests in Lochearn, MD soffit cavities peak in late summer routing windows.
 
-Field note: Access points and staging constraints recorded for ZIP 21208/21207 coverage.
+Seasonal pest pressure in Lochearn, MD shifts between moisture ants and dry-wood vectors.
 
-Dispatch sectors sampled: ZIP 21208, 21207 (county grid: Baltimore County).
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Monitoring boards in Lochearn, MD crawlspaces stay 72 hours before snap traps are reset.
+
+In Lochearn, MD, subterranean termite swarms often follow warm rain windows.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Lochearn, MD.
+
+Mud dauber nests in Lochearn, MD porch ceilings are benign but signal prey density for spiders.
+
+Flea pupae survive vacuuming in Lochearn, MD carpet fibers unless heat treatment follows.
+
+Zone map 156929: attic insulation disturbance trace and pantry pest source logged for Lochearn, MD sector 21208.
+
+Seasonal cue 156929: cluster fly attic staging reviewed for Lochearn, MD soffit cavities.
+
+On-site sector marker: Baltimore County / elevation 390 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21208-b2034ec2

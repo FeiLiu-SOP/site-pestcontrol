@@ -11,24 +11,39 @@ lng: -97.6400
 zipSample: ["73008"]
 zipCodes: ["73008"]
 localPaths: ["Oklahoma County / elevation 1332 ft band", "Oklahoma County / primary ZIP 73008", "Oklahoma County / ZIP 73008 sector", "Oklahoma County / coords 35.5100, -97.6400"]
-zillowHomeValueUsd: 178849
 ---
 
-**Engineering Notice for Bethany:** Structural loading calculated based on 1332 ft terrain assessment. Regional dispatch grid: Oklahoma County.
+**Engineering Notice for Bethany:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oklahoma County.
 
 
-Tip: avoid large upfront payments without milestones.
+Carpenter ant frass in Bethany, OK window sills may indicate moisture-softened framing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bethany, OK, but intake notes help reduce delays.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 73008.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: label treatment zones for occupant re-entry timing.
 
-Field note: Wind exposure category reviewed for ZIP sector 73008.
+FAQ: Can bed bugs spread room-to-room in Bethany, OK row homes? Wall voids and shared ducts accelerate transfer.
 
-Dispatch sectors sampled: ZIP 73008 (county grid: Oklahoma County).
+Tip: Keep pet food elevated and sealed between service visits.
+
+Silverfish activity in Bethany, OK attics tracks cardboard storage and ridge vent gaps.
+
+Mud dauber nests in Bethany, OK porch ceilings are benign but signal prey density for spiders.
+
+Request an inspection with species ID before treatment. Serving ZIP Code: 73008.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Harbor ledger 343890: frass lane, mud-tube scan, and garage jamb gap measure filed for Bethany, OK at 35.5100, -97.6400.
+
+Intercept log 343890: bed bug intercept count staged before Bethany, OK interior gel zones.
+
+Primary postal anchor 73008 with multi-ZIP overlap in Bethany; field packets tag Oklahoma County for county-grid reconciliation.
 
 Service reference: OK-73008-41837cc0

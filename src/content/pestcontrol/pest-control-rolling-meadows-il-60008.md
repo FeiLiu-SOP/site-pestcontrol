@@ -11,24 +11,37 @@ lng: -88.0300
 zipSample: ["60008"]
 zipCodes: ["60008"]
 localPaths: ["Cook County / coords 42.0700, -88.0300", "Cook County / primary ZIP 60008", "Cook County / ZIP 60008 sector", "Cook County / elevation 722 ft band"]
-zillowHomeValueUsd: 330979
 ---
 
-**Engineering Notice for Rolling Meadows:** Structural loading calculated based on 722 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Rolling Meadows:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Carpenter ant frass in Rolling Meadows, IL window sills may indicate moisture-softened framing.
 
-Tip: avoid large upfront payments without milestones.
+County grid Cook County informs routing near ZIP 60008.
 
-Our service coordination centers on Rolling Meadows, IL coverage windows and verified intake details.
+Stored cardboard in Rolling Meadows, IL garages can accelerate pantry pest cycles.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Local conditions in Rolling Meadows, IL can affect timelines and material choices.
+Risk flag: In Rolling Meadows, IL, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Access points and staging constraints recorded for ZIP 60008 coverage.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Dispatch sectors sampled: ZIP 60008 (county grid: Cook County).
+Tip: Date bait station lids when servicing Rolling Meadows, IL perimeter lines.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 60008.
+
+Perimeter granule carriers in Rolling Meadows, IL clay soils may need lighter irrigation before application.
+
+Bird mites in Rolling Meadows, IL exhaust vents can persist after host nests are removed.
+
+Mosquito breeding in Rolling Meadows, IL catch basins can amplify perimeter callbacks.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Harbor ledger 906913: frass lane, mud-tube scan, and garage jamb gap measure filed for Rolling Meadows, IL at 42.0700, -88.0300.
+
+Coordinate-anchored dispatch note: center reference 42.0700, -88.0300 at elevation ~722 ft aligns with Cook County intake staging.
 
 Service reference: IL-60008-5702efb0

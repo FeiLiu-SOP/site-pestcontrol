@@ -11,26 +11,39 @@ lng: -91.7400
 zipSample: ["72145", "72143", "72149"]
 zipCodes: ["72145", "72143", "72149"]
 localPaths: ["White County / primary ZIP 72143", "White County / ZIP 72145 sector", "White County / ZIP 72143 sector", "White County / elevation 233 ft band", "White County / coords 35.2400, -91.7400"]
-zillowHomeValueUsd: 217343
 ---
 
-**Engineering Notice for Searcy:** Structural loading calculated based on 233 ft terrain assessment. Regional dispatch grid: White County.
+**Engineering Notice for Searcy:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: White County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Monitoring boards in Searcy, AR crawlspaces stay 72 hours before snap traps are reset.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Searcy, AR, but intake notes help reduce delays.
+State note: Searcy, AR commercial kitchens may require separate documentation for audit visits.
 
-In Searcy, AR, seasonal demand can change scheduling windows.
+Perimeter granule carriers in Searcy, AR clay soils may need lighter irrigation before application.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Seasonal pest pressure in Searcy, AR shifts between moisture ants and dry-wood vectors.
 
-Tip: compare at least two estimates for scope and timeline.
+Perimeter mulch beds in Searcy, AR should be reviewed for ant bridge paths.
 
-Field note: Moisture pathway inspection logged near ZIP 72145/72143/72149 intake.
+Earwig harborages in Searcy, AR meter boxes often follow drip irrigation overspray.
 
-Field note: Access points and staging constraints recorded for ZIP 72145/72143/72149 coverage.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Dispatch sectors sampled: ZIP 72145, 72143, 72149 (county grid: White County).
+Bird mites in Searcy, AR exhaust vents can persist after host nests are removed.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Searcy, AR.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 72143.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Wildlife odors in Searcy, AR crawlspaces may attract secondary pest activity.
+
+Intercept log 880528: bed bug intercept count staged before Searcy, AR interior gel zones.
+
+On-site sector marker: White County / ZIP 72145 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-72143-f48b91e5

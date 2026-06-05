@@ -11,26 +11,43 @@ lng: -84.4700
 zipSample: ["30215", "30214"]
 zipCodes: ["30215", "30214"]
 localPaths: ["Fayette County / ZIP 30215 sector", "Fayette County / coords 33.4500, -84.4700", "Fayette County / ZIP 30214 sector", "Fayette County / primary ZIP 30215", "Fayette County / elevation 883 ft band"]
-zillowHomeValueUsd: 491804
 ---
 
-**Engineering Notice for Fayetteville:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Fayette County.
+**Engineering Notice for Fayetteville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fayette County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Silverfish activity in Fayetteville, GA attics tracks cardboard storage and ridge vent gaps.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Fayetteville, GA, but intake notes help reduce delays.
+Perimeter mulch beds in Fayetteville, GA should be reviewed for ant bridge paths.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-Our service coordination centers on Fayetteville, GA coverage windows and verified intake details.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Structured milestones protect both sides when scheduling work.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Field note: Moisture pathway inspection logged near ZIP 30215/30214 intake.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Field note: Wind exposure category reviewed for ZIP sector 30215/30214.
+Request an inspection with species ID before treatment. Serving ZIP Code: 30215.
 
-Dispatch sectors sampled: ZIP 30215, 30214 (county grid: Fayette County).
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Stink bug overwinter seams in Fayetteville, GA exterior cladding laps require exclusion foam rated for UV exposure.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Cluster fly attic staging in Fayetteville, GA peaks on south-facing voids after sunny thaw days.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 30215.
+
+Bird mites in Fayetteville, GA exhaust vents can persist after host nests are removed.
+
+Intercept log 241097: bed bug intercept count staged before Fayetteville, GA interior gel zones.
+
+Perimeter dossier 241097: bait station anchor map and mulch bridge risk flagged for Fayetteville, GA county Fayette County (ZIP 30215).
+
+ZIP-corridor snapshot for Fayetteville, GA: sampled sectors include 30215, 30214; county routing grid remains Fayette County.
 
 Service reference: GA-30215-44aee4e8

@@ -11,24 +11,39 @@ lng: -73.7000
 zipSample: ["11002", "11001"]
 zipCodes: ["11002", "11001"]
 localPaths: ["Nassau County / ZIP 11001 sector", "Nassau County / elevation 92 ft band", "Nassau County / ZIP 11002 sector", "Nassau County / coords 40.7200, -73.7000", "Nassau County / primary ZIP 11001"]
-zillowHomeValueUsd: 850821
 ---
 
-**Engineering Notice for Floral Park:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Floral Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: request a written scope before work starts.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: separate bait rotation schedules from crack-and-crevice applications in Floral Park, NY.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Yellow jacket nests in Floral Park, NY soffit cavities peak in late summer routing windows.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11002/11001.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Dispatch sectors sampled: ZIP 11002, 11001 (county grid: Nassau County).
+Tip: Trim vegetation 12 inches from cladding service to reduce ant bridges.
+
+Cluster fly attic staging in Floral Park, NY peaks on south-facing voids after sunny thaw days.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Floral Park, NY.
+
+Dry-wood termite pellets in Floral Park, NY attics may appear before exterior mud tubes.
+
+Risk flag: Overwatered Floral Park, NY planters can restart ant bridges within two weeks.
+
+Attic fogging in Floral Park, NY requires combustion appliance shutoff verification first.
+
+County grid Nassau County informs routing near ZIP 11001.
+
+Exclusion audit 249871: exclusion mesh gauge and rodent runway grease mark reviewed for Floral Park, NY at 40.7200/-73.7000.
+
+On-site sector marker: Nassau County / ZIP 11002 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11001-d06b87fe

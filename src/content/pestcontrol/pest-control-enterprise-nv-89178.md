@@ -11,26 +11,39 @@ lng: -115.2300
 zipSample: ["89183", "89119", "89148", "89178", "89123"]
 zipCodes: ["89113", "89141", "89183", "89139", "89119", "89148", "89178", "89118", "89123"]
 localPaths: ["Clark County / primary ZIP 89178", "Clark County / elevation 2464 ft band", "Clark County / ZIP 89123 sector", "Clark County / ZIP 89148 sector", "Clark County / ZIP 89119 sector"]
-zillowHomeValueUsd: 480974
 ---
 
-**Engineering Notice for Enterprise:** Structural loading calculated based on 2464 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Enterprise:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 89178.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why schedule quarterly instead of monthly in Enterprise, NV? Species pressure and label intervals dictate cadence.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 89178.
+Drain fly biofilm in Enterprise, NV floor drains signals grease traps need service before gel baits.
 
-We coordinate local dispatch coverage around Enterprise, NV and nearby ZIP sectors.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Enterprise, NV.
 
-Field note: Connection points spot-checked where accessible (ZIP 89141/89148/89118 zone).
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Dispatch sectors sampled: ZIP 89141, 89148, 89118, 89119, 89123 (county grid: Clark County).
+Attic misting in Enterprise, NV requires combustion air clearance verified before fans restart.
+
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Species trace 838276: re-entry interval label and conducive moisture note keyed to Enterprise, NV elevation 2464 ft.
+
+Zone map 838276: attic insulation disturbance trace and pantry pest source logged for Enterprise, NV sector 89178.
+
+On-site sector marker: Clark County / ZIP 89118 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NV-89178-a9de9555

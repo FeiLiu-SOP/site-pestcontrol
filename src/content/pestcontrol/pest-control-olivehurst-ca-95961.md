@@ -11,26 +11,37 @@ lng: -121.5600
 zipSample: ["95961"]
 zipCodes: ["95961"]
 localPaths: ["Yuba County / primary ZIP 95961", "Yuba County / coords 39.0800, -121.5600", "Yuba County / elevation 56 ft band", "Yuba County / ZIP 95961 sector"]
-zillowHomeValueUsd: 448206
 ---
 
-**Engineering Notice for Olivehurst:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Yuba County.
+**Engineering Notice for Olivehurst:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Yuba County.
 
 
-Tip: request a written scope before work starts.
+Tip: Date bait station lids when servicing Olivehurst, CA perimeter lines.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-We coordinate local dispatch coverage around Olivehurst, CA and nearby ZIP sectors.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Attic misting in Olivehurst, CA requires combustion air clearance verified before fans restart.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Bird mites in Olivehurst, CA exhaust vents can persist after host nests are removed.
 
-Field note: Moisture pathway inspection logged near ZIP 95961 intake.
+Stored cardboard in Olivehurst, CA garages can accelerate pantry pest cycles.
 
-Field note: Connection points spot-checked where accessible (ZIP 95961 zone).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Dispatch sectors sampled: ZIP 95961 (county grid: Yuba County).
+Humidity in Olivehurst, CA can sustain cockroach harborages behind appliance voids.
+
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 95961.
+
+Mud dauber nests in Olivehurst, CA porch ceilings are benign but signal prey density for spiders.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+FAQ: Why schedule quarterly instead of monthly in Olivehurst, CA? Species pressure and label intervals dictate cadence.
+
+Intercept log 213180: bed bug intercept count staged before Olivehurst, CA interior gel zones.
+
+On-site sector marker: Yuba County / elevation 56 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95961-64b7e700

@@ -11,24 +11,37 @@ lng: -111.0000
 zipSample: ["85622", "85614"]
 zipCodes: ["85614", "85622"]
 localPaths: ["Pima County / primary ZIP 85622", "Pima County / ZIP 85622 sector", "Pima County / ZIP 85614 sector", "Pima County / elevation 2930 ft band", "Pima County / coords 31.8400, -111.0000"]
-zillowHomeValueUsd: 346702
 ---
 
-**Engineering Notice for Green Valley:** Structural loading calculated based on 2930 ft terrain assessment. Regional dispatch grid: Pima County.
+**Engineering Notice for Green Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pima County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 85622.
 
-Tip: request a written scope before work starts.
+Risk flag: Overwatered Green Valley, AZ planters can restart ant bridges within two weeks.
 
-In Green Valley, AZ, urgent pest control issues can escalate quickly.
+Drain fly biofilm in Green Valley, AZ floor drains signals grease traps need service before gel baits.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Attic fogging in Green Valley, AZ requires combustion appliance shutoff verification first.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Green Valley, AZ, but intake notes help reduce delays.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Field note: Wind exposure category reviewed for ZIP sector 85622/85614.
+Earwig harborages in Green Valley, AZ meter boxes often follow drip irrigation overspray.
 
-Dispatch sectors sampled: ZIP 85622, 85614 (county grid: Pima County).
+Bird mites in Green Valley, AZ exhaust vents can persist after host nests are removed.
+
+Dry-wood termite pellets in Green Valley, AZ attics may appear before exterior mud tubes.
+
+Silverfish activity in Green Valley, AZ attics tracks cardboard storage and ridge vent gaps.
+
+Flea pupae survive vacuuming in Green Valley, AZ carpet fibers unless heat treatment follows.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Green Valley, AZ, pressure often rebuilds.
+
+Species trace 861215: re-entry interval label and conducive moisture note keyed to Green Valley, AZ elevation 2930 ft.
+
+On-site sector marker: Pima County / ZIP 85614 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85622-898c4bba

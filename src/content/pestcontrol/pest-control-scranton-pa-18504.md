@@ -11,26 +11,39 @@ lng: -75.6600
 zipSample: ["18509", "18510", "18503", "18507", "18515"]
 zipCodes: ["18515", "18540", "18508", "18509", "18504", "18503", "18505", "18510", "18507"]
 localPaths: ["Lackawanna County / ZIP 18509 sector", "Lackawanna County / ZIP 18503 sector", "Lackawanna County / ZIP 18515 sector", "Lackawanna County / ZIP 18510 sector", "Lackawanna County / coords 41.4000, -75.6600"]
-zillowHomeValueUsd: 177384
 ---
 
-**Engineering Notice for Scranton:** Structural loading calculated based on 748 ft terrain assessment. Regional dispatch grid: Lackawanna County.
+**Engineering Notice for Scranton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lackawanna County.
 
 
-Tip: avoid large upfront payments without milestones.
+Yellow jacket nests in Scranton, PA soffit cavities peak in late summer routing windows.
 
-Tip: request a written scope before work starts.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-We coordinate local dispatch coverage around Scranton, PA and nearby ZIP sectors.
+FAQ: Why schedule quarterly instead of monthly in Scranton, PA? Species pressure and label intervals dictate cadence.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Keep pet food elevated and sealed between service visits.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Flea pupae survive vacuuming in Scranton, PA carpet fibers unless heat treatment follows.
 
-Field note: Wind exposure category reviewed for ZIP sector 18507/18504/18505.
+Humidity in Scranton, PA can sustain cockroach harborages behind appliance voids.
 
-Field note: Connection points spot-checked where accessible (ZIP 18507/18504/18505 zone).
+FAQ: Why do pests return after spraying? Without sealing entry points in Scranton, PA, pressure often rebuilds.
 
-Dispatch sectors sampled: ZIP 18507, 18504, 18505, 18503, 18510 (county grid: Lackawanna County).
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 18504.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Powderpost beetle exit holes in Scranton, PA trim can be mistaken for dry-wood frass without magnification.
+
+Clover mite staining on Scranton, PA vinyl panels follows foundation mulch against brick ledges.
+
+Harbor ledger 803625: frass lane, mud-tube scan, and garage jamb gap measure filed for Scranton, PA at 41.4000, -75.6600.
+
+Intercept log 803625: bed bug intercept count staged before Scranton, PA interior gel zones.
+
+Primary postal anchor 18504 with multi-ZIP overlap in Scranton; field packets tag Lackawanna County for county-grid reconciliation.
 
 Service reference: PA-18504-448637be

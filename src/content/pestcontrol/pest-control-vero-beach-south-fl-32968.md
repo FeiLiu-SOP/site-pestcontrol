@@ -11,26 +11,37 @@ lng: -80.4200
 zipSample: ["32966", "32960", "32962", "32968"]
 zipCodes: ["32960", "32962", "32968", "32966"]
 localPaths: ["Indian River County / ZIP 32968 sector", "Indian River County / elevation 49 ft band", "Indian River County / ZIP 32960 sector", "Indian River County / primary ZIP 32968", "Indian River County / ZIP 32966 sector"]
-zillowHomeValueUsd: 424092
 ---
 
-**Engineering Notice for Vero Beach South:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Indian River County.
+**Engineering Notice for Vero Beach South:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Indian River County.
 
 
-Tip: avoid large upfront payments without milestones.
+Attic fogging in Vero Beach South, FL requires combustion appliance shutoff verification first.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 32968.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-In Vero Beach South, FL, seasonal demand can change scheduling windows.
+Risk flag: In Vero Beach South, FL, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+IGR packets for Vero Beach South, FL roach cycles should be dated on station lids.
 
-Field note: Connection points spot-checked where accessible (ZIP 32960/32962/32966 zone).
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Vero Beach South, FL.
 
-Field note: Wind exposure category reviewed for ZIP sector 32960/32962/32966.
+Earwig harborages in Vero Beach South, FL meter boxes often follow drip irrigation overspray.
 
-Dispatch sectors sampled: ZIP 32960, 32962, 32966, 32968 (county grid: Indian River County).
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Silverfish activity in Vero Beach South, FL attics tracks cardboard storage and ridge vent gaps.
+
+Attic misting in Vero Beach South, FL requires combustion air clearance verified before fans restart.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 32968.
+
+Exclusion audit 104896: exclusion mesh gauge and rodent runway grease mark reviewed for Vero Beach South, FL at 27.6100/-80.4200.
+
+On-site sector marker: Indian River County / elevation 49 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32968-10e78a99

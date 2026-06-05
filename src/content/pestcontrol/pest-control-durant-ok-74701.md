@@ -11,26 +11,43 @@ lng: -96.3900
 zipSample: ["74701"]
 zipCodes: ["74701"]
 localPaths: ["Bryan County / primary ZIP 74701", "Bryan County / elevation 686 ft band", "Bryan County / coords 33.9900, -96.3900", "Bryan County / ZIP 74701 sector"]
-zillowHomeValueUsd: 221524
 ---
 
-**Engineering Notice for Durant:** Structural loading calculated based on 686 ft terrain assessment. Regional dispatch grid: Bryan County.
+**Engineering Notice for Durant:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bryan County.
 
 
-Tip: avoid large upfront payments without milestones.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Durant, OK, but intake notes help reduce delays.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Fire ant mounds in Durant, OK drive seams need granule rotation after irrigation events.
 
-Our service coordination centers on Durant, OK coverage windows and verified intake details.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Field note: Connection points spot-checked where accessible (ZIP 74701 zone).
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Field note: Moisture pathway inspection logged near ZIP 74701 intake.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Dispatch sectors sampled: ZIP 74701 (county grid: Bryan County).
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Durant, OK.
+
+Stink bug overwinter seams in Durant, OK exterior cladding laps require exclusion foam rated for UV exposure.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 74701.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Mud dauber nests in Durant, OK porch ceilings are benign but signal prey density for spiders.
+
+Intercept log 670818: bed bug intercept count staged before Durant, OK interior gel zones.
+
+Seasonal cue 670818: cluster fly attic staging reviewed for Durant, OK soffit cavities.
+
+On-site sector marker: Bryan County / primary ZIP 74701 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-74701-d2bda260

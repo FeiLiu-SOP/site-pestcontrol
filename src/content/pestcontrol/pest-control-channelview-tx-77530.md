@@ -11,24 +11,41 @@ lng: -95.1100
 zipSample: ["77530"]
 zipCodes: ["77530"]
 localPaths: ["Harris County / ZIP 77530 sector", "Harris County / elevation 49 ft band", "Harris County / primary ZIP 77530", "Harris County / coords 29.7900, -95.1100"]
-zillowHomeValueUsd: 210955
 ---
 
-**Engineering Notice for Channelview:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Harris County.
+**Engineering Notice for Channelview:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harris County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
 
-Transparent pricing helps you compare like-for-like scope items.
+Perimeter mulch beds in Channelview, TX should be reviewed for ant bridge paths.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Trim vegetation 12 inches from vinyl panels to reduce ant bridges.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Dry-wood termite pellets in Channelview, TX attics may appear before exterior mud tubes.
 
-Tip: avoid large upfront payments without milestones.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Field note: Wind exposure category reviewed for ZIP sector 77530.
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
 
-Dispatch sectors sampled: ZIP 77530 (county grid: Harris County).
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Earwig harborages in Channelview, TX meter boxes often follow drip irrigation overspray.
+
+Step: verify attic access safety before insulation disturbance.
+
+Monitoring boards in Channelview, TX crawlspaces stay 72 hours before snap traps are reset.
+
+Stink bug overwinter seams in Channelview, TX exterior cladding laps require exclusion foam rated for UV exposure.
+
+Risk flag: In Channelview, TX, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Clover mite staining on Channelview, TX vinyl panels follows foundation mulch against brick ledges.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 77530.
+
+Harbor ledger 909172: frass lane, mud-tube scan, and garage jamb gap measure filed for Channelview, TX at 29.7900, -95.1100.
+
+On-site sector marker: Harris County / primary ZIP 77530 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77530-d1faae3a

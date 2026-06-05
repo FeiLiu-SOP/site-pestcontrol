@@ -11,24 +11,39 @@ lng: -76.7400
 zipSample: ["21250", "21228"]
 zipCodes: ["21228", "21250"]
 localPaths: ["Baltimore County / ZIP 21228 sector", "Baltimore County / coords 39.2600, -76.7400", "Baltimore County / ZIP 21250 sector", "Baltimore County / elevation 482 ft band", "Baltimore County / primary ZIP 21250"]
-zillowHomeValueUsd: 425880
 ---
 
-**Engineering Notice for Catonsville:** Structural loading calculated based on 482 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Catonsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Overwatered Catonsville, MD planters can restart ant bridges within two weeks.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Tip: avoid large upfront payments without milestones.
+Drain fly biofilm in Catonsville, MD floor drains signals grease traps need service before gel baits.
 
-Our service coordination centers on Catonsville, MD coverage windows and verified intake details.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Wind exposure category reviewed for ZIP sector 21250/21228.
+Monitoring boards in Catonsville, MD crawlspaces stay 72 hours before snap traps are reset.
 
-Dispatch sectors sampled: ZIP 21250, 21228 (county grid: Baltimore County).
+Tip: Date bait station lids when servicing Catonsville, MD perimeter lines.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Silverfish activity in Catonsville, MD attics tracks cardboard storage and ridge vent gaps.
+
+Fire ant mounds in Catonsville, MD drive seams need granule rotation after irrigation events.
+
+Yellow jacket nests in Catonsville, MD soffit cavities peak in late summer routing windows.
+
+FAQ: What is exclusion? Without sealing entry points in Catonsville, MD, pressure often rebuilds.
+
+Seasonal cue 768498: cluster fly attic staging reviewed for Catonsville, MD soffit cavities.
+
+On-site sector marker: Baltimore County / ZIP 21250 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21250-021a7b30

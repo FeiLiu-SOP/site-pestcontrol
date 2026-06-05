@@ -11,26 +11,39 @@ lng: -82.3000
 zipSample: ["29607", "29662", "29681"]
 zipCodes: ["29607", "29662", "29681"]
 localPaths: ["Greenville County / ZIP 29662 sector", "Greenville County / coords 34.7800, -82.3000", "Greenville County / primary ZIP 29662", "Greenville County / ZIP 29607 sector", "Greenville County / elevation 912 ft band"]
-zillowHomeValueUsd: 295514
 ---
 
-**Engineering Notice for Mauldin:** Structural loading calculated based on 912 ft terrain assessment. Regional dispatch grid: Greenville County.
+**Engineering Notice for Mauldin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Greenville County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Clover mite staining on Mauldin, SC cladding service follows foundation mulch against brick ledges.
 
-Tip: address recurring issues early to prevent bigger damage.
+Bird mites in Mauldin, SC exhaust vents can persist after host nests are removed.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Our service coordination centers on Mauldin, SC coverage windows and verified intake details.
+Mud dauber nests in Mauldin, SC porch ceilings are benign but signal prey density for spiders.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: In Mauldin, SC, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Wind exposure category reviewed for ZIP sector 29662/29607/29681.
+Attic fogging in Mauldin, SC requires combustion appliance shutoff verification first.
 
-Field note: Connection points spot-checked where accessible (ZIP 29662/29607/29681 zone).
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Dispatch sectors sampled: ZIP 29662, 29607, 29681 (county grid: Greenville County).
+Attic misting in Mauldin, SC requires combustion air clearance verified before fans restart.
+
+Risk flag: Overwatered Mauldin, SC planters can restart ant bridges within two weeks.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Step: inspect interior harborages before exterior perimeter treatment.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Harbor ledger 373672: frass lane, mud-tube scan, and garage jamb gap measure filed for Mauldin, SC at 34.7800, -82.3000.
+
+Intercept log 373672: bed bug intercept count staged before Mauldin, SC interior gel zones.
+
+Primary postal anchor 29662 with multi-ZIP overlap in Mauldin; field packets tag Greenville County for county-grid reconciliation.
 
 Service reference: SC-29662-772a4592

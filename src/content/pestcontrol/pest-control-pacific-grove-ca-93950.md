@@ -11,24 +11,39 @@ lng: -121.9300
 zipSample: ["93950"]
 zipCodes: ["93950"]
 localPaths: ["Monterey County / elevation 167 ft band", "Monterey County / primary ZIP 93950", "Monterey County / coords 36.6200, -121.9300", "Monterey County / ZIP 93950 sector"]
-zillowHomeValueUsd: 1403939
 ---
 
-**Engineering Notice for Pacific Grove:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Monterey County.
+**Engineering Notice for Pacific Grove:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Monterey County.
 
 
-We coordinate local dispatch coverage around Pacific Grove, CA and nearby ZIP sectors.
+Perimeter granule carriers in Pacific Grove, CA clay soils may need lighter irrigation before application.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Perimeter granules in Pacific Grove, CA may need reapplication after heavy irrigation.
 
-Tip: confirm licensing and insurance before approving work.
+Powderpost beetle exit holes in Pacific Grove, CA trim can be mistaken for dry-wood frass without magnification.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why schedule quarterly instead of monthly in Pacific Grove, CA? Species pressure and label intervals dictate cadence.
 
-Tip: address recurring issues early to prevent bigger damage.
+Attic insulation disturbance in Pacific Grove, CA may indicate wildlife nesting routes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 93950.
+Mud dauber nests in Pacific Grove, CA porch ceilings are benign but signal prey density for spiders.
 
-Dispatch sectors sampled: ZIP 93950 (county grid: Monterey County).
+Wildlife odors in Pacific Grove, CA crawlspaces may attract secondary pest activity.
+
+Risk flag: Overwatered Pacific Grove, CA planters can restart ant bridges within two weeks.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 93950.
+
+Dry-wood termite pellets in Pacific Grove, CA attics may appear before exterior mud tubes.
+
+Perimeter mulch beds in Pacific Grove, CA should be reviewed for ant bridge paths.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Species trace 549439: re-entry interval label and conducive moisture note keyed to Pacific Grove, CA elevation 167 ft.
+
+Primary postal anchor 93950 with multi-ZIP overlap in Pacific Grove; field packets tag Monterey County for county-grid reconciliation.
 
 Service reference: CA-93950-e120d70d

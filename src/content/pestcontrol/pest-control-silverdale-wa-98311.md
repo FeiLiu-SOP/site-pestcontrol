@@ -11,26 +11,39 @@ lng: -122.6800
 zipSample: ["98311", "98383", "98370"]
 zipCodes: ["98311", "98370", "98383"]
 localPaths: ["Kitsap County / coords 47.6700, -122.6800", "Kitsap County / ZIP 98311 sector", "Kitsap County / elevation 39 ft band", "Kitsap County / primary ZIP 98311", "Kitsap County / ZIP 98370 sector"]
-zillowHomeValueUsd: 510707
 ---
 
-**Engineering Notice for Silverdale:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Kitsap County.
+**Engineering Notice for Silverdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kitsap County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: separate bait rotation schedules from crack-and-crevice applications in Silverdale, WA.
 
-We coordinate local dispatch coverage around Silverdale, WA and nearby ZIP sectors.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Local conditions in Silverdale, WA can affect timelines and material choices.
+Silverfish activity in Silverdale, WA attics tracks cardboard storage and ridge vent gaps.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98383/98370/98311.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Field note: Connection points spot-checked where accessible (ZIP 98383/98370/98311 zone).
+Dry-wood termite pellets in Silverdale, WA attics may appear before exterior mud tubes.
 
-Dispatch sectors sampled: ZIP 98383, 98370, 98311 (county grid: Kitsap County).
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Yellow jacket nests in Silverdale, WA soffit cavities peak in late summer routing windows.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 98311.
+
+Mud dauber nests in Silverdale, WA porch ceilings are benign but signal prey density for spiders.
+
+Intercept log 479817: bed bug intercept count staged before Silverdale, WA interior gel zones.
+
+Zone map 479817: attic insulation disturbance trace and pantry pest source logged for Silverdale, WA sector 98311.
+
+Regional mesh label Kitsap County: moisture and logistics baselines are keyed to Silverdale, WA before niche-specific work begins.
 
 Service reference: WA-98311-e471291a

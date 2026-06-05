@@ -11,25 +11,41 @@ lng: -77.1600
 zipSample: ["20849", "20848", "20852", "20847", "20850"]
 zipCodes: ["20857", "20847", "20848", "20852", "20851", "20850", "20849"]
 localPaths: ["Montgomery County / coords 39.0800, -77.1600", "Montgomery County / ZIP 20849 sector", "Montgomery County / ZIP 20850 sector", "Montgomery County / ZIP 20847 sector", "Montgomery County / elevation 463 ft band"]
-zillowHomeValueUsd: 697001
 ---
 
-**Engineering Notice for Rockville:** Structural loading calculated based on 463 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Rockville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Keep pet food elevated and sealed between service visits.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+IGR packets for Rockville, MD roach cycles should be dated on station lids.
 
-Tip: avoid large upfront payments without milestones.
+Mud dauber nests in Rockville, MD porch ceilings are benign but signal prey density for spiders.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Cluster fly attic staging in Rockville, MD peaks on south-facing voids after sunny thaw days.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 20850.
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
 
-Field note: Access points and staging constraints recorded for ZIP 20847/20851/20850 coverage.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Dispatch sectors sampled: ZIP 20847, 20851, 20850, 20852, 20848 (county grid: Montgomery County).
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Stink bug overwinter seams in Rockville, MD vinyl panels laps require exclusion foam rated for UV exposure.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Silverfish activity in Rockville, MD attics tracks cardboard storage and ridge vent gaps.
+
+Monitoring boards in Rockville, MD crawlspaces stay 72 hours before snap traps are reset.
+
+We coordinate Rockville, MD pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Clover mite staining on Rockville, MD exterior cladding follows foundation mulch against brick ledges.
+
+Powderpost beetle exit holes in Rockville, MD trim can be mistaken for dry-wood frass without magnification.
+
+Zone map 868187: attic insulation disturbance trace and pantry pest source logged for Rockville, MD sector 20850.
+
+Coordinate-anchored dispatch note: center reference 39.0800, -77.1600 at elevation ~463 ft aligns with Montgomery County intake staging.
 
 Service reference: MD-20850-060bfb68

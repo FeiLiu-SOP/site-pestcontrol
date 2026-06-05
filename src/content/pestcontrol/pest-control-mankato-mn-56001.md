@@ -11,27 +11,41 @@ lng: -93.9800
 zipSample: ["56002", "56001"]
 zipCodes: ["56002", "56001"]
 localPaths: ["Blue Earth County / primary ZIP 56001", "Blue Earth County / elevation 1007 ft band", "Blue Earth County / ZIP 56001 sector", "Blue Earth County / coords 44.1700, -93.9800", "Blue Earth County / ZIP 56002 sector"]
-zillowHomeValueUsd: 300648
 ---
 
-**Engineering Notice for Mankato:** Structural loading calculated based on 1007 ft terrain assessment. Regional dispatch grid: Blue Earth County.
+**Engineering Notice for Mankato:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Blue Earth County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Mankato, MN, but intake notes help reduce delays.
+Risk flag: Overwatered Mankato, MN planters can restart ant bridges within two weeks.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 56001.
+Risk flag: In Mankato, MN, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Tip: avoid large upfront payments without milestones.
+Carpenter ant frass in Mankato, MN window sills may indicate moisture-softened framing.
 
-Tip: confirm licensing and insurance before approving work.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Moisture pathway inspection logged near ZIP 56001/56002 intake.
+Perimeter granule carriers in Mankato, MN clay soils may need lighter irrigation before application.
 
-Field note: Connection points spot-checked where accessible (ZIP 56001/56002 zone).
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Dispatch sectors sampled: ZIP 56001, 56002 (county grid: Blue Earth County).
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Bird mites in Mankato, MN exhaust vents can persist after host nests are removed.
+
+Earwig harborages in Mankato, MN meter boxes often follow drip irrigation overspray.
+
+Stink bug overwinter seams in Mankato, MN vinyl panels laps require exclusion foam rated for UV exposure.
+
+Material note: Perimeter granules in Mankato, MN may need reapplication after heavy irrigation.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Harbor ledger 723761: frass lane, mud-tube scan, and garage jamb gap measure filed for Mankato, MN at 44.1700, -93.9800.
+
+Zone map 723761: attic insulation disturbance trace and pantry pest source logged for Mankato, MN sector 56001.
+
+Coordinate-anchored dispatch note: center reference 44.1700, -93.9800 at elevation ~1007 ft aligns with Blue Earth County intake staging.
 
 Service reference: MN-56001-178f7df2

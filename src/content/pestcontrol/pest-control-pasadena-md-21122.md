@@ -11,24 +11,37 @@ lng: -76.5500
 zipSample: ["21226", "21412", "21060", "21122"]
 zipCodes: ["21060", "21122", "21226", "21412"]
 localPaths: ["Anne Arundel County / coords 39.1600, -76.5500", "Anne Arundel County / ZIP 21412 sector", "Anne Arundel County / ZIP 21226 sector", "Anne Arundel County / primary ZIP 21122", "Anne Arundel County / ZIP 21060 sector"]
-zillowHomeValueUsd: 454576
 ---
 
-**Engineering Notice for Pasadena:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Anne Arundel County.
+**Engineering Notice for Pasadena:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anne Arundel County.
 
 
-Tip: avoid large upfront payments without milestones.
+IGR packets for Pasadena, MD roach cycles should be dated on station lids.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Pasadena, MD, but intake notes help reduce delays.
+Tip: Date bait station lids when servicing Pasadena, MD perimeter lines.
 
-Our service coordination centers on Pasadena, MD coverage windows and verified intake details.
+Tip: Trim vegetation 12 inches from cladding service to reduce ant bridges.
 
-Local conditions in Pasadena, MD can affect timelines and material choices.
+Mud dauber nests in Pasadena, MD porch ceilings are benign but signal prey density for spiders.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 21060/21122/21412.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Dispatch sectors sampled: ZIP 21060, 21122, 21412, 21226 (county grid: Anne Arundel County).
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 21122.
+
+Yellow jacket nests in Pasadena, MD soffit cavities peak in late summer routing windows.
+
+Step: record station placement maps for follow-up visits.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Step: map entry points with photo logs before sealing.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Zone map 458766: attic insulation disturbance trace and pantry pest source logged for Pasadena, MD sector 21122.
+
+Primary postal anchor 21122 with multi-ZIP overlap in Pasadena; field packets tag Anne Arundel County for county-grid reconciliation.
 
 Service reference: MD-21122-caf107ea

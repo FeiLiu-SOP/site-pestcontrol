@@ -11,24 +11,43 @@ lng: -83.0200
 zipSample: ["43085"]
 zipCodes: ["43085"]
 localPaths: ["Franklin County / coords 40.0900, -83.0200", "Franklin County / elevation 830 ft band", "Franklin County / primary ZIP 43085", "Franklin County / ZIP 43085 sector"]
-zillowHomeValueUsd: 404666
 ---
 
-**Engineering Notice for Worthington:** Structural loading calculated based on 830 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Worthington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Franklin County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Worthington, OH, but intake notes help reduce delays.
+FAQ: How long until re-entry? Product labels and zone maps govern timing in Worthington, OH.
 
-Tip: request a written scope before work starts.
+Mosquito breeding in Worthington, OH catch basins can amplify perimeter callbacks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: map entry points with photo logs before sealing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 43085.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Perimeter granules in Worthington, OH may need reapplication after heavy irrigation.
 
-Field note: Moisture pathway inspection logged near ZIP 43085 intake.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Dispatch sectors sampled: ZIP 43085 (county grid: Franklin County).
+Fire ant mounds in Worthington, OH drive seams need granule rotation after irrigation events.
+
+Attic insulation disturbance in Worthington, OH may indicate wildlife nesting routes.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
+
+Earwig harborages in Worthington, OH meter boxes often follow drip irrigation overspray.
+
+Attic misting in Worthington, OH requires combustion air clearance verified before fans restart.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Harbor ledger 264509: frass lane, mud-tube scan, and garage jamb gap measure filed for Worthington, OH at 40.0900, -83.0200.
+
+Exclusion audit 264509: exclusion mesh gauge and rodent runway grease mark reviewed for Worthington, OH at 40.0900/-83.0200.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Franklin County and primary ZIP 43085. Terrain reference: 830 ft. Center point: 40.0900, -83.0200. ZIP sample: 43085. Logistics priority: Serving residential sectors across Franklin County and north-east ZIP 43085 grid.
 
 Service reference: OH-43085-e53e4910

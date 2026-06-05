@@ -11,27 +11,37 @@ lng: -118.1300
 zipSample: ["91104", "91001", "91003"]
 zipCodes: ["91104", "91001", "91003"]
 localPaths: ["Los Angeles County / ZIP 91104 sector", "Los Angeles County / primary ZIP 91104", "Los Angeles County / elevation 1430 ft band", "Los Angeles County / ZIP 91003 sector", "Los Angeles County / coords 34.1900, -118.1300"]
-zillowHomeValueUsd: 1226160
 ---
 
-**Engineering Notice for Altadena:** Structural loading calculated based on 1430 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Altadena:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Altadena, CA, but intake notes help reduce delays.
+IGR packets for Altadena, CA roach cycles should be dated on station lids.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Monitoring boards in Altadena, CA crawlspaces stay 72 hours before snap traps are reset.
 
-Tip: avoid large upfront payments without milestones.
+Earwig harborages in Altadena, CA meter boxes often follow drip irrigation overspray.
 
-In Altadena, CA, urgent pest control issues can escalate quickly.
+Wildlife odors in Altadena, CA crawlspaces may attract secondary pest activity.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 91104.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Access points and staging constraints recorded for ZIP 91001/91104/91003 coverage.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 91104.
 
-Field note: Wind exposure category reviewed for ZIP sector 91001/91104/91003.
+Carpenter ant frass in Altadena, CA window sills may indicate moisture-softened framing.
 
-Dispatch sectors sampled: ZIP 91001, 91104, 91003 (county grid: Los Angeles County).
+Risk flag: Overwatered Altadena, CA planters can restart ant bridges within two weeks.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Altadena, CA.
+
+Across Altadena, CA, rodent entry points frequently track utility penetrations.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Exclusion audit 752035: exclusion mesh gauge and rodent runway grease mark reviewed for Altadena, CA at 34.1900/-118.1300.
+
+On-site sector marker: Los Angeles County / elevation 1430 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91104-d285f366

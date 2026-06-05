@@ -11,26 +11,39 @@ lng: -80.2600
 zipSample: ["33313", "33325", "33388", "33323", "33324"]
 zipCodes: ["33388", "33323", "33325", "33324", "33318", "33329", "33322", "33317", "33313"]
 localPaths: ["Broward County / primary ZIP 33322", "Broward County / coords 26.1300, -80.2600", "Broward County / ZIP 33313 sector", "Broward County / ZIP 33325 sector", "Broward County / ZIP 33323 sector"]
-zillowHomeValueUsd: 261514
 ---
 
-**Engineering Notice for Plantation:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Broward County.
+**Engineering Notice for Plantation:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.
 
 
-We coordinate local dispatch coverage around Plantation, FL and nearby ZIP sectors.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
 
-Tip: address recurring issues early to prevent bigger damage.
+Bird mites in Plantation, FL exhaust vents can persist after host nests are removed.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Wind exposure category reviewed for ZIP sector 33313/33322/33325.
+Attic insulation disturbance in Plantation, FL may indicate wildlife nesting routes.
 
-Field note: Moisture pathway inspection logged near ZIP 33313/33322/33325 intake.
+In Plantation, FL, subterranean termite swarms often follow warm rain windows.
 
-Dispatch sectors sampled: ZIP 33313, 33322, 33325, 33317, 33323 (county grid: Broward County).
+Powderpost beetle exit holes in Plantation, FL trim can be mistaken for dry-wood frass without magnification.
+
+Drain fly biofilm in Plantation, FL floor drains signals grease traps need service before gel baits.
+
+FAQ: Are over-the-counter sprays enough? Resistance patterns often require labeled rotation.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Perimeter dossier 127900: bait station anchor map and mulch bridge risk flagged for Plantation, FL county Broward County (ZIP 33322).
+
+Coordinate-anchored dispatch note: center reference 26.1300, -80.2600 at elevation ~16 ft aligns with Broward County intake staging.
 
 Service reference: FL-33322-f12469b6

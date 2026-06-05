@@ -11,24 +11,39 @@ lng: -90.3400
 zipSample: ["39056", "39058"]
 zipCodes: ["39056", "39058"]
 localPaths: ["Hinds County / ZIP 39056 sector", "Hinds County / primary ZIP 39058", "Hinds County / elevation 348 ft band", "Hinds County / ZIP 39058 sector", "Hinds County / coords 32.3500, -90.3400"]
-zillowHomeValueUsd: 237847
 ---
 
-**Engineering Notice for Clinton:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Hinds County.
+**Engineering Notice for Clinton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hinds County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Clinton, MS, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-Tip: compare at least two estimates for scope and timeline.
+Attic fogging in Clinton, MS requires combustion appliance shutoff verification first.
 
-In Clinton, MS, urgent pest control issues can escalate quickly.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Our service coordination centers on Clinton, MS coverage windows and verified intake details.
+Silverfish activity in Clinton, MS attics tracks cardboard storage and ridge vent gaps.
 
-Field note: Access points and staging constraints recorded for ZIP 39058/39056 coverage.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Dispatch sectors sampled: ZIP 39058, 39056 (county grid: Hinds County).
+Fire ant mounds in Clinton, MS drive seams need granule rotation after irrigation events.
+
+Step: label treatment zones for occupant re-entry timing.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 39058.
+
+Yellow jacket nests in Clinton, MS soffit cavities peak in late summer routing windows.
+
+State note: Clinton, MS commercial kitchens may require separate documentation for audit visits.
+
+Seasonal cue 776514: cluster fly attic staging reviewed for Clinton, MS soffit cavities.
+
+Perimeter dossier 776514: bait station anchor map and mulch bridge risk flagged for Clinton, MS county Hinds County (ZIP 39058).
+
+On-site sector marker: Hinds County / primary ZIP 39058 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39058-af94ecb1

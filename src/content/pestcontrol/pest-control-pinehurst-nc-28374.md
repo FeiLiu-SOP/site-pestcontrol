@@ -11,26 +11,43 @@ lng: -79.4700
 zipSample: ["28370", "28374"]
 zipCodes: ["28374", "28370"]
 localPaths: ["Moore County / ZIP 28370 sector", "Moore County / ZIP 28374 sector", "Moore County / coords 35.1900, -79.4700", "Moore County / primary ZIP 28374", "Moore County / elevation 522 ft band"]
-zillowHomeValueUsd: 533541
 ---
 
-**Engineering Notice for Pinehurst:** Structural loading calculated based on 522 ft terrain assessment. Regional dispatch grid: Moore County.
+**Engineering Notice for Pinehurst:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Moore County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 28374.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Fire ant mounds in Pinehurst, NC drive seams need granule rotation after irrigation events.
 
-We coordinate local dispatch coverage around Pinehurst, NC and nearby ZIP sectors.
+Tip: Log pet access routes when bait stations are placed.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
 
-Field note: Access points and staging constraints recorded for ZIP 28374/28370 coverage.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Field note: Moisture pathway inspection logged near ZIP 28374/28370 intake.
+Material note: Perimeter granules in Pinehurst, NC may need reapplication after heavy irrigation.
 
-Dispatch sectors sampled: ZIP 28374, 28370 (county grid: Moore County).
+Monitoring boards in Pinehurst, NC crawlspaces stay 72 hours before snap traps are reset.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Mud dauber nests in Pinehurst, NC porch ceilings are benign but signal prey density for spiders.
+
+Powderpost beetle exit holes in Pinehurst, NC trim can be mistaken for dry-wood frass without magnification.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 28374.
+
+State note: Pinehurst, NC commercial kitchens may require separate documentation for audit visits.
+
+Zone map 891734: attic insulation disturbance trace and pantry pest source logged for Pinehurst, NC sector 28374.
+
+Seasonal cue 891734: cluster fly attic staging reviewed for Pinehurst, NC soffit cavities.
+
+On-site sector marker: Moore County / ZIP 28374 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28374-260a785e

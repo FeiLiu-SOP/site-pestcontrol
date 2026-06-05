@@ -11,24 +11,39 @@ lng: -84.1600
 zipSample: ["30088", "30058", "30074"]
 zipCodes: ["30088", "30074", "30058"]
 localPaths: ["DeKalb County / ZIP 30074 sector", "DeKalb County / ZIP 30058 sector", "DeKalb County / ZIP 30088 sector", "DeKalb County / elevation 961 ft band", "DeKalb County / primary ZIP 30058"]
-zillowHomeValueUsd: 247293
 ---
 
-**Engineering Notice for Redan:** Structural loading calculated based on 961 ft terrain assessment. Regional dispatch grid: DeKalb County.
+**Engineering Notice for Redan:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeKalb County.
 
 
-In Redan, GA, urgent pest control issues can escalate quickly.
+Stink bug overwinter seams in Redan, GA cladding service laps require exclusion foam rated for UV exposure.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: Why schedule quarterly instead of monthly in Redan, GA? Species pressure and label intervals dictate cadence.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Redan, GA, but intake notes help reduce delays.
+Powderpost beetle exit holes in Redan, GA trim can be mistaken for dry-wood frass without magnification.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Our service coordination centers on Redan, GA coverage windows and verified intake details.
+Material note: Perimeter granules in Redan, GA may need reapplication after heavy irrigation.
 
-Field note: Wind exposure category reviewed for ZIP sector 30058/30088/30074.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Dispatch sectors sampled: ZIP 30058, 30088, 30074 (county grid: DeKalb County).
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Redan, GA.
+
+Mud dauber nests in Redan, GA porch ceilings are benign but signal prey density for spiders.
+
+Step: identify species before selecting broadcast versus targeted gel programs.
+
+Drain fly biofilm in Redan, GA floor drains signals grease traps need service before gel baits.
+
+IGR packets for Redan, GA roach cycles should be dated on station lids.
+
+Risk flag: Overwatered Redan, GA planters can restart ant bridges within two weeks.
+
+Attic fogging in Redan, GA requires combustion appliance shutoff verification first.
+
+Intercept log 293216: bed bug intercept count staged before Redan, GA interior gel zones.
+
+Regional mesh label DeKalb County: moisture and logistics baselines are keyed to Redan, GA before niche-specific work begins.
 
 Service reference: GA-30058-9d21d537

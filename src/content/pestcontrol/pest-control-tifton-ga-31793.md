@@ -11,27 +11,39 @@ lng: -83.5200
 zipSample: ["31793", "31794"]
 zipCodes: ["31794", "31793"]
 localPaths: ["Tift County / primary ZIP 31793", "Tift County / ZIP 31793 sector", "Tift County / ZIP 31794 sector", "Tift County / elevation 367 ft band", "Tift County / coords 31.4600, -83.5200"]
-zillowHomeValueUsd: 270616
 ---
 
-**Engineering Notice for Tifton:** Structural loading calculated based on 367 ft terrain assessment. Regional dispatch grid: Tift County.
+**Engineering Notice for Tifton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tift County.
 
 
-We coordinate local dispatch coverage around Tifton, GA and nearby ZIP sectors.
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Tifton, GA, but intake notes help reduce delays.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 31793.
+Carpenter ant frass in Tifton, GA window sills may indicate moisture-softened framing.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Tip: avoid large upfront payments without milestones.
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Wind exposure category reviewed for ZIP sector 31794/31793.
+Attic misting in Tifton, GA requires combustion air clearance verified before fans restart.
 
-Field note: Moisture pathway inspection logged near ZIP 31794/31793 intake.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 31793.
 
-Dispatch sectors sampled: ZIP 31794, 31793 (county grid: Tift County).
+Drain fly biofilm in Tifton, GA floor drains signals grease traps need service before gel baits.
+
+FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gaps still matter.
+
+IGR packets for Tifton, GA roach cycles should be dated on station lids.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Tifton, GA.
+
+Perimeter mulch beds in Tifton, GA should be reviewed for ant bridge paths.
+
+Seasonal cue 183679: cluster fly attic staging reviewed for Tifton, GA soffit cavities.
+
+Harbor ledger 183679: frass lane, mud-tube scan, and garage jamb gap measure filed for Tifton, GA at 31.4600, -83.5200.
+
+On-site sector marker: Tift County / coords 31.4600, -83.5200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-31793-a3da7097

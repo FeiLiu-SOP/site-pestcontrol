@@ -11,24 +11,43 @@ lng: -122.7100
 zipSample: ["98312", "98314", "98337", "98310"]
 zipCodes: ["98312", "98337", "98310", "98314"]
 localPaths: ["Kitsap County / ZIP 98312 sector", "Kitsap County / ZIP 98337 sector", "Kitsap County / elevation 518 ft band", "Kitsap County / coords 47.5400, -122.7100", "Kitsap County / ZIP 98314 sector"]
-zillowHomeValueUsd: 497749
 ---
 
-**Engineering Notice for Bremerton:** Structural loading calculated based on 518 ft terrain assessment. Regional dispatch grid: Kitsap County.
+**Engineering Notice for Bremerton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kitsap County.
 
 
-Our service coordination centers on Bremerton, WA coverage windows and verified intake details.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why schedule quarterly instead of monthly in Bremerton, WA? Species pressure and label intervals dictate cadence.
 
-Step: share symptoms and recent history so the intake notes are complete.
+IGR packets for Bremerton, WA roach cycles should be dated on station lids.
 
-Tip: request a written scope before work starts.
+Attic misting in Bremerton, WA requires combustion air clearance verified before fans restart.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Field note: Moisture pathway inspection logged near ZIP 98337/98312/98310 intake.
+Attic insulation disturbance in Bremerton, WA may indicate wildlife nesting routes.
 
-Dispatch sectors sampled: ZIP 98337, 98312, 98310, 98314 (county grid: Kitsap County).
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+State note: Bremerton, WA commercial kitchens may require separate documentation for audit visits.
+
+Material note: Bait matrix rotation reduces resistance in heavy German cockroach populations.
+
+Powderpost beetle exit holes in Bremerton, WA trim can be mistaken for dry-wood frass without magnification.
+
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
+
+Exclusion audit 439899: exclusion mesh gauge and rodent runway grease mark reviewed for Bremerton, WA at 47.5400/-122.7100.
+
+Species trace 439899: re-entry interval label and conducive moisture note keyed to Bremerton, WA elevation 518 ft.
+
+On-site sector marker: Kitsap County / elevation 518 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98312-5b7c5672

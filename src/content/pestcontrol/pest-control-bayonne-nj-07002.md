@@ -11,24 +11,43 @@ lng: -74.1200
 zipSample: ["07002"]
 zipCodes: ["07002"]
 localPaths: ["Hudson County / primary ZIP 07002", "Hudson County / coords 40.6700, -74.1200", "Hudson County / ZIP 07002 sector", "Hudson County / elevation 43 ft band"]
-zillowHomeValueUsd: 582656
 ---
 
-**Engineering Notice for Bayonne:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Hudson County.
+**Engineering Notice for Bayonne:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hudson County.
 
 
-Tip: request a written scope before work starts.
+Earwig harborages in Bayonne, NJ meter boxes often follow drip irrigation overspray.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Silverfish activity in Bayonne, NJ attics tracks cardboard storage and ridge vent gaps.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Bird mites in Bayonne, NJ exhaust vents can persist after host nests are removed.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bayonne, NJ, but intake notes help reduce delays.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Overwatered Bayonne, NJ planters can restart ant bridges within two weeks.
 
-Field note: Moisture pathway inspection logged near ZIP 07002 intake.
+Fire ant mounds in Bayonne, NJ drive seams need granule rotation after irrigation events.
 
-Dispatch sectors sampled: ZIP 07002 (county grid: Hudson County).
+Clover mite staining on Bayonne, NJ exterior cladding follows foundation mulch against brick ledges.
+
+Attic misting in Bayonne, NJ requires combustion air clearance verified before fans restart.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Tip: Remove leaf litter from weep holes before quarterly perimeter service in Bayonne, NJ.
+
+IGR packets for Bayonne, NJ roach cycles should be dated on station lids.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Step: separate bait rotation schedules from crack-and-crevice applications in Bayonne, NJ.
+
+Mud dauber nests in Bayonne, NJ porch ceilings are benign but signal prey density for spiders.
+
+Exclusion audit 817727: exclusion mesh gauge and rodent runway grease mark reviewed for Bayonne, NJ at 40.6700/-74.1200.
+
+Zone map 817727: attic insulation disturbance trace and pantry pest source logged for Bayonne, NJ sector 07002.
+
+On-site sector marker: Hudson County / elevation 43 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07002-68c3f631

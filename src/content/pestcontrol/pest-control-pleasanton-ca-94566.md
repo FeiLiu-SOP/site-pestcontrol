@@ -11,26 +11,41 @@ lng: -121.8800
 zipSample: ["94588", "94566"]
 zipCodes: ["94588", "94566"]
 localPaths: ["Alameda County / ZIP 94588 sector", "Alameda County / elevation 341 ft band", "Alameda County / coords 37.6700, -121.8800", "Alameda County / ZIP 94566 sector", "Alameda County / primary ZIP 94566"]
-zillowHomeValueUsd: 1746565
 ---
 
-**Engineering Notice for Pleasanton:** Structural loading calculated based on 341 ft terrain assessment. Regional dispatch grid: Alameda County.
+**Engineering Notice for Pleasanton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alameda County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep pet food elevated and sealed between service visits.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-In Pleasanton, CA, urgent pest control issues can escalate quickly.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Bird mites in Pleasanton, CA exhaust vents can persist after host nests are removed.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: verify attic access safety before insulation disturbance.
 
-Field note: Connection points spot-checked where accessible (ZIP 94566/94588 zone).
+Drain fly biofilm in Pleasanton, CA floor drains signals grease traps need service before gel baits.
 
-Field note: Access points and staging constraints recorded for ZIP 94566/94588 coverage.
+Material note: Perimeter granules in Pleasanton, CA may need reapplication after heavy irrigation.
 
-Dispatch sectors sampled: ZIP 94566, 94588 (county grid: Alameda County).
+Spider populations in Pleasanton, CA eaves can signal insect prey density.
+
+Step: map entry points with photo logs before sealing.
+
+Step: document conducive conditions—moisture, wood-soil contact, clutter.
+
+Cluster fly attic staging in Pleasanton, CA peaks on south-facing voids after sunny thaw days.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Carpenter ant frass in Pleasanton, CA window sills may indicate moisture-softened framing.
+
+Zone map 453300: attic insulation disturbance trace and pantry pest source logged for Pleasanton, CA sector 94566.
+
+On-site sector marker: Alameda County / coords 37.6700, -121.8800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94566-8a871dc6

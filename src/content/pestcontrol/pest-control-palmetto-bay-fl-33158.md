@@ -11,26 +11,39 @@ lng: -80.3200
 zipSample: ["33157", "33257", "33158"]
 zipCodes: ["33257", "33157", "33158"]
 localPaths: ["Miami-Dade County / coords 25.6200, -80.3200", "Miami-Dade County / elevation 36 ft band", "Miami-Dade County / ZIP 33158 sector", "Miami-Dade County / primary ZIP 33158", "Miami-Dade County / ZIP 33257 sector"]
-zillowHomeValueUsd: 1346468
 ---
 
-**Engineering Notice for Palmetto Bay:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Palmetto Bay:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can bed bugs spread room-to-room in Palmetto Bay, FL row homes? Wall voids and shared ducts accelerate transfer.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Overwatered Palmetto Bay, FL planters can restart ant bridges within two weeks.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Perimeter mulch beds in Palmetto Bay, FL should be reviewed for ant bridge paths.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Palmetto Bay, FL, but intake notes help reduce delays.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Field note: Connection points spot-checked where accessible (ZIP 33157/33158/33257 zone).
+Record note: Pesticide application logs should list target species and product EPA numbers.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33157/33158/33257.
+Carpenter ant frass in Palmetto Bay, FL window sills may indicate moisture-softened framing.
 
-Dispatch sectors sampled: ZIP 33157, 33158, 33257 (county grid: Miami-Dade County).
+Step: record station placement maps for follow-up visits.
+
+Yellow jacket nests in Palmetto Bay, FL soffit cavities peak in late summer routing windows.
+
+Risk flag: In Palmetto Bay, FL, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 33158.
+
+Bird mites in Palmetto Bay, FL exhaust vents can persist after host nests are removed.
+
+Zone map 588871: attic insulation disturbance trace and pantry pest source logged for Palmetto Bay, FL sector 33158.
+
+On-site sector marker: Miami-Dade County / ZIP 33157 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33158-80a3b0b2

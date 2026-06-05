@@ -11,24 +11,41 @@ lng: -104.7700
 zipSample: ["80632", "80634", "80633", "80631", "80639"]
 zipCodes: ["80639", "80638", "80631", "80633", "80632", "80634"]
 localPaths: ["Weld County / ZIP 80632 sector", "Weld County / ZIP 80634 sector", "Weld County / elevation 4882 ft band", "Weld County / coords 40.4200, -104.7700", "Weld County / ZIP 80639 sector"]
-zillowHomeValueUsd: 366461
 ---
 
-**Engineering Notice for Greeley:** Structural loading calculated based on 4882 ft terrain assessment. Regional dispatch grid: Weld County.
+**Engineering Notice for Greeley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Weld County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Carpenter ant frass in Greeley, CO window sills may indicate moisture-softened framing.
 
-Tip: compare at least two estimates for scope and timeline.
+Stored cardboard in Greeley, CO garages can accelerate pantry pest cycles.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
 
-Our service coordination centers on Greeley, CO coverage windows and verified intake details.
+Yellow jacket nests in Greeley, CO soffit cavities peak in late summer routing windows.
 
-Field note: Connection points spot-checked where accessible (ZIP 80639/80632/80634 zone).
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 80631.
 
-Dispatch sectors sampled: ZIP 80639, 80632, 80634, 80638, 80631 (county grid: Weld County).
+Dry-wood termite pellets in Greeley, CO attics may appear before exterior mud tubes.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Flea pupae survive vacuuming in Greeley, CO carpet fibers unless heat treatment follows.
+
+Step: verify attic access safety before insulation disturbance.
+
+Attic fogging in Greeley, CO requires combustion appliance shutoff verification first.
+
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 80631.
+
+FAQ: Why schedule quarterly instead of monthly in Greeley, CO? Species pressure and label intervals dictate cadence.
+
+Zone map 316611: attic insulation disturbance trace and pantry pest source logged for Greeley, CO sector 80631.
+
+Species trace 316611: re-entry interval label and conducive moisture note keyed to Greeley, CO elevation 4882 ft.
+
+ZIP-corridor snapshot for Greeley, CO: sampled sectors include 80633, 80631, 80632, 80638, 80639, 80634; county routing grid remains Weld County.
 
 Service reference: CO-80631-57d81f46

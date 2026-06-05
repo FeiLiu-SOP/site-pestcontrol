@@ -11,24 +11,39 @@ lng: -81.2800
 zipSample: ["32773", "32771", "32772"]
 zipCodes: ["32773", "32772", "32771"]
 localPaths: ["Seminole County / elevation 56 ft band", "Seminole County / ZIP 32772 sector", "Seminole County / primary ZIP 32773", "Seminole County / coords 28.7900, -81.2800", "Seminole County / ZIP 32771 sector"]
-zillowHomeValueUsd: 310793
 ---
 
-**Engineering Notice for Sanford:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Seminole County.
+**Engineering Notice for Sanford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Seminole County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Tip: compare at least two estimates for scope and timeline.
+Attic misting in Sanford, FL requires combustion air clearance verified before fans restart.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 32773.
 
-Clear documentation helps align materials, labor, and timeline.
+Step: map entry points with photo logs before sealing.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Powderpost beetle exit holes in Sanford, FL trim can be mistaken for dry-wood frass without magnification.
 
-Field note: Moisture pathway inspection logged near ZIP 32772/32771/32773 intake.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Dispatch sectors sampled: ZIP 32772, 32771, 32773 (county grid: Seminole County).
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Risk flag: Rodenticides require secured stations when non-target animals are present.
+
+Material note: Perimeter granules in Sanford, FL may need reapplication after heavy irrigation.
+
+Attic insulation disturbance in Sanford, FL may indicate wildlife nesting routes.
+
+Tip: Date bait station lids when servicing Sanford, FL perimeter lines.
+
+IGR packets for Sanford, FL roach cycles should be dated on station lids.
+
+Species trace 193977: re-entry interval label and conducive moisture note keyed to Sanford, FL elevation 56 ft.
+
+Intercept log 193977: bed bug intercept count staged before Sanford, FL interior gel zones.
+
+On-site sector marker: Seminole County / coords 28.7900, -81.2800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32773-b9bd5384

@@ -11,27 +11,41 @@ lng: -93.8000
 zipSample: ["71135", "71119", "71106", "71133", "71109"]
 zipCodes: ["71106", "71107", "71105", "71149", "71164", "71109", "71119", "71153", "71120", "71108", "71162", "71166"]
 localPaths: ["Caddo Parish / elevation 243 ft band", "Caddo Parish / ZIP 71135 sector", "Caddo Parish / primary ZIP 71129", "Caddo Parish / ZIP 71133 sector", "Caddo Parish / ZIP 71109 sector"]
-zillowHomeValueUsd: 198028
 ---
 
-**Engineering Notice for Shreveport:** Structural loading calculated based on 243 ft terrain assessment. Regional dispatch grid: Caddo Parish.
+**Engineering Notice for Shreveport:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Caddo Parish.
 
 
-In Shreveport, LA, seasonal demand can change scheduling windows.
+Earwig harborages in Shreveport, LA meter boxes often follow drip irrigation overspray.
 
-Our service coordination centers on Shreveport, LA coverage windows and verified intake details.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+We coordinate Shreveport, LA pest intake with perimeter maps, moisture notes, and species-specific protocols.
 
-Tip: avoid large upfront payments without milestones.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 71129.
+In Shreveport, LA, subterranean termite swarms often follow warm rain windows.
 
-Field note: Wind exposure category reviewed for ZIP sector 71151/71138/71165.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Field note: Connection points spot-checked where accessible (ZIP 71151/71138/71165 zone).
+Humidity in Shreveport, LA can sustain cockroach harborages behind appliance voids.
 
-Dispatch sectors sampled: ZIP 71151, 71138, 71165, 71103, 71133 (county grid: Caddo Parish).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Drain fly biofilm in Shreveport, LA floor drains signals grease traps need service before gel baits.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 71129.
+
+Carpenter ant frass in Shreveport, LA window sills may indicate moisture-softened framing.
+
+Intercept log 156618: bed bug intercept count staged before Shreveport, LA interior gel zones.
+
+Species trace 156618: re-entry interval label and conducive moisture note keyed to Shreveport, LA elevation 243 ft.
+
+On-site sector marker: Caddo Parish / ZIP 71161 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-71129-ba30cdd4

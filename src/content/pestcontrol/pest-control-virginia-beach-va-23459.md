@@ -11,24 +11,43 @@ lng: -76.0400
 zipSample: ["23461", "23479", "23467", "23459", "23466"]
 zipCodes: ["23456", "23452", "23461", "23471", "23450", "23464", "23467", "23460", "23462", "23453", "23454", "23459"]
 localPaths: ["Virginia Beach County / primary ZIP 23459", "Virginia Beach County / ZIP 23467 sector", "Virginia Beach County / ZIP 23466 sector", "Virginia Beach County / ZIP 23459 sector", "Virginia Beach County / ZIP 23461 sector"]
-zillowHomeValueUsd: 409275
 ---
 
-**Engineering Notice for Virginia Beach:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Virginia Beach County.
+**Engineering Notice for Virginia Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Virginia Beach County.
 
 
-Local conditions in Virginia Beach, VA can affect timelines and material choices.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
 
-We coordinate local dispatch coverage around Virginia Beach, VA and nearby ZIP sectors.
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
 
-Tip: compare at least two estimates for scope and timeline.
+Attic misting in Virginia Beach, VA requires combustion air clearance verified before fans restart.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Exclusion gaps at garage jambs in Virginia Beach, VA are common rodent access points.
 
-Field note: Wind exposure category reviewed for ZIP sector 23451/23464/23463.
+Wildlife odors in Virginia Beach, VA crawlspaces may attract secondary pest activity.
 
-Dispatch sectors sampled: ZIP 23451, 23464, 23463, 23458, 23450 (county grid: Virginia Beach County).
+Clover mite staining on Virginia Beach, VA vinyl panels follows foundation mulch against brick ledges.
+
+Drain fly biofilm in Virginia Beach, VA floor drains signals grease traps need service before gel baits.
+
+Tip: Date bait station lids when servicing Virginia Beach, VA perimeter lines.
+
+Attic fogging in Virginia Beach, VA requires combustion appliance shutoff verification first.
+
+Powderpost beetle exit holes in Virginia Beach, VA trim can be mistaken for dry-wood frass without magnification.
+
+Cluster fly attic staging in Virginia Beach, VA peaks on south-facing voids after sunny thaw days.
+
+Step: label treatment zones for occupant re-entry timing.
+
+We coordinate Virginia Beach, VA pest intake with perimeter maps, moisture notes, and species-specific protocols.
+
+Zone map 492530: attic insulation disturbance trace and pantry pest source logged for Virginia Beach, VA sector 23459.
+
+Seasonal cue 492530: cluster fly attic staging reviewed for Virginia Beach, VA soffit cavities.
+
+On-site sector marker: Virginia Beach County / ZIP 23456 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-23459-9070d96b

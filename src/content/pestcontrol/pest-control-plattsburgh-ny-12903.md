@@ -11,26 +11,37 @@ lng: -73.4600
 zipSample: ["12901", "12903"]
 zipCodes: ["12903", "12901"]
 localPaths: ["Clinton County / coords 44.7000, -73.4600", "Clinton County / elevation 151 ft band", "Clinton County / primary ZIP 12903", "Clinton County / ZIP 12901 sector", "Clinton County / ZIP 12903 sector"]
-zillowHomeValueUsd: 235960
 ---
 
-**Engineering Notice for Plattsburgh:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: Clinton County.
+**Engineering Notice for Plattsburgh:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clinton County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Perimeter granule carriers in Plattsburgh, NY clay soils may need lighter irrigation before application.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Plattsburgh, NY, but intake notes help reduce delays.
+Mud dauber nests in Plattsburgh, NY porch ceilings are benign but signal prey density for spiders.
 
-We coordinate local dispatch coverage around Plattsburgh, NY and nearby ZIP sectors.
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why schedule quarterly instead of monthly in Plattsburgh, NY? Species pressure and label intervals dictate cadence.
 
-Field note: Access points and staging constraints recorded for ZIP 12901/12903 coverage.
+Step: separate bait rotation schedules from crack-and-crevice applications in Plattsburgh, NY.
 
-Field note: Connection points spot-checked where accessible (ZIP 12901/12903 zone).
+Fire ant mounds in Plattsburgh, NY drive seams need granule rotation after irrigation events.
 
-Dispatch sectors sampled: ZIP 12901, 12903 (county grid: Clinton County).
+Technicians log IGR rotation dates before any aerosol flush in kitchen voids.
+
+Earwig harborages in Plattsburgh, NY meter boxes often follow drip irrigation overspray.
+
+Silverfish activity in Plattsburgh, NY attics tracks cardboard storage and ridge vent gaps.
+
+Humidity in Plattsburgh, NY can sustain cockroach harborages behind appliance voids.
+
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
+
+Zone map 844425: attic insulation disturbance trace and pantry pest source logged for Plattsburgh, NY sector 12903.
+
+On-site sector marker: Clinton County / primary ZIP 12903 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-12903-ecca0b3d

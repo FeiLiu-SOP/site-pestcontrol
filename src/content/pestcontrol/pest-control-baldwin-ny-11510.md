@@ -11,24 +11,43 @@ lng: -73.6100
 zipSample: ["11510"]
 zipCodes: ["11510"]
 localPaths: ["Nassau County / coords 40.6500, -73.6100", "Nassau County / primary ZIP 11510", "Nassau County / elevation 26 ft band", "Nassau County / ZIP 11510 sector"]
-zillowHomeValueUsd: 714455
 ---
 
-**Engineering Notice for Baldwin:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Baldwin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.
 
 
-Local conditions in Baldwin, NY can affect timelines and material choices.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Tip: avoid large upfront payments without milestones.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 11510.
 
-We coordinate local dispatch coverage around Baldwin, NY and nearby ZIP sectors.
+Risk flag: Fogging without species ID wastes product on non-target beetles.
 
-Homeowners in Baldwin, NY often face sudden pest control problems that require fast action.
+In Baldwin, NY, subterranean termite swarms often follow warm rain windows.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Monitoring boards in Baldwin, NY crawlspaces stay 72 hours before snap traps are reset.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11510.
+Step: separate bait rotation schedules from crack-and-crevice applications in Baldwin, NY.
 
-Dispatch sectors sampled: ZIP 11510 (county grid: Nassau County).
+Tip: Date bait station lids when servicing Baldwin, NY perimeter lines.
+
+FAQ: Do I need tent fumigation? Species and spread determine method—not marketing defaults.
+
+Clover mite staining on Baldwin, NY vinyl panels follows foundation mulch against brick ledges.
+
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
+
+Dry-wood termite pellets in Baldwin, NY attics may appear before exterior mud tubes.
+
+Mosquito breeding in Baldwin, NY catch basins can amplify perimeter callbacks.
+
+Record note: Pesticide application logs should list target species and product EPA numbers.
+
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Harbor ledger 894329: frass lane, mud-tube scan, and garage jamb gap measure filed for Baldwin, NY at 40.6500, -73.6100.
+
+Zone map 894329: attic insulation disturbance trace and pantry pest source logged for Baldwin, NY sector 11510.
+
+ZIP-corridor snapshot for Baldwin, NY: sampled sectors include 11510; county routing grid remains Nassau County.
 
 Service reference: NY-11510-889ea6da

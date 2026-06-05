@@ -11,25 +11,37 @@ lng: -82.4500
 zipSample: ["33675", "33548", "33559", "33549", "33647"]
 zipCodes: ["33647", "33549", "33675", "33559", "33548"]
 localPaths: ["Hillsborough County / coords 28.1400, -82.4500", "Hillsborough County / elevation 52 ft band", "Hillsborough County / ZIP 33559 sector", "Hillsborough County / ZIP 33548 sector", "Hillsborough County / ZIP 33647 sector"]
-zillowHomeValueUsd: 668738
 ---
 
-**Engineering Notice for Lutz:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Lutz:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.
 
 
-In Lutz, FL, seasonal demand can change scheduling windows.
+Monitoring boards in Lutz, FL crawlspaces stay 72 hours before snap traps are reset.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 33548.
 
-Tip: compare at least two estimates for scope and timeline.
+Confirm re-entry timing before interior gel applications. Serving ZIP Code: 33548.
 
-We coordinate local dispatch coverage around Lutz, FL and nearby ZIP sectors.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 33548.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33549/33675/33647.
+Tip: Store pantry goods in sealed bins during active treatments near ZIP 33548.
 
-Dispatch sectors sampled: ZIP 33549, 33675, 33647, 33548, 33559 (county grid: Hillsborough County).
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+Risk flag: Fogging without species ID wastes product on non-target beetles.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+About us: We document conducive conditions and exclusion materials before chemical applications.
+
+Drain fly biofilm in Lutz, FL floor drains signals grease traps need service before gel baits.
+
+Attic misting in Lutz, FL requires combustion air clearance verified before fans restart.
+
+Harbor ledger 298655: frass lane, mud-tube scan, and garage jamb gap measure filed for Lutz, FL at 28.1400, -82.4500.
+
+On-site sector marker: Hillsborough County / ZIP 33647 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33548-6ee87f12

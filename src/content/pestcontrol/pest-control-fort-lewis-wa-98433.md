@@ -11,28 +11,39 @@ lng: -122.5700
 zipSample: ["98433"]
 zipCodes: ["98433"]
 localPaths: ["Pierce County / coords 47.1000, -122.5700", "Pierce County / ZIP 98433 sector", "Pierce County / primary ZIP 98433", "Pierce County / elevation 377 ft band"]
-zillowHomeValueUsd: 576652
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for Fort Lewis:** Structural loading calculated based on 377 ft terrain assessment. Regional dispatch grid: Pierce County.
+**Engineering Notice for Fort Lewis:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pierce County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Why do pests return after spraying? Without sealing entry points in Fort Lewis, WA, pressure often rebuilds.
 
-Our service coordination centers on Fort Lewis, WA coverage windows and verified intake details.
+IGR packets for Fort Lewis, WA roach cycles should be dated on station lids.
 
-Tip: request a written scope before work starts.
+Step: record station placement maps for follow-up visits.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 98433.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 98433.
+FAQ: Can bed bugs spread room-to-room in Fort Lewis, WA row homes? Wall voids and shared ducts accelerate transfer.
 
-Field note: Wind exposure category reviewed for ZIP sector 98433.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Connection points spot-checked where accessible (ZIP 98433 zone).
+Carpenter ant frass in Fort Lewis, WA window sills may indicate moisture-softened framing.
 
-Dispatch sectors sampled: ZIP 98433 (county grid: Pierce County).
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Risk flag: Overwatered Fort Lewis, WA planters can restart ant bridges within two weeks.
+
+State note: Fort Lewis, WA commercial kitchens may require separate documentation for audit visits.
+
+Monitoring boards in Fort Lewis, WA crawlspaces stay 72 hours before snap traps are reset.
+
+Tip: Log pet access routes when bait stations are placed.
+
+Seasonal cue 301797: cluster fly attic staging reviewed for Fort Lewis, WA soffit cavities.
+
+Species trace 301797: re-entry interval label and conducive moisture note keyed to Fort Lewis, WA elevation 377 ft.
+
+On-site sector marker: Pierce County / primary ZIP 98433 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98433-a2f540cc

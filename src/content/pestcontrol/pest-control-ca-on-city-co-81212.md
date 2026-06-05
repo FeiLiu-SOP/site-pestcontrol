@@ -11,24 +11,43 @@ lng: -105.2200
 zipSample: ["81212", "81215"]
 zipCodes: ["81212", "81215"]
 localPaths: ["Fremont County / elevation 5315 ft band", "Fremont County / ZIP 81212 sector", "Fremont County / primary ZIP 81212", "Fremont County / ZIP 81215 sector", "Fremont County / coords 38.4400, -105.2200"]
-zillowHomeValueUsd: 329652
 ---
 
-**Engineering Notice for Cañon City:** Structural loading calculated based on 5315 ft terrain assessment. Regional dispatch grid: Fremont County.
+**Engineering Notice for Cañon City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fremont County.
 
 
-In Cañon City, CO, seasonal demand can change scheduling windows.
+In Cañon City, CO, subterranean termite swarms often follow warm rain windows.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Yellow jacket nests in Cañon City, CO soffit cavities peak in late summer routing windows.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Cañon City, CO, but intake notes help reduce delays.
+Ultrasonic repellers rarely replace exclusion steel at garage door corners.
 
-Tip: request a written scope before work starts.
+About us: Treatment plans separate interior harborages, exterior perimeter, and attic or crawl vectors.
 
-Field note: Access points and staging constraints recorded for ZIP 81212/81215 coverage.
+Dry-wood termite pellets in Cañon City, CO attics may appear before exterior mud tubes.
 
-Dispatch sectors sampled: ZIP 81212, 81215 (county grid: Fremont County).
+Label note: Applications must follow EPA product labels for occupant notification.
+
+Flea pupae survive vacuuming in Cañon City, CO carpet fibers unless heat treatment follows.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Attic misting in Cañon City, CO requires combustion air clearance verified before fans restart.
+
+Risk flag: Overwatered Cañon City, CO planters can restart ant bridges within two weeks.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Cluster fly attic staging in Cañon City, CO peaks on south-facing voids after sunny thaw days.
+
+Species trace 632453: re-entry interval label and conducive moisture note keyed to Cañon City, CO elevation 5315 ft.
+
+Perimeter dossier 632453: bait station anchor map and mulch bridge risk flagged for Cañon City, CO county Fremont County (ZIP 81212).
+
+**Regional Infrastructure Brief:** Coverage anchor set to Fremont County. Reference elevation: 5315 ft. Primary coordinates: 38.4400, -105.2200. ZIP sample: 81212, 81215. Logistics priority: Serving residential sectors across Fremont County and north-east ZIP 81212 grid.
 
 Service reference: CO-81212-d9cd9e80

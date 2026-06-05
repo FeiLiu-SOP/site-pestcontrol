@@ -11,26 +11,41 @@ lng: -77.4500
 zipSample: ["20151", "20153"]
 zipCodes: ["20153", "20151"]
 localPaths: ["Fairfax County / primary ZIP 20151", "Fairfax County / ZIP 20151 sector", "Fairfax County / coords 38.8900, -77.4500", "Fairfax County / ZIP 20153 sector", "Fairfax County / elevation 285 ft band"]
-zillowHomeValueUsd: 763344
 ---
 
-**Engineering Notice for Chantilly:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Chantilly:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Keep pet food elevated and sealed between service visits.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Chantilly, VA, but intake notes help reduce delays.
+Step: verify attic access safety before insulation disturbance.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Drain fly biofilm in Chantilly, VA floor drains signals grease traps need service before gel baits.
 
-Step: share symptoms and recent history so the intake notes are complete.
+IGR packets for Chantilly, VA roach cycles should be dated on station lids.
 
-Field note: Wind exposure category reviewed for ZIP sector 20153/20151.
+Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 20151.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 20153/20151.
+Copper mesh exclusion outlasts steel wool at plumbing penetrations in humid crawlspaces.
 
-Dispatch sectors sampled: ZIP 20153, 20151 (county grid: Fairfax County).
+Wildlife odors in Chantilly, VA crawlspaces may attract secondary pest activity.
+
+Tip: Trim vegetation 12 inches from wall restoration to reduce ant bridges.
+
+Earwig harborages in Chantilly, VA meter boxes often follow drip irrigation overspray.
+
+Tip: Date bait station lids when servicing Chantilly, VA perimeter lines.
+
+Risk flag: Overwatered Chantilly, VA planters can restart ant bridges within two weeks.
+
+Technicians photograph bait station anchors before occupant re-entry clocks start.
+
+Intercept log 384301: bed bug intercept count staged before Chantilly, VA interior gel zones.
+
+Perimeter dossier 384301: bait station anchor map and mulch bridge risk flagged for Chantilly, VA county Fairfax County (ZIP 20151).
+
+On-site sector marker: Fairfax County / ZIP 20153 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-20151-f91a9359

@@ -11,26 +11,39 @@ lng: -106.4100
 zipSample: ["88081"]
 zipCodes: ["88081"]
 localPaths: ["Doña Ana County / elevation 4062 ft band", "Doña Ana County / ZIP 88081 sector", "Doña Ana County / primary ZIP 88081", "Doña Ana County / coords 32.0400, -106.4100"]
-zillowHomeValueUsd: 216181
 ---
 
-**Engineering Notice for Chaparral:** Structural loading calculated based on 4062 ft terrain assessment. Regional dispatch grid: Doña Ana County.
+**Engineering Notice for Chaparral:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Doña Ana County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Why schedule quarterly instead of monthly in Chaparral, NM? Species pressure and label intervals dictate cadence.
 
-Tip: confirm licensing and insurance before approving work.
+Wildlife odors in Chaparral, NM crawlspaces may attract secondary pest activity.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: inspect interior harborages before exterior perimeter treatment.
 
-Our service coordination centers on Chaparral, NM coverage windows and verified intake details.
+Stink bug overwinter seams in Chaparral, NM wall restoration laps require exclusion foam rated for UV exposure.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Chaparral, NM, but intake notes help reduce delays.
+Step: record station placement maps for follow-up visits.
 
-Field note: Moisture pathway inspection logged near ZIP 88081 intake.
+Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Field note: Access points and staging constraints recorded for ZIP 88081 coverage.
+Attic fogging in Chaparral, NM requires combustion appliance shutoff verification first.
 
-Dispatch sectors sampled: ZIP 88081 (county grid: Doña Ana County).
+Tip: Trim vegetation 12 inches from cladding service to reduce ant bridges.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Safety note: Re-entry intervals differ for gel baits, aerosols, and perimeter liquids.
+
+Fire ant mounds in Chaparral, NM drive seams need granule rotation after irrigation events.
+
+FAQ: When is localized treatment enough? Species and spread determine method—not marketing defaults.
+
+Intercept log 732715: bed bug intercept count staged before Chaparral, NM interior gel zones.
+
+Zone map 732715: attic insulation disturbance trace and pantry pest source logged for Chaparral, NM sector 88081.
+
+ZIP-corridor snapshot for Chaparral, NM: sampled sectors include 88081; county routing grid remains Doña Ana County.
 
 Service reference: NM-88081-51fe015a

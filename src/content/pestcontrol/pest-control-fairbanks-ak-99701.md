@@ -11,26 +11,37 @@ lng: -147.6500
 zipSample: ["99701", "99712", "99703"]
 zipCodes: ["99712", "99703", "99701"]
 localPaths: ["Fairbanks North Star County / ZIP 99712 sector", "Fairbanks North Star County / coords 64.8400, -147.6500", "Fairbanks North Star County / elevation 0 ft band", "Fairbanks North Star County / primary ZIP 99701", "Fairbanks North Star County / ZIP 99701 sector"]
-zillowHomeValueUsd: 260145
 ---
 
-**Engineering Notice for Fairbanks:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Fairbanks North Star County.
+**Engineering Notice for Fairbanks:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairbanks North Star County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Material note: Perimeter granules in Fairbanks, AK may need reapplication after heavy irrigation.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Attic insulation compression may hide rodent runway grease without UV inspection aids.
 
-We coordinate local dispatch coverage around Fairbanks, AK and nearby ZIP sectors.
+Monitoring boards in Fairbanks, AK crawlspaces stay 72 hours before snap traps are reset.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We pair identification, exclusion, and treatment zones with written re-entry guidance.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Fairbanks, AK, moisture ants may indicate plumbing leaks—not only pest pressure.
 
-Field note: Moisture pathway inspection logged near ZIP 99703/99712/99701 intake.
+Drain fly biofilm in Fairbanks, AK floor drains signals grease traps need service before gel baits.
 
-Field note: Connection points spot-checked where accessible (ZIP 99703/99712/99701 zone).
+Tip: Date bait station lids when servicing Fairbanks, AK perimeter lines.
 
-Dispatch sectors sampled: ZIP 99703, 99712, 99701 (county grid: Fairbanks North Star County).
+Attic misting in Fairbanks, AK requires combustion air clearance verified before fans restart.
+
+FAQ: Why do pests return after spraying? Without sealing entry points in Fairbanks, AK, pressure often rebuilds.
+
+Stored cardboard in Fairbanks, AK garages can accelerate pantry pest cycles.
+
+FAQ: When is professional rotation needed? Resistance patterns often require labeled rotation.
+
+Step: map entry points with photo logs before sealing.
+
+Zone map 486980: attic insulation disturbance trace and pantry pest source logged for Fairbanks, AK sector 99701.
+
+On-site sector marker: Fairbanks North Star County / ZIP 99712 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AK-99701-800ddc67

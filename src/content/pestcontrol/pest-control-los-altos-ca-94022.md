@@ -11,26 +11,43 @@ lng: -122.1000
 zipSample: ["94022", "94024", "94023"]
 zipCodes: ["94022", "94024", "94023"]
 localPaths: ["Santa Clara County / elevation 174 ft band", "Santa Clara County / ZIP 94023 sector", "Santa Clara County / ZIP 94022 sector", "Santa Clara County / primary ZIP 94022", "Santa Clara County / coords 37.3700, -122.1000"]
-zillowHomeValueUsd: 5191298
 ---
 
-**Engineering Notice for Los Altos:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Los Altos:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Clara County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document conducive conditions and exclusion materials before chemical applications.
 
-Tip: compare at least two estimates for scope and timeline.
+Label note: Applications must follow EPA product labels for occupant notification.
 
-In Los Altos, CA, urgent pest control issues can escalate quickly.
+Perimeter granule carriers in Los Altos, CA clay soils may need lighter irrigation before application.
 
-Our service coordination centers on Los Altos, CA coverage windows and verified intake details.
+FAQ: Why do pests return after spraying? Without sealing entry points in Los Altos, CA, pressure often rebuilds.
 
-Structured milestones protect both sides when scheduling work.
+Schedule perimeter and attic reviews as separate written phases. Serving ZIP Code: 94022.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94022/94023/94024.
+Risk flag: Rodenticides require secured stations when non-target animals are present.
 
-Field note: Access points and staging constraints recorded for ZIP 94022/94023/94024 coverage.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Los Altos, CA.
 
-Dispatch sectors sampled: ZIP 94022, 94023, 94024 (county grid: Santa Clara County).
+Earwig harborages in Los Altos, CA meter boxes often follow drip irrigation overspray.
+
+Material note: Insect growth regulators extend control windows for roach nymph cycles.
+
+FAQ: Why schedule quarterly instead of monthly in Los Altos, CA? Species pressure and label intervals dictate cadence.
+
+Tip: Photograph weep-hole bridges before mulch refresh near ZIP 94022.
+
+Spider populations in Los Altos, CA eaves can signal insect prey density.
+
+Drain fly biofilm in Los Altos, CA floor drains signals grease traps need service before gel baits.
+
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Harbor ledger 582295: frass lane, mud-tube scan, and garage jamb gap measure filed for Los Altos, CA at 37.3700, -122.1000.
+
+Intercept log 582295: bed bug intercept count staged before Los Altos, CA interior gel zones.
+
+On-site sector marker: Santa Clara County / elevation 174 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94022-dfb23186

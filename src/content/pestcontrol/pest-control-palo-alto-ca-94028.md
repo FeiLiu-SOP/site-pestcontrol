@@ -11,24 +11,41 @@ lng: -122.1500
 zipSample: ["94304", "94306", "94303", "94301", "94028"]
 zipCodes: ["94304", "94022", "94302", "94306", "94028", "94303", "94301"]
 localPaths: ["Santa Clara County / primary ZIP 94028", "Santa Clara County / ZIP 94028 sector", "Santa Clara County / ZIP 94306 sector", "Santa Clara County / ZIP 94303 sector", "Santa Clara County / coords 37.3900, -122.1500"]
-zillowHomeValueUsd: 4274275
 ---
 
-**Engineering Notice for Palo Alto:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Palo Alto:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Clara County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Palo Alto, CA.
 
-Our service coordination centers on Palo Alto, CA coverage windows and verified intake details.
+Step: verify attic access safety before insulation disturbance.
 
-Tip: compare at least two estimates for scope and timeline.
+Earwig harborages in Palo Alto, CA meter boxes often follow drip irrigation overspray.
 
-Tip: request a written scope before work starts.
+FAQ: Why do pests return after spraying? Without sealing entry points in Palo Alto, CA, pressure often rebuilds.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+State note: Palo Alto, CA commercial kitchens may require separate documentation for audit visits.
 
-Field note: Moisture pathway inspection logged near ZIP 94301/94028/94304 intake.
+Powderpost beetle exit holes in Palo Alto, CA trim can be mistaken for dry-wood frass without magnification.
 
-Dispatch sectors sampled: ZIP 94301, 94028, 94304, 94303, 94022 (county grid: Santa Clara County).
+Risk flag: Misidentified species can waste treatment cycles—inspection before broadcast spraying.
+
+Attic fogging in Palo Alto, CA requires combustion appliance shutoff verification first.
+
+Tip: Keep pet food elevated and sealed between service visits.
+
+Material note: Copper mesh and rigid foam differ in rodent exclusion durability at pipe penetrations.
+
+Risk flag: In Palo Alto, CA, moisture ants may indicate plumbing leaks—not only pest pressure.
+
+IGR packets for Palo Alto, CA roach cycles should be dated on station lids.
+
+Mud dauber nests in Palo Alto, CA porch ceilings are benign but signal prey density for spiders.
+
+Perimeter dossier 335976: bait station anchor map and mulch bridge risk flagged for Palo Alto, CA county Santa Clara County (ZIP 94028).
+
+Harbor ledger 335976: frass lane, mud-tube scan, and garage jamb gap measure filed for Palo Alto, CA at 37.3900, -122.1500.
+
+On-site sector marker: Santa Clara County / ZIP 94022 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94028-6851f8a6
