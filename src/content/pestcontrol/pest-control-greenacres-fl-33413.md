@@ -11,6 +11,7 @@ lng: -80.1400
 zipSample: ["33413", "33463"]
 zipCodes: ["33413", "33463"]
 localPaths: ["Palm Beach County / ZIP 33463 sector", "Palm Beach County / coords 26.6300, -80.1400", "Palm Beach County / primary ZIP 33413", "Palm Beach County / elevation 39 ft band", "Palm Beach County / ZIP 33413 sector"]
+zillowHomeValueUsd: 482183
 ---
 
 **Engineering Notice for Greenacres:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Palm Beach County.

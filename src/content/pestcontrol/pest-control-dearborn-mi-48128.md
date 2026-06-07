@@ -11,6 +11,7 @@ lng: -83.2100
 zipSample: ["48123", "48120", "48128", "48126", "48124"]
 zipCodes: ["48123", "48120", "48124", "48126", "48121", "48128"]
 localPaths: ["Wayne County / primary ZIP 48128", "Wayne County / coords 42.3100, -83.2100", "Wayne County / ZIP 48126 sector", "Wayne County / ZIP 48120 sector", "Wayne County / ZIP 48123 sector"]
+zillowHomeValueUsd: 305211
 ---
 
 **Engineering Notice for Dearborn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wayne County.

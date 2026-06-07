@@ -11,6 +11,7 @@ lng: -73.0500
 zipSample: ["11784"]
 zipCodes: ["11784"]
 localPaths: ["Suffolk County / elevation 121 ft band", "Suffolk County / primary ZIP 11784", "Suffolk County / ZIP 11784 sector", "Suffolk County / coords 40.8700, -73.0500"]
+zillowHomeValueUsd: 585543
 ---
 
 **Engineering Notice for Selden:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

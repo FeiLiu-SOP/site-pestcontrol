@@ -11,6 +11,7 @@ lng: -82.9300
 zipSample: ["31021", "31040"]
 zipCodes: ["31040", "31021"]
 localPaths: ["Laurens County / ZIP 31040 sector", "Laurens County / elevation 279 ft band", "Laurens County / ZIP 31021 sector", "Laurens County / primary ZIP 31021", "Laurens County / coords 32.5400, -82.9300"]
+zillowHomeValueUsd: 191953
 ---
 
 **Engineering Notice for Dublin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Laurens County.

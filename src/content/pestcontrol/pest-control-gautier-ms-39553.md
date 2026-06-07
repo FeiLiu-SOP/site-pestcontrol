@@ -11,6 +11,7 @@ lng: -88.6600
 zipSample: ["39564", "39553"]
 zipCodes: ["39553", "39564"]
 localPaths: ["Jackson County / ZIP 39564 sector", "Jackson County / elevation 30 ft band", "Jackson County / coords 30.4100, -88.6600", "Jackson County / ZIP 39553 sector", "Jackson County / primary ZIP 39553"]
+zillowHomeValueUsd: 186792
 ---
 
 **Engineering Notice for Gautier:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jackson County.

@@ -11,6 +11,7 @@ lng: -121.4600
 zipSample: ["95824"]
 zipCodes: ["95824"]
 localPaths: ["Sacramento County / coords 38.5200, -121.4600", "Sacramento County / elevation 30 ft band", "Sacramento County / primary ZIP 95824", "Sacramento County / ZIP 95824 sector"]
+zillowHomeValueUsd: 368898
 ---
 
 **Engineering Notice for Lemon Hill:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sacramento County.

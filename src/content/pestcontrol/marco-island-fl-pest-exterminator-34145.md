@@ -11,7 +11,7 @@ lng: -81.6993
 zipSample: ["34145", "34140", "34146"]
 zipCodes: ["34146", "34145", "34140"]
 localPaths: ["Collier County / coords 25.9330, -81.6993", "Collier County / elevation 345 ft band", "Collier County / ZIP 34145 sector", "Collier County / ZIP 34146 sector", "Collier County / primary ZIP 34145"]
-zillowHomeValueUsd: 865675
+zillowHomeValueUsd: 867757
 ---
 
 **Engineering Notice for Marco Island:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Collier County.

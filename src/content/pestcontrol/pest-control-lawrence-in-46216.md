@@ -11,6 +11,7 @@ lng: -85.9900
 zipSample: ["46235", "46249", "46216", "46236", "46226"]
 zipCodes: ["46226", "46249", "46236", "46216", "46235"]
 localPaths: ["Marion County / ZIP 46235 sector", "Marion County / ZIP 46226 sector", "Marion County / ZIP 46216 sector", "Marion County / ZIP 46236 sector", "Marion County / primary ZIP 46216"]
+zillowHomeValueUsd: 309745
 ---
 
 **Engineering Notice for Lawrence:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marion County.

@@ -11,6 +11,7 @@ lng: -92.9200
 zipSample: ["55129", "55125"]
 zipCodes: ["55125", "55129"]
 localPaths: ["Washington County / elevation 978 ft band", "Washington County / ZIP 55129 sector", "Washington County / ZIP 55125 sector", "Washington County / coords 44.9100, -92.9200", "Washington County / primary ZIP 55129"]
+zillowHomeValueUsd: 533023
 ---
 
 **Engineering Notice for Woodbury:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.

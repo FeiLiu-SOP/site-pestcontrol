@@ -11,6 +11,7 @@ lng: -121.6400
 zipSample: ["95037"]
 zipCodes: ["95037"]
 localPaths: ["Santa Clara County / elevation 358 ft band", "Santa Clara County / ZIP 95037 sector", "Santa Clara County / primary ZIP 95037", "Santa Clara County / coords 37.1300, -121.6400"]
+zillowHomeValueUsd: 1356440
 ---
 
 **Engineering Notice for Morgan Hill:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Clara County.

@@ -11,6 +11,7 @@ lng: -77.0500
 zipSample: ["20906"]
 zipCodes: ["20906"]
 localPaths: ["Montgomery County / coords 39.0700, -77.0500", "Montgomery County / primary ZIP 20906", "Montgomery County / elevation 394 ft band", "Montgomery County / ZIP 20906 sector"]
+zillowHomeValueUsd: 447334
 ---
 
 **Engineering Notice for Glenmont:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

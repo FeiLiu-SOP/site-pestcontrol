@@ -11,6 +11,7 @@ lng: -88.0800
 zipSample: ["54344", "54115"]
 zipCodes: ["54344", "54115"]
 localPaths: ["Brown County / coords 44.4300, -88.0800", "Brown County / elevation 620 ft band", "Brown County / primary ZIP 54115", "Brown County / ZIP 54115 sector", "Brown County / ZIP 54344 sector"]
+zillowHomeValueUsd: 417723
 ---
 
 **Engineering Notice for De Pere:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brown County.

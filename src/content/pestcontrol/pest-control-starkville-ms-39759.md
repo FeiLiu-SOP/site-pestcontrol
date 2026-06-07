@@ -11,6 +11,7 @@ lng: -88.8300
 zipSample: ["39759", "39760"]
 zipCodes: ["39760", "39759"]
 localPaths: ["Oktibbeha County / primary ZIP 39759", "Oktibbeha County / ZIP 39760 sector", "Oktibbeha County / ZIP 39759 sector", "Oktibbeha County / coords 33.4600, -88.8300", "Oktibbeha County / elevation 364 ft band"]
+zillowHomeValueUsd: 282333
 ---
 
 **Engineering Notice for Starkville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oktibbeha County.

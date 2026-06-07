@@ -11,6 +11,7 @@ lng: -98.1200
 zipSample: ["78516"]
 zipCodes: ["78516"]
 localPaths: ["Hidalgo County / elevation 118 ft band", "Hidalgo County / ZIP 78516 sector", "Hidalgo County / coords 26.1800, -98.1200", "Hidalgo County / primary ZIP 78516"]
+zillowHomeValueUsd: 169101
 ---
 
 **Engineering Notice for Alamo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hidalgo County.

@@ -11,6 +11,7 @@ lng: -93.6000
 zipSample: ["50023", "50021"]
 zipCodes: ["50023", "50021"]
 localPaths: ["Polk County / primary ZIP 50023", "Polk County / ZIP 50021 sector", "Polk County / ZIP 50023 sector", "Polk County / coords 41.7300, -93.6000", "Polk County / elevation 991 ft band"]
+zillowHomeValueUsd: 353295
 ---
 
 **Engineering Notice for Ankeny:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Polk County.

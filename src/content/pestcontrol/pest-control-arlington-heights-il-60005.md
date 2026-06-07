@@ -11,6 +11,7 @@ lng: -87.9800
 zipSample: ["60005", "60004"]
 zipCodes: ["60005", "60004"]
 localPaths: ["Cook County / ZIP 60004 sector", "Cook County / primary ZIP 60005", "Cook County / elevation 728 ft band", "Cook County / coords 42.1000, -87.9800", "Cook County / ZIP 60005 sector"]
+zillowHomeValueUsd: 426648
 ---
 
 **Engineering Notice for Arlington Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

@@ -11,6 +11,7 @@ lng: -96.3900
 zipSample: ["74701"]
 zipCodes: ["74701"]
 localPaths: ["Bryan County / primary ZIP 74701", "Bryan County / elevation 686 ft band", "Bryan County / coords 33.9900, -96.3900", "Bryan County / ZIP 74701 sector"]
+zillowHomeValueUsd: 221527
 ---
 
 **Engineering Notice for Durant:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bryan County.

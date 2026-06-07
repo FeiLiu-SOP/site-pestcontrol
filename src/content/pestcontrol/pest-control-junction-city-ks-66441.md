@@ -11,6 +11,7 @@ lng: -96.8500
 zipSample: ["66441"]
 zipCodes: ["66441"]
 localPaths: ["Geary County / coords 39.0300, -96.8500", "Geary County / primary ZIP 66441", "Geary County / elevation 1188 ft band", "Geary County / ZIP 66441 sector"]
+zillowHomeValueUsd: 207548
 ---
 
 **Engineering Notice for Junction City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Geary County.

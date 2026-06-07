@@ -11,6 +11,7 @@ lng: -72.2100
 zipSample: ["06226", "06256"]
 zipCodes: ["06226", "06256"]
 localPaths: ["Southeastern Connecticut County / ZIP 06226 sector", "Southeastern Connecticut County / ZIP 06256 sector", "Southeastern Connecticut County / elevation 384 ft band", "Southeastern Connecticut County / coords 41.7200, -72.2100", "Southeastern Connecticut County / primary ZIP 06256"]
+zillowHomeValueUsd: 303887
 ---
 
 **Engineering Notice for Willimantic:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Southeastern Connecticut County.

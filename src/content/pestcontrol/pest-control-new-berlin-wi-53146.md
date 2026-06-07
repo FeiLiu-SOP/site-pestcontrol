@@ -11,6 +11,7 @@ lng: -88.1300
 zipSample: ["53151", "53146"]
 zipCodes: ["53151", "53146"]
 localPaths: ["Waukesha County / elevation 886 ft band", "Waukesha County / ZIP 53146 sector", "Waukesha County / coords 42.9700, -88.1300", "Waukesha County / ZIP 53151 sector", "Waukesha County / primary ZIP 53146"]
+zillowHomeValueUsd: 441061
 ---
 
 **Engineering Notice for New Berlin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Waukesha County.

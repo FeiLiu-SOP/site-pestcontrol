@@ -11,6 +11,7 @@ lng: -74.4400
 zipSample: ["08933", "08906", "08875", "08901"]
 zipCodes: ["08875", "08901", "08933", "08906"]
 localPaths: ["Middlesex County / ZIP 08906 sector", "Middlesex County / coords 40.4900, -74.4400", "Middlesex County / elevation 62 ft band", "Middlesex County / ZIP 08933 sector", "Middlesex County / ZIP 08901 sector"]
+zillowHomeValueUsd: 443128
 ---
 
 **Engineering Notice for New Brunswick:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.

@@ -11,6 +11,7 @@ lng: -112.3600
 zipSample: ["85376", "85375"]
 zipCodes: ["85375", "85376"]
 localPaths: ["Maricopa County / elevation 1247 ft band", "Maricopa County / ZIP 85376 sector", "Maricopa County / ZIP 85375 sector", "Maricopa County / coords 33.6700, -112.3600", "Maricopa County / primary ZIP 85375"]
+zillowHomeValueUsd: 382113
 ---
 
 **Engineering Notice for Sun City West:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Maricopa County.

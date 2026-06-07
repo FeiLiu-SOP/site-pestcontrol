@@ -11,6 +11,7 @@ lng: -83.3600
 zipSample: ["43041", "43040"]
 zipCodes: ["43041", "43040"]
 localPaths: ["Union County / coords 40.2300, -83.3600", "Union County / ZIP 43041 sector", "Union County / elevation 997 ft band", "Union County / ZIP 43040 sector", "Union County / primary ZIP 43040"]
+zillowHomeValueUsd: 366072
 ---
 
 **Engineering Notice for Marysville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Union County.

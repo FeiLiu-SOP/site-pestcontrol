@@ -11,6 +11,7 @@ lng: -77.1200
 zipSample: ["20852", "20851", "20817", "20895", "20814"]
 zipCodes: ["20895", "20851", "20896", "20817", "20852", "20814"]
 localPaths: ["Montgomery County / ZIP 20895 sector", "Montgomery County / ZIP 20851 sector", "Montgomery County / ZIP 20852 sector", "Montgomery County / elevation 364 ft band", "Montgomery County / ZIP 20817 sector"]
+zillowHomeValueUsd: 819878
 ---
 
 **Engineering Notice for North Bethesda:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

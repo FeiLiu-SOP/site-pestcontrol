@@ -11,6 +11,7 @@ lng: -70.2500
 zipSample: ["04211", "04212", "04223", "04210"]
 zipCodes: ["04223", "04212", "04210", "04211"]
 localPaths: ["Androscoggin County / ZIP 04210 sector", "Androscoggin County / primary ZIP 04210", "Androscoggin County / ZIP 04223 sector", "Androscoggin County / ZIP 04211 sector", "Androscoggin County / elevation 282 ft band"]
+zillowHomeValueUsd: 320978
 ---
 
 **Engineering Notice for Auburn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Androscoggin County.

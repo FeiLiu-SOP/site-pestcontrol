@@ -11,6 +11,7 @@ lng: -93.8900
 zipSample: ["50263", "50003"]
 zipCodes: ["50003", "50263"]
 localPaths: ["Dallas County / ZIP 50263 sector", "Dallas County / elevation 997 ft band", "Dallas County / ZIP 50003 sector", "Dallas County / primary ZIP 50263", "Dallas County / coords 41.6000, -93.8900"]
+zillowHomeValueUsd: 337632
 ---
 
 **Engineering Notice for Waukee:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.

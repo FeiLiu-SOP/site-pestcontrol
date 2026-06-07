@@ -11,6 +11,7 @@ lng: -71.0000
 zipSample: ["02151"]
 zipCodes: ["02151"]
 localPaths: ["Suffolk County / elevation 20 ft band", "Suffolk County / ZIP 02151 sector", "Suffolk County / coords 42.4200, -71.0000", "Suffolk County / primary ZIP 02151"]
+zillowHomeValueUsd: 613250
 ---
 
 **Engineering Notice for Revere:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

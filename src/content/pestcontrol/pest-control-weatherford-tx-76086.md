@@ -11,6 +11,7 @@ lng: -97.7700
 zipSample: ["76087", "76086"]
 zipCodes: ["76087", "76086"]
 localPaths: ["Parker County / ZIP 76086 sector", "Parker County / primary ZIP 76086", "Parker County / coords 32.7500, -97.7700", "Parker County / ZIP 76087 sector", "Parker County / elevation 1020 ft band"]
+zillowHomeValueUsd: 272898
 ---
 
 **Engineering Notice for Weatherford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Parker County.

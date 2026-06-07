@@ -11,6 +11,7 @@ lng: -76.3500
 zipSample: ["23703", "23707", "23702", "23701", "23708"]
 zipCodes: ["23701", "23709", "23704", "23708", "23705", "23707", "23702", "23703"]
 localPaths: ["Portsmouth County / ZIP 23702 sector", "Portsmouth County / ZIP 23707 sector", "Portsmouth County / primary ZIP 23709", "Portsmouth County / ZIP 23703 sector", "Portsmouth County / coords 36.8500, -76.3500"]
+zillowHomeValueUsd: 315688
 ---
 
 **Engineering Notice for Portsmouth:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Portsmouth County.

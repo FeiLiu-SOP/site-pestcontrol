@@ -11,6 +11,7 @@ lng: -118.9200
 zipSample: ["93306", "93307"]
 zipCodes: ["93306", "93307"]
 localPaths: ["Kern County / primary ZIP 93306", "Kern County / coords 35.3700, -118.9200", "Kern County / ZIP 93307 sector", "Kern County / ZIP 93306 sector", "Kern County / elevation 479 ft band"]
+zillowHomeValueUsd: 348713
 ---
 
 **Engineering Notice for East Niles:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kern County.

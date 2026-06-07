@@ -11,6 +11,7 @@ lng: -91.0400
 zipSample: ["70818", "70770", "70739", "70791", "70714"]
 zipCodes: ["70739", "70791", "70819", "70818", "70714", "70770"]
 localPaths: ["East Baton Rouge Parish / ZIP 70739 sector", "East Baton Rouge Parish / ZIP 70770 sector", "East Baton Rouge Parish / ZIP 70714 sector", "East Baton Rouge Parish / primary ZIP 70770", "East Baton Rouge Parish / ZIP 70791 sector"]
+zillowHomeValueUsd: 253847
 ---
 
 **Engineering Notice for Central:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: East Baton Rouge Parish.

@@ -11,6 +11,7 @@ lng: -121.3200
 zipSample: ["95661", "95678", "95747"]
 zipCodes: ["95661", "95678", "95747"]
 localPaths: ["Placer County / ZIP 95747 sector", "Placer County / primary ZIP 95661", "Placer County / coords 38.7700, -121.3200", "Placer County / ZIP 95678 sector", "Placer County / ZIP 95661 sector"]
+zillowHomeValueUsd: 692372
 ---
 
 **Engineering Notice for Roseville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Placer County.

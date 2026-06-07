@@ -11,6 +11,7 @@ lng: -77.4100
 zipSample: ["20167", "20164"]
 zipCodes: ["20164", "20167"]
 localPaths: ["Loudoun County / elevation 335 ft band", "Loudoun County / ZIP 20164 sector", "Loudoun County / ZIP 20167 sector", "Loudoun County / primary ZIP 20164", "Loudoun County / coords 39.0100, -77.4100"]
+zillowHomeValueUsd: 596603
 ---
 
 **Engineering Notice for Sterling:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Loudoun County.

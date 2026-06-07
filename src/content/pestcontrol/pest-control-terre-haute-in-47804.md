@@ -11,6 +11,7 @@ lng: -87.3800
 zipSample: ["47804", "47803", "47807", "47802", "47801"]
 zipCodes: ["47801", "47802", "47807", "47809", "47804", "47803", "47808"]
 localPaths: ["Vigo County / ZIP 47802 sector", "Vigo County / ZIP 47807 sector", "Vigo County / coords 39.4700, -87.3800", "Vigo County / ZIP 47804 sector", "Vigo County / primary ZIP 47804"]
+zillowHomeValueUsd: 101360
 ---
 
 **Engineering Notice for Terre Haute:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Vigo County.

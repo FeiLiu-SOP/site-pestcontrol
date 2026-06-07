@@ -11,6 +11,7 @@ lng: -85.8200
 zipSample: ["47151", "47150"]
 zipCodes: ["47151", "47150"]
 localPaths: ["Floyd County / ZIP 47151 sector", "Floyd County / elevation 482 ft band", "Floyd County / primary ZIP 47150", "Floyd County / coords 38.3100, -85.8200", "Floyd County / ZIP 47150 sector"]
+zillowHomeValueUsd: 232457
 ---
 
 **Engineering Notice for New Albany:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Floyd County.

@@ -11,6 +11,7 @@ lng: -82.7600
 zipSample: ["34689"]
 zipCodes: ["34689"]
 localPaths: ["Pinellas County / ZIP 34689 sector", "Pinellas County / elevation 23 ft band", "Pinellas County / primary ZIP 34689", "Pinellas County / coords 28.1500, -82.7600"]
+zillowHomeValueUsd: 365435
 ---
 
 **Engineering Notice for Tarpon Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pinellas County.

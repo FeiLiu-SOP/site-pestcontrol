@@ -11,6 +11,7 @@ lng: -95.1100
 zipSample: ["77574", "77573", "77565", "77592", "77539"]
 zipCodes: ["77539", "77511", "77592", "77598", "77574", "77565", "77573"]
 localPaths: ["Galveston County / primary ZIP 77573", "Galveston County / ZIP 77574 sector", "Galveston County / ZIP 77565 sector", "Galveston County / ZIP 77539 sector", "Galveston County / ZIP 77592 sector"]
+zillowHomeValueUsd: 382848
 ---
 
 **Engineering Notice for League City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Galveston County.

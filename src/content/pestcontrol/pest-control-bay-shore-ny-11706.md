@@ -11,6 +11,7 @@ lng: -73.2500
 zipSample: ["11706"]
 zipCodes: ["11706"]
 localPaths: ["Suffolk County / coords 40.7300, -73.2500", "Suffolk County / ZIP 11706 sector", "Suffolk County / primary ZIP 11706", "Suffolk County / elevation 30 ft band"]
+zillowHomeValueUsd: 620299
 ---
 
 **Engineering Notice for Bay Shore:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

@@ -11,6 +11,7 @@ lng: -80.2400
 zipSample: ["33147"]
 zipCodes: ["33147"]
 localPaths: ["Miami-Dade County / elevation 30 ft band", "Miami-Dade County / primary ZIP 33147", "Miami-Dade County / coords 25.8400, -80.2400", "Miami-Dade County / ZIP 33147 sector"]
+zillowHomeValueUsd: 434322
 ---
 
 **Engineering Notice for Gladeview:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

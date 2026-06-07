@@ -11,6 +11,7 @@ lng: -86.1000
 zipSample: ["49423", "49422"]
 zipCodes: ["49423", "49422"]
 localPaths: ["Ottawa County / ZIP 49423 sector", "Ottawa County / ZIP 49422 sector", "Ottawa County / elevation 656 ft band", "Ottawa County / coords 42.7700, -86.1000", "Ottawa County / primary ZIP 49423"]
+zillowHomeValueUsd: 347206
 ---
 
 **Engineering Notice for Holland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ottawa County.

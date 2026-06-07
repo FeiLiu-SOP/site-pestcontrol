@@ -11,6 +11,7 @@ lng: -114.5500
 zipSample: ["86430", "86442", "86439", "86429"]
 zipCodes: ["86442", "86439", "86429", "86430"]
 localPaths: ["Mohave County / ZIP 86430 sector", "Mohave County / ZIP 86439 sector", "Mohave County / coords 35.1200, -114.5500", "Mohave County / ZIP 86442 sector", "Mohave County / primary ZIP 86442"]
+zillowHomeValueUsd: 270452
 ---
 
 **Engineering Notice for Bullhead City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Mohave County.

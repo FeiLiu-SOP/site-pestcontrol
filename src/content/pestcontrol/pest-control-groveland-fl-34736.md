@@ -11,6 +11,7 @@ lng: -81.8200
 zipSample: ["34736", "34737"]
 zipCodes: ["34737", "34736"]
 localPaths: ["Lake County / coords 28.6100, -81.8200", "Lake County / ZIP 34737 sector", "Lake County / elevation 121 ft band", "Lake County / ZIP 34736 sector", "Lake County / primary ZIP 34736"]
+zillowHomeValueUsd: 370415
 ---
 
 **Engineering Notice for Groveland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

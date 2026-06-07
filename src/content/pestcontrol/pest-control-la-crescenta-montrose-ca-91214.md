@@ -11,6 +11,7 @@ lng: -118.2400
 zipSample: ["91224", "91214", "91021", "91020"]
 zipCodes: ["91214", "91020", "91224", "91021"]
 localPaths: ["Los Angeles County / ZIP 91020 sector", "Los Angeles County / ZIP 91224 sector", "Los Angeles County / coords 34.2300, -118.2400", "Los Angeles County / ZIP 91021 sector", "Los Angeles County / ZIP 91214 sector"]
+zillowHomeValueUsd: 1257877
 ---
 
 **Engineering Notice for La Crescenta-Montrose:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

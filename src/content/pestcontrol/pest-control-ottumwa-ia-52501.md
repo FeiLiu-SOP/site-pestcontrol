@@ -11,6 +11,7 @@ lng: -92.4200
 zipSample: ["52501"]
 zipCodes: ["52501"]
 localPaths: ["Wapello County / ZIP 52501 sector", "Wapello County / elevation 636 ft band", "Wapello County / primary ZIP 52501", "Wapello County / coords 41.0200, -92.4200"]
+zillowHomeValueUsd: 121519
 ---
 
 **Engineering Notice for Ottumwa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wapello County.

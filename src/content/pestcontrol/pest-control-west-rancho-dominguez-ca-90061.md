@@ -11,6 +11,7 @@ lng: -118.2700
 zipSample: ["90059", "90061", "90248", "90220"]
 zipCodes: ["90059", "90220", "90061", "90248"]
 localPaths: ["Los Angeles County / ZIP 90061 sector", "Los Angeles County / ZIP 90220 sector", "Los Angeles County / ZIP 90059 sector", "Los Angeles County / primary ZIP 90061", "Los Angeles County / coords 33.9100, -118.2700"]
+zillowHomeValueUsd: 633080
 ---
 
 **Engineering Notice for West Rancho Dominguez:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

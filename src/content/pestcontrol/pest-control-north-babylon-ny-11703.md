@@ -11,6 +11,7 @@ lng: -73.3200
 zipSample: ["11703"]
 zipCodes: ["11703"]
 localPaths: ["Suffolk County / coords 40.7300, -73.3200", "Suffolk County / primary ZIP 11703", "Suffolk County / elevation 49 ft band", "Suffolk County / ZIP 11703 sector"]
+zillowHomeValueUsd: 620965
 ---
 
 **Engineering Notice for North Babylon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

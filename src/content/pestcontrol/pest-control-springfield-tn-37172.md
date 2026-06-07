@@ -11,6 +11,7 @@ lng: -86.8700
 zipSample: ["37172"]
 zipCodes: ["37172"]
 localPaths: ["Robertson County / coords 36.4900, -86.8700", "Robertson County / primary ZIP 37172", "Robertson County / elevation 728 ft band", "Robertson County / ZIP 37172 sector"]
+zillowHomeValueUsd: 336501
 ---
 
 **Engineering Notice for Springfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Robertson County.

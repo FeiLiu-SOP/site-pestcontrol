@@ -11,6 +11,7 @@ lng: -122.2000
 zipSample: ["98021", "98041", "98011"]
 zipCodes: ["98021", "98041", "98011"]
 localPaths: ["King County / ZIP 98011 sector", "King County / coords 47.7700, -122.2000", "King County / ZIP 98021 sector", "King County / ZIP 98041 sector", "King County / primary ZIP 98021"]
+zillowHomeValueUsd: 1146105
 ---
 
 **Engineering Notice for Bothell:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.

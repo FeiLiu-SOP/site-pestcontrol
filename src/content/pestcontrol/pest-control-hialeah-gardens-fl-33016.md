@@ -11,6 +11,7 @@ lng: -80.3600
 zipSample: ["33018", "33016"]
 zipCodes: ["33018", "33016"]
 localPaths: ["Miami-Dade County / primary ZIP 33016", "Miami-Dade County / ZIP 33016 sector", "Miami-Dade County / ZIP 33018 sector", "Miami-Dade County / coords 25.8900, -80.3600", "Miami-Dade County / elevation 23 ft band"]
+zillowHomeValueUsd: 296288
 ---
 
 **Engineering Notice for Hialeah Gardens:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

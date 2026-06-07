@@ -11,6 +11,7 @@ lng: -87.9000
 zipSample: ["60017", "60019", "60016", "60018"]
 zipCodes: ["60018", "60019", "60016", "60017"]
 localPaths: ["Cook County / primary ZIP 60018", "Cook County / ZIP 60017 sector", "Cook County / elevation 656 ft band", "Cook County / ZIP 60016 sector", "Cook County / ZIP 60018 sector"]
+zillowHomeValueUsd: 378009
 ---
 
 **Engineering Notice for Des Plaines:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

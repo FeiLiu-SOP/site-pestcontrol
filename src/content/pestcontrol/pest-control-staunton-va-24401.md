@@ -11,6 +11,7 @@ lng: -79.0600
 zipSample: ["24401", "24402"]
 zipCodes: ["24402", "24401"]
 localPaths: ["Staunton County / coords 38.1600, -79.0600", "Staunton County / elevation 1411 ft band", "Staunton County / ZIP 24401 sector", "Staunton County / ZIP 24402 sector", "Staunton County / primary ZIP 24401"]
+zillowHomeValueUsd: 308859
 ---
 
 **Engineering Notice for Staunton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Staunton County.

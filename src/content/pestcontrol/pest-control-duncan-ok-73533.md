@@ -11,6 +11,7 @@ lng: -97.9200
 zipSample: ["73534", "73533", "73055"]
 zipCodes: ["73055", "73534", "73533"]
 localPaths: ["Stephens County / elevation 1171 ft band", "Stephens County / ZIP 73055 sector", "Stephens County / ZIP 73534 sector", "Stephens County / ZIP 73533 sector", "Stephens County / coords 34.5400, -97.9200"]
+zillowHomeValueUsd: 134975
 ---
 
 **Engineering Notice for Duncan:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Stephens County.

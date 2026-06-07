@@ -11,6 +11,7 @@ lng: -92.6200
 zipSample: ["54022"]
 zipCodes: ["54022"]
 localPaths: ["Pierce County / ZIP 54022 sector", "Pierce County / primary ZIP 54022", "Pierce County / elevation 879 ft band", "Pierce County / coords 44.8600, -92.6200"]
+zillowHomeValueUsd: 405460
 ---
 
 **Engineering Notice for River Falls:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pierce County.

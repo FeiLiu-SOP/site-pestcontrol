@@ -11,6 +11,7 @@ lng: -80.0700
 zipSample: ["16508", "16510", "16534", "16511", "16514"]
 zipCodes: ["16522", "16534", "16514", "16541", "16510", "16544", "16508", "16502", "16511", "16504", "16501", "16503"]
 localPaths: ["Erie County / ZIP 16508 sector", "Erie County / primary ZIP 16546", "Erie County / ZIP 16510 sector", "Erie County / ZIP 16514 sector", "Erie County / ZIP 16511 sector"]
+zillowHomeValueUsd: 261963
 ---
 
 **Engineering Notice for Erie:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Erie County.

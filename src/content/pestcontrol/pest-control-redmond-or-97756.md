@@ -11,6 +11,7 @@ lng: -121.1800
 zipSample: ["97756"]
 zipCodes: ["97756"]
 localPaths: ["Deschutes County / coords 44.2600, -121.1800", "Deschutes County / primary ZIP 97756", "Deschutes County / ZIP 97756 sector", "Deschutes County / elevation 3005 ft band"]
+zillowHomeValueUsd: 513428
 ---
 
 **Engineering Notice for Redmond:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Deschutes County.

@@ -11,6 +11,7 @@ lng: -89.2400
 zipSample: ["53590"]
 zipCodes: ["53590"]
 localPaths: ["Dane County / primary ZIP 53590", "Dane County / coords 43.1800, -89.2400", "Dane County / elevation 984 ft band", "Dane County / ZIP 53590 sector"]
+zillowHomeValueUsd: 449448
 ---
 
 **Engineering Notice for Sun Prairie:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dane County.

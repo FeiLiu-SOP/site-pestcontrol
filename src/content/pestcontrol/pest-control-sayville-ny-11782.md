@@ -11,6 +11,7 @@ lng: -73.0800
 zipSample: ["11782"]
 zipCodes: ["11782"]
 localPaths: ["Suffolk County / coords 40.7500, -73.0800", "Suffolk County / elevation 39 ft band", "Suffolk County / primary ZIP 11782", "Suffolk County / ZIP 11782 sector"]
+zillowHomeValueUsd: 745315
 ---
 
 **Engineering Notice for Sayville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

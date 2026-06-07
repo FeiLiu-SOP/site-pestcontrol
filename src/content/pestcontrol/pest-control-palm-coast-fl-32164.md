@@ -11,6 +11,7 @@ lng: -81.2500
 zipSample: ["32142", "32164", "32143", "32136", "32135"]
 zipCodes: ["32136", "32142", "32143", "32135", "32164", "32137"]
 localPaths: ["Flagler County / elevation 46 ft band", "Flagler County / ZIP 32143 sector", "Flagler County / ZIP 32142 sector", "Flagler County / ZIP 32136 sector", "Flagler County / coords 29.5400, -81.2500"]
+zillowHomeValueUsd: 322304
 ---
 
 **Engineering Notice for Palm Coast:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Flagler County.

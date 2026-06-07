@@ -11,6 +11,7 @@ lng: -77.0800
 zipSample: ["20853", "20906", "20908", "20897", "20916"]
 zipCodes: ["20897", "20908", "20906", "20916", "20853"]
 localPaths: ["Montgomery County / ZIP 20853 sector", "Montgomery County / ZIP 20906 sector", "Montgomery County / ZIP 20897 sector", "Montgomery County / elevation 440 ft band", "Montgomery County / coords 39.0900, -77.0800"]
+zillowHomeValueUsd: 636785
 ---
 
 **Engineering Notice for Aspen Hill:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

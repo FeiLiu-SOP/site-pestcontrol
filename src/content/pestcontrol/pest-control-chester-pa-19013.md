@@ -11,6 +11,7 @@ lng: -75.3700
 zipSample: ["19016", "19013"]
 zipCodes: ["19013", "19016"]
 localPaths: ["Delaware County / ZIP 19013 sector", "Delaware County / coords 39.8500, -75.3700", "Delaware County / primary ZIP 19013", "Delaware County / ZIP 19016 sector", "Delaware County / elevation 56 ft band"]
+zillowHomeValueUsd: 113454
 ---
 
 **Engineering Notice for Chester:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Delaware County.

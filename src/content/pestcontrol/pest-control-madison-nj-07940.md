@@ -11,6 +11,7 @@ lng: -74.4200
 zipSample: ["07940"]
 zipCodes: ["07940"]
 localPaths: ["Morris County / elevation 262 ft band", "Morris County / coords 40.7600, -74.4200", "Morris County / ZIP 07940 sector", "Morris County / primary ZIP 07940"]
+zillowHomeValueUsd: 1030693
 ---
 
 **Engineering Notice for Madison:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Morris County.

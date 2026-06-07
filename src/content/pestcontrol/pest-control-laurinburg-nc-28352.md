@@ -11,6 +11,7 @@ lng: -79.4800
 zipSample: ["28352", "28353"]
 zipCodes: ["28352", "28353"]
 localPaths: ["Scotland County / primary ZIP 28352", "Scotland County / coords 34.7600, -79.4800", "Scotland County / elevation 236 ft band", "Scotland County / ZIP 28353 sector", "Scotland County / ZIP 28352 sector"]
+zillowHomeValueUsd: 148984
 ---
 
 **Engineering Notice for Laurinburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Scotland County.

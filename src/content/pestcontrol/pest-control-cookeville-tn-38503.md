@@ -11,6 +11,7 @@ lng: -85.5100
 zipSample: ["38506", "38503", "38502", "38501", "38505"]
 zipCodes: ["38502", "38506", "38503", "38501", "38505"]
 localPaths: ["Putnam County / ZIP 38501 sector", "Putnam County / ZIP 38502 sector", "Putnam County / coords 36.1500, -85.5100", "Putnam County / ZIP 38506 sector", "Putnam County / ZIP 38503 sector"]
+zillowHomeValueUsd: 300294
 ---
 
 **Engineering Notice for Cookeville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Putnam County.

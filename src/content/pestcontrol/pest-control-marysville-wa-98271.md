@@ -11,6 +11,7 @@ lng: -122.1600
 zipSample: ["98271", "98270"]
 zipCodes: ["98271", "98270"]
 localPaths: ["Snohomish County / coords 48.0800, -122.1600", "Snohomish County / ZIP 98270 sector", "Snohomish County / elevation 69 ft band", "Snohomish County / primary ZIP 98271", "Snohomish County / ZIP 98271 sector"]
+zillowHomeValueUsd: 597287
 ---
 
 **Engineering Notice for Marysville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Snohomish County.

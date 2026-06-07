@@ -11,6 +11,7 @@ lng: -124.1600
 zipSample: ["95501", "95503", "95534", "95521", "95502"]
 zipCodes: ["95534", "95501", "95502", "95521", "95503"]
 localPaths: ["Humboldt County / ZIP 95503 sector", "Humboldt County / ZIP 95521 sector", "Humboldt County / ZIP 95501 sector", "Humboldt County / coords 40.7900, -124.1600", "Humboldt County / primary ZIP 95503"]
+zillowHomeValueUsd: 426527
 ---
 
 **Engineering Notice for Eureka:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Humboldt County.

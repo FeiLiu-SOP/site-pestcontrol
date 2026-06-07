@@ -11,6 +11,7 @@ lng: -81.1400
 zipSample: ["29212", "29210", "29227"]
 zipCodes: ["29212", "29210", "29227"]
 localPaths: ["Lexington County / primary ZIP 29212", "Lexington County / ZIP 29227 sector", "Lexington County / coords 34.0500, -81.1400", "Lexington County / ZIP 29212 sector", "Lexington County / ZIP 29210 sector"]
+zillowHomeValueUsd: 277792
 ---
 
 **Engineering Notice for Seven Oaks:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lexington County.

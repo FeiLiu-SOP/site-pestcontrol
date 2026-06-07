@@ -11,6 +11,7 @@ lng: -122.0300
 zipSample: ["94560"]
 zipCodes: ["94560"]
 localPaths: ["Alameda County / primary ZIP 94560", "Alameda County / coords 37.5200, -122.0300", "Alameda County / elevation 13 ft band", "Alameda County / ZIP 94560 sector"]
+zillowHomeValueUsd: 1260657
 ---
 
 **Engineering Notice for Newark:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alameda County.

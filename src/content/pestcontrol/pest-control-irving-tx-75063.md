@@ -11,6 +11,7 @@ lng: -96.9700
 zipSample: ["75039", "75015", "75326", "75063", "75014"]
 zipCodes: ["75368", "75061", "75038", "75014", "75063", "75016", "75039", "75015", "75017", "75059", "75060", "75062"]
 localPaths: ["Dallas County / ZIP 75326 sector", "Dallas County / coords 32.8600, -96.9700", "Dallas County / elevation 577 ft band", "Dallas County / ZIP 75063 sector", "Dallas County / primary ZIP 75063"]
+zillowHomeValueUsd: 610905
 ---
 
 **Engineering Notice for Irving:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.

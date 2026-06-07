@@ -11,6 +11,7 @@ lng: -76.9000
 zipSample: ["28532", "28533"]
 zipCodes: ["28532", "28533"]
 localPaths: ["Craven County / coords 34.9100, -76.9000", "Craven County / primary ZIP 28533", "Craven County / elevation 26 ft band", "Craven County / ZIP 28532 sector", "Craven County / ZIP 28533 sector"]
+zillowHomeValueUsd: 233657
 ---
 
 **Engineering Notice for Havelock:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Craven County.

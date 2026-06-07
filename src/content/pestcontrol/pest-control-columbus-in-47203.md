@@ -11,6 +11,7 @@ lng: -85.9200
 zipSample: ["47203", "47202", "47201"]
 zipCodes: ["47202", "47201", "47203"]
 localPaths: ["Bartholomew County / primary ZIP 47203", "Bartholomew County / elevation 633 ft band", "Bartholomew County / ZIP 47202 sector", "Bartholomew County / coords 39.2100, -85.9200", "Bartholomew County / ZIP 47203 sector"]
+zillowHomeValueUsd: 285722
 ---
 
 **Engineering Notice for Columbus:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bartholomew County.

@@ -11,6 +11,7 @@ lng: -111.9300
 zipSample: ["85283", "85284", "85282", "85285", "85280"]
 zipCodes: ["85280", "85287", "85282", "85284", "85285", "85288", "85283", "85281"]
 localPaths: ["Maricopa County / ZIP 85280 sector", "Maricopa County / ZIP 85283 sector", "Maricopa County / primary ZIP 85281", "Maricopa County / elevation 1171 ft band", "Maricopa County / ZIP 85282 sector"]
+zillowHomeValueUsd: 402198
 ---
 
 **Engineering Notice for Tempe:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Maricopa County.

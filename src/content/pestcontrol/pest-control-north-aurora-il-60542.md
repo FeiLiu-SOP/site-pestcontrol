@@ -11,6 +11,7 @@ lng: -88.3400
 zipSample: ["60542"]
 zipCodes: ["60542"]
 localPaths: ["Kane County / elevation 712 ft band", "Kane County / primary ZIP 60542", "Kane County / ZIP 60542 sector", "Kane County / coords 41.8100, -88.3400"]
+zillowHomeValueUsd: 394244
 ---
 
 **Engineering Notice for North Aurora:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kane County.

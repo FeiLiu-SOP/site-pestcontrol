@@ -11,6 +11,7 @@ lng: -122.4000
 zipSample: ["94030"]
 zipCodes: ["94030"]
 localPaths: ["San Mateo County / elevation 92 ft band", "San Mateo County / primary ZIP 94030", "San Mateo County / ZIP 94030 sector", "San Mateo County / coords 37.6000, -122.4000"]
+zillowHomeValueUsd: 2081738
 ---
 
 **Engineering Notice for Millbrae:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Mateo County.

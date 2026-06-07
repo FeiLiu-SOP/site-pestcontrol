@@ -11,6 +11,7 @@ lng: -116.3900
 zipSample: ["83642", "83634"]
 zipCodes: ["83642", "83634"]
 localPaths: ["Ada County / ZIP 83634 sector", "Ada County / elevation 2726 ft band", "Ada County / coords 43.4900, -116.3900", "Ada County / primary ZIP 83634", "Ada County / ZIP 83642 sector"]
+zillowHomeValueUsd: 459298
 ---
 
 **Engineering Notice for Kuna:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ada County.

@@ -11,6 +11,7 @@ lng: -74.2800
 zipSample: ["07065"]
 zipCodes: ["07065"]
 localPaths: ["Union County / primary ZIP 07065", "Union County / elevation 36 ft band", "Union County / coords 40.6100, -74.2800", "Union County / ZIP 07065 sector"]
+zillowHomeValueUsd: 529867
 ---
 
 **Engineering Notice for Rahway:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Union County.

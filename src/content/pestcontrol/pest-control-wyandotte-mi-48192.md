@@ -11,6 +11,7 @@ lng: -83.1600
 zipSample: ["48192"]
 zipCodes: ["48192"]
 localPaths: ["Wayne County / coords 42.2100, -83.1600", "Wayne County / primary ZIP 48192", "Wayne County / ZIP 48192 sector", "Wayne County / elevation 577 ft band"]
+zillowHomeValueUsd: 186219
 ---
 
 **Engineering Notice for Wyandotte:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wayne County.

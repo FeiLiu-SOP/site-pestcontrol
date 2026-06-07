@@ -11,6 +11,7 @@ lng: -72.6700
 zipSample: ["01053", "01062", "01061", "01063", "01060"]
 zipCodes: ["01053", "01063", "01061", "01060", "01062"]
 localPaths: ["Hampshire County / ZIP 01053 sector", "Hampshire County / ZIP 01063 sector", "Hampshire County / ZIP 01060 sector", "Hampshire County / primary ZIP 01060", "Hampshire County / ZIP 01062 sector"]
+zillowHomeValueUsd: 498157
 ---
 
 **Engineering Notice for Northampton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hampshire County.

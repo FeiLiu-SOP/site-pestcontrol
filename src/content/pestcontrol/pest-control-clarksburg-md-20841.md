@@ -11,6 +11,7 @@ lng: -77.2700
 zipSample: ["20876", "20871", "20841"]
 zipCodes: ["20871", "20876", "20841"]
 localPaths: ["Montgomery County / elevation 551 ft band", "Montgomery County / ZIP 20876 sector", "Montgomery County / ZIP 20841 sector", "Montgomery County / primary ZIP 20841", "Montgomery County / ZIP 20871 sector"]
+zillowHomeValueUsd: 838594
 ---
 
 **Engineering Notice for Clarksburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

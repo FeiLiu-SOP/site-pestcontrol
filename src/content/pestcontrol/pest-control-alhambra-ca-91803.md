@@ -11,6 +11,7 @@ lng: -118.1400
 zipSample: ["91802", "91899", "91804", "91801", "91896"]
 zipCodes: ["91803", "91801", "91899", "91896", "91804", "91802"]
 localPaths: ["Los Angeles County / ZIP 91899 sector", "Los Angeles County / coords 34.0800, -118.1400", "Los Angeles County / elevation 456 ft band", "Los Angeles County / ZIP 91804 sector", "Los Angeles County / ZIP 91896 sector"]
+zillowHomeValueUsd: 960752
 ---
 
 **Engineering Notice for Alhambra:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

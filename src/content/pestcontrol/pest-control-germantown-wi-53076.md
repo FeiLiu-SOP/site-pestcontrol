@@ -11,6 +11,7 @@ lng: -88.1200
 zipSample: ["53076", "53022"]
 zipCodes: ["53022", "53076"]
 localPaths: ["Washington County / primary ZIP 53076", "Washington County / ZIP 53022 sector", "Washington County / coords 43.2300, -88.1200", "Washington County / ZIP 53076 sector", "Washington County / elevation 873 ft band"]
+zillowHomeValueUsd: 587291
 ---
 
 **Engineering Notice for Germantown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.

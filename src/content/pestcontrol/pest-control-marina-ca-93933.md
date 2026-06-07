@@ -11,6 +11,7 @@ lng: -121.7900
 zipSample: ["93933"]
 zipCodes: ["93933"]
 localPaths: ["Monterey County / primary ZIP 93933", "Monterey County / coords 36.6800, -121.7900", "Monterey County / elevation 72 ft band", "Monterey County / ZIP 93933 sector"]
+zillowHomeValueUsd: 869396
 ---
 
 **Engineering Notice for Marina:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Monterey County.

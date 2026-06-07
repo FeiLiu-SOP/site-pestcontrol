@@ -11,6 +11,7 @@ lng: -81.0100
 zipSample: ["32122", "32123", "32128", "32129", "32127"]
 zipCodes: ["32128", "32129", "32122", "32123", "32127"]
 localPaths: ["Volusia County / ZIP 32129 sector", "Volusia County / ZIP 32127 sector", "Volusia County / ZIP 32122 sector", "Volusia County / ZIP 32123 sector", "Volusia County / ZIP 32128 sector"]
+zillowHomeValueUsd: 351790
 ---
 
 **Engineering Notice for Port Orange:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Volusia County.

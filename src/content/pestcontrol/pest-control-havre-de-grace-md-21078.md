@@ -11,6 +11,7 @@ lng: -76.1100
 zipSample: ["21078"]
 zipCodes: ["21078"]
 localPaths: ["Harford County / elevation 157 ft band", "Harford County / ZIP 21078 sector", "Harford County / coords 39.5500, -76.1100", "Harford County / primary ZIP 21078"]
+zillowHomeValueUsd: 404437
 ---
 
 **Engineering Notice for Havre de Grace:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harford County.

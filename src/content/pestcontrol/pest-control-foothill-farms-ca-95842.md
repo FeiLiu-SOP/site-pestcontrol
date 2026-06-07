@@ -11,6 +11,7 @@ lng: -121.3500
 zipSample: ["95841", "95842"]
 zipCodes: ["95841", "95842"]
 localPaths: ["Sacramento County / ZIP 95841 sector", "Sacramento County / primary ZIP 95842", "Sacramento County / ZIP 95842 sector", "Sacramento County / elevation 154 ft band", "Sacramento County / coords 38.6900, -121.3500"]
+zillowHomeValueUsd: 423923
 ---
 
 **Engineering Notice for Foothill Farms:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sacramento County.

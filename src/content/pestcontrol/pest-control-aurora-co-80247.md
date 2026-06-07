@@ -11,6 +11,7 @@ lng: -104.7200
 zipSample: ["80013", "80137", "80014", "80018", "80019"]
 zipCodes: ["80010", "80019", "80012", "80016", "80041", "80015", "80014", "80017", "80040", "80047", "80018", "80137"]
 localPaths: ["Arapahoe County / coords 39.7100, -104.7200", "Arapahoe County / ZIP 80137 sector", "Arapahoe County / elevation 5574 ft band", "Arapahoe County / ZIP 80019 sector", "Arapahoe County / primary ZIP 80247"]
+zillowHomeValueUsd: 262386
 ---
 
 **Engineering Notice for Aurora:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Arapahoe County.

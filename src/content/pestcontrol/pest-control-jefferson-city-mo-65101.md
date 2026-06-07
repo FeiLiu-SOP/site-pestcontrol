@@ -11,6 +11,7 @@ lng: -92.1800
 zipSample: ["65110", "65111", "65104", "65103", "65108"]
 zipCodes: ["65106", "65108", "65111", "65102", "65104", "65109", "65107", "65103", "65110", "65105", "65101"]
 localPaths: ["Cole County / primary ZIP 65101", "Cole County / ZIP 65111 sector", "Cole County / coords 38.5700, -92.1800", "Cole County / ZIP 65108 sector", "Cole County / ZIP 65104 sector"]
+zillowHomeValueUsd: 265680
 ---
 
 **Engineering Notice for Jefferson City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cole County.

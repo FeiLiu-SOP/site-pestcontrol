@@ -11,6 +11,7 @@ lng: -118.2400
 zipSample: ["90002", "90001"]
 zipCodes: ["90002", "90001"]
 localPaths: ["Los Angeles County / ZIP 90001 sector", "Los Angeles County / primary ZIP 90001", "Los Angeles County / ZIP 90002 sector", "Los Angeles County / elevation 151 ft band", "Los Angeles County / coords 33.9700, -118.2400"]
+zillowHomeValueUsd: 588272
 ---
 
 **Engineering Notice for Florence-Graham:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

@@ -11,6 +11,7 @@ lng: -107.8600
 zipSample: ["81401", "81403", "81402"]
 zipCodes: ["81403", "81401", "81402"]
 localPaths: ["Montrose County / ZIP 81403 sector", "Montrose County / ZIP 81401 sector", "Montrose County / ZIP 81402 sector", "Montrose County / primary ZIP 81403", "Montrose County / coords 38.4700, -107.8600"]
+zillowHomeValueUsd: 600789
 ---
 
 **Engineering Notice for Montrose:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montrose County.

@@ -11,6 +11,7 @@ lng: -82.7700
 zipSample: ["33778", "33771", "33770", "33760", "33773"]
 zipCodes: ["33760", "33771", "33779", "33756", "33774", "33773", "33770", "33778", "33764"]
 localPaths: ["Pinellas County / ZIP 33770 sector", "Pinellas County / primary ZIP 33756", "Pinellas County / ZIP 33773 sector", "Pinellas County / elevation 16 ft band", "Pinellas County / ZIP 33760 sector"]
+zillowHomeValueUsd: 354069
 ---
 
 **Engineering Notice for Largo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pinellas County.

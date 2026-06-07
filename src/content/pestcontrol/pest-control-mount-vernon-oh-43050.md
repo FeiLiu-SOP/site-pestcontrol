@@ -11,6 +11,7 @@ lng: -82.4700
 zipSample: ["43050"]
 zipCodes: ["43050"]
 localPaths: ["Knox County / ZIP 43050 sector", "Knox County / coords 40.3900, -82.4700", "Knox County / elevation 978 ft band", "Knox County / primary ZIP 43050"]
+zillowHomeValueUsd: 244519
 ---
 
 **Engineering Notice for Mount Vernon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Knox County.

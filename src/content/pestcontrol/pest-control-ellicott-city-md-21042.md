@@ -11,6 +11,7 @@ lng: -76.8300
 zipSample: ["21043", "21041", "21042"]
 zipCodes: ["21042", "21041", "21043"]
 localPaths: ["Howard County / elevation 384 ft band", "Howard County / ZIP 21043 sector", "Howard County / ZIP 21042 sector", "Howard County / primary ZIP 21042", "Howard County / coords 39.2800, -76.8300"]
+zillowHomeValueUsd: 809305
 ---
 
 **Engineering Notice for Ellicott City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Howard County.

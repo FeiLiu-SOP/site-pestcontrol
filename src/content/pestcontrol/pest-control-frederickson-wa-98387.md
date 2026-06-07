@@ -11,6 +11,7 @@ lng: -122.3600
 zipSample: ["98446", "98375", "98387"]
 zipCodes: ["98375", "98387", "98446"]
 localPaths: ["Pierce County / coords 47.0900, -122.3600", "Pierce County / primary ZIP 98387", "Pierce County / elevation 407 ft band", "Pierce County / ZIP 98375 sector", "Pierce County / ZIP 98387 sector"]
+zillowHomeValueUsd: 509426
 ---
 
 **Engineering Notice for Frederickson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pierce County.

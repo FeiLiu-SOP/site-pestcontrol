@@ -11,6 +11,7 @@ lng: -94.3500
 zipSample: ["64053", "64015", "64050", "64016", "64057"]
 zipCodes: ["64057", "64050", "64015", "64053", "64016", "64051", "64054", "64052", "64055", "64056"]
 localPaths: ["Jackson County / coords 39.0900, -94.3500", "Jackson County / ZIP 64016 sector", "Jackson County / ZIP 64053 sector", "Jackson County / elevation 869 ft band", "Jackson County / ZIP 64057 sector"]
+zillowHomeValueUsd: 159659
 ---
 
 **Engineering Notice for Independence:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jackson County.

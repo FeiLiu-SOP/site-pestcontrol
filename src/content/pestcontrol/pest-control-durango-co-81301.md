@@ -11,6 +11,7 @@ lng: -107.8800
 zipSample: ["81301", "81326"]
 zipCodes: ["81301", "81326"]
 localPaths: ["La Plata County / ZIP 81301 sector", "La Plata County / elevation 6539 ft band", "La Plata County / ZIP 81326 sector", "La Plata County / primary ZIP 81301", "La Plata County / coords 37.2700, -107.8800"]
+zillowHomeValueUsd: 757883
 ---
 
 **Engineering Notice for Durango:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: La Plata County.

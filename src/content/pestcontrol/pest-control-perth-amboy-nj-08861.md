@@ -11,6 +11,7 @@ lng: -74.2700
 zipSample: ["08862", "08861"]
 zipCodes: ["08861", "08862"]
 localPaths: ["Middlesex County / coords 40.5200, -74.2700", "Middlesex County / primary ZIP 08861", "Middlesex County / ZIP 08862 sector", "Middlesex County / ZIP 08861 sector", "Middlesex County / elevation 85 ft band"]
+zillowHomeValueUsd: 495673
 ---
 
 **Engineering Notice for Perth Amboy:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.

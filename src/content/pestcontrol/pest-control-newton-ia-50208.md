@@ -11,6 +11,7 @@ lng: -93.0400
 zipSample: ["50208"]
 zipCodes: ["50208"]
 localPaths: ["Jasper County / coords 41.7000, -93.0400", "Jasper County / ZIP 50208 sector", "Jasper County / elevation 958 ft band", "Jasper County / primary ZIP 50208"]
+zillowHomeValueUsd: 201401
 ---
 
 **Engineering Notice for Newton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jasper County.

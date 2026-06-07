@@ -11,6 +11,7 @@ lng: -122.7000
 zipSample: ["97036", "97035", "97034"]
 zipCodes: ["97035", "97034", "97036"]
 localPaths: ["Clackamas County / ZIP 97034 sector", "Clackamas County / primary ZIP 97034", "Clackamas County / ZIP 97036 sector", "Clackamas County / ZIP 97035 sector", "Clackamas County / elevation 272 ft band"]
+zillowHomeValueUsd: 1121969
 ---
 
 **Engineering Notice for Lake Oswego:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clackamas County.

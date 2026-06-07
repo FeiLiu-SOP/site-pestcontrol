@@ -11,6 +11,7 @@ lng: -88.1000
 zipSample: ["60440", "60490"]
 zipCodes: ["60490", "60440"]
 localPaths: ["Will County / primary ZIP 60440", "Will County / elevation 676 ft band", "Will County / ZIP 60490 sector", "Will County / ZIP 60440 sector", "Will County / coords 41.6900, -88.1000"]
+zillowHomeValueUsd: 326878
 ---
 
 **Engineering Notice for Bolingbrook:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Will County.

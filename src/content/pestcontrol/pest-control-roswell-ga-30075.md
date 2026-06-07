@@ -11,6 +11,7 @@ lng: -84.3500
 zipSample: ["30075", "30076", "30077"]
 zipCodes: ["30075", "30077", "30076"]
 localPaths: ["Fulton County / ZIP 30076 sector", "Fulton County / coords 34.0400, -84.3500", "Fulton County / elevation 1060 ft band", "Fulton County / ZIP 30077 sector", "Fulton County / ZIP 30075 sector"]
+zillowHomeValueUsd: 707519
 ---
 
 **Engineering Notice for Roswell:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fulton County.

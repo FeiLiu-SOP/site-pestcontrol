@@ -11,6 +11,7 @@ lng: -88.2500
 zipSample: ["60013"]
 zipCodes: ["60013"]
 localPaths: ["McHenry County / ZIP 60013 sector", "McHenry County / coords 42.2100, -88.2500", "McHenry County / elevation 820 ft band", "McHenry County / primary ZIP 60013"]
+zillowHomeValueUsd: 370695
 ---
 
 **Engineering Notice for Cary:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: McHenry County.

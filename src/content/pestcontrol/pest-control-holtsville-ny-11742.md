@@ -11,6 +11,7 @@ lng: -73.0400
 zipSample: ["00544", "00501", "11742"]
 zipCodes: ["00544", "11742", "00501"]
 localPaths: ["Suffolk County / primary ZIP 11742", "Suffolk County / ZIP 00501 sector", "Suffolk County / ZIP 11742 sector", "Suffolk County / coords 40.8100, -73.0400", "Suffolk County / ZIP 00544 sector"]
+zillowHomeValueUsd: 630842
 ---
 
 **Engineering Notice for Holtsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

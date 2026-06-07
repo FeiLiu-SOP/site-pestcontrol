@@ -11,6 +11,7 @@ lng: -93.2200
 zipSample: ["65721"]
 zipCodes: ["65721"]
 localPaths: ["Christian County / elevation 1296 ft band", "Christian County / ZIP 65721 sector", "Christian County / primary ZIP 65721", "Christian County / coords 37.0400, -93.2200"]
+zillowHomeValueUsd: 314971
 ---
 
 **Engineering Notice for Ozark:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Christian County.

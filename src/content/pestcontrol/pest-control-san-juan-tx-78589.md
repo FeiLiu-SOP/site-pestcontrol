@@ -11,6 +11,7 @@ lng: -98.1500
 zipSample: ["78589"]
 zipCodes: ["78589"]
 localPaths: ["Hidalgo County / elevation 121 ft band", "Hidalgo County / primary ZIP 78589", "Hidalgo County / ZIP 78589 sector", "Hidalgo County / coords 26.1900, -98.1500"]
+zillowHomeValueUsd: 183925
 ---
 
 **Engineering Notice for San Juan:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hidalgo County.

@@ -11,6 +11,7 @@ lng: -122.1800
 zipSample: ["94563"]
 zipCodes: ["94563"]
 localPaths: ["Contra Costa County / coords 37.8800, -122.1800", "Contra Costa County / elevation 571 ft band", "Contra Costa County / ZIP 94563 sector", "Contra Costa County / primary ZIP 94563"]
+zillowHomeValueUsd: 1986073
 ---
 
 **Engineering Notice for Orinda:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.

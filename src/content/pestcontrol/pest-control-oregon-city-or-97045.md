@@ -11,6 +11,7 @@ lng: -122.5900
 zipSample: ["97045"]
 zipCodes: ["97045"]
 localPaths: ["Clackamas County / coords 45.3400, -122.5900", "Clackamas County / ZIP 97045 sector", "Clackamas County / elevation 469 ft band", "Clackamas County / primary ZIP 97045"]
+zillowHomeValueUsd: 602858
 ---
 
 **Engineering Notice for Oregon City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clackamas County.

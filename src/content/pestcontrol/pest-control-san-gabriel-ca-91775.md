@@ -11,6 +11,7 @@ lng: -118.1000
 zipSample: ["91778", "91776", "91775"]
 zipCodes: ["91778", "91776", "91775"]
 localPaths: ["Los Angeles County / primary ZIP 91775", "Los Angeles County / coords 34.0900, -118.1000", "Los Angeles County / ZIP 91775 sector", "Los Angeles County / elevation 407 ft band", "Los Angeles County / ZIP 91778 sector"]
+zillowHomeValueUsd: 1282400
 ---
 
 **Engineering Notice for San Gabriel:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

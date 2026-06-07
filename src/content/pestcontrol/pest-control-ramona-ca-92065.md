@@ -11,6 +11,7 @@ lng: -116.8800
 zipSample: ["92065"]
 zipCodes: ["92065"]
 localPaths: ["San Diego County / ZIP 92065 sector", "San Diego County / primary ZIP 92065", "San Diego County / elevation 1467 ft band", "San Diego County / coords 33.0500, -116.8800"]
+zillowHomeValueUsd: 812887
 ---
 
 **Engineering Notice for Ramona:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.

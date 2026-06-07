@@ -11,6 +11,7 @@ lng: -119.2600
 zipSample: ["93215"]
 zipCodes: ["93215"]
 localPaths: ["Kern County / elevation 302 ft band", "Kern County / ZIP 93215 sector", "Kern County / coords 35.7700, -119.2600", "Kern County / primary ZIP 93215"]
+zillowHomeValueUsd: 335358
 ---
 
 **Engineering Notice for Delano:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kern County.

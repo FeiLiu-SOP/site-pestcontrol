@@ -11,6 +11,7 @@ lng: -71.0200
 zipSample: ["02171", "02269", "02169", "02170"]
 zipCodes: ["02269", "02169", "02171", "02170"]
 localPaths: ["Norfolk County / ZIP 02269 sector", "Norfolk County / primary ZIP 02169", "Norfolk County / ZIP 02171 sector", "Norfolk County / coords 42.2500, -71.0200", "Norfolk County / ZIP 02169 sector"]
+zillowHomeValueUsd: 631226
 ---
 
 **Engineering Notice for Quincy:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Norfolk County.

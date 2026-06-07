@@ -11,6 +11,7 @@ lng: -97.0700
 zipSample: ["76210", "76208"]
 zipCodes: ["76210", "76208"]
 localPaths: ["Denton County / ZIP 76210 sector", "Denton County / ZIP 76208 sector", "Denton County / primary ZIP 76208", "Denton County / coords 33.1400, -97.0700", "Denton County / elevation 636 ft band"]
+zillowHomeValueUsd: 409485
 ---
 
 **Engineering Notice for Corinth:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Denton County.

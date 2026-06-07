@@ -11,6 +11,7 @@ lng: -122.5500
 zipSample: ["98464", "98467", "98466"]
 zipCodes: ["98466", "98467", "98464"]
 localPaths: ["Pierce County / ZIP 98464 sector", "Pierce County / primary ZIP 98466", "Pierce County / elevation 413 ft band", "Pierce County / ZIP 98467 sector", "Pierce County / coords 47.2100, -122.5500"]
+zillowHomeValueUsd: 630780
 ---
 
 **Engineering Notice for University Place:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pierce County.

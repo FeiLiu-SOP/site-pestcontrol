@@ -11,6 +11,7 @@ lng: -93.7800
 zipSample: ["50334", "50322", "50323"]
 zipCodes: ["50323", "50322", "50334"]
 localPaths: ["Polk County / primary ZIP 50323", "Polk County / ZIP 50334 sector", "Polk County / coords 41.6400, -93.7800", "Polk County / ZIP 50323 sector", "Polk County / elevation 971 ft band"]
+zillowHomeValueUsd: 452175
 ---
 
 **Engineering Notice for Urbandale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Polk County.

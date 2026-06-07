@@ -11,6 +11,7 @@ lng: -80.4000
 zipSample: ["33186"]
 zipCodes: ["33186"]
 localPaths: ["Miami-Dade County / primary ZIP 33186", "Miami-Dade County / coords 25.6700, -80.4000", "Miami-Dade County / elevation 26 ft band", "Miami-Dade County / ZIP 33186 sector"]
+zillowHomeValueUsd: 522081
 ---
 
 **Engineering Notice for The Crossings:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

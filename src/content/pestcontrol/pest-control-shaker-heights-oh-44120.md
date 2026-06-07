@@ -11,6 +11,7 @@ lng: -81.5500
 zipSample: ["44122", "44120"]
 zipCodes: ["44122", "44120"]
 localPaths: ["Cuyahoga County / ZIP 44120 sector", "Cuyahoga County / primary ZIP 44120", "Cuyahoga County / elevation 1027 ft band", "Cuyahoga County / coords 41.4700, -81.5500", "Cuyahoga County / ZIP 44122 sector"]
+zillowHomeValueUsd: 132978
 ---
 
 **Engineering Notice for Shaker Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cuyahoga County.

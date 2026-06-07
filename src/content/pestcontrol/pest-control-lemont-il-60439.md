@@ -11,6 +11,7 @@ lng: -87.9800
 zipSample: ["60439"]
 zipCodes: ["60439"]
 localPaths: ["Cook County / elevation 745 ft band", "Cook County / coords 41.6700, -87.9800", "Cook County / ZIP 60439 sector", "Cook County / primary ZIP 60439"]
+zillowHomeValueUsd: 569541
 ---
 
 **Engineering Notice for Lemont:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

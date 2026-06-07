@@ -11,6 +11,7 @@ lng: -85.4900
 zipSample: ["36832", "36831", "36830", "36849"]
 zipCodes: ["36832", "36849", "36831", "36830"]
 localPaths: ["Lee County / ZIP 36849 sector", "Lee County / elevation 728 ft band", "Lee County / coords 32.6100, -85.4900", "Lee County / ZIP 36832 sector", "Lee County / ZIP 36831 sector"]
+zillowHomeValueUsd: 423694
 ---
 
 **Engineering Notice for Auburn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lee County.

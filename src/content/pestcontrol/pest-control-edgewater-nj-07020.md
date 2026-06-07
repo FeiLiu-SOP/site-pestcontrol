@@ -11,6 +11,7 @@ lng: -73.9700
 zipSample: ["07020"]
 zipCodes: ["07020"]
 localPaths: ["Bergen County / primary ZIP 07020", "Bergen County / ZIP 07020 sector", "Bergen County / coords 40.8200, -73.9700", "Bergen County / elevation 26 ft band"]
+zillowHomeValueUsd: 714930
 ---
 
 **Engineering Notice for Edgewater:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bergen County.

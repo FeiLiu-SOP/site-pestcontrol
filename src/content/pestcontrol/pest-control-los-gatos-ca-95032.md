@@ -11,6 +11,7 @@ lng: -121.9600
 zipSample: ["95036", "95030", "95032"]
 zipCodes: ["95032", "95030", "95036"]
 localPaths: ["Santa Clara County / ZIP 95030 sector", "Santa Clara County / coords 37.2300, -121.9600", "Santa Clara County / primary ZIP 95032", "Santa Clara County / elevation 354 ft band", "Santa Clara County / ZIP 95032 sector"]
+zillowHomeValueUsd: 2648073
 ---
 
 **Engineering Notice for Los Gatos:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Clara County.

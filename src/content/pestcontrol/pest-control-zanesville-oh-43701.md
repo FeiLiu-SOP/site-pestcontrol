@@ -11,6 +11,7 @@ lng: -82.0100
 zipSample: ["43702", "43701"]
 zipCodes: ["43701", "43702"]
 localPaths: ["Muskingum County / elevation 774 ft band", "Muskingum County / primary ZIP 43701", "Muskingum County / coords 39.9600, -82.0100", "Muskingum County / ZIP 43701 sector", "Muskingum County / ZIP 43702 sector"]
+zillowHomeValueUsd: 197418
 ---
 
 **Engineering Notice for Zanesville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Muskingum County.

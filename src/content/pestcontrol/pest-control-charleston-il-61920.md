@@ -11,6 +11,7 @@ lng: -88.1800
 zipSample: ["61920"]
 zipCodes: ["61920"]
 localPaths: ["Coles County / coords 39.4800, -88.1800", "Coles County / elevation 702 ft band", "Coles County / primary ZIP 61920", "Coles County / ZIP 61920 sector"]
+zillowHomeValueUsd: 162305
 ---
 
 **Engineering Notice for Charleston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Coles County.

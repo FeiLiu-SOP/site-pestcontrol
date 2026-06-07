@@ -11,6 +11,7 @@ lng: -104.8400
 zipSample: ["80037", "80022", "80640"]
 zipCodes: ["80037", "80640", "80022"]
 localPaths: ["Adams County / ZIP 80640 sector", "Adams County / coords 39.8600, -104.8400", "Adams County / primary ZIP 80640", "Adams County / ZIP 80022 sector", "Adams County / ZIP 80037 sector"]
+zillowHomeValueUsd: 506013
 ---
 
 **Engineering Notice for Commerce City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Adams County.

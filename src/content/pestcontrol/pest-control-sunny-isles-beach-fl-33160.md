@@ -11,6 +11,7 @@ lng: -80.1200
 zipSample: ["33160"]
 zipCodes: ["33160"]
 localPaths: ["Miami-Dade County / ZIP 33160 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / coords 25.9400, -80.1200", "Miami-Dade County / primary ZIP 33160"]
+zillowHomeValueUsd: 515977
 ---
 
 **Engineering Notice for Sunny Isles Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

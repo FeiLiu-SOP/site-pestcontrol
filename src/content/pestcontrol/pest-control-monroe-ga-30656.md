@@ -11,6 +11,7 @@ lng: -83.7200
 zipSample: ["30656", "30655"]
 zipCodes: ["30655", "30656"]
 localPaths: ["Walton County / primary ZIP 30656", "Walton County / ZIP 30656 sector", "Walton County / elevation 951 ft band", "Walton County / coords 33.8000, -83.7200", "Walton County / ZIP 30655 sector"]
+zillowHomeValueUsd: 398067
 ---
 
 **Engineering Notice for Monroe:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Walton County.

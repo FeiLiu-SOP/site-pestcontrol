@@ -11,6 +11,7 @@ lng: -74.1200
 zipSample: ["07032", "07099"]
 zipCodes: ["07032", "07099"]
 localPaths: ["Hudson County / ZIP 07032 sector", "Hudson County / primary ZIP 07032", "Hudson County / elevation -1 ft band", "Hudson County / ZIP 07099 sector", "Hudson County / coords 40.7500, -74.1200"]
+zillowHomeValueUsd: 583853
 ---
 
 **Engineering Notice for Kearny:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hudson County.

@@ -11,6 +11,7 @@ lng: -70.7800
 zipSample: ["03802", "03804", "03801", "03803"]
 zipCodes: ["03804", "03803", "03801", "03802"]
 localPaths: ["Rockingham County / ZIP 03803 sector", "Rockingham County / coords 43.0600, -70.7800", "Rockingham County / elevation 72 ft band", "Rockingham County / primary ZIP 03801", "Rockingham County / ZIP 03804 sector"]
+zillowHomeValueUsd: 809407
 ---
 
 **Engineering Notice for Portsmouth:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rockingham County.

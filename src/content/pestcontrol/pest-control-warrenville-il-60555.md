@@ -11,6 +11,7 @@ lng: -88.1900
 zipSample: ["60555"]
 zipCodes: ["60555"]
 localPaths: ["DuPage County / elevation 705 ft band", "DuPage County / coords 41.8200, -88.1900", "DuPage County / ZIP 60555 sector", "DuPage County / primary ZIP 60555"]
+zillowHomeValueUsd: 349935
 ---
 
 **Engineering Notice for Warrenville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.

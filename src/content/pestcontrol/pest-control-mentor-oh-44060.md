@@ -11,6 +11,7 @@ lng: -81.3400
 zipSample: ["44060", "44061"]
 zipCodes: ["44060", "44061"]
 localPaths: ["Lake County / ZIP 44060 sector", "Lake County / primary ZIP 44060", "Lake County / elevation 630 ft band", "Lake County / coords 41.6900, -81.3400", "Lake County / ZIP 44061 sector"]
+zillowHomeValueUsd: 271688
 ---
 
 **Engineering Notice for Mentor:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

@@ -11,6 +11,7 @@ lng: -84.1500
 zipSample: ["30098", "30097", "30096"]
 zipCodes: ["30096", "30097", "30098"]
 localPaths: ["Gwinnett County / ZIP 30097 sector", "Gwinnett County / ZIP 30098 sector", "Gwinnett County / primary ZIP 30097", "Gwinnett County / coords 34.0100, -84.1500", "Gwinnett County / ZIP 30096 sector"]
+zillowHomeValueUsd: 720353
 ---
 
 **Engineering Notice for Duluth:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gwinnett County.

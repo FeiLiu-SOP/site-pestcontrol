@@ -11,6 +11,7 @@ lng: -122.0200
 zipSample: ["94552", "94587"]
 zipCodes: ["94552", "94587"]
 localPaths: ["Alameda County / ZIP 94587 sector", "Alameda County / elevation 92 ft band", "Alameda County / coords 37.6000, -122.0200", "Alameda County / primary ZIP 94552", "Alameda County / ZIP 94552 sector"]
+zillowHomeValueUsd: 1409437
 ---
 
 **Engineering Notice for Union City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alameda County.

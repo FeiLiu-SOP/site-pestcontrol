@@ -11,6 +11,7 @@ lng: -80.0000
 zipSample: ["29410"]
 zipCodes: ["29410"]
 localPaths: ["Berkeley County / primary ZIP 29410", "Berkeley County / coords 32.9300, -80.0000", "Berkeley County / ZIP 29410 sector", "Berkeley County / elevation 26 ft band"]
+zillowHomeValueUsd: 404429
 ---
 
 **Engineering Notice for Hanahan:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Berkeley County.

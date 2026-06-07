@@ -11,6 +11,8 @@ lng: -66.7400
 zipSample: ["00614", "00612", "00613"]
 zipCodes: ["00614", "00612", "00613"]
 localPaths: ["Arecibo County / ZIP 00612 sector", "Arecibo County / ZIP 00614 sector", "Arecibo County / ZIP 00613 sector", "Arecibo County / coords 18.4500, -66.7400", "Arecibo County / elevation 243 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 385036
 ---
 
 **Engineering Notice for Arecibo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Arecibo County.

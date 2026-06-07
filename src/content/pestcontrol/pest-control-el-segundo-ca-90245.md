@@ -11,6 +11,7 @@ lng: -118.4000
 zipSample: ["90245"]
 zipCodes: ["90245"]
 localPaths: ["Los Angeles County / coords 33.9200, -118.4000", "Los Angeles County / ZIP 90245 sector", "Los Angeles County / elevation 131 ft band", "Los Angeles County / primary ZIP 90245"]
+zillowHomeValueUsd: 1757308
 ---
 
 **Engineering Notice for El Segundo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

@@ -11,6 +11,7 @@ lng: -92.0800
 zipSample: ["71202", "71201", "71212", "71213", "71209"]
 zipCodes: ["71201", "71213", "71207", "71209", "71212", "71210", "71203", "71202", "71217"]
 localPaths: ["Ouachita Parish / ZIP 71209 sector", "Ouachita Parish / primary ZIP 71212", "Ouachita Parish / coords 32.5200, -92.0800", "Ouachita Parish / elevation 95 ft band", "Ouachita Parish / ZIP 71213 sector"]
+zillowHomeValueUsd: 182873
 ---
 
 **Engineering Notice for Monroe:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ouachita Parish.

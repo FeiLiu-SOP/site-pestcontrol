@@ -11,6 +11,7 @@ lng: -91.8200
 zipSample: ["70563", "70562", "70560"]
 zipCodes: ["70563", "70562", "70560"]
 localPaths: ["Iberia Parish / ZIP 70562 sector", "Iberia Parish / ZIP 70563 sector", "Iberia Parish / ZIP 70560 sector", "Iberia Parish / elevation 36 ft band", "Iberia Parish / primary ZIP 70560"]
+zillowHomeValueUsd: 112913
 ---
 
 **Engineering Notice for New Iberia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Iberia Parish.

@@ -11,6 +11,7 @@ lng: -88.2100
 zipSample: ["60103"]
 zipCodes: ["60103"]
 localPaths: ["DuPage County / primary ZIP 60103", "DuPage County / elevation 797 ft band", "DuPage County / coords 41.9800, -88.2100", "DuPage County / ZIP 60103 sector"]
+zillowHomeValueUsd: 427221
 ---
 
 **Engineering Notice for Bartlett:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.

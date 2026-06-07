@@ -11,6 +11,7 @@ lng: -80.3200
 zipSample: ["33143", "33155"]
 zipCodes: ["33143", "33155"]
 localPaths: ["Miami-Dade County / ZIP 33143 sector", "Miami-Dade County / primary ZIP 33143", "Miami-Dade County / elevation 39 ft band", "Miami-Dade County / coords 25.7100, -80.3200", "Miami-Dade County / ZIP 33155 sector"]
+zillowHomeValueUsd: 936781
 ---
 
 **Engineering Notice for Glenvar Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

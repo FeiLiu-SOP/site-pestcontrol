@@ -11,6 +11,7 @@ lng: -97.4400
 zipSample: ["73115", "73117"]
 zipCodes: ["73117", "73115"]
 localPaths: ["Oklahoma County / ZIP 73115 sector", "Oklahoma County / ZIP 73117 sector", "Oklahoma County / coords 35.4500, -97.4400", "Oklahoma County / elevation 1227 ft band", "Oklahoma County / primary ZIP 73115"]
+zillowHomeValueUsd: 138423
 ---
 
 **Engineering Notice for Del City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oklahoma County.

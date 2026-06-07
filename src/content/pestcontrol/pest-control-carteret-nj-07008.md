@@ -11,6 +11,7 @@ lng: -74.2300
 zipSample: ["07008"]
 zipCodes: ["07008"]
 localPaths: ["Middlesex County / coords 40.5800, -74.2300", "Middlesex County / elevation 16 ft band", "Middlesex County / primary ZIP 07008", "Middlesex County / ZIP 07008 sector"]
+zillowHomeValueUsd: 548067
 ---
 
 **Engineering Notice for Carteret:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.

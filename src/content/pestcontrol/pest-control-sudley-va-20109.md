@@ -11,6 +11,7 @@ lng: -77.5000
 zipSample: ["20109"]
 zipCodes: ["20109"]
 localPaths: ["Prince William County / primary ZIP 20109", "Prince William County / elevation 203 ft band", "Prince William County / coords 38.7900, -77.5000", "Prince William County / ZIP 20109 sector"]
+zillowHomeValueUsd: 456332
 ---
 
 **Engineering Notice for Sudley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince William County.

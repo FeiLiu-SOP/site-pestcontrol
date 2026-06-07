@@ -11,6 +11,7 @@ lng: -115.7000
 zipSample: ["83647"]
 zipCodes: ["83647"]
 localPaths: ["Elmore County / primary ZIP 83647", "Elmore County / ZIP 83647 sector", "Elmore County / coords 43.1300, -115.7000", "Elmore County / elevation 3143 ft band"]
+zillowHomeValueUsd: 355925
 ---
 
 **Engineering Notice for Mountain Home:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Elmore County.

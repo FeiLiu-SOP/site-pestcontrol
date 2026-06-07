@@ -11,6 +11,7 @@ lng: -73.4700
 zipSample: ["06813", "06810", "06811"]
 zipCodes: ["06813", "06811", "06810"]
 localPaths: ["Western Connecticut County / ZIP 06811 sector", "Western Connecticut County / elevation 449 ft band", "Western Connecticut County / primary ZIP 06810", "Western Connecticut County / ZIP 06813 sector", "Western Connecticut County / ZIP 06810 sector"]
+zillowHomeValueUsd: 450545
 ---
 
 **Engineering Notice for Danbury:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Western Connecticut County.

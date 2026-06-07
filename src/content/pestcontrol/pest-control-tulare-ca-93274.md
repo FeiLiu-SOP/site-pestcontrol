@@ -11,6 +11,7 @@ lng: -119.3400
 zipSample: ["93275", "93274"]
 zipCodes: ["93274", "93275"]
 localPaths: ["Tulare County / primary ZIP 93274", "Tulare County / ZIP 93274 sector", "Tulare County / ZIP 93275 sector", "Tulare County / elevation 289 ft band", "Tulare County / coords 36.2000, -119.3400"]
+zillowHomeValueUsd: 355544
 ---
 
 **Engineering Notice for Tulare:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tulare County.

@@ -11,6 +11,7 @@ lng: -80.3900
 zipSample: ["27012", "27103"]
 zipCodes: ["27103", "27012"]
 localPaths: ["Forsyth County / elevation 814 ft band", "Forsyth County / coords 36.0300, -80.3900", "Forsyth County / ZIP 27103 sector", "Forsyth County / ZIP 27012 sector", "Forsyth County / primary ZIP 27012"]
+zillowHomeValueUsd: 388273
 ---
 
 **Engineering Notice for Clemmons:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Forsyth County.

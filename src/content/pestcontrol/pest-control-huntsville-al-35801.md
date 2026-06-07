@@ -11,6 +11,7 @@ lng: -86.6400
 zipSample: ["35741", "35897", "35809", "35806", "35756"]
 zipCodes: ["35805", "35801", "35896", "35895", "35807", "35893", "35816", "35756", "35814", "35809", "35741", "35824"]
 localPaths: ["Madison County / elevation 650 ft band", "Madison County / ZIP 35741 sector", "Madison County / ZIP 35897 sector", "Madison County / ZIP 35756 sector", "Madison County / ZIP 35809 sector"]
+zillowHomeValueUsd: 394324
 ---
 
 **Engineering Notice for Huntsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Madison County.

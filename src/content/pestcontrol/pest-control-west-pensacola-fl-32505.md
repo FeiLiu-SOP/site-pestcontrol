@@ -11,6 +11,7 @@ lng: -87.2700
 zipSample: ["32505", "32506", "32507"]
 zipCodes: ["32505", "32507", "32506"]
 localPaths: ["Escambia County / ZIP 32507 sector", "Escambia County / ZIP 32505 sector", "Escambia County / primary ZIP 32505", "Escambia County / coords 30.4300, -87.2700", "Escambia County / ZIP 32506 sector"]
+zillowHomeValueUsd: 148958
 ---
 
 **Engineering Notice for West Pensacola:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Escambia County.

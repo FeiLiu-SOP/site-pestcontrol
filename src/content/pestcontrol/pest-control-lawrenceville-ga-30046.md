@@ -11,6 +11,7 @@ lng: -83.9900
 zipSample: ["30046", "30049"]
 zipCodes: ["30046", "30049"]
 localPaths: ["Gwinnett County / primary ZIP 30046", "Gwinnett County / coords 33.9500, -83.9900", "Gwinnett County / ZIP 30049 sector", "Gwinnett County / elevation 1083 ft band", "Gwinnett County / ZIP 30046 sector"]
+zillowHomeValueUsd: 345081
 ---
 
 **Engineering Notice for Lawrenceville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gwinnett County.

@@ -11,6 +11,7 @@ lng: -77.3000
 zipSample: ["22015"]
 zipCodes: ["22015"]
 localPaths: ["Fairfax County / ZIP 22015 sector", "Fairfax County / primary ZIP 22015", "Fairfax County / coords 38.7900, -77.3000", "Fairfax County / elevation 384 ft band"]
+zillowHomeValueUsd: 733844
 ---
 
 **Engineering Notice for Burke Centre:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.

@@ -11,6 +11,7 @@ lng: -105.0400
 zipSample: ["80516"]
 zipCodes: ["80516"]
 localPaths: ["Weld County / coords 40.0400, -105.0400", "Weld County / primary ZIP 80516", "Weld County / ZIP 80516 sector", "Weld County / elevation 5056 ft band"]
+zillowHomeValueUsd: 714112
 ---
 
 **Engineering Notice for Erie:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Weld County.

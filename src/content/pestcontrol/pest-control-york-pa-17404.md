@@ -11,6 +11,7 @@ lng: -76.7300
 zipSample: ["17405", "17403", "17401", "17404"]
 zipCodes: ["17404", "17401", "17405", "17403"]
 localPaths: ["York County / ZIP 17403 sector", "York County / coords 39.9700, -76.7300", "York County / ZIP 17405 sector", "York County / ZIP 17401 sector", "York County / ZIP 17404 sector"]
+zillowHomeValueUsd: 255863
 ---
 
 **Engineering Notice for York:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: York County.

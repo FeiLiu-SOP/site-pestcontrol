@@ -11,6 +11,7 @@ lng: -121.9700
 zipSample: ["95687", "95688"]
 zipCodes: ["95687", "95688"]
 localPaths: ["Solano County / primary ZIP 95687", "Solano County / coords 38.3600, -121.9700", "Solano County / ZIP 95688 sector", "Solano County / elevation 131 ft band", "Solano County / ZIP 95687 sector"]
+zillowHomeValueUsd: 581854
 ---
 
 **Engineering Notice for Vacaville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Solano County.

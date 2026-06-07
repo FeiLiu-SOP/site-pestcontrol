@@ -11,6 +11,7 @@ lng: -73.1400
 zipSample: ["06484"]
 zipCodes: ["06484"]
 localPaths: ["Naugatuck Valley County / elevation 417 ft band", "Naugatuck Valley County / coords 41.3100, -73.1400", "Naugatuck Valley County / primary ZIP 06484", "Naugatuck Valley County / ZIP 06484 sector"]
+zillowHomeValueUsd: 549228
 ---
 
 **Engineering Notice for Shelton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Naugatuck Valley County.

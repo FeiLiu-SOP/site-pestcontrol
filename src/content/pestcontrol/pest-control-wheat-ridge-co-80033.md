@@ -11,6 +11,7 @@ lng: -105.1000
 zipSample: ["80034", "80033"]
 zipCodes: ["80034", "80033"]
 localPaths: ["Jefferson County / ZIP 80033 sector", "Jefferson County / primary ZIP 80033", "Jefferson County / coords 39.7700, -105.1000", "Jefferson County / elevation 5381 ft band", "Jefferson County / ZIP 80034 sector"]
+zillowHomeValueUsd: 599389
 ---
 
 **Engineering Notice for Wheat Ridge:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.

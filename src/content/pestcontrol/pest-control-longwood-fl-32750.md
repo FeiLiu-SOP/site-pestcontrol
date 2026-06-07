@@ -11,6 +11,7 @@ lng: -81.3500
 zipSample: ["32750"]
 zipCodes: ["32750"]
 localPaths: ["Seminole County / coords 28.7000, -81.3500", "Seminole County / ZIP 32750 sector", "Seminole County / primary ZIP 32750", "Seminole County / elevation 92 ft band"]
+zillowHomeValueUsd: 399189
 ---
 
 **Engineering Notice for Longwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Seminole County.

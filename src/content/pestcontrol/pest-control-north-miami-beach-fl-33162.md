@@ -11,6 +11,7 @@ lng: -80.1700
 zipSample: ["33160", "33280", "33162"]
 zipCodes: ["33160", "33162", "33280"]
 localPaths: ["Miami-Dade County / ZIP 33160 sector", "Miami-Dade County / primary ZIP 33162", "Miami-Dade County / coords 25.9300, -80.1700", "Miami-Dade County / ZIP 33280 sector", "Miami-Dade County / ZIP 33162 sector"]
+zillowHomeValueUsd: 463885
 ---
 
 **Engineering Notice for North Miami Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

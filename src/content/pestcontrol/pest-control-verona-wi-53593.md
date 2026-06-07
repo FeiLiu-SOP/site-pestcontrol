@@ -11,6 +11,7 @@ lng: -89.5400
 zipSample: ["53593"]
 zipCodes: ["53593"]
 localPaths: ["Dane County / coords 42.9900, -89.5400", "Dane County / ZIP 53593 sector", "Dane County / elevation 1004 ft band", "Dane County / primary ZIP 53593"]
+zillowHomeValueUsd: 593062
 ---
 
 **Engineering Notice for Verona:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dane County.

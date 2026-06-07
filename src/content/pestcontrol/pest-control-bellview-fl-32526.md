@@ -11,6 +11,7 @@ lng: -87.3100
 zipSample: ["32526"]
 zipCodes: ["32526"]
 localPaths: ["Escambia County / elevation 98 ft band", "Escambia County / coords 30.4600, -87.3100", "Escambia County / ZIP 32526 sector", "Escambia County / primary ZIP 32526"]
+zillowHomeValueUsd: 281250
 ---
 
 **Engineering Notice for Bellview:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Escambia County.

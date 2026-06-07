@@ -11,6 +11,7 @@ lng: -111.0100
 zipSample: ["85705"]
 zipCodes: ["85705"]
 localPaths: ["Pima County / coords 32.2900, -111.0100", "Pima County / elevation 2270 ft band", "Pima County / ZIP 85705 sector", "Pima County / primary ZIP 85705"]
+zillowHomeValueUsd: 254246
 ---
 
 **Engineering Notice for Flowing Wells:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pima County.

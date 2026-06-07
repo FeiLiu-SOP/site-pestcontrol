@@ -11,6 +11,7 @@ lng: -99.0800
 zipSample: ["68845", "68847", "68849", "68848"]
 zipCodes: ["68849", "68848", "68845", "68847"]
 localPaths: ["Buffalo County / primary ZIP 68847", "Buffalo County / ZIP 68849 sector", "Buffalo County / ZIP 68848 sector", "Buffalo County / ZIP 68845 sector", "Buffalo County / elevation 2165 ft band"]
+zillowHomeValueUsd: 281711
 ---
 
 **Engineering Notice for Kearney:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Buffalo County.

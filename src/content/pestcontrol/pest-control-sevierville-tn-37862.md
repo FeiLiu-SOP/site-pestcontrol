@@ -11,6 +11,7 @@ lng: -83.5700
 zipSample: ["37876", "37764", "37862"]
 zipCodes: ["37876", "37862", "37764"]
 localPaths: ["Sevier County / elevation 981 ft band", "Sevier County / ZIP 37862 sector", "Sevier County / ZIP 37876 sector", "Sevier County / primary ZIP 37862", "Sevier County / ZIP 37764 sector"]
+zillowHomeValueUsd: 448906
 ---
 
 **Engineering Notice for Sevierville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sevier County.

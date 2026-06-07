@@ -11,6 +11,7 @@ lng: -118.9200
 zipSample: ["93016", "93015"]
 zipCodes: ["93015", "93016"]
 localPaths: ["Ventura County / ZIP 93016 sector", "Ventura County / coords 34.4000, -118.9200", "Ventura County / primary ZIP 93015", "Ventura County / elevation 466 ft band", "Ventura County / ZIP 93015 sector"]
+zillowHomeValueUsd: 699374
 ---
 
 **Engineering Notice for Fillmore:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ventura County.

@@ -11,6 +11,7 @@ lng: -92.0800
 zipSample: ["70570", "70571"]
 zipCodes: ["70571", "70570"]
 localPaths: ["St. Landry Parish / primary ZIP 70570", "St. Landry Parish / ZIP 70570 sector", "St. Landry Parish / ZIP 70571 sector", "St. Landry Parish / elevation 72 ft band", "St. Landry Parish / coords 30.5300, -92.0800"]
+zillowHomeValueUsd: 122650
 ---
 
 **Engineering Notice for Opelousas:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Landry Parish.

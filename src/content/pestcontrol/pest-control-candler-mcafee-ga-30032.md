@@ -11,6 +11,7 @@ lng: -84.2700
 zipSample: ["30032"]
 zipCodes: ["30032"]
 localPaths: ["DeKalb County / elevation 948 ft band", "DeKalb County / ZIP 30032 sector", "DeKalb County / primary ZIP 30032", "DeKalb County / coords 33.7300, -84.2700"]
+zillowHomeValueUsd: 232650
 ---
 
 **Engineering Notice for Candler-McAfee:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeKalb County.

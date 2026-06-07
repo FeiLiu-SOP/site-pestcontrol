@@ -11,6 +11,7 @@ lng: -81.4800
 zipSample: ["34758", "34759", "33896"]
 zipCodes: ["33896", "34759", "34758"]
 localPaths: ["Polk County / ZIP 34758 sector", "Polk County / ZIP 34759 sector", "Polk County / primary ZIP 33896", "Polk County / elevation 92 ft band", "Polk County / ZIP 33896 sector"]
+zillowHomeValueUsd: 356462
 ---
 
 **Engineering Notice for Poinciana:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Polk County.

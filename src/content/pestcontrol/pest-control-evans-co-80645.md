@@ -11,6 +11,7 @@ lng: -104.7400
 zipSample: ["80645", "80620", "80634"]
 zipCodes: ["80620", "80634", "80645"]
 localPaths: ["Weld County / elevation 4701 ft band", "Weld County / coords 40.3700, -104.7400", "Weld County / ZIP 80634 sector", "Weld County / ZIP 80620 sector", "Weld County / primary ZIP 80645"]
+zillowHomeValueUsd: 455797
 ---
 
 **Engineering Notice for Evans:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Weld County.

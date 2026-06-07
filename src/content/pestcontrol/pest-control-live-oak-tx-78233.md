@@ -11,6 +11,7 @@ lng: -98.3400
 zipSample: ["78233"]
 zipCodes: ["78233"]
 localPaths: ["Bexar County / primary ZIP 78233", "Bexar County / ZIP 78233 sector", "Bexar County / elevation 866 ft band", "Bexar County / coords 29.5500, -98.3400"]
+zillowHomeValueUsd: 232985
 ---
 
 **Engineering Notice for Live Oak:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bexar County.

@@ -11,6 +11,7 @@ lng: -93.0900
 zipSample: ["55118"]
 zipCodes: ["55118"]
 localPaths: ["Dakota County / primary ZIP 55118", "Dakota County / coords 44.9000, -93.0900", "Dakota County / ZIP 55118 sector", "Dakota County / elevation 1033 ft band"]
+zillowHomeValueUsd: 364234
 ---
 
 **Engineering Notice for West St. Paul:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dakota County.

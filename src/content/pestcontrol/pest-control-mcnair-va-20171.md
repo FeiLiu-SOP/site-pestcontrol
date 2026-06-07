@@ -11,6 +11,7 @@ lng: -77.4100
 zipSample: ["20171"]
 zipCodes: ["20171"]
 localPaths: ["Fairfax County / primary ZIP 20171", "Fairfax County / ZIP 20171 sector", "Fairfax County / coords 38.9500, -77.4100", "Fairfax County / elevation 322 ft band"]
+zillowHomeValueUsd: 819510
 ---
 
 **Engineering Notice for McNair:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.

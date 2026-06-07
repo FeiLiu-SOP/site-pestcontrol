@@ -11,6 +11,7 @@ lng: -89.9700
 zipSample: ["38126", "38109", "38120", "37544", "38163"]
 zipCodes: ["38018", "38137", "38150", "38152", "38148", "38163", "37544", "38016", "38194", "38104", "38134", "38119"]
 localPaths: ["Shelby County / ZIP 38163 sector", "Shelby County / ZIP 37544 sector", "Shelby County / coords 35.1100, -89.9700", "Shelby County / primary ZIP 38120", "Shelby County / ZIP 38109 sector"]
+zillowHomeValueUsd: 423518
 ---
 
 **Engineering Notice for Memphis:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Shelby County.

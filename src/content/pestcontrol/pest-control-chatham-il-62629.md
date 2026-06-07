@@ -11,6 +11,7 @@ lng: -89.6900
 zipSample: ["62629"]
 zipCodes: ["62629"]
 localPaths: ["Sangamon County / primary ZIP 62629", "Sangamon County / elevation 600 ft band", "Sangamon County / ZIP 62629 sector", "Sangamon County / coords 39.6700, -89.6900"]
+zillowHomeValueUsd: 297639
 ---
 
 **Engineering Notice for Chatham:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sangamon County.

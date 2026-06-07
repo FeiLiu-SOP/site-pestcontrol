@@ -11,6 +11,7 @@ lng: -80.8300
 zipSample: ["28117", "28115"]
 zipCodes: ["28115", "28117"]
 localPaths: ["Iredell County / primary ZIP 28117", "Iredell County / coords 35.5800, -80.8300", "Iredell County / ZIP 28115 sector", "Iredell County / ZIP 28117 sector", "Iredell County / elevation 853 ft band"]
+zillowHomeValueUsd: 632042
 ---
 
 **Engineering Notice for Mooresville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Iredell County.

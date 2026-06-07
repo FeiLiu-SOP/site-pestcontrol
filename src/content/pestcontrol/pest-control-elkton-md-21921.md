@@ -11,6 +11,7 @@ lng: -75.8200
 zipSample: ["21921", "21922"]
 zipCodes: ["21921", "21922"]
 localPaths: ["Cecil County / ZIP 21922 sector", "Cecil County / elevation 13 ft band", "Cecil County / primary ZIP 21921", "Cecil County / coords 39.6100, -75.8200", "Cecil County / ZIP 21921 sector"]
+zillowHomeValueUsd: 369119
 ---
 
 **Engineering Notice for Elkton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cecil County.

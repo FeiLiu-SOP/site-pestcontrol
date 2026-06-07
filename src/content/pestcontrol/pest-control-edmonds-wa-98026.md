@@ -11,6 +11,7 @@ lng: -122.3500
 zipSample: ["98020", "98026"]
 zipCodes: ["98020", "98026"]
 localPaths: ["Snohomish County / ZIP 98020 sector", "Snohomish County / primary ZIP 98026", "Snohomish County / ZIP 98026 sector", "Snohomish County / elevation 390 ft band", "Snohomish County / coords 47.8100, -122.3500"]
+zillowHomeValueUsd: 872943
 ---
 
 **Engineering Notice for Edmonds:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Snohomish County.

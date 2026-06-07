@@ -11,6 +11,7 @@ lng: -83.1800
 zipSample: ["48237"]
 zipCodes: ["48237"]
 localPaths: ["Oakland County / elevation 673 ft band", "Oakland County / coords 42.4600, -83.1800", "Oakland County / ZIP 48237 sector", "Oakland County / primary ZIP 48237"]
+zillowHomeValueUsd: 232977
 ---
 
 **Engineering Notice for Oak Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oakland County.

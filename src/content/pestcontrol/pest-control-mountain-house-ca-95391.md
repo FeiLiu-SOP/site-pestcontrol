@@ -11,6 +11,7 @@ lng: -121.5400
 zipSample: ["95391"]
 zipCodes: ["95391"]
 localPaths: ["San Joaquin County / primary ZIP 95391", "San Joaquin County / ZIP 95391 sector", "San Joaquin County / coords 37.7700, -121.5400", "San Joaquin County / elevation 75 ft band"]
+zillowHomeValueUsd: 927570
 ---
 
 **Engineering Notice for Mountain House:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Joaquin County.

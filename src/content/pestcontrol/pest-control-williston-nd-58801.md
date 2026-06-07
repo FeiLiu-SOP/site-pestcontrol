@@ -11,6 +11,7 @@ lng: -103.6400
 zipSample: ["58802", "58801", "58803"]
 zipCodes: ["58801", "58802", "58803"]
 localPaths: ["Williams County / elevation 1903 ft band", "Williams County / primary ZIP 58801", "Williams County / coords 48.1800, -103.6400", "Williams County / ZIP 58803 sector", "Williams County / ZIP 58802 sector"]
+zillowHomeValueUsd: 364344
 ---
 
 **Engineering Notice for Williston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Williams County.

@@ -11,6 +11,7 @@ lng: -121.5600
 zipSample: ["95961"]
 zipCodes: ["95961"]
 localPaths: ["Yuba County / primary ZIP 95961", "Yuba County / coords 39.0800, -121.5600", "Yuba County / elevation 56 ft band", "Yuba County / ZIP 95961 sector"]
+zillowHomeValueUsd: 448212
 ---
 
 **Engineering Notice for Olivehurst:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Yuba County.

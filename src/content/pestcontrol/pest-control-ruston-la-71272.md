@@ -11,6 +11,7 @@ lng: -92.6400
 zipSample: ["71270", "71272"]
 zipCodes: ["71272", "71270"]
 localPaths: ["Lincoln Parish / elevation 331 ft band", "Lincoln Parish / ZIP 71272 sector", "Lincoln Parish / coords 32.5300, -92.6400", "Lincoln Parish / primary ZIP 71272", "Lincoln Parish / ZIP 71270 sector"]
+zillowHomeValueUsd: 225072
 ---
 
 **Engineering Notice for Ruston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lincoln Parish.

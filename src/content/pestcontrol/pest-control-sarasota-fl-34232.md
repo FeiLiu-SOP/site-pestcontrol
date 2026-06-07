@@ -11,6 +11,7 @@ lng: -82.5400
 zipSample: ["34234", "34237", "34236", "34232", "34239"]
 zipCodes: ["34234", "34239", "34232", "34276", "34236", "34237"]
 localPaths: ["Sarasota County / coords 27.3400, -82.5400", "Sarasota County / ZIP 34232 sector", "Sarasota County / elevation 36 ft band", "Sarasota County / ZIP 34236 sector", "Sarasota County / ZIP 34234 sector"]
+zillowHomeValueUsd: 355858
 ---
 
 **Engineering Notice for Sarasota:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sarasota County.

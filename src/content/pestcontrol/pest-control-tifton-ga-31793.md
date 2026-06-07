@@ -11,6 +11,7 @@ lng: -83.5200
 zipSample: ["31793", "31794"]
 zipCodes: ["31794", "31793"]
 localPaths: ["Tift County / primary ZIP 31793", "Tift County / ZIP 31793 sector", "Tift County / ZIP 31794 sector", "Tift County / elevation 367 ft band", "Tift County / coords 31.4600, -83.5200"]
+zillowHomeValueUsd: 270619
 ---
 
 **Engineering Notice for Tifton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tift County.

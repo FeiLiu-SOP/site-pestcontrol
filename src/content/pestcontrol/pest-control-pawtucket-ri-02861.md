@@ -11,6 +11,7 @@ lng: -71.3700
 zipSample: ["02861", "02862", "02860"]
 zipCodes: ["02861", "02860", "02862"]
 localPaths: ["Providence County / ZIP 02861 sector", "Providence County / ZIP 02862 sector", "Providence County / ZIP 02860 sector", "Providence County / primary ZIP 02861", "Providence County / coords 41.8700, -71.3700"]
+zillowHomeValueUsd: 395607
 ---
 
 **Engineering Notice for Pawtucket:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Providence County.

@@ -11,6 +11,7 @@ lng: -89.9900
 zipSample: ["62220", "62223", "62226", "62221"]
 zipCodes: ["62226", "62221", "62223", "62220"]
 localPaths: ["St. Clair County / coords 38.5200, -89.9900", "St. Clair County / primary ZIP 62221", "St. Clair County / ZIP 62220 sector", "St. Clair County / elevation 505 ft band", "St. Clair County / ZIP 62223 sector"]
+zillowHomeValueUsd: 248066
 ---
 
 **Engineering Notice for Belleville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Clair County.

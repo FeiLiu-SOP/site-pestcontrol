@@ -11,6 +11,7 @@ lng: -111.8200
 zipSample: ["84121", "84117", "84124"]
 zipCodes: ["84124", "84117", "84121"]
 localPaths: ["Salt Lake County / coords 40.6600, -111.8200", "Salt Lake County / elevation 4452 ft band", "Salt Lake County / ZIP 84117 sector", "Salt Lake County / ZIP 84124 sector", "Salt Lake County / primary ZIP 84117"]
+zillowHomeValueUsd: 694498
 ---
 
 **Engineering Notice for Holladay:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Salt Lake County.

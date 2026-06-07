@@ -11,6 +11,7 @@ lng: -91.0000
 zipSample: ["70817"]
 zipCodes: ["70817"]
 localPaths: ["East Baton Rouge Parish / elevation 56 ft band", "East Baton Rouge Parish / coords 30.4000, -91.0000", "East Baton Rouge Parish / primary ZIP 70817", "East Baton Rouge Parish / ZIP 70817 sector"]
+zillowHomeValueUsd: 303815
 ---
 
 **Engineering Notice for Shenandoah:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: East Baton Rouge Parish.

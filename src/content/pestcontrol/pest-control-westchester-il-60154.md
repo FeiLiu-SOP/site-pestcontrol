@@ -11,6 +11,7 @@ lng: -87.8900
 zipSample: ["60154"]
 zipCodes: ["60154"]
 localPaths: ["Cook County / primary ZIP 60154", "Cook County / coords 41.8500, -87.8900", "Cook County / ZIP 60154 sector", "Cook County / elevation 656 ft band"]
+zillowHomeValueUsd: 357112
 ---
 
 **Engineering Notice for Westchester:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

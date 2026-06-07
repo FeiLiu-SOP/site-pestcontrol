@@ -11,6 +11,7 @@ lng: -114.4000
 zipSample: ["85367"]
 zipCodes: ["85367"]
 localPaths: ["Yuma County / elevation 344 ft band", "Yuma County / ZIP 85367 sector", "Yuma County / coords 32.6600, -114.4000", "Yuma County / primary ZIP 85367"]
+zillowHomeValueUsd: 324715
 ---
 
 **Engineering Notice for Fortuna Foothills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Yuma County.

@@ -11,6 +11,7 @@ lng: -85.5900
 zipSample: ["49512", "49546", "49518", "49548", "49508"]
 zipCodes: ["49548", "49546", "49512", "49560", "49508", "49518"]
 localPaths: ["Kent County / ZIP 49508 sector", "Kent County / ZIP 49546 sector", "Kent County / ZIP 49548 sector", "Kent County / ZIP 49512 sector", "Kent County / coords 42.8900, -85.5900"]
+zillowHomeValueUsd: 364962
 ---
 
 **Engineering Notice for Kentwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kent County.

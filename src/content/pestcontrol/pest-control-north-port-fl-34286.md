@@ -11,6 +11,7 @@ lng: -82.2000
 zipSample: ["34288", "34223", "34290", "34289", "34287"]
 zipCodes: ["34289", "34290", "34287", "34291", "34223", "34288", "34293", "34286"]
 localPaths: ["Sarasota County / ZIP 34290 sector", "Sarasota County / ZIP 34288 sector", "Sarasota County / elevation 26 ft band", "Sarasota County / ZIP 34223 sector", "Sarasota County / ZIP 34289 sector"]
+zillowHomeValueUsd: 310564
 ---
 
 **Engineering Notice for North Port:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sarasota County.

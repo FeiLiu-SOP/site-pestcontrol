@@ -11,6 +11,7 @@ lng: -77.2600
 zipSample: ["20875", "20876", "20874"]
 zipCodes: ["20875", "20874", "20876"]
 localPaths: ["Montgomery County / ZIP 20876 sector", "Montgomery County / coords 39.1800, -77.2600", "Montgomery County / ZIP 20874 sector", "Montgomery County / ZIP 20875 sector", "Montgomery County / primary ZIP 20876"]
+zillowHomeValueUsd: 484230
 ---
 
 **Engineering Notice for Germantown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

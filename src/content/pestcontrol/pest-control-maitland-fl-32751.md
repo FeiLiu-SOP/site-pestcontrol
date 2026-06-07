@@ -11,6 +11,7 @@ lng: -81.3700
 zipSample: ["32794", "32799", "32751"]
 zipCodes: ["32751", "32799", "32794"]
 localPaths: ["Orange County / ZIP 32751 sector", "Orange County / elevation 98 ft band", "Orange County / primary ZIP 32751", "Orange County / ZIP 32794 sector", "Orange County / coords 28.6300, -81.3700"]
+zillowHomeValueUsd: 461461
 ---
 
 **Engineering Notice for Maitland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

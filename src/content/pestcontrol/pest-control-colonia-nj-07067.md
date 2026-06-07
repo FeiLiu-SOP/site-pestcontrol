@@ -11,6 +11,7 @@ lng: -74.3100
 zipSample: ["07067"]
 zipCodes: ["07067"]
 localPaths: ["Middlesex County / ZIP 07067 sector", "Middlesex County / elevation 92 ft band", "Middlesex County / primary ZIP 07067", "Middlesex County / coords 40.5900, -74.3100"]
+zillowHomeValueUsd: 635406
 ---
 
 **Engineering Notice for Colonia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.

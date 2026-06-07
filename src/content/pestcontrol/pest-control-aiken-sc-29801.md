@@ -11,6 +11,7 @@ lng: -81.7300
 zipSample: ["29803", "29802", "29801"]
 zipCodes: ["29802", "29803", "29801"]
 localPaths: ["Aiken County / ZIP 29803 sector", "Aiken County / ZIP 29801 sector", "Aiken County / ZIP 29802 sector", "Aiken County / elevation 525 ft band", "Aiken County / coords 33.5300, -81.7300"]
+zillowHomeValueUsd: 214742
 ---
 
 **Engineering Notice for Aiken:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Aiken County.

@@ -11,6 +11,7 @@ lng: -122.2800
 zipSample: ["98001"]
 zipCodes: ["98001"]
 localPaths: ["King County / ZIP 98001 sector", "King County / coords 47.3400, -122.2800", "King County / primary ZIP 98001", "King County / elevation 430 ft band"]
+zillowHomeValueUsd: 640540
 ---
 
 **Engineering Notice for Lakeland North:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.

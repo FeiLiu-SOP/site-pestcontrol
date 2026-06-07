@@ -11,6 +11,7 @@ lng: -87.9400
 zipSample: ["60105", "60399", "60106"]
 zipCodes: ["60105", "60399", "60106"]
 localPaths: ["DuPage County / elevation 679 ft band", "DuPage County / coords 41.9600, -87.9400", "DuPage County / ZIP 60399 sector", "DuPage County / ZIP 60105 sector", "DuPage County / ZIP 60106 sector"]
+zillowHomeValueUsd: 343938
 ---
 
 **Engineering Notice for Bensenville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.

@@ -11,6 +11,7 @@ lng: -73.0400
 zipSample: ["11738"]
 zipCodes: ["11738"]
 localPaths: ["Suffolk County / elevation 253 ft band", "Suffolk County / coords 40.8400, -73.0400", "Suffolk County / ZIP 11738 sector", "Suffolk County / primary ZIP 11738"]
+zillowHomeValueUsd: 640216
 ---
 
 **Engineering Notice for Farmingville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

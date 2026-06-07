@@ -11,6 +11,7 @@ lng: -84.0700
 zipSample: ["30024"]
 zipCodes: ["30024"]
 localPaths: ["Gwinnett County / primary ZIP 30024", "Gwinnett County / ZIP 30024 sector", "Gwinnett County / coords 34.0500, -84.0700", "Gwinnett County / elevation 1027 ft band"]
+zillowHomeValueUsd: 615389
 ---
 
 **Engineering Notice for Suwanee:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gwinnett County.

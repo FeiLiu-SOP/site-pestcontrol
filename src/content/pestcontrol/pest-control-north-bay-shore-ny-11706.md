@@ -11,6 +11,7 @@ lng: -73.2600
 zipSample: ["11706"]
 zipCodes: ["11706"]
 localPaths: ["Suffolk County / primary ZIP 11706", "Suffolk County / ZIP 11706 sector", "Suffolk County / elevation 79 ft band", "Suffolk County / coords 40.7600, -73.2600"]
+zillowHomeValueUsd: 620300
 ---
 
 **Engineering Notice for North Bay Shore:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

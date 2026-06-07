@@ -11,6 +11,7 @@ lng: -83.2900
 zipSample: ["48055", "48340", "48343", "48342", "48341"]
 zipCodes: ["48340", "48342", "48343", "48055", "48341"]
 localPaths: ["Oakland County / ZIP 48055 sector", "Oakland County / primary ZIP 48342", "Oakland County / ZIP 48340 sector", "Oakland County / coords 42.6500, -83.2900", "Oakland County / ZIP 48341 sector"]
+zillowHomeValueUsd: 127826
 ---
 
 **Engineering Notice for Pontiac:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oakland County.

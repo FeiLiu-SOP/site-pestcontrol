@@ -11,6 +11,7 @@ lng: -70.2700
 zipSample: ["04109", "04122", "04102", "04103", "04124"]
 zipCodes: ["04122", "04101", "04102", "04019", "04108", "04103", "04104", "04112", "04116", "04123", "04124", "04109"]
 localPaths: ["Cumberland County / ZIP 04122 sector", "Cumberland County / ZIP 04109 sector", "Cumberland County / primary ZIP 04101", "Cumberland County / ZIP 04103 sector", "Cumberland County / ZIP 04102 sector"]
+zillowHomeValueUsd: 653884
 ---
 
 **Engineering Notice for Portland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cumberland County.

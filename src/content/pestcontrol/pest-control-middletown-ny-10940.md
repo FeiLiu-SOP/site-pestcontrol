@@ -11,6 +11,7 @@ lng: -74.4200
 zipSample: ["10940"]
 zipCodes: ["10940"]
 localPaths: ["Orange County / ZIP 10940 sector", "Orange County / coords 41.4500, -74.4200", "Orange County / primary ZIP 10940", "Orange County / elevation 568 ft band"]
+zillowHomeValueUsd: 390351
 ---
 
 **Engineering Notice for Middletown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

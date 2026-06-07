@@ -11,6 +11,7 @@ lng: -88.4800
 zipSample: ["54957", "54956"]
 zipCodes: ["54957", "54956"]
 localPaths: ["Winnebago County / ZIP 54957 sector", "Winnebago County / primary ZIP 54956", "Winnebago County / coords 44.1700, -88.4800", "Winnebago County / elevation 751 ft band", "Winnebago County / ZIP 54956 sector"]
+zillowHomeValueUsd: 341611
 ---
 
 **Engineering Notice for Neenah:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Winnebago County.

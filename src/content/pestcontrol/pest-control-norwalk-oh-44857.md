@@ -11,6 +11,7 @@ lng: -82.6100
 zipSample: ["44857"]
 zipCodes: ["44857"]
 localPaths: ["Huron County / coords 41.2400, -82.6100", "Huron County / primary ZIP 44857", "Huron County / ZIP 44857 sector", "Huron County / elevation 719 ft band"]
+zillowHomeValueUsd: 212220
 ---
 
 **Engineering Notice for Norwalk:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Huron County.

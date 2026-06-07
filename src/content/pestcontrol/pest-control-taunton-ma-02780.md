@@ -11,6 +11,7 @@ lng: -71.0900
 zipSample: ["02718", "02767", "02780"]
 zipCodes: ["02780", "02767", "02718"]
 localPaths: ["Bristol County / coords 41.9000, -71.0900", "Bristol County / ZIP 02718 sector", "Bristol County / ZIP 02780 sector", "Bristol County / elevation 59 ft band", "Bristol County / ZIP 02767 sector"]
+zillowHomeValueUsd: 512323
 ---
 
 **Engineering Notice for Taunton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bristol County.

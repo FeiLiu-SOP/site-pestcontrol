@@ -11,6 +11,7 @@ lng: -105.5000
 zipSample: ["82716", "82718"]
 zipCodes: ["82718", "82716"]
 localPaths: ["Campbell County / ZIP 82718 sector", "Campbell County / elevation 4534 ft band", "Campbell County / ZIP 82716 sector", "Campbell County / primary ZIP 82718", "Campbell County / coords 44.2800, -105.5000"]
+zillowHomeValueUsd: 361115
 ---
 
 **Engineering Notice for Gillette:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Campbell County.

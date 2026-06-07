@@ -11,6 +11,7 @@ lng: -80.2000
 zipSample: ["33309", "33313", "33319", "33311"]
 zipCodes: ["33311", "33309", "33319", "33313"]
 localPaths: ["Broward County / ZIP 33313 sector", "Broward County / coords 26.1700, -80.2000", "Broward County / elevation 16 ft band", "Broward County / ZIP 33319 sector", "Broward County / primary ZIP 33309"]
+zillowHomeValueUsd: 371799
 ---
 
 **Engineering Notice for Lauderdale Lakes:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.

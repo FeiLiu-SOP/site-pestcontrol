@@ -11,6 +11,7 @@ lng: -104.7700
 zipSample: ["80632", "80634", "80633", "80631", "80639"]
 zipCodes: ["80639", "80638", "80631", "80633", "80632", "80634"]
 localPaths: ["Weld County / ZIP 80632 sector", "Weld County / ZIP 80634 sector", "Weld County / elevation 4882 ft band", "Weld County / coords 40.4200, -104.7700", "Weld County / ZIP 80639 sector"]
+zillowHomeValueUsd: 366467
 ---
 
 **Engineering Notice for Greeley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Weld County.

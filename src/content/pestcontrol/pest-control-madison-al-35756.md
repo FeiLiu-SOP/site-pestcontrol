@@ -11,6 +11,7 @@ lng: -86.7600
 zipSample: ["35756", "35758"]
 zipCodes: ["35756", "35758"]
 localPaths: ["Madison County / elevation 686 ft band", "Madison County / coords 34.7100, -86.7600", "Madison County / ZIP 35758 sector", "Madison County / primary ZIP 35756", "Madison County / ZIP 35756 sector"]
+zillowHomeValueUsd: 386838
 ---
 
 **Engineering Notice for Madison:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Madison County.

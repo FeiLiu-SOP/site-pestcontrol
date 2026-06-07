@@ -11,6 +11,7 @@ lng: -122.3200
 zipSample: ["98198", "98148"]
 zipCodes: ["98198", "98148"]
 localPaths: ["King County / coords 47.3900, -122.3200", "King County / elevation 164 ft band", "King County / ZIP 98198 sector", "King County / ZIP 98148 sector", "King County / primary ZIP 98148"]
+zillowHomeValueUsd: 612361
 ---
 
 **Engineering Notice for Des Moines:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.

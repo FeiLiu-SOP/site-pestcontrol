@@ -11,6 +11,7 @@ lng: -106.2600
 zipSample: ["79927"]
 zipCodes: ["79927"]
 localPaths: ["El Paso County / primary ZIP 79927", "El Paso County / coords 31.6400, -106.2600", "El Paso County / elevation 3632 ft band", "El Paso County / ZIP 79927 sector"]
+zillowHomeValueUsd: 204005
 ---
 
 **Engineering Notice for Socorro:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: El Paso County.

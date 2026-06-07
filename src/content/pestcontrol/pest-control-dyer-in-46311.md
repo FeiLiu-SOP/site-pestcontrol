@@ -11,6 +11,7 @@ lng: -87.5100
 zipSample: ["46311"]
 zipCodes: ["46311"]
 localPaths: ["Lake County / coords 41.5000, -87.5100", "Lake County / elevation 630 ft band", "Lake County / primary ZIP 46311", "Lake County / ZIP 46311 sector"]
+zillowHomeValueUsd: 361175
 ---
 
 **Engineering Notice for Dyer:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

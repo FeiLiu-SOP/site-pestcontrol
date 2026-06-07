@@ -11,6 +11,7 @@ lng: -84.2900
 zipSample: ["40476", "40475"]
 zipCodes: ["40475", "40476"]
 localPaths: ["Madison County / ZIP 40475 sector", "Madison County / elevation 1004 ft band", "Madison County / ZIP 40476 sector", "Madison County / primary ZIP 40475", "Madison County / coords 37.7300, -84.2900"]
+zillowHomeValueUsd: 297057
 ---
 
 **Engineering Notice for Richmond:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Madison County.

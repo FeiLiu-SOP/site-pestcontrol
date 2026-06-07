@@ -11,6 +11,7 @@ lng: -92.2000
 zipSample: ["72216", "72076", "72120", "72117"]
 zipCodes: ["72117", "72216", "72120", "72076"]
 localPaths: ["Pulaski County / ZIP 72216 sector", "Pulaski County / ZIP 72076 sector", "Pulaski County / ZIP 72117 sector", "Pulaski County / primary ZIP 72120", "Pulaski County / elevation 341 ft band"]
+zillowHomeValueUsd: 235048
 ---
 
 **Engineering Notice for Sherwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pulaski County.

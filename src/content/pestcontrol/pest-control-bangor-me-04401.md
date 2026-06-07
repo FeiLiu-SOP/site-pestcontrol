@@ -11,6 +11,7 @@ lng: -68.7900
 zipSample: ["04401", "04402"]
 zipCodes: ["04402", "04401"]
 localPaths: ["Penobscot County / elevation 167 ft band", "Penobscot County / ZIP 04402 sector", "Penobscot County / ZIP 04401 sector", "Penobscot County / primary ZIP 04401", "Penobscot County / coords 44.8300, -68.7900"]
+zillowHomeValueUsd: 299385
 ---
 
 **Engineering Notice for Bangor:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Penobscot County.

@@ -11,6 +11,7 @@ lng: -86.1100
 zipSample: ["46143", "46142"]
 zipCodes: ["46143", "46142"]
 localPaths: ["Johnson County / elevation 807 ft band", "Johnson County / coords 39.6000, -86.1100", "Johnson County / ZIP 46143 sector", "Johnson County / ZIP 46142 sector", "Johnson County / primary ZIP 46142"]
+zillowHomeValueUsd: 317809
 ---
 
 **Engineering Notice for Greenwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Johnson County.

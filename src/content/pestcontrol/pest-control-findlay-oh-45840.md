@@ -11,6 +11,7 @@ lng: -83.6400
 zipSample: ["45839", "45840"]
 zipCodes: ["45839", "45840"]
 localPaths: ["Hancock County / ZIP 45840 sector", "Hancock County / primary ZIP 45840", "Hancock County / ZIP 45839 sector", "Hancock County / coords 41.0500, -83.6400", "Hancock County / elevation 784 ft band"]
+zillowHomeValueUsd: 240643
 ---
 
 **Engineering Notice for Findlay:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hancock County.

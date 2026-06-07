@@ -11,6 +11,7 @@ lng: -117.8900
 zipSample: ["91789", "91748"]
 zipCodes: ["91789", "91748"]
 localPaths: ["Los Angeles County / primary ZIP 91748", "Los Angeles County / elevation 659 ft band", "Los Angeles County / coords 33.9700, -117.8900", "Los Angeles County / ZIP 91789 sector", "Los Angeles County / ZIP 91748 sector"]
+zillowHomeValueUsd: 970367
 ---
 
 **Engineering Notice for Rowland Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

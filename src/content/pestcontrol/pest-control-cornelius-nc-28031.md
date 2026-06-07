@@ -11,6 +11,7 @@ lng: -80.8800
 zipSample: ["28031"]
 zipCodes: ["28031"]
 localPaths: ["Mecklenburg County / coords 35.4700, -80.8800", "Mecklenburg County / primary ZIP 28031", "Mecklenburg County / elevation 768 ft band", "Mecklenburg County / ZIP 28031 sector"]
+zillowHomeValueUsd: 544180
 ---
 
 **Engineering Notice for Cornelius:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Mecklenburg County.

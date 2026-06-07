@@ -11,6 +11,7 @@ lng: -84.1900
 zipSample: ["40392", "40391"]
 zipCodes: ["40391", "40392"]
 localPaths: ["Clark County / coords 38.0000, -84.1900", "Clark County / ZIP 40391 sector", "Clark County / ZIP 40392 sector", "Clark County / elevation 971 ft band", "Clark County / primary ZIP 40391"]
+zillowHomeValueUsd: 258085
 ---
 
 **Engineering Notice for Winchester:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.

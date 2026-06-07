@@ -11,6 +11,7 @@ lng: -82.3700
 zipSample: ["33601", "33637", "33680", "33619", "33617"]
 zipCodes: ["33680", "33617", "33619", "33610", "33637", "33601"]
 localPaths: ["Hillsborough County / ZIP 33637 sector", "Hillsborough County / ZIP 33619 sector", "Hillsborough County / primary ZIP 33637", "Hillsborough County / elevation 43 ft band", "Hillsborough County / ZIP 33680 sector"]
+zillowHomeValueUsd: 295112
 ---
 
 **Engineering Notice for East Lake-Orient Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.

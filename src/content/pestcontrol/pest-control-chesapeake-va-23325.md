@@ -11,6 +11,7 @@ lng: -76.3000
 zipSample: ["23323", "23325", "23322", "23321", "23327"]
 zipCodes: ["23324", "23320", "23325", "23322", "23327", "23323", "23328", "23326", "23321"]
 localPaths: ["Chesapeake County / ZIP 23325 sector", "Chesapeake County / coords 36.6800, -76.3000", "Chesapeake County / primary ZIP 23325", "Chesapeake County / ZIP 23321 sector", "Chesapeake County / ZIP 23323 sector"]
+zillowHomeValueUsd: 321698
 ---
 
 **Engineering Notice for Chesapeake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Chesapeake County.

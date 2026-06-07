@@ -11,6 +11,7 @@ lng: -118.5900
 zipSample: ["91381"]
 zipCodes: ["91381"]
 localPaths: ["Los Angeles County / coords 34.3900, -118.5900", "Los Angeles County / primary ZIP 91381", "Los Angeles County / ZIP 91381 sector", "Los Angeles County / elevation 1558 ft band"]
+zillowHomeValueUsd: 969448
 ---
 
 **Engineering Notice for Stevenson Ranch:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

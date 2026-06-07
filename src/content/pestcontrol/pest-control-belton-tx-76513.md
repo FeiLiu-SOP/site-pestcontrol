@@ -11,6 +11,7 @@ lng: -97.4800
 zipSample: ["76513"]
 zipCodes: ["76513"]
 localPaths: ["Bell County / ZIP 76513 sector", "Bell County / primary ZIP 76513", "Bell County / coords 31.0500, -97.4800", "Bell County / elevation 620 ft band"]
+zillowHomeValueUsd: 306319
 ---
 
 **Engineering Notice for Belton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bell County.

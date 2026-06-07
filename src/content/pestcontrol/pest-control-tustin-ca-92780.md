@@ -11,6 +11,7 @@ lng: -117.8100
 zipSample: ["92623", "92782", "92780", "92781"]
 zipCodes: ["92623", "92781", "92782", "92780"]
 localPaths: ["Orange County / ZIP 92623 sector", "Orange County / primary ZIP 92780", "Orange County / coords 33.7300, -117.8100", "Orange County / elevation 105 ft band", "Orange County / ZIP 92780 sector"]
+zillowHomeValueUsd: 1138553
 ---
 
 **Engineering Notice for Tustin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

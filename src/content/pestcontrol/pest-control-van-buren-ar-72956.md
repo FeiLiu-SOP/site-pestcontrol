@@ -11,6 +11,7 @@ lng: -94.3500
 zipSample: ["72956", "72957"]
 zipCodes: ["72957", "72956"]
 localPaths: ["Crawford County / elevation 653 ft band", "Crawford County / ZIP 72956 sector", "Crawford County / ZIP 72957 sector", "Crawford County / primary ZIP 72956", "Crawford County / coords 35.4500, -94.3500"]
+zillowHomeValueUsd: 205172
 ---
 
 **Engineering Notice for Van Buren:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Crawford County.

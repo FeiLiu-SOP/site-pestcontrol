@@ -11,6 +11,7 @@ lng: -82.4200
 zipSample: ["34293", "34284"]
 zipCodes: ["34284", "34293"]
 localPaths: ["Sarasota County / ZIP 34284 sector", "Sarasota County / coords 27.0400, -82.4200", "Sarasota County / ZIP 34293 sector", "Sarasota County / primary ZIP 34293", "Sarasota County / elevation 26 ft band"]
+zillowHomeValueUsd: 366715
 ---
 
 **Engineering Notice for South Venice:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sarasota County.

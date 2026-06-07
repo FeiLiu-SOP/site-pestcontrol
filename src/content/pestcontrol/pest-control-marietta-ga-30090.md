@@ -11,6 +11,7 @@ lng: -84.5400
 zipSample: ["30090", "30060", "30007", "30008", "30062"]
 zipCodes: ["30064", "30060", "30090", "30067", "30007", "30008", "30062", "30006"]
 localPaths: ["Cobb County / ZIP 30008 sector", "Cobb County / coords 33.9500, -84.5400", "Cobb County / ZIP 30062 sector", "Cobb County / ZIP 30060 sector", "Cobb County / ZIP 30007 sector"]
+zillowHomeValueUsd: 551667
 ---
 
 **Engineering Notice for Marietta:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cobb County.

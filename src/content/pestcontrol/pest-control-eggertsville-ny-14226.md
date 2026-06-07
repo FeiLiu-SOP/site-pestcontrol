@@ -11,6 +11,7 @@ lng: -78.8100
 zipSample: ["14226"]
 zipCodes: ["14226"]
 localPaths: ["Erie County / primary ZIP 14226", "Erie County / ZIP 14226 sector", "Erie County / coords 42.9700, -78.8100", "Erie County / elevation 630 ft band"]
+zillowHomeValueUsd: 310801
 ---
 
 **Engineering Notice for Eggertsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Erie County.

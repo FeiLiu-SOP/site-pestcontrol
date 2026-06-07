@@ -11,6 +11,8 @@ lng: -66.1600
 zipSample: ["00737", "00736"]
 zipCodes: ["00737", "00736"]
 localPaths: ["Cayey County / primary ZIP 00736", "Cayey County / elevation 1299 ft band", "Cayey County / ZIP 00737 sector", "Cayey County / coords 18.1100, -66.1600", "Cayey County / ZIP 00736 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 381376
 ---
 
 **Engineering Notice for Cayey:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cayey County.

@@ -11,6 +11,7 @@ lng: -117.2600
 zipSample: ["92595"]
 zipCodes: ["92595"]
 localPaths: ["Riverside County / coords 33.6200, -117.2600", "Riverside County / elevation 1529 ft band", "Riverside County / primary ZIP 92595", "Riverside County / ZIP 92595 sector"]
+zillowHomeValueUsd: 655691
 ---
 
 **Engineering Notice for Wildomar:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.

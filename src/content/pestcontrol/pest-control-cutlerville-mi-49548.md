@@ -11,6 +11,7 @@ lng: -85.6700
 zipSample: ["49315", "49548"]
 zipCodes: ["49548", "49315"]
 localPaths: ["Kent County / primary ZIP 49548", "Kent County / ZIP 49315 sector", "Kent County / elevation 676 ft band", "Kent County / coords 42.8400, -85.6700", "Kent County / ZIP 49548 sector"]
+zillowHomeValueUsd: 250313
 ---
 
 **Engineering Notice for Cutlerville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kent County.

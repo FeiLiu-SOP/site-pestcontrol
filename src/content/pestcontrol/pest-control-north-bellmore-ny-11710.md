@@ -11,6 +11,7 @@ lng: -73.5400
 zipSample: ["11710"]
 zipCodes: ["11710"]
 localPaths: ["Nassau County / elevation 52 ft band", "Nassau County / primary ZIP 11710", "Nassau County / coords 40.6900, -73.5400", "Nassau County / ZIP 11710 sector"]
+zillowHomeValueUsd: 804896
 ---
 
 **Engineering Notice for North Bellmore:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

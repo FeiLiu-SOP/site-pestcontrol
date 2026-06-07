@@ -11,6 +11,7 @@ lng: -118.1900
 zipSample: ["90270"]
 zipCodes: ["90270"]
 localPaths: ["Los Angeles County / ZIP 90270 sector", "Los Angeles County / elevation 157 ft band", "Los Angeles County / coords 33.9900, -118.1900", "Los Angeles County / primary ZIP 90270"]
+zillowHomeValueUsd: 652544
 ---
 
 **Engineering Notice for Maywood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

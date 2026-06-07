@@ -11,6 +11,7 @@ lng: -79.6600
 zipSample: ["15668", "15626", "15632"]
 zipCodes: ["15632", "15668", "15626"]
 localPaths: ["Westmoreland County / primary ZIP 15668", "Westmoreland County / ZIP 15668 sector", "Westmoreland County / elevation 1230 ft band", "Westmoreland County / coords 40.4500, -79.6600", "Westmoreland County / ZIP 15632 sector"]
+zillowHomeValueUsd: 348036
 ---
 
 **Engineering Notice for Murrysville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Westmoreland County.

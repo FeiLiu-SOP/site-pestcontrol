@@ -11,6 +11,7 @@ lng: -89.9900
 zipSample: ["38651", "38632"]
 zipCodes: ["38651", "38632"]
 localPaths: ["DeSoto County / elevation 318 ft band", "DeSoto County / ZIP 38632 sector", "DeSoto County / ZIP 38651 sector", "DeSoto County / coords 34.8500, -89.9900", "DeSoto County / primary ZIP 38632"]
+zillowHomeValueUsd: 344875
 ---
 
 **Engineering Notice for Hernando:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeSoto County.

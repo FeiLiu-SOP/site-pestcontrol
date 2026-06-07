@@ -11,6 +11,7 @@ lng: -96.1100
 zipSample: ["75402", "75401"]
 zipCodes: ["75402", "75401"]
 localPaths: ["Hunt County / ZIP 75402 sector", "Hunt County / primary ZIP 75401", "Hunt County / elevation 577 ft band", "Hunt County / coords 33.1100, -96.1100", "Hunt County / ZIP 75401 sector"]
+zillowHomeValueUsd: 200647
 ---
 
 **Engineering Notice for Greenville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hunt County.

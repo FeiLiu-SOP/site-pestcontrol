@@ -11,6 +11,7 @@ lng: -84.2900
 zipSample: ["37831", "37830"]
 zipCodes: ["37831", "37830"]
 localPaths: ["Anderson County / primary ZIP 37830", "Anderson County / elevation 935 ft band", "Anderson County / ZIP 37830 sector", "Anderson County / coords 35.9600, -84.2900", "Anderson County / ZIP 37831 sector"]
+zillowHomeValueUsd: 324003
 ---
 
 **Engineering Notice for Oak Ridge:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anderson County.

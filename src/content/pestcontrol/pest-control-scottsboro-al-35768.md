@@ -11,6 +11,7 @@ lng: -86.0500
 zipSample: ["35768", "35769"]
 zipCodes: ["35768", "35769"]
 localPaths: ["Jackson County / primary ZIP 35768", "Jackson County / elevation 623 ft band", "Jackson County / ZIP 35769 sector", "Jackson County / ZIP 35768 sector", "Jackson County / coords 34.6400, -86.0500"]
+zillowHomeValueUsd: 172950
 ---
 
 **Engineering Notice for Scottsboro:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jackson County.

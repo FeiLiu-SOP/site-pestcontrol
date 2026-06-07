@@ -11,6 +11,7 @@ lng: -104.7100
 zipSample: ["80925", "80931", "80911"]
 zipCodes: ["80925", "80911", "80931"]
 localPaths: ["El Paso County / elevation 5856 ft band", "El Paso County / ZIP 80925 sector", "El Paso County / ZIP 80931 sector", "El Paso County / coords 38.7500, -104.7100", "El Paso County / primary ZIP 80911"]
+zillowHomeValueUsd: 372780
 ---
 
 **Engineering Notice for Security-Widefield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: El Paso County.

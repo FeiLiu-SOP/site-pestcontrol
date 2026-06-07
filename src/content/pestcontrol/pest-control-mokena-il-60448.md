@@ -11,6 +11,7 @@ lng: -87.8800
 zipSample: ["60448"]
 zipCodes: ["60448"]
 localPaths: ["Will County / ZIP 60448 sector", "Will County / elevation 725 ft band", "Will County / primary ZIP 60448", "Will County / coords 41.5300, -87.8800"]
+zillowHomeValueUsd: 437953
 ---
 
 **Engineering Notice for Mokena:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Will County.

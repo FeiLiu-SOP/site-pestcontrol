@@ -11,6 +11,7 @@ lng: -117.8800
 zipSample: ["91724", "91723", "91722"]
 zipCodes: ["91724", "91722", "91723"]
 localPaths: ["Los Angeles County / coords 34.0900, -117.8800", "Los Angeles County / ZIP 91724 sector", "Los Angeles County / ZIP 91722 sector", "Los Angeles County / ZIP 91723 sector", "Los Angeles County / primary ZIP 91724"]
+zillowHomeValueUsd: 886115
 ---
 
 **Engineering Notice for Covina:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

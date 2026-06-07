@@ -11,6 +11,7 @@ lng: -111.7400
 zipSample: ["85268", "85269"]
 zipCodes: ["85269", "85268"]
 localPaths: ["Maricopa County / elevation 1824 ft band", "Maricopa County / ZIP 85269 sector", "Maricopa County / ZIP 85268 sector", "Maricopa County / coords 33.6100, -111.7400", "Maricopa County / primary ZIP 85268"]
+zillowHomeValueUsd: 675155
 ---
 
 **Engineering Notice for Fountain Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Maricopa County.

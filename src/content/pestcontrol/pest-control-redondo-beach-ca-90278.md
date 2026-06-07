@@ -11,6 +11,7 @@ lng: -118.3800
 zipSample: ["90277", "90278"]
 zipCodes: ["90277", "90278"]
 localPaths: ["Los Angeles County / ZIP 90277 sector", "Los Angeles County / coords 33.8600, -118.3800", "Los Angeles County / ZIP 90278 sector", "Los Angeles County / primary ZIP 90278", "Los Angeles County / elevation 144 ft band"]
+zillowHomeValueUsd: 1416855
 ---
 
 **Engineering Notice for Redondo Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

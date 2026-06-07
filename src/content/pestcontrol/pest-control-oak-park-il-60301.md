@@ -11,6 +11,7 @@ lng: -87.7900
 zipSample: ["60304", "60303", "60302", "60301"]
 zipCodes: ["60302", "60301", "60304", "60303"]
 localPaths: ["Cook County / primary ZIP 60301", "Cook County / ZIP 60303 sector", "Cook County / elevation 627 ft band", "Cook County / ZIP 60302 sector", "Cook County / ZIP 60301 sector"]
+zillowHomeValueUsd: 272649
 ---
 
 **Engineering Notice for Oak Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

@@ -11,6 +11,7 @@ lng: -73.4100
 zipSample: ["11747", "11775"]
 zipCodes: ["11747", "11775"]
 localPaths: ["Suffolk County / elevation 135 ft band", "Suffolk County / coords 40.7800, -73.4100", "Suffolk County / primary ZIP 11747", "Suffolk County / ZIP 11775 sector", "Suffolk County / ZIP 11747 sector"]
+zillowHomeValueUsd: 870056
 ---
 
 **Engineering Notice for Melville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

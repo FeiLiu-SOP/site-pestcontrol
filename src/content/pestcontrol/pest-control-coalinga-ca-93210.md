@@ -11,6 +11,7 @@ lng: -120.3200
 zipSample: ["93210"]
 zipCodes: ["93210"]
 localPaths: ["Fresno County / coords 36.1400, -120.3200", "Fresno County / primary ZIP 93210", "Fresno County / elevation 623 ft band", "Fresno County / ZIP 93210 sector"]
+zillowHomeValueUsd: 293582
 ---
 
 **Engineering Notice for Coalinga:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fresno County.

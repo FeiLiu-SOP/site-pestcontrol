@@ -11,6 +11,7 @@ lng: -97.3900
 zipSample: ["76504", "76508", "76502", "76501", "76533"]
 zipCodes: ["76533", "76504", "76508", "76501", "76502"]
 localPaths: ["Bell County / elevation 623 ft band", "Bell County / ZIP 76508 sector", "Bell County / ZIP 76533 sector", "Bell County / primary ZIP 76501", "Bell County / ZIP 76504 sector"]
+zillowHomeValueUsd: 192579
 ---
 
 **Engineering Notice for Temple:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bell County.

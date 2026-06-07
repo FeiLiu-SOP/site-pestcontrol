@@ -11,6 +11,7 @@ lng: -91.2300
 zipSample: ["54602", "54603", "54601"]
 zipCodes: ["54601", "54603", "54602"]
 localPaths: ["La Crosse County / ZIP 54602 sector", "La Crosse County / elevation 627 ft band", "La Crosse County / ZIP 54603 sector", "La Crosse County / ZIP 54601 sector", "La Crosse County / primary ZIP 54603"]
+zillowHomeValueUsd: 236845
 ---
 
 **Engineering Notice for La Crosse:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: La Crosse County.

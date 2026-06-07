@@ -11,6 +11,7 @@ lng: -73.5500
 zipSample: ["11566"]
 zipCodes: ["11566"]
 localPaths: ["Nassau County / coords 40.6500, -73.5500", "Nassau County / primary ZIP 11566", "Nassau County / ZIP 11566 sector", "Nassau County / elevation 13 ft band"]
+zillowHomeValueUsd: 878704
 ---
 
 **Engineering Notice for Merrick:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

@@ -11,6 +11,7 @@ lng: -90.3300
 zipSample: ["63130", "63132"]
 zipCodes: ["63132", "63130"]
 localPaths: ["St. Louis County / primary ZIP 63132", "St. Louis County / ZIP 63132 sector", "St. Louis County / elevation 535 ft band", "St. Louis County / ZIP 63130 sector", "St. Louis County / coords 38.6700, -90.3300"]
+zillowHomeValueUsd: 356819
 ---
 
 **Engineering Notice for University City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.

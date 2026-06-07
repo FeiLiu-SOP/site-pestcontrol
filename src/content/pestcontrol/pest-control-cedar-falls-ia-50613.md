@@ -11,6 +11,7 @@ lng: -92.4500
 zipSample: ["50613", "50614"]
 zipCodes: ["50614", "50613"]
 localPaths: ["Black Hawk County / coords 42.5200, -92.4500", "Black Hawk County / primary ZIP 50613", "Black Hawk County / elevation 889 ft band", "Black Hawk County / ZIP 50614 sector", "Black Hawk County / ZIP 50613 sector"]
+zillowHomeValueUsd: 258925
 ---
 
 **Engineering Notice for Cedar Falls:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Black Hawk County.

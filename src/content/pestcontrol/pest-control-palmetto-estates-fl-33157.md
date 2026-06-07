@@ -11,6 +11,7 @@ lng: -80.3600
 zipSample: ["33157"]
 zipCodes: ["33157"]
 localPaths: ["Miami-Dade County / coords 25.6200, -80.3600", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / primary ZIP 33157", "Miami-Dade County / ZIP 33157 sector"]
+zillowHomeValueUsd: 628083
 ---
 
 **Engineering Notice for Palmetto Estates:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

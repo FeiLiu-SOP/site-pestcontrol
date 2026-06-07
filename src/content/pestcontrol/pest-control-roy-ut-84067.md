@@ -11,6 +11,7 @@ lng: -112.0500
 zipSample: ["84067"]
 zipCodes: ["84067"]
 localPaths: ["Weber County / elevation 4383 ft band", "Weber County / ZIP 84067 sector", "Weber County / coords 41.1700, -112.0500", "Weber County / primary ZIP 84067"]
+zillowHomeValueUsd: 436568
 ---
 
 **Engineering Notice for Roy:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Weber County.

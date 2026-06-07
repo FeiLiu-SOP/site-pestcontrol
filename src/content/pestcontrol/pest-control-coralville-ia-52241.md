@@ -11,6 +11,7 @@ lng: -91.6000
 zipSample: ["52241"]
 zipCodes: ["52241"]
 localPaths: ["Johnson County / ZIP 52241 sector", "Johnson County / elevation 751 ft band", "Johnson County / primary ZIP 52241", "Johnson County / coords 41.7000, -91.6000"]
+zillowHomeValueUsd: 256924
 ---
 
 **Engineering Notice for Coralville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Johnson County.

@@ -11,6 +11,7 @@ lng: -77.1100
 zipSample: ["22310", "22303"]
 zipCodes: ["22310", "22303"]
 localPaths: ["Fairfax County / ZIP 22310 sector", "Fairfax County / elevation 184 ft band", "Fairfax County / coords 38.7900, -77.1100", "Fairfax County / ZIP 22303 sector", "Fairfax County / primary ZIP 22303"]
+zillowHomeValueUsd: 562652
 ---
 
 **Engineering Notice for Rose Hill:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.

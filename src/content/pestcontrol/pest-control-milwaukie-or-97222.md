@@ -11,6 +11,7 @@ lng: -122.6200
 zipSample: ["97269", "97222"]
 zipCodes: ["97222", "97269"]
 localPaths: ["Clackamas County / ZIP 97269 sector", "Clackamas County / coords 45.4400, -122.6200", "Clackamas County / elevation 154 ft band", "Clackamas County / ZIP 97222 sector", "Clackamas County / primary ZIP 97222"]
+zillowHomeValueUsd: 495450
 ---
 
 **Engineering Notice for Milwaukie:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clackamas County.

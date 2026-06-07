@@ -11,6 +11,7 @@ lng: -88.2100
 zipSample: ["60404"]
 zipCodes: ["60404"]
 localPaths: ["Will County / coords 41.5200, -88.2100", "Will County / ZIP 60404 sector", "Will County / primary ZIP 60404", "Will County / elevation 623 ft band"]
+zillowHomeValueUsd: 404148
 ---
 
 **Engineering Notice for Shorewood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Will County.

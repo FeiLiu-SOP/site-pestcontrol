@@ -11,6 +11,7 @@ lng: -80.3200
 zipSample: ["26306", "26330", "26301"]
 zipCodes: ["26306", "26301", "26330"]
 localPaths: ["Harrison County / ZIP 26306 sector", "Harrison County / elevation 1099 ft band", "Harrison County / primary ZIP 26301", "Harrison County / coords 39.2900, -80.3200", "Harrison County / ZIP 26330 sector"]
+zillowHomeValueUsd: 116825
 ---
 
 **Engineering Notice for Clarksburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harrison County.

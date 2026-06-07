@@ -11,6 +11,7 @@ lng: -122.1700
 zipSample: ["98201", "98208", "98203", "98206", "98213"]
 zipCodes: ["98207", "98203", "98206", "98213", "98201", "98204", "98208"]
 localPaths: ["Snohomish County / ZIP 98213 sector", "Snohomish County / coords 47.9500, -122.1700", "Snohomish County / primary ZIP 98207", "Snohomish County / ZIP 98208 sector", "Snohomish County / ZIP 98201 sector"]
+zillowHomeValueUsd: 771427
 ---
 
 **Engineering Notice for Everett:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Snohomish County.

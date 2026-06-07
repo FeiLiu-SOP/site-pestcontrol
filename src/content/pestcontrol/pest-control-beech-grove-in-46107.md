@@ -11,6 +11,7 @@ lng: -86.0900
 zipSample: ["46203", "46107"]
 zipCodes: ["46107", "46203"]
 localPaths: ["Marion County / elevation 820 ft band", "Marion County / coords 39.7200, -86.0900", "Marion County / ZIP 46107 sector", "Marion County / ZIP 46203 sector", "Marion County / primary ZIP 46107"]
+zillowHomeValueUsd: 190345
 ---
 
 **Engineering Notice for Beech Grove:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marion County.

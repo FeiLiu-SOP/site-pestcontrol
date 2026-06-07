@@ -11,6 +11,7 @@ lng: -73.4200
 zipSample: ["06855", "06852", "06850", "06851", "06854"]
 zipCodes: ["06855", "06854", "06850", "06857", "06858", "06852", "06851", "06856", "06853"]
 localPaths: ["Western Connecticut County / elevation 135 ft band", "Western Connecticut County / coords 41.1100, -73.4200", "Western Connecticut County / ZIP 06852 sector", "Western Connecticut County / ZIP 06855 sector", "Western Connecticut County / ZIP 06850 sector"]
+zillowHomeValueUsd: 561166
 ---
 
 **Engineering Notice for Norwalk:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Western Connecticut County.

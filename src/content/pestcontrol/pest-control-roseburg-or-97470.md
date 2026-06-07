@@ -11,6 +11,7 @@ lng: -123.3500
 zipSample: ["97470", "97471"]
 zipCodes: ["97471", "97470"]
 localPaths: ["Douglas County / ZIP 97470 sector", "Douglas County / ZIP 97471 sector", "Douglas County / coords 43.2200, -123.3500", "Douglas County / elevation 482 ft band", "Douglas County / primary ZIP 97470"]
+zillowHomeValueUsd: 320672
 ---
 
 **Engineering Notice for Roseburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Douglas County.

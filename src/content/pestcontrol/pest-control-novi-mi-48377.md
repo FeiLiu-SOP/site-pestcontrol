@@ -11,6 +11,7 @@ lng: -83.4900
 zipSample: ["48375", "48376", "48374", "48377", "48167"]
 zipCodes: ["48375", "48377", "48374", "48376", "48167"]
 localPaths: ["Oakland County / ZIP 48375 sector", "Oakland County / primary ZIP 48377", "Oakland County / ZIP 48377 sector", "Oakland County / ZIP 48374 sector", "Oakland County / elevation 935 ft band"]
+zillowHomeValueUsd: 379372
 ---
 
 **Engineering Notice for Novi:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oakland County.

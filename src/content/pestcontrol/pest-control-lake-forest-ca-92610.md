@@ -11,6 +11,7 @@ lng: -117.6700
 zipSample: ["92610", "92630", "92609"]
 zipCodes: ["92610", "92630", "92609"]
 localPaths: ["Orange County / primary ZIP 92610", "Orange County / ZIP 92630 sector", "Orange County / coords 33.6600, -117.6700", "Orange County / ZIP 92610 sector", "Orange County / ZIP 92609 sector"]
+zillowHomeValueUsd: 1271992
 ---
 
 **Engineering Notice for Lake Forest:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

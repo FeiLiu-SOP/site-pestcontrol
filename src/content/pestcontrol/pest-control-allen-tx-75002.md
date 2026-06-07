@@ -11,6 +11,7 @@ lng: -96.6700
 zipSample: ["75013", "75002"]
 zipCodes: ["75013", "75002"]
 localPaths: ["Collin County / primary ZIP 75002", "Collin County / coords 33.1100, -96.6700", "Collin County / ZIP 75002 sector", "Collin County / ZIP 75013 sector", "Collin County / elevation 673 ft band"]
+zillowHomeValueUsd: 457428
 ---
 
 **Engineering Notice for Allen:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Collin County.

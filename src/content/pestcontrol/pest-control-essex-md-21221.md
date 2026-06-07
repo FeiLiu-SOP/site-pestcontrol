@@ -11,6 +11,7 @@ lng: -76.4400
 zipSample: ["21221"]
 zipCodes: ["21221"]
 localPaths: ["Baltimore County / coords 39.3000, -76.4400", "Baltimore County / ZIP 21221 sector", "Baltimore County / primary ZIP 21221", "Baltimore County / elevation 26 ft band"]
+zillowHomeValueUsd: 292831
 ---
 
 **Engineering Notice for Essex:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.

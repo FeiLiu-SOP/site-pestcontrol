@@ -11,6 +11,7 @@ lng: -76.5000
 zipSample: ["21012"]
 zipCodes: ["21012"]
 localPaths: ["Anne Arundel County / coords 39.0400, -76.5000", "Anne Arundel County / elevation 138 ft band", "Anne Arundel County / ZIP 21012 sector", "Anne Arundel County / primary ZIP 21012"]
+zillowHomeValueUsd: 597096
 ---
 
 **Engineering Notice for Arnold:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anne Arundel County.

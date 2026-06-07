@@ -11,6 +11,7 @@ lng: -79.4100
 zipSample: ["24541", "24540"]
 zipCodes: ["24541", "24540"]
 localPaths: ["Danville County / primary ZIP 24540", "Danville County / ZIP 24541 sector", "Danville County / coords 36.5800, -79.4100", "Danville County / ZIP 24540 sector", "Danville County / elevation 554 ft band"]
+zillowHomeValueUsd: 153082
 ---
 
 **Engineering Notice for Danville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Danville County.

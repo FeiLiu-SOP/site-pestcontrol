@@ -11,6 +11,7 @@ lng: -104.9500
 zipSample: ["80534"]
 zipCodes: ["80534"]
 localPaths: ["Weld County / primary ZIP 80534", "Weld County / ZIP 80534 sector", "Weld County / elevation 4908 ft band", "Weld County / coords 40.3500, -104.9500"]
+zillowHomeValueUsd: 510442
 ---
 
 **Engineering Notice for Johnstown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Weld County.

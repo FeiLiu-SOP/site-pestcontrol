@@ -11,6 +11,8 @@ lng: -122.5700
 zipSample: ["98433"]
 zipCodes: ["98433"]
 localPaths: ["Pierce County / coords 47.1000, -122.5700", "Pierce County / ZIP 98433 sector", "Pierce County / primary ZIP 98433", "Pierce County / elevation 377 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 596197
 ---
 
 **Engineering Notice for Fort Lewis:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pierce County.

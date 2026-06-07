@@ -11,6 +11,7 @@ lng: -86.9900
 zipSample: ["35602", "35603", "35601", "35609"]
 zipCodes: ["35602", "35601", "35609", "35603"]
 localPaths: ["Morgan County / ZIP 35602 sector", "Morgan County / primary ZIP 35603", "Morgan County / elevation 591 ft band", "Morgan County / ZIP 35609 sector", "Morgan County / coords 34.5700, -86.9900"]
+zillowHomeValueUsd: 280521
 ---
 
 **Engineering Notice for Decatur:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Morgan County.

@@ -11,6 +11,7 @@ lng: -79.0400
 zipSample: ["29527", "29528", "29526"]
 zipCodes: ["29527", "29526", "29528"]
 localPaths: ["Horry County / ZIP 29528 sector", "Horry County / ZIP 29527 sector", "Horry County / elevation 39 ft band", "Horry County / primary ZIP 29527", "Horry County / ZIP 29526 sector"]
+zillowHomeValueUsd: 259469
 ---
 
 **Engineering Notice for Conway:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Horry County.

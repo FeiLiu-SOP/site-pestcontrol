@@ -11,6 +11,7 @@ lng: -77.4800
 zipSample: ["20110", "20108"]
 zipCodes: ["20110", "20108"]
 localPaths: ["Manassas County / coords 38.7500, -77.4800", "Manassas County / elevation 279 ft band", "Manassas County / ZIP 20108 sector", "Manassas County / primary ZIP 20110", "Manassas County / ZIP 20110 sector"]
+zillowHomeValueUsd: 515140
 ---
 
 **Engineering Notice for Manassas:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Manassas County.

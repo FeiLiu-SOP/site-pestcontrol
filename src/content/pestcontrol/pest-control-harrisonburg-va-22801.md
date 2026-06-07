@@ -11,6 +11,7 @@ lng: -78.8700
 zipSample: ["22802", "22801", "22803", "22807"]
 zipCodes: ["22807", "22803", "22801", "22802"]
 localPaths: ["Harrisonburg County / coords 38.4400, -78.8700", "Harrisonburg County / ZIP 22803 sector", "Harrisonburg County / primary ZIP 22801", "Harrisonburg County / ZIP 22801 sector", "Harrisonburg County / elevation 1309 ft band"]
+zillowHomeValueUsd: 368585
 ---
 
 **Engineering Notice for Harrisonburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harrisonburg County.

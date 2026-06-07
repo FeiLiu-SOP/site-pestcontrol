@@ -11,6 +11,7 @@ lng: -94.9700
 zipSample: ["77521", "77522", "77520", "77523"]
 zipCodes: ["77522", "77520", "77523", "77521"]
 localPaths: ["Harris County / ZIP 77521 sector", "Harris County / ZIP 77522 sector", "Harris County / coords 29.7600, -94.9700", "Harris County / elevation 26 ft band", "Harris County / primary ZIP 77520"]
+zillowHomeValueUsd: 172935
 ---
 
 **Engineering Notice for Baytown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harris County.

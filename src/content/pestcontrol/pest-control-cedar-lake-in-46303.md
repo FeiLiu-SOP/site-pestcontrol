@@ -11,6 +11,7 @@ lng: -87.4400
 zipSample: ["46303"]
 zipCodes: ["46303"]
 localPaths: ["Lake County / ZIP 46303 sector", "Lake County / coords 41.3700, -87.4400", "Lake County / primary ZIP 46303", "Lake County / elevation 719 ft band"]
+zillowHomeValueUsd: 328344
 ---
 
 **Engineering Notice for Cedar Lake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

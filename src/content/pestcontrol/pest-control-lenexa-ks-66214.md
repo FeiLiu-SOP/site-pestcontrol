@@ -11,6 +11,7 @@ lng: -94.8000
 zipSample: ["66216", "66219", "66215", "66227", "66220"]
 zipCodes: ["66214", "66215", "66216", "66227", "66220", "66219", "66250"]
 localPaths: ["Johnson County / ZIP 66216 sector", "Johnson County / ZIP 66220 sector", "Johnson County / elevation 886 ft band", "Johnson County / primary ZIP 66214", "Johnson County / ZIP 66227 sector"]
+zillowHomeValueUsd: 389032
 ---
 
 **Engineering Notice for Lenexa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Johnson County.

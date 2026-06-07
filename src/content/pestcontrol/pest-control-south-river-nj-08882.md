@@ -11,6 +11,7 @@ lng: -74.3800
 zipSample: ["08882"]
 zipCodes: ["08882"]
 localPaths: ["Middlesex County / primary ZIP 08882", "Middlesex County / ZIP 08882 sector", "Middlesex County / coords 40.4500, -74.3800", "Middlesex County / elevation 23 ft band"]
+zillowHomeValueUsd: 528573
 ---
 
 **Engineering Notice for South River:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.

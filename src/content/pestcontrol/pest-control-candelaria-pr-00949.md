@@ -11,6 +11,8 @@ lng: -66.2200
 zipSample: ["00949"]
 zipCodes: ["00949"]
 localPaths: ["Toa Baja County / elevation 233 ft band", "Toa Baja County / ZIP 00949 sector", "Toa Baja County / primary ZIP 00949", "Toa Baja County / coords 18.4000, -66.2200"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 368698
 ---
 
 **Engineering Notice for Candelaria:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Toa Baja County.

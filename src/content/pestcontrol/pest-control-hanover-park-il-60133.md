@@ -11,6 +11,7 @@ lng: -88.1400
 zipSample: ["60133"]
 zipCodes: ["60133"]
 localPaths: ["DuPage County / primary ZIP 60133", "DuPage County / elevation 801 ft band", "DuPage County / coords 41.9800, -88.1400", "DuPage County / ZIP 60133 sector"]
+zillowHomeValueUsd: 322866
 ---
 
 **Engineering Notice for Hanover Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.

@@ -11,6 +11,7 @@ lng: -111.7400
 zipSample: ["84062"]
 zipCodes: ["84062"]
 localPaths: ["Utah County / primary ZIP 84062", "Utah County / coords 40.3700, -111.7400", "Utah County / ZIP 84062 sector", "Utah County / elevation 4636 ft band"]
+zillowHomeValueUsd: 584818
 ---
 
 **Engineering Notice for Pleasant Grove:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Utah County.

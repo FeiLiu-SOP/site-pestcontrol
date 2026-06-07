@@ -11,6 +11,7 @@ lng: -90.7200
 zipSample: ["63366", "63367", "63368"]
 zipCodes: ["63367", "63368", "63366"]
 localPaths: ["St. Charles County / ZIP 63366 sector", "St. Charles County / ZIP 63367 sector", "St. Charles County / elevation 597 ft band", "St. Charles County / coords 38.7800, -90.7200", "St. Charles County / ZIP 63368 sector"]
+zillowHomeValueUsd: 441341
 ---
 
 **Engineering Notice for O'Fallon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Charles County.

@@ -11,6 +11,7 @@ lng: -80.0600
 zipSample: ["24157", "24153", "24155"]
 zipCodes: ["24155", "24157", "24153"]
 localPaths: ["Salem County / ZIP 24153 sector", "Salem County / ZIP 24155 sector", "Salem County / primary ZIP 24153", "Salem County / coords 37.2900, -80.0600", "Salem County / ZIP 24157 sector"]
+zillowHomeValueUsd: 305116
 ---
 
 **Engineering Notice for Salem:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Salem County.

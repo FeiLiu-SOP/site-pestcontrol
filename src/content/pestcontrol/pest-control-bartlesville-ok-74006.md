@@ -11,6 +11,7 @@ lng: -95.9500
 zipSample: ["74004", "74005", "74006", "74003"]
 zipCodes: ["74006", "74005", "74004", "74003"]
 localPaths: ["Washington County / ZIP 74006 sector", "Washington County / coords 36.7400, -95.9500", "Washington County / ZIP 74003 sector", "Washington County / ZIP 74005 sector", "Washington County / ZIP 74004 sector"]
+zillowHomeValueUsd: 216052
 ---
 
 **Engineering Notice for Bartlesville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.

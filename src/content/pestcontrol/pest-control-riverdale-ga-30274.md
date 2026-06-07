@@ -11,6 +11,7 @@ lng: -84.4100
 zipSample: ["30374", "30287", "30274", "30296"]
 zipCodes: ["30274", "30374", "30296", "30287"]
 localPaths: ["Clayton County / primary ZIP 30274", "Clayton County / ZIP 30374 sector", "Clayton County / coords 33.5600, -84.4100", "Clayton County / ZIP 30274 sector", "Clayton County / ZIP 30296 sector"]
+zillowHomeValueUsd: 200577
 ---
 
 **Engineering Notice for Riverdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clayton County.

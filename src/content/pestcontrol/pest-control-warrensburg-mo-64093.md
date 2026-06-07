@@ -11,6 +11,7 @@ lng: -93.7300
 zipSample: ["64093"]
 zipCodes: ["64093"]
 localPaths: ["Johnson County / coords 38.7600, -93.7300", "Johnson County / elevation 837 ft band", "Johnson County / primary ZIP 64093", "Johnson County / ZIP 64093 sector"]
+zillowHomeValueUsd: 266520
 ---
 
 **Engineering Notice for Warrensburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Johnson County.

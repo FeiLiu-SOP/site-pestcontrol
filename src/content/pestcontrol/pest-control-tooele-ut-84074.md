@@ -11,6 +11,7 @@ lng: -112.3100
 zipSample: ["84074"]
 zipCodes: ["84074"]
 localPaths: ["Tooele County / ZIP 84074 sector", "Tooele County / coords 40.5400, -112.3100", "Tooele County / primary ZIP 84074", "Tooele County / elevation 4925 ft band"]
+zillowHomeValueUsd: 464581
 ---
 
 **Engineering Notice for Tooele:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tooele County.

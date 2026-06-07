@@ -11,6 +11,7 @@ lng: -93.3200
 zipSample: ["55430", "55429"]
 zipCodes: ["55430", "55429"]
 localPaths: ["Hennepin County / primary ZIP 55429", "Hennepin County / elevation 846 ft band", "Hennepin County / ZIP 55429 sector", "Hennepin County / coords 45.0700, -93.3200", "Hennepin County / ZIP 55430 sector"]
+zillowHomeValueUsd: 298858
 ---
 
 **Engineering Notice for Brooklyn Center:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hennepin County.

@@ -11,6 +11,7 @@ lng: -121.9900
 zipSample: ["98272"]
 zipCodes: ["98272"]
 localPaths: ["Snohomish County / primary ZIP 98272", "Snohomish County / coords 47.8600, -121.9900", "Snohomish County / elevation 56 ft band", "Snohomish County / ZIP 98272 sector"]
+zillowHomeValueUsd: 734149
 ---
 
 **Engineering Notice for Monroe:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Snohomish County.

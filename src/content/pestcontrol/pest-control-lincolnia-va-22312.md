@@ -11,6 +11,7 @@ lng: -77.1500
 zipSample: ["22312"]
 zipCodes: ["22312"]
 localPaths: ["Fairfax County / coords 38.8200, -77.1500", "Fairfax County / ZIP 22312 sector", "Fairfax County / elevation 243 ft band", "Fairfax County / primary ZIP 22312"]
+zillowHomeValueUsd: 639327
 ---
 
 **Engineering Notice for Lincolnia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.

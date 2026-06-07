@@ -11,6 +11,7 @@ lng: -91.0200
 zipSample: ["63090"]
 zipCodes: ["63090"]
 localPaths: ["Franklin County / ZIP 63090 sector", "Franklin County / primary ZIP 63090", "Franklin County / elevation 558 ft band", "Franklin County / coords 38.5500, -91.0200"]
+zillowHomeValueUsd: 307019
 ---
 
 **Engineering Notice for Washington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Franklin County.

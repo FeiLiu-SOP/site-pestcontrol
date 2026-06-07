@@ -11,6 +11,7 @@ lng: -73.6800
 zipSample: ["12181", "12182", "12180"]
 zipCodes: ["12180", "12181", "12182"]
 localPaths: ["Rensselaer County / primary ZIP 12182", "Rensselaer County / ZIP 12180 sector", "Rensselaer County / elevation 249 ft band", "Rensselaer County / ZIP 12181 sector", "Rensselaer County / ZIP 12182 sector"]
+zillowHomeValueUsd: 256195
 ---
 
 **Engineering Notice for Troy:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rensselaer County.

@@ -11,6 +11,7 @@ lng: -76.9300
 zipSample: ["20740", "20741", "20742"]
 zipCodes: ["20741", "20740", "20742"]
 localPaths: ["Prince George's County / ZIP 20740 sector", "Prince George's County / coords 39.0000, -76.9300", "Prince George's County / ZIP 20742 sector", "Prince George's County / primary ZIP 20742", "Prince George's County / ZIP 20741 sector"]
+zillowHomeValueUsd: 438666
 ---
 
 **Engineering Notice for College Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince George's County.

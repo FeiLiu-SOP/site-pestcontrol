@@ -11,6 +11,7 @@ lng: -95.5700
 zipSample: ["77477", "77497"]
 zipCodes: ["77477", "77497"]
 localPaths: ["Fort Bend County / primary ZIP 77477", "Fort Bend County / ZIP 77477 sector", "Fort Bend County / ZIP 77497 sector", "Fort Bend County / coords 29.6300, -95.5700", "Fort Bend County / elevation 85 ft band"]
+zillowHomeValueUsd: 286665
 ---
 
 **Engineering Notice for Stafford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fort Bend County.

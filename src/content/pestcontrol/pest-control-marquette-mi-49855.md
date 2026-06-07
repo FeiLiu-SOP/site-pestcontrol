@@ -11,6 +11,7 @@ lng: -87.4100
 zipSample: ["49855"]
 zipCodes: ["49855"]
 localPaths: ["Marquette County / elevation 699 ft band", "Marquette County / ZIP 49855 sector", "Marquette County / coords 46.5400, -87.4100", "Marquette County / primary ZIP 49855"]
+zillowHomeValueUsd: 322627
 ---
 
 **Engineering Notice for Marquette:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marquette County.

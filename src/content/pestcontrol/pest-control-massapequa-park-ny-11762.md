@@ -11,6 +11,7 @@ lng: -73.4500
 zipSample: ["11762"]
 zipCodes: ["11762"]
 localPaths: ["Nassau County / ZIP 11762 sector", "Nassau County / coords 40.6800, -73.4500", "Nassau County / elevation 39 ft band", "Nassau County / primary ZIP 11762"]
+zillowHomeValueUsd: 792762
 ---
 
 **Engineering Notice for Massapequa Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

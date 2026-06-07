@@ -11,6 +11,7 @@ lng: -80.2400
 zipSample: ["34996", "34957", "34994"]
 zipCodes: ["34994", "34996", "34957"]
 localPaths: ["Martin County / coords 27.2000, -80.2400", "Martin County / primary ZIP 34994", "Martin County / elevation 23 ft band", "Martin County / ZIP 34957 sector", "Martin County / ZIP 34994 sector"]
+zillowHomeValueUsd: 237215
 ---
 
 **Engineering Notice for Stuart:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Martin County.

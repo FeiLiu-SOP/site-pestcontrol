@@ -11,6 +11,7 @@ lng: -88.2500
 zipSample: ["53187", "53188", "53189", "53186"]
 zipCodes: ["53188", "53189", "53186", "53187"]
 localPaths: ["Waukesha County / coords 43.0100, -88.2500", "Waukesha County / primary ZIP 53186", "Waukesha County / elevation 879 ft band", "Waukesha County / ZIP 53188 sector", "Waukesha County / ZIP 53189 sector"]
+zillowHomeValueUsd: 360175
 ---
 
 **Engineering Notice for Waukesha:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Waukesha County.

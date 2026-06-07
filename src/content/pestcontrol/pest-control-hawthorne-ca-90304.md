@@ -11,6 +11,7 @@ lng: -118.3500
 zipSample: ["90304", "90250", "90310", "90251"]
 zipCodes: ["90251", "90250", "90304", "90310"]
 localPaths: ["Los Angeles County / coords 33.9100, -118.3500", "Los Angeles County / ZIP 90250 sector", "Los Angeles County / ZIP 90251 sector", "Los Angeles County / elevation 79 ft band", "Los Angeles County / primary ZIP 90304"]
+zillowHomeValueUsd: 739006
 ---
 
 **Engineering Notice for Hawthorne:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

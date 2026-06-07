@@ -11,6 +11,7 @@ lng: -70.4500
 zipSample: ["04005", "04007", "04006"]
 zipCodes: ["04005", "04007", "04006"]
 localPaths: ["York County / ZIP 04006 sector", "York County / elevation 151 ft band", "York County / coords 43.4700, -70.4500", "York County / ZIP 04005 sector", "York County / ZIP 04007 sector"]
+zillowHomeValueUsd: 499639
 ---
 
 **Engineering Notice for Biddeford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: York County.

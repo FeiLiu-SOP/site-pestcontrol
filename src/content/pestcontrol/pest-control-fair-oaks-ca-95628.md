@@ -11,6 +11,7 @@ lng: -121.2500
 zipSample: ["95628"]
 zipCodes: ["95628"]
 localPaths: ["Sacramento County / primary ZIP 95628", "Sacramento County / ZIP 95628 sector", "Sacramento County / elevation 210 ft band", "Sacramento County / coords 38.6500, -121.2500"]
+zillowHomeValueUsd: 619478
 ---
 
 **Engineering Notice for Fair Oaks:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sacramento County.

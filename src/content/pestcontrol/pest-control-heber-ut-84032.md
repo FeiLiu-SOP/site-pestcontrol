@@ -11,6 +11,7 @@ lng: -111.4000
 zipSample: ["84032"]
 zipCodes: ["84032"]
 localPaths: ["Wasatch County / elevation 5669 ft band", "Wasatch County / coords 40.5100, -111.4000", "Wasatch County / primary ZIP 84032", "Wasatch County / ZIP 84032 sector"]
+zillowHomeValueUsd: 849841
 ---
 
 **Engineering Notice for Heber:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wasatch County.

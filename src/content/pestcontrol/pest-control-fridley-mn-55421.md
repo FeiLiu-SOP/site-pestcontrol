@@ -11,6 +11,7 @@ lng: -93.2600
 zipSample: ["55421", "55432"]
 zipCodes: ["55421", "55432"]
 localPaths: ["Anoka County / elevation 843 ft band", "Anoka County / ZIP 55421 sector", "Anoka County / ZIP 55432 sector", "Anoka County / coords 45.0800, -93.2600", "Anoka County / primary ZIP 55421"]
+zillowHomeValueUsd: 297797
 ---
 
 **Engineering Notice for Fridley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anoka County.

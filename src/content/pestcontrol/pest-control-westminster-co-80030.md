@@ -11,6 +11,7 @@ lng: -105.0600
 zipSample: ["80021", "80030", "80005", "80035", "80234"]
 zipCodes: ["80036", "80035", "80030", "80021", "80031", "80020", "80005", "80234", "80003"]
 localPaths: ["Adams County / ZIP 80234 sector", "Adams County / ZIP 80035 sector", "Adams County / coords 39.8800, -105.0600", "Adams County / elevation 5325 ft band", "Adams County / ZIP 80021 sector"]
+zillowHomeValueUsd: 441651
 ---
 
 **Engineering Notice for Westminster:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Adams County.

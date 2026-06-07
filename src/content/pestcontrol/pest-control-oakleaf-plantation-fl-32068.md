@@ -11,6 +11,7 @@ lng: -81.8300
 zipSample: ["32068", "32065", "32073"]
 zipCodes: ["32068", "32073", "32065"]
 localPaths: ["Clay County / coords 30.1700, -81.8300", "Clay County / ZIP 32068 sector", "Clay County / ZIP 32065 sector", "Clay County / ZIP 32073 sector", "Clay County / primary ZIP 32068"]
+zillowHomeValueUsd: 325208
 ---
 
 **Engineering Notice for Oakleaf Plantation:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clay County.

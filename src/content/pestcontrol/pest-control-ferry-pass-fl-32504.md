@@ -11,6 +11,7 @@ lng: -87.1900
 zipSample: ["32523", "32514", "32504"]
 zipCodes: ["32523", "32504", "32514"]
 localPaths: ["Escambia County / ZIP 32523 sector", "Escambia County / ZIP 32504 sector", "Escambia County / primary ZIP 32504", "Escambia County / ZIP 32514 sector", "Escambia County / coords 30.5200, -87.1900"]
+zillowHomeValueUsd: 270453
 ---
 
 **Engineering Notice for Ferry Pass:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Escambia County.

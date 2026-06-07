@@ -11,6 +11,7 @@ lng: -90.8900
 zipSample: ["39181", "39183", "39182", "39180"]
 zipCodes: ["39183", "39180", "39182", "39181"]
 localPaths: ["Warren County / ZIP 39181 sector", "Warren County / elevation 253 ft band", "Warren County / ZIP 39183 sector", "Warren County / coords 32.3200, -90.8900", "Warren County / primary ZIP 39180"]
+zillowHomeValueUsd: 144075
 ---
 
 **Engineering Notice for Vicksburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Warren County.

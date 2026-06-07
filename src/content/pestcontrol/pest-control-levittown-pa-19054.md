@@ -11,6 +11,7 @@ lng: -74.8500
 zipSample: ["19054", "19056", "19055", "19058", "19057"]
 zipCodes: ["19057", "19055", "19058", "19056", "19054"]
 localPaths: ["Bucks County / ZIP 19056 sector", "Bucks County / elevation 102 ft band", "Bucks County / coords 40.1500, -74.8500", "Bucks County / ZIP 19054 sector", "Bucks County / primary ZIP 19054"]
+zillowHomeValueUsd: 397236
 ---
 
 **Engineering Notice for Levittown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bucks County.

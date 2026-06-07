@@ -11,6 +11,7 @@ lng: -122.1200
 zipSample: ["94541", "94580", "94578"]
 zipCodes: ["94580", "94578", "94541"]
 localPaths: ["Alameda County / ZIP 94580 sector", "Alameda County / primary ZIP 94541", "Alameda County / elevation 33 ft band", "Alameda County / coords 37.6900, -122.1200", "Alameda County / ZIP 94541 sector"]
+zillowHomeValueUsd: 783179
 ---
 
 **Engineering Notice for Ashland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alameda County.

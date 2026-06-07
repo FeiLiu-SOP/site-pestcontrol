@@ -11,6 +11,7 @@ lng: -94.9300
 zipSample: ["66030"]
 zipCodes: ["66030"]
 localPaths: ["Johnson County / elevation 1070 ft band", "Johnson County / ZIP 66030 sector", "Johnson County / primary ZIP 66030", "Johnson County / coords 38.8100, -94.9300"]
+zillowHomeValueUsd: 352610
 ---
 
 **Engineering Notice for Gardner:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Johnson County.

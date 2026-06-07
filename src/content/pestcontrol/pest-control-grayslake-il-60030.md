@@ -11,6 +11,7 @@ lng: -88.0300
 zipSample: ["60030"]
 zipCodes: ["60030"]
 localPaths: ["Lake County / elevation 781 ft band", "Lake County / primary ZIP 60030", "Lake County / ZIP 60030 sector", "Lake County / coords 42.3400, -88.0300"]
+zillowHomeValueUsd: 346421
 ---
 
 **Engineering Notice for Grayslake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

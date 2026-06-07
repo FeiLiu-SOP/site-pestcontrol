@@ -11,6 +11,7 @@ lng: -71.8200
 zipSample: ["01420"]
 zipCodes: ["01420"]
 localPaths: ["Worcester County / elevation 712 ft band", "Worcester County / coords 42.5900, -71.8200", "Worcester County / primary ZIP 01420", "Worcester County / ZIP 01420 sector"]
+zillowHomeValueUsd: 396167
 ---
 
 **Engineering Notice for Fitchburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Worcester County.

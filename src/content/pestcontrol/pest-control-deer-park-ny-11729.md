@@ -11,6 +11,7 @@ lng: -73.3200
 zipSample: ["11729"]
 zipCodes: ["11729"]
 localPaths: ["Suffolk County / coords 40.7600, -73.3200", "Suffolk County / primary ZIP 11729", "Suffolk County / elevation 82 ft band", "Suffolk County / ZIP 11729 sector"]
+zillowHomeValueUsd: 639022
 ---
 
 **Engineering Notice for Deer Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

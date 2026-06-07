@@ -11,6 +11,7 @@ lng: -89.4300
 zipSample: ["53711", "53744", "53713", "53719", "53575"]
 zipCodes: ["53719", "53713", "53711", "53575", "53744"]
 localPaths: ["Dane County / primary ZIP 53575", "Dane County / elevation 1033 ft band", "Dane County / ZIP 53719 sector", "Dane County / ZIP 53744 sector", "Dane County / ZIP 53711 sector"]
+zillowHomeValueUsd: 495898
 ---
 
 **Engineering Notice for Fitchburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dane County.

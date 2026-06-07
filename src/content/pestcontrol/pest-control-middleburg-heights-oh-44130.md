@@ -11,6 +11,7 @@ lng: -81.8100
 zipSample: ["44130"]
 zipCodes: ["44130"]
 localPaths: ["Cuyahoga County / coords 41.3700, -81.8100", "Cuyahoga County / elevation 843 ft band", "Cuyahoga County / ZIP 44130 sector", "Cuyahoga County / primary ZIP 44130"]
+zillowHomeValueUsd: 232777
 ---
 
 **Engineering Notice for Middleburg Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cuyahoga County.

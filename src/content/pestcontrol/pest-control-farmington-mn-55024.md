@@ -11,6 +11,7 @@ lng: -93.1700
 zipSample: ["55024"]
 zipCodes: ["55024"]
 localPaths: ["Dakota County / coords 44.6600, -93.1700", "Dakota County / primary ZIP 55024", "Dakota County / ZIP 55024 sector", "Dakota County / elevation 909 ft band"]
+zillowHomeValueUsd: 400251
 ---
 
 **Engineering Notice for Farmington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dakota County.

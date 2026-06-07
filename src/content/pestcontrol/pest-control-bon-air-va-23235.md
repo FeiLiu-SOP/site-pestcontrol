@@ -11,6 +11,7 @@ lng: -77.5700
 zipSample: ["23235"]
 zipCodes: ["23235"]
 localPaths: ["Chesterfield County / elevation 322 ft band", "Chesterfield County / ZIP 23235 sector", "Chesterfield County / coords 37.5200, -77.5700", "Chesterfield County / primary ZIP 23235"]
+zillowHomeValueUsd: 412270
 ---
 
 **Engineering Notice for Bon Air:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Chesterfield County.

@@ -11,6 +11,7 @@ lng: -121.8200
 zipSample: ["95926", "95929", "95973", "95927", "95976"]
 zipCodes: ["95929", "95976", "95973", "95927", "95926", "95928"]
 localPaths: ["Butte County / ZIP 95973 sector", "Butte County / elevation 243 ft band", "Butte County / ZIP 95929 sector", "Butte County / ZIP 95926 sector", "Butte County / ZIP 95976 sector"]
+zillowHomeValueUsd: 502696
 ---
 
 **Engineering Notice for Chico:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Butte County.

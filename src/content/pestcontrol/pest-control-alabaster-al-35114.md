@@ -11,6 +11,7 @@ lng: -86.8200
 zipSample: ["35114", "35007"]
 zipCodes: ["35114", "35007"]
 localPaths: ["Shelby County / ZIP 35007 sector", "Shelby County / coords 33.2200, -86.8200", "Shelby County / ZIP 35114 sector", "Shelby County / primary ZIP 35114", "Shelby County / elevation 495 ft band"]
+zillowHomeValueUsd: 344556
 ---
 
 **Engineering Notice for Alabaster:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Shelby County.

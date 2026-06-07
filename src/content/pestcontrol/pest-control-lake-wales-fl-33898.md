@@ -11,6 +11,7 @@ lng: -81.6000
 zipSample: ["33853", "33859", "33898"]
 zipCodes: ["33898", "33853", "33859"]
 localPaths: ["Polk County / primary ZIP 33898", "Polk County / ZIP 33859 sector", "Polk County / elevation 184 ft band", "Polk County / ZIP 33853 sector", "Polk County / ZIP 33898 sector"]
+zillowHomeValueUsd: 251317
 ---
 
 **Engineering Notice for Lake Wales:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Polk County.

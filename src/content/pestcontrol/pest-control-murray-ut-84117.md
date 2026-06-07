@@ -11,6 +11,7 @@ lng: -111.8900
 zipSample: ["84107", "84117", "84121", "84123", "84157"]
 zipCodes: ["84157", "84107", "84123", "84117", "84121"]
 localPaths: ["Salt Lake County / ZIP 84121 sector", "Salt Lake County / ZIP 84123 sector", "Salt Lake County / ZIP 84107 sector", "Salt Lake County / ZIP 84117 sector", "Salt Lake County / primary ZIP 84117"]
+zillowHomeValueUsd: 694500
 ---
 
 **Engineering Notice for Murray:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Salt Lake County.

@@ -11,6 +11,7 @@ lng: -91.7600
 zipSample: ["65402", "65401", "65409"]
 zipCodes: ["65409", "65401", "65402"]
 localPaths: ["Phelps County / coords 37.9500, -91.7600", "Phelps County / ZIP 65409 sector", "Phelps County / elevation 1099 ft band", "Phelps County / ZIP 65401 sector", "Phelps County / primary ZIP 65409"]
+zillowHomeValueUsd: 236219
 ---
 
 **Engineering Notice for Rolla:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Phelps County.

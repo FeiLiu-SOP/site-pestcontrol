@@ -11,6 +11,7 @@ lng: -114.0200
 zipSample: ["59812", "59802", "59808", "59801", "59803"]
 zipCodes: ["59801", "59803", "59812", "59808", "59802"]
 localPaths: ["Missoula County / ZIP 59812 sector", "Missoula County / ZIP 59801 sector", "Missoula County / ZIP 59808 sector", "Missoula County / coords 46.8800, -114.0200", "Missoula County / ZIP 59802 sector"]
+zillowHomeValueUsd: 499196
 ---
 
 **Engineering Notice for Missoula:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Missoula County.

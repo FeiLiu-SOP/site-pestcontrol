@@ -11,6 +11,7 @@ lng: -122.7700
 zipSample: ["97070"]
 zipCodes: ["97070"]
 localPaths: ["Clackamas County / primary ZIP 97070", "Clackamas County / coords 45.3100, -122.7700", "Clackamas County / ZIP 97070 sector", "Clackamas County / elevation 180 ft band"]
+zillowHomeValueUsd: 633744
 ---
 
 **Engineering Notice for Wilsonville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clackamas County.

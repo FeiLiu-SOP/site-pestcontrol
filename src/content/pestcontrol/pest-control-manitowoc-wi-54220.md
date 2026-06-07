@@ -11,6 +11,7 @@ lng: -87.6800
 zipSample: ["54220"]
 zipCodes: ["54220"]
 localPaths: ["Manitowoc County / ZIP 54220 sector", "Manitowoc County / coords 44.1000, -87.6800", "Manitowoc County / elevation 630 ft band", "Manitowoc County / primary ZIP 54220"]
+zillowHomeValueUsd: 236140
 ---
 
 **Engineering Notice for Manitowoc:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Manitowoc County.

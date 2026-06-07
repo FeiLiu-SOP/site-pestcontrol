@@ -11,6 +11,7 @@ lng: -93.3600
 zipSample: ["55410", "55436", "55424", "55435", "55439"]
 zipCodes: ["55439", "55410", "55436", "55424", "55435"]
 localPaths: ["Hennepin County / ZIP 55410 sector", "Hennepin County / ZIP 55435 sector", "Hennepin County / coords 44.8900, -93.3600", "Hennepin County / ZIP 55439 sector", "Hennepin County / ZIP 55436 sector"]
+zillowHomeValueUsd: 1012392
 ---
 
 **Engineering Notice for Edina:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hennepin County.

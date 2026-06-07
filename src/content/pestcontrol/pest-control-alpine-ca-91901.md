@@ -11,6 +11,7 @@ lng: -116.7600
 zipSample: ["91901", "91903"]
 zipCodes: ["91901", "91903"]
 localPaths: ["San Diego County / ZIP 91901 sector", "San Diego County / ZIP 91903 sector", "San Diego County / coords 32.8400, -116.7600", "San Diego County / elevation 2133 ft band", "San Diego County / primary ZIP 91901"]
+zillowHomeValueUsd: 966668
 ---
 
 **Engineering Notice for Alpine:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.

@@ -11,6 +11,7 @@ lng: -92.6600
 zipSample: ["71730", "71731"]
 zipCodes: ["71730", "71731"]
 localPaths: ["Union County / primary ZIP 71730", "Union County / ZIP 71730 sector", "Union County / coords 33.2200, -92.6600", "Union County / elevation 240 ft band", "Union County / ZIP 71731 sector"]
+zillowHomeValueUsd: 135040
 ---
 
 **Engineering Notice for El Dorado:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Union County.

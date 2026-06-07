@@ -11,6 +11,7 @@ lng: -95.8200
 zipSample: ["77471", "77469"]
 zipCodes: ["77469", "77471"]
 localPaths: ["Fort Bend County / ZIP 77469 sector", "Fort Bend County / elevation 102 ft band", "Fort Bend County / primary ZIP 77471", "Fort Bend County / coords 29.5500, -95.8200", "Fort Bend County / ZIP 77471 sector"]
+zillowHomeValueUsd: 283325
 ---
 
 **Engineering Notice for Rosenberg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fort Bend County.

@@ -11,6 +11,7 @@ lng: -82.9300
 zipSample: ["48225", "48265"]
 zipCodes: ["48225", "48265"]
 localPaths: ["Wayne County / primary ZIP 48225", "Wayne County / coords 42.4400, -82.9300", "Wayne County / ZIP 48265 sector", "Wayne County / ZIP 48225 sector", "Wayne County / elevation 597 ft band"]
+zillowHomeValueUsd: 150466
 ---
 
 **Engineering Notice for Harper Woods:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wayne County.

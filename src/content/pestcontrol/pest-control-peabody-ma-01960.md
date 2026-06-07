@@ -11,6 +11,7 @@ lng: -70.9700
 zipSample: ["01960", "01961"]
 zipCodes: ["01960", "01961"]
 localPaths: ["Essex County / primary ZIP 01960", "Essex County / elevation 184 ft band", "Essex County / ZIP 01961 sector", "Essex County / ZIP 01960 sector", "Essex County / coords 42.5300, -70.9700"]
+zillowHomeValueUsd: 695247
 ---
 
 **Engineering Notice for Peabody:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Essex County.

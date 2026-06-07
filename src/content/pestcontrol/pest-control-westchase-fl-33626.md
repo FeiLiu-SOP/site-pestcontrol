@@ -11,6 +11,7 @@ lng: -82.6100
 zipSample: ["33626"]
 zipCodes: ["33626"]
 localPaths: ["Hillsborough County / elevation 43 ft band", "Hillsborough County / primary ZIP 33626", "Hillsborough County / ZIP 33626 sector", "Hillsborough County / coords 28.0600, -82.6100"]
+zillowHomeValueUsd: 569019
 ---
 
 **Engineering Notice for Westchase:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.

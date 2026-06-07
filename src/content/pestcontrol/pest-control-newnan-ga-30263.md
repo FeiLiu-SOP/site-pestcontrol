@@ -11,6 +11,7 @@ lng: -84.7800
 zipSample: ["30265", "30264", "30263", "30271"]
 zipCodes: ["30263", "30264", "30271", "30265"]
 localPaths: ["Coweta County / coords 33.3800, -84.7800", "Coweta County / primary ZIP 30263", "Coweta County / ZIP 30271 sector", "Coweta County / ZIP 30263 sector", "Coweta County / elevation 945 ft band"]
+zillowHomeValueUsd: 336215
 ---
 
 **Engineering Notice for Newnan:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Coweta County.

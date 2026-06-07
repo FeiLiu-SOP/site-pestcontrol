@@ -11,6 +11,7 @@ lng: -97.4600
 zipSample: ["76126", "76116"]
 zipCodes: ["76116", "76126"]
 localPaths: ["Tarrant County / elevation 725 ft band", "Tarrant County / ZIP 76116 sector", "Tarrant County / coords 32.6800, -97.4600", "Tarrant County / ZIP 76126 sector", "Tarrant County / primary ZIP 76116"]
+zillowHomeValueUsd: 295774
 ---
 
 **Engineering Notice for Benbrook:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tarrant County.

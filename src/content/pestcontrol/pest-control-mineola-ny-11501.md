@@ -11,6 +11,7 @@ lng: -73.6400
 zipSample: ["11501"]
 zipCodes: ["11501"]
 localPaths: ["Nassau County / primary ZIP 11501", "Nassau County / elevation 118 ft band", "Nassau County / ZIP 11501 sector", "Nassau County / coords 40.7500, -73.6400"]
+zillowHomeValueUsd: 814857
 ---
 
 **Engineering Notice for Mineola:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

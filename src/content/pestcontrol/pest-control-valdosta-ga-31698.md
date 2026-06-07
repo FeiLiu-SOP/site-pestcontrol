@@ -11,6 +11,7 @@ lng: -83.2800
 zipSample: ["31604", "31605", "31603", "31698", "31601"]
 zipCodes: ["31603", "31604", "31602", "31698", "31605", "31601"]
 localPaths: ["Lowndes County / ZIP 31698 sector", "Lowndes County / ZIP 31603 sector", "Lowndes County / ZIP 31604 sector", "Lowndes County / ZIP 31605 sector", "Lowndes County / elevation 213 ft band"]
+zillowHomeValueUsd: 206258
 ---
 
 **Engineering Notice for Valdosta:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lowndes County.

@@ -11,6 +11,7 @@ lng: -122.3400
 zipSample: ["94804", "94808", "94801", "94850", "94806"]
 zipCodes: ["94850", "94804", "94805", "94530", "94802", "94807", "94801", "94803", "94808", "94806"]
 localPaths: ["Contra Costa County / elevation 75 ft band", "Contra Costa County / ZIP 94804 sector", "Contra Costa County / coords 37.9500, -122.3400", "Contra Costa County / primary ZIP 94530", "Contra Costa County / ZIP 94850 sector"]
+zillowHomeValueUsd: 1139672
 ---
 
 **Engineering Notice for Richmond:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.

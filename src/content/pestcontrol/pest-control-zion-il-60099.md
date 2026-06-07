@@ -11,6 +11,7 @@ lng: -87.8500
 zipSample: ["60099"]
 zipCodes: ["60099"]
 localPaths: ["Lake County / coords 42.4600, -87.8500", "Lake County / primary ZIP 60099", "Lake County / ZIP 60099 sector", "Lake County / elevation 699 ft band"]
+zillowHomeValueUsd: 256985
 ---
 
 **Engineering Notice for Zion:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

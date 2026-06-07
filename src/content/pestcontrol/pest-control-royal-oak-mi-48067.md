@@ -11,6 +11,7 @@ lng: -83.1500
 zipSample: ["48068", "48067", "48073"]
 zipCodes: ["48068", "48073", "48067"]
 localPaths: ["Oakland County / primary ZIP 48067", "Oakland County / ZIP 48067 sector", "Oakland County / coords 42.5100, -83.1500", "Oakland County / ZIP 48068 sector", "Oakland County / elevation 669 ft band"]
+zillowHomeValueUsd: 341583
 ---
 
 **Engineering Notice for Royal Oak:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oakland County.

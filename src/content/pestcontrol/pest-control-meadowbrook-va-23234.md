@@ -11,6 +11,7 @@ lng: -77.4700
 zipSample: ["23234", "23237"]
 zipCodes: ["23234", "23237"]
 localPaths: ["Chesterfield County / coords 37.4300, -77.4700", "Chesterfield County / ZIP 23234 sector", "Chesterfield County / ZIP 23237 sector", "Chesterfield County / elevation 194 ft band", "Chesterfield County / primary ZIP 23234"]
+zillowHomeValueUsd: 307942
 ---
 
 **Engineering Notice for Meadowbrook:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Chesterfield County.

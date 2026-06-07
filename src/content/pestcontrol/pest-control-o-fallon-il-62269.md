@@ -11,6 +11,7 @@ lng: -89.9100
 zipSample: ["62269"]
 zipCodes: ["62269"]
 localPaths: ["St. Clair County / primary ZIP 62269", "St. Clair County / elevation 548 ft band", "St. Clair County / coords 38.6000, -89.9100", "St. Clair County / ZIP 62269 sector"]
+zillowHomeValueUsd: 306882
 ---
 
 **Engineering Notice for O'Fallon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Clair County.

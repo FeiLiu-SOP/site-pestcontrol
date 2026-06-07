@@ -11,6 +11,7 @@ lng: -81.3200
 zipSample: ["32753", "32713"]
 zipCodes: ["32713", "32753"]
 localPaths: ["Volusia County / primary ZIP 32713", "Volusia County / ZIP 32753 sector", "Volusia County / elevation 72 ft band", "Volusia County / ZIP 32713 sector", "Volusia County / coords 28.8800, -81.3200"]
+zillowHomeValueUsd: 377971
 ---
 
 **Engineering Notice for DeBary:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Volusia County.

@@ -11,6 +11,7 @@ lng: -86.9500
 zipSample: ["35613", "35612", "35611"]
 zipCodes: ["35613", "35611", "35612"]
 localPaths: ["Limestone County / coords 34.7800, -86.9500", "Limestone County / primary ZIP 35611", "Limestone County / ZIP 35611 sector", "Limestone County / elevation 659 ft band", "Limestone County / ZIP 35612 sector"]
+zillowHomeValueUsd: 251130
 ---
 
 **Engineering Notice for Athens:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Limestone County.

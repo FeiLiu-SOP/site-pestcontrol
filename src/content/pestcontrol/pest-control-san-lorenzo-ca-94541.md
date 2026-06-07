@@ -11,6 +11,7 @@ lng: -122.1300
 zipSample: ["94541", "94580"]
 zipCodes: ["94580", "94541"]
 localPaths: ["Alameda County / coords 37.6700, -122.1300", "Alameda County / elevation 26 ft band", "Alameda County / primary ZIP 94541", "Alameda County / ZIP 94580 sector", "Alameda County / ZIP 94541 sector"]
+zillowHomeValueUsd: 783181
 ---
 
 **Engineering Notice for San Lorenzo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alameda County.

@@ -11,6 +11,7 @@ lng: -79.9700
 zipSample: ["15227", "15236"]
 zipCodes: ["15227", "15236"]
 localPaths: ["Allegheny County / elevation 1135 ft band", "Allegheny County / ZIP 15236 sector", "Allegheny County / ZIP 15227 sector", "Allegheny County / coords 40.3700, -79.9700", "Allegheny County / primary ZIP 15236"]
+zillowHomeValueUsd: 249560
 ---
 
 **Engineering Notice for Baldwin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Allegheny County.

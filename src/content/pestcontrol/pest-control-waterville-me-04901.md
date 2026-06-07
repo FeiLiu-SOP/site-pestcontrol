@@ -11,6 +11,7 @@ lng: -69.6600
 zipSample: ["04901", "04903"]
 zipCodes: ["04901", "04903"]
 localPaths: ["Kennebec County / ZIP 04901 sector", "Kennebec County / ZIP 04903 sector", "Kennebec County / coords 44.5400, -69.6600", "Kennebec County / elevation 249 ft band", "Kennebec County / primary ZIP 04901"]
+zillowHomeValueUsd: 264547
 ---
 
 **Engineering Notice for Waterville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kennebec County.

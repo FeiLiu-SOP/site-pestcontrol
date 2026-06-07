@@ -11,6 +11,7 @@ lng: -108.1800
 zipSample: ["87402", "87401"]
 zipCodes: ["87401", "87402"]
 localPaths: ["San Juan County / primary ZIP 87401", "San Juan County / elevation 5482 ft band", "San Juan County / ZIP 87401 sector", "San Juan County / coords 36.7600, -108.1800", "San Juan County / ZIP 87402 sector"]
+zillowHomeValueUsd: 265294
 ---
 
 **Engineering Notice for Farmington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Juan County.

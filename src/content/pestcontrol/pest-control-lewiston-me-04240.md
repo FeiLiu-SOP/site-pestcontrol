@@ -11,6 +11,7 @@ lng: -70.1700
 zipSample: ["04241", "04243", "04240"]
 zipCodes: ["04243", "04240", "04241"]
 localPaths: ["Androscoggin County / ZIP 04243 sector", "Androscoggin County / primary ZIP 04240", "Androscoggin County / coords 44.0900, -70.1700", "Androscoggin County / ZIP 04240 sector", "Androscoggin County / ZIP 04241 sector"]
+zillowHomeValueUsd: 296124
 ---
 
 **Engineering Notice for Lewiston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Androscoggin County.

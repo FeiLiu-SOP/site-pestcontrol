@@ -11,6 +11,7 @@ lng: -118.2300
 zipSample: ["90222", "90223", "90220", "90221"]
 zipCodes: ["90222", "90220", "90221", "90223"]
 localPaths: ["Los Angeles County / ZIP 90221 sector", "Los Angeles County / ZIP 90220 sector", "Los Angeles County / elevation 85 ft band", "Los Angeles County / primary ZIP 90220", "Los Angeles County / ZIP 90222 sector"]
+zillowHomeValueUsd: 638871
 ---
 
 **Engineering Notice for Compton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

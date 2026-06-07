@@ -11,6 +11,7 @@ lng: -90.2800
 zipSample: ["63034"]
 zipCodes: ["63034"]
 localPaths: ["St. Louis County / primary ZIP 63034", "St. Louis County / elevation 558 ft band", "St. Louis County / coords 38.8400, -90.2800", "St. Louis County / ZIP 63034 sector"]
+zillowHomeValueUsd: 272159
 ---
 
 **Engineering Notice for Old Jamestown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.

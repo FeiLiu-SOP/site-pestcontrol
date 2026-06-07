@@ -11,6 +11,7 @@ lng: -88.3500
 zipSample: ["60156"]
 zipCodes: ["60156"]
 localPaths: ["McHenry County / coords 42.1900, -88.3500", "McHenry County / ZIP 60156 sector", "McHenry County / primary ZIP 60156", "McHenry County / elevation 889 ft band"]
+zillowHomeValueUsd: 369513
 ---
 
 **Engineering Notice for Lake in the Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: McHenry County.

@@ -11,7 +11,7 @@ lng: -80.3565
 zipSample: ["33191", "33122", "33172", "33166", "33178"]
 zipCodes: ["33126", "33178", "33172", "33122", "33191", "33166"]
 localPaths: ["Miami-Dade County / ZIP 33191 sector", "Miami-Dade County / elevation 345 ft band", "Miami-Dade County / ZIP 33166 sector", "Miami-Dade County / coords 25.8152, -80.3565", "Miami-Dade County / ZIP 33178 sector"]
-zillowHomeValueUsd: 549014
+zillowHomeValueUsd: 559319
 ---
 
 **Engineering Notice for Doral:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

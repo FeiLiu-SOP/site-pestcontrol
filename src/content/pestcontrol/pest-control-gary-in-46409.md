@@ -11,6 +11,7 @@ lng: -87.3500
 zipSample: ["46406", "46402", "46404", "46409", "46403"]
 zipCodes: ["46409", "46402", "46406", "46408", "46407", "46405", "46404", "46403"]
 localPaths: ["Lake County / primary ZIP 46409", "Lake County / coords 41.5900, -87.3500", "Lake County / ZIP 46409 sector", "Lake County / elevation 607 ft band", "Lake County / ZIP 46403 sector"]
+zillowHomeValueUsd: 79184
 ---
 
 **Engineering Notice for Gary:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

@@ -11,6 +11,7 @@ lng: -89.5900
 zipSample: ["63801"]
 zipCodes: ["63801"]
 localPaths: ["Scott County / coords 36.8900, -89.5900", "Scott County / ZIP 63801 sector", "Scott County / primary ZIP 63801", "Scott County / elevation 348 ft band"]
+zillowHomeValueUsd: 156935
 ---
 
 **Engineering Notice for Sikeston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Scott County.

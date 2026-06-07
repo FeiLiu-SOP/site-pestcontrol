@@ -11,6 +11,7 @@ lng: -84.2200
 zipSample: ["45374", "45373"]
 zipCodes: ["45374", "45373"]
 localPaths: ["Miami County / elevation 860 ft band", "Miami County / coords 40.0400, -84.2200", "Miami County / ZIP 45373 sector", "Miami County / primary ZIP 45373", "Miami County / ZIP 45374 sector"]
+zillowHomeValueUsd: 280669
 ---
 
 **Engineering Notice for Troy:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami County.

@@ -11,6 +11,7 @@ lng: -89.9900
 zipSample: ["39043", "39042"]
 zipCodes: ["39042", "39043"]
 localPaths: ["Rankin County / ZIP 39042 sector", "Rankin County / coords 32.2800, -89.9900", "Rankin County / elevation 522 ft band", "Rankin County / ZIP 39043 sector", "Rankin County / primary ZIP 39042"]
+zillowHomeValueUsd: 282146
 ---
 
 **Engineering Notice for Brandon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rankin County.

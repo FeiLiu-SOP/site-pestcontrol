@@ -11,6 +11,7 @@ lng: -122.0100
 zipSample: ["94585"]
 zipCodes: ["94585"]
 localPaths: ["Solano County / coords 38.2500, -122.0100", "Solano County / primary ZIP 94585", "Solano County / elevation 13 ft band", "Solano County / ZIP 94585 sector"]
+zillowHomeValueUsd: 531661
 ---
 
 **Engineering Notice for Suisun City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Solano County.

@@ -11,6 +11,7 @@ lng: -97.6800
 zipSample: ["78644"]
 zipCodes: ["78644"]
 localPaths: ["Caldwell County / primary ZIP 78644", "Caldwell County / ZIP 78644 sector", "Caldwell County / coords 29.8800, -97.6800", "Caldwell County / elevation 558 ft band"]
+zillowHomeValueUsd: 284169
 ---
 
 **Engineering Notice for Lockhart:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Caldwell County.

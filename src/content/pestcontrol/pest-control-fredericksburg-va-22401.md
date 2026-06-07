@@ -11,6 +11,7 @@ lng: -77.4900
 zipSample: ["22412", "22401", "22404"]
 zipCodes: ["22412", "22404", "22401"]
 localPaths: ["Fredericksburg County / ZIP 22404 sector", "Fredericksburg County / ZIP 22412 sector", "Fredericksburg County / ZIP 22401 sector", "Fredericksburg County / elevation 131 ft band", "Fredericksburg County / coords 38.3000, -77.4900"]
+zillowHomeValueUsd: 466792
 ---
 
 **Engineering Notice for Fredericksburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fredericksburg County.

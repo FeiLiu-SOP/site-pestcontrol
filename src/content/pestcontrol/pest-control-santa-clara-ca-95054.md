@@ -11,6 +11,7 @@ lng: -121.9700
 zipSample: ["95053", "95056", "95052", "95054", "95051"]
 zipCodes: ["95050", "95053", "95056", "95052", "95054", "95055", "95051"]
 localPaths: ["Santa Clara County / coords 37.3600, -121.9700", "Santa Clara County / elevation 49 ft band", "Santa Clara County / primary ZIP 95054", "Santa Clara County / ZIP 95052 sector", "Santa Clara County / ZIP 95056 sector"]
+zillowHomeValueUsd: 1556576
 ---
 
 **Engineering Notice for Santa Clara:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Clara County.

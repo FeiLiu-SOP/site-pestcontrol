@@ -11,6 +11,7 @@ lng: -104.9400
 zipSample: ["80229", "80233", "80260", "80241", "80614"]
 zipCodes: ["80614", "80023", "80233", "80602", "80640", "80229", "80241", "80260"]
 localPaths: ["Adams County / ZIP 80229 sector", "Adams County / primary ZIP 80260", "Adams County / ZIP 80241 sector", "Adams County / coords 39.9200, -104.9400", "Adams County / elevation 5223 ft band"]
+zillowHomeValueUsd: 403822
 ---
 
 **Engineering Notice for Thornton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Adams County.

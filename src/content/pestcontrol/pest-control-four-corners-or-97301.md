@@ -11,6 +11,7 @@ lng: -122.9700
 zipSample: ["97317", "97301"]
 zipCodes: ["97301", "97317"]
 localPaths: ["Marion County / ZIP 97301 sector", "Marion County / elevation 226 ft band", "Marion County / primary ZIP 97301", "Marion County / ZIP 97317 sector", "Marion County / coords 44.9300, -122.9700"]
+zillowHomeValueUsd: 370477
 ---
 
 **Engineering Notice for Four Corners:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marion County.

@@ -11,6 +11,7 @@ lng: -74.4200
 zipSample: ["07062", "07063", "07060", "07061"]
 zipCodes: ["07062", "07060", "07063", "07061"]
 localPaths: ["Union County / primary ZIP 07062", "Union County / ZIP 07060 sector", "Union County / ZIP 07061 sector", "Union County / ZIP 07062 sector", "Union County / coords 40.6200, -74.4200"]
+zillowHomeValueUsd: 498011
 ---
 
 **Engineering Notice for Plainfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Union County.

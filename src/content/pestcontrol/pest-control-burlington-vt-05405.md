@@ -11,6 +11,7 @@ lng: -73.2300
 zipSample: ["05406", "05408", "05405", "05401"]
 zipCodes: ["05405", "05408", "05401", "05406"]
 localPaths: ["Chittenden County / ZIP 05401 sector", "Chittenden County / coords 44.4900, -73.2300", "Chittenden County / ZIP 05406 sector", "Chittenden County / ZIP 05408 sector", "Chittenden County / elevation 92 ft band"]
+zillowHomeValueUsd: 556488
 ---
 
 **Engineering Notice for Burlington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Chittenden County.

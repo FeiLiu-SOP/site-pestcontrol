@@ -11,6 +11,7 @@ lng: -80.1600
 zipSample: ["33179", "33180"]
 zipCodes: ["33179", "33180"]
 localPaths: ["Miami-Dade County / coords 25.9600, -80.1600", "Miami-Dade County / primary ZIP 33179", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / ZIP 33180 sector", "Miami-Dade County / ZIP 33179 sector"]
+zillowHomeValueUsd: 277605
 ---
 
 **Engineering Notice for Ojus:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

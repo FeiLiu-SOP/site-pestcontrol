@@ -11,6 +11,7 @@ lng: -81.0400
 zipSample: ["28012"]
 zipCodes: ["28012"]
 localPaths: ["Gaston County / elevation 709 ft band", "Gaston County / primary ZIP 28012", "Gaston County / coords 35.2200, -81.0400", "Gaston County / ZIP 28012 sector"]
+zillowHomeValueUsd: 418759
 ---
 
 **Engineering Notice for Belmont:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gaston County.

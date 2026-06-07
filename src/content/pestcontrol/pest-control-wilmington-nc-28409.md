@@ -11,6 +11,7 @@ lng: -77.8900
 zipSample: ["28403", "28406", "28409", "28412", "28402"]
 zipCodes: ["28405", "28412", "28401", "28408", "28403", "28406", "28409", "28402"]
 localPaths: ["New Hanover County / primary ZIP 28409", "New Hanover County / elevation 36 ft band", "New Hanover County / ZIP 28403 sector", "New Hanover County / ZIP 28406 sector", "New Hanover County / ZIP 28412 sector"]
+zillowHomeValueUsd: 510787
 ---
 
 **Engineering Notice for Wilmington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: New Hanover County.

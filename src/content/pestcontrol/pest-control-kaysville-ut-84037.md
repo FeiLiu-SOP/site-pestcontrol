@@ -11,6 +11,7 @@ lng: -111.9500
 zipSample: ["84037"]
 zipCodes: ["84037"]
 localPaths: ["Davis County / elevation 4308 ft band", "Davis County / primary ZIP 84037", "Davis County / coords 41.0300, -111.9500", "Davis County / ZIP 84037 sector"]
+zillowHomeValueUsd: 701413
 ---
 
 **Engineering Notice for Kaysville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Davis County.

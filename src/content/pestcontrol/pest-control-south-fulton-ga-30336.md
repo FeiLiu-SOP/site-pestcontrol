@@ -11,6 +11,7 @@ lng: -84.5800
 zipSample: ["30331", "30272", "30296", "30378", "30336"]
 zipCodes: ["30378", "30291", "30272", "30331", "30213", "30296", "30336", "31136", "30349", "31131"]
 localPaths: ["Fulton County / ZIP 30272 sector", "Fulton County / ZIP 30296 sector", "Fulton County / elevation 932 ft band", "Fulton County / ZIP 30378 sector", "Fulton County / ZIP 30331 sector"]
+zillowHomeValueUsd: 282672
 ---
 
 **Engineering Notice for South Fulton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fulton County.

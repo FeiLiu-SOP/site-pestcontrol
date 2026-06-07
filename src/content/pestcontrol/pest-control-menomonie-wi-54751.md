@@ -11,6 +11,7 @@ lng: -91.9100
 zipSample: ["54751"]
 zipCodes: ["54751"]
 localPaths: ["Dunn County / ZIP 54751 sector", "Dunn County / coords 44.8900, -91.9100", "Dunn County / primary ZIP 54751", "Dunn County / elevation 833 ft band"]
+zillowHomeValueUsd: 300371
 ---
 
 **Engineering Notice for Menomonie:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dunn County.

@@ -11,6 +11,7 @@ lng: -88.1500
 zipSample: ["60431", "60434", "60586", "60436", "60421"]
 zipCodes: ["60432", "60433", "60586", "60434", "60431", "60436", "60421", "60435"]
 localPaths: ["Will County / coords 41.5200, -88.1500", "Will County / ZIP 60421 sector", "Will County / ZIP 60436 sector", "Will County / elevation 614 ft band", "Will County / ZIP 60434 sector"]
+zillowHomeValueUsd: 311110
 ---
 
 **Engineering Notice for Joliet:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Will County.

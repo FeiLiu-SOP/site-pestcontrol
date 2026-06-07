@@ -11,6 +11,7 @@ lng: -82.3200
 zipSample: ["33543", "33545", "33544", "33559"]
 zipCodes: ["33559", "33545", "33543", "33544"]
 localPaths: ["Pasco County / primary ZIP 33543", "Pasco County / elevation 89 ft band", "Pasco County / ZIP 33559 sector", "Pasco County / coords 28.2100, -82.3200", "Pasco County / ZIP 33545 sector"]
+zillowHomeValueUsd: 407136
 ---
 
 **Engineering Notice for Wesley Chapel:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pasco County.

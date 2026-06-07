@@ -11,6 +11,7 @@ lng: -117.6000
 zipSample: ["92679", "92688"]
 zipCodes: ["92679", "92688"]
 localPaths: ["Orange County / ZIP 92679 sector", "Orange County / elevation 935 ft band", "Orange County / ZIP 92688 sector", "Orange County / coords 33.6300, -117.6000", "Orange County / primary ZIP 92679"]
+zillowHomeValueUsd: 1600691
 ---
 
 **Engineering Notice for Rancho Santa Margarita:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

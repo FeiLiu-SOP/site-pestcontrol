@@ -11,6 +11,7 @@ lng: -85.7400
 zipSample: ["32408", "32406", "32401", "32407", "32411"]
 zipCodes: ["32406", "32401", "32407", "32408", "32411"]
 localPaths: ["Bay County / coords 30.1700, -85.7400", "Bay County / ZIP 32401 sector", "Bay County / ZIP 32408 sector", "Bay County / ZIP 32411 sector", "Bay County / elevation 0 ft band"]
+zillowHomeValueUsd: 212882
 ---
 
 **Engineering Notice for Upper Grand Lagoon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bay County.

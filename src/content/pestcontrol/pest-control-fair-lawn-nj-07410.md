@@ -11,6 +11,7 @@ lng: -74.1200
 zipSample: ["07410"]
 zipCodes: ["07410"]
 localPaths: ["Bergen County / coords 40.9400, -74.1200", "Bergen County / primary ZIP 07410", "Bergen County / ZIP 07410 sector", "Bergen County / elevation 79 ft band"]
+zillowHomeValueUsd: 709809
 ---
 
 **Engineering Notice for Fair Lawn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bergen County.

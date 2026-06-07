@@ -11,6 +11,7 @@ lng: -83.7200
 zipSample: ["30680"]
 zipCodes: ["30680"]
 localPaths: ["Barrow County / coords 33.9900, -83.7200", "Barrow County / elevation 978 ft band", "Barrow County / primary ZIP 30680", "Barrow County / ZIP 30680 sector"]
+zillowHomeValueUsd: 339337
 ---
 
 **Engineering Notice for Winder:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Barrow County.

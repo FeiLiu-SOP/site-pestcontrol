@@ -11,6 +11,7 @@ lng: -73.7000
 zipSample: ["11582", "11580", "11581"]
 zipCodes: ["11582", "11581", "11580"]
 localPaths: ["Nassau County / elevation 23 ft band", "Nassau County / coords 40.6600, -73.7000", "Nassau County / primary ZIP 11580", "Nassau County / ZIP 11582 sector", "Nassau County / ZIP 11580 sector"]
+zillowHomeValueUsd: 743763
 ---
 
 **Engineering Notice for Valley Stream:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

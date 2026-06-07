@@ -11,6 +11,7 @@ lng: -117.7000
 zipSample: ["91763"]
 zipCodes: ["91763"]
 localPaths: ["San Bernardino County / coords 34.0700, -117.7000", "San Bernardino County / ZIP 91763 sector", "San Bernardino County / elevation 1017 ft band", "San Bernardino County / primary ZIP 91763"]
+zillowHomeValueUsd: 661823
 ---
 
 **Engineering Notice for Montclair:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.

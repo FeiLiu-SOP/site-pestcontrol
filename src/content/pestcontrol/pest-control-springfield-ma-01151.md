@@ -11,6 +11,7 @@ lng: -72.5400
 zipSample: ["01103", "01199", "01128", "01139", "01152"]
 zipCodes: ["01138", "01105", "01115", "01151", "01128", "01152", "01199", "01109", "01102", "01118", "01111", "01104"]
 localPaths: ["Hampden County / elevation 180 ft band", "Hampden County / ZIP 01128 sector", "Hampden County / ZIP 01103 sector", "Hampden County / ZIP 01199 sector", "Hampden County / ZIP 01139 sector"]
+zillowHomeValueUsd: 284070
 ---
 
 **Engineering Notice for Springfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hampden County.

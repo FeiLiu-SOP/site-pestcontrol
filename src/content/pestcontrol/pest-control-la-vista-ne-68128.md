@@ -11,6 +11,7 @@ lng: -96.0700
 zipSample: ["68128"]
 zipCodes: ["68128"]
 localPaths: ["Sarpy County / elevation 1115 ft band", "Sarpy County / primary ZIP 68128", "Sarpy County / coords 41.1800, -96.0700", "Sarpy County / ZIP 68128 sector"]
+zillowHomeValueUsd: 309850
 ---
 
 **Engineering Notice for La Vista:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sarpy County.

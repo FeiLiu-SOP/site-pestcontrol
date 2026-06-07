@@ -11,6 +11,7 @@ lng: -122.2900
 zipSample: ["98373", "98372", "98352", "98371", "98374"]
 zipCodes: ["98371", "98352", "98373", "98372", "98374"]
 localPaths: ["Pierce County / elevation 115 ft band", "Pierce County / ZIP 98374 sector", "Pierce County / primary ZIP 98374", "Pierce County / ZIP 98371 sector", "Pierce County / ZIP 98373 sector"]
+zillowHomeValueUsd: 584129
 ---
 
 **Engineering Notice for Puyallup:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pierce County.

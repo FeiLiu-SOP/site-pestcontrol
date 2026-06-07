@@ -11,6 +11,7 @@ lng: -90.0500
 zipSample: ["38637"]
 zipCodes: ["38637"]
 localPaths: ["DeSoto County / elevation 299 ft band", "DeSoto County / primary ZIP 38637", "DeSoto County / ZIP 38637 sector", "DeSoto County / coords 34.9500, -90.0500"]
+zillowHomeValueUsd: 202249
 ---
 
 **Engineering Notice for Horn Lake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeSoto County.

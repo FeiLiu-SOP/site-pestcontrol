@@ -11,6 +11,7 @@ lng: -84.3600
 zipSample: ["30298", "30294", "30297"]
 zipCodes: ["30297", "30294", "30298"]
 localPaths: ["Clayton County / ZIP 30294 sector", "Clayton County / coords 33.6200, -84.3600", "Clayton County / ZIP 30298 sector", "Clayton County / elevation 1004 ft band", "Clayton County / ZIP 30297 sector"]
+zillowHomeValueUsd: 164961
 ---
 
 **Engineering Notice for Forest Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clayton County.

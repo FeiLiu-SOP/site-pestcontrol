@@ -11,6 +11,7 @@ lng: -84.5900
 zipSample: ["30268", "30213"]
 zipCodes: ["30268", "30213"]
 localPaths: ["Fulton County / primary ZIP 30268", "Fulton County / ZIP 30213 sector", "Fulton County / coords 33.5500, -84.5900", "Fulton County / elevation 1027 ft band", "Fulton County / ZIP 30268 sector"]
+zillowHomeValueUsd: 320044
 ---
 
 **Engineering Notice for Fairburn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fulton County.

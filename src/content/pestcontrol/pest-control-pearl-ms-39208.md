@@ -11,6 +11,7 @@ lng: -90.0900
 zipSample: ["39208"]
 zipCodes: ["39208"]
 localPaths: ["Rankin County / ZIP 39208 sector", "Rankin County / coords 32.2700, -90.0900", "Rankin County / elevation 377 ft band", "Rankin County / primary ZIP 39208"]
+zillowHomeValueUsd: 211752
 ---
 
 **Engineering Notice for Pearl:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rankin County.

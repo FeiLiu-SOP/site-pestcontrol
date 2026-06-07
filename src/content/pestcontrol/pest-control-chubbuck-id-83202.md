@@ -11,6 +11,7 @@ lng: -112.4600
 zipSample: ["83202"]
 zipCodes: ["83202"]
 localPaths: ["Bannock County / primary ZIP 83202", "Bannock County / ZIP 83202 sector", "Bannock County / coords 42.9300, -112.4600", "Bannock County / elevation 4472 ft band"]
+zillowHomeValueUsd: 391595
 ---
 
 **Engineering Notice for Chubbuck:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bannock County.

@@ -11,6 +11,7 @@ lng: -119.6500
 zipSample: ["93230"]
 zipCodes: ["93230"]
 localPaths: ["Kings County / coords 36.3300, -119.6500", "Kings County / primary ZIP 93230", "Kings County / ZIP 93230 sector", "Kings County / elevation 246 ft band"]
+zillowHomeValueUsd: 382601
 ---
 
 **Engineering Notice for Hanford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kings County.

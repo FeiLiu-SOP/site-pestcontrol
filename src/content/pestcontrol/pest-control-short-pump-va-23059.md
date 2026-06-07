@@ -11,6 +11,7 @@ lng: -77.6200
 zipSample: ["23059", "23233"]
 zipCodes: ["23059", "23233"]
 localPaths: ["Henrico County / primary ZIP 23059", "Henrico County / ZIP 23059 sector", "Henrico County / ZIP 23233 sector", "Henrico County / elevation 315 ft band", "Henrico County / coords 37.6500, -77.6200"]
+zillowHomeValueUsd: 622791
 ---
 
 **Engineering Notice for Short Pump:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Henrico County.

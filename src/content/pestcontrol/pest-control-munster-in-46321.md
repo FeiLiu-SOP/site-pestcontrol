@@ -11,6 +11,7 @@ lng: -87.5000
 zipSample: ["46321"]
 zipCodes: ["46321"]
 localPaths: ["Lake County / ZIP 46321 sector", "Lake County / coords 41.5500, -87.5000", "Lake County / primary ZIP 46321", "Lake County / elevation 623 ft band"]
+zillowHomeValueUsd: 347655
 ---
 
 **Engineering Notice for Munster:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

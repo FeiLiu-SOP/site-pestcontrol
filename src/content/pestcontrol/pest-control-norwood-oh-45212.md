@@ -11,6 +11,7 @@ lng: -84.4500
 zipSample: ["45277", "45280", "45212"]
 zipCodes: ["45280", "45277", "45212"]
 localPaths: ["Hamilton County / coords 39.1600, -84.4500", "Hamilton County / ZIP 45212 sector", "Hamilton County / ZIP 45277 sector", "Hamilton County / elevation 633 ft band", "Hamilton County / primary ZIP 45212"]
+zillowHomeValueUsd: 252521
 ---
 
 **Engineering Notice for Norwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hamilton County.

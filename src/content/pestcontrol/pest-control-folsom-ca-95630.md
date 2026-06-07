@@ -11,6 +11,7 @@ lng: -121.1400
 zipSample: ["95630", "95671", "95763"]
 zipCodes: ["95630", "95763", "95671"]
 localPaths: ["Sacramento County / ZIP 95763 sector", "Sacramento County / elevation 328 ft band", "Sacramento County / ZIP 95671 sector", "Sacramento County / coords 38.6700, -121.1400", "Sacramento County / ZIP 95630 sector"]
+zillowHomeValueUsd: 763762
 ---
 
 **Engineering Notice for Folsom:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sacramento County.

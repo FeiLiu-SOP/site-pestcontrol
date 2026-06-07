@@ -11,6 +11,7 @@ lng: -87.7500
 zipSample: ["60453"]
 zipCodes: ["60453"]
 localPaths: ["Cook County / coords 41.7100, -87.7500", "Cook County / ZIP 60453 sector", "Cook County / elevation 614 ft band", "Cook County / primary ZIP 60453"]
+zillowHomeValueUsd: 283229
 ---
 
 **Engineering Notice for Oak Lawn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

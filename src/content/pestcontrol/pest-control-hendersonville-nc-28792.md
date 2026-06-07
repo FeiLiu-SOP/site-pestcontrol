@@ -11,6 +11,7 @@ lng: -82.4600
 zipSample: ["28793", "28739", "28792", "28791"]
 zipCodes: ["28739", "28793", "28791", "28792"]
 localPaths: ["Henderson County / ZIP 28792 sector", "Henderson County / primary ZIP 28792", "Henderson County / ZIP 28739 sector", "Henderson County / ZIP 28793 sector", "Henderson County / ZIP 28791 sector"]
+zillowHomeValueUsd: 370015
 ---
 
 **Engineering Notice for Hendersonville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Henderson County.

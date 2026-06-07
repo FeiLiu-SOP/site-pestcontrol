@@ -11,6 +11,7 @@ lng: -112.3200
 zipSample: ["85353", "85323", "85329", "85392"]
 zipCodes: ["85329", "85353", "85392", "85323"]
 localPaths: ["Maricopa County / ZIP 85323 sector", "Maricopa County / ZIP 85392 sector", "Maricopa County / coords 33.3900, -112.3200", "Maricopa County / ZIP 85329 sector", "Maricopa County / ZIP 85353 sector"]
+zillowHomeValueUsd: 393962
 ---
 
 **Engineering Notice for Avondale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Maricopa County.

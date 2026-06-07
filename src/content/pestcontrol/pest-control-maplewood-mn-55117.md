@@ -11,6 +11,7 @@ lng: -93.0200
 zipSample: ["55119", "55117", "55109"]
 zipCodes: ["55117", "55109", "55119"]
 localPaths: ["Ramsey County / elevation 938 ft band", "Ramsey County / coords 44.9800, -93.0200", "Ramsey County / ZIP 55109 sector", "Ramsey County / primary ZIP 55117", "Ramsey County / ZIP 55119 sector"]
+zillowHomeValueUsd: 299076
 ---
 
 **Engineering Notice for Maplewood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ramsey County.

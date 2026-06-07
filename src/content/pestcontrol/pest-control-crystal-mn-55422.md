@@ -11,6 +11,7 @@ lng: -93.3600
 zipSample: ["55422", "55428", "55427", "55429"]
 zipCodes: ["55427", "55428", "55422", "55429"]
 localPaths: ["Hennepin County / ZIP 55427 sector", "Hennepin County / coords 45.0400, -93.3600", "Hennepin County / ZIP 55422 sector", "Hennepin County / ZIP 55429 sector", "Hennepin County / ZIP 55428 sector"]
+zillowHomeValueUsd: 339111
 ---
 
 **Engineering Notice for Crystal:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hennepin County.

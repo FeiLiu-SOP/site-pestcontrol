@@ -11,6 +11,7 @@ lng: -118.1700
 zipSample: ["90022", "90023", "90063"]
 zipCodes: ["90022", "90063", "90023"]
 localPaths: ["Los Angeles County / primary ZIP 90063", "Los Angeles County / ZIP 90063 sector", "Los Angeles County / elevation 292 ft band", "Los Angeles County / coords 34.0300, -118.1700", "Los Angeles County / ZIP 90022 sector"]
+zillowHomeValueUsd: 669388
 ---
 
 **Engineering Notice for East Los Angeles:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

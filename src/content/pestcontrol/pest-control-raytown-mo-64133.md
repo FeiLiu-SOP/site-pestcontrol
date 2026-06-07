@@ -11,6 +11,7 @@ lng: -94.4600
 zipSample: ["64133", "64138"]
 zipCodes: ["64138", "64133"]
 localPaths: ["Jackson County / ZIP 64133 sector", "Jackson County / coords 38.9900, -94.4600", "Jackson County / primary ZIP 64133", "Jackson County / ZIP 64138 sector", "Jackson County / elevation 961 ft band"]
+zillowHomeValueUsd: 212534
 ---
 
 **Engineering Notice for Raytown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jackson County.

@@ -11,6 +11,7 @@ lng: -117.2600
 zipSample: ["92007", "92075", "92024"]
 zipCodes: ["92024", "92007", "92075"]
 localPaths: ["San Diego County / ZIP 92007 sector", "San Diego County / elevation 197 ft band", "San Diego County / coords 33.0500, -117.2600", "San Diego County / ZIP 92024 sector", "San Diego County / primary ZIP 92007"]
+zillowHomeValueUsd: 2082588
 ---
 
 **Engineering Notice for Encinitas:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.

@@ -11,6 +11,7 @@ lng: -88.6800
 zipSample: ["60178"]
 zipCodes: ["60178"]
 localPaths: ["DeKalb County / coords 42.0000, -88.6800", "DeKalb County / ZIP 60178 sector", "DeKalb County / primary ZIP 60178", "DeKalb County / elevation 827 ft band"]
+zillowHomeValueUsd: 313303
 ---
 
 **Engineering Notice for Sycamore:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeKalb County.

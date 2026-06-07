@@ -11,6 +11,7 @@ lng: -94.1800
 zipSample: ["50501"]
 zipCodes: ["50501"]
 localPaths: ["Webster County / coords 42.5100, -94.1800", "Webster County / primary ZIP 50501", "Webster County / elevation 1115 ft band", "Webster County / ZIP 50501 sector"]
+zillowHomeValueUsd: 128655
 ---
 
 **Engineering Notice for Fort Dodge:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Webster County.

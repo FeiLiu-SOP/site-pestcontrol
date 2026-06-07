@@ -11,6 +11,7 @@ lng: -81.8200
 zipSample: ["33830", "33831", "33863"]
 zipCodes: ["33863", "33830", "33831"]
 localPaths: ["Polk County / ZIP 33830 sector", "Polk County / ZIP 33863 sector", "Polk County / primary ZIP 33830", "Polk County / elevation 148 ft band", "Polk County / coords 27.8900, -81.8200"]
+zillowHomeValueUsd: 276430
 ---
 
 **Engineering Notice for Bartow:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Polk County.

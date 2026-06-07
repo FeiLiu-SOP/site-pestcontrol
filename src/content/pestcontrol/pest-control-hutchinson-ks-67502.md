@@ -11,6 +11,7 @@ lng: -97.9100
 zipSample: ["67501", "67502"]
 zipCodes: ["67502", "67501"]
 localPaths: ["Reno County / elevation 1552 ft band", "Reno County / ZIP 67502 sector", "Reno County / primary ZIP 67502", "Reno County / ZIP 67501 sector", "Reno County / coords 38.0700, -97.9100"]
+zillowHomeValueUsd: 212249
 ---
 
 **Engineering Notice for Hutchinson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Reno County.

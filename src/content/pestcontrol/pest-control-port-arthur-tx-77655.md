@@ -11,6 +11,7 @@ lng: -93.9300
 zipSample: ["77655", "77643", "77641", "77642", "77640"]
 zipCodes: ["77643", "77655", "77641", "77640", "77642"]
 localPaths: ["Jefferson County / ZIP 77655 sector", "Jefferson County / ZIP 77642 sector", "Jefferson County / ZIP 77641 sector", "Jefferson County / elevation 0 ft band", "Jefferson County / coords 29.8600, -93.9300"]
+zillowHomeValueUsd: 120455
 ---
 
 **Engineering Notice for Port Arthur:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.

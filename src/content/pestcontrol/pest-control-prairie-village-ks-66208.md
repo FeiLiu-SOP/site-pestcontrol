@@ -11,6 +11,7 @@ lng: -94.6400
 zipSample: ["66208", "66207"]
 zipCodes: ["66207", "66208"]
 localPaths: ["Johnson County / elevation 1060 ft band", "Johnson County / ZIP 66208 sector", "Johnson County / coords 38.9900, -94.6400", "Johnson County / primary ZIP 66208", "Johnson County / ZIP 66207 sector"]
+zillowHomeValueUsd: 492472
 ---
 
 **Engineering Notice for Prairie Village:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Johnson County.

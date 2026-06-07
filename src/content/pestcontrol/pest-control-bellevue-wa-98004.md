@@ -11,6 +11,7 @@ lng: -122.1500
 zipSample: ["98007", "98015", "98005", "98008", "98004"]
 zipCodes: ["98006", "98004", "98009", "98008", "98015", "98007", "98005"]
 localPaths: ["King County / ZIP 98005 sector", "King County / ZIP 98004 sector", "King County / coords 47.6000, -122.1500", "King County / primary ZIP 98004", "King County / ZIP 98008 sector"]
+zillowHomeValueUsd: 1988221
 ---
 
 **Engineering Notice for Bellevue:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.

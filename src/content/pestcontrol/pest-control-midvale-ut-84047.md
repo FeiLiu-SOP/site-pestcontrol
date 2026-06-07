@@ -11,6 +11,7 @@ lng: -111.8900
 zipSample: ["84047"]
 zipCodes: ["84047"]
 localPaths: ["Salt Lake County / coords 40.6100, -111.8900", "Salt Lake County / ZIP 84047 sector", "Salt Lake County / primary ZIP 84047", "Salt Lake County / elevation 4406 ft band"]
+zillowHomeValueUsd: 483875
 ---
 
 **Engineering Notice for Midvale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Salt Lake County.

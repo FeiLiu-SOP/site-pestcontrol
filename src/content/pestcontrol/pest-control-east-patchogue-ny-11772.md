@@ -11,6 +11,7 @@ lng: -72.9800
 zipSample: ["11772"]
 zipCodes: ["11772"]
 localPaths: ["Suffolk County / elevation 36 ft band", "Suffolk County / coords 40.7700, -72.9800", "Suffolk County / ZIP 11772 sector", "Suffolk County / primary ZIP 11772"]
+zillowHomeValueUsd: 585756
 ---
 
 **Engineering Notice for East Patchogue:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

@@ -11,6 +11,7 @@ lng: -73.5200
 zipSample: ["11802", "11801", "11815", "11805"]
 zipCodes: ["11802", "11815", "11801", "11805"]
 localPaths: ["Nassau County / coords 40.7600, -73.5200", "Nassau County / ZIP 11802 sector", "Nassau County / ZIP 11815 sector", "Nassau County / ZIP 11801 sector", "Nassau County / ZIP 11805 sector"]
+zillowHomeValueUsd: 767866
 ---
 
 **Engineering Notice for Hicksville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

@@ -11,6 +11,7 @@ lng: -122.2300
 zipSample: ["94065", "94063", "94061", "94062"]
 zipCodes: ["94062", "94061", "94065", "94063"]
 localPaths: ["San Mateo County / ZIP 94065 sector", "San Mateo County / ZIP 94062 sector", "San Mateo County / coords 37.5000, -122.2300", "San Mateo County / elevation -8 ft band", "San Mateo County / primary ZIP 94065"]
+zillowHomeValueUsd: 1870615
 ---
 
 **Engineering Notice for Redwood City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Mateo County.

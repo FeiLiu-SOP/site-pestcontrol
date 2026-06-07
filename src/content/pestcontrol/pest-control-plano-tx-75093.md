@@ -11,6 +11,7 @@ lng: -96.7500
 zipSample: ["75086", "75074", "75023", "75075", "75026"]
 zipCodes: ["75093", "75025", "75023", "75075", "75024", "75026", "75074", "75086"]
 localPaths: ["Collin County / ZIP 75075 sector", "Collin County / ZIP 75074 sector", "Collin County / ZIP 75026 sector", "Collin County / elevation 725 ft band", "Collin County / primary ZIP 75093"]
+zillowHomeValueUsd: 739306
 ---
 
 **Engineering Notice for Plano:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Collin County.

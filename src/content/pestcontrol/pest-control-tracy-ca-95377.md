@@ -11,6 +11,7 @@ lng: -121.4500
 zipSample: ["95304", "95377", "95376"]
 zipCodes: ["95376", "95304", "95377"]
 localPaths: ["San Joaquin County / ZIP 95376 sector", "San Joaquin County / ZIP 95304 sector", "San Joaquin County / coords 37.7300, -121.4500", "San Joaquin County / elevation 59 ft band", "San Joaquin County / ZIP 95377 sector"]
+zillowHomeValueUsd: 774383
 ---
 
 **Engineering Notice for Tracy:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Joaquin County.

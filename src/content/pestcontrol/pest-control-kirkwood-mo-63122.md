@@ -11,6 +11,7 @@ lng: -90.4200
 zipSample: ["63122"]
 zipCodes: ["63122"]
 localPaths: ["St. Louis County / primary ZIP 63122", "St. Louis County / coords 38.5800, -90.4200", "St. Louis County / ZIP 63122 sector", "St. Louis County / elevation 594 ft band"]
+zillowHomeValueUsd: 505130
 ---
 
 **Engineering Notice for Kirkwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.

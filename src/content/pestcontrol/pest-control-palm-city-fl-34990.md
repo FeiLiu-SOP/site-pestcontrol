@@ -11,6 +11,7 @@ lng: -80.2900
 zipSample: ["34990", "34991"]
 zipCodes: ["34991", "34990"]
 localPaths: ["Martin County / elevation 3 ft band", "Martin County / ZIP 34990 sector", "Martin County / primary ZIP 34990", "Martin County / ZIP 34991 sector", "Martin County / coords 27.1700, -80.2900"]
+zillowHomeValueUsd: 611086
 ---
 
 **Engineering Notice for Palm City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Martin County.

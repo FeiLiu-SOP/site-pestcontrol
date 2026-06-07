@@ -11,6 +11,7 @@ lng: -84.9400
 zipSample: ["30701", "30703"]
 zipCodes: ["30701", "30703"]
 localPaths: ["Gordon County / coords 34.4900, -84.9400", "Gordon County / elevation 666 ft band", "Gordon County / primary ZIP 30701", "Gordon County / ZIP 30701 sector", "Gordon County / ZIP 30703 sector"]
+zillowHomeValueUsd: 273333
 ---
 
 **Engineering Notice for Calhoun:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gordon County.

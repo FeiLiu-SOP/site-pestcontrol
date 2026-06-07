@@ -11,6 +11,7 @@ lng: -77.2000
 zipSample: ["20882", "20872"]
 zipCodes: ["20872", "20882"]
 localPaths: ["Montgomery County / ZIP 20872 sector", "Montgomery County / ZIP 20882 sector", "Montgomery County / elevation 699 ft band", "Montgomery County / primary ZIP 20872", "Montgomery County / coords 39.2700, -77.2000"]
+zillowHomeValueUsd: 550644
 ---
 
 **Engineering Notice for Damascus:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

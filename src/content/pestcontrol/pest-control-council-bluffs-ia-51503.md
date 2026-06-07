@@ -11,6 +11,7 @@ lng: -95.8500
 zipSample: ["51501", "51503", "51502"]
 zipCodes: ["51501", "51502", "51503"]
 localPaths: ["Pottawattamie County / ZIP 51502 sector", "Pottawattamie County / ZIP 51501 sector", "Pottawattamie County / primary ZIP 51503", "Pottawattamie County / elevation 974 ft band", "Pottawattamie County / coords 41.2400, -95.8500"]
+zillowHomeValueUsd: 301036
 ---
 
 **Engineering Notice for Council Bluffs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pottawattamie County.

@@ -11,6 +11,7 @@ lng: -117.8600
 zipSample: ["92871", "92811", "92870"]
 zipCodes: ["92811", "92871", "92870"]
 localPaths: ["Orange County / elevation 289 ft band", "Orange County / primary ZIP 92870", "Orange County / ZIP 92871 sector", "Orange County / ZIP 92870 sector", "Orange County / ZIP 92811 sector"]
+zillowHomeValueUsd: 1115880
 ---
 
 **Engineering Notice for Placentia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

@@ -11,6 +11,7 @@ lng: -87.8600
 zipSample: ["53110"]
 zipCodes: ["53110"]
 localPaths: ["Milwaukee County / elevation 709 ft band", "Milwaukee County / primary ZIP 53110", "Milwaukee County / coords 42.9500, -87.8600", "Milwaukee County / ZIP 53110 sector"]
+zillowHomeValueUsd: 282661
 ---
 
 **Engineering Notice for Cudahy:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Milwaukee County.

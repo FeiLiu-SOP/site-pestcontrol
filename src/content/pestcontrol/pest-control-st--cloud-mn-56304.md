@@ -11,6 +11,7 @@ lng: -94.1700
 zipSample: ["56303", "56393", "56304", "56372", "56302"]
 zipCodes: ["56372", "56303", "56304", "56302", "56395", "56393", "56301", "56396"]
 localPaths: ["Stearns County / coords 45.5300, -94.1700", "Stearns County / primary ZIP 56304", "Stearns County / ZIP 56304 sector", "Stearns County / elevation 1020 ft band", "Stearns County / ZIP 56302 sector"]
+zillowHomeValueUsd: 265943
 ---
 
 **Engineering Notice for St. Cloud:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Stearns County.

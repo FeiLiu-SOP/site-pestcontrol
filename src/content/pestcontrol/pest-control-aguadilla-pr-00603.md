@@ -11,6 +11,8 @@ lng: -67.1500
 zipSample: ["00605", "00603"]
 zipCodes: ["00605", "00603"]
 localPaths: ["Aguadilla County / elevation 131 ft band", "Aguadilla County / ZIP 00605 sector", "Aguadilla County / ZIP 00603 sector", "Aguadilla County / primary ZIP 00603", "Aguadilla County / coords 18.4400, -67.1500"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 358581
 ---
 
 **Engineering Notice for Aguadilla:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Aguadilla County.

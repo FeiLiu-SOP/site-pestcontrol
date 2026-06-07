@@ -11,6 +11,7 @@ lng: -122.7800
 zipSample: ["97281", "97223", "97224"]
 zipCodes: ["97224", "97281", "97223"]
 localPaths: ["Washington County / ZIP 97281 sector", "Washington County / ZIP 97223 sector", "Washington County / ZIP 97224 sector", "Washington County / primary ZIP 97224", "Washington County / coords 45.4200, -122.7800"]
+zillowHomeValueUsd: 607942
 ---
 
 **Engineering Notice for Tigard:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.

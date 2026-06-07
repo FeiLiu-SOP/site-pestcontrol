@@ -11,6 +11,7 @@ lng: -119.5700
 zipSample: ["89428", "89403"]
 zipCodes: ["89428", "89403"]
 localPaths: ["Lyon County / ZIP 89428 sector", "Lyon County / coords 39.2600, -119.5700", "Lyon County / ZIP 89403 sector", "Lyon County / elevation 4327 ft band", "Lyon County / primary ZIP 89403"]
+zillowHomeValueUsd: 453613
 ---
 
 **Engineering Notice for Dayton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lyon County.

@@ -11,6 +11,7 @@ lng: -79.4700
 zipSample: ["27215", "27217"]
 zipCodes: ["27217", "27215"]
 localPaths: ["Alamance County / ZIP 27215 sector", "Alamance County / ZIP 27217 sector", "Alamance County / coords 36.0800, -79.4700", "Alamance County / primary ZIP 27217", "Alamance County / elevation 673 ft band"]
+zillowHomeValueUsd: 224925
 ---
 
 **Engineering Notice for Burlington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alamance County.

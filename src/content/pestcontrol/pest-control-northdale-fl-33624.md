@@ -11,6 +11,7 @@ lng: -82.5300
 zipSample: ["33548", "33624", "33558"]
 zipCodes: ["33558", "33624", "33548"]
 localPaths: ["Hillsborough County / primary ZIP 33624", "Hillsborough County / elevation 72 ft band", "Hillsborough County / ZIP 33624 sector", "Hillsborough County / coords 28.1100, -82.5300", "Hillsborough County / ZIP 33558 sector"]
+zillowHomeValueUsd: 410809
 ---
 
 **Engineering Notice for Northdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.

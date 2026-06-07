@@ -11,6 +11,7 @@ lng: -87.9900
 zipSample: ["60009", "60007"]
 zipCodes: ["60007", "60009"]
 localPaths: ["Cook County / elevation 689 ft band", "Cook County / primary ZIP 60007", "Cook County / ZIP 60007 sector", "Cook County / coords 42.0100, -87.9900", "Cook County / ZIP 60009 sector"]
+zillowHomeValueUsd: 384387
 ---
 
 **Engineering Notice for Elk Grove Village:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

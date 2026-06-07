@@ -11,6 +11,7 @@ lng: -71.4900
 zipSample: ["03060", "03061", "03063", "03062", "03064"]
 zipCodes: ["03064", "03060", "03063", "03061", "03062"]
 localPaths: ["Hillsborough County / ZIP 03064 sector", "Hillsborough County / ZIP 03062 sector", "Hillsborough County / ZIP 03063 sector", "Hillsborough County / primary ZIP 03062", "Hillsborough County / ZIP 03061 sector"]
+zillowHomeValueUsd: 542680
 ---
 
 **Engineering Notice for Nashua:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.

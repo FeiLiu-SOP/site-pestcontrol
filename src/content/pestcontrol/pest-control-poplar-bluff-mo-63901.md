@@ -11,6 +11,7 @@ lng: -90.4100
 zipSample: ["63902", "63901"]
 zipCodes: ["63902", "63901"]
 localPaths: ["Butler County / ZIP 63901 sector", "Butler County / ZIP 63902 sector", "Butler County / coords 36.7600, -90.4100", "Butler County / primary ZIP 63901", "Butler County / elevation 354 ft band"]
+zillowHomeValueUsd: 169489
 ---
 
 **Engineering Notice for Poplar Bluff:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Butler County.

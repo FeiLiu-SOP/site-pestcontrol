@@ -11,6 +11,7 @@ lng: -74.1300
 zipSample: ["07031"]
 zipCodes: ["07031"]
 localPaths: ["Bergen County / ZIP 07031 sector", "Bergen County / elevation 92 ft band", "Bergen County / coords 40.7900, -74.1300", "Bergen County / primary ZIP 07031"]
+zillowHomeValueUsd: 619414
 ---
 
 **Engineering Notice for North Arlington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bergen County.

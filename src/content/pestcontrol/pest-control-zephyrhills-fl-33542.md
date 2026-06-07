@@ -11,6 +11,7 @@ lng: -82.1800
 zipSample: ["33542", "33541", "33540"]
 zipCodes: ["33541", "33540", "33542"]
 localPaths: ["Pasco County / primary ZIP 33542", "Pasco County / ZIP 33540 sector", "Pasco County / ZIP 33542 sector", "Pasco County / coords 28.2400, -82.1800", "Pasco County / elevation 125 ft band"]
+zillowHomeValueUsd: 227171
 ---
 
 **Engineering Notice for Zephyrhills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pasco County.

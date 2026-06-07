@@ -11,6 +11,7 @@ lng: -74.4200
 zipSample: ["07080"]
 zipCodes: ["07080"]
 localPaths: ["Middlesex County / primary ZIP 07080", "Middlesex County / elevation 89 ft band", "Middlesex County / ZIP 07080 sector", "Middlesex County / coords 40.5700, -74.4200"]
+zillowHomeValueUsd: 583436
 ---
 
 **Engineering Notice for South Plainfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.

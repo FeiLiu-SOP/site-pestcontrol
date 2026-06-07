@@ -11,6 +11,7 @@ lng: -83.1200
 zipSample: ["43302"]
 zipCodes: ["43302"]
 localPaths: ["Marion County / coords 40.6000, -83.1200", "Marion County / elevation 994 ft band", "Marion County / ZIP 43302 sector", "Marion County / primary ZIP 43302"]
+zillowHomeValueUsd: 165599
 ---
 
 **Engineering Notice for Marion:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marion County.

@@ -11,6 +11,7 @@ lng: -90.6800
 zipSample: ["72404", "72402", "72405", "72403", "72401"]
 zipCodes: ["72401", "72402", "72404", "72405", "72467", "72403"]
 localPaths: ["Craighead County / ZIP 72402 sector", "Craighead County / coords 35.8200, -90.6800", "Craighead County / ZIP 72405 sector", "Craighead County / ZIP 72401 sector", "Craighead County / ZIP 72403 sector"]
+zillowHomeValueUsd: 184545
 ---
 
 **Engineering Notice for Jonesboro:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Craighead County.

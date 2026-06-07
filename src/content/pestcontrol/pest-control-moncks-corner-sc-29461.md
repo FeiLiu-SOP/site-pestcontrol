@@ -11,6 +11,7 @@ lng: -80.0100
 zipSample: ["29461"]
 zipCodes: ["29461"]
 localPaths: ["Berkeley County / primary ZIP 29461", "Berkeley County / ZIP 29461 sector", "Berkeley County / elevation 43 ft band", "Berkeley County / coords 33.1700, -80.0100"]
+zillowHomeValueUsd: 360045
 ---
 
 **Engineering Notice for Moncks Corner:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Berkeley County.

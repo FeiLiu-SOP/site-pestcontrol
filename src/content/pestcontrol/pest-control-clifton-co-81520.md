@@ -11,6 +11,7 @@ lng: -108.4600
 zipSample: ["81504", "81520"]
 zipCodes: ["81504", "81520"]
 localPaths: ["Mesa County / elevation 4682 ft band", "Mesa County / ZIP 81504 sector", "Mesa County / primary ZIP 81520", "Mesa County / ZIP 81520 sector", "Mesa County / coords 39.0800, -108.4600"]
+zillowHomeValueUsd: 330426
 ---
 
 **Engineering Notice for Clifton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Mesa County.

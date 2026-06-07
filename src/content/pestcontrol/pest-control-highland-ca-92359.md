@@ -11,6 +11,7 @@ lng: -117.1700
 zipSample: ["92410", "92346", "92359"]
 zipCodes: ["92359", "92346", "92410"]
 localPaths: ["San Bernardino County / primary ZIP 92359", "San Bernardino County / ZIP 92359 sector", "San Bernardino County / ZIP 92346 sector", "San Bernardino County / elevation 1371 ft band", "San Bernardino County / ZIP 92410 sector"]
+zillowHomeValueUsd: 511494
 ---
 
 **Engineering Notice for Highland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.

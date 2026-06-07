@@ -11,6 +11,7 @@ lng: -76.9600
 zipSample: ["20748"]
 zipCodes: ["20748"]
 localPaths: ["Prince George's County / elevation 276 ft band", "Prince George's County / primary ZIP 20748", "Prince George's County / coords 38.8400, -76.9600", "Prince George's County / ZIP 20748 sector"]
+zillowHomeValueUsd: 364479
 ---
 
 **Engineering Notice for Hillcrest Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince George's County.

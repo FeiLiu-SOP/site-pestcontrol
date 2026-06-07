@@ -11,6 +11,7 @@ lng: -82.5800
 zipSample: ["34207", "34282"]
 zipCodes: ["34207", "34282"]
 localPaths: ["Manatee County / primary ZIP 34207", "Manatee County / coords 27.4300, -82.5800", "Manatee County / elevation 39 ft band", "Manatee County / ZIP 34207 sector", "Manatee County / ZIP 34282 sector"]
+zillowHomeValueUsd: 209615
 ---
 
 **Engineering Notice for Bayshore Gardens:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Manatee County.

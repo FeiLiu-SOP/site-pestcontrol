@@ -11,6 +11,7 @@ lng: -80.1900
 zipSample: ["33023"]
 zipCodes: ["33023"]
 localPaths: ["Broward County / elevation 30 ft band", "Broward County / ZIP 33023 sector", "Broward County / primary ZIP 33023", "Broward County / coords 25.9800, -80.1900"]
+zillowHomeValueUsd: 450418
 ---
 
 **Engineering Notice for West Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.

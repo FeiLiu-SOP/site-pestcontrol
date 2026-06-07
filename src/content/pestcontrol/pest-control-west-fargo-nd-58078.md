@@ -11,6 +11,7 @@ lng: -96.9100
 zipSample: ["58078"]
 zipCodes: ["58078"]
 localPaths: ["Cass County / ZIP 58078 sector", "Cass County / primary ZIP 58078", "Cass County / elevation 896 ft band", "Cass County / coords 46.8600, -96.9100"]
+zillowHomeValueUsd: 349045
 ---
 
 **Engineering Notice for West Fargo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cass County.

@@ -11,6 +11,7 @@ lng: -80.2500
 zipSample: ["33321", "33319", "33359"]
 zipCodes: ["33321", "33319", "33359"]
 localPaths: ["Broward County / ZIP 33319 sector", "Broward County / ZIP 33321 sector", "Broward County / coords 26.2100, -80.2500", "Broward County / elevation 20 ft band", "Broward County / primary ZIP 33321"]
+zillowHomeValueUsd: 296707
 ---
 
 **Engineering Notice for Tamarac:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.

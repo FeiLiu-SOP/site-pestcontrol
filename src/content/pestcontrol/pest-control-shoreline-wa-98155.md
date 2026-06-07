@@ -11,6 +11,7 @@ lng: -122.3400
 zipSample: ["98160", "98155", "98177", "98133"]
 zipCodes: ["98177", "98133", "98160", "98155"]
 localPaths: ["King County / elevation 476 ft band", "King County / coords 47.7600, -122.3400", "King County / primary ZIP 98155", "King County / ZIP 98177 sector", "King County / ZIP 98155 sector"]
+zillowHomeValueUsd: 853055
 ---
 
 **Engineering Notice for Shoreline:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.

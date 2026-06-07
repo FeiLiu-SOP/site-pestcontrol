@@ -11,6 +11,7 @@ lng: -117.4000
 zipSample: ["92316"]
 zipCodes: ["92316"]
 localPaths: ["San Bernardino County / coords 34.0600, -117.4000", "San Bernardino County / elevation 1070 ft band", "San Bernardino County / primary ZIP 92316", "San Bernardino County / ZIP 92316 sector"]
+zillowHomeValueUsd: 564813
 ---
 
 **Engineering Notice for Bloomington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.

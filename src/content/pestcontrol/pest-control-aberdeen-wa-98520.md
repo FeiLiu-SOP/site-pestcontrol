@@ -11,6 +11,7 @@ lng: -123.8100
 zipSample: ["98520"]
 zipCodes: ["98520"]
 localPaths: ["Grays Harbor County / elevation 7 ft band", "Grays Harbor County / primary ZIP 98520", "Grays Harbor County / coords 46.9800, -123.8100", "Grays Harbor County / ZIP 98520 sector"]
+zillowHomeValueUsd: 272270
 ---
 
 **Engineering Notice for Aberdeen:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Grays Harbor County.

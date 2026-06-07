@@ -11,6 +11,7 @@ lng: -89.4800
 zipSample: ["61021"]
 zipCodes: ["61021"]
 localPaths: ["Lee County / elevation 709 ft band", "Lee County / ZIP 61021 sector", "Lee County / coords 41.8400, -89.4800", "Lee County / primary ZIP 61021"]
+zillowHomeValueUsd: 166122
 ---
 
 **Engineering Notice for Dixon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lee County.

@@ -11,6 +11,7 @@ lng: -80.7400
 zipSample: ["32955", "32956", "32926"]
 zipCodes: ["32955", "32926", "32956"]
 localPaths: ["Brevard County / ZIP 32926 sector", "Brevard County / primary ZIP 32955", "Brevard County / ZIP 32955 sector", "Brevard County / elevation 36 ft band", "Brevard County / ZIP 32956 sector"]
+zillowHomeValueUsd: 369226
 ---
 
 **Engineering Notice for Rockledge:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brevard County.

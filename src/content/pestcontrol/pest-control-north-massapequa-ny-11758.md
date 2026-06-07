@@ -11,6 +11,7 @@ lng: -73.4700
 zipSample: ["11758"]
 zipCodes: ["11758"]
 localPaths: ["Nassau County / elevation 62 ft band", "Nassau County / primary ZIP 11758", "Nassau County / ZIP 11758 sector", "Nassau County / coords 40.7000, -73.4700"]
+zillowHomeValueUsd: 804461
 ---
 
 **Engineering Notice for North Massapequa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

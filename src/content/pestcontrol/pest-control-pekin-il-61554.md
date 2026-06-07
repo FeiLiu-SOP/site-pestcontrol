@@ -11,6 +11,7 @@ lng: -89.6300
 zipSample: ["61555", "61558", "61554"]
 zipCodes: ["61555", "61558", "61554"]
 localPaths: ["Tazewell County / ZIP 61555 sector", "Tazewell County / ZIP 61558 sector", "Tazewell County / ZIP 61554 sector", "Tazewell County / primary ZIP 61554", "Tazewell County / elevation 541 ft band"]
+zillowHomeValueUsd: 137969
 ---
 
 **Engineering Notice for Pekin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tazewell County.

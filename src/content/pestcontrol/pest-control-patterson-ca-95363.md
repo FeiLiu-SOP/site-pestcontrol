@@ -11,6 +11,7 @@ lng: -121.1500
 zipSample: ["95363"]
 zipCodes: ["95363"]
 localPaths: ["Stanislaus County / coords 37.4800, -121.1500", "Stanislaus County / ZIP 95363 sector", "Stanislaus County / elevation 108 ft band", "Stanislaus County / primary ZIP 95363"]
+zillowHomeValueUsd: 510433
 ---
 
 **Engineering Notice for Patterson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Stanislaus County.

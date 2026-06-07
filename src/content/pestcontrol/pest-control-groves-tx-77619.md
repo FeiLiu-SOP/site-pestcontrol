@@ -11,6 +11,7 @@ lng: -93.9200
 zipSample: ["77619"]
 zipCodes: ["77619"]
 localPaths: ["Jefferson County / primary ZIP 77619", "Jefferson County / elevation 20 ft band", "Jefferson County / coords 29.9500, -93.9200", "Jefferson County / ZIP 77619 sector"]
+zillowHomeValueUsd: 177656
 ---
 
 **Engineering Notice for Groves:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.

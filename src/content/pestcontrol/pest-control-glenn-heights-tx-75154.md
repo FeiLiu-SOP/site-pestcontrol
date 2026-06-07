@@ -11,6 +11,7 @@ lng: -96.8500
 zipSample: ["75154"]
 zipCodes: ["75154"]
 localPaths: ["Dallas County / coords 32.5500, -96.8500", "Dallas County / ZIP 75154 sector", "Dallas County / primary ZIP 75154", "Dallas County / elevation 689 ft band"]
+zillowHomeValueUsd: 350917
 ---
 
 **Engineering Notice for Glenn Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.

@@ -11,6 +11,7 @@ lng: -119.1900
 zipSample: ["89406", "89429", "89408"]
 zipCodes: ["89406", "89429", "89408"]
 localPaths: ["Lyon County / ZIP 89429 sector", "Lyon County / ZIP 89408 sector", "Lyon County / elevation 4636 ft band", "Lyon County / primary ZIP 89408", "Lyon County / coords 39.5600, -119.1900"]
+zillowHomeValueUsd: 396002
 ---
 
 **Engineering Notice for Fernley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lyon County.

@@ -11,6 +11,7 @@ lng: -118.0400
 zipSample: ["90623"]
 zipCodes: ["90623"]
 localPaths: ["Orange County / coords 33.8500, -118.0400", "Orange County / elevation 66 ft band", "Orange County / ZIP 90623 sector", "Orange County / primary ZIP 90623"]
+zillowHomeValueUsd: 1212315
 ---
 
 **Engineering Notice for La Palma:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

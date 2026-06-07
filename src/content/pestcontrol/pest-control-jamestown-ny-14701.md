@@ -11,6 +11,7 @@ lng: -79.2400
 zipSample: ["14701", "14702"]
 zipCodes: ["14701", "14702"]
 localPaths: ["Chautauqua County / coords 42.1000, -79.2400", "Chautauqua County / ZIP 14702 sector", "Chautauqua County / elevation 1398 ft band", "Chautauqua County / primary ZIP 14701", "Chautauqua County / ZIP 14701 sector"]
+zillowHomeValueUsd: 117873
 ---
 
 **Engineering Notice for Jamestown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Chautauqua County.

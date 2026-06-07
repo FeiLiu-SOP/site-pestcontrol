@@ -11,6 +11,7 @@ lng: -111.3200
 zipSample: ["85541", "85547"]
 zipCodes: ["85541", "85547"]
 localPaths: ["Gila County / elevation 4990 ft band", "Gila County / coords 34.2400, -111.3200", "Gila County / ZIP 85547 sector", "Gila County / ZIP 85541 sector", "Gila County / primary ZIP 85541"]
+zillowHomeValueUsd: 446641
 ---
 
 **Engineering Notice for Payson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gila County.

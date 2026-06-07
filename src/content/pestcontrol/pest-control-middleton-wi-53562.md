@@ -11,6 +11,7 @@ lng: -89.5100
 zipSample: ["53562"]
 zipCodes: ["53562"]
 localPaths: ["Dane County / primary ZIP 53562", "Dane County / elevation 935 ft band", "Dane County / coords 43.1100, -89.5100", "Dane County / ZIP 53562 sector"]
+zillowHomeValueUsd: 618456
 ---
 
 **Engineering Notice for Middleton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dane County.

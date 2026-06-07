@@ -11,6 +11,7 @@ lng: -93.3900
 zipSample: ["55303"]
 zipCodes: ["55303"]
 localPaths: ["Anoka County / coords 45.2100, -93.3900", "Anoka County / ZIP 55303 sector", "Anoka County / elevation 840 ft band", "Anoka County / primary ZIP 55303"]
+zillowHomeValueUsd: 372430
 ---
 
 **Engineering Notice for Anoka:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anoka County.

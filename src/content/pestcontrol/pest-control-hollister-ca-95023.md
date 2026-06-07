@@ -11,6 +11,7 @@ lng: -121.4000
 zipSample: ["95024", "95023"]
 zipCodes: ["95023", "95024"]
 localPaths: ["San Benito County / ZIP 95023 sector", "San Benito County / elevation 282 ft band", "San Benito County / primary ZIP 95023", "San Benito County / ZIP 95024 sector", "San Benito County / coords 36.8600, -121.4000"]
+zillowHomeValueUsd: 763158
 ---
 
 **Engineering Notice for Hollister:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Benito County.

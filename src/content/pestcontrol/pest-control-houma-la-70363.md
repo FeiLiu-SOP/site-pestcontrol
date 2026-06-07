@@ -11,6 +11,7 @@ lng: -90.7100
 zipSample: ["70360", "70363", "70361"]
 zipCodes: ["70361", "70363", "70360"]
 localPaths: ["Terrebonne Parish / elevation 49 ft band", "Terrebonne Parish / coords 29.5800, -90.7100", "Terrebonne Parish / primary ZIP 70363", "Terrebonne Parish / ZIP 70361 sector", "Terrebonne Parish / ZIP 70360 sector"]
+zillowHomeValueUsd: 125676
 ---
 
 **Engineering Notice for Houma:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Terrebonne Parish.

@@ -11,6 +11,7 @@ lng: -75.7500
 zipSample: ["19702", "19701"]
 zipCodes: ["19701", "19702"]
 localPaths: ["New Castle County / ZIP 19701 sector", "New Castle County / coords 39.6000, -75.7500", "New Castle County / elevation 79 ft band", "New Castle County / primary ZIP 19701", "New Castle County / ZIP 19702 sector"]
+zillowHomeValueUsd: 420856
 ---
 
 **Engineering Notice for Glasgow:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: New Castle County.

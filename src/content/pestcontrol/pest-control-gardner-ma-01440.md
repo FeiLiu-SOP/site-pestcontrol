@@ -11,6 +11,7 @@ lng: -71.9900
 zipSample: ["01441", "01440"]
 zipCodes: ["01441", "01440"]
 localPaths: ["Worcester County / ZIP 01441 sector", "Worcester County / ZIP 01440 sector", "Worcester County / coords 42.5800, -71.9900", "Worcester County / elevation 1191 ft band", "Worcester County / primary ZIP 01440"]
+zillowHomeValueUsd: 368965
 ---
 
 **Engineering Notice for Gardner:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Worcester County.

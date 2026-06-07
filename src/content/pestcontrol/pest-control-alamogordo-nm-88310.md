@@ -11,6 +11,7 @@ lng: -105.9600
 zipSample: ["88310"]
 zipCodes: ["88310"]
 localPaths: ["Otero County / ZIP 88310 sector", "Otero County / elevation 4298 ft band", "Otero County / primary ZIP 88310", "Otero County / coords 32.8800, -105.9600"]
+zillowHomeValueUsd: 221456
 ---
 
 **Engineering Notice for Alamogordo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Otero County.

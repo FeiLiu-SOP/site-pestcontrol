@@ -11,6 +11,7 @@ lng: -78.9000
 zipSample: ["22980"]
 zipCodes: ["22980"]
 localPaths: ["Waynesboro County / elevation 1352 ft band", "Waynesboro County / ZIP 22980 sector", "Waynesboro County / primary ZIP 22980", "Waynesboro County / coords 38.0700, -78.9000"]
+zillowHomeValueUsd: 313556
 ---
 
 **Engineering Notice for Waynesboro:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Waynesboro County.

@@ -11,6 +11,7 @@ lng: -120.1800
 zipSample: ["96161", "96160"]
 zipCodes: ["96161", "96160"]
 localPaths: ["Nevada County / ZIP 96160 sector", "Nevada County / ZIP 96161 sector", "Nevada County / coords 39.3500, -120.1800", "Nevada County / elevation 6201 ft band", "Nevada County / primary ZIP 96161"]
+zillowHomeValueUsd: 1014755
 ---
 
 **Engineering Notice for Truckee:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nevada County.

@@ -11,6 +11,7 @@ lng: -81.1100
 zipSample: ["29210", "29221", "29212"]
 zipCodes: ["29212", "29221", "29210"]
 localPaths: ["Richland County / primary ZIP 29212", "Richland County / ZIP 29212 sector", "Richland County / ZIP 29221 sector", "Richland County / coords 34.0500, -81.1100", "Richland County / ZIP 29210 sector"]
+zillowHomeValueUsd: 277793
 ---
 
 **Engineering Notice for St. Andrews:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Richland County.

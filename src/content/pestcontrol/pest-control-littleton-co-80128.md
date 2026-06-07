@@ -11,6 +11,7 @@ lng: -105.0200
 zipSample: ["80165", "80166", "80120", "80122", "80128"]
 zipCodes: ["80123", "80120", "80160", "80128", "80122", "80165", "80166"]
 localPaths: ["Arapahoe County / ZIP 80120 sector", "Arapahoe County / elevation 5420 ft band", "Arapahoe County / ZIP 80166 sector", "Arapahoe County / coords 39.5900, -105.0200", "Arapahoe County / ZIP 80122 sector"]
+zillowHomeValueUsd: 602632
 ---
 
 **Engineering Notice for Littleton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Arapahoe County.

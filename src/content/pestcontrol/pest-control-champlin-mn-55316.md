@@ -11,6 +11,7 @@ lng: -93.3900
 zipSample: ["55316"]
 zipCodes: ["55316"]
 localPaths: ["Hennepin County / coords 45.1700, -93.3900", "Hennepin County / ZIP 55316 sector", "Hennepin County / primary ZIP 55316", "Hennepin County / elevation 873 ft band"]
+zillowHomeValueUsd: 370696
 ---
 
 **Engineering Notice for Champlin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hennepin County.

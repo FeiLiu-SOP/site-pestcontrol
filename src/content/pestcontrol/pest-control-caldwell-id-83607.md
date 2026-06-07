@@ -11,6 +11,7 @@ lng: -116.6600
 zipSample: ["83605", "83607"]
 zipCodes: ["83607", "83605"]
 localPaths: ["Canyon County / elevation 2398 ft band", "Canyon County / ZIP 83607 sector", "Canyon County / coords 43.6500, -116.6600", "Canyon County / ZIP 83605 sector", "Canyon County / primary ZIP 83607"]
+zillowHomeValueUsd: 448729
 ---
 
 **Engineering Notice for Caldwell:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Canyon County.

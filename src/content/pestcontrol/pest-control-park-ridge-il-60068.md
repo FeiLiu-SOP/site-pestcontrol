@@ -11,6 +11,7 @@ lng: -87.8400
 zipSample: ["60068"]
 zipCodes: ["60068"]
 localPaths: ["Cook County / ZIP 60068 sector", "Cook County / primary ZIP 60068", "Cook County / elevation 653 ft band", "Cook County / coords 42.0100, -87.8400"]
+zillowHomeValueUsd: 566317
 ---
 
 **Engineering Notice for Park Ridge:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

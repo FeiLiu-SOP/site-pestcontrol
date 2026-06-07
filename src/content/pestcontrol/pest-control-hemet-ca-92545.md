@@ -11,6 +11,7 @@ lng: -117.0000
 zipSample: ["92545", "92543", "92546"]
 zipCodes: ["92543", "92546", "92545"]
 localPaths: ["Riverside County / primary ZIP 92545", "Riverside County / ZIP 92543 sector", "Riverside County / ZIP 92545 sector", "Riverside County / ZIP 92546 sector", "Riverside County / elevation 1549 ft band"]
+zillowHomeValueUsd: 451567
 ---
 
 **Engineering Notice for Hemet:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.

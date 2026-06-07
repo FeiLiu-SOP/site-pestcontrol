@@ -11,6 +11,7 @@ lng: -88.3600
 zipSample: ["61938"]
 zipCodes: ["61938"]
 localPaths: ["Coles County / primary ZIP 61938", "Coles County / elevation 728 ft band", "Coles County / coords 39.4800, -88.3600", "Coles County / ZIP 61938 sector"]
+zillowHomeValueUsd: 122401
 ---
 
 **Engineering Notice for Mattoon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Coles County.

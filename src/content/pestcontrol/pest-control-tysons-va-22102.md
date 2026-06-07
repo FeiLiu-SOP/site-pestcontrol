@@ -11,6 +11,7 @@ lng: -77.2300
 zipSample: ["22102", "22182"]
 zipCodes: ["22182", "22102"]
 localPaths: ["Fairfax County / coords 38.9200, -77.2300", "Fairfax County / ZIP 22102 sector", "Fairfax County / ZIP 22182 sector", "Fairfax County / elevation 512 ft band", "Fairfax County / primary ZIP 22102"]
+zillowHomeValueUsd: 841473
 ---
 
 **Engineering Notice for Tysons:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.

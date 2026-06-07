@@ -11,6 +11,7 @@ lng: -81.8300
 zipSample: ["44149", "44136"]
 zipCodes: ["44136", "44149"]
 localPaths: ["Cuyahoga County / ZIP 44136 sector", "Cuyahoga County / ZIP 44149 sector", "Cuyahoga County / coords 41.3100, -81.8300", "Cuyahoga County / primary ZIP 44136", "Cuyahoga County / elevation 932 ft band"]
+zillowHomeValueUsd: 353777
 ---
 
 **Engineering Notice for Strongsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cuyahoga County.

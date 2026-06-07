@@ -11,6 +11,7 @@ lng: -87.8100
 zipSample: ["60035", "60037"]
 zipCodes: ["60035", "60037"]
 localPaths: ["Lake County / coords 42.1800, -87.8100", "Lake County / ZIP 60035 sector", "Lake County / elevation 659 ft band", "Lake County / ZIP 60037 sector", "Lake County / primary ZIP 60035"]
+zillowHomeValueUsd: 751142
 ---
 
 **Engineering Notice for Highland Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

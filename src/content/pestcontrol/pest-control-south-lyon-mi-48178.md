@@ -11,6 +11,7 @@ lng: -83.6500
 zipSample: ["48178"]
 zipCodes: ["48178"]
 localPaths: ["Oakland County / primary ZIP 48178", "Oakland County / elevation 922 ft band", "Oakland County / ZIP 48178 sector", "Oakland County / coords 42.4600, -83.6500"]
+zillowHomeValueUsd: 465738
 ---
 
 **Engineering Notice for South Lyon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oakland County.

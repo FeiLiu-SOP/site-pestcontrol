@@ -11,6 +11,7 @@ lng: -80.2400
 zipSample: ["33188", "33142"]
 zipCodes: ["33188", "33142"]
 localPaths: ["Miami-Dade County / elevation 33 ft band", "Miami-Dade County / primary ZIP 33142", "Miami-Dade County / ZIP 33188 sector", "Miami-Dade County / coords 25.8200, -80.2400", "Miami-Dade County / ZIP 33142 sector"]
+zillowHomeValueUsd: 422037
 ---
 
 **Engineering Notice for Brownsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

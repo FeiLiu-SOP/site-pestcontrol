@@ -11,6 +11,7 @@ lng: -77.3800
 zipSample: ["28590", "27835", "27834", "27833", "27836"]
 zipCodes: ["27858", "27834", "27835", "28590", "27833", "27836"]
 localPaths: ["Pitt County / ZIP 27836 sector", "Pitt County / elevation 59 ft band", "Pitt County / primary ZIP 27834", "Pitt County / ZIP 27834 sector", "Pitt County / ZIP 28590 sector"]
+zillowHomeValueUsd: 211159
 ---
 
 **Engineering Notice for Greenville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pitt County.

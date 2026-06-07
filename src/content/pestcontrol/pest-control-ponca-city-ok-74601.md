@@ -11,6 +11,7 @@ lng: -97.0700
 zipSample: ["74604", "74601", "74602"]
 zipCodes: ["74602", "74601", "74604"]
 localPaths: ["Kay County / ZIP 74601 sector", "Kay County / coords 36.7200, -97.0700", "Kay County / ZIP 74604 sector", "Kay County / elevation 1040 ft band", "Kay County / ZIP 74602 sector"]
+zillowHomeValueUsd: 86928
 ---
 
 **Engineering Notice for Ponca City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kay County.

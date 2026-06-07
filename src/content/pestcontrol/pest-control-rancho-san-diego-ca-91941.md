@@ -11,6 +11,7 @@ lng: -116.9200
 zipSample: ["91941", "92019"]
 zipCodes: ["91941", "92019"]
 localPaths: ["San Diego County / coords 32.7600, -116.9200", "San Diego County / elevation 489 ft band", "San Diego County / primary ZIP 91941", "San Diego County / ZIP 92019 sector", "San Diego County / ZIP 91941 sector"]
+zillowHomeValueUsd: 1030857
 ---
 
 **Engineering Notice for Rancho San Diego:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.

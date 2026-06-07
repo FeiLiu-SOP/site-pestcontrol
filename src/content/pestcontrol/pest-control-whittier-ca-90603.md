@@ -11,6 +11,7 @@ lng: -118.0200
 zipSample: ["90606", "90601", "90602", "90603", "90608"]
 zipCodes: ["90603", "90602", "90606", "90609", "90605", "90608", "90601", "90607"]
 localPaths: ["Los Angeles County / coords 33.9700, -118.0200", "Los Angeles County / elevation 371 ft band", "Los Angeles County / primary ZIP 90603", "Los Angeles County / ZIP 90603 sector", "Los Angeles County / ZIP 90601 sector"]
+zillowHomeValueUsd: 892754
 ---
 
 **Engineering Notice for Whittier:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

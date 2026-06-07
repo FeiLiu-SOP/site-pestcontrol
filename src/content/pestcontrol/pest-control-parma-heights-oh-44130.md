@@ -11,6 +11,7 @@ lng: -81.7600
 zipSample: ["44130"]
 zipCodes: ["44130"]
 localPaths: ["Cuyahoga County / coords 41.3900, -81.7600", "Cuyahoga County / ZIP 44130 sector", "Cuyahoga County / elevation 853 ft band", "Cuyahoga County / primary ZIP 44130"]
+zillowHomeValueUsd: 232778
 ---
 
 **Engineering Notice for Parma Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cuyahoga County.

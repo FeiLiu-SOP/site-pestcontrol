@@ -11,6 +11,7 @@ lng: -104.9700
 zipSample: ["80130", "80126", "80163", "80129"]
 zipCodes: ["80130", "80129", "80126", "80163"]
 localPaths: ["Douglas County / ZIP 80163 sector", "Douglas County / ZIP 80130 sector", "Douglas County / coords 39.5400, -104.9700", "Douglas County / ZIP 80126 sector", "Douglas County / ZIP 80129 sector"]
+zillowHomeValueUsd: 682966
 ---
 
 **Engineering Notice for Highlands Ranch:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Douglas County.

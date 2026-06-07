@@ -11,6 +11,7 @@ lng: -74.1200
 zipSample: ["07407"]
 zipCodes: ["07407"]
 localPaths: ["Bergen County / coords 40.9000, -74.1200", "Bergen County / primary ZIP 07407", "Bergen County / ZIP 07407 sector", "Bergen County / elevation 56 ft band"]
+zillowHomeValueUsd: 616970
 ---
 
 **Engineering Notice for Elmwood Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bergen County.

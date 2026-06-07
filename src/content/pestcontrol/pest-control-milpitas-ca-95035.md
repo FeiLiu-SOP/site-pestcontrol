@@ -11,6 +11,7 @@ lng: -121.8900
 zipSample: ["95035"]
 zipCodes: ["95035"]
 localPaths: ["Santa Clara County / elevation 30 ft band", "Santa Clara County / primary ZIP 95035", "Santa Clara County / coords 37.4300, -121.8900", "Santa Clara County / ZIP 95035 sector"]
+zillowHomeValueUsd: 1501885
 ---
 
 **Engineering Notice for Milpitas:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Clara County.

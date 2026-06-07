@@ -11,6 +11,7 @@ lng: -97.2300
 zipSample: ["76248", "76262"]
 zipCodes: ["76262", "76248"]
 localPaths: ["Tarrant County / ZIP 76262 sector", "Tarrant County / elevation 669 ft band", "Tarrant County / primary ZIP 76248", "Tarrant County / ZIP 76248 sector", "Tarrant County / coords 32.9300, -97.2300"]
+zillowHomeValueUsd: 589555
 ---
 
 **Engineering Notice for Keller:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tarrant County.

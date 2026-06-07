@@ -11,6 +11,7 @@ lng: -90.3700
 zipSample: ["63010"]
 zipCodes: ["63010"]
 localPaths: ["Jefferson County / coords 38.4300, -90.3700", "Jefferson County / ZIP 63010 sector", "Jefferson County / elevation 531 ft band", "Jefferson County / primary ZIP 63010"]
+zillowHomeValueUsd: 272879
 ---
 
 **Engineering Notice for Arnold:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.

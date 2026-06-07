@@ -11,6 +11,7 @@ lng: -80.8700
 zipSample: ["28078", "28070"]
 zipCodes: ["28070", "28078"]
 localPaths: ["Mecklenburg County / ZIP 28078 sector", "Mecklenburg County / coords 35.4100, -80.8700", "Mecklenburg County / ZIP 28070 sector", "Mecklenburg County / primary ZIP 28078", "Mecklenburg County / elevation 696 ft band"]
+zillowHomeValueUsd: 541653
 ---
 
 **Engineering Notice for Huntersville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Mecklenburg County.

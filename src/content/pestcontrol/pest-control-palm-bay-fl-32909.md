@@ -11,6 +11,7 @@ lng: -80.6600
 zipSample: ["32910", "32908", "32907", "32911", "32905"]
 zipCodes: ["32909", "32902", "32906", "32910", "32908", "32911", "32905", "32907", "32976"]
 localPaths: ["Brevard County / coords 27.9600, -80.6600", "Brevard County / ZIP 32910 sector", "Brevard County / ZIP 32905 sector", "Brevard County / primary ZIP 32909", "Brevard County / ZIP 32907 sector"]
+zillowHomeValueUsd: 316802
 ---
 
 **Engineering Notice for Palm Bay:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brevard County.

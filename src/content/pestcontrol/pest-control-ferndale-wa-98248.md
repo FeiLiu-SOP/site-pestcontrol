@@ -11,6 +11,7 @@ lng: -122.5900
 zipSample: ["98248"]
 zipCodes: ["98248"]
 localPaths: ["Whatcom County / ZIP 98248 sector", "Whatcom County / elevation 36 ft band", "Whatcom County / primary ZIP 98248", "Whatcom County / coords 48.8500, -122.5900"]
+zillowHomeValueUsd: 618760
 ---
 
 **Engineering Notice for Ferndale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Whatcom County.

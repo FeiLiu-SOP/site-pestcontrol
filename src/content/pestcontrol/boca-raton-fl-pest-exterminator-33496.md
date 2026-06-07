@@ -11,7 +11,7 @@ lng: -80.1080
 zipSample: ["33486", "33429", "33433", "33432", "33431"]
 zipCodes: ["33496", "33429", "33499", "33427", "33432", "33434", "33431", "33481", "33487", "33486", "33433"]
 localPaths: ["Palm Beach County / ZIP 33432 sector", "Palm Beach County / ZIP 33429 sector", "Palm Beach County / primary ZIP 33496", "Palm Beach County / elevation 345 ft band", "Palm Beach County / ZIP 33431 sector"]
-zillowHomeValueUsd: 562566
+zillowHomeValueUsd: 980328
 ---
 
 **Engineering Notice for Boca Raton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Palm Beach County.

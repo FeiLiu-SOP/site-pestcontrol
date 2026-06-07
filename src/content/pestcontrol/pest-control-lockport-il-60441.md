@@ -11,6 +11,7 @@ lng: -88.0300
 zipSample: ["60441"]
 zipCodes: ["60441"]
 localPaths: ["Will County / coords 41.5900, -88.0300", "Will County / ZIP 60441 sector", "Will County / elevation 702 ft band", "Will County / primary ZIP 60441"]
+zillowHomeValueUsd: 352653
 ---
 
 **Engineering Notice for Lockport:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Will County.

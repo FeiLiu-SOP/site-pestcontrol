@@ -11,6 +11,7 @@ lng: -88.0100
 zipSample: ["60101"]
 zipCodes: ["60101"]
 localPaths: ["DuPage County / elevation 715 ft band", "DuPage County / coords 41.9300, -88.0100", "DuPage County / primary ZIP 60101", "DuPage County / ZIP 60101 sector"]
+zillowHomeValueUsd: 369499
 ---
 
 **Engineering Notice for Addison:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.

@@ -11,6 +11,7 @@ lng: -75.9300
 zipSample: ["19602", "19604", "19603", "19612", "19611"]
 zipCodes: ["19602", "19603", "19604", "19601", "19612", "19611"]
 localPaths: ["Berks County / ZIP 19611 sector", "Berks County / ZIP 19604 sector", "Berks County / coords 40.3400, -75.9300", "Berks County / ZIP 19612 sector", "Berks County / elevation 272 ft band"]
+zillowHomeValueUsd: 179715
 ---
 
 **Engineering Notice for Reading:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Berks County.

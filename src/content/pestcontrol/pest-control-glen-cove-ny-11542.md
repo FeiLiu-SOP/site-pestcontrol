@@ -11,6 +11,7 @@ lng: -73.6300
 zipSample: ["11542"]
 zipCodes: ["11542"]
 localPaths: ["Nassau County / ZIP 11542 sector", "Nassau County / elevation 135 ft band", "Nassau County / coords 40.8700, -73.6300", "Nassau County / primary ZIP 11542"]
+zillowHomeValueUsd: 809428
 ---
 
 **Engineering Notice for Glen Cove:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

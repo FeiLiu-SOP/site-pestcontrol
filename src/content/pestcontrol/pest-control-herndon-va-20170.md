@@ -11,6 +11,7 @@ lng: -77.3900
 zipSample: ["22095", "20170", "20172"]
 zipCodes: ["20170", "20172", "22095"]
 localPaths: ["Fairfax County / ZIP 22095 sector", "Fairfax County / elevation 354 ft band", "Fairfax County / ZIP 20170 sector", "Fairfax County / ZIP 20172 sector", "Fairfax County / coords 38.9700, -77.3900"]
+zillowHomeValueUsd: 706502
 ---
 
 **Engineering Notice for Herndon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.

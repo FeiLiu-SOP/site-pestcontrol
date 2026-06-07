@@ -11,6 +11,7 @@ lng: -77.2600
 zipSample: ["22180", "22183", "22185"]
 zipCodes: ["22180", "22183", "22185"]
 localPaths: ["Fairfax County / elevation 390 ft band", "Fairfax County / ZIP 22183 sector", "Fairfax County / ZIP 22180 sector", "Fairfax County / coords 38.9000, -77.2600", "Fairfax County / primary ZIP 22180"]
+zillowHomeValueUsd: 1072224
 ---
 
 **Engineering Notice for Vienna:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.

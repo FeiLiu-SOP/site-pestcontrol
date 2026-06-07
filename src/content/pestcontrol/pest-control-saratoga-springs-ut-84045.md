@@ -11,6 +11,7 @@ lng: -111.9200
 zipSample: ["84045"]
 zipCodes: ["84045"]
 localPaths: ["Utah County / elevation 4557 ft band", "Utah County / primary ZIP 84045", "Utah County / coords 40.3400, -111.9200", "Utah County / ZIP 84045 sector"]
+zillowHomeValueUsd: 555113
 ---
 
 **Engineering Notice for Saratoga Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Utah County.

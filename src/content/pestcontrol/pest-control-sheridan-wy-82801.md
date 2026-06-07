@@ -11,6 +11,7 @@ lng: -106.9600
 zipSample: ["82801"]
 zipCodes: ["82801"]
 localPaths: ["Sheridan County / primary ZIP 82801", "Sheridan County / elevation 3766 ft band", "Sheridan County / coords 44.8000, -106.9600", "Sheridan County / ZIP 82801 sector"]
+zillowHomeValueUsd: 427238
 ---
 
 **Engineering Notice for Sheridan:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sheridan County.

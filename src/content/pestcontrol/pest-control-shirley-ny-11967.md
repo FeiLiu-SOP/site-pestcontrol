@@ -11,6 +11,7 @@ lng: -72.8700
 zipSample: ["11967"]
 zipCodes: ["11967"]
 localPaths: ["Suffolk County / ZIP 11967 sector", "Suffolk County / elevation 59 ft band", "Suffolk County / primary ZIP 11967", "Suffolk County / coords 40.7900, -72.8700"]
+zillowHomeValueUsd: 531112
 ---
 
 **Engineering Notice for Shirley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

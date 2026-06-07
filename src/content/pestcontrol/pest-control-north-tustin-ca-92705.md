@@ -11,6 +11,7 @@ lng: -117.7900
 zipSample: ["92780", "92705", "92711"]
 zipCodes: ["92780", "92711", "92705"]
 localPaths: ["Orange County / ZIP 92711 sector", "Orange County / elevation 249 ft band", "Orange County / primary ZIP 92705", "Orange County / ZIP 92705 sector", "Orange County / coords 33.7600, -117.7900"]
+zillowHomeValueUsd: 1614982
 ---
 
 **Engineering Notice for North Tustin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

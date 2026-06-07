@@ -11,6 +11,7 @@ lng: -97.0900
 zipSample: ["58206", "58208", "58201", "58203", "58202"]
 zipCodes: ["58208", "58203", "58206", "58202", "58201"]
 localPaths: ["Grand Forks County / coords 47.9200, -97.0900", "Grand Forks County / ZIP 58208 sector", "Grand Forks County / ZIP 58206 sector", "Grand Forks County / ZIP 58203 sector", "Grand Forks County / primary ZIP 58202"]
+zillowHomeValueUsd: 316230
 ---
 
 **Engineering Notice for Grand Forks:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Grand Forks County.

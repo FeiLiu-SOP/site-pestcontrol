@@ -11,6 +11,7 @@ lng: -93.6200
 zipSample: ["50010", "50011", "50013", "50014", "50012"]
 zipCodes: ["50010", "50013", "50011", "50012", "50014"]
 localPaths: ["Story County / coords 42.0300, -93.6200", "Story County / elevation 935 ft band", "Story County / ZIP 50012 sector", "Story County / ZIP 50010 sector", "Story County / ZIP 50011 sector"]
+zillowHomeValueUsd: 268593
 ---
 
 **Engineering Notice for Ames:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Story County.

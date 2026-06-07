@@ -11,6 +11,7 @@ lng: -80.0700
 zipSample: ["33407", "33419", "33404"]
 zipCodes: ["33419", "33404", "33407"]
 localPaths: ["Palm Beach County / ZIP 33419 sector", "Palm Beach County / ZIP 33404 sector", "Palm Beach County / coords 26.7800, -80.0700", "Palm Beach County / ZIP 33407 sector", "Palm Beach County / elevation 30 ft band"]
+zillowHomeValueUsd: 346999
 ---
 
 **Engineering Notice for Riviera Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Palm Beach County.

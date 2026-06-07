@@ -11,6 +11,7 @@ lng: -116.9700
 zipSample: ["91941", "92020", "91977", "91976"]
 zipCodes: ["92020", "91941", "91976", "91977"]
 localPaths: ["San Diego County / coords 32.7600, -116.9700", "San Diego County / ZIP 91976 sector", "San Diego County / elevation 843 ft band", "San Diego County / ZIP 92020 sector", "San Diego County / ZIP 91941 sector"]
+zillowHomeValueUsd: 768683
 ---
 
 **Engineering Notice for Casa de Oro-Mount Helix:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.

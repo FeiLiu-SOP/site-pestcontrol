@@ -11,6 +11,7 @@ lng: -87.8700
 zipSample: ["60525"]
 zipCodes: ["60525"]
 localPaths: ["Cook County / coords 41.8100, -87.8700", "Cook County / elevation 656 ft band", "Cook County / primary ZIP 60525", "Cook County / ZIP 60525 sector"]
+zillowHomeValueUsd: 485368
 ---
 
 **Engineering Notice for La Grange:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

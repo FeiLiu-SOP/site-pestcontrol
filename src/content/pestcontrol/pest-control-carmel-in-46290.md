@@ -11,6 +11,7 @@ lng: -86.1500
 zipSample: ["46033", "46074", "46280", "46290", "46032"]
 zipCodes: ["46280", "46082", "46032", "46033", "46290", "46074"]
 localPaths: ["Hamilton County / ZIP 46280 sector", "Hamilton County / coords 39.9700, -86.1500", "Hamilton County / elevation 843 ft band", "Hamilton County / ZIP 46032 sector", "Hamilton County / ZIP 46074 sector"]
+zillowHomeValueUsd: 573220
 ---
 
 **Engineering Notice for Carmel:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hamilton County.

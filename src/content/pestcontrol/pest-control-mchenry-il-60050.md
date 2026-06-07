@@ -11,6 +11,7 @@ lng: -88.2900
 zipSample: ["60050"]
 zipCodes: ["60050"]
 localPaths: ["McHenry County / coords 42.3400, -88.2900", "McHenry County / ZIP 60050 sector", "McHenry County / elevation 817 ft band", "McHenry County / primary ZIP 60050"]
+zillowHomeValueUsd: 307071
 ---
 
 **Engineering Notice for McHenry:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: McHenry County.

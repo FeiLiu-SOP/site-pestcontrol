@@ -11,6 +11,7 @@ lng: -89.4400
 zipSample: ["53597"]
 zipCodes: ["53597"]
 localPaths: ["Dane County / elevation 899 ft band", "Dane County / ZIP 53597 sector", "Dane County / coords 43.1800, -89.4400", "Dane County / primary ZIP 53597"]
+zillowHomeValueUsd: 597392
 ---
 
 **Engineering Notice for Waunakee:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dane County.

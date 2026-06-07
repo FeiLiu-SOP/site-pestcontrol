@@ -11,6 +11,7 @@ lng: -82.0200
 zipSample: ["44011"]
 zipCodes: ["44011"]
 localPaths: ["Lorain County / coords 41.4500, -82.0200", "Lorain County / elevation 692 ft band", "Lorain County / primary ZIP 44011", "Lorain County / ZIP 44011 sector"]
+zillowHomeValueUsd: 471639
 ---
 
 **Engineering Notice for Avon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lorain County.

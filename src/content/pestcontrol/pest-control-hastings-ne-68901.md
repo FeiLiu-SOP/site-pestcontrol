@@ -11,6 +11,7 @@ lng: -98.3900
 zipSample: ["68902", "68901"]
 zipCodes: ["68901", "68902"]
 localPaths: ["Adams County / ZIP 68902 sector", "Adams County / ZIP 68901 sector", "Adams County / elevation 1939 ft band", "Adams County / coords 40.6000, -98.3900", "Adams County / primary ZIP 68901"]
+zillowHomeValueUsd: 199900
 ---
 
 **Engineering Notice for Hastings:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Adams County.

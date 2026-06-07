@@ -11,6 +11,7 @@ lng: -90.6800
 zipSample: ["61455"]
 zipCodes: ["61455"]
 localPaths: ["McDonough County / elevation 643 ft band", "McDonough County / ZIP 61455 sector", "McDonough County / coords 40.4700, -90.6800", "McDonough County / primary ZIP 61455"]
+zillowHomeValueUsd: 105391
 ---
 
 **Engineering Notice for Macomb:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: McDonough County.

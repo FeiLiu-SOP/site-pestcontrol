@@ -11,6 +11,7 @@ lng: -73.4500
 zipSample: ["11735"]
 zipCodes: ["11735"]
 localPaths: ["Nassau County / ZIP 11735 sector", "Nassau County / elevation 52 ft band", "Nassau County / coords 40.7200, -73.4500", "Nassau County / primary ZIP 11735"]
+zillowHomeValueUsd: 716932
 ---
 
 **Engineering Notice for South Farmingdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

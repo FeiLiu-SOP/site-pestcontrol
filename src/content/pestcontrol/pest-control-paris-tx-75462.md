@@ -11,6 +11,7 @@ lng: -95.5500
 zipSample: ["75462", "75461", "75460"]
 zipCodes: ["75461", "75462", "75460"]
 localPaths: ["Lamar County / ZIP 75461 sector", "Lamar County / ZIP 75460 sector", "Lamar County / coords 33.6700, -95.5500", "Lamar County / elevation 614 ft band", "Lamar County / ZIP 75462 sector"]
+zillowHomeValueUsd: 277694
 ---
 
 **Engineering Notice for Paris:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lamar County.

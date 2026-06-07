@@ -11,6 +11,7 @@ lng: -76.5700
 zipSample: ["13021", "13024", "13022"]
 zipCodes: ["13021", "13022", "13024"]
 localPaths: ["Cayuga County / ZIP 13021 sector", "Cayuga County / elevation 669 ft band", "Cayuga County / coords 42.9300, -76.5700", "Cayuga County / ZIP 13022 sector", "Cayuga County / primary ZIP 13021"]
+zillowHomeValueUsd: 214978
 ---
 
 **Engineering Notice for Auburn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cayuga County.

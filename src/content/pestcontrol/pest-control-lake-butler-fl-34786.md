@@ -11,6 +11,7 @@ lng: -81.5500
 zipSample: ["34786"]
 zipCodes: ["34786"]
 localPaths: ["Orange County / primary ZIP 34786", "Orange County / ZIP 34786 sector", "Orange County / coords 28.4900, -81.5500", "Orange County / elevation 92 ft band"]
+zillowHomeValueUsd: 700012
 ---
 
 **Engineering Notice for Lake Butler:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

@@ -11,6 +11,7 @@ lng: -98.9800
 zipSample: ["76801", "76803", "76802"]
 zipCodes: ["76803", "76801", "76802"]
 localPaths: ["Brown County / ZIP 76803 sector", "Brown County / ZIP 76802 sector", "Brown County / elevation 1358 ft band", "Brown County / ZIP 76801 sector", "Brown County / coords 31.7100, -98.9800"]
+zillowHomeValueUsd: 168887
 ---
 
 **Engineering Notice for Brownwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brown County.

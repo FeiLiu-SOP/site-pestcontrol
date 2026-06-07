@@ -11,6 +11,7 @@ lng: -118.0700
 zipSample: ["90606", "90610"]
 zipCodes: ["90610", "90606"]
 localPaths: ["Los Angeles County / primary ZIP 90606", "Los Angeles County / coords 33.9800, -118.0700", "Los Angeles County / ZIP 90610 sector", "Los Angeles County / ZIP 90606 sector", "Los Angeles County / elevation 167 ft band"]
+zillowHomeValueUsd: 775592
 ---
 
 **Engineering Notice for West Whittier-Los Nietos:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

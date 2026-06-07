@@ -11,6 +11,7 @@ lng: -86.8800
 zipSample: ["35022", "35080"]
 zipCodes: ["35022", "35080"]
 localPaths: ["Shelby County / primary ZIP 35022", "Shelby County / ZIP 35080 sector", "Shelby County / coords 33.2800, -86.8800", "Shelby County / elevation 430 ft band", "Shelby County / ZIP 35022 sector"]
+zillowHomeValueUsd: 279922
 ---
 
 **Engineering Notice for Helena:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Shelby County.

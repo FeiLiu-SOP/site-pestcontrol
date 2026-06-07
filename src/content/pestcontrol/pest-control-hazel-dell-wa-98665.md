@@ -11,6 +11,7 @@ lng: -122.6600
 zipSample: ["98665"]
 zipCodes: ["98665"]
 localPaths: ["Clark County / primary ZIP 98665", "Clark County / coords 45.6800, -122.6600", "Clark County / elevation 236 ft band", "Clark County / ZIP 98665 sector"]
+zillowHomeValueUsd: 502089
 ---
 
 **Engineering Notice for Hazel Dell:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.

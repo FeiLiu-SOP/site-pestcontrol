@@ -11,6 +11,7 @@ lng: -83.1000
 zipSample: ["48030"]
 zipCodes: ["48030"]
 localPaths: ["Oakland County / ZIP 48030 sector", "Oakland County / elevation 640 ft band", "Oakland County / primary ZIP 48030", "Oakland County / coords 42.4600, -83.1000"]
+zillowHomeValueUsd: 155412
 ---
 
 **Engineering Notice for Hazel Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oakland County.

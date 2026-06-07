@@ -11,6 +11,7 @@ lng: -94.5300
 zipSample: ["64012"]
 zipCodes: ["64012"]
 localPaths: ["Cass County / primary ZIP 64012", "Cass County / ZIP 64012 sector", "Cass County / coords 38.8200, -94.5300", "Cass County / elevation 1109 ft band"]
+zillowHomeValueUsd: 286615
 ---
 
 **Engineering Notice for Belton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cass County.

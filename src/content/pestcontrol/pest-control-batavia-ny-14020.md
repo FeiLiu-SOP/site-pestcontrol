@@ -11,6 +11,7 @@ lng: -78.1800
 zipSample: ["14020"]
 zipCodes: ["14020"]
 localPaths: ["Genesee County / ZIP 14020 sector", "Genesee County / elevation 906 ft band", "Genesee County / coords 43.0000, -78.1800", "Genesee County / primary ZIP 14020"]
+zillowHomeValueUsd: 197628
 ---
 
 **Engineering Notice for Batavia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Genesee County.

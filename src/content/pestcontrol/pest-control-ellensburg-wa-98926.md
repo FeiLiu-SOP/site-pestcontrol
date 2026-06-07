@@ -11,6 +11,7 @@ lng: -120.5500
 zipSample: ["98926"]
 zipCodes: ["98926"]
 localPaths: ["Kittitas County / elevation 1562 ft band", "Kittitas County / primary ZIP 98926", "Kittitas County / ZIP 98926 sector", "Kittitas County / coords 47.0000, -120.5500"]
+zillowHomeValueUsd: 458943
 ---
 
 **Engineering Notice for Ellensburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kittitas County.

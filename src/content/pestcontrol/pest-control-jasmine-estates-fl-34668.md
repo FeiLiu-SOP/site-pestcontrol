@@ -11,6 +11,7 @@ lng: -82.6900
 zipSample: ["34668"]
 zipCodes: ["34668"]
 localPaths: ["Pasco County / coords 28.2900, -82.6900", "Pasco County / elevation 26 ft band", "Pasco County / ZIP 34668 sector", "Pasco County / primary ZIP 34668"]
+zillowHomeValueUsd: 227534
 ---
 
 **Engineering Notice for Jasmine Estates:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pasco County.

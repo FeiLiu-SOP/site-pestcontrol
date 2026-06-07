@@ -11,6 +11,7 @@ lng: -97.2500
 zipSample: ["76148"]
 zipCodes: ["76148"]
 localPaths: ["Tarrant County / primary ZIP 76148", "Tarrant County / elevation 666 ft band", "Tarrant County / coords 32.8700, -97.2500", "Tarrant County / ZIP 76148 sector"]
+zillowHomeValueUsd: 272182
 ---
 
 **Engineering Notice for Watauga:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tarrant County.

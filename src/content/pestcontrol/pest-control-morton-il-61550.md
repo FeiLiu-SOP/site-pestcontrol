@@ -11,6 +11,7 @@ lng: -89.4700
 zipSample: ["61650", "61550"]
 zipCodes: ["61550", "61650"]
 localPaths: ["Tazewell County / elevation 722 ft band", "Tazewell County / coords 40.6100, -89.4700", "Tazewell County / ZIP 61650 sector", "Tazewell County / ZIP 61550 sector", "Tazewell County / primary ZIP 61550"]
+zillowHomeValueUsd: 280468
 ---
 
 **Engineering Notice for Morton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tazewell County.

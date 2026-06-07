@@ -11,6 +11,7 @@ lng: -95.4500
 zipSample: ["77566", "77515"]
 zipCodes: ["77515", "77566"]
 localPaths: ["Brazoria County / coords 29.0500, -95.4500", "Brazoria County / ZIP 77515 sector", "Brazoria County / elevation 36 ft band", "Brazoria County / primary ZIP 77515", "Brazoria County / ZIP 77566 sector"]
+zillowHomeValueUsd: 240685
 ---
 
 **Engineering Notice for Lake Jackson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brazoria County.

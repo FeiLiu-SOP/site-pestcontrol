@@ -11,6 +11,7 @@ lng: -81.8700
 zipSample: ["44256"]
 zipCodes: ["44256"]
 localPaths: ["Medina County / coords 41.1400, -81.8700", "Medina County / ZIP 44256 sector", "Medina County / primary ZIP 44256", "Medina County / elevation 1070 ft band"]
+zillowHomeValueUsd: 374756
 ---
 
 **Engineering Notice for Medina:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Medina County.

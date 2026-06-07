@@ -11,6 +11,7 @@ lng: -122.3000
 zipSample: ["94706"]
 zipCodes: ["94706"]
 localPaths: ["Alameda County / primary ZIP 94706", "Alameda County / elevation 49 ft band", "Alameda County / ZIP 94706 sector", "Alameda County / coords 37.8900, -122.3000"]
+zillowHomeValueUsd: 1260298
 ---
 
 **Engineering Notice for Albany:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alameda County.

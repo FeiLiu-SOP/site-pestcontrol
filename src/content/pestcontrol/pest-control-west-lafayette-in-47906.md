@@ -11,6 +11,7 @@ lng: -86.9200
 zipSample: ["47907", "47906", "47996"]
 zipCodes: ["47906", "47907", "47996"]
 localPaths: ["Tippecanoe County / ZIP 47906 sector", "Tippecanoe County / coords 40.4400, -86.9200", "Tippecanoe County / ZIP 47996 sector", "Tippecanoe County / elevation 725 ft band", "Tippecanoe County / primary ZIP 47906"]
+zillowHomeValueUsd: 363763
 ---
 
 **Engineering Notice for West Lafayette:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tippecanoe County.

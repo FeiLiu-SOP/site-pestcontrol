@@ -11,6 +11,7 @@ lng: -85.7800
 zipSample: ["46176"]
 zipCodes: ["46176"]
 localPaths: ["Shelby County / ZIP 46176 sector", "Shelby County / elevation 761 ft band", "Shelby County / primary ZIP 46176", "Shelby County / coords 39.5400, -85.7800"]
+zillowHomeValueUsd: 221676
 ---
 
 **Engineering Notice for Shelbyville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Shelby County.

@@ -11,6 +11,7 @@ lng: -70.3500
 zipSample: ["04098", "04092"]
 zipCodes: ["04098", "04092"]
 localPaths: ["Cumberland County / coords 43.7000, -70.3500", "Cumberland County / ZIP 04098 sector", "Cumberland County / primary ZIP 04092", "Cumberland County / elevation 108 ft band", "Cumberland County / ZIP 04092 sector"]
+zillowHomeValueUsd: 449277
 ---
 
 **Engineering Notice for Westbrook:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cumberland County.

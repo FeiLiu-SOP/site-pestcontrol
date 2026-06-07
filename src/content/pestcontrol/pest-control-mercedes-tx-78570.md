@@ -11,6 +11,7 @@ lng: -97.9100
 zipSample: ["78570"]
 zipCodes: ["78570"]
 localPaths: ["Hidalgo County / ZIP 78570 sector", "Hidalgo County / primary ZIP 78570", "Hidalgo County / coords 26.1500, -97.9100", "Hidalgo County / elevation 82 ft band"]
+zillowHomeValueUsd: 141033
 ---
 
 **Engineering Notice for Mercedes:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hidalgo County.

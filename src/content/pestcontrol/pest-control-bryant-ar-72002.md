@@ -11,6 +11,7 @@ lng: -92.4900
 zipSample: ["72089", "72002", "72022"]
 zipCodes: ["72089", "72022", "72002"]
 localPaths: ["Saline County / elevation 390 ft band", "Saline County / ZIP 72002 sector", "Saline County / ZIP 72022 sector", "Saline County / primary ZIP 72002", "Saline County / ZIP 72089 sector"]
+zillowHomeValueUsd: 249480
 ---
 
 **Engineering Notice for Bryant:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Saline County.

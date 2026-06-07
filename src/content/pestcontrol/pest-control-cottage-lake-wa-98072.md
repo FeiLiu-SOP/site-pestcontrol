@@ -11,6 +11,7 @@ lng: -122.0800
 zipSample: ["98077", "98072"]
 zipCodes: ["98077", "98072"]
 localPaths: ["King County / elevation 328 ft band", "King County / primary ZIP 98072", "King County / coords 47.7500, -122.0800", "King County / ZIP 98072 sector", "King County / ZIP 98077 sector"]
+zillowHomeValueUsd: 1319434
 ---
 
 **Engineering Notice for Cottage Lake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.

@@ -11,6 +11,7 @@ lng: -74.0500
 zipSample: ["10977", "10952"]
 zipCodes: ["10952", "10977"]
 localPaths: ["Rockland County / ZIP 10977 sector", "Rockland County / elevation 479 ft band", "Rockland County / coords 41.1200, -74.0500", "Rockland County / ZIP 10952 sector", "Rockland County / primary ZIP 10952"]
+zillowHomeValueUsd: 1129890
 ---
 
 **Engineering Notice for Spring Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rockland County.

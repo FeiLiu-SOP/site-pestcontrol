@@ -11,6 +11,7 @@ lng: -86.2100
 zipSample: ["35950", "35951"]
 zipCodes: ["35951", "35950"]
 localPaths: ["Marshall County / elevation 1037 ft band", "Marshall County / primary ZIP 35951", "Marshall County / coords 34.2600, -86.2100", "Marshall County / ZIP 35951 sector", "Marshall County / ZIP 35950 sector"]
+zillowHomeValueUsd: 221488
 ---
 
 **Engineering Notice for Albertville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marshall County.

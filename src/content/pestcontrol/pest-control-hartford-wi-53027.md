@@ -11,6 +11,7 @@ lng: -88.3800
 zipSample: ["53027"]
 zipCodes: ["53027"]
 localPaths: ["Washington County / primary ZIP 53027", "Washington County / ZIP 53027 sector", "Washington County / coords 43.3200, -88.3800", "Washington County / elevation 1020 ft band"]
+zillowHomeValueUsd: 409541
 ---
 
 **Engineering Notice for Hartford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.

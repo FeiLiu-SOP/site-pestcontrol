@@ -11,6 +11,7 @@ lng: -83.9900
 zipSample: ["30515", "30519", "30518"]
 zipCodes: ["30519", "30515", "30518"]
 localPaths: ["Gwinnett County / ZIP 30515 sector", "Gwinnett County / elevation 1076 ft band", "Gwinnett County / primary ZIP 30518", "Gwinnett County / coords 34.1200, -83.9900", "Gwinnett County / ZIP 30519 sector"]
+zillowHomeValueUsd: 464342
 ---
 
 **Engineering Notice for Buford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gwinnett County.

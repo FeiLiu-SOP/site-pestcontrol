@@ -11,6 +11,7 @@ lng: -99.1300
 zipSample: ["78028"]
 zipCodes: ["78028"]
 localPaths: ["Kerr County / primary ZIP 78028", "Kerr County / ZIP 78028 sector", "Kerr County / elevation 1624 ft band", "Kerr County / coords 30.0400, -99.1300"]
+zillowHomeValueUsd: 348611
 ---
 
 **Engineering Notice for Kerrville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kerr County.

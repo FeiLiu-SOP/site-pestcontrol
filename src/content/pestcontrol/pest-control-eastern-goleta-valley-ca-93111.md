@@ -11,6 +11,7 @@ lng: -119.7900
 zipSample: ["93111", "93110", "93160"]
 zipCodes: ["93111", "93160", "93110"]
 localPaths: ["Santa Barbara County / primary ZIP 93111", "Santa Barbara County / coords 34.4400, -119.7900", "Santa Barbara County / elevation 125 ft band", "Santa Barbara County / ZIP 93160 sector", "Santa Barbara County / ZIP 93110 sector"]
+zillowHomeValueUsd: 1671625
 ---
 
 **Engineering Notice for Eastern Goleta Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Barbara County.

@@ -11,6 +11,7 @@ lng: -84.2200
 zipSample: ["31719", "31709"]
 zipCodes: ["31719", "31709"]
 localPaths: ["Sumter County / ZIP 31709 sector", "Sumter County / ZIP 31719 sector", "Sumter County / elevation 433 ft band", "Sumter County / primary ZIP 31709", "Sumter County / coords 32.0700, -84.2200"]
+zillowHomeValueUsd: 141902
 ---
 
 **Engineering Notice for Americus:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sumter County.

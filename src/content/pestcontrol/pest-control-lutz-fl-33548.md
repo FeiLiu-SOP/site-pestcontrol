@@ -11,6 +11,7 @@ lng: -82.4500
 zipSample: ["33675", "33548", "33559", "33549", "33647"]
 zipCodes: ["33647", "33549", "33675", "33559", "33548"]
 localPaths: ["Hillsborough County / coords 28.1400, -82.4500", "Hillsborough County / elevation 52 ft band", "Hillsborough County / ZIP 33559 sector", "Hillsborough County / ZIP 33548 sector", "Hillsborough County / ZIP 33647 sector"]
+zillowHomeValueUsd: 668741
 ---
 
 **Engineering Notice for Lutz:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.

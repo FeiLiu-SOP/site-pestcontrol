@@ -11,6 +11,7 @@ lng: -76.3700
 zipSample: ["21050", "21015", "21014"]
 zipCodes: ["21015", "21014", "21050"]
 localPaths: ["Harford County / elevation 446 ft band", "Harford County / ZIP 21015 sector", "Harford County / ZIP 21050 sector", "Harford County / ZIP 21014 sector", "Harford County / coords 39.5500, -76.3700"]
+zillowHomeValueUsd: 504858
 ---
 
 **Engineering Notice for Bel Air North:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harford County.

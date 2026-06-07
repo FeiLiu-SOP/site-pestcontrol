@@ -11,6 +11,7 @@ lng: -89.9900
 zipSample: ["62026", "62025"]
 zipCodes: ["62026", "62025"]
 localPaths: ["Madison County / ZIP 62026 sector", "Madison County / primary ZIP 62026", "Madison County / coords 38.7900, -89.9900", "Madison County / ZIP 62025 sector", "Madison County / elevation 587 ft band"]
+zillowHomeValueUsd: 326548
 ---
 
 **Engineering Notice for Edwardsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Madison County.

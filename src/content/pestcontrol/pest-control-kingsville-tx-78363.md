@@ -11,6 +11,7 @@ lng: -97.8600
 zipSample: ["78363", "78364"]
 zipCodes: ["78363", "78364"]
 localPaths: ["Kleberg County / ZIP 78364 sector", "Kleberg County / primary ZIP 78363", "Kleberg County / coords 27.5100, -97.8600", "Kleberg County / elevation 79 ft band", "Kleberg County / ZIP 78363 sector"]
+zillowHomeValueUsd: 147273
 ---
 
 **Engineering Notice for Kingsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kleberg County.

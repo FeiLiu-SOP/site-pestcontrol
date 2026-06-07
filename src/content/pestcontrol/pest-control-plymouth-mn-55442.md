@@ -11,6 +11,7 @@ lng: -93.4600
 zipSample: ["55441", "55447", "55446", "55442"]
 zipCodes: ["55447", "55441", "55446", "55442"]
 localPaths: ["Hennepin County / ZIP 55446 sector", "Hennepin County / elevation 955 ft band", "Hennepin County / primary ZIP 55442", "Hennepin County / coords 45.0200, -93.4600", "Hennepin County / ZIP 55447 sector"]
+zillowHomeValueUsd: 471635
 ---
 
 **Engineering Notice for Plymouth:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hennepin County.

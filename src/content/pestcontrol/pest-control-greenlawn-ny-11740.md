@@ -11,6 +11,7 @@ lng: -73.3600
 zipSample: ["11743", "11740"]
 zipCodes: ["11740", "11743"]
 localPaths: ["Suffolk County / elevation 220 ft band", "Suffolk County / ZIP 11740 sector", "Suffolk County / ZIP 11743 sector", "Suffolk County / coords 40.8600, -73.3600", "Suffolk County / primary ZIP 11740"]
+zillowHomeValueUsd: 821305
 ---
 
 **Engineering Notice for Greenlawn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

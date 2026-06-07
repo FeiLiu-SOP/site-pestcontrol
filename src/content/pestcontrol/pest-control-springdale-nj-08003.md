@@ -11,6 +11,7 @@ lng: -74.9700
 zipSample: ["08003"]
 zipCodes: ["08003"]
 localPaths: ["Camden County / ZIP 08003 sector", "Camden County / elevation 75 ft band", "Camden County / primary ZIP 08003", "Camden County / coords 39.8800, -74.9700"]
+zillowHomeValueUsd: 564411
 ---
 
 **Engineering Notice for Springdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Camden County.

@@ -11,6 +11,7 @@ lng: -105.1100
 zipSample: ["80128", "80127", "80162", "80123"]
 zipCodes: ["80128", "80162", "80127", "80123"]
 localPaths: ["Jefferson County / primary ZIP 80128", "Jefferson County / ZIP 80127 sector", "Jefferson County / elevation 5807 ft band", "Jefferson County / ZIP 80123 sector", "Jefferson County / coords 39.5800, -105.1100"]
+zillowHomeValueUsd: 602631
 ---
 
 **Engineering Notice for Ken Caryl:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.

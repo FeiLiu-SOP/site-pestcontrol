@@ -11,6 +11,7 @@ lng: -117.9500
 zipSample: ["90633", "90632", "90631"]
 zipCodes: ["90633", "90632", "90631"]
 localPaths: ["Orange County / ZIP 90633 sector", "Orange County / ZIP 90631 sector", "Orange County / elevation 279 ft band", "Orange County / primary ZIP 90631", "Orange County / coords 33.9300, -117.9500"]
+zillowHomeValueUsd: 942842
 ---
 
 **Engineering Notice for La Habra:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

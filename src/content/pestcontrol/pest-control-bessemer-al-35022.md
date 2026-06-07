@@ -11,6 +11,7 @@ lng: -86.9700
 zipSample: ["35022", "35020"]
 zipCodes: ["35020", "35022"]
 localPaths: ["Jefferson County / coords 33.3700, -86.9700", "Jefferson County / elevation 515 ft band", "Jefferson County / ZIP 35022 sector", "Jefferson County / primary ZIP 35022", "Jefferson County / ZIP 35020 sector"]
+zillowHomeValueUsd: 279921
 ---
 
 **Engineering Notice for Bessemer:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.

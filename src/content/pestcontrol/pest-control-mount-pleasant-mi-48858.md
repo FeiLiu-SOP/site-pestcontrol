@@ -11,6 +11,7 @@ lng: -84.7800
 zipSample: ["48859", "48858"]
 zipCodes: ["48859", "48858"]
 localPaths: ["Isabella County / primary ZIP 48858", "Isabella County / ZIP 48858 sector", "Isabella County / elevation 787 ft band", "Isabella County / coords 43.6000, -84.7800", "Isabella County / ZIP 48859 sector"]
+zillowHomeValueUsd: 220289
 ---
 
 **Engineering Notice for Mount Pleasant:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Isabella County.

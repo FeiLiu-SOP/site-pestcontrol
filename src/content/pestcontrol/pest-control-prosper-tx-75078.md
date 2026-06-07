@@ -11,6 +11,7 @@ lng: -96.8100
 zipSample: ["75078"]
 zipCodes: ["75078"]
 localPaths: ["Collin County / ZIP 75078 sector", "Collin County / elevation 653 ft band", "Collin County / primary ZIP 75078", "Collin County / coords 33.2400, -96.8100"]
+zillowHomeValueUsd: 755849
 ---
 
 **Engineering Notice for Prosper:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Collin County.

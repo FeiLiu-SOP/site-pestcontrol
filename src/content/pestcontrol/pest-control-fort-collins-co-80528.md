@@ -11,6 +11,7 @@ lng: -105.0700
 zipSample: ["80527", "80528", "80521", "80523", "80526"]
 zipCodes: ["80524", "80528", "80526", "80527", "80553", "80525", "80523", "80521"]
 localPaths: ["Larimer County / ZIP 80527 sector", "Larimer County / ZIP 80526 sector", "Larimer County / ZIP 80521 sector", "Larimer County / coords 40.5500, -105.0700", "Larimer County / ZIP 80523 sector"]
+zillowHomeValueUsd: 648745
 ---
 
 **Engineering Notice for Fort Collins:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Larimer County.

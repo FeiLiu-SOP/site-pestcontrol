@@ -11,6 +11,7 @@ lng: -119.8600
 zipSample: ["93118", "93117"]
 zipCodes: ["93117", "93118"]
 localPaths: ["Santa Barbara County / primary ZIP 93117", "Santa Barbara County / ZIP 93118 sector", "Santa Barbara County / elevation 46 ft band", "Santa Barbara County / ZIP 93117 sector", "Santa Barbara County / coords 34.4400, -119.8600"]
+zillowHomeValueUsd: 1378726
 ---
 
 **Engineering Notice for Goleta:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Barbara County.

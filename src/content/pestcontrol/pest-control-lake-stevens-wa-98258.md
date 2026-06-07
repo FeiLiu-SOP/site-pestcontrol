@@ -11,6 +11,7 @@ lng: -122.1000
 zipSample: ["98258"]
 zipCodes: ["98258"]
 localPaths: ["Snohomish County / primary ZIP 98258", "Snohomish County / coords 48.0000, -122.1000", "Snohomish County / elevation 262 ft band", "Snohomish County / ZIP 98258 sector"]
+zillowHomeValueUsd: 714389
 ---
 
 **Engineering Notice for Lake Stevens:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Snohomish County.

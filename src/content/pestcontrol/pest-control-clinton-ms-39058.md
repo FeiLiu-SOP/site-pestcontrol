@@ -11,6 +11,7 @@ lng: -90.3400
 zipSample: ["39056", "39058"]
 zipCodes: ["39056", "39058"]
 localPaths: ["Hinds County / ZIP 39056 sector", "Hinds County / primary ZIP 39058", "Hinds County / elevation 348 ft band", "Hinds County / ZIP 39058 sector", "Hinds County / coords 32.3500, -90.3400"]
+zillowHomeValueUsd: 237850
 ---
 
 **Engineering Notice for Clinton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hinds County.

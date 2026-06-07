@@ -11,6 +11,7 @@ lng: -96.8800
 zipSample: ["75244", "75234", "75381"]
 zipCodes: ["75234", "75244", "75381"]
 localPaths: ["Dallas County / ZIP 75381 sector", "Dallas County / primary ZIP 75234", "Dallas County / ZIP 75244 sector", "Dallas County / ZIP 75234 sector", "Dallas County / coords 32.9300, -96.8800"]
+zillowHomeValueUsd: 360946
 ---
 
 **Engineering Notice for Farmers Branch:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.

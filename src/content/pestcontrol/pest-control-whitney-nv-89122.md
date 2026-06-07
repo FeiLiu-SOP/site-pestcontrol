@@ -11,6 +11,7 @@ lng: -115.0400
 zipSample: ["89122"]
 zipCodes: ["89122"]
 localPaths: ["Clark County / ZIP 89122 sector", "Clark County / elevation 1667 ft band", "Clark County / coords 36.1000, -115.0400", "Clark County / primary ZIP 89122"]
+zillowHomeValueUsd: 356248
 ---
 
 **Engineering Notice for Whitney:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.

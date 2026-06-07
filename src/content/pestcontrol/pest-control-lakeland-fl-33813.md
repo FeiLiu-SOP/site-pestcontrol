@@ -11,6 +11,7 @@ lng: -81.9500
 zipSample: ["33805", "33801", "33803", "33806", "33813"]
 zipCodes: ["33801", "33811", "33815", "33806", "33802", "33804", "33803", "33813", "33805"]
 localPaths: ["Polk County / ZIP 33801 sector", "Polk County / coords 28.0600, -81.9500", "Polk County / primary ZIP 33813", "Polk County / ZIP 33813 sector", "Polk County / ZIP 33806 sector"]
+zillowHomeValueUsd: 369285
 ---
 
 **Engineering Notice for Lakeland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Polk County.

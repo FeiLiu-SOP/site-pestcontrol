@@ -11,6 +11,7 @@ lng: -86.4700
 zipSample: ["37066"]
 zipCodes: ["37066"]
 localPaths: ["Sumner County / coords 36.3800, -86.4700", "Sumner County / primary ZIP 37066", "Sumner County / elevation 515 ft band", "Sumner County / ZIP 37066 sector"]
+zillowHomeValueUsd: 440268
 ---
 
 **Engineering Notice for Gallatin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sumner County.

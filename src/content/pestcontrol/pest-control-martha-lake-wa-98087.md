@@ -11,6 +11,7 @@ lng: -122.2300
 zipSample: ["98208", "98012", "98087", "98037"]
 zipCodes: ["98012", "98037", "98087", "98208"]
 localPaths: ["Snohomish County / elevation 456 ft band", "Snohomish County / ZIP 98087 sector", "Snohomish County / primary ZIP 98087", "Snohomish County / ZIP 98037 sector", "Snohomish County / ZIP 98012 sector"]
+zillowHomeValueUsd: 751087
 ---
 
 **Engineering Notice for Martha Lake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Snohomish County.

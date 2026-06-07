@@ -11,6 +11,7 @@ lng: -104.9100
 zipSample: ["80111", "80121"]
 zipCodes: ["80111", "80121"]
 localPaths: ["Arapahoe County / primary ZIP 80121", "Arapahoe County / elevation 5646 ft band", "Arapahoe County / ZIP 80111 sector", "Arapahoe County / coords 39.6200, -104.9100", "Arapahoe County / ZIP 80121 sector"]
+zillowHomeValueUsd: 698150
 ---
 
 **Engineering Notice for Greenwood Village:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Arapahoe County.

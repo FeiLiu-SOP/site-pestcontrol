@@ -11,6 +11,7 @@ lng: -112.3600
 zipSample: ["85139", "85326", "85338", "85395"]
 zipCodes: ["85139", "85395", "85338", "85326"]
 localPaths: ["Maricopa County / ZIP 85395 sector", "Maricopa County / elevation 1217 ft band", "Maricopa County / ZIP 85139 sector", "Maricopa County / primary ZIP 85139", "Maricopa County / ZIP 85326 sector"]
+zillowHomeValueUsd: 340091
 ---
 
 **Engineering Notice for Goodyear:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Maricopa County.

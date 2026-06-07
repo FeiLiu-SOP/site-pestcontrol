@@ -11,6 +11,7 @@ lng: -81.5400
 zipSample: ["26103", "26104", "26101"]
 zipCodes: ["26104", "26101", "26103"]
 localPaths: ["Wood County / ZIP 26103 sector", "Wood County / ZIP 26104 sector", "Wood County / primary ZIP 26104", "Wood County / ZIP 26101 sector", "Wood County / coords 39.2600, -81.5400"]
+zillowHomeValueUsd: 172468
 ---
 
 **Engineering Notice for Parkersburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wood County.

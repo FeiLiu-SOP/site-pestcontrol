@@ -11,6 +11,7 @@ lng: -84.2100
 zipSample: ["30071"]
 zipCodes: ["30071"]
 localPaths: ["Gwinnett County / elevation 991 ft band", "Gwinnett County / coords 33.9400, -84.2100", "Gwinnett County / primary ZIP 30071", "Gwinnett County / ZIP 30071 sector"]
+zillowHomeValueUsd: 360250
 ---
 
 **Engineering Notice for Norcross:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gwinnett County.

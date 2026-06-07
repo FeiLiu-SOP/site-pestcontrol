@@ -11,6 +11,7 @@ lng: -90.3300
 zipSample: ["63123"]
 zipCodes: ["63123"]
 localPaths: ["St. Louis County / primary ZIP 63123", "St. Louis County / elevation 558 ft band", "St. Louis County / coords 38.5500, -90.3300", "St. Louis County / ZIP 63123 sector"]
+zillowHomeValueUsd: 243542
 ---
 
 **Engineering Notice for Affton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.

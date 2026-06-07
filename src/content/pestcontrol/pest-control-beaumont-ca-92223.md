@@ -11,6 +11,7 @@ lng: -116.9800
 zipSample: ["92223"]
 zipCodes: ["92223"]
 localPaths: ["Riverside County / coords 33.9100, -116.9800", "Riverside County / ZIP 92223 sector", "Riverside County / elevation 2602 ft band", "Riverside County / primary ZIP 92223"]
+zillowHomeValueUsd: 537357
 ---
 
 **Engineering Notice for Beaumont:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.

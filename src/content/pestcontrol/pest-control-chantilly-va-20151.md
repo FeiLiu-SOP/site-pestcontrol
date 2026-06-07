@@ -11,6 +11,7 @@ lng: -77.4500
 zipSample: ["20151", "20153"]
 zipCodes: ["20153", "20151"]
 localPaths: ["Fairfax County / primary ZIP 20151", "Fairfax County / ZIP 20151 sector", "Fairfax County / coords 38.8900, -77.4500", "Fairfax County / ZIP 20153 sector", "Fairfax County / elevation 285 ft band"]
+zillowHomeValueUsd: 763356
 ---
 
 **Engineering Notice for Chantilly:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.

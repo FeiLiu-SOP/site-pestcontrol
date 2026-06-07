@@ -11,6 +11,7 @@ lng: -88.8600
 zipSample: ["61008"]
 zipCodes: ["61008"]
 localPaths: ["Boone County / elevation 771 ft band", "Boone County / primary ZIP 61008", "Boone County / coords 42.2500, -88.8600", "Boone County / ZIP 61008 sector"]
+zillowHomeValueUsd: 258037
 ---
 
 **Engineering Notice for Belvidere:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Boone County.

@@ -11,6 +11,7 @@ lng: -98.6900
 zipSample: ["58402", "58401", "58405"]
 zipCodes: ["58402", "58401", "58405"]
 localPaths: ["Stutsman County / primary ZIP 58401", "Stutsman County / coords 46.9100, -98.6900", "Stutsman County / ZIP 58405 sector", "Stutsman County / ZIP 58401 sector", "Stutsman County / ZIP 58402 sector"]
+zillowHomeValueUsd: 230264
 ---
 
 **Engineering Notice for Jamestown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Stutsman County.

@@ -11,6 +11,7 @@ lng: -82.7200
 zipSample: ["43062", "43073"]
 zipCodes: ["43062", "43073"]
 localPaths: ["Licking County / ZIP 43073 sector", "Licking County / elevation 1024 ft band", "Licking County / coords 40.0100, -82.7200", "Licking County / primary ZIP 43062", "Licking County / ZIP 43062 sector"]
+zillowHomeValueUsd: 383653
 ---
 
 **Engineering Notice for Pataskala:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Licking County.

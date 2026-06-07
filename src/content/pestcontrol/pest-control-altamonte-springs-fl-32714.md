@@ -11,6 +11,7 @@ lng: -81.4000
 zipSample: ["32716", "32701", "32715", "32714"]
 zipCodes: ["32701", "32714", "32715", "32716"]
 localPaths: ["Seminole County / ZIP 32701 sector", "Seminole County / coords 28.6600, -81.4000", "Seminole County / elevation 102 ft band", "Seminole County / ZIP 32714 sector", "Seminole County / primary ZIP 32714"]
+zillowHomeValueUsd: 302999
 ---
 
 **Engineering Notice for Altamonte Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Seminole County.

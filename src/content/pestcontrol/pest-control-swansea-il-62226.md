@@ -11,6 +11,7 @@ lng: -89.9900
 zipSample: ["62226"]
 zipCodes: ["62226"]
 localPaths: ["St. Clair County / ZIP 62226 sector", "St. Clair County / coords 38.5500, -89.9900", "St. Clair County / elevation 574 ft band", "St. Clair County / primary ZIP 62226"]
+zillowHomeValueUsd: 180659
 ---
 
 **Engineering Notice for Swansea:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Clair County.

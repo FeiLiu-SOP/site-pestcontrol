@@ -11,6 +11,7 @@ lng: -107.7500
 zipSample: ["88030", "88031"]
 zipCodes: ["88031", "88030"]
 localPaths: ["Luna County / coords 32.2600, -107.7500", "Luna County / elevation 4334 ft band", "Luna County / ZIP 88030 sector", "Luna County / ZIP 88031 sector", "Luna County / primary ZIP 88030"]
+zillowHomeValueUsd: 163704
 ---
 
 **Engineering Notice for Deming:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Luna County.

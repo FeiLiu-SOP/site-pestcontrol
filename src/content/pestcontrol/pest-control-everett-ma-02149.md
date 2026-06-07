@@ -11,6 +11,7 @@ lng: -71.0500
 zipSample: ["02149"]
 zipCodes: ["02149"]
 localPaths: ["Middlesex County / ZIP 02149 sector", "Middlesex County / elevation 49 ft band", "Middlesex County / coords 42.4100, -71.0500", "Middlesex County / primary ZIP 02149"]
+zillowHomeValueUsd: 639355
 ---
 
 **Engineering Notice for Everett:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.

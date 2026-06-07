@@ -11,6 +11,7 @@ lng: -90.0900
 zipSample: ["70448", "70470", "70471"]
 zipCodes: ["70470", "70448", "70471"]
 localPaths: ["St. Tammany Parish / ZIP 70448 sector", "St. Tammany Parish / elevation 43 ft band", "St. Tammany Parish / ZIP 70470 sector", "St. Tammany Parish / ZIP 70471 sector", "St. Tammany Parish / coords 30.3800, -90.0900"]
+zillowHomeValueUsd: 335205
 ---
 
 **Engineering Notice for Mandeville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Tammany Parish.

@@ -11,6 +11,7 @@ lng: -96.6300
 zipSample: ["75040", "75047", "75042", "75049", "75041"]
 zipCodes: ["75049", "75042", "75043", "75044", "75041", "75047", "75046", "75040"]
 localPaths: ["Dallas County / ZIP 75049 sector", "Dallas County / ZIP 75042 sector", "Dallas County / elevation 535 ft band", "Dallas County / coords 32.9100, -96.6300", "Dallas County / ZIP 75041 sector"]
+zillowHomeValueUsd: 289506
 ---
 
 **Engineering Notice for Garland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.

@@ -11,6 +11,7 @@ lng: -93.4400
 zipSample: ["65619", "65738", "65802"]
 zipCodes: ["65619", "65802", "65738"]
 localPaths: ["Greene County / ZIP 65619 sector", "Greene County / elevation 1273 ft band", "Greene County / coords 37.1500, -93.4400", "Greene County / ZIP 65738 sector", "Greene County / primary ZIP 65738"]
+zillowHomeValueUsd: 266739
 ---
 
 **Engineering Notice for Republic:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Greene County.

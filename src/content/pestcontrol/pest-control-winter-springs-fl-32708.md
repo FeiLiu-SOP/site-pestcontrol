@@ -11,6 +11,7 @@ lng: -81.2700
 zipSample: ["32708", "32719"]
 zipCodes: ["32719", "32708"]
 localPaths: ["Seminole County / ZIP 32708 sector", "Seminole County / elevation 79 ft band", "Seminole County / primary ZIP 32708", "Seminole County / coords 28.6900, -81.2700", "Seminole County / ZIP 32719 sector"]
+zillowHomeValueUsd: 423573
 ---
 
 **Engineering Notice for Winter Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Seminole County.

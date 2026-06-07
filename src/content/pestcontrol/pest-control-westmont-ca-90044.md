@@ -11,6 +11,7 @@ lng: -118.3000
 zipSample: ["90044", "90047"]
 zipCodes: ["90047", "90044"]
 localPaths: ["Los Angeles County / coords 33.9400, -118.3000", "Los Angeles County / ZIP 90044 sector", "Los Angeles County / ZIP 90047 sector", "Los Angeles County / primary ZIP 90044", "Los Angeles County / elevation 217 ft band"]
+zillowHomeValueUsd: 646527
 ---
 
 **Engineering Notice for Westmont:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

@@ -11,6 +11,7 @@ lng: -87.6900
 zipSample: ["60466"]
 zipCodes: ["60466"]
 localPaths: ["Cook County / elevation 725 ft band", "Cook County / ZIP 60466 sector", "Cook County / coords 41.4800, -87.6900", "Cook County / primary ZIP 60466"]
+zillowHomeValueUsd: 149948
 ---
 
 **Engineering Notice for Park Forest:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

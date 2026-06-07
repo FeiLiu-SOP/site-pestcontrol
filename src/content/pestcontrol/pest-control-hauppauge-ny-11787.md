@@ -11,6 +11,7 @@ lng: -73.2100
 zipSample: ["11787", "11760", "11788"]
 zipCodes: ["11787", "11760", "11788"]
 localPaths: ["Suffolk County / coords 40.8200, -73.2100", "Suffolk County / primary ZIP 11787", "Suffolk County / ZIP 11787 sector", "Suffolk County / elevation 82 ft band", "Suffolk County / ZIP 11760 sector"]
+zillowHomeValueUsd: 794494
 ---
 
 **Engineering Notice for Hauppauge:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

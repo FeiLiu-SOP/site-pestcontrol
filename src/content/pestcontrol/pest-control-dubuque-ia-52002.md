@@ -11,6 +11,7 @@ lng: -90.7100
 zipSample: ["52001", "52004", "52002", "52099", "52003"]
 zipCodes: ["52001", "52002", "52099", "52004", "52003"]
 localPaths: ["Dubuque County / ZIP 52099 sector", "Dubuque County / ZIP 52001 sector", "Dubuque County / primary ZIP 52002", "Dubuque County / elevation 820 ft band", "Dubuque County / ZIP 52003 sector"]
+zillowHomeValueUsd: 339215
 ---
 
 **Engineering Notice for Dubuque:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dubuque County.

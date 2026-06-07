@@ -11,6 +11,7 @@ lng: -81.0100
 zipSample: ["28236", "28012", "28120"]
 zipCodes: ["28012", "28120", "28236"]
 localPaths: ["Gaston County / coords 35.3100, -81.0100", "Gaston County / ZIP 28236 sector", "Gaston County / elevation 666 ft band", "Gaston County / ZIP 28012 sector", "Gaston County / ZIP 28120 sector"]
+zillowHomeValueUsd: 366785
 ---
 
 **Engineering Notice for Mount Holly:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gaston County.

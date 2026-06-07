@@ -11,6 +11,7 @@ lng: -121.9800
 zipSample: ["95062", "95065"]
 zipCodes: ["95062", "95065"]
 localPaths: ["Santa Cruz County / coords 36.9900, -121.9800", "Santa Cruz County / ZIP 95062 sector", "Santa Cruz County / ZIP 95065 sector", "Santa Cruz County / elevation 112 ft band", "Santa Cruz County / primary ZIP 95065"]
+zillowHomeValueUsd: 1351091
 ---
 
 **Engineering Notice for Live Oak:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Cruz County.

@@ -11,6 +11,7 @@ lng: -93.4100
 zipSample: ["55343", "55305"]
 zipCodes: ["55343", "55305"]
 localPaths: ["Hennepin County / ZIP 55343 sector", "Hennepin County / coords 44.9300, -93.4100", "Hennepin County / ZIP 55305 sector", "Hennepin County / primary ZIP 55343", "Hennepin County / elevation 919 ft band"]
+zillowHomeValueUsd: 344952
 ---
 
 **Engineering Notice for Hopkins:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hennepin County.

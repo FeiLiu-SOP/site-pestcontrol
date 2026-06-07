@@ -11,6 +11,7 @@ lng: -72.3000
 zipSample: ["03431", "03435"]
 zipCodes: ["03435", "03431"]
 localPaths: ["Cheshire County / primary ZIP 03431", "Cheshire County / ZIP 03435 sector", "Cheshire County / coords 42.9500, -72.3000", "Cheshire County / elevation 509 ft band", "Cheshire County / ZIP 03431 sector"]
+zillowHomeValueUsd: 342891
 ---
 
 **Engineering Notice for Keene:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cheshire County.

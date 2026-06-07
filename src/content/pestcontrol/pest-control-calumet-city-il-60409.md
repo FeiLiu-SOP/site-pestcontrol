@@ -11,6 +11,7 @@ lng: -87.5500
 zipSample: ["60409"]
 zipCodes: ["60409"]
 localPaths: ["Cook County / ZIP 60409 sector", "Cook County / primary ZIP 60409", "Cook County / coords 41.6100, -87.5500", "Cook County / elevation 597 ft band"]
+zillowHomeValueUsd: 150632
 ---
 
 **Engineering Notice for Calumet City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

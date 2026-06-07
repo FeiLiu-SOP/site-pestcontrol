@@ -11,6 +11,7 @@ lng: -82.9900
 zipSample: ["43004", "43272", "43223", "43202", "43203"]
 zipCodes: ["43110", "43251", "43210", "43272", "43201", "43205", "43109", "43017", "43268", "43229", "43260", "43204"]
 localPaths: ["Franklin County / primary ZIP 43109", "Franklin County / ZIP 43004 sector", "Franklin County / coords 39.9900, -82.9900", "Franklin County / ZIP 43272 sector", "Franklin County / ZIP 43223 sector"]
+zillowHomeValueUsd: 274429
 ---
 
 **Engineering Notice for Columbus:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Franklin County.

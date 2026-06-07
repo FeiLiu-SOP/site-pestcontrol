@@ -11,6 +11,7 @@ lng: -118.6700
 zipSample: ["91372", "91302"]
 zipCodes: ["91372", "91302"]
 localPaths: ["Los Angeles County / ZIP 91372 sector", "Los Angeles County / coords 34.1400, -118.6700", "Los Angeles County / ZIP 91302 sector", "Los Angeles County / elevation 1430 ft band", "Los Angeles County / primary ZIP 91302"]
+zillowHomeValueUsd: 1958279
 ---
 
 **Engineering Notice for Calabasas:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

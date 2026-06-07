@@ -11,6 +11,7 @@ lng: -91.1200
 zipSample: ["52601"]
 zipCodes: ["52601"]
 localPaths: ["Des Moines County / elevation 643 ft band", "Des Moines County / primary ZIP 52601", "Des Moines County / coords 40.8100, -91.1200", "Des Moines County / ZIP 52601 sector"]
+zillowHomeValueUsd: 124209
 ---
 
 **Engineering Notice for Burlington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Des Moines County.

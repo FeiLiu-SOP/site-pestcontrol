@@ -11,6 +11,7 @@ lng: -117.9700
 zipSample: ["91745", "91716"]
 zipCodes: ["91716", "91745"]
 localPaths: ["Los Angeles County / primary ZIP 91745", "Los Angeles County / ZIP 91716 sector", "Los Angeles County / ZIP 91745 sector", "Los Angeles County / coords 34.0000, -117.9700", "Los Angeles County / elevation 423 ft band"]
+zillowHomeValueUsd: 962686
 ---
 
 **Engineering Notice for Hacienda Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

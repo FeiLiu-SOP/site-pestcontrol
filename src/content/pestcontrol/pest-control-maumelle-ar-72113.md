@@ -11,6 +11,7 @@ lng: -92.4000
 zipSample: ["72113"]
 zipCodes: ["72113"]
 localPaths: ["Pulaski County / coords 34.8500, -92.4000", "Pulaski County / ZIP 72113 sector", "Pulaski County / elevation 299 ft band", "Pulaski County / primary ZIP 72113"]
+zillowHomeValueUsd: 303746
 ---
 
 **Engineering Notice for Maumelle:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pulaski County.

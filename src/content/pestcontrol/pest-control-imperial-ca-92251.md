@@ -11,6 +11,7 @@ lng: -115.5700
 zipSample: ["92251"]
 zipCodes: ["92251"]
 localPaths: ["Imperial County / elevation -57 ft band", "Imperial County / primary ZIP 92251", "Imperial County / coords 32.8400, -115.5700", "Imperial County / ZIP 92251 sector"]
+zillowHomeValueUsd: 436906
 ---
 
 **Engineering Notice for Imperial:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Imperial County.

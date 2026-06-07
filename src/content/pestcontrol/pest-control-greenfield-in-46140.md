@@ -11,6 +11,7 @@ lng: -85.7700
 zipSample: ["46140"]
 zipCodes: ["46140"]
 localPaths: ["Hancock County / coords 39.7900, -85.7700", "Hancock County / primary ZIP 46140", "Hancock County / elevation 892 ft band", "Hancock County / ZIP 46140 sector"]
+zillowHomeValueUsd: 291803
 ---
 
 **Engineering Notice for Greenfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hancock County.

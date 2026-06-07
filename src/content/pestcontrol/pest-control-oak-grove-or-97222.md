@@ -11,6 +11,7 @@ lng: -122.6300
 zipSample: ["97267", "97222", "97268"]
 zipCodes: ["97222", "97268", "97267"]
 localPaths: ["Clackamas County / primary ZIP 97222", "Clackamas County / ZIP 97267 sector", "Clackamas County / ZIP 97222 sector", "Clackamas County / ZIP 97268 sector", "Clackamas County / elevation 210 ft band"]
+zillowHomeValueUsd: 495451
 ---
 
 **Engineering Notice for Oak Grove:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clackamas County.

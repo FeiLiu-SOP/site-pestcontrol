@@ -11,6 +11,7 @@ lng: -74.1600
 zipSample: ["07502", "07543", "07522", "07507", "07509"]
 zipCodes: ["07522", "07514", "07509", "07504", "07544", "07505", "07507", "07503", "07513", "07543", "07533", "07501"]
 localPaths: ["Passaic County / coords 40.9100, -74.1600", "Passaic County / ZIP 07502 sector", "Passaic County / ZIP 07543 sector", "Passaic County / ZIP 07522 sector", "Passaic County / primary ZIP 07522"]
+zillowHomeValueUsd: 480770
 ---
 
 **Engineering Notice for Paterson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Passaic County.

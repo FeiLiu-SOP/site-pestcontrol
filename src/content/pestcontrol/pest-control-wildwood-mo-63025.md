@@ -11,6 +11,7 @@ lng: -90.6700
 zipSample: ["63005", "63021", "63038", "63011", "63069"]
 zipCodes: ["63025", "63021", "63069", "63005", "63011", "63038", "63040"]
 localPaths: ["St. Louis County / ZIP 63005 sector", "St. Louis County / ZIP 63038 sector", "St. Louis County / ZIP 63021 sector", "St. Louis County / coords 38.5800, -90.6700", "St. Louis County / ZIP 63011 sector"]
+zillowHomeValueUsd: 415532
 ---
 
 **Engineering Notice for Wildwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.

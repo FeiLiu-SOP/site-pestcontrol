@@ -11,6 +11,7 @@ lng: -123.1000
 zipSample: ["97322", "97321"]
 zipCodes: ["97321", "97322"]
 localPaths: ["Linn County / elevation 230 ft band", "Linn County / primary ZIP 97321", "Linn County / ZIP 97321 sector", "Linn County / coords 44.6300, -123.1000", "Linn County / ZIP 97322 sector"]
+zillowHomeValueUsd: 508992
 ---
 
 **Engineering Notice for Albany:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Linn County.

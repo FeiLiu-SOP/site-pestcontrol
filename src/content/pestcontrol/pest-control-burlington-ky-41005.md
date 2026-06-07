@@ -11,6 +11,7 @@ lng: -84.7200
 zipSample: ["41005"]
 zipCodes: ["41005"]
 localPaths: ["Boone County / primary ZIP 41005", "Boone County / elevation 837 ft band", "Boone County / coords 39.0200, -84.7200", "Boone County / ZIP 41005 sector"]
+zillowHomeValueUsd: 323806
 ---
 
 **Engineering Notice for Burlington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Boone County.

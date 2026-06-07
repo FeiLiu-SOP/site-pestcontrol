@@ -11,6 +11,7 @@ lng: -118.4000
 zipSample: ["90254"]
 zipCodes: ["90254"]
 localPaths: ["Los Angeles County / primary ZIP 90254", "Los Angeles County / elevation 59 ft band", "Los Angeles County / coords 33.8700, -118.4000", "Los Angeles County / ZIP 90254 sector"]
+zillowHomeValueUsd: 2237787
 ---
 
 **Engineering Notice for Hermosa Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

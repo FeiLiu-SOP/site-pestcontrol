@@ -11,6 +11,7 @@ lng: -78.1800
 zipSample: ["22630"]
 zipCodes: ["22630"]
 localPaths: ["Warren County / elevation 561 ft band", "Warren County / primary ZIP 22630", "Warren County / coords 38.9300, -78.1800", "Warren County / ZIP 22630 sector"]
+zillowHomeValueUsd: 403049
 ---
 
 **Engineering Notice for Front Royal:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Warren County.

@@ -11,6 +11,7 @@ lng: -72.8200
 zipSample: ["06492", "06494"]
 zipCodes: ["06492", "06494"]
 localPaths: ["South Central Connecticut County / ZIP 06494 sector", "South Central Connecticut County / elevation 128 ft band", "South Central Connecticut County / primary ZIP 06492", "South Central Connecticut County / ZIP 06492 sector", "South Central Connecticut County / coords 41.4500, -72.8200"]
+zillowHomeValueUsd: 412635
 ---
 
 **Engineering Notice for Wallingford Center:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: South Central Connecticut County.

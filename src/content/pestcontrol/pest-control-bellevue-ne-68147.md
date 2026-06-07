@@ -11,6 +11,7 @@ lng: -95.9400
 zipSample: ["68005", "68157", "68147", "68123"]
 zipCodes: ["68147", "68005", "68157", "68123"]
 localPaths: ["Sarpy County / elevation 991 ft band", "Sarpy County / ZIP 68157 sector", "Sarpy County / ZIP 68147 sector", "Sarpy County / ZIP 68123 sector", "Sarpy County / coords 41.1500, -95.9400"]
+zillowHomeValueUsd: 249306
 ---
 
 **Engineering Notice for Bellevue:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sarpy County.

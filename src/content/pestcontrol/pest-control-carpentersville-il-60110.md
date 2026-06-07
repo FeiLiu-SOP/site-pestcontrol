@@ -11,6 +11,7 @@ lng: -88.2900
 zipSample: ["60110"]
 zipCodes: ["60110"]
 localPaths: ["Kane County / ZIP 60110 sector", "Kane County / elevation 722 ft band", "Kane County / primary ZIP 60110", "Kane County / coords 42.1200, -88.2900"]
+zillowHomeValueUsd: 284251
 ---
 
 **Engineering Notice for Carpentersville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kane County.

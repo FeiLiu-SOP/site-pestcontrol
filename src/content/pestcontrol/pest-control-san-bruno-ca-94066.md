@@ -11,6 +11,7 @@ lng: -122.4300
 zipSample: ["94066"]
 zipCodes: ["94066"]
 localPaths: ["San Mateo County / ZIP 94066 sector", "San Mateo County / coords 37.6300, -122.4300", "San Mateo County / primary ZIP 94066", "San Mateo County / elevation 331 ft band"]
+zillowHomeValueUsd: 1329650
 ---
 
 **Engineering Notice for San Bruno:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Mateo County.

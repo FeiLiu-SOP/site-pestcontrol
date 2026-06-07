@@ -11,6 +11,7 @@ lng: -88.2100
 zipSample: ["36619", "36582"]
 zipCodes: ["36582", "36619"]
 localPaths: ["Mobile County / ZIP 36619 sector", "Mobile County / elevation 174 ft band", "Mobile County / primary ZIP 36582", "Mobile County / coords 30.5800, -88.2100", "Mobile County / ZIP 36582 sector"]
+zillowHomeValueUsd: 203030
 ---
 
 **Engineering Notice for Tillmans Corner:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Mobile County.

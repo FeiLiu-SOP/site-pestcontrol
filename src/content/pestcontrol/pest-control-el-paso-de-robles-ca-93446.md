@@ -11,6 +11,7 @@ lng: -120.6600
 zipSample: ["93447", "93446"]
 zipCodes: ["93446", "93447"]
 localPaths: ["San Luis Obispo County / ZIP 93446 sector", "San Luis Obispo County / elevation 840 ft band", "San Luis Obispo County / ZIP 93447 sector", "San Luis Obispo County / coords 35.6400, -120.6600", "San Luis Obispo County / primary ZIP 93446"]
+zillowHomeValueUsd: 772320
 ---
 
 **Engineering Notice for El Paso de Robles:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Luis Obispo County.

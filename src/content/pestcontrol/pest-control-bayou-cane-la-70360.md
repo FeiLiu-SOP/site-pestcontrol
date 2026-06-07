@@ -11,6 +11,7 @@ lng: -90.7500
 zipSample: ["70364", "70360"]
 zipCodes: ["70364", "70360"]
 localPaths: ["Terrebonne Parish / ZIP 70364 sector", "Terrebonne Parish / elevation 16 ft band", "Terrebonne Parish / primary ZIP 70360", "Terrebonne Parish / coords 29.6200, -90.7500", "Terrebonne Parish / ZIP 70360 sector"]
+zillowHomeValueUsd: 263201
 ---
 
 **Engineering Notice for Bayou Cane:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Terrebonne Parish.

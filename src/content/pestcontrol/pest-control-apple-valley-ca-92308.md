@@ -11,6 +11,7 @@ lng: -117.2100
 zipSample: ["92307", "92308"]
 zipCodes: ["92308", "92307"]
 localPaths: ["San Bernardino County / ZIP 92308 sector", "San Bernardino County / coords 34.5400, -117.2100", "San Bernardino County / ZIP 92307 sector", "San Bernardino County / elevation 2927 ft band", "San Bernardino County / primary ZIP 92308"]
+zillowHomeValueUsd: 412269
 ---
 
 **Engineering Notice for Apple Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.

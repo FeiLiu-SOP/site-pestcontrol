@@ -11,6 +11,7 @@ lng: -87.7300
 zipSample: ["60091"]
 zipCodes: ["60091"]
 localPaths: ["Cook County / elevation 646 ft band", "Cook County / ZIP 60091 sector", "Cook County / coords 42.0800, -87.7300", "Cook County / primary ZIP 60091"]
+zillowHomeValueUsd: 960790
 ---
 
 **Engineering Notice for Wilmette:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

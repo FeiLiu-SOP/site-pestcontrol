@@ -11,6 +11,7 @@ lng: -87.9800
 zipSample: ["60181"]
 zipCodes: ["60181"]
 localPaths: ["DuPage County / primary ZIP 60181", "DuPage County / elevation 705 ft band", "DuPage County / ZIP 60181 sector", "DuPage County / coords 41.8900, -87.9800"]
+zillowHomeValueUsd: 358473
 ---
 
 **Engineering Notice for Villa Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.

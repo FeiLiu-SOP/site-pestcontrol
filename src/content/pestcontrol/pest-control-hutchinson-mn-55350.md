@@ -11,6 +11,7 @@ lng: -94.3800
 zipSample: ["55350"]
 zipCodes: ["55350"]
 localPaths: ["McLeod County / primary ZIP 55350", "McLeod County / coords 44.8900, -94.3800", "McLeod County / ZIP 55350 sector", "McLeod County / elevation 1079 ft band"]
+zillowHomeValueUsd: 293383
 ---
 
 **Engineering Notice for Hutchinson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: McLeod County.

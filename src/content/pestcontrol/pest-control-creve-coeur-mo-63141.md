@@ -11,6 +11,7 @@ lng: -90.4400
 zipSample: ["63141", "63167"]
 zipCodes: ["63141", "63167"]
 localPaths: ["St. Louis County / ZIP 63167 sector", "St. Louis County / elevation 627 ft band", "St. Louis County / coords 38.6600, -90.4400", "St. Louis County / ZIP 63141 sector", "St. Louis County / primary ZIP 63141"]
+zillowHomeValueUsd: 653043
 ---
 
 **Engineering Notice for Creve Coeur:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.

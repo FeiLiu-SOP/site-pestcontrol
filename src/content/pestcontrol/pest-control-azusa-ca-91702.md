@@ -11,6 +11,7 @@ lng: -117.9100
 zipSample: ["91702", "91010"]
 zipCodes: ["91010", "91702"]
 localPaths: ["Los Angeles County / ZIP 91702 sector", "Los Angeles County / primary ZIP 91702", "Los Angeles County / ZIP 91010 sector", "Los Angeles County / coords 34.1400, -117.9100", "Los Angeles County / elevation 646 ft band"]
+zillowHomeValueUsd: 715434
 ---
 
 **Engineering Notice for Azusa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

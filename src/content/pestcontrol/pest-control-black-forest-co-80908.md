@@ -11,6 +11,7 @@ lng: -104.6800
 zipSample: ["80106", "80912", "80908"]
 zipCodes: ["80106", "80908", "80912"]
 localPaths: ["El Paso County / ZIP 80106 sector", "El Paso County / coords 39.0600, -104.6800", "El Paso County / elevation 7598 ft band", "El Paso County / ZIP 80912 sector", "El Paso County / primary ZIP 80908"]
+zillowHomeValueUsd: 673318
 ---
 
 **Engineering Notice for Black Forest:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: El Paso County.

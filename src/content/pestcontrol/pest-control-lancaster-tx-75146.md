@@ -11,6 +11,7 @@ lng: -96.7700
 zipSample: ["75134", "75146"]
 zipCodes: ["75146", "75134"]
 localPaths: ["Dallas County / coords 32.5900, -96.7700", "Dallas County / primary ZIP 75146", "Dallas County / ZIP 75134 sector", "Dallas County / elevation 531 ft band", "Dallas County / ZIP 75146 sector"]
+zillowHomeValueUsd: 281226
 ---
 
 **Engineering Notice for Lancaster:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.

@@ -11,6 +11,7 @@ lng: -80.1700
 zipSample: ["33081", "33021", "33004", "33023", "33312"]
 zipCodes: ["33081", "33020", "33022", "33302", "33312", "33316", "33004", "33082", "33023", "33019", "33021", "33024"]
 localPaths: ["Broward County / ZIP 33081 sector", "Broward County / ZIP 33312 sector", "Broward County / ZIP 33004 sector", "Broward County / coords 26.0300, -80.1700", "Broward County / ZIP 33023 sector"]
+zillowHomeValueUsd: 465758
 ---
 
 **Engineering Notice for Hollywood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.

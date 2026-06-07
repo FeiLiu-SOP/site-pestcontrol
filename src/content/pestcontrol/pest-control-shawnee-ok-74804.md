@@ -11,6 +11,7 @@ lng: -96.9600
 zipSample: ["74804", "74801", "74802"]
 zipCodes: ["74801", "74802", "74804"]
 localPaths: ["Pottawatomie County / ZIP 74801 sector", "Pottawatomie County / ZIP 74804 sector", "Pottawatomie County / elevation 1047 ft band", "Pottawatomie County / primary ZIP 74804", "Pottawatomie County / ZIP 74802 sector"]
+zillowHomeValueUsd: 226527
 ---
 
 **Engineering Notice for Shawnee:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pottawatomie County.

@@ -11,6 +11,7 @@ lng: -96.6200
 zipSample: ["75092", "75091", "75090"]
 zipCodes: ["75092", "75091", "75090"]
 localPaths: ["Grayson County / ZIP 75091 sector", "Grayson County / ZIP 75090 sector", "Grayson County / coords 33.6300, -96.6200", "Grayson County / primary ZIP 75092", "Grayson County / elevation 692 ft band"]
+zillowHomeValueUsd: 291267
 ---
 
 **Engineering Notice for Sherman:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Grayson County.

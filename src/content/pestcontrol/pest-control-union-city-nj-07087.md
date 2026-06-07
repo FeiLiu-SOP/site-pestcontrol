@@ -11,6 +11,7 @@ lng: -74.0300
 zipSample: ["07087"]
 zipCodes: ["07087"]
 localPaths: ["Hudson County / coords 40.7700, -74.0300", "Hudson County / elevation 210 ft band", "Hudson County / primary ZIP 07087", "Hudson County / ZIP 07087 sector"]
+zillowHomeValueUsd: 567885
 ---
 
 **Engineering Notice for Union City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hudson County.

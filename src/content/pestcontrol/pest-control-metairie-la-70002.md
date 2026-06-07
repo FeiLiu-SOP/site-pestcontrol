@@ -11,6 +11,7 @@ lng: -90.1800
 zipSample: ["70006", "70005", "70003", "70001", "70055"]
 zipCodes: ["70005", "70003", "70004", "70010", "70006", "70002", "70011", "70001", "70009", "70033", "70055"]
 localPaths: ["Jefferson Parish / ZIP 70005 sector", "Jefferson Parish / ZIP 70001 sector", "Jefferson Parish / coords 30.0000, -90.1800", "Jefferson Parish / ZIP 70006 sector", "Jefferson Parish / elevation 10 ft band"]
+zillowHomeValueUsd: 346913
 ---
 
 **Engineering Notice for Metairie:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson Parish.

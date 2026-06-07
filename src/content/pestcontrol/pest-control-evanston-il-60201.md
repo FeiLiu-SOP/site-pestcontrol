@@ -11,6 +11,7 @@ lng: -87.6900
 zipSample: ["60202", "60204", "60201", "60208"]
 zipCodes: ["60202", "60208", "60201", "60204"]
 localPaths: ["Cook County / elevation 614 ft band", "Cook County / coords 42.0500, -87.6900", "Cook County / ZIP 60202 sector", "Cook County / primary ZIP 60201", "Cook County / ZIP 60204 sector"]
+zillowHomeValueUsd: 556329
 ---
 
 **Engineering Notice for Evanston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

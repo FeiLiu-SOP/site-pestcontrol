@@ -11,6 +11,7 @@ lng: -75.0700
 zipSample: ["13820"]
 zipCodes: ["13820"]
 localPaths: ["Otsego County / primary ZIP 13820", "Otsego County / elevation 1155 ft band", "Otsego County / ZIP 13820 sector", "Otsego County / coords 42.4600, -75.0700"]
+zillowHomeValueUsd: 211571
 ---
 
 **Engineering Notice for Oneonta:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Otsego County.

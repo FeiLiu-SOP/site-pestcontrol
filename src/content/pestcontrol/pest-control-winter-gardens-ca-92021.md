@@ -11,6 +11,7 @@ lng: -116.9300
 zipSample: ["92021", "92040"]
 zipCodes: ["92040", "92021"]
 localPaths: ["San Diego County / elevation 676 ft band", "San Diego County / coords 32.8400, -116.9300", "San Diego County / ZIP 92040 sector", "San Diego County / ZIP 92021 sector", "San Diego County / primary ZIP 92021"]
+zillowHomeValueUsd: 770751
 ---
 
 **Engineering Notice for Winter Gardens:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.

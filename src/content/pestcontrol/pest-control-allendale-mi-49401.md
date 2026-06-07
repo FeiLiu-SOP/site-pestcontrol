@@ -11,6 +11,7 @@ lng: -85.9500
 zipSample: ["49401"]
 zipCodes: ["49401"]
 localPaths: ["Ottawa County / elevation 610 ft band", "Ottawa County / coords 42.9800, -85.9500", "Ottawa County / ZIP 49401 sector", "Ottawa County / primary ZIP 49401"]
+zillowHomeValueUsd: 402564
 ---
 
 **Engineering Notice for Allendale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ottawa County.

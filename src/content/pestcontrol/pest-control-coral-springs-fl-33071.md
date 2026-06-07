@@ -11,6 +11,7 @@ lng: -80.2600
 zipSample: ["33077", "33075", "33065", "33076", "33067"]
 zipCodes: ["33071", "33067", "33075", "33076", "33077", "33065"]
 localPaths: ["Broward County / ZIP 33067 sector", "Broward County / primary ZIP 33071", "Broward County / elevation 20 ft band", "Broward County / ZIP 33076 sector", "Broward County / coords 26.2700, -80.2600"]
+zillowHomeValueUsd: 583576
 ---
 
 **Engineering Notice for Coral Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.

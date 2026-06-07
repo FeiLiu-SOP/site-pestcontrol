@@ -11,6 +11,7 @@ lng: -118.0000
 zipSample: ["90624", "90620", "90621", "90622"]
 zipCodes: ["90620", "90621", "90622", "90624"]
 localPaths: ["Orange County / ZIP 90622 sector", "Orange County / ZIP 90624 sector", "Orange County / ZIP 90621 sector", "Orange County / elevation 79 ft band", "Orange County / coords 33.8600, -118.0000"]
+zillowHomeValueUsd: 896208
 ---
 
 **Engineering Notice for Buena Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

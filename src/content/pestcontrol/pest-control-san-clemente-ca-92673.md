@@ -11,6 +11,7 @@ lng: -117.6100
 zipSample: ["92673", "92672", "92674"]
 zipCodes: ["92673", "92672", "92674"]
 localPaths: ["Orange County / ZIP 92672 sector", "Orange County / elevation 200 ft band", "Orange County / ZIP 92674 sector", "Orange County / ZIP 92673 sector", "Orange County / coords 33.4500, -117.6100"]
+zillowHomeValueUsd: 1736211
 ---
 
 **Engineering Notice for San Clemente:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

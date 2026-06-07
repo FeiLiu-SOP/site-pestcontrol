@@ -11,6 +11,7 @@ lng: -80.6500
 zipSample: ["28075"]
 zipCodes: ["28075"]
 localPaths: ["Cabarrus County / primary ZIP 28075", "Cabarrus County / ZIP 28075 sector", "Cabarrus County / elevation 597 ft band", "Cabarrus County / coords 35.3100, -80.6500"]
+zillowHomeValueUsd: 502632
 ---
 
 **Engineering Notice for Harrisburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cabarrus County.

@@ -11,6 +11,7 @@ lng: -97.1400
 zipSample: ["67002"]
 zipCodes: ["67002"]
 localPaths: ["Butler County / primary ZIP 67002", "Butler County / elevation 1345 ft band", "Butler County / coords 37.6900, -97.1400", "Butler County / ZIP 67002 sector"]
+zillowHomeValueUsd: 325668
 ---
 
 **Engineering Notice for Andover:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Butler County.

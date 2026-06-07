@@ -11,6 +11,7 @@ lng: -82.3800
 zipSample: ["33660", "33619"]
 zipCodes: ["33660", "33619"]
 localPaths: ["Hillsborough County / coords 27.9200, -82.3800", "Hillsborough County / ZIP 33619 sector", "Hillsborough County / elevation 52 ft band", "Hillsborough County / primary ZIP 33619", "Hillsborough County / ZIP 33660 sector"]
+zillowHomeValueUsd: 286953
 ---
 
 **Engineering Notice for Palm River-Clair Mel:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.

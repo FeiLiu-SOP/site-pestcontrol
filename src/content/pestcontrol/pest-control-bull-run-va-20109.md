@@ -11,6 +11,7 @@ lng: -77.5200
 zipSample: ["20109"]
 zipCodes: ["20109"]
 localPaths: ["Prince William County / primary ZIP 20109", "Prince William County / ZIP 20109 sector", "Prince William County / elevation 292 ft band", "Prince William County / coords 38.7800, -77.5200"]
+zillowHomeValueUsd: 456331
 ---
 
 **Engineering Notice for Bull Run:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince William County.

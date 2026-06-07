@@ -11,6 +11,7 @@ lng: -81.5200
 zipSample: ["44143", "44121"]
 zipCodes: ["44143", "44121"]
 localPaths: ["Cuyahoga County / primary ZIP 44143", "Cuyahoga County / ZIP 44121 sector", "Cuyahoga County / ZIP 44143 sector", "Cuyahoga County / coords 41.5200, -81.5200", "Cuyahoga County / elevation 958 ft band"]
+zillowHomeValueUsd: 301980
 ---
 
 **Engineering Notice for South Euclid:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cuyahoga County.

@@ -11,6 +11,7 @@ lng: -79.9900
 zipSample: ["27265", "27262", "27264", "27235", "27261"]
 zipCodes: ["27262", "27260", "27264", "27282", "27263", "27265", "27268", "27261", "27235"]
 localPaths: ["Guilford County / ZIP 27262 sector", "Guilford County / primary ZIP 27265", "Guilford County / coords 35.9900, -79.9900", "Guilford County / ZIP 27264 sector", "Guilford County / ZIP 27261 sector"]
+zillowHomeValueUsd: 302097
 ---
 
 **Engineering Notice for High Point:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Guilford County.

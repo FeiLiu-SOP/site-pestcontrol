@@ -11,6 +11,7 @@ lng: -120.6000
 zipSample: ["95301"]
 zipCodes: ["95301"]
 localPaths: ["Merced County / primary ZIP 95301", "Merced County / ZIP 95301 sector", "Merced County / elevation 171 ft band", "Merced County / coords 37.3500, -120.6000"]
+zillowHomeValueUsd: 421859
 ---
 
 **Engineering Notice for Atwater:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Merced County.

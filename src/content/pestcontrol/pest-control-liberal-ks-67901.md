@@ -11,6 +11,7 @@ lng: -100.9300
 zipSample: ["67905", "67901"]
 zipCodes: ["67901", "67905"]
 localPaths: ["Seward County / ZIP 67901 sector", "Seward County / elevation 2858 ft band", "Seward County / coords 37.0500, -100.9300", "Seward County / primary ZIP 67901", "Seward County / ZIP 67905 sector"]
+zillowHomeValueUsd: 144573
 ---
 
 **Engineering Notice for Liberal:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Seward County.

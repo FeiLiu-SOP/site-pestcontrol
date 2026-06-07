@@ -11,6 +11,7 @@ lng: -75.8800
 zipSample: ["18769", "18701", "18710", "18766", "18762"]
 zipCodes: ["18702", "18705", "18711", "18766", "18701", "18765", "18767", "18773", "18710", "18762", "18703", "18769"]
 localPaths: ["Luzerne County / ZIP 18769 sector", "Luzerne County / primary ZIP 18702", "Luzerne County / ZIP 18762 sector", "Luzerne County / ZIP 18766 sector", "Luzerne County / ZIP 18701 sector"]
+zillowHomeValueUsd: 168260
 ---
 
 **Engineering Notice for Wilkes-Barre:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Luzerne County.

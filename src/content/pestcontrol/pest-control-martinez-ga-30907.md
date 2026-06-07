@@ -11,6 +11,7 @@ lng: -82.1000
 zipSample: ["30809", "30907"]
 zipCodes: ["30809", "30907"]
 localPaths: ["Columbia County / ZIP 30809 sector", "Columbia County / elevation 338 ft band", "Columbia County / ZIP 30907 sector", "Columbia County / coords 33.5200, -82.1000", "Columbia County / primary ZIP 30907"]
+zillowHomeValueUsd: 267157
 ---
 
 **Engineering Notice for Martinez:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Columbia County.

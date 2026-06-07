@@ -11,6 +11,7 @@ lng: -89.0000
 zipSample: ["61130", "61011", "61111", "61131", "61132"]
 zipCodes: ["61132", "61131", "61011", "61111", "61130"]
 localPaths: ["Winnebago County / primary ZIP 61111", "Winnebago County / ZIP 61011 sector", "Winnebago County / coords 42.3400, -89.0000", "Winnebago County / ZIP 61132 sector", "Winnebago County / elevation 866 ft band"]
+zillowHomeValueUsd: 198697
 ---
 
 **Engineering Notice for Loves Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Winnebago County.

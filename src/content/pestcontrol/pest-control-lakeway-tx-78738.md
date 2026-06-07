@@ -11,6 +11,7 @@ lng: -97.9900
 zipSample: ["78734", "78738"]
 zipCodes: ["78734", "78738"]
 localPaths: ["Travis County / ZIP 78734 sector", "Travis County / primary ZIP 78738", "Travis County / coords 30.3500, -97.9900", "Travis County / elevation 843 ft band", "Travis County / ZIP 78738 sector"]
+zillowHomeValueUsd: 840147
 ---
 
 **Engineering Notice for Lakeway:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Travis County.

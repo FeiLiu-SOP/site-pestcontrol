@@ -11,6 +11,7 @@ lng: -117.5600
 zipSample: ["92877", "92881", "92878", "92882", "92879"]
 zipCodes: ["92880", "92882", "92881", "92877", "92879", "92878"]
 localPaths: ["Riverside County / ZIP 92878 sector", "Riverside County / ZIP 92877 sector", "Riverside County / ZIP 92879 sector", "Riverside County / ZIP 92881 sector", "Riverside County / elevation 846 ft band"]
+zillowHomeValueUsd: 785461
 ---
 
 **Engineering Notice for Corona:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.

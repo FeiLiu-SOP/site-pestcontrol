@@ -11,6 +11,7 @@ lng: -93.6100
 zipSample: ["55318"]
 zipCodes: ["55318"]
 localPaths: ["Carver County / ZIP 55318 sector", "Carver County / coords 44.8200, -93.6100", "Carver County / elevation 922 ft band", "Carver County / primary ZIP 55318"]
+zillowHomeValueUsd: 478755
 ---
 
 **Engineering Notice for Chaska:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Carver County.

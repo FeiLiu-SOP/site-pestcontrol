@@ -11,6 +11,7 @@ lng: -77.2300
 zipSample: ["22152"]
 zipCodes: ["22152"]
 localPaths: ["Fairfax County / ZIP 22152 sector", "Fairfax County / coords 38.7800, -77.2300", "Fairfax County / primary ZIP 22152", "Fairfax County / elevation 295 ft band"]
+zillowHomeValueUsd: 697890
 ---
 
 **Engineering Notice for West Springfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.

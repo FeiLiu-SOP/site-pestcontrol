@@ -11,6 +11,7 @@ lng: -84.6200
 zipSample: ["30144", "30152"]
 zipCodes: ["30152", "30144"]
 localPaths: ["Cobb County / coords 34.0300, -84.6200", "Cobb County / ZIP 30152 sector", "Cobb County / primary ZIP 30144", "Cobb County / elevation 1138 ft band", "Cobb County / ZIP 30144 sector"]
+zillowHomeValueUsd: 382602
 ---
 
 **Engineering Notice for Kennesaw:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cobb County.

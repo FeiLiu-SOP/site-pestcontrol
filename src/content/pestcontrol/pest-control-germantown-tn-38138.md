@@ -11,6 +11,7 @@ lng: -89.7800
 zipSample: ["38139", "38138", "38183"]
 zipCodes: ["38183", "38138", "38139"]
 localPaths: ["Shelby County / ZIP 38139 sector", "Shelby County / elevation 335 ft band", "Shelby County / ZIP 38138 sector", "Shelby County / ZIP 38183 sector", "Shelby County / coords 35.0800, -89.7800"]
+zillowHomeValueUsd: 436256
 ---
 
 **Engineering Notice for Germantown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Shelby County.

@@ -11,6 +11,7 @@ lng: -95.4600
 zipSample: ["77401", "77402"]
 zipCodes: ["77401", "77402"]
 localPaths: ["Harris County / primary ZIP 77401", "Harris County / elevation 72 ft band", "Harris County / coords 29.7000, -95.4600", "Harris County / ZIP 77401 sector", "Harris County / ZIP 77402 sector"]
+zillowHomeValueUsd: 1162692
 ---
 
 **Engineering Notice for Bellaire:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harris County.

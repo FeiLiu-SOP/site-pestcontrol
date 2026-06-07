@@ -11,6 +11,7 @@ lng: -92.9500
 zipSample: ["55746"]
 zipCodes: ["55746"]
 localPaths: ["St. Louis County / primary ZIP 55746", "St. Louis County / elevation 1512 ft band", "St. Louis County / coords 47.4000, -92.9500", "St. Louis County / ZIP 55746 sector"]
+zillowHomeValueUsd: 154203
 ---
 
 **Engineering Notice for Hibbing:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.

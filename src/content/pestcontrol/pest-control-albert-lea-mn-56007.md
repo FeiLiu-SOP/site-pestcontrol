@@ -11,6 +11,7 @@ lng: -93.3600
 zipSample: ["56007"]
 zipCodes: ["56007"]
 localPaths: ["Freeborn County / ZIP 56007 sector", "Freeborn County / primary ZIP 56007", "Freeborn County / coords 43.6500, -93.3600", "Freeborn County / elevation 1243 ft band"]
+zillowHomeValueUsd: 177147
 ---
 
 **Engineering Notice for Albert Lea:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Freeborn County.

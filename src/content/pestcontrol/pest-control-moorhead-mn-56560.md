@@ -11,6 +11,7 @@ lng: -96.7500
 zipSample: ["56560", "56563", "56562"]
 zipCodes: ["56563", "56562", "56560"]
 localPaths: ["Clay County / elevation 902 ft band", "Clay County / primary ZIP 56560", "Clay County / coords 46.8700, -96.7500", "Clay County / ZIP 56560 sector", "Clay County / ZIP 56563 sector"]
+zillowHomeValueUsd: 278538
 ---
 
 **Engineering Notice for Moorhead:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clay County.

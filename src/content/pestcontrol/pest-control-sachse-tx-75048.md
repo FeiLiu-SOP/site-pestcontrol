@@ -11,6 +11,7 @@ lng: -96.5800
 zipSample: ["75048"]
 zipCodes: ["75048"]
 localPaths: ["Dallas County / elevation 522 ft band", "Dallas County / primary ZIP 75048", "Dallas County / ZIP 75048 sector", "Dallas County / coords 32.9700, -96.5800"]
+zillowHomeValueUsd: 433527
 ---
 
 **Engineering Notice for Sachse:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.

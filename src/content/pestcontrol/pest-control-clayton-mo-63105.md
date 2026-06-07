@@ -11,6 +11,7 @@ lng: -90.3300
 zipSample: ["63105", "63199", "63195"]
 zipCodes: ["63195", "63105", "63199"]
 localPaths: ["St. Louis County / ZIP 63105 sector", "St. Louis County / elevation 581 ft band", "St. Louis County / coords 38.6400, -90.3300", "St. Louis County / ZIP 63199 sector", "St. Louis County / primary ZIP 63105"]
+zillowHomeValueUsd: 795353
 ---
 
 **Engineering Notice for Clayton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.

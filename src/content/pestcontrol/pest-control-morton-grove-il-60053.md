@@ -11,6 +11,7 @@ lng: -87.7900
 zipSample: ["60053"]
 zipCodes: ["60053"]
 localPaths: ["Cook County / elevation 643 ft band", "Cook County / ZIP 60053 sector", "Cook County / primary ZIP 60053", "Cook County / coords 42.0400, -87.7900"]
+zillowHomeValueUsd: 430733
 ---
 
 **Engineering Notice for Morton Grove:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

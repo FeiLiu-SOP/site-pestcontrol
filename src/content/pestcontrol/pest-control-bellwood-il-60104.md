@@ -11,6 +11,7 @@ lng: -87.8800
 zipSample: ["60104"]
 zipCodes: ["60104"]
 localPaths: ["Cook County / ZIP 60104 sector", "Cook County / coords 41.8800, -87.8800", "Cook County / elevation 643 ft band", "Cook County / primary ZIP 60104"]
+zillowHomeValueUsd: 242725
 ---
 
 **Engineering Notice for Bellwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

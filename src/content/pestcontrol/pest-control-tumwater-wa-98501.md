@@ -11,6 +11,7 @@ lng: -122.9200
 zipSample: ["98512", "98501", "98511"]
 zipCodes: ["98501", "98512", "98511"]
 localPaths: ["Thurston County / coords 46.9900, -122.9200", "Thurston County / elevation 190 ft band", "Thurston County / ZIP 98501 sector", "Thurston County / primary ZIP 98501", "Thurston County / ZIP 98512 sector"]
+zillowHomeValueUsd: 549716
 ---
 
 **Engineering Notice for Tumwater:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Thurston County.

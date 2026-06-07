@@ -11,6 +11,7 @@ lng: -73.7200
 zipSample: ["11581", "11598", "11516"]
 zipCodes: ["11516", "11581", "11598"]
 localPaths: ["Nassau County / coords 40.6400, -73.7200", "Nassau County / elevation 3 ft band", "Nassau County / ZIP 11598 sector", "Nassau County / ZIP 11581 sector", "Nassau County / ZIP 11516 sector"]
+zillowHomeValueUsd: 1210475
 ---
 
 **Engineering Notice for Woodmere:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

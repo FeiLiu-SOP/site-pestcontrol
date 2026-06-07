@@ -11,6 +11,7 @@ lng: -118.0100
 zipSample: ["90638", "90637", "90639"]
 zipCodes: ["90639", "90637", "90638"]
 localPaths: ["Los Angeles County / primary ZIP 90638", "Los Angeles County / ZIP 90638 sector", "Los Angeles County / elevation 161 ft band", "Los Angeles County / ZIP 90639 sector", "Los Angeles County / ZIP 90637 sector"]
+zillowHomeValueUsd: 887402
 ---
 
 **Engineering Notice for La Mirada:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

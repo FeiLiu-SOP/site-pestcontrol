@@ -11,6 +11,7 @@ lng: -122.8600
 zipSample: ["97071"]
 zipCodes: ["97071"]
 localPaths: ["Marion County / coords 45.1500, -122.8600", "Marion County / elevation 187 ft band", "Marion County / primary ZIP 97071", "Marion County / ZIP 97071 sector"]
+zillowHomeValueUsd: 423724
 ---
 
 **Engineering Notice for Woodburn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marion County.

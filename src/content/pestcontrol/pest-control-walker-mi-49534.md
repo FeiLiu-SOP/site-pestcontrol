@@ -11,6 +11,7 @@ lng: -85.7400
 zipSample: ["49534", "49544"]
 zipCodes: ["49534", "49544"]
 localPaths: ["Kent County / ZIP 49534 sector", "Kent County / elevation 755 ft band", "Kent County / primary ZIP 49534", "Kent County / ZIP 49544 sector", "Kent County / coords 42.9900, -85.7400"]
+zillowHomeValueUsd: 378604
 ---
 
 **Engineering Notice for Walker:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kent County.

@@ -11,6 +11,7 @@ lng: -122.6300
 zipSample: ["98277"]
 zipCodes: ["98277"]
 localPaths: ["Island County / coords 48.3000, -122.6300", "Island County / primary ZIP 98277", "Island County / elevation 164 ft band", "Island County / ZIP 98277 sector"]
+zillowHomeValueUsd: 528456
 ---
 
 **Engineering Notice for Oak Harbor:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Island County.

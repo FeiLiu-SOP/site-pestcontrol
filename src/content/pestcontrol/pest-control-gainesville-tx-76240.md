@@ -11,6 +11,7 @@ lng: -97.1500
 zipSample: ["76240", "76241"]
 zipCodes: ["76241", "76240"]
 localPaths: ["Cooke County / coords 33.6400, -97.1500", "Cooke County / elevation 778 ft band", "Cooke County / ZIP 76241 sector", "Cooke County / ZIP 76240 sector", "Cooke County / primary ZIP 76240"]
+zillowHomeValueUsd: 278313
 ---
 
 **Engineering Notice for Gainesville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cooke County.

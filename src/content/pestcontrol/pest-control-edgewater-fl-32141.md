@@ -11,6 +11,7 @@ lng: -80.9400
 zipSample: ["32168", "32132", "32141"]
 zipCodes: ["32132", "32168", "32141"]
 localPaths: ["Volusia County / primary ZIP 32141", "Volusia County / ZIP 32141 sector", "Volusia County / ZIP 32168 sector", "Volusia County / coords 28.9600, -80.9400", "Volusia County / elevation 46 ft band"]
+zillowHomeValueUsd: 298478
 ---
 
 **Engineering Notice for Edgewater:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Volusia County.

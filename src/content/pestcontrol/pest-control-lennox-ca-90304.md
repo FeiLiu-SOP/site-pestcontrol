@@ -11,6 +11,7 @@ lng: -118.3600
 zipSample: ["90304"]
 zipCodes: ["90304"]
 localPaths: ["Los Angeles County / coords 33.9400, -118.3600", "Los Angeles County / elevation 82 ft band", "Los Angeles County / ZIP 90304 sector", "Los Angeles County / primary ZIP 90304"]
+zillowHomeValueUsd: 739007
 ---
 
 **Engineering Notice for Lennox:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

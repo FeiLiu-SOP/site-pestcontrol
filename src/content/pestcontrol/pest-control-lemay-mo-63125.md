@@ -11,6 +11,7 @@ lng: -90.2800
 zipSample: ["63125"]
 zipCodes: ["63125"]
 localPaths: ["St. Louis County / ZIP 63125 sector", "St. Louis County / coords 38.5300, -90.2800", "St. Louis County / primary ZIP 63125", "St. Louis County / elevation 492 ft band"]
+zillowHomeValueUsd: 203101
 ---
 
 **Engineering Notice for Lemay:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.

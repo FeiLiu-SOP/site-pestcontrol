@@ -11,6 +11,7 @@ lng: -158.0200
 zipSample: ["96786"]
 zipCodes: ["96786"]
 localPaths: ["Honolulu County / primary ZIP 96786", "Honolulu County / elevation 991 ft band", "Honolulu County / ZIP 96786 sector", "Honolulu County / coords 21.5000, -158.0200"]
+zillowHomeValueUsd: 850658
 ---
 
 **Engineering Notice for Wahiawa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Honolulu County.

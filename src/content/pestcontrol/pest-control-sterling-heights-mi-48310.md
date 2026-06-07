@@ -11,6 +11,7 @@ lng: -83.0300
 zipSample: ["48310", "48312", "48311", "48313", "48314"]
 zipCodes: ["48311", "48310", "48312", "48313", "48314"]
 localPaths: ["Macomb County / coords 42.5800, -83.0300", "Macomb County / ZIP 48312 sector", "Macomb County / ZIP 48313 sector", "Macomb County / ZIP 48310 sector", "Macomb County / primary ZIP 48310"]
+zillowHomeValueUsd: 317613
 ---
 
 **Engineering Notice for Sterling Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Macomb County.

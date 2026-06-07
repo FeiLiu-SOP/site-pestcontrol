@@ -11,6 +11,7 @@ lng: -73.0500
 zipSample: ["06770"]
 zipCodes: ["06770"]
 localPaths: ["Naugatuck Valley County / primary ZIP 06770", "Naugatuck Valley County / elevation 207 ft band", "Naugatuck Valley County / ZIP 06770 sector", "Naugatuck Valley County / coords 41.4900, -73.0500"]
+zillowHomeValueUsd: 346267
 ---
 
 **Engineering Notice for Naugatuck:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Naugatuck Valley County.

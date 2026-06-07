@@ -11,6 +11,7 @@ lng: -87.9700
 zipSample: ["60451"]
 zipCodes: ["60451"]
 localPaths: ["Will County / primary ZIP 60451", "Will County / elevation 692 ft band", "Will County / ZIP 60451 sector", "Will County / coords 41.5100, -87.9700"]
+zillowHomeValueUsd: 439903
 ---
 
 **Engineering Notice for New Lenox:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Will County.

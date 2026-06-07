@@ -11,6 +11,7 @@ lng: -96.5200
 zipSample: ["75098", "75173", "75166"]
 zipCodes: ["75098", "75173", "75166"]
 localPaths: ["Collin County / primary ZIP 75098", "Collin County / coords 33.0400, -96.5200", "Collin County / ZIP 75098 sector", "Collin County / ZIP 75173 sector", "Collin County / elevation 525 ft band"]
+zillowHomeValueUsd: 423164
 ---
 
 **Engineering Notice for Wylie:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Collin County.

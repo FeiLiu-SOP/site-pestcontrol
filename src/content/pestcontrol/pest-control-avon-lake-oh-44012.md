@@ -11,6 +11,7 @@ lng: -82.0200
 zipSample: ["44012"]
 zipCodes: ["44012"]
 localPaths: ["Lorain County / primary ZIP 44012", "Lorain County / coords 41.4900, -82.0200", "Lorain County / ZIP 44012 sector", "Lorain County / elevation 617 ft band"]
+zillowHomeValueUsd: 422248
 ---
 
 **Engineering Notice for Avon Lake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lorain County.

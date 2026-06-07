@@ -11,6 +11,7 @@ lng: -118.3200
 zipSample: ["90717"]
 zipCodes: ["90717"]
 localPaths: ["Los Angeles County / ZIP 90717 sector", "Los Angeles County / coords 33.7900, -118.3200", "Los Angeles County / primary ZIP 90717", "Los Angeles County / elevation 102 ft band"]
+zillowHomeValueUsd: 920928
 ---
 
 **Engineering Notice for Lomita:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

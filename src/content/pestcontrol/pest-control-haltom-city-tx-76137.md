@@ -11,6 +11,7 @@ lng: -97.2700
 zipSample: ["76117", "76148", "76137"]
 zipCodes: ["76137", "76148", "76117"]
 localPaths: ["Tarrant County / ZIP 76148 sector", "Tarrant County / elevation 610 ft band", "Tarrant County / coords 32.8200, -97.2700", "Tarrant County / primary ZIP 76137", "Tarrant County / ZIP 76137 sector"]
+zillowHomeValueUsd: 319961
 ---
 
 **Engineering Notice for Haltom City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tarrant County.

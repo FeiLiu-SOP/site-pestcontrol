@@ -11,6 +11,7 @@ lng: -157.9600
 zipSample: ["96782", "96701"]
 zipCodes: ["96701", "96782"]
 localPaths: ["Honolulu County / ZIP 96782 sector", "Honolulu County / primary ZIP 96782", "Honolulu County / coords 21.4000, -157.9600", "Honolulu County / ZIP 96701 sector", "Honolulu County / elevation 230 ft band"]
+zillowHomeValueUsd: 945875
 ---
 
 **Engineering Notice for Pearl City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Honolulu County.

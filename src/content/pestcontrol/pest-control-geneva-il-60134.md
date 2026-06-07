@@ -11,6 +11,7 @@ lng: -88.3200
 zipSample: ["60134"]
 zipCodes: ["60134"]
 localPaths: ["Kane County / ZIP 60134 sector", "Kane County / elevation 741 ft band", "Kane County / coords 41.8800, -88.3200", "Kane County / primary ZIP 60134"]
+zillowHomeValueUsd: 532137
 ---
 
 **Engineering Notice for Geneva:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kane County.

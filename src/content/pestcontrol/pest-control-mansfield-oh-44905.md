@@ -11,6 +11,7 @@ lng: -82.5300
 zipSample: ["44901", "44907", "44905", "44902", "44906"]
 zipCodes: ["44906", "44903", "44905", "44907", "44901", "44902"]
 localPaths: ["Richland County / ZIP 44902 sector", "Richland County / coords 40.7700, -82.5300", "Richland County / ZIP 44906 sector", "Richland County / primary ZIP 44905", "Richland County / ZIP 44905 sector"]
+zillowHomeValueUsd: 151639
 ---
 
 **Engineering Notice for Mansfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Richland County.

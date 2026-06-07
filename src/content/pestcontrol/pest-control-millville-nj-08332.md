@@ -11,6 +11,7 @@ lng: -75.0600
 zipSample: ["08332"]
 zipCodes: ["08332"]
 localPaths: ["Cumberland County / elevation 56 ft band", "Cumberland County / ZIP 08332 sector", "Cumberland County / coords 39.3900, -75.0600", "Cumberland County / primary ZIP 08332"]
+zillowHomeValueUsd: 253757
 ---
 
 **Engineering Notice for Millville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cumberland County.

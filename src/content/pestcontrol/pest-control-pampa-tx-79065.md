@@ -11,6 +11,7 @@ lng: -100.9700
 zipSample: ["79065"]
 zipCodes: ["79065"]
 localPaths: ["Gray County / ZIP 79065 sector", "Gray County / coords 35.5500, -100.9700", "Gray County / elevation 3241 ft band", "Gray County / primary ZIP 79065"]
+zillowHomeValueUsd: 102754
 ---
 
 **Engineering Notice for Pampa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gray County.

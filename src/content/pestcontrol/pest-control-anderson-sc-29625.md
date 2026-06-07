@@ -11,6 +11,7 @@ lng: -82.6500
 zipSample: ["29622", "29624", "29625", "29621"]
 zipCodes: ["29621", "29622", "29624", "29625"]
 localPaths: ["Anderson County / ZIP 29624 sector", "Anderson County / ZIP 29621 sector", "Anderson County / coords 34.5200, -82.6500", "Anderson County / ZIP 29622 sector", "Anderson County / primary ZIP 29625"]
+zillowHomeValueUsd: 263730
 ---
 
 **Engineering Notice for Anderson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anderson County.

@@ -11,6 +11,7 @@ lng: -77.2200
 zipSample: ["22079", "22199"]
 zipCodes: ["22079", "22199"]
 localPaths: ["Fairfax County / ZIP 22199 sector", "Fairfax County / primary ZIP 22079", "Fairfax County / ZIP 22079 sector", "Fairfax County / elevation 112 ft band", "Fairfax County / coords 38.7000, -77.2200"]
+zillowHomeValueUsd: 684753
 ---
 
 **Engineering Notice for Lorton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.

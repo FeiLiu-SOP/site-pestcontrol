@@ -11,6 +11,7 @@ lng: -91.3800
 zipSample: ["62301", "62305"]
 zipCodes: ["62301", "62305"]
 localPaths: ["Adams County / ZIP 62301 sector", "Adams County / ZIP 62305 sector", "Adams County / elevation 636 ft band", "Adams County / coords 39.9300, -91.3800", "Adams County / primary ZIP 62305"]
+zillowHomeValueUsd: 253368
 ---
 
 **Engineering Notice for Quincy:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Adams County.

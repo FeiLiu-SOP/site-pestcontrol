@@ -11,6 +11,7 @@ lng: -89.5400
 zipSample: ["61611", "61612", "61635"]
 zipCodes: ["61611", "61612", "61635"]
 localPaths: ["Tazewell County / ZIP 61611 sector", "Tazewell County / ZIP 61635 sector", "Tazewell County / primary ZIP 61611", "Tazewell County / elevation 502 ft band", "Tazewell County / ZIP 61612 sector"]
+zillowHomeValueUsd: 182656
 ---
 
 **Engineering Notice for East Peoria:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tazewell County.

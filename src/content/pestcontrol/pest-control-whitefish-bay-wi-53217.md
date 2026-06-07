@@ -11,6 +11,7 @@ lng: -87.9000
 zipSample: ["53217", "53211"]
 zipCodes: ["53217", "53211"]
 localPaths: ["Milwaukee County / ZIP 53217 sector", "Milwaukee County / coords 43.1100, -87.9000", "Milwaukee County / ZIP 53211 sector", "Milwaukee County / elevation 663 ft band", "Milwaukee County / primary ZIP 53217"]
+zillowHomeValueUsd: 562331
 ---
 
 **Engineering Notice for Whitefish Bay:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Milwaukee County.

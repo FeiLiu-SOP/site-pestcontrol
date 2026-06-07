@@ -11,6 +11,7 @@ lng: -72.6400
 zipSample: ["01041", "01040"]
 zipCodes: ["01040", "01041"]
 localPaths: ["Hampden County / primary ZIP 01040", "Hampden County / ZIP 01041 sector", "Hampden County / coords 42.2100, -72.6400", "Hampden County / ZIP 01040 sector", "Hampden County / elevation 509 ft band"]
+zillowHomeValueUsd: 323017
 ---
 
 **Engineering Notice for Holyoke:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hampden County.

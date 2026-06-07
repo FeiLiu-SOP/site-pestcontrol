@@ -11,6 +11,7 @@ lng: -117.5900
 zipSample: ["92679"]
 zipCodes: ["92679"]
 localPaths: ["Orange County / primary ZIP 92679", "Orange County / elevation 659 ft band", "Orange County / ZIP 92679 sector", "Orange County / coords 33.6000, -117.5900"]
+zillowHomeValueUsd: 1600690
 ---
 
 **Engineering Notice for Coto de Caza:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

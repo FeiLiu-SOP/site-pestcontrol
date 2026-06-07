@@ -11,6 +11,7 @@ lng: -74.0700
 zipSample: ["08742"]
 zipCodes: ["08742"]
 localPaths: ["Ocean County / coords 40.0800, -74.0700", "Ocean County / elevation 26 ft band", "Ocean County / ZIP 08742 sector", "Ocean County / primary ZIP 08742"]
+zillowHomeValueUsd: 845711
 ---
 
 **Engineering Notice for Point Pleasant:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ocean County.

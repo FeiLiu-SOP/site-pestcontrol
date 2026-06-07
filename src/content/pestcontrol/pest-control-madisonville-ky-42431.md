@@ -11,6 +11,7 @@ lng: -87.5000
 zipSample: ["42431"]
 zipCodes: ["42431"]
 localPaths: ["Hopkins County / elevation 482 ft band", "Hopkins County / ZIP 42431 sector", "Hopkins County / coords 37.3400, -87.5000", "Hopkins County / primary ZIP 42431"]
+zillowHomeValueUsd: 160951
 ---
 
 **Engineering Notice for Madisonville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hopkins County.

@@ -11,6 +11,7 @@ lng: -117.7000
 zipSample: ["92653"]
 zipCodes: ["92653"]
 localPaths: ["Orange County / coords 33.5900, -117.7000", "Orange County / ZIP 92653 sector", "Orange County / elevation 308 ft band", "Orange County / primary ZIP 92653"]
+zillowHomeValueUsd: 1291187
 ---
 
 **Engineering Notice for Laguna Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

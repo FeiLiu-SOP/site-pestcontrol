@@ -11,6 +11,7 @@ lng: -84.1600
 zipSample: ["30088", "30058", "30074"]
 zipCodes: ["30088", "30074", "30058"]
 localPaths: ["DeKalb County / ZIP 30074 sector", "DeKalb County / ZIP 30058 sector", "DeKalb County / ZIP 30088 sector", "DeKalb County / elevation 961 ft band", "DeKalb County / primary ZIP 30058"]
+zillowHomeValueUsd: 247296
 ---
 
 **Engineering Notice for Redan:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeKalb County.

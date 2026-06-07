@@ -11,6 +11,7 @@ lng: -77.2000
 zipSample: ["17013"]
 zipCodes: ["17013"]
 localPaths: ["Cumberland County / elevation 489 ft band", "Cumberland County / primary ZIP 17013", "Cumberland County / coords 40.2000, -77.2000", "Cumberland County / ZIP 17013 sector"]
+zillowHomeValueUsd: 285875
 ---
 
 **Engineering Notice for Carlisle:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cumberland County.

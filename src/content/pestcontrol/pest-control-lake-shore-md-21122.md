@@ -11,6 +11,7 @@ lng: -76.4900
 zipSample: ["21122"]
 zipCodes: ["21122"]
 localPaths: ["Anne Arundel County / ZIP 21122 sector", "Anne Arundel County / elevation 75 ft band", "Anne Arundel County / coords 39.1000, -76.4900", "Anne Arundel County / primary ZIP 21122"]
+zillowHomeValueUsd: 454584
 ---
 
 **Engineering Notice for Lake Shore:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anne Arundel County.

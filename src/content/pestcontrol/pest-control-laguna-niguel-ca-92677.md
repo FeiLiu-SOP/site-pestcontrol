@@ -11,6 +11,7 @@ lng: -117.7000
 zipSample: ["92607", "92677"]
 zipCodes: ["92677", "92607"]
 localPaths: ["Orange County / primary ZIP 92677", "Orange County / coords 33.5300, -117.7000", "Orange County / ZIP 92677 sector", "Orange County / elevation 489 ft band", "Orange County / ZIP 92607 sector"]
+zillowHomeValueUsd: 1498185
 ---
 
 **Engineering Notice for Laguna Niguel:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

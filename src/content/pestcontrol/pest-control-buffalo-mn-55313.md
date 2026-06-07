@@ -11,6 +11,7 @@ lng: -93.8600
 zipSample: ["55313"]
 zipCodes: ["55313"]
 localPaths: ["Wright County / elevation 1007 ft band", "Wright County / coords 45.1800, -93.8600", "Wright County / primary ZIP 55313", "Wright County / ZIP 55313 sector"]
+zillowHomeValueUsd: 375226
 ---
 
 **Engineering Notice for Buffalo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wright County.

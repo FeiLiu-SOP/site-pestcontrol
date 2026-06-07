@@ -11,6 +11,7 @@ lng: -96.8400
 zipSample: ["75001", "75391", "75254"]
 zipCodes: ["75254", "75391", "75001"]
 localPaths: ["Dallas County / elevation 637 ft band", "Dallas County / primary ZIP 75254", "Dallas County / ZIP 75001 sector", "Dallas County / ZIP 75254 sector", "Dallas County / coords 32.9600, -96.8400"]
+zillowHomeValueUsd: 299678
 ---
 
 **Engineering Notice for Addison:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.

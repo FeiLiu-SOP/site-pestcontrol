@@ -11,6 +11,7 @@ lng: -82.3800
 zipSample: ["33534"]
 zipCodes: ["33534"]
 localPaths: ["Hillsborough County / ZIP 33534 sector", "Hillsborough County / coords 27.8300, -82.3800", "Hillsborough County / elevation 23 ft band", "Hillsborough County / primary ZIP 33534"]
+zillowHomeValueUsd: 316177
 ---
 
 **Engineering Notice for Gibsonton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.

@@ -11,6 +11,7 @@ lng: -80.1800
 zipSample: ["29484", "29483", "29485", "29486"]
 zipCodes: ["29485", "29486", "29483", "29484"]
 localPaths: ["Dorchester County / ZIP 29483 sector", "Dorchester County / ZIP 29485 sector", "Dorchester County / primary ZIP 29485", "Dorchester County / ZIP 29484 sector", "Dorchester County / coords 33.0000, -80.1800"]
+zillowHomeValueUsd: 366088
 ---
 
 **Engineering Notice for Summerville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dorchester County.

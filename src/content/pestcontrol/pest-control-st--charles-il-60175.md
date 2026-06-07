@@ -11,6 +11,7 @@ lng: -88.3100
 zipSample: ["60174", "60175"]
 zipCodes: ["60175", "60174"]
 localPaths: ["Kane County / primary ZIP 60175", "Kane County / coords 41.9200, -88.3100", "Kane County / ZIP 60175 sector", "Kane County / ZIP 60174 sector", "Kane County / elevation 768 ft band"]
+zillowHomeValueUsd: 624841
 ---
 
 **Engineering Notice for St. Charles:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kane County.

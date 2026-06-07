@@ -11,6 +11,7 @@ lng: -76.6300
 zipSample: ["21061"]
 zipCodes: ["21061"]
 localPaths: ["Anne Arundel County / primary ZIP 21061", "Anne Arundel County / ZIP 21061 sector", "Anne Arundel County / coords 39.1900, -76.6300", "Anne Arundel County / elevation 85 ft band"]
+zillowHomeValueUsd: 377340
 ---
 
 **Engineering Notice for Ferndale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anne Arundel County.

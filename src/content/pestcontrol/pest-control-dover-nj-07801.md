@@ -11,6 +11,7 @@ lng: -74.5600
 zipSample: ["07801"]
 zipCodes: ["07801"]
 localPaths: ["Morris County / coords 40.8900, -74.5600", "Morris County / ZIP 07801 sector", "Morris County / primary ZIP 07801", "Morris County / elevation 577 ft band"]
+zillowHomeValueUsd: 500437
 ---
 
 **Engineering Notice for Dover:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Morris County.

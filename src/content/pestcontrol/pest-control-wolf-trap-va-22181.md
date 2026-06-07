@@ -11,6 +11,7 @@ lng: -77.2800
 zipSample: ["22182", "22181"]
 zipCodes: ["22182", "22181"]
 localPaths: ["Fairfax County / coords 38.9400, -77.2800", "Fairfax County / primary ZIP 22181", "Fairfax County / ZIP 22182 sector", "Fairfax County / elevation 328 ft band", "Fairfax County / ZIP 22181 sector"]
+zillowHomeValueUsd: 1126197
 ---
 
 **Engineering Notice for Wolf Trap:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.

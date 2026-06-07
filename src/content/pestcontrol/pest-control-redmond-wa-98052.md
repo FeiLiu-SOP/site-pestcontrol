@@ -11,6 +11,7 @@ lng: -122.1200
 zipSample: ["98052", "98073"]
 zipCodes: ["98073", "98052"]
 localPaths: ["King County / coords 47.6800, -122.1200", "King County / ZIP 98073 sector", "King County / ZIP 98052 sector", "King County / elevation 59 ft band", "King County / primary ZIP 98052"]
+zillowHomeValueUsd: 1364879
 ---
 
 **Engineering Notice for Redmond:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.

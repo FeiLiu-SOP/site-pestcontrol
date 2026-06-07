@@ -11,6 +11,7 @@ lng: -76.6800
 zipSample: ["21114", "21054"]
 zipCodes: ["21114", "21054"]
 localPaths: ["Anne Arundel County / ZIP 21054 sector", "Anne Arundel County / ZIP 21114 sector", "Anne Arundel County / coords 39.0100, -76.6800", "Anne Arundel County / elevation 121 ft band", "Anne Arundel County / primary ZIP 21054"]
+zillowHomeValueUsd: 613027
 ---
 
 **Engineering Notice for Crofton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anne Arundel County.

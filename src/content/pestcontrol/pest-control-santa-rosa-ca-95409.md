@@ -11,6 +11,7 @@ lng: -122.7100
 zipSample: ["95405", "95406", "95407", "95401", "95403"]
 zipCodes: ["95403", "95407", "95406", "95401", "95404", "95405", "95409"]
 localPaths: ["Sonoma County / elevation 184 ft band", "Sonoma County / coords 38.4500, -122.7100", "Sonoma County / primary ZIP 95409", "Sonoma County / ZIP 95403 sector", "Sonoma County / ZIP 95407 sector"]
+zillowHomeValueUsd: 780309
 ---
 
 **Engineering Notice for Santa Rosa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sonoma County.

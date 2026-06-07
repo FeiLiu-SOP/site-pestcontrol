@@ -11,6 +11,7 @@ lng: -89.3200
 zipSample: ["39407", "39401", "39406", "39402", "39403"]
 zipCodes: ["39406", "39401", "39402", "39407", "39403"]
 localPaths: ["Forrest County / ZIP 39407 sector", "Forrest County / ZIP 39402 sector", "Forrest County / ZIP 39406 sector", "Forrest County / ZIP 39403 sector", "Forrest County / elevation 223 ft band"]
+zillowHomeValueUsd: 145859
 ---
 
 **Engineering Notice for Hattiesburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Forrest County.

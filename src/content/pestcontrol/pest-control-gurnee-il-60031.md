@@ -11,6 +11,7 @@ lng: -87.9400
 zipSample: ["60031"]
 zipCodes: ["60031"]
 localPaths: ["Lake County / ZIP 60031 sector", "Lake County / primary ZIP 60031", "Lake County / coords 42.3700, -87.9400", "Lake County / elevation 715 ft band"]
+zillowHomeValueUsd: 366263
 ---
 
 **Engineering Notice for Gurnee:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

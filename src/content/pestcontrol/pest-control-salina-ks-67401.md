@@ -11,6 +11,7 @@ lng: -97.6100
 zipSample: ["67401", "67402"]
 zipCodes: ["67402", "67401"]
 localPaths: ["Saline County / coords 38.8100, -97.6100", "Saline County / ZIP 67402 sector", "Saline County / ZIP 67401 sector", "Saline County / primary ZIP 67401", "Saline County / elevation 1250 ft band"]
+zillowHomeValueUsd: 172812
 ---
 
 **Engineering Notice for Salina:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Saline County.

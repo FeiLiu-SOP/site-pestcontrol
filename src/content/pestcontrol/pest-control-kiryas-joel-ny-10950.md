@@ -11,6 +11,7 @@ lng: -74.1700
 zipSample: ["10950"]
 zipCodes: ["10950"]
 localPaths: ["Orange County / elevation 728 ft band", "Orange County / primary ZIP 10950", "Orange County / coords 41.3400, -74.1700", "Orange County / ZIP 10950 sector"]
+zillowHomeValueUsd: 529102
 ---
 
 **Engineering Notice for Kiryas Joel:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

@@ -11,6 +11,7 @@ lng: -87.6000
 zipSample: ["60419"]
 zipCodes: ["60419"]
 localPaths: ["Cook County / primary ZIP 60419", "Cook County / coords 41.6300, -87.6000", "Cook County / elevation 620 ft band", "Cook County / ZIP 60419 sector"]
+zillowHomeValueUsd: 150062
 ---
 
 **Engineering Notice for Dolton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

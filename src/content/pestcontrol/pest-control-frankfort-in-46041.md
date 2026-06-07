@@ -11,6 +11,7 @@ lng: -86.5200
 zipSample: ["46041"]
 zipCodes: ["46041"]
 localPaths: ["Clinton County / ZIP 46041 sector", "Clinton County / elevation 866 ft band", "Clinton County / coords 40.2800, -86.5200", "Clinton County / primary ZIP 46041"]
+zillowHomeValueUsd: 209997
 ---
 
 **Engineering Notice for Frankfort:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clinton County.

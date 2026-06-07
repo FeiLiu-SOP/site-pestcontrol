@@ -11,6 +11,7 @@ lng: -96.0700
 zipSample: ["68128", "68138", "68133", "68046"]
 zipCodes: ["68046", "68128", "68138", "68133"]
 localPaths: ["Sarpy County / ZIP 68138 sector", "Sarpy County / ZIP 68128 sector", "Sarpy County / primary ZIP 68046", "Sarpy County / ZIP 68133 sector", "Sarpy County / elevation 1047 ft band"]
+zillowHomeValueUsd: 409099
 ---
 
 **Engineering Notice for Papillion:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sarpy County.

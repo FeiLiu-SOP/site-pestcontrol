@@ -11,6 +11,7 @@ lng: -77.4000
 zipSample: ["20171", "22033"]
 zipCodes: ["22033", "20171"]
 localPaths: ["Fairfax County / primary ZIP 22033", "Fairfax County / ZIP 22033 sector", "Fairfax County / elevation 374 ft band", "Fairfax County / ZIP 20171 sector", "Fairfax County / coords 38.9100, -77.4000"]
+zillowHomeValueUsd: 711134
 ---
 
 **Engineering Notice for Franklin Farm:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.

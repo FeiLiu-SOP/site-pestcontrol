@@ -11,6 +11,7 @@ lng: -117.0700
 zipSample: ["92027", "92033", "92029", "92046", "92025"]
 zipCodes: ["92025", "92030", "92029", "92027", "92033", "92046", "92026"]
 localPaths: ["San Diego County / ZIP 92025 sector", "San Diego County / ZIP 92029 sector", "San Diego County / ZIP 92046 sector", "San Diego County / coords 33.1300, -117.0700", "San Diego County / ZIP 92033 sector"]
+zillowHomeValueUsd: 1177990
 ---
 
 **Engineering Notice for Escondido:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.

@@ -11,6 +11,7 @@ lng: -122.4400
 zipSample: ["97080", "97030", "97233", "97230"]
 zipCodes: ["97080", "97233", "97230", "97030"]
 localPaths: ["Multnomah County / ZIP 97080 sector", "Multnomah County / ZIP 97233 sector", "Multnomah County / elevation 381 ft band", "Multnomah County / primary ZIP 97030", "Multnomah County / ZIP 97230 sector"]
+zillowHomeValueUsd: 439100
 ---
 
 **Engineering Notice for Gresham:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Multnomah County.

@@ -11,6 +11,7 @@ lng: -117.9900
 zipSample: ["92683", "92685", "92684", "92655"]
 zipCodes: ["92683", "92685", "92684", "92655"]
 localPaths: ["Orange County / ZIP 92683 sector", "Orange County / ZIP 92684 sector", "Orange County / ZIP 92685 sector", "Orange County / coords 33.7500, -117.9900", "Orange County / ZIP 92655 sector"]
+zillowHomeValueUsd: 1040681
 ---
 
 **Engineering Notice for Westminster:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

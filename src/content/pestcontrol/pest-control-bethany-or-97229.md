@@ -11,6 +11,7 @@ lng: -122.8400
 zipSample: ["97229"]
 zipCodes: ["97229"]
 localPaths: ["Washington County / coords 45.5600, -122.8400", "Washington County / elevation 272 ft band", "Washington County / primary ZIP 97229", "Washington County / ZIP 97229 sector"]
+zillowHomeValueUsd: 743084
 ---
 
 **Engineering Notice for Bethany:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.

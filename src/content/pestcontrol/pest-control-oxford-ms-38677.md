@@ -11,6 +11,7 @@ lng: -89.5300
 zipSample: ["38677", "38655"]
 zipCodes: ["38677", "38655"]
 localPaths: ["Lafayette County / ZIP 38677 sector", "Lafayette County / primary ZIP 38677", "Lafayette County / elevation 486 ft band", "Lafayette County / ZIP 38655 sector", "Lafayette County / coords 34.3600, -89.5300"]
+zillowHomeValueUsd: 413632
 ---
 
 **Engineering Notice for Oxford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lafayette County.

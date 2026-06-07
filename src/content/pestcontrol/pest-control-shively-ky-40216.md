@@ -11,6 +11,7 @@ lng: -85.8100
 zipSample: ["40256", "40216"]
 zipCodes: ["40256", "40216"]
 localPaths: ["Jefferson County / elevation 463 ft band", "Jefferson County / ZIP 40256 sector", "Jefferson County / primary ZIP 40216", "Jefferson County / coords 38.2000, -85.8100", "Jefferson County / ZIP 40216 sector"]
+zillowHomeValueUsd: 205836
 ---
 
 **Engineering Notice for Shively:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.

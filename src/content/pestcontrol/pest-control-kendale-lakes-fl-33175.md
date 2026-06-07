@@ -11,6 +11,7 @@ lng: -80.4100
 zipSample: ["33183", "33175"]
 zipCodes: ["33183", "33175"]
 localPaths: ["Miami-Dade County / elevation 33 ft band", "Miami-Dade County / ZIP 33183 sector", "Miami-Dade County / ZIP 33175 sector", "Miami-Dade County / coords 25.7100, -80.4100", "Miami-Dade County / primary ZIP 33175"]
+zillowHomeValueUsd: 622034
 ---
 
 **Engineering Notice for Kendale Lakes:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

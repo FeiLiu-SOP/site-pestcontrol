@@ -11,6 +11,7 @@ lng: -83.7100
 zipSample: ["43560"]
 zipCodes: ["43560"]
 localPaths: ["Lucas County / elevation 689 ft band", "Lucas County / ZIP 43560 sector", "Lucas County / coords 41.7100, -83.7100", "Lucas County / primary ZIP 43560"]
+zillowHomeValueUsd: 320222
 ---
 
 **Engineering Notice for Sylvania:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lucas County.

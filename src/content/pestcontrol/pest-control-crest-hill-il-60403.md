@@ -11,6 +11,7 @@ lng: -88.1100
 zipSample: ["60441", "60403"]
 zipCodes: ["60441", "60403"]
 localPaths: ["Will County / primary ZIP 60403", "Will County / coords 41.5700, -88.1100", "Will County / ZIP 60441 sector", "Will County / ZIP 60403 sector", "Will County / elevation 636 ft band"]
+zillowHomeValueUsd: 276274
 ---
 
 **Engineering Notice for Crest Hill:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Will County.

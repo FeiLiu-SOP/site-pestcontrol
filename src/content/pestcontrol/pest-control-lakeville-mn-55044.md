@@ -11,6 +11,7 @@ lng: -93.2500
 zipSample: ["55044"]
 zipCodes: ["55044"]
 localPaths: ["Dakota County / ZIP 55044 sector", "Dakota County / primary ZIP 55044", "Dakota County / coords 44.6800, -93.2500", "Dakota County / elevation 1079 ft band"]
+zillowHomeValueUsd: 515334
 ---
 
 **Engineering Notice for Lakeville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dakota County.

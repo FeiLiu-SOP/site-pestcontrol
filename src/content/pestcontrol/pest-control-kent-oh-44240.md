@@ -11,6 +11,7 @@ lng: -81.3600
 zipSample: ["44243", "44242", "44240"]
 zipCodes: ["44240", "44242", "44243"]
 localPaths: ["Portage County / ZIP 44242 sector", "Portage County / coords 41.1500, -81.3600", "Portage County / ZIP 44240 sector", "Portage County / ZIP 44243 sector", "Portage County / elevation 1060 ft band"]
+zillowHomeValueUsd: 243424
 ---
 
 **Engineering Notice for Kent:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Portage County.

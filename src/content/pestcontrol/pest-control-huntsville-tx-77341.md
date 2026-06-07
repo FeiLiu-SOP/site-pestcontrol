@@ -11,6 +11,7 @@ lng: -95.5600
 zipSample: ["77320", "77343", "77341", "77342", "77348"]
 zipCodes: ["77320", "77349", "77348", "77344", "77342", "77340", "77341", "77343"]
 localPaths: ["Walker County / ZIP 77348 sector", "Walker County / primary ZIP 77341", "Walker County / ZIP 77341 sector", "Walker County / ZIP 77320 sector", "Walker County / ZIP 77343 sector"]
+zillowHomeValueUsd: 239082
 ---
 
 **Engineering Notice for Huntsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Walker County.

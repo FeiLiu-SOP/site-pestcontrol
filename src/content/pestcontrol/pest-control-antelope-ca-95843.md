@@ -11,6 +11,7 @@ lng: -121.3600
 zipSample: ["95843"]
 zipCodes: ["95843"]
 localPaths: ["Sacramento County / elevation 128 ft band", "Sacramento County / primary ZIP 95843", "Sacramento County / ZIP 95843 sector", "Sacramento County / coords 38.7200, -121.3600"]
+zillowHomeValueUsd: 503959
 ---
 
 **Engineering Notice for Antelope:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sacramento County.

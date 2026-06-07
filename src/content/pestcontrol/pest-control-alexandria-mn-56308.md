@@ -11,6 +11,7 @@ lng: -95.3800
 zipSample: ["56308"]
 zipCodes: ["56308"]
 localPaths: ["Douglas County / ZIP 56308 sector", "Douglas County / coords 45.8800, -95.3800", "Douglas County / primary ZIP 56308", "Douglas County / elevation 1417 ft band"]
+zillowHomeValueUsd: 352476
 ---
 
 **Engineering Notice for Alexandria:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Douglas County.

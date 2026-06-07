@@ -11,6 +11,7 @@ lng: -81.5300
 zipSample: ["32768", "32703", "32712"]
 zipCodes: ["32768", "32712", "32703"]
 localPaths: ["Orange County / coords 28.7000, -81.5300", "Orange County / ZIP 32703 sector", "Orange County / elevation 98 ft band", "Orange County / ZIP 32768 sector", "Orange County / primary ZIP 32712"]
+zillowHomeValueUsd: 435419
 ---
 
 **Engineering Notice for Apopka:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

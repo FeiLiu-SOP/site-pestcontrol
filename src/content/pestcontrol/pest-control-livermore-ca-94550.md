@@ -11,6 +11,7 @@ lng: -121.7600
 zipSample: ["94551", "94550"]
 zipCodes: ["94550", "94551"]
 localPaths: ["Alameda County / primary ZIP 94550", "Alameda County / elevation 502 ft band", "Alameda County / ZIP 94551 sector", "Alameda County / ZIP 94550 sector", "Alameda County / coords 37.6900, -121.7600"]
+zillowHomeValueUsd: 1247439
 ---
 
 **Engineering Notice for Livermore:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alameda County.

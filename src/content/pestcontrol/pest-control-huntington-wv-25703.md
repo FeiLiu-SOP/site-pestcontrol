@@ -11,6 +11,7 @@ lng: -82.4300
 zipSample: ["25706", "25776", "25720", "25713", "25710"]
 zipCodes: ["25717", "25705", "25703", "25713", "25702", "25773", "25774", "25714", "25722", "25777", "25729", "25719"]
 localPaths: ["Cabell County / primary ZIP 25703", "Cabell County / ZIP 25776 sector", "Cabell County / elevation 571 ft band", "Cabell County / ZIP 25710 sector", "Cabell County / coords 38.4100, -82.4300"]
+zillowHomeValueUsd: 69320
 ---
 
 **Engineering Notice for Huntington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cabell County.

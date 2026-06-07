@@ -11,6 +11,7 @@ lng: -89.0200
 zipSample: ["53512", "53511"]
 zipCodes: ["53511", "53512"]
 localPaths: ["Rock County / ZIP 53512 sector", "Rock County / elevation 804 ft band", "Rock County / coords 42.5200, -89.0200", "Rock County / primary ZIP 53511", "Rock County / ZIP 53511 sector"]
+zillowHomeValueUsd: 210166
 ---
 
 **Engineering Notice for Beloit:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rock County.

@@ -11,6 +11,7 @@ lng: -105.0700
 zipSample: ["80128", "80123"]
 zipCodes: ["80128", "80123"]
 localPaths: ["Jefferson County / ZIP 80123 sector", "Jefferson County / elevation 5554 ft band", "Jefferson County / coords 39.5900, -105.0700", "Jefferson County / ZIP 80128 sector", "Jefferson County / primary ZIP 80128"]
+zillowHomeValueUsd: 602630
 ---
 
 **Engineering Notice for Columbine:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.

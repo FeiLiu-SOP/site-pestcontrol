@@ -11,6 +11,7 @@ lng: -71.1000
 zipSample: ["02143", "02145", "02144"]
 zipCodes: ["02143", "02144", "02145"]
 localPaths: ["Middlesex County / primary ZIP 02144", "Middlesex County / coords 42.3900, -71.1000", "Middlesex County / ZIP 02144 sector", "Middlesex County / elevation 72 ft band", "Middlesex County / ZIP 02143 sector"]
+zillowHomeValueUsd: 1057598
 ---
 
 **Engineering Notice for Somerville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.

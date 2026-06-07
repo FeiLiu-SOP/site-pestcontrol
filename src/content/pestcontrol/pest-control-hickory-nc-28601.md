@@ -11,6 +11,7 @@ lng: -81.3200
 zipSample: ["28601", "28603", "28602"]
 zipCodes: ["28602", "28601", "28603"]
 localPaths: ["Catawba County / ZIP 28603 sector", "Catawba County / ZIP 28602 sector", "Catawba County / ZIP 28601 sector", "Catawba County / coords 35.7400, -81.3200", "Catawba County / elevation 1171 ft band"]
+zillowHomeValueUsd: 304560
 ---
 
 **Engineering Notice for Hickory:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Catawba County.

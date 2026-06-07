@@ -11,6 +11,7 @@ lng: -81.8000
 zipSample: ["44107"]
 zipCodes: ["44107"]
 localPaths: ["Cuyahoga County / primary ZIP 44107", "Cuyahoga County / elevation 705 ft band", "Cuyahoga County / ZIP 44107 sector", "Cuyahoga County / coords 41.4800, -81.8000"]
+zillowHomeValueUsd: 285849
 ---
 
 **Engineering Notice for Lakewood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cuyahoga County.

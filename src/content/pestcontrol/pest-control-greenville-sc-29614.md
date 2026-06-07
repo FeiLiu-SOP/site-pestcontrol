@@ -11,6 +11,7 @@ lng: -82.3600
 zipSample: ["29604", "29616", "29602", "29609", "29607"]
 zipCodes: ["29609", "29616", "29604", "29602", "29605", "29614", "29603", "29601", "29607", "29612"]
 localPaths: ["Greenville County / primary ZIP 29614", "Greenville County / ZIP 29616 sector", "Greenville County / ZIP 29607 sector", "Greenville County / ZIP 29602 sector", "Greenville County / coords 34.8400, -82.3600"]
+zillowHomeValueUsd: 380735
 ---
 
 **Engineering Notice for Greenville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Greenville County.

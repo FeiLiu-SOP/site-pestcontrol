@@ -11,6 +11,7 @@ lng: -92.6000
 zipSample: ["55089", "55066"]
 zipCodes: ["55066", "55089"]
 localPaths: ["Goodhue County / ZIP 55066 sector", "Goodhue County / ZIP 55089 sector", "Goodhue County / elevation 686 ft band", "Goodhue County / primary ZIP 55089", "Goodhue County / coords 44.5800, -92.6000"]
+zillowHomeValueUsd: 486961
 ---
 
 **Engineering Notice for Red Wing:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Goodhue County.

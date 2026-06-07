@@ -11,6 +11,7 @@ lng: -122.5400
 zipSample: ["98604"]
 zipCodes: ["98604"]
 localPaths: ["Clark County / ZIP 98604 sector", "Clark County / coords 45.7800, -122.5400", "Clark County / primary ZIP 98604", "Clark County / elevation 282 ft band"]
+zillowHomeValueUsd: 605353
 ---
 
 **Engineering Notice for Battle Ground:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.

@@ -11,6 +11,7 @@ lng: -88.0100
 zipSample: ["53132"]
 zipCodes: ["53132"]
 localPaths: ["Milwaukee County / primary ZIP 53132", "Milwaukee County / coords 42.8900, -88.0100", "Milwaukee County / ZIP 53132 sector", "Milwaukee County / elevation 755 ft band"]
+zillowHomeValueUsd: 439594
 ---
 
 **Engineering Notice for Franklin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Milwaukee County.

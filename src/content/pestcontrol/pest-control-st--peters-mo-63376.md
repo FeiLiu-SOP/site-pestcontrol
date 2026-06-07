@@ -11,6 +11,7 @@ lng: -90.6100
 zipSample: ["63304", "63376"]
 zipCodes: ["63304", "63376"]
 localPaths: ["St. Charles County / ZIP 63376 sector", "St. Charles County / primary ZIP 63376", "St. Charles County / coords 38.7800, -90.6100", "St. Charles County / ZIP 63304 sector", "St. Charles County / elevation 512 ft band"]
+zillowHomeValueUsd: 325163
 ---
 
 **Engineering Notice for St. Peters:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Charles County.

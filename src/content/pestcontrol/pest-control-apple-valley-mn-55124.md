@@ -11,6 +11,7 @@ lng: -93.2000
 zipSample: ["55124"]
 zipCodes: ["55124"]
 localPaths: ["Dakota County / ZIP 55124 sector", "Dakota County / coords 44.7500, -93.2000", "Dakota County / elevation 974 ft band", "Dakota County / primary ZIP 55124"]
+zillowHomeValueUsd: 375989
 ---
 
 **Engineering Notice for Apple Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dakota County.

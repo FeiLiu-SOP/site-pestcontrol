@@ -11,6 +11,7 @@ lng: -95.4300
 zipSample: ["77516", "77515"]
 zipCodes: ["77516", "77515"]
 localPaths: ["Brazoria County / coords 29.1700, -95.4300", "Brazoria County / primary ZIP 77515", "Brazoria County / ZIP 77516 sector", "Brazoria County / elevation 49 ft band", "Brazoria County / ZIP 77515 sector"]
+zillowHomeValueUsd: 240684
 ---
 
 **Engineering Notice for Angleton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brazoria County.

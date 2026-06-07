@@ -11,6 +11,7 @@ lng: -88.1800
 zipSample: ["53090", "53095"]
 zipCodes: ["53090", "53095"]
 localPaths: ["Washington County / ZIP 53090 sector", "Washington County / coords 43.4200, -88.1800", "Washington County / ZIP 53095 sector", "Washington County / primary ZIP 53090", "Washington County / elevation 915 ft band"]
+zillowHomeValueUsd: 364835
 ---
 
 **Engineering Notice for West Bend:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.

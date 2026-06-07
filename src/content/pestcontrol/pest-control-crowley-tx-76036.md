@@ -11,6 +11,7 @@ lng: -97.3600
 zipSample: ["76036"]
 zipCodes: ["76036"]
 localPaths: ["Tarrant County / primary ZIP 76036", "Tarrant County / ZIP 76036 sector", "Tarrant County / coords 32.5800, -97.3600", "Tarrant County / elevation 771 ft band"]
+zillowHomeValueUsd: 316352
 ---
 
 **Engineering Notice for Crowley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tarrant County.

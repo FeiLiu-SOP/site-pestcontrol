@@ -11,6 +11,7 @@ lng: -85.0300
 zipSample: ["36869", "36867", "36868"]
 zipCodes: ["36868", "36869", "36867"]
 localPaths: ["Russell County / primary ZIP 36869", "Russell County / ZIP 36867 sector", "Russell County / coords 32.4600, -85.0300", "Russell County / ZIP 36869 sector", "Russell County / elevation 456 ft band"]
+zillowHomeValueUsd: 172073
 ---
 
 **Engineering Notice for Phenix City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Russell County.

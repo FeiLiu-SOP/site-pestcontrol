@@ -11,6 +11,7 @@ lng: -80.2200
 zipSample: ["33421", "33411"]
 zipCodes: ["33421", "33411"]
 localPaths: ["Palm Beach County / elevation 39 ft band", "Palm Beach County / ZIP 33421 sector", "Palm Beach County / primary ZIP 33411", "Palm Beach County / ZIP 33411 sector", "Palm Beach County / coords 26.7000, -80.2200"]
+zillowHomeValueUsd: 465680
 ---
 
 **Engineering Notice for Royal Palm Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Palm Beach County.

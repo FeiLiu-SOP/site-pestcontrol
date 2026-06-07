@@ -11,6 +11,7 @@ lng: -122.1800
 zipSample: ["98208"]
 zipCodes: ["98208"]
 localPaths: ["Snohomish County / coords 47.9000, -122.1800", "Snohomish County / ZIP 98208 sector", "Snohomish County / elevation 387 ft band", "Snohomish County / primary ZIP 98208"]
+zillowHomeValueUsd: 771426
 ---
 
 **Engineering Notice for Eastmont:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Snohomish County.

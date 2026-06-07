@@ -11,6 +11,7 @@ lng: -90.5800
 zipSample: ["61204", "61201"]
 zipCodes: ["61204", "61201"]
 localPaths: ["Rock Island County / coords 41.4700, -90.5800", "Rock Island County / ZIP 61204 sector", "Rock Island County / primary ZIP 61201", "Rock Island County / elevation 636 ft band", "Rock Island County / ZIP 61201 sector"]
+zillowHomeValueUsd: 122231
 ---
 
 **Engineering Notice for Rock Island:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rock Island County.

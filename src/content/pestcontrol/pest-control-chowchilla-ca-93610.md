@@ -11,6 +11,7 @@ lng: -120.2300
 zipSample: ["93610"]
 zipCodes: ["93610"]
 localPaths: ["Madera County / elevation 262 ft band", "Madera County / ZIP 93610 sector", "Madera County / coords 37.1100, -120.2300", "Madera County / primary ZIP 93610"]
+zillowHomeValueUsd: 393294
 ---
 
 **Engineering Notice for Chowchilla:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Madera County.

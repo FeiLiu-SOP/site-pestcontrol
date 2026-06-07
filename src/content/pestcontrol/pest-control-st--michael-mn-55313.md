@@ -11,6 +11,7 @@ lng: -93.6900
 zipSample: ["55313", "55376"]
 zipCodes: ["55313", "55376"]
 localPaths: ["Wright County / ZIP 55313 sector", "Wright County / ZIP 55376 sector", "Wright County / primary ZIP 55313", "Wright County / coords 45.2000, -93.6900", "Wright County / elevation 942 ft band"]
+zillowHomeValueUsd: 375227
 ---
 
 **Engineering Notice for St. Michael:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wright County.

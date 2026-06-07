@@ -11,6 +11,7 @@ lng: -81.8200
 zipSample: ["44142", "44188"]
 zipCodes: ["44142", "44188"]
 localPaths: ["Cuyahoga County / ZIP 44142 sector", "Cuyahoga County / elevation 787 ft band", "Cuyahoga County / ZIP 44188 sector", "Cuyahoga County / coords 41.4000, -81.8200", "Cuyahoga County / primary ZIP 44142"]
+zillowHomeValueUsd: 211774
 ---
 
 **Engineering Notice for Brook Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cuyahoga County.

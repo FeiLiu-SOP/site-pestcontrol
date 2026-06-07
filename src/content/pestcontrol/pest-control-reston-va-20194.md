@@ -11,6 +11,7 @@ lng: -77.3500
 zipSample: ["20190", "22096", "20191", "20192", "20194"]
 zipCodes: ["20192", "22096", "20194", "20191", "20190", "20195"]
 localPaths: ["Fairfax County / elevation 384 ft band", "Fairfax County / coords 38.9500, -77.3500", "Fairfax County / ZIP 20194 sector", "Fairfax County / primary ZIP 20194", "Fairfax County / ZIP 20191 sector"]
+zillowHomeValueUsd: 778961
 ---
 
 **Engineering Notice for Reston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.

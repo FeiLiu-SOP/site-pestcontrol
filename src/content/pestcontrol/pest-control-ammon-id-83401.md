@@ -11,6 +11,7 @@ lng: -111.9600
 zipSample: ["83401", "83406", "83403"]
 zipCodes: ["83406", "83403", "83401"]
 localPaths: ["Bonneville County / primary ZIP 83401", "Bonneville County / ZIP 83403 sector", "Bonneville County / coords 43.4700, -111.9600", "Bonneville County / elevation 4728 ft band", "Bonneville County / ZIP 83406 sector"]
+zillowHomeValueUsd: 401234
 ---
 
 **Engineering Notice for Ammon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bonneville County.

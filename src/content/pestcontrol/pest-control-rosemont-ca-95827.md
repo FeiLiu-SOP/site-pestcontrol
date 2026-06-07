@@ -11,6 +11,7 @@ lng: -121.3600
 zipSample: ["95826", "95827"]
 zipCodes: ["95827", "95826"]
 localPaths: ["Sacramento County / ZIP 95826 sector", "Sacramento County / coords 38.5500, -121.3600", "Sacramento County / elevation 62 ft band", "Sacramento County / primary ZIP 95827", "Sacramento County / ZIP 95827 sector"]
+zillowHomeValueUsd: 475689
 ---
 
 **Engineering Notice for Rosemont:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sacramento County.

@@ -11,6 +11,7 @@ lng: -92.0300
 zipSample: ["70506", "70502", "70593", "70504", "70501"]
 zipCodes: ["70504", "70505", "70509", "70598", "70502", "70507", "70593", "70596", "70506", "70508", "70503", "70501"]
 localPaths: ["Lafayette Parish / coords 30.2100, -92.0300", "Lafayette Parish / elevation 59 ft band", "Lafayette Parish / ZIP 70504 sector", "Lafayette Parish / ZIP 70593 sector", "Lafayette Parish / ZIP 70501 sector"]
+zillowHomeValueUsd: 291852
 ---
 
 **Engineering Notice for Lafayette:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lafayette Parish.

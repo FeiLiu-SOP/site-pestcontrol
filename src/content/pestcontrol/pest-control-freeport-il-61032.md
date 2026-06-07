@@ -11,6 +11,7 @@ lng: -89.6300
 zipSample: ["61032"]
 zipCodes: ["61032"]
 localPaths: ["Stephenson County / elevation 801 ft band", "Stephenson County / ZIP 61032 sector", "Stephenson County / primary ZIP 61032", "Stephenson County / coords 42.2900, -89.6300"]
+zillowHomeValueUsd: 123003
 ---
 
 **Engineering Notice for Freeport:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Stephenson County.

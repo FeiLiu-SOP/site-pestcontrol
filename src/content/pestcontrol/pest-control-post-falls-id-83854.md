@@ -11,6 +11,7 @@ lng: -116.9400
 zipSample: ["83877", "83854"]
 zipCodes: ["83877", "83854"]
 localPaths: ["Kootenai County / coords 47.7200, -116.9400", "Kootenai County / ZIP 83877 sector", "Kootenai County / ZIP 83854 sector", "Kootenai County / elevation 2205 ft band", "Kootenai County / primary ZIP 83854"]
+zillowHomeValueUsd: 526983
 ---
 
 **Engineering Notice for Post Falls:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kootenai County.

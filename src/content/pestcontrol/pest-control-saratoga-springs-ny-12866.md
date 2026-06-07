@@ -11,6 +11,7 @@ lng: -73.7800
 zipSample: ["12866"]
 zipCodes: ["12866"]
 localPaths: ["Saratoga County / coords 43.0700, -73.7800", "Saratoga County / elevation 325 ft band", "Saratoga County / ZIP 12866 sector", "Saratoga County / primary ZIP 12866"]
+zillowHomeValueUsd: 634144
 ---
 
 **Engineering Notice for Saratoga Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Saratoga County.

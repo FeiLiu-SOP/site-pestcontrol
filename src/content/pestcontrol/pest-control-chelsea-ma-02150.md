@@ -11,6 +11,7 @@ lng: -71.0300
 zipSample: ["02150", "02204"]
 zipCodes: ["02204", "02150"]
 localPaths: ["Suffolk County / ZIP 02204 sector", "Suffolk County / ZIP 02150 sector", "Suffolk County / primary ZIP 02150", "Suffolk County / coords 42.4000, -71.0300", "Suffolk County / elevation 39 ft band"]
+zillowHomeValueUsd: 525539
 ---
 
 **Engineering Notice for Chelsea:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

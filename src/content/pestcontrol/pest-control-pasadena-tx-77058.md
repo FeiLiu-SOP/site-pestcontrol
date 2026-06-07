@@ -11,6 +11,7 @@ lng: -95.1500
 zipSample: ["77505", "77586", "77502", "77507", "77508"]
 zipCodes: ["77059", "77508", "77504", "77502", "77506", "77058", "77507", "77505", "77586", "77501", "77503", "77258"]
 localPaths: ["Harris County / ZIP 77505 sector", "Harris County / ZIP 77502 sector", "Harris County / ZIP 77586 sector", "Harris County / primary ZIP 77058", "Harris County / elevation 33 ft band"]
+zillowHomeValueUsd: 239165
 ---
 
 **Engineering Notice for Pasadena:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harris County.

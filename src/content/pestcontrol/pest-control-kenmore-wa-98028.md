@@ -11,6 +11,7 @@ lng: -122.2500
 zipSample: ["98028"]
 zipCodes: ["98028"]
 localPaths: ["King County / ZIP 98028 sector", "King County / coords 47.7500, -122.2500", "King County / elevation 62 ft band", "King County / primary ZIP 98028"]
+zillowHomeValueUsd: 1047725
 ---
 
 **Engineering Notice for Kenmore:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.

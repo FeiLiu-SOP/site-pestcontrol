@@ -11,6 +11,7 @@ lng: -118.1800
 zipSample: ["90096", "90201"]
 zipCodes: ["90201", "90096"]
 localPaths: ["Los Angeles County / coords 33.9600, -118.1800", "Los Angeles County / ZIP 90096 sector", "Los Angeles County / ZIP 90201 sector", "Los Angeles County / primary ZIP 90201", "Los Angeles County / elevation 138 ft band"]
+zillowHomeValueUsd: 686987
 ---
 
 **Engineering Notice for Cudahy:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

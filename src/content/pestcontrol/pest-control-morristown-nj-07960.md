@@ -11,6 +11,7 @@ lng: -74.4800
 zipSample: ["07960", "07963"]
 zipCodes: ["07960", "07963"]
 localPaths: ["Morris County / coords 40.8000, -74.4800", "Morris County / ZIP 07963 sector", "Morris County / ZIP 07960 sector", "Morris County / primary ZIP 07960", "Morris County / elevation 341 ft band"]
+zillowHomeValueUsd: 887052
 ---
 
 **Engineering Notice for Morristown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Morris County.

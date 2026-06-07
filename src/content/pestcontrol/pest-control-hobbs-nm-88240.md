@@ -11,6 +11,7 @@ lng: -103.1600
 zipSample: ["88240", "88244"]
 zipCodes: ["88240", "88244"]
 localPaths: ["Lea County / ZIP 88244 sector", "Lea County / coords 32.7300, -103.1600", "Lea County / elevation 3648 ft band", "Lea County / primary ZIP 88240", "Lea County / ZIP 88240 sector"]
+zillowHomeValueUsd: 191231
 ---
 
 **Engineering Notice for Hobbs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lea County.

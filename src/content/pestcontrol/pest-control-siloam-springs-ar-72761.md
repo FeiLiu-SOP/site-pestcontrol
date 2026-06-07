@@ -11,6 +11,7 @@ lng: -94.5300
 zipSample: ["72761"]
 zipCodes: ["72761"]
 localPaths: ["Benton County / elevation 1152 ft band", "Benton County / ZIP 72761 sector", "Benton County / coords 36.1800, -94.5300", "Benton County / primary ZIP 72761"]
+zillowHomeValueUsd: 282545
 ---
 
 **Engineering Notice for Siloam Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Benton County.

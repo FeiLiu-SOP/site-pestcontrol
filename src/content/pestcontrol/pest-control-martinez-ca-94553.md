@@ -11,6 +11,7 @@ lng: -122.1200
 zipSample: ["94553"]
 zipCodes: ["94553"]
 localPaths: ["Contra Costa County / ZIP 94553 sector", "Contra Costa County / elevation 157 ft band", "Contra Costa County / primary ZIP 94553", "Contra Costa County / coords 38.0000, -122.1200"]
+zillowHomeValueUsd: 773318
 ---
 
 **Engineering Notice for Martinez:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.

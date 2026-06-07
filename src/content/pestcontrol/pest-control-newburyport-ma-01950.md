@@ -11,6 +11,7 @@ lng: -70.8900
 zipSample: ["01950"]
 zipCodes: ["01950"]
 localPaths: ["Essex County / primary ZIP 01950", "Essex County / coords 42.8100, -70.8900", "Essex County / elevation 79 ft band", "Essex County / ZIP 01950 sector"]
+zillowHomeValueUsd: 923073
 ---
 
 **Engineering Notice for Newburyport:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Essex County.

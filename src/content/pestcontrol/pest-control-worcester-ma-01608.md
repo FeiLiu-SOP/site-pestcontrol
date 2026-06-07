@@ -11,6 +11,7 @@ lng: -71.8100
 zipSample: ["01604", "01609", "01607", "01653", "01608"]
 zipCodes: ["01603", "01610", "01615", "01606", "01602", "01604", "01608", "01655", "01607", "01653", "01605", "01601"]
 localPaths: ["Worcester County / elevation 502 ft band", "Worcester County / ZIP 01608 sector", "Worcester County / primary ZIP 01608", "Worcester County / coords 42.2700, -71.8100", "Worcester County / ZIP 01604 sector"]
+zillowHomeValueUsd: 189611
 ---
 
 **Engineering Notice for Worcester:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Worcester County.

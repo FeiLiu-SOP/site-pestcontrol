@@ -11,6 +11,7 @@ lng: -81.5200
 zipSample: ["44119", "44123", "44117", "44132"]
 zipCodes: ["44117", "44132", "44123", "44119"]
 localPaths: ["Cuyahoga County / ZIP 44132 sector", "Cuyahoga County / ZIP 44119 sector", "Cuyahoga County / coords 41.5900, -81.5200", "Cuyahoga County / ZIP 44123 sector", "Cuyahoga County / ZIP 44117 sector"]
+zillowHomeValueUsd: 148137
 ---
 
 **Engineering Notice for Euclid:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cuyahoga County.

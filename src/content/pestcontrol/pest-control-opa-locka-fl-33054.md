@@ -11,6 +11,7 @@ lng: -80.2600
 zipSample: ["33054"]
 zipCodes: ["33054"]
 localPaths: ["Miami-Dade County / coords 25.9000, -80.2600", "Miami-Dade County / primary ZIP 33054", "Miami-Dade County / ZIP 33054 sector", "Miami-Dade County / elevation 26 ft band"]
+zillowHomeValueUsd: 416215
 ---
 
 **Engineering Notice for Opa-locka:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

@@ -11,6 +11,7 @@ lng: -91.2100
 zipSample: ["54650"]
 zipCodes: ["54650"]
 localPaths: ["La Crosse County / ZIP 54650 sector", "La Crosse County / primary ZIP 54650", "La Crosse County / elevation 722 ft band", "La Crosse County / coords 43.8900, -91.2100"]
+zillowHomeValueUsd: 357536
 ---
 
 **Engineering Notice for Onalaska:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: La Crosse County.

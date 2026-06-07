@@ -11,6 +11,7 @@ lng: -122.7000
 zipSample: ["94927", "94928"]
 zipCodes: ["94928", "94927"]
 localPaths: ["Sonoma County / primary ZIP 94928", "Sonoma County / ZIP 94927 sector", "Sonoma County / coords 38.3500, -122.7000", "Sonoma County / ZIP 94928 sector", "Sonoma County / elevation 108 ft band"]
+zillowHomeValueUsd: 713055
 ---
 
 **Engineering Notice for Rohnert Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sonoma County.

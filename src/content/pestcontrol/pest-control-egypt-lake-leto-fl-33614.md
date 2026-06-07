@@ -11,6 +11,7 @@ lng: -82.5100
 zipSample: ["33614"]
 zipCodes: ["33614"]
 localPaths: ["Hillsborough County / ZIP 33614 sector", "Hillsborough County / primary ZIP 33614", "Hillsborough County / coords 28.0200, -82.5100", "Hillsborough County / elevation 46 ft band"]
+zillowHomeValueUsd: 348743
 ---
 
 **Engineering Notice for Egypt Lake-Leto:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.

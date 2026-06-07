@@ -11,6 +11,7 @@ lng: -88.3200
 zipSample: ["60102"]
 zipCodes: ["60102"]
 localPaths: ["McHenry County / coords 42.1600, -88.3200", "McHenry County / ZIP 60102 sector", "McHenry County / elevation 886 ft band", "McHenry County / primary ZIP 60102"]
+zillowHomeValueUsd: 407646
 ---
 
 **Engineering Notice for Algonquin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: McHenry County.

@@ -11,6 +11,7 @@ lng: -78.8500
 zipSample: ["14202", "14273", "14205", "14210", "14204"]
 zipCodes: ["14273", "14207", "14280", "14276", "14211", "14208", "14269", "14210", "14215", "14270", "14205", "14202"]
 localPaths: ["Erie County / elevation 643 ft band", "Erie County / ZIP 14202 sector", "Erie County / primary ZIP 14208", "Erie County / ZIP 14204 sector", "Erie County / ZIP 14210 sector"]
+zillowHomeValueUsd: 136048
 ---
 
 **Engineering Notice for Buffalo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Erie County.

@@ -11,6 +11,7 @@ lng: -122.4700
 zipSample: ["98282"]
 zipCodes: ["98282"]
 localPaths: ["Island County / primary ZIP 98282", "Island County / elevation 0 ft band", "Island County / coords 48.1900, -122.4700", "Island County / ZIP 98282 sector"]
+zillowHomeValueUsd: 728541
 ---
 
 **Engineering Notice for Camano:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Island County.

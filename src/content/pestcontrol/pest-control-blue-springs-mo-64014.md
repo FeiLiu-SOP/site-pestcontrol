@@ -11,6 +11,7 @@ lng: -94.2700
 zipSample: ["64015", "64014", "64013"]
 zipCodes: ["64015", "64014", "64013"]
 localPaths: ["Jackson County / coords 39.0100, -94.2700", "Jackson County / ZIP 64013 sector", "Jackson County / primary ZIP 64014", "Jackson County / ZIP 64015 sector", "Jackson County / ZIP 64014 sector"]
+zillowHomeValueUsd: 301732
 ---
 
 **Engineering Notice for Blue Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jackson County.

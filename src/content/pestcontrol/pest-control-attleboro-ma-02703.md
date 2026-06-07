@@ -11,6 +11,7 @@ lng: -71.3000
 zipSample: ["02703"]
 zipCodes: ["02703"]
 localPaths: ["Bristol County / primary ZIP 02703", "Bristol County / coords 41.9300, -71.3000", "Bristol County / elevation 144 ft band", "Bristol County / ZIP 02703 sector"]
+zillowHomeValueUsd: 532893
 ---
 
 **Engineering Notice for Attleboro:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bristol County.

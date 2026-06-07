@@ -11,6 +11,7 @@ lng: -122.7900
 zipSample: ["98503", "98513", "98509", "98516"]
 zipCodes: ["98509", "98503", "98516", "98513"]
 localPaths: ["Thurston County / ZIP 98516 sector", "Thurston County / ZIP 98503 sector", "Thurston County / ZIP 98513 sector", "Thurston County / coords 47.0500, -122.7900", "Thurston County / elevation 174 ft band"]
+zillowHomeValueUsd: 507964
 ---
 
 **Engineering Notice for Lacey:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Thurston County.

@@ -11,6 +11,7 @@ lng: -80.7400
 zipSample: ["32955", "32940"]
 zipCodes: ["32940", "32955"]
 localPaths: ["Brevard County / ZIP 32940 sector", "Brevard County / primary ZIP 32955", "Brevard County / coords 28.2500, -80.7400", "Brevard County / elevation 33 ft band", "Brevard County / ZIP 32955 sector"]
+zillowHomeValueUsd: 369227
 ---
 
 **Engineering Notice for Viera West:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brevard County.

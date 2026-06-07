@@ -11,6 +11,7 @@ lng: -84.5900
 zipSample: ["41051", "41017", "41018"]
 zipCodes: ["41051", "41017", "41018"]
 localPaths: ["Kenton County / ZIP 41017 sector", "Kenton County / elevation 879 ft band", "Kenton County / coords 39.0100, -84.5900", "Kenton County / ZIP 41018 sector", "Kenton County / ZIP 41051 sector"]
+zillowHomeValueUsd: 234865
 ---
 
 **Engineering Notice for Erlanger:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kenton County.

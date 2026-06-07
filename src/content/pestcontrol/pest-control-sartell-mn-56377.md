@@ -11,6 +11,7 @@ lng: -94.2200
 zipSample: ["56377"]
 zipCodes: ["56377"]
 localPaths: ["Stearns County / primary ZIP 56377", "Stearns County / coords 45.6200, -94.2200", "Stearns County / elevation 1040 ft band", "Stearns County / ZIP 56377 sector"]
+zillowHomeValueUsd: 339312
 ---
 
 **Engineering Notice for Sartell:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Stearns County.

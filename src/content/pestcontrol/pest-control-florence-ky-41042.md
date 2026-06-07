@@ -11,6 +11,7 @@ lng: -84.6500
 zipSample: ["41042", "41022"]
 zipCodes: ["41022", "41042"]
 localPaths: ["Boone County / ZIP 41042 sector", "Boone County / elevation 896 ft band", "Boone County / coords 38.9900, -84.6500", "Boone County / ZIP 41022 sector", "Boone County / primary ZIP 41042"]
+zillowHomeValueUsd: 275026
 ---
 
 **Engineering Notice for Florence:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Boone County.

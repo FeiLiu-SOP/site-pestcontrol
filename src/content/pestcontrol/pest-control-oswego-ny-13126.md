@@ -11,6 +11,7 @@ lng: -76.5000
 zipSample: ["13126"]
 zipCodes: ["13126"]
 localPaths: ["Oswego County / elevation 341 ft band", "Oswego County / primary ZIP 13126", "Oswego County / coords 43.4500, -76.5000", "Oswego County / ZIP 13126 sector"]
+zillowHomeValueUsd: 181978
 ---
 
 **Engineering Notice for Oswego:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oswego County.

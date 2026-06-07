@@ -11,6 +11,7 @@ lng: -73.8300
 zipSample: ["10553", "10550", "10552", "10551"]
 zipCodes: ["10552", "10551", "10553", "10550"]
 localPaths: ["Westchester County / elevation 148 ft band", "Westchester County / ZIP 10550 sector", "Westchester County / ZIP 10551 sector", "Westchester County / primary ZIP 10552", "Westchester County / ZIP 10553 sector"]
+zillowHomeValueUsd: 534693
 ---
 
 **Engineering Notice for Mount Vernon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Westchester County.

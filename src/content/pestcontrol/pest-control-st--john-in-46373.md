@@ -11,6 +11,7 @@ lng: -87.4700
 zipSample: ["46373", "46311"]
 zipCodes: ["46311", "46373"]
 localPaths: ["Lake County / ZIP 46311 sector", "Lake County / elevation 702 ft band", "Lake County / coords 41.4400, -87.4700", "Lake County / primary ZIP 46373", "Lake County / ZIP 46373 sector"]
+zillowHomeValueUsd: 448531
 ---
 
 **Engineering Notice for St. John:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

@@ -11,6 +11,7 @@ lng: -76.6500
 zipSample: ["21093"]
 zipCodes: ["21093"]
 localPaths: ["Baltimore County / primary ZIP 21093", "Baltimore County / elevation 499 ft band", "Baltimore County / coords 39.4300, -76.6500", "Baltimore County / ZIP 21093 sector"]
+zillowHomeValueUsd: 506347
 ---
 
 **Engineering Notice for Mays Chapel:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.

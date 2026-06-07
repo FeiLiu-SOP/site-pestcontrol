@@ -11,6 +11,7 @@ lng: -122.6400
 zipSample: ["97068"]
 zipCodes: ["97068"]
 localPaths: ["Clackamas County / primary ZIP 97068", "Clackamas County / ZIP 97068 sector", "Clackamas County / coords 45.3700, -122.6400", "Clackamas County / elevation 673 ft band"]
+zillowHomeValueUsd: 773617
 ---
 
 **Engineering Notice for West Linn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clackamas County.

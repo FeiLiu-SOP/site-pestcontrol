@@ -11,6 +11,7 @@ lng: -93.1000
 zipSample: ["71458", "71457", "71497"]
 zipCodes: ["71497", "71458", "71457"]
 localPaths: ["Natchitoches Parish / coords 31.7300, -93.1000", "Natchitoches Parish / ZIP 71458 sector", "Natchitoches Parish / elevation 105 ft band", "Natchitoches Parish / primary ZIP 71457", "Natchitoches Parish / ZIP 71497 sector"]
+zillowHomeValueUsd: 180955
 ---
 
 **Engineering Notice for Natchitoches:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Natchitoches Parish.

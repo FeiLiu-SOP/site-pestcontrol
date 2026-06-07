@@ -11,6 +11,7 @@ lng: -82.9400
 zipSample: ["48066"]
 zipCodes: ["48066"]
 localPaths: ["Macomb County / elevation 623 ft band", "Macomb County / primary ZIP 48066", "Macomb County / coords 42.5100, -82.9400", "Macomb County / ZIP 48066 sector"]
+zillowHomeValueUsd: 168999
 ---
 
 **Engineering Notice for Roseville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Macomb County.

@@ -11,6 +11,7 @@ lng: -82.9000
 zipSample: ["48236"]
 zipCodes: ["48236"]
 localPaths: ["Wayne County / elevation 584 ft band", "Wayne County / ZIP 48236 sector", "Wayne County / coords 42.4400, -82.9000", "Wayne County / primary ZIP 48236"]
+zillowHomeValueUsd: 398258
 ---
 
 **Engineering Notice for Grosse Pointe Woods:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wayne County.

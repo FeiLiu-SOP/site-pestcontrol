@@ -11,6 +11,7 @@ lng: -98.1600
 zipSample: ["78542", "78541", "78539"]
 zipCodes: ["78542", "78539", "78541"]
 localPaths: ["Hidalgo County / ZIP 78542 sector", "Hidalgo County / elevation 112 ft band", "Hidalgo County / coords 26.3200, -98.1600", "Hidalgo County / primary ZIP 78539", "Hidalgo County / ZIP 78541 sector"]
+zillowHomeValueUsd: 244064
 ---
 
 **Engineering Notice for Edinburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hidalgo County.

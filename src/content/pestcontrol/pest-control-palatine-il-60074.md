@@ -11,6 +11,7 @@ lng: -88.0400
 zipSample: ["60067", "60074", "60055", "60095"]
 zipCodes: ["60095", "60055", "60074", "60067"]
 localPaths: ["Cook County / ZIP 60095 sector", "Cook County / ZIP 60074 sector", "Cook County / primary ZIP 60074", "Cook County / elevation 768 ft band", "Cook County / ZIP 60055 sector"]
+zillowHomeValueUsd: 301839
 ---
 
 **Engineering Notice for Palatine:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

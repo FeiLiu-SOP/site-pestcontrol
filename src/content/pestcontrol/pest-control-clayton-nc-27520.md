@@ -11,6 +11,7 @@ lng: -78.4500
 zipSample: ["27520", "27528", "27527"]
 zipCodes: ["27527", "27528", "27520"]
 localPaths: ["Johnston County / ZIP 27520 sector", "Johnston County / ZIP 27528 sector", "Johnston County / primary ZIP 27520", "Johnston County / coords 35.6600, -78.4500", "Johnston County / elevation 305 ft band"]
+zillowHomeValueUsd: 337469
 ---
 
 **Engineering Notice for Clayton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Johnston County.

@@ -11,6 +11,7 @@ lng: -86.5100
 zipSample: ["37121", "37122"]
 zipCodes: ["37122", "37121"]
 localPaths: ["Wilson County / ZIP 37121 sector", "Wilson County / coords 36.2000, -86.5100", "Wilson County / elevation 577 ft band", "Wilson County / primary ZIP 37122", "Wilson County / ZIP 37122 sector"]
+zillowHomeValueUsd: 571585
 ---
 
 **Engineering Notice for Mount Juliet:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wilson County.

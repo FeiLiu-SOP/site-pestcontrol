@@ -11,6 +11,7 @@ lng: -97.5400
 zipSample: ["78634"]
 zipCodes: ["78634"]
 localPaths: ["Williamson County / primary ZIP 78634", "Williamson County / elevation 659 ft band", "Williamson County / ZIP 78634 sector", "Williamson County / coords 30.5400, -97.5400"]
+zillowHomeValueUsd: 338093
 ---
 
 **Engineering Notice for Hutto:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Williamson County.

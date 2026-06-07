@@ -11,6 +11,7 @@ lng: -99.7800
 zipSample: ["78801"]
 zipCodes: ["78801"]
 localPaths: ["Uvalde County / ZIP 78801 sector", "Uvalde County / coords 29.2200, -99.7800", "Uvalde County / primary ZIP 78801", "Uvalde County / elevation 909 ft band"]
+zillowHomeValueUsd: 182572
 ---
 
 **Engineering Notice for Uvalde:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Uvalde County.

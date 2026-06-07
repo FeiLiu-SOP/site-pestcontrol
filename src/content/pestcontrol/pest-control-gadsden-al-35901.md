@@ -11,6 +11,7 @@ lng: -86.0200
 zipSample: ["35901", "35904", "35903", "35902"]
 zipCodes: ["35902", "35901", "35904", "35903"]
 localPaths: ["Etowah County / ZIP 35903 sector", "Etowah County / elevation 581 ft band", "Etowah County / coords 34.0100, -86.0200", "Etowah County / primary ZIP 35901", "Etowah County / ZIP 35904 sector"]
+zillowHomeValueUsd: 158201
 ---
 
 **Engineering Notice for Gadsden:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Etowah County.

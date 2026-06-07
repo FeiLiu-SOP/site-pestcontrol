@@ -11,6 +11,7 @@ lng: -104.6100
 zipSample: ["81001", "81005", "81002", "81010", "81011"]
 zipCodes: ["81002", "81010", "81008", "81004", "81005", "81001", "81003", "81011", "81012"]
 localPaths: ["Pueblo County / elevation 4669 ft band", "Pueblo County / ZIP 81002 sector", "Pueblo County / ZIP 81011 sector", "Pueblo County / ZIP 81010 sector", "Pueblo County / primary ZIP 81004"]
+zillowHomeValueUsd: 195461
 ---
 
 **Engineering Notice for Pueblo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pueblo County.

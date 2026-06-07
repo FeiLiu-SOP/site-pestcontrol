@@ -11,6 +11,7 @@ lng: -111.9600
 zipSample: ["84414"]
 zipCodes: ["84414"]
 localPaths: ["Weber County / primary ZIP 84414", "Weber County / elevation 4619 ft band", "Weber County / ZIP 84414 sector", "Weber County / coords 41.3100, -111.9600"]
+zillowHomeValueUsd: 544731
 ---
 
 **Engineering Notice for North Ogden:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Weber County.

@@ -11,6 +11,7 @@ lng: -76.9500
 zipSample: ["20866", "20905", "20904"]
 zipCodes: ["20905", "20904", "20866"]
 localPaths: ["Montgomery County / ZIP 20905 sector", "Montgomery County / primary ZIP 20866", "Montgomery County / coords 39.0800, -76.9500", "Montgomery County / elevation 453 ft band", "Montgomery County / ZIP 20904 sector"]
+zillowHomeValueUsd: 468438
 ---
 
 **Engineering Notice for Fairland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

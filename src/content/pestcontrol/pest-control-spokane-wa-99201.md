@@ -11,6 +11,7 @@ lng: -117.4300
 zipSample: ["99204", "99202", "99223", "99258", "99256"]
 zipCodes: ["99209", "99207", "99223", "99220", "99224", "99252", "99212", "99210", "99219", "99203", "99208", "99001"]
 localPaths: ["Spokane County / ZIP 99204 sector", "Spokane County / coords 47.6700, -117.4300", "Spokane County / elevation 1900 ft band", "Spokane County / ZIP 99256 sector", "Spokane County / ZIP 99258 sector"]
+zillowHomeValueUsd: 325743
 ---
 
 **Engineering Notice for Spokane:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Spokane County.

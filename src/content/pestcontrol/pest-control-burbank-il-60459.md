@@ -11,6 +11,7 @@ lng: -87.7700
 zipSample: ["60459"]
 zipCodes: ["60459"]
 localPaths: ["Cook County / coords 41.7400, -87.7700", "Cook County / elevation 623 ft band", "Cook County / primary ZIP 60459", "Cook County / ZIP 60459 sector"]
+zillowHomeValueUsd: 302216
 ---
 
 **Engineering Notice for Burbank:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

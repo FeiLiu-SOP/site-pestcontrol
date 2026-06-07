@@ -11,6 +11,7 @@ lng: -82.8800
 zipSample: ["48043", "48046"]
 zipCodes: ["48046", "48043"]
 localPaths: ["Macomb County / ZIP 48043 sector", "Macomb County / primary ZIP 48043", "Macomb County / coords 42.6000, -82.8800", "Macomb County / elevation 614 ft band", "Macomb County / ZIP 48046 sector"]
+zillowHomeValueUsd: 174682
 ---
 
 **Engineering Notice for Mount Clemens:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Macomb County.

@@ -11,6 +11,7 @@ lng: -92.7300
 zipSample: ["54016"]
 zipCodes: ["54016"]
 localPaths: ["St. Croix County / primary ZIP 54016", "St. Croix County / elevation 840 ft band", "St. Croix County / coords 44.9600, -92.7300", "St. Croix County / ZIP 54016 sector"]
+zillowHomeValueUsd: 487083
 ---
 
 **Engineering Notice for Hudson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Croix County.

@@ -11,6 +11,7 @@ lng: -121.4500
 zipSample: ["95823", "94206"]
 zipCodes: ["95823", "94206"]
 localPaths: ["Sacramento County / ZIP 94206 sector", "Sacramento County / elevation 16 ft band", "Sacramento County / ZIP 95823 sector", "Sacramento County / coords 38.5000, -121.4500", "Sacramento County / primary ZIP 95823"]
+zillowHomeValueUsd: 428732
 ---
 
 **Engineering Notice for Parkway:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sacramento County.

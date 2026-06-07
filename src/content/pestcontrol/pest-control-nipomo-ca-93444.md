@@ -11,6 +11,7 @@ lng: -120.5000
 zipSample: ["93444"]
 zipCodes: ["93444"]
 localPaths: ["San Luis Obispo County / ZIP 93444 sector", "San Luis Obispo County / elevation 377 ft band", "San Luis Obispo County / coords 35.0300, -120.5000", "San Luis Obispo County / primary ZIP 93444"]
+zillowHomeValueUsd: 941631
 ---
 
 **Engineering Notice for Nipomo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Luis Obispo County.

@@ -11,6 +11,7 @@ lng: -120.4400
 zipSample: ["93458", "93454", "93455"]
 zipCodes: ["93454", "93458", "93455"]
 localPaths: ["Santa Barbara County / ZIP 93454 sector", "Santa Barbara County / coords 34.9300, -120.4400", "Santa Barbara County / primary ZIP 93454", "Santa Barbara County / ZIP 93458 sector", "Santa Barbara County / ZIP 93455 sector"]
+zillowHomeValueUsd: 626984
 ---
 
 **Engineering Notice for Santa Maria:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Barbara County.

@@ -11,6 +11,7 @@ lng: -73.0700
 zipSample: ["11741"]
 zipCodes: ["11741"]
 localPaths: ["Suffolk County / primary ZIP 11741", "Suffolk County / ZIP 11741 sector", "Suffolk County / coords 40.7900, -73.0700", "Suffolk County / elevation 92 ft band"]
+zillowHomeValueUsd: 648611
 ---
 
 **Engineering Notice for Holbrook:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

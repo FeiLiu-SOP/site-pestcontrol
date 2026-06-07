@@ -11,6 +11,7 @@ lng: -81.8500
 zipSample: ["33903", "33918", "33917"]
 zipCodes: ["33918", "33903", "33917"]
 localPaths: ["Lee County / ZIP 33917 sector", "Lee County / elevation 39 ft band", "Lee County / primary ZIP 33917", "Lee County / ZIP 33918 sector", "Lee County / ZIP 33903 sector"]
+zillowHomeValueUsd: 291521
 ---
 
 **Engineering Notice for North Fort Myers:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lee County.

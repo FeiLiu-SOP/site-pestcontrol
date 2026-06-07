@@ -11,6 +11,7 @@ lng: -122.2600
 zipSample: ["94503"]
 zipCodes: ["94503"]
 localPaths: ["Napa County / elevation 62 ft band", "Napa County / coords 38.1800, -122.2600", "Napa County / primary ZIP 94503", "Napa County / ZIP 94503 sector"]
+zillowHomeValueUsd: 748804
 ---
 
 **Engineering Notice for American Canyon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Napa County.

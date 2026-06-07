@@ -11,6 +11,7 @@ lng: -93.5700
 zipSample: ["50125"]
 zipCodes: ["50125"]
 localPaths: ["Warren County / primary ZIP 50125", "Warren County / ZIP 50125 sector", "Warren County / coords 41.3600, -93.5700", "Warren County / elevation 958 ft band"]
+zillowHomeValueUsd: 309548
 ---
 
 **Engineering Notice for Indianola:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Warren County.

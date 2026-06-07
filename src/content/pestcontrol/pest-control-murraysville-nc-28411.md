@@ -11,6 +11,7 @@ lng: -77.8400
 zipSample: ["28411"]
 zipCodes: ["28411"]
 localPaths: ["New Hanover County / primary ZIP 28411", "New Hanover County / elevation 36 ft band", "New Hanover County / ZIP 28411 sector", "New Hanover County / coords 34.2900, -77.8400"]
+zillowHomeValueUsd: 463600
 ---
 
 **Engineering Notice for Murraysville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: New Hanover County.

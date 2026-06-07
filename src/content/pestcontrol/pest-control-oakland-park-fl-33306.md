@@ -11,6 +11,7 @@ lng: -80.1500
 zipSample: ["33335", "33334", "33309", "33306", "33310"]
 zipCodes: ["33310", "33335", "33309", "33334", "33306"]
 localPaths: ["Broward County / ZIP 33309 sector", "Broward County / ZIP 33335 sector", "Broward County / ZIP 33334 sector", "Broward County / elevation 23 ft band", "Broward County / primary ZIP 33306"]
+zillowHomeValueUsd: 583681
 ---
 
 **Engineering Notice for Oakland Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.

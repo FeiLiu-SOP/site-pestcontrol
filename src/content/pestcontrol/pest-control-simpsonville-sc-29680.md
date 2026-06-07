@@ -11,6 +11,7 @@ lng: -82.2600
 zipSample: ["29680", "29681"]
 zipCodes: ["29681", "29680"]
 localPaths: ["Greenville County / primary ZIP 29680", "Greenville County / coords 34.7300, -82.2600", "Greenville County / ZIP 29680 sector", "Greenville County / ZIP 29681 sector", "Greenville County / elevation 889 ft band"]
+zillowHomeValueUsd: 343593
 ---
 
 **Engineering Notice for Simpsonville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Greenville County.

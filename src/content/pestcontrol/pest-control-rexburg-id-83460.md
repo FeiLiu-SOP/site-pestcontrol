@@ -11,6 +11,7 @@ lng: -111.7900
 zipSample: ["83440", "83460"]
 zipCodes: ["83460", "83440"]
 localPaths: ["Madison County / ZIP 83440 sector", "Madison County / coords 43.8200, -111.7900", "Madison County / ZIP 83460 sector", "Madison County / elevation 4872 ft band", "Madison County / primary ZIP 83460"]
+zillowHomeValueUsd: 417034
 ---
 
 **Engineering Notice for Rexburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Madison County.

@@ -11,6 +11,7 @@ lng: -83.0300
 zipSample: ["48088", "48089", "48092", "48091", "48093"]
 zipCodes: ["48092", "48397", "48093", "48088", "48089", "48091"]
 localPaths: ["Macomb County / ZIP 48088 sector", "Macomb County / coords 42.4900, -83.0300", "Macomb County / elevation 623 ft band", "Macomb County / ZIP 48091 sector", "Macomb County / ZIP 48092 sector"]
+zillowHomeValueUsd: 241896
 ---
 
 **Engineering Notice for Warren:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Macomb County.

@@ -11,6 +11,7 @@ lng: -104.8500
 zipSample: ["80108", "80104", "80109"]
 zipCodes: ["80108", "80109", "80104"]
 localPaths: ["Douglas County / elevation 6309 ft band", "Douglas County / coords 39.3800, -104.8500", "Douglas County / ZIP 80108 sector", "Douglas County / primary ZIP 80104", "Douglas County / ZIP 80109 sector"]
+zillowHomeValueUsd: 614729
 ---
 
 **Engineering Notice for Castle Rock:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Douglas County.

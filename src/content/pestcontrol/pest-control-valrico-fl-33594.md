@@ -11,6 +11,7 @@ lng: -82.2300
 zipSample: ["33594", "33596"]
 zipCodes: ["33594", "33596"]
 localPaths: ["Hillsborough County / ZIP 33596 sector", "Hillsborough County / elevation 115 ft band", "Hillsborough County / ZIP 33594 sector", "Hillsborough County / primary ZIP 33594", "Hillsborough County / coords 27.9200, -82.2300"]
+zillowHomeValueUsd: 369772
 ---
 
 **Engineering Notice for Valrico:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.

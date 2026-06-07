@@ -11,6 +11,7 @@ lng: -88.8300
 zipSample: ["61350"]
 zipCodes: ["61350"]
 localPaths: ["LaSalle County / elevation 479 ft band", "LaSalle County / ZIP 61350 sector", "LaSalle County / coords 41.3600, -88.8300", "LaSalle County / primary ZIP 61350"]
+zillowHomeValueUsd: 205361
 ---
 
 **Engineering Notice for Ottawa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: LaSalle County.

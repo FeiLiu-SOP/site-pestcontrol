@@ -11,6 +11,7 @@ lng: -81.3400
 zipSample: ["32746", "32795"]
 zipCodes: ["32746", "32795"]
 localPaths: ["Seminole County / ZIP 32795 sector", "Seminole County / elevation 89 ft band", "Seminole County / coords 28.7600, -81.3400", "Seminole County / primary ZIP 32746", "Seminole County / ZIP 32746 sector"]
+zillowHomeValueUsd: 467369
 ---
 
 **Engineering Notice for Lake Mary:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Seminole County.

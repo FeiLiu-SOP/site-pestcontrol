@@ -11,6 +11,7 @@ lng: -77.1900
 zipSample: ["22043", "22106", "22103", "22101", "22109"]
 zipCodes: ["22046", "22102", "22067", "22107", "22106", "22101", "22108", "22103", "22043", "22109"]
 localPaths: ["Fairfax County / coords 38.9400, -77.1900", "Fairfax County / ZIP 22103 sector", "Fairfax County / ZIP 22043 sector", "Fairfax County / primary ZIP 22046", "Fairfax County / ZIP 22101 sector"]
+zillowHomeValueUsd: 1052496
 ---
 
 **Engineering Notice for McLean:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.

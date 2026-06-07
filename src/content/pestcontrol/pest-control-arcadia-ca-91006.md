@@ -11,6 +11,7 @@ lng: -118.0400
 zipSample: ["91006", "91077", "91007", "91066"]
 zipCodes: ["91007", "91077", "91066", "91006"]
 localPaths: ["Los Angeles County / primary ZIP 91006", "Los Angeles County / ZIP 91007 sector", "Los Angeles County / ZIP 91077 sector", "Los Angeles County / ZIP 91066 sector", "Los Angeles County / coords 34.1300, -118.0400"]
+zillowHomeValueUsd: 1404701
 ---
 
 **Engineering Notice for Arcadia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

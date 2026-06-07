@@ -11,6 +11,7 @@ lng: -81.2200
 zipSample: ["29071", "29072"]
 zipCodes: ["29072", "29071"]
 localPaths: ["Lexington County / ZIP 29071 sector", "Lexington County / elevation 338 ft band", "Lexington County / coords 33.9900, -81.2200", "Lexington County / primary ZIP 29072", "Lexington County / ZIP 29072 sector"]
+zillowHomeValueUsd: 361360
 ---
 
 **Engineering Notice for Lexington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lexington County.

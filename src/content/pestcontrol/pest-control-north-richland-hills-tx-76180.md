@@ -11,6 +11,7 @@ lng: -97.2200
 zipSample: ["76180", "76185", "76182"]
 zipCodes: ["76180", "76182", "76185"]
 localPaths: ["Tarrant County / coords 32.8600, -97.2200", "Tarrant County / ZIP 76185 sector", "Tarrant County / primary ZIP 76180", "Tarrant County / elevation 636 ft band", "Tarrant County / ZIP 76182 sector"]
+zillowHomeValueUsd: 336921
 ---
 
 **Engineering Notice for North Richland Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tarrant County.

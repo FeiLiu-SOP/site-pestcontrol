@@ -11,6 +11,7 @@ lng: -83.3400
 zipSample: ["48136", "48135"]
 zipCodes: ["48135", "48136"]
 localPaths: ["Wayne County / ZIP 48136 sector", "Wayne County / coords 42.3200, -83.3400", "Wayne County / elevation 640 ft band", "Wayne County / ZIP 48135 sector", "Wayne County / primary ZIP 48135"]
+zillowHomeValueUsd: 200488
 ---
 
 **Engineering Notice for Garden City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wayne County.

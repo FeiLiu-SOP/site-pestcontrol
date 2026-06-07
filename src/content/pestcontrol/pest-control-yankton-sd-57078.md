@@ -11,6 +11,7 @@ lng: -97.3900
 zipSample: ["57078"]
 zipCodes: ["57078"]
 localPaths: ["Yankton County / coords 42.8900, -97.3900", "Yankton County / ZIP 57078 sector", "Yankton County / primary ZIP 57078", "Yankton County / elevation 1253 ft band"]
+zillowHomeValueUsd: 270849
 ---
 
 **Engineering Notice for Yankton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Yankton County.

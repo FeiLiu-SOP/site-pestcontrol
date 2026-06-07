@@ -11,6 +11,7 @@ lng: -81.1900
 zipSample: ["32766", "32762", "32765"]
 zipCodes: ["32762", "32765", "32766"]
 localPaths: ["Seminole County / primary ZIP 32765", "Seminole County / ZIP 32765 sector", "Seminole County / ZIP 32762 sector", "Seminole County / elevation 69 ft band", "Seminole County / ZIP 32766 sector"]
+zillowHomeValueUsd: 489545
 ---
 
 **Engineering Notice for Oviedo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Seminole County.

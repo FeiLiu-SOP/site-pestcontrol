@@ -11,6 +11,7 @@ lng: -92.9100
 zipSample: ["50158"]
 zipCodes: ["50158"]
 localPaths: ["Marshall County / primary ZIP 50158", "Marshall County / ZIP 50158 sector", "Marshall County / coords 42.0300, -92.9100", "Marshall County / elevation 902 ft band"]
+zillowHomeValueUsd: 174168
 ---
 
 **Engineering Notice for Marshalltown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marshall County.

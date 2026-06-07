@@ -11,6 +11,7 @@ lng: -98.3100
 zipSample: ["78148"]
 zipCodes: ["78148"]
 localPaths: ["Bexar County / coords 29.5500, -98.3100", "Bexar County / elevation 846 ft band", "Bexar County / primary ZIP 78148", "Bexar County / ZIP 78148 sector"]
+zillowHomeValueUsd: 265117
 ---
 
 **Engineering Notice for Universal City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bexar County.

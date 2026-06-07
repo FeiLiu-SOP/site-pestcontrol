@@ -11,6 +11,7 @@ lng: -94.9900
 zipSample: ["77563", "77568"]
 zipCodes: ["77563", "77568"]
 localPaths: ["Galveston County / ZIP 77568 sector", "Galveston County / primary ZIP 77563", "Galveston County / elevation 26 ft band", "Galveston County / coords 29.3700, -94.9900", "Galveston County / ZIP 77563 sector"]
+zillowHomeValueUsd: 253452
 ---
 
 **Engineering Notice for La Marque:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Galveston County.

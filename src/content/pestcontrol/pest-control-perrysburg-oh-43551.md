@@ -11,6 +11,7 @@ lng: -83.6400
 zipSample: ["43551", "43552"]
 zipCodes: ["43551", "43552"]
 localPaths: ["Wood County / elevation 633 ft band", "Wood County / ZIP 43552 sector", "Wood County / ZIP 43551 sector", "Wood County / primary ZIP 43551", "Wood County / coords 41.5400, -83.6400"]
+zillowHomeValueUsd: 333087
 ---
 
 **Engineering Notice for Perrysburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wood County.

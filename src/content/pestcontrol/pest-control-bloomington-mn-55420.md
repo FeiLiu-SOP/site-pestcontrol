@@ -11,6 +11,7 @@ lng: -93.3200
 zipSample: ["55437", "55431", "55425", "55435", "55420"]
 zipCodes: ["55431", "55437", "55420", "55435", "55425", "55438"]
 localPaths: ["Hennepin County / primary ZIP 55420", "Hennepin County / ZIP 55420 sector", "Hennepin County / ZIP 55431 sector", "Hennepin County / elevation 804 ft band", "Hennepin County / ZIP 55437 sector"]
+zillowHomeValueUsd: 333318
 ---
 
 **Engineering Notice for Bloomington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hennepin County.

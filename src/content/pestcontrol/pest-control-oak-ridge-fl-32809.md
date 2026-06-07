@@ -11,6 +11,7 @@ lng: -81.4200
 zipSample: ["32809", "32839"]
 zipCodes: ["32809", "32839"]
 localPaths: ["Orange County / primary ZIP 32809", "Orange County / ZIP 32809 sector", "Orange County / coords 28.4700, -81.4200", "Orange County / elevation 108 ft band", "Orange County / ZIP 32839 sector"]
+zillowHomeValueUsd: 311188
 ---
 
 **Engineering Notice for Oak Ridge:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

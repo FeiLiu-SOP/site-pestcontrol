@@ -11,6 +11,7 @@ lng: -84.1400
 zipSample: ["45458", "45459"]
 zipCodes: ["45459", "45458"]
 localPaths: ["Montgomery County / ZIP 45458 sector", "Montgomery County / elevation 991 ft band", "Montgomery County / ZIP 45459 sector", "Montgomery County / primary ZIP 45459", "Montgomery County / coords 39.6300, -84.1400"]
+zillowHomeValueUsd: 332139
 ---
 
 **Engineering Notice for Centerville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

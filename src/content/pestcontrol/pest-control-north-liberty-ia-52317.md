@@ -11,6 +11,7 @@ lng: -91.6100
 zipSample: ["52317"]
 zipCodes: ["52317"]
 localPaths: ["Johnson County / coords 41.7400, -91.6100", "Johnson County / primary ZIP 52317", "Johnson County / ZIP 52317 sector", "Johnson County / elevation 768 ft band"]
+zillowHomeValueUsd: 307494
 ---
 
 **Engineering Notice for North Liberty:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Johnson County.

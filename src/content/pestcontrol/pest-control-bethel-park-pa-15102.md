@@ -11,6 +11,7 @@ lng: -80.0400
 zipSample: ["15234", "15102"]
 zipCodes: ["15102", "15234"]
 localPaths: ["Allegheny County / primary ZIP 15102", "Allegheny County / ZIP 15102 sector", "Allegheny County / elevation 1207 ft band", "Allegheny County / coords 40.3200, -80.0400", "Allegheny County / ZIP 15234 sector"]
+zillowHomeValueUsd: 301022
 ---
 
 **Engineering Notice for Bethel Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Allegheny County.

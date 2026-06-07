@@ -11,6 +11,7 @@ lng: -71.7700
 zipSample: ["01453"]
 zipCodes: ["01453"]
 localPaths: ["Worcester County / primary ZIP 01453", "Worcester County / ZIP 01453 sector", "Worcester County / elevation 502 ft band", "Worcester County / coords 42.5200, -71.7700"]
+zillowHomeValueUsd: 463711
 ---
 
 **Engineering Notice for Leominster:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Worcester County.

@@ -11,6 +11,7 @@ lng: -76.3000
 zipSample: ["21010", "21040"]
 zipCodes: ["21010", "21040"]
 localPaths: ["Harford County / primary ZIP 21010", "Harford County / ZIP 21010 sector", "Harford County / elevation 82 ft band", "Harford County / coords 39.4200, -76.3000", "Harford County / ZIP 21040 sector"]
+zillowHomeValueUsd: 264036
 ---
 
 **Engineering Notice for Edgewood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harford County.

@@ -11,6 +11,7 @@ lng: -87.9600
 zipSample: ["60061"]
 zipCodes: ["60061"]
 localPaths: ["Lake County / primary ZIP 60061", "Lake County / elevation 689 ft band", "Lake County / coords 42.2300, -87.9600", "Lake County / ZIP 60061 sector"]
+zillowHomeValueUsd: 449126
 ---
 
 **Engineering Notice for Vernon Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

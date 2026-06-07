@@ -11,6 +11,7 @@ lng: -80.4300
 zipSample: ["24062", "24060", "24061", "24111", "24063"]
 zipCodes: ["24063", "24062", "24060", "24061", "24111"]
 localPaths: ["Montgomery County / ZIP 24061 sector", "Montgomery County / primary ZIP 24061", "Montgomery County / ZIP 24111 sector", "Montgomery County / coords 37.2300, -80.4300", "Montgomery County / elevation 2041 ft band"]
+zillowHomeValueUsd: 425915
 ---
 
 **Engineering Notice for Blacksburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

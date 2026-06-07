@@ -11,6 +11,7 @@ lng: -80.5600
 zipSample: ["24143", "24141", "24142"]
 zipCodes: ["24141", "24142", "24143"]
 localPaths: ["Radford County / elevation 1877 ft band", "Radford County / ZIP 24142 sector", "Radford County / ZIP 24143 sector", "Radford County / ZIP 24141 sector", "Radford County / primary ZIP 24142"]
+zillowHomeValueUsd: 262272
 ---
 
 **Engineering Notice for Radford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Radford County.

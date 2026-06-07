@@ -11,6 +11,7 @@ lng: -73.9900
 zipSample: ["07740"]
 zipCodes: ["07740"]
 localPaths: ["Monmouth County / ZIP 07740 sector", "Monmouth County / elevation 33 ft band", "Monmouth County / primary ZIP 07740", "Monmouth County / coords 40.3000, -73.9900"]
+zillowHomeValueUsd: 794620
 ---
 
 **Engineering Notice for Long Branch:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Monmouth County.

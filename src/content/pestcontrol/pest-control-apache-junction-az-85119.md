@@ -11,6 +11,7 @@ lng: -111.5300
 zipSample: ["85117", "85120", "85119", "85178"]
 zipCodes: ["85117", "85120", "85119", "85178"]
 localPaths: ["Pinal County / ZIP 85178 sector", "Pinal County / ZIP 85119 sector", "Pinal County / primary ZIP 85119", "Pinal County / coords 33.4000, -111.5300", "Pinal County / ZIP 85120 sector"]
+zillowHomeValueUsd: 398024
 ---
 
 **Engineering Notice for Apache Junction:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pinal County.

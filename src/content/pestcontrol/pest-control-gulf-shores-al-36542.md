@@ -11,6 +11,7 @@ lng: -87.7000
 zipSample: ["36547", "36542"]
 zipCodes: ["36542", "36547"]
 localPaths: ["Baldwin County / ZIP 36542 sector", "Baldwin County / ZIP 36547 sector", "Baldwin County / elevation 33 ft band", "Baldwin County / primary ZIP 36542", "Baldwin County / coords 30.2800, -87.7000"]
+zillowHomeValueUsd: 455616
 ---
 
 **Engineering Notice for Gulf Shores:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baldwin County.

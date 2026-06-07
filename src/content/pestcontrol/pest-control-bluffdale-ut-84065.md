@@ -11,6 +11,7 @@ lng: -111.9400
 zipSample: ["84065"]
 zipCodes: ["84065"]
 localPaths: ["Salt Lake County / primary ZIP 84065", "Salt Lake County / ZIP 84065 sector", "Salt Lake County / elevation 4521 ft band", "Salt Lake County / coords 40.4700, -111.9400"]
+zillowHomeValueUsd: 643114
 ---
 
 **Engineering Notice for Bluffdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Salt Lake County.

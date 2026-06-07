@@ -11,6 +11,7 @@ lng: -118.3500
 zipSample: ["90260"]
 zipCodes: ["90260"]
 localPaths: ["Los Angeles County / ZIP 90260 sector", "Los Angeles County / primary ZIP 90260", "Los Angeles County / coords 33.8900, -118.3500", "Los Angeles County / elevation 69 ft band"]
+zillowHomeValueUsd: 814645
 ---
 
 **Engineering Notice for Lawndale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

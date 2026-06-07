@@ -11,6 +11,7 @@ lng: -95.0600
 zipSample: ["56201"]
 zipCodes: ["56201"]
 localPaths: ["Kandiyohi County / coords 45.1200, -95.0600", "Kandiyohi County / ZIP 56201 sector", "Kandiyohi County / elevation 1122 ft band", "Kandiyohi County / primary ZIP 56201"]
+zillowHomeValueUsd: 236380
 ---
 
 **Engineering Notice for Willmar:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kandiyohi County.

@@ -11,6 +11,7 @@ lng: -98.3800
 zipSample: ["78574", "78572"]
 zipCodes: ["78574", "78572"]
 localPaths: ["Hidalgo County / ZIP 78572 sector", "Hidalgo County / primary ZIP 78574", "Hidalgo County / elevation 148 ft band", "Hidalgo County / ZIP 78574 sector", "Hidalgo County / coords 26.2300, -98.3800"]
+zillowHomeValueUsd: 196731
 ---
 
 **Engineering Notice for Palmview:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hidalgo County.

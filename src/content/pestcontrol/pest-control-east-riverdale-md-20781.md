@@ -11,6 +11,7 @@ lng: -76.9100
 zipSample: ["20781", "20737"]
 zipCodes: ["20781", "20737"]
 localPaths: ["Prince George's County / elevation 135 ft band", "Prince George's County / ZIP 20781 sector", "Prince George's County / primary ZIP 20781", "Prince George's County / ZIP 20737 sector", "Prince George's County / coords 38.9600, -76.9100"]
+zillowHomeValueUsd: 434827
 ---
 
 **Engineering Notice for East Riverdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince George's County.

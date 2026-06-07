@@ -11,6 +11,7 @@ lng: -122.6300
 zipSample: ["98221"]
 zipCodes: ["98221"]
 localPaths: ["Skagit County / ZIP 98221 sector", "Skagit County / primary ZIP 98221", "Skagit County / elevation 302 ft band", "Skagit County / coords 48.4900, -122.6300"]
+zillowHomeValueUsd: 720445
 ---
 
 **Engineering Notice for Anacortes:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Skagit County.

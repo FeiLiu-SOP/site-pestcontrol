@@ -11,6 +11,7 @@ lng: -97.4200
 zipSample: ["68701", "68702"]
 zipCodes: ["68701", "68702"]
 localPaths: ["Madison County / primary ZIP 68701", "Madison County / ZIP 68702 sector", "Madison County / coords 42.0300, -97.4200", "Madison County / ZIP 68701 sector", "Madison County / elevation 1532 ft band"]
+zillowHomeValueUsd: 256058
 ---
 
 **Engineering Notice for Norfolk:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Madison County.

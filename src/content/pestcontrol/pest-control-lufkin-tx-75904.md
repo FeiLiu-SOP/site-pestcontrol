@@ -11,6 +11,7 @@ lng: -94.7300
 zipSample: ["75901", "75904", "75903", "75915"]
 zipCodes: ["75915", "75901", "75904", "75903"]
 localPaths: ["Angelina County / ZIP 75903 sector", "Angelina County / coords 31.3200, -94.7300", "Angelina County / ZIP 75904 sector", "Angelina County / ZIP 75901 sector", "Angelina County / elevation 282 ft band"]
+zillowHomeValueUsd: 207436
 ---
 
 **Engineering Notice for Lufkin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Angelina County.

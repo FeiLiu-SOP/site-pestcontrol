@@ -11,6 +11,7 @@ lng: -73.2500
 zipSample: ["11754"]
 zipCodes: ["11754"]
 localPaths: ["Suffolk County / ZIP 11754 sector", "Suffolk County / primary ZIP 11754", "Suffolk County / elevation 174 ft band", "Suffolk County / coords 40.8900, -73.2500"]
+zillowHomeValueUsd: 737733
 ---
 
 **Engineering Notice for Kings Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

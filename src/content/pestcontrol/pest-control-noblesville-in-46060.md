@@ -11,6 +11,7 @@ lng: -86.0000
 zipSample: ["46061", "46062", "46060"]
 zipCodes: ["46060", "46061", "46062"]
 localPaths: ["Hamilton County / ZIP 46061 sector", "Hamilton County / coords 40.0400, -86.0000", "Hamilton County / elevation 781 ft band", "Hamilton County / ZIP 46062 sector", "Hamilton County / ZIP 46060 sector"]
+zillowHomeValueUsd: 354752
 ---
 
 **Engineering Notice for Noblesville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hamilton County.

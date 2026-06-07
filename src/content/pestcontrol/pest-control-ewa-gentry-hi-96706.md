@@ -11,6 +11,7 @@ lng: -158.0300
 zipSample: ["96706"]
 zipCodes: ["96706"]
 localPaths: ["Honolulu County / primary ZIP 96706", "Honolulu County / ZIP 96706 sector", "Honolulu County / elevation 52 ft band", "Honolulu County / coords 21.3300, -158.0300"]
+zillowHomeValueUsd: 830542
 ---
 
 **Engineering Notice for Ewa Gentry:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Honolulu County.

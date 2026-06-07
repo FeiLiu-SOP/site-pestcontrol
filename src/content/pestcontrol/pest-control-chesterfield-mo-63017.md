@@ -11,6 +11,7 @@ lng: -90.5800
 zipSample: ["63017", "63006", "63005"]
 zipCodes: ["63017", "63006", "63005"]
 localPaths: ["St. Louis County / ZIP 63017 sector", "St. Louis County / elevation 505 ft band", "St. Louis County / coords 38.6600, -90.5800", "St. Louis County / ZIP 63005 sector", "St. Louis County / primary ZIP 63017"]
+zillowHomeValueUsd: 552569
 ---
 
 **Engineering Notice for Chesterfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.

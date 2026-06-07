@@ -11,6 +11,7 @@ lng: -96.7100
 zipSample: ["75080", "75082", "75045", "75081", "75085"]
 zipCodes: ["75082", "75080", "75045", "75085", "75083", "75081"]
 localPaths: ["Dallas County / elevation 640 ft band", "Dallas County / ZIP 75082 sector", "Dallas County / ZIP 75080 sector", "Dallas County / ZIP 75085 sector", "Dallas County / primary ZIP 75081"]
+zillowHomeValueUsd: 388948
 ---
 
 **Engineering Notice for Richardson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.

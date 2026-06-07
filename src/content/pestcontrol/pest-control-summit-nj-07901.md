@@ -11,6 +11,7 @@ lng: -74.3600
 zipSample: ["07902", "07901"]
 zipCodes: ["07901", "07902"]
 localPaths: ["Union County / coords 40.7200, -74.3600", "Union County / ZIP 07901 sector", "Union County / ZIP 07902 sector", "Union County / primary ZIP 07901", "Union County / elevation 390 ft band"]
+zillowHomeValueUsd: 1360953
 ---
 
 **Engineering Notice for Summit:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Union County.

@@ -11,6 +11,7 @@ lng: -90.3500
 zipSample: ["63119"]
 zipCodes: ["63119"]
 localPaths: ["St. Louis County / elevation 581 ft band", "St. Louis County / ZIP 63119 sector", "St. Louis County / primary ZIP 63119", "St. Louis County / coords 38.5900, -90.3500"]
+zillowHomeValueUsd: 378626
 ---
 
 **Engineering Notice for Webster Groves:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.

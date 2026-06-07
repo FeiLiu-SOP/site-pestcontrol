@@ -11,6 +11,7 @@ lng: -84.1400
 zipSample: ["30048", "30047"]
 zipCodes: ["30047", "30048"]
 localPaths: ["Gwinnett County / primary ZIP 30047", "Gwinnett County / ZIP 30048 sector", "Gwinnett County / elevation 932 ft band", "Gwinnett County / ZIP 30047 sector", "Gwinnett County / coords 33.8900, -84.1400"]
+zillowHomeValueUsd: 398183
 ---
 
 **Engineering Notice for Lilburn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gwinnett County.

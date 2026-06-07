@@ -11,6 +11,7 @@ lng: -87.9400
 zipSample: ["60126"]
 zipCodes: ["60126"]
 localPaths: ["DuPage County / ZIP 60126 sector", "DuPage County / primary ZIP 60126", "DuPage County / elevation 705 ft band", "DuPage County / coords 41.9000, -87.9400"]
+zillowHomeValueUsd: 611451
 ---
 
 **Engineering Notice for Elmhurst:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.

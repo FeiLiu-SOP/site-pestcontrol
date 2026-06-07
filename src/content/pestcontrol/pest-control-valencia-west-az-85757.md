@@ -11,6 +11,7 @@ lng: -111.1100
 zipSample: ["85757"]
 zipCodes: ["85757"]
 localPaths: ["Pima County / ZIP 85757 sector", "Pima County / primary ZIP 85757", "Pima County / coords 32.1400, -111.1100", "Pima County / elevation 2484 ft band"]
+zillowHomeValueUsd: 324446
 ---
 
 **Engineering Notice for Valencia West:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pima County.

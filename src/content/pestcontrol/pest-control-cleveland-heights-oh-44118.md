@@ -11,6 +11,7 @@ lng: -81.5600
 zipSample: ["44112", "44118", "44106", "44121"]
 zipCodes: ["44112", "44121", "44118", "44106"]
 localPaths: ["Cuyahoga County / ZIP 44118 sector", "Cuyahoga County / ZIP 44106 sector", "Cuyahoga County / primary ZIP 44118", "Cuyahoga County / ZIP 44112 sector", "Cuyahoga County / elevation 928 ft band"]
+zillowHomeValueUsd: 242208
 ---
 
 **Engineering Notice for Cleveland Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cuyahoga County.

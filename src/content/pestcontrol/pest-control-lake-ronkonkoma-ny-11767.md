@@ -11,6 +11,7 @@ lng: -73.1100
 zipSample: ["11779", "11767"]
 zipCodes: ["11779", "11767"]
 localPaths: ["Suffolk County / primary ZIP 11767", "Suffolk County / ZIP 11779 sector", "Suffolk County / elevation 89 ft band", "Suffolk County / ZIP 11767 sector", "Suffolk County / coords 40.8300, -73.1100"]
+zillowHomeValueUsd: 758735
 ---
 
 **Engineering Notice for Lake Ronkonkoma:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

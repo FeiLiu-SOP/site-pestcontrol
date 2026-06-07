@@ -11,6 +11,7 @@ lng: -84.3300
 zipSample: ["30324", "30329", "30033", "30359"]
 zipCodes: ["30033", "30324", "30329", "30359"]
 localPaths: ["DeKalb County / ZIP 30324 sector", "DeKalb County / elevation 1017 ft band", "DeKalb County / primary ZIP 30329", "DeKalb County / coords 33.8200, -84.3300", "DeKalb County / ZIP 30359 sector"]
+zillowHomeValueUsd: 524012
 ---
 
 **Engineering Notice for North Druid Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeKalb County.

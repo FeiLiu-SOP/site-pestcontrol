@@ -11,6 +11,7 @@ lng: -95.6500
 zipSample: ["75802", "75801", "75803", "75882"]
 zipCodes: ["75802", "75801", "75882", "75803"]
 localPaths: ["Anderson County / elevation 518 ft band", "Anderson County / ZIP 75803 sector", "Anderson County / ZIP 75882 sector", "Anderson County / coords 31.7500, -95.6500", "Anderson County / ZIP 75801 sector"]
+zillowHomeValueUsd: 182336
 ---
 
 **Engineering Notice for Palestine:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anderson County.

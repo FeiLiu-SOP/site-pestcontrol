@@ -11,6 +11,7 @@ lng: -80.4200
 zipSample: ["33032"]
 zipCodes: ["33032"]
 localPaths: ["Miami-Dade County / ZIP 33032 sector", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / coords 25.5200, -80.4200", "Miami-Dade County / primary ZIP 33032"]
+zillowHomeValueUsd: 454905
 ---
 
 **Engineering Notice for Naranja:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

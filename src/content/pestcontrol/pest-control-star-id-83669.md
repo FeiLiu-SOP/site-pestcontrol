@@ -11,6 +11,7 @@ lng: -116.4900
 zipSample: ["83669"]
 zipCodes: ["83669"]
 localPaths: ["Ada County / ZIP 83669 sector", "Ada County / elevation 2467 ft band", "Ada County / primary ZIP 83669", "Ada County / coords 43.7000, -116.4900"]
+zillowHomeValueUsd: 575286
 ---
 
 **Engineering Notice for Star:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ada County.

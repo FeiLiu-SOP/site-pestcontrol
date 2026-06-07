@@ -11,6 +11,7 @@ lng: -99.3100
 zipSample: ["73522", "73521", "73523"]
 zipCodes: ["73521", "73522", "73523"]
 localPaths: ["Jackson County / ZIP 73521 sector", "Jackson County / ZIP 73523 sector", "Jackson County / coords 34.6600, -99.3100", "Jackson County / ZIP 73522 sector", "Jackson County / elevation 1371 ft band"]
+zillowHomeValueUsd: 107432
 ---
 
 **Engineering Notice for Altus:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jackson County.

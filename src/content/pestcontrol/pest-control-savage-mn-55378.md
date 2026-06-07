@@ -11,6 +11,7 @@ lng: -93.3600
 zipSample: ["55378"]
 zipCodes: ["55378"]
 localPaths: ["Scott County / ZIP 55378 sector", "Scott County / coords 44.7500, -93.3600", "Scott County / primary ZIP 55378", "Scott County / elevation 886 ft band"]
+zillowHomeValueUsd: 434896
 ---
 
 **Engineering Notice for Savage:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Scott County.

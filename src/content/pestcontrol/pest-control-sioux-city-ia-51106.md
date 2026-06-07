@@ -11,6 +11,7 @@ lng: -96.3900
 zipSample: ["51111", "51106", "51104", "51109", "51105"]
 zipCodes: ["51111", "51105", "51109", "51103", "51106", "51108", "51104", "51101"]
 localPaths: ["Woodbury County / elevation 1096 ft band", "Woodbury County / ZIP 51111 sector", "Woodbury County / ZIP 51105 sector", "Woodbury County / ZIP 51106 sector", "Woodbury County / ZIP 51104 sector"]
+zillowHomeValueUsd: 217350
 ---
 
 **Engineering Notice for Sioux City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Woodbury County.

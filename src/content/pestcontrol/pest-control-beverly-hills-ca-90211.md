@@ -11,6 +11,7 @@ lng: -118.4000
 zipSample: ["90210", "90211", "90209", "90212"]
 zipCodes: ["90212", "90211", "90210", "90209"]
 localPaths: ["Los Angeles County / ZIP 90210 sector", "Los Angeles County / primary ZIP 90211", "Los Angeles County / ZIP 90209 sector", "Los Angeles County / coords 34.0800, -118.4000", "Los Angeles County / elevation 318 ft band"]
+zillowHomeValueUsd: 2245372
 ---
 
 **Engineering Notice for Beverly Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

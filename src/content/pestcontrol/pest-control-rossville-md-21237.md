@@ -11,6 +11,7 @@ lng: -76.4800
 zipSample: ["21236", "21237"]
 zipCodes: ["21236", "21237"]
 localPaths: ["Baltimore County / elevation 148 ft band", "Baltimore County / primary ZIP 21237", "Baltimore County / ZIP 21236 sector", "Baltimore County / coords 39.3600, -76.4800", "Baltimore County / ZIP 21237 sector"]
+zillowHomeValueUsd: 316066
 ---
 
 **Engineering Notice for Rossville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.

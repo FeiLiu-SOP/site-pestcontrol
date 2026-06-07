@@ -11,6 +11,7 @@ lng: -101.7200
 zipSample: ["79072"]
 zipCodes: ["79072"]
 localPaths: ["Hale County / primary ZIP 79072", "Hale County / coords 34.1900, -101.7200", "Hale County / ZIP 79072 sector", "Hale County / elevation 3389 ft band"]
+zillowHomeValueUsd: 116083
 ---
 
 **Engineering Notice for Plainview:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hale County.

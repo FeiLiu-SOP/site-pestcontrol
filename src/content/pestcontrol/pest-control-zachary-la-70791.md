@@ -11,6 +11,7 @@ lng: -91.1600
 zipSample: ["70791"]
 zipCodes: ["70791"]
 localPaths: ["East Baton Rouge Parish / coords 30.6600, -91.1600", "East Baton Rouge Parish / ZIP 70791 sector", "East Baton Rouge Parish / primary ZIP 70791", "East Baton Rouge Parish / elevation 121 ft band"]
+zillowHomeValueUsd: 268145
 ---
 
 **Engineering Notice for Zachary:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: East Baton Rouge Parish.

@@ -11,6 +11,7 @@ lng: -80.2100
 zipSample: ["33063", "33068", "33093"]
 zipCodes: ["33068", "33063", "33093"]
 localPaths: ["Broward County / elevation 30 ft band", "Broward County / ZIP 33063 sector", "Broward County / coords 26.2500, -80.2100", "Broward County / primary ZIP 33068", "Broward County / ZIP 33068 sector"]
+zillowHomeValueUsd: 358214
 ---
 
 **Engineering Notice for Margate:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.

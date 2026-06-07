@@ -11,6 +11,7 @@ lng: -74.2600
 zipSample: ["07203"]
 zipCodes: ["07203"]
 localPaths: ["Union County / coords 40.6500, -74.2600", "Union County / elevation 72 ft band", "Union County / primary ZIP 07203", "Union County / ZIP 07203 sector"]
+zillowHomeValueUsd: 507478
 ---
 
 **Engineering Notice for Roselle:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Union County.

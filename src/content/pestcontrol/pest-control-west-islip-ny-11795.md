@@ -11,6 +11,7 @@ lng: -73.3000
 zipSample: ["11795"]
 zipCodes: ["11795"]
 localPaths: ["Suffolk County / coords 40.7000, -73.3000", "Suffolk County / elevation 23 ft band", "Suffolk County / ZIP 11795 sector", "Suffolk County / primary ZIP 11795"]
+zillowHomeValueUsd: 722393
 ---
 
 **Engineering Notice for West Islip:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

@@ -11,6 +11,7 @@ lng: -117.8600
 zipSample: ["91788", "91789"]
 zipCodes: ["91788", "91789"]
 localPaths: ["Los Angeles County / coords 34.0300, -117.8600", "Los Angeles County / elevation 689 ft band", "Los Angeles County / primary ZIP 91789", "Los Angeles County / ZIP 91788 sector", "Los Angeles County / ZIP 91789 sector"]
+zillowHomeValueUsd: 1156346
 ---
 
 **Engineering Notice for Walnut:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

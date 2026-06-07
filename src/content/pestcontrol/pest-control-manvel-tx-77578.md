@@ -11,6 +11,7 @@ lng: -95.3600
 zipSample: ["77578"]
 zipCodes: ["77578"]
 localPaths: ["Brazoria County / elevation 59 ft band", "Brazoria County / primary ZIP 77578", "Brazoria County / coords 29.4800, -95.3600", "Brazoria County / ZIP 77578 sector"]
+zillowHomeValueUsd: 441271
 ---
 
 **Engineering Notice for Manvel:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brazoria County.

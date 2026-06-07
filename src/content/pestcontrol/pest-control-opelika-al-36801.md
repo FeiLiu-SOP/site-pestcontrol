@@ -11,6 +11,7 @@ lng: -85.3800
 zipSample: ["36803", "36801", "36804"]
 zipCodes: ["36801", "36804", "36803"]
 localPaths: ["Lee County / ZIP 36803 sector", "Lee County / primary ZIP 36801", "Lee County / ZIP 36801 sector", "Lee County / elevation 794 ft band", "Lee County / ZIP 36804 sector"]
+zillowHomeValueUsd: 294157
 ---
 
 **Engineering Notice for Opelika:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lee County.

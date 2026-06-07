@@ -11,6 +11,7 @@ lng: -81.4500
 zipSample: ["33871", "33870", "33875"]
 zipCodes: ["33875", "33871", "33870"]
 localPaths: ["Highlands County / primary ZIP 33870", "Highlands County / ZIP 33870 sector", "Highlands County / coords 27.4800, -81.4500", "Highlands County / ZIP 33871 sector", "Highlands County / elevation 102 ft band"]
+zillowHomeValueUsd: 205264
 ---
 
 **Engineering Notice for Sebring:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Highlands County.

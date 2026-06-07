@@ -11,6 +11,7 @@ lng: -71.1100
 zipSample: ["02153", "02156", "02155"]
 zipCodes: ["02156", "02155", "02153"]
 localPaths: ["Middlesex County / ZIP 02153 sector", "Middlesex County / ZIP 02156 sector", "Middlesex County / ZIP 02155 sector", "Middlesex County / elevation 52 ft band", "Middlesex County / coords 42.4200, -71.1100"]
+zillowHomeValueUsd: 842761
 ---
 
 **Engineering Notice for Medford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.

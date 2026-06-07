@@ -11,6 +11,7 @@ lng: -81.5300
 zipSample: ["34761"]
 zipCodes: ["34761"]
 localPaths: ["Orange County / elevation 171 ft band", "Orange County / ZIP 34761 sector", "Orange County / primary ZIP 34761", "Orange County / coords 28.5800, -81.5300"]
+zillowHomeValueUsd: 411290
 ---
 
 **Engineering Notice for Ocoee:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

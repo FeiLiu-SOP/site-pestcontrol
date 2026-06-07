@@ -11,6 +11,7 @@ lng: -95.8300
 zipSample: ["74055"]
 zipCodes: ["74055"]
 localPaths: ["Tulsa County / elevation 712 ft band", "Tulsa County / coords 36.2900, -95.8300", "Tulsa County / ZIP 74055 sector", "Tulsa County / primary ZIP 74055"]
+zillowHomeValueUsd: 315522
 ---
 
 **Engineering Notice for Owasso:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tulsa County.

@@ -11,6 +11,7 @@ lng: -118.1600
 zipSample: ["90201", "90205", "90202"]
 zipCodes: ["90202", "90205", "90201"]
 localPaths: ["Los Angeles County / ZIP 90201 sector", "Los Angeles County / coords 33.9700, -118.1600", "Los Angeles County / primary ZIP 90201", "Los Angeles County / elevation 118 ft band", "Los Angeles County / ZIP 90205 sector"]
+zillowHomeValueUsd: 686986
 ---
 
 **Engineering Notice for Bell Gardens:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

@@ -11,6 +11,7 @@ lng: -88.8400
 zipSample: ["38301", "38314", "38305", "38303"]
 zipCodes: ["38314", "38305", "38303", "38301"]
 localPaths: ["Madison County / ZIP 38314 sector", "Madison County / ZIP 38303 sector", "Madison County / primary ZIP 38305", "Madison County / ZIP 38301 sector", "Madison County / ZIP 38305 sector"]
+zillowHomeValueUsd: 279893
 ---
 
 **Engineering Notice for Jackson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Madison County.

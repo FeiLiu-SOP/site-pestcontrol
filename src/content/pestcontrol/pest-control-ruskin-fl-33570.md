@@ -11,6 +11,7 @@ lng: -82.4200
 zipSample: ["33570", "33575", "33571"]
 zipCodes: ["33570", "33575", "33571"]
 localPaths: ["Hillsborough County / elevation 23 ft band", "Hillsborough County / ZIP 33571 sector", "Hillsborough County / coords 27.7100, -82.4200", "Hillsborough County / ZIP 33575 sector", "Hillsborough County / ZIP 33570 sector"]
+zillowHomeValueUsd: 314384
 ---
 
 **Engineering Notice for Ruskin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.

@@ -11,6 +11,7 @@ lng: -79.4700
 zipSample: ["28370", "28374"]
 zipCodes: ["28374", "28370"]
 localPaths: ["Moore County / ZIP 28370 sector", "Moore County / ZIP 28374 sector", "Moore County / coords 35.1900, -79.4700", "Moore County / primary ZIP 28374", "Moore County / elevation 522 ft band"]
+zillowHomeValueUsd: 533544
 ---
 
 **Engineering Notice for Pinehurst:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Moore County.

@@ -11,6 +11,7 @@ lng: -88.1800
 zipSample: ["60107"]
 zipCodes: ["60107"]
 localPaths: ["Cook County / primary ZIP 60107", "Cook County / coords 42.0200, -88.1800", "Cook County / elevation 791 ft band", "Cook County / ZIP 60107 sector"]
+zillowHomeValueUsd: 321381
 ---
 
 **Engineering Notice for Streamwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

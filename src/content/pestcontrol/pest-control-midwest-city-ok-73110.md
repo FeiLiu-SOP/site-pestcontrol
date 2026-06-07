@@ -11,6 +11,7 @@ lng: -97.3700
 zipSample: ["73141", "73140", "73130", "73196", "73110"]
 zipCodes: ["73196", "73130", "73110", "73140", "73141"]
 localPaths: ["Oklahoma County / ZIP 73130 sector", "Oklahoma County / ZIP 73110 sector", "Oklahoma County / ZIP 73141 sector", "Oklahoma County / elevation 1227 ft band", "Oklahoma County / primary ZIP 73110"]
+zillowHomeValueUsd: 143514
 ---
 
 **Engineering Notice for Midwest City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oklahoma County.

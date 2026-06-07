@@ -11,6 +11,7 @@ lng: -87.2700
 zipSample: ["32514", "32534"]
 zipCodes: ["32514", "32534"]
 localPaths: ["Escambia County / ZIP 32534 sector", "Escambia County / primary ZIP 32514", "Escambia County / elevation 138 ft band", "Escambia County / coords 30.5300, -87.2700", "Escambia County / ZIP 32514 sector"]
+zillowHomeValueUsd: 259788
 ---
 
 **Engineering Notice for Ensley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Escambia County.

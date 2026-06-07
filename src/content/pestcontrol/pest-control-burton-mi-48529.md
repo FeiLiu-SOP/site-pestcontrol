@@ -11,6 +11,7 @@ lng: -83.6200
 zipSample: ["48529", "48519", "48509"]
 zipCodes: ["48529", "48519", "48509"]
 localPaths: ["Genesee County / elevation 781 ft band", "Genesee County / coords 43.0000, -83.6200", "Genesee County / ZIP 48509 sector", "Genesee County / primary ZIP 48529", "Genesee County / ZIP 48519 sector"]
+zillowHomeValueUsd: 91167
 ---
 
 **Engineering Notice for Burton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Genesee County.

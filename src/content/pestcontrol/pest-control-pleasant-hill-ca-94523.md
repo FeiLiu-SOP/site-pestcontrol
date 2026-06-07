@@ -11,6 +11,7 @@ lng: -122.0800
 zipSample: ["94523"]
 zipCodes: ["94523"]
 localPaths: ["Contra Costa County / ZIP 94523 sector", "Contra Costa County / primary ZIP 94523", "Contra Costa County / coords 37.9500, -122.0800", "Contra Costa County / elevation 59 ft band"]
+zillowHomeValueUsd: 996092
 ---
 
 **Engineering Notice for Pleasant Hill:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.

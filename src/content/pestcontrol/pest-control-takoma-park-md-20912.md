@@ -11,6 +11,7 @@ lng: -77.0000
 zipSample: ["20913", "20912"]
 zipCodes: ["20913", "20912"]
 localPaths: ["Montgomery County / primary ZIP 20912", "Montgomery County / ZIP 20912 sector", "Montgomery County / coords 38.9800, -77.0000", "Montgomery County / ZIP 20913 sector", "Montgomery County / elevation 259 ft band"]
+zillowHomeValueUsd: 688443
 ---
 
 **Engineering Notice for Takoma Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

@@ -11,6 +11,7 @@ lng: -82.1000
 zipSample: ["45701"]
 zipCodes: ["45701"]
 localPaths: ["Athens County / elevation 715 ft band", "Athens County / coords 39.3300, -82.1000", "Athens County / ZIP 45701 sector", "Athens County / primary ZIP 45701"]
+zillowHomeValueUsd: 239794
 ---
 
 **Engineering Notice for Athens:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Athens County.

@@ -11,6 +11,7 @@ lng: -82.3100
 zipSample: ["29687"]
 zipCodes: ["29687"]
 localPaths: ["Greenville County / ZIP 29687 sector", "Greenville County / primary ZIP 29687", "Greenville County / elevation 925 ft band", "Greenville County / coords 34.9200, -82.3100"]
+zillowHomeValueUsd: 311898
 ---
 
 **Engineering Notice for Taylors:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Greenville County.

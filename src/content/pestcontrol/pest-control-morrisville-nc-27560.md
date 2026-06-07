@@ -11,6 +11,7 @@ lng: -78.8300
 zipSample: ["27560"]
 zipCodes: ["27560"]
 localPaths: ["Wake County / coords 35.8400, -78.8300", "Wake County / ZIP 27560 sector", "Wake County / elevation 348 ft band", "Wake County / primary ZIP 27560"]
+zillowHomeValueUsd: 501901
 ---
 
 **Engineering Notice for Morrisville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wake County.

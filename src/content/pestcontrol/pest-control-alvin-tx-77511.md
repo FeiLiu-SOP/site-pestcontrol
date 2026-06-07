@@ -11,6 +11,7 @@ lng: -95.2900
 zipSample: ["77511", "77583", "77512"]
 zipCodes: ["77512", "77583", "77511"]
 localPaths: ["Brazoria County / elevation 46 ft band", "Brazoria County / ZIP 77512 sector", "Brazoria County / primary ZIP 77511", "Brazoria County / ZIP 77583 sector", "Brazoria County / coords 29.3900, -95.2900"]
+zillowHomeValueUsd: 295837
 ---
 
 **Engineering Notice for Alvin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brazoria County.

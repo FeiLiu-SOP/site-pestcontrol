@@ -11,6 +11,7 @@ lng: -82.0500
 zipSample: ["33955", "33950"]
 zipCodes: ["33955", "33950"]
 localPaths: ["Charlotte County / elevation 13 ft band", "Charlotte County / ZIP 33955 sector", "Charlotte County / primary ZIP 33955", "Charlotte County / ZIP 33950 sector", "Charlotte County / coords 26.8900, -82.0500"]
+zillowHomeValueUsd: 330574
 ---
 
 **Engineering Notice for Punta Gorda:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Charlotte County.

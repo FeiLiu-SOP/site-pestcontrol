@@ -11,6 +11,7 @@ lng: -81.8600
 zipSample: ["44017"]
 zipCodes: ["44017"]
 localPaths: ["Cuyahoga County / elevation 794 ft band", "Cuyahoga County / ZIP 44017 sector", "Cuyahoga County / coords 41.3700, -81.8600", "Cuyahoga County / primary ZIP 44017"]
+zillowHomeValueUsd: 239214
 ---
 
 **Engineering Notice for Berea:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cuyahoga County.

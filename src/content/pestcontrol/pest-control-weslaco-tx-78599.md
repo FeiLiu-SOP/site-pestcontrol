@@ -11,6 +11,7 @@ lng: -97.9900
 zipSample: ["78599", "78596"]
 zipCodes: ["78599", "78596"]
 localPaths: ["Hidalgo County / elevation 95 ft band", "Hidalgo County / ZIP 78596 sector", "Hidalgo County / primary ZIP 78599", "Hidalgo County / coords 26.1600, -97.9900", "Hidalgo County / ZIP 78599 sector"]
+zillowHomeValueUsd: 192167
 ---
 
 **Engineering Notice for Weslaco:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hidalgo County.

@@ -11,6 +11,7 @@ lng: -90.4800
 zipSample: ["70068", "70069"]
 zipCodes: ["70068", "70069"]
 localPaths: ["St. John the Baptist Parish / primary ZIP 70068", "St. John the Baptist Parish / elevation -1 ft band", "St. John the Baptist Parish / ZIP 70068 sector", "St. John the Baptist Parish / ZIP 70069 sector", "St. John the Baptist Parish / coords 30.0700, -90.4800"]
+zillowHomeValueUsd: 214933
 ---
 
 **Engineering Notice for Laplace:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. John the Baptist Parish.

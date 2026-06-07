@@ -11,6 +11,7 @@ lng: -116.4300
 zipSample: ["92270"]
 zipCodes: ["92270"]
 localPaths: ["Riverside County / elevation 249 ft band", "Riverside County / primary ZIP 92270", "Riverside County / coords 33.7600, -116.4300", "Riverside County / ZIP 92270 sector"]
+zillowHomeValueUsd: 843964
 ---
 
 **Engineering Notice for Rancho Mirage:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.

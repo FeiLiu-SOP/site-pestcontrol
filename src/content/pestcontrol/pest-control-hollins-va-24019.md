@@ -11,6 +11,7 @@ lng: -79.9500
 zipSample: ["24020", "24019", "24050"]
 zipCodes: ["24020", "24050", "24019"]
 localPaths: ["Roanoke County / elevation 1112 ft band", "Roanoke County / primary ZIP 24019", "Roanoke County / coords 37.3400, -79.9500", "Roanoke County / ZIP 24050 sector", "Roanoke County / ZIP 24019 sector"]
+zillowHomeValueUsd: 306178
 ---
 
 **Engineering Notice for Hollins:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Roanoke County.

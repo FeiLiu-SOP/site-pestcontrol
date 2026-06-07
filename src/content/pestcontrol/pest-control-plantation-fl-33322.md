@@ -11,6 +11,7 @@ lng: -80.2600
 zipSample: ["33313", "33325", "33388", "33323", "33324"]
 zipCodes: ["33388", "33323", "33325", "33324", "33318", "33329", "33322", "33317", "33313"]
 localPaths: ["Broward County / primary ZIP 33322", "Broward County / coords 26.1300, -80.2600", "Broward County / ZIP 33313 sector", "Broward County / ZIP 33325 sector", "Broward County / ZIP 33323 sector"]
+zillowHomeValueUsd: 261526
 ---
 
 **Engineering Notice for Plantation:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.

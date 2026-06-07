@@ -11,6 +11,7 @@ lng: -76.8300
 zipSample: ["17315"]
 zipCodes: ["17315"]
 localPaths: ["York County / coords 39.9900, -76.8300", "York County / elevation 509 ft band", "York County / primary ZIP 17315", "York County / ZIP 17315 sector"]
+zillowHomeValueUsd: 289744
 ---
 
 **Engineering Notice for Weigelstown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: York County.

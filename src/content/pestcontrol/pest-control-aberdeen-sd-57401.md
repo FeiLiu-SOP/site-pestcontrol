@@ -11,6 +11,7 @@ lng: -98.4700
 zipSample: ["57401"]
 zipCodes: ["57401"]
 localPaths: ["Brown County / coords 45.4600, -98.4700", "Brown County / primary ZIP 57401", "Brown County / ZIP 57401 sector", "Brown County / elevation 1296 ft band"]
+zillowHomeValueUsd: 237135
 ---
 
 **Engineering Notice for Aberdeen:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brown County.

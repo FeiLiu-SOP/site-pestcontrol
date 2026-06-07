@@ -11,6 +11,7 @@ lng: -122.5700
 zipSample: ["98662"]
 zipCodes: ["98662"]
 localPaths: ["Clark County / coords 45.6900, -122.5700", "Clark County / elevation 210 ft band", "Clark County / ZIP 98662 sector", "Clark County / primary ZIP 98662"]
+zillowHomeValueUsd: 484374
 ---
 
 **Engineering Notice for Five Corners:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.

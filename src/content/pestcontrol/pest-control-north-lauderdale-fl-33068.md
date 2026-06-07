@@ -11,6 +11,7 @@ lng: -80.2200
 zipSample: ["33068"]
 zipCodes: ["33068"]
 localPaths: ["Broward County / primary ZIP 33068", "Broward County / coords 26.2100, -80.2200", "Broward County / elevation 20 ft band", "Broward County / ZIP 33068 sector"]
+zillowHomeValueUsd: 358215
 ---
 
 **Engineering Notice for North Lauderdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.

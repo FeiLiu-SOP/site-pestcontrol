@@ -11,6 +11,7 @@ lng: -112.0200
 zipSample: ["84089", "84015", "84016"]
 zipCodes: ["84016", "84015", "84089"]
 localPaths: ["Davis County / coords 41.1000, -112.0200", "Davis County / ZIP 84016 sector", "Davis County / ZIP 84015 sector", "Davis County / elevation 4446 ft band", "Davis County / primary ZIP 84015"]
+zillowHomeValueUsd: 465983
 ---
 
 **Engineering Notice for Clearfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Davis County.

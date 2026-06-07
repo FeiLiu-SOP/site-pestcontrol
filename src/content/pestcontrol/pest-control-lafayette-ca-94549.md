@@ -11,6 +11,7 @@ lng: -122.1200
 zipSample: ["94549"]
 zipCodes: ["94549"]
 localPaths: ["Contra Costa County / ZIP 94549 sector", "Contra Costa County / primary ZIP 94549", "Contra Costa County / coords 37.8900, -122.1200", "Contra Costa County / elevation 289 ft band"]
+zillowHomeValueUsd: 1940593
 ---
 
 **Engineering Notice for Lafayette:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.

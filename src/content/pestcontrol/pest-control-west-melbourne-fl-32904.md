@@ -11,6 +11,7 @@ lng: -80.6700
 zipSample: ["32904"]
 zipCodes: ["32904"]
 localPaths: ["Brevard County / elevation 43 ft band", "Brevard County / coords 28.0700, -80.6700", "Brevard County / primary ZIP 32904", "Brevard County / ZIP 32904 sector"]
+zillowHomeValueUsd: 377184
 ---
 
 **Engineering Notice for West Melbourne:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brevard County.

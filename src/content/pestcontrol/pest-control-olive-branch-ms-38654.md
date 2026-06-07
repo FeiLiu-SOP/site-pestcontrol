@@ -11,6 +11,7 @@ lng: -89.8500
 zipSample: ["38654"]
 zipCodes: ["38654"]
 localPaths: ["DeSoto County / ZIP 38654 sector", "DeSoto County / elevation 358 ft band", "DeSoto County / coords 34.9600, -89.8500", "DeSoto County / primary ZIP 38654"]
+zillowHomeValueUsd: 331923
 ---
 
 **Engineering Notice for Olive Branch:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeSoto County.

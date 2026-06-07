@@ -11,6 +11,7 @@ lng: -88.0100
 zipSample: ["60060"]
 zipCodes: ["60060"]
 localPaths: ["Lake County / primary ZIP 60060", "Lake County / coords 42.2700, -88.0100", "Lake County / elevation 758 ft band", "Lake County / ZIP 60060 sector"]
+zillowHomeValueUsd: 384001
 ---
 
 **Engineering Notice for Mundelein:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

@@ -11,6 +11,7 @@ lng: -97.3600
 zipSample: ["68602", "68601"]
 zipCodes: ["68602", "68601"]
 localPaths: ["Platte County / elevation 1453 ft band", "Platte County / primary ZIP 68601", "Platte County / ZIP 68601 sector", "Platte County / coords 41.4400, -97.3600", "Platte County / ZIP 68602 sector"]
+zillowHomeValueUsd: 271013
 ---
 
 **Engineering Notice for Columbus:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Platte County.

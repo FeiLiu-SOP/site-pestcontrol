@@ -11,6 +11,7 @@ lng: -80.3200
 zipSample: ["33157", "33257", "33158"]
 zipCodes: ["33257", "33157", "33158"]
 localPaths: ["Miami-Dade County / coords 25.6200, -80.3200", "Miami-Dade County / elevation 36 ft band", "Miami-Dade County / ZIP 33158 sector", "Miami-Dade County / primary ZIP 33158", "Miami-Dade County / ZIP 33257 sector"]
+zillowHomeValueUsd: 1346471
 ---
 
 **Engineering Notice for Palmetto Bay:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

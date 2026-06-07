@@ -11,6 +11,7 @@ lng: -81.4400
 zipSample: ["44139"]
 zipCodes: ["44139"]
 localPaths: ["Cuyahoga County / ZIP 44139 sector", "Cuyahoga County / primary ZIP 44139", "Cuyahoga County / coords 41.3900, -81.4400", "Cuyahoga County / elevation 1037 ft band"]
+zillowHomeValueUsd: 453588
 ---
 
 **Engineering Notice for Solon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cuyahoga County.

@@ -11,6 +11,7 @@ lng: -80.0800
 zipSample: ["27361", "27360"]
 zipCodes: ["27360", "27361"]
 localPaths: ["Davidson County / ZIP 27361 sector", "Davidson County / ZIP 27360 sector", "Davidson County / primary ZIP 27360", "Davidson County / coords 35.8800, -80.0800", "Davidson County / elevation 840 ft band"]
+zillowHomeValueUsd: 238327
 ---
 
 **Engineering Notice for Thomasville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Davidson County.

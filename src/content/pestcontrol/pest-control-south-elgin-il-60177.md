@@ -11,6 +11,7 @@ lng: -88.3100
 zipSample: ["60177"]
 zipCodes: ["60177"]
 localPaths: ["Kane County / elevation 804 ft band", "Kane County / ZIP 60177 sector", "Kane County / primary ZIP 60177", "Kane County / coords 41.9900, -88.3100"]
+zillowHomeValueUsd: 366418
 ---
 
 **Engineering Notice for South Elgin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kane County.

@@ -11,6 +11,7 @@ lng: -92.9600
 zipSample: ["55038"]
 zipCodes: ["55038"]
 localPaths: ["Washington County / coords 45.1700, -92.9600", "Washington County / ZIP 55038 sector", "Washington County / elevation 922 ft band", "Washington County / primary ZIP 55038"]
+zillowHomeValueUsd: 448912
 ---
 
 **Engineering Notice for Hugo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.

@@ -11,6 +11,7 @@ lng: -77.0800
 zipSample: ["22306"]
 zipCodes: ["22306"]
 localPaths: ["Fairfax County / coords 38.7500, -77.0800", "Fairfax County / elevation 43 ft band", "Fairfax County / primary ZIP 22306", "Fairfax County / ZIP 22306 sector"]
+zillowHomeValueUsd: 641856
 ---
 
 **Engineering Notice for Hybla Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.

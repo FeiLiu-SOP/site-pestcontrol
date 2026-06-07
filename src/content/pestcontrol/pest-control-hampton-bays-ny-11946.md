@@ -11,6 +11,7 @@ lng: -72.5200
 zipSample: ["11946"]
 zipCodes: ["11946"]
 localPaths: ["Suffolk County / ZIP 11946 sector", "Suffolk County / elevation 20 ft band", "Suffolk County / primary ZIP 11946", "Suffolk County / coords 40.8700, -72.5200"]
+zillowHomeValueUsd: 933942
 ---
 
 **Engineering Notice for Hampton Bays:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

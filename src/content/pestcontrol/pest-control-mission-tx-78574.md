@@ -11,6 +11,7 @@ lng: -98.3300
 zipSample: ["78572", "78574"]
 zipCodes: ["78574", "78572"]
 localPaths: ["Hidalgo County / coords 26.2000, -98.3300", "Hidalgo County / ZIP 78574 sector", "Hidalgo County / elevation 125 ft band", "Hidalgo County / primary ZIP 78574", "Hidalgo County / ZIP 78572 sector"]
+zillowHomeValueUsd: 196730
 ---
 
 **Engineering Notice for Mission:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hidalgo County.

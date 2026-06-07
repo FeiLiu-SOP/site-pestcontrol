@@ -11,6 +11,7 @@ lng: -71.0600
 zipSample: ["02176"]
 zipCodes: ["02176"]
 localPaths: ["Middlesex County / coords 42.4600, -71.0600", "Middlesex County / elevation 98 ft band", "Middlesex County / ZIP 02176 sector", "Middlesex County / primary ZIP 02176"]
+zillowHomeValueUsd: 908734
 ---
 
 **Engineering Notice for Melrose:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.

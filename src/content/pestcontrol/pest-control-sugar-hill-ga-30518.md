@@ -11,6 +11,7 @@ lng: -84.0600
 zipSample: ["30518"]
 zipCodes: ["30518"]
 localPaths: ["Gwinnett County / ZIP 30518 sector", "Gwinnett County / elevation 1099 ft band", "Gwinnett County / coords 34.1100, -84.0600", "Gwinnett County / primary ZIP 30518"]
+zillowHomeValueUsd: 464343
 ---
 
 **Engineering Notice for Sugar Hill:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gwinnett County.

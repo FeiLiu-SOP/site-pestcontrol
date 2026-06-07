@@ -11,6 +11,7 @@ lng: -113.5800
 zipSample: ["84790", "84770", "84791"]
 zipCodes: ["84790", "84770", "84791"]
 localPaths: ["Washington County / primary ZIP 84770", "Washington County / ZIP 84791 sector", "Washington County / ZIP 84770 sector", "Washington County / ZIP 84790 sector", "Washington County / elevation 2546 ft band"]
+zillowHomeValueUsd: 487251
 ---
 
 **Engineering Notice for St. George:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.

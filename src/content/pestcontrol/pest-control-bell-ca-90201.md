@@ -11,6 +11,7 @@ lng: -118.1800
 zipSample: ["90201"]
 zipCodes: ["90201"]
 localPaths: ["Los Angeles County / elevation 144 ft band", "Los Angeles County / ZIP 90201 sector", "Los Angeles County / coords 33.9800, -118.1800", "Los Angeles County / primary ZIP 90201"]
+zillowHomeValueUsd: 686985
 ---
 
 **Engineering Notice for Bell:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

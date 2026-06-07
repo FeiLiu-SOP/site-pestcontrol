@@ -11,6 +11,7 @@ lng: -80.1800
 zipSample: ["33179"]
 zipCodes: ["33179"]
 localPaths: ["Miami-Dade County / elevation 39 ft band", "Miami-Dade County / primary ZIP 33179", "Miami-Dade County / coords 25.9600, -80.1800", "Miami-Dade County / ZIP 33179 sector"]
+zillowHomeValueUsd: 277604
 ---
 
 **Engineering Notice for Ives Estates:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

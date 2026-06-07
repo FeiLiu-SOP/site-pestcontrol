@@ -11,6 +11,7 @@ lng: -83.7300
 zipSample: ["48109", "48103", "48113", "48104", "48108"]
 zipCodes: ["48109", "48103", "48104", "48108", "48105", "48113"]
 localPaths: ["Washtenaw County / ZIP 48109 sector", "Washtenaw County / ZIP 48104 sector", "Washtenaw County / elevation 889 ft band", "Washtenaw County / coords 42.2800, -83.7300", "Washtenaw County / ZIP 48108 sector"]
+zillowHomeValueUsd: 522024
 ---
 
 **Engineering Notice for Ann Arbor:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washtenaw County.

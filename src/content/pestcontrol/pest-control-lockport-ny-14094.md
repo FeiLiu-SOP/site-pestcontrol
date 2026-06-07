@@ -11,6 +11,7 @@ lng: -78.7000
 zipSample: ["14095", "14094"]
 zipCodes: ["14094", "14095"]
 localPaths: ["Niagara County / coords 43.1700, -78.7000", "Niagara County / ZIP 14094 sector", "Niagara County / primary ZIP 14094", "Niagara County / elevation 587 ft band", "Niagara County / ZIP 14095 sector"]
+zillowHomeValueUsd: 257241
 ---
 
 **Engineering Notice for Lockport:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Niagara County.

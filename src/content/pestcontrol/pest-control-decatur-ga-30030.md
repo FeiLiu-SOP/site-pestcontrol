@@ -11,6 +11,7 @@ lng: -84.3000
 zipSample: ["30036", "30030", "30031"]
 zipCodes: ["30031", "30030", "30036"]
 localPaths: ["DeKalb County / ZIP 30030 sector", "DeKalb County / primary ZIP 30030", "DeKalb County / elevation 1030 ft band", "DeKalb County / ZIP 30031 sector", "DeKalb County / coords 33.7700, -84.3000"]
+zillowHomeValueUsd: 639016
 ---
 
 **Engineering Notice for Decatur:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeKalb County.

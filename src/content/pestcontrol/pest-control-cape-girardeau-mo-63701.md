@@ -11,6 +11,7 @@ lng: -89.5600
 zipSample: ["63701", "63703"]
 zipCodes: ["63701", "63703"]
 localPaths: ["Cape Girardeau County / primary ZIP 63701", "Cape Girardeau County / coords 37.3100, -89.5600", "Cape Girardeau County / elevation 358 ft band", "Cape Girardeau County / ZIP 63701 sector", "Cape Girardeau County / ZIP 63703 sector"]
+zillowHomeValueUsd: 243525
 ---
 
 **Engineering Notice for Cape Girardeau:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cape Girardeau County.

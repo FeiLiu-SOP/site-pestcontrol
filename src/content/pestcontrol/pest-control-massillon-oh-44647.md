@@ -11,6 +11,7 @@ lng: -81.5300
 zipSample: ["44647", "44646"]
 zipCodes: ["44646", "44647"]
 localPaths: ["Stark County / elevation 984 ft band", "Stark County / ZIP 44647 sector", "Stark County / ZIP 44646 sector", "Stark County / coords 40.7800, -81.5300", "Stark County / primary ZIP 44647"]
+zillowHomeValueUsd: 184172
 ---
 
 **Engineering Notice for Massillon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Stark County.

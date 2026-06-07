@@ -11,6 +11,7 @@ lng: -78.8700
 zipSample: ["14217"]
 zipCodes: ["14217"]
 localPaths: ["Erie County / coords 42.9600, -78.8700", "Erie County / ZIP 14217 sector", "Erie County / primary ZIP 14217", "Erie County / elevation 617 ft band"]
+zillowHomeValueUsd: 254494
 ---
 
 **Engineering Notice for Kenmore:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Erie County.

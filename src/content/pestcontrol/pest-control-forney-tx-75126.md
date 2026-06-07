@@ -11,6 +11,7 @@ lng: -96.4500
 zipSample: ["75126"]
 zipCodes: ["75126"]
 localPaths: ["Kaufman County / ZIP 75126 sector", "Kaufman County / coords 32.7400, -96.4500", "Kaufman County / primary ZIP 75126", "Kaufman County / elevation 472 ft band"]
+zillowHomeValueUsd: 314031
 ---
 
 **Engineering Notice for Forney:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kaufman County.

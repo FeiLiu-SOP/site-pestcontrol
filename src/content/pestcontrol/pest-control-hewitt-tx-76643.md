@@ -11,6 +11,7 @@ lng: -97.2000
 zipSample: ["76643"]
 zipCodes: ["76643"]
 localPaths: ["McLennan County / primary ZIP 76643", "McLennan County / ZIP 76643 sector", "McLennan County / elevation 643 ft band", "McLennan County / coords 31.4500, -97.2000"]
+zillowHomeValueUsd: 297485
 ---
 
 **Engineering Notice for Hewitt:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: McLennan County.

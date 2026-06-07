@@ -11,6 +11,7 @@ lng: -92.0000
 zipSample: ["70592"]
 zipCodes: ["70592"]
 localPaths: ["Lafayette Parish / ZIP 70592 sector", "Lafayette Parish / coords 30.1000, -92.0000", "Lafayette Parish / elevation 52 ft band", "Lafayette Parish / primary ZIP 70592"]
+zillowHomeValueUsd: 279980
 ---
 
 **Engineering Notice for Youngsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lafayette Parish.

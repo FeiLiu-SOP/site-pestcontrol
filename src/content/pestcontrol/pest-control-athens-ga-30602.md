@@ -11,6 +11,7 @@ lng: -83.3700
 zipSample: ["30605", "30602", "30606", "30622", "30608"]
 zipCodes: ["30607", "30683", "30609", "30605", "30608", "30622", "30602", "30601", "30603", "30606"]
 localPaths: ["Clarke County / ZIP 30608 sector", "Clarke County / primary ZIP 30602", "Clarke County / ZIP 30622 sector", "Clarke County / ZIP 30606 sector", "Clarke County / coords 33.9500, -83.3700"]
+zillowHomeValueUsd: 369239
 ---
 
 **Engineering Notice for Athens:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clarke County.

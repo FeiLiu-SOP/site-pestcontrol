@@ -11,6 +11,7 @@ lng: -83.3000
 zipSample: ["37814", "37815", "37813"]
 zipCodes: ["37814", "37815", "37813"]
 localPaths: ["Hamblen County / primary ZIP 37813", "Hamblen County / elevation 1339 ft band", "Hamblen County / ZIP 37814 sector", "Hamblen County / coords 36.2000, -83.3000", "Hamblen County / ZIP 37813 sector"]
+zillowHomeValueUsd: 231849
 ---
 
 **Engineering Notice for Morristown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hamblen County.

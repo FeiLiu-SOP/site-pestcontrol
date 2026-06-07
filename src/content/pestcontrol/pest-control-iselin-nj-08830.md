@@ -11,6 +11,7 @@ lng: -74.3200
 zipSample: ["08830"]
 zipCodes: ["08830"]
 localPaths: ["Middlesex County / ZIP 08830 sector", "Middlesex County / primary ZIP 08830", "Middlesex County / elevation 43 ft band", "Middlesex County / coords 40.5700, -74.3200"]
+zillowHomeValueUsd: 559724
 ---
 
 **Engineering Notice for Iselin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.
