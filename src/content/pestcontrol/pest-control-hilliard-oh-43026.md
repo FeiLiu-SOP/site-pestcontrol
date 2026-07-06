@@ -11,7 +11,6 @@ lng: -83.1600
 zipSample: ["43026"]
 zipCodes: ["43026"]
 localPaths: ["Franklin County / coords 40.0400, -83.1600", "Franklin County / elevation 935 ft band", "Franklin County / primary ZIP 43026", "Franklin County / ZIP 43026 sector"]
-zillowHomeValueUsd: 379615
 ---
 
 **Engineering Notice for Hilliard:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Franklin County.

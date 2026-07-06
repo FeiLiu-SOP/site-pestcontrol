@@ -7,11 +7,10 @@ zipCode: "49418"
 county: "Kent County"
 elevationFt: 627
 lat: 42.9000
-lng: -85.7600
+lng: -85.7300
 zipSample: ["49468", "49418"]
 zipCodes: ["49418", "49468"]
-localPaths: ["Kent County / coords 42.9000, -85.7600", "Kent County / ZIP 49418 sector", "Kent County / ZIP 49468 sector", "Kent County / primary ZIP 49418", "Kent County / elevation 627 ft band"]
-zillowHomeValueUsd: 377146
+localPaths: ["Kent County / coords 42.9000, -85.7300", "Kent County / ZIP 49418 sector", "Kent County / ZIP 49468 sector", "Kent County / primary ZIP 49418", "Kent County / elevation 627 ft band"]
 ---
 
 **Engineering Notice for Grandville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kent County.

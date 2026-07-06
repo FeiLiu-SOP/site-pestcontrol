@@ -11,7 +11,6 @@ lng: -97.7200
 zipSample: ["73064"]
 zipCodes: ["73064"]
 localPaths: ["Canadian County / elevation 1345 ft band", "Canadian County / ZIP 73064 sector", "Canadian County / coords 35.3900, -97.7200", "Canadian County / primary ZIP 73064"]
-zillowHomeValueUsd: 276344
 ---
 
 **Engineering Notice for Mustang:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Canadian County.

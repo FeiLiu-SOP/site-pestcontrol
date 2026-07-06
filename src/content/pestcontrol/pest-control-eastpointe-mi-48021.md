@@ -11,7 +11,6 @@ lng: -82.9500
 zipSample: ["48021"]
 zipCodes: ["48021"]
 localPaths: ["Macomb County / ZIP 48021 sector", "Macomb County / primary ZIP 48021", "Macomb County / elevation 607 ft band", "Macomb County / coords 42.4700, -82.9500"]
-zillowHomeValueUsd: 150785
 ---
 
 **Engineering Notice for Eastpointe:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Macomb County.

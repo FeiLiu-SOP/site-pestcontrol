@@ -11,7 +11,6 @@ lng: -81.4700
 zipSample: ["32818", "32868", "32869", "32858", "32710"]
 zipCodes: ["32808", "32818", "32868", "32869", "32858", "32710"]
 localPaths: ["Orange County / ZIP 32710 sector", "Orange County / ZIP 32869 sector", "Orange County / coords 28.5800, -81.4700", "Orange County / primary ZIP 32808", "Orange County / ZIP 32868 sector"]
-zillowHomeValueUsd: 257671
 ---
 
 **Engineering Notice for Pine Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

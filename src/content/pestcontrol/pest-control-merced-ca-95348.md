@@ -11,7 +11,6 @@ lng: -120.4800
 zipSample: ["95340", "95348", "95343", "95341"]
 zipCodes: ["95340", "95343", "95341", "95348"]
 localPaths: ["Merced County / ZIP 95343 sector", "Merced County / coords 37.3100, -120.4800", "Merced County / ZIP 95340 sector", "Merced County / elevation 190 ft band", "Merced County / primary ZIP 95348"]
-zillowHomeValueUsd: 417750
 ---
 
 **Engineering Notice for Merced:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Merced County.

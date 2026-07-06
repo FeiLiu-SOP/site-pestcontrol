@@ -11,7 +11,6 @@ lng: -97.6400
 zipSample: ["73008"]
 zipCodes: ["73008"]
 localPaths: ["Oklahoma County / elevation 1332 ft band", "Oklahoma County / primary ZIP 73008", "Oklahoma County / ZIP 73008 sector", "Oklahoma County / coords 35.5100, -97.6400"]
-zillowHomeValueUsd: 178852
 ---
 
 **Engineering Notice for Bethany:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oklahoma County.

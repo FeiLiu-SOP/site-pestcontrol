@@ -11,7 +11,6 @@ lng: -86.8900
 zipSample: ["32566"]
 zipCodes: ["32566"]
 localPaths: ["Santa Rosa County / elevation 46 ft band", "Santa Rosa County / primary ZIP 32566", "Santa Rosa County / ZIP 32566 sector", "Santa Rosa County / coords 30.4200, -86.8900"]
-zillowHomeValueUsd: 415329
 ---
 
 **Engineering Notice for Navarre:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Rosa County.

@@ -11,7 +11,6 @@ lng: -96.3900
 zipSample: ["75087", "75132", "75189"]
 zipCodes: ["75132", "75189", "75087"]
 localPaths: ["Rockwall County / ZIP 75132 sector", "Rockwall County / elevation 594 ft band", "Rockwall County / ZIP 75087 sector", "Rockwall County / ZIP 75189 sector", "Rockwall County / coords 32.9400, -96.3900"]
-zillowHomeValueUsd: 450380
 ---
 
 **Engineering Notice for Fate:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rockwall County.

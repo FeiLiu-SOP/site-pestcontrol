@@ -11,7 +11,6 @@ lng: -93.7600
 zipSample: ["77631", "77632", "77630"]
 zipCodes: ["77632", "77631", "77630"]
 localPaths: ["Orange County / elevation 23 ft band", "Orange County / ZIP 77632 sector", "Orange County / ZIP 77631 sector", "Orange County / ZIP 77630 sector", "Orange County / primary ZIP 77630"]
-zillowHomeValueUsd: 146822
 ---
 
 **Engineering Notice for Orange:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

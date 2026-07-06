@@ -11,7 +11,6 @@ lng: -122.3000
 zipSample: ["94002"]
 zipCodes: ["94002"]
 localPaths: ["San Mateo County / coords 37.5200, -122.3000", "San Mateo County / elevation 226 ft band", "San Mateo County / ZIP 94002 sector", "San Mateo County / primary ZIP 94002"]
-zillowHomeValueUsd: 2339003
 ---
 
 **Engineering Notice for Belmont:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Mateo County.

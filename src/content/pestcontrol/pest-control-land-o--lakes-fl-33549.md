@@ -11,7 +11,6 @@ lng: -82.4500
 zipSample: ["33549", "34638", "33559", "34639"]
 zipCodes: ["34638", "33549", "33559", "34639"]
 localPaths: ["Pasco County / ZIP 33549 sector", "Pasco County / ZIP 34639 sector", "Pasco County / ZIP 33559 sector", "Pasco County / coords 28.2100, -82.4500", "Pasco County / ZIP 34638 sector"]
-zillowHomeValueUsd: 436479
 ---
 
 **Engineering Notice for Land O' Lakes:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pasco County.

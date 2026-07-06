@@ -11,7 +11,6 @@ lng: -104.8000
 zipSample: ["80601", "80603"]
 zipCodes: ["80601", "80603"]
 localPaths: ["Adams County / elevation 5030 ft band", "Adams County / coords 39.9700, -104.8000", "Adams County / ZIP 80601 sector", "Adams County / primary ZIP 80603", "Adams County / ZIP 80603 sector"]
-zillowHomeValueUsd: 502703
 ---
 
 **Engineering Notice for Brighton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Adams County.

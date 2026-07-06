@@ -11,7 +11,6 @@ lng: -95.2000
 zipSample: ["77546", "77549"]
 zipCodes: ["77549", "77546"]
 localPaths: ["Galveston County / elevation 39 ft band", "Galveston County / primary ZIP 77546", "Galveston County / coords 29.5100, -95.2000", "Galveston County / ZIP 77549 sector", "Galveston County / ZIP 77546 sector"]
-zillowHomeValueUsd: 400392
 ---
 
 **Engineering Notice for Friendswood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Galveston County.

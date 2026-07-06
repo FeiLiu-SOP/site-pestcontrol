@@ -11,7 +11,7 @@ lng: -80.3000
 zipSample: ["33144", "33245", "33155"]
 zipCodes: ["33144", "33155", "33245"]
 localPaths: ["Miami-Dade County / elevation 30 ft band", "Miami-Dade County / ZIP 33155 sector", "Miami-Dade County / ZIP 33144 sector", "Miami-Dade County / coords 25.7500, -80.3000", "Miami-Dade County / ZIP 33245 sector"]
-zillowHomeValueUsd: 621080
+zillowHomeValueUsd: 621077
 ---
 
 **Engineering Notice for Coral Terrace:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

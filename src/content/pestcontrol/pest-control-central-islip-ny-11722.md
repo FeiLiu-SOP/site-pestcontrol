@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11722"
 county: "Suffolk County"
 elevationFt: 72
-lat: 40.7800
-lng: -73.1900
+lat: 40.7905
+lng: -73.2200
 zipSample: ["11722", "11752"]
 zipCodes: ["11752", "11722"]
-localPaths: ["Suffolk County / primary ZIP 11722", "Suffolk County / coords 40.7800, -73.1900", "Suffolk County / elevation 72 ft band", "Suffolk County / ZIP 11752 sector", "Suffolk County / ZIP 11722 sector"]
-zillowHomeValueUsd: 546546
+localPaths: ["Suffolk County / primary ZIP 11722", "Suffolk County / coords 40.7905, -73.2200", "Suffolk County / elevation 72 ft band", "Suffolk County / ZIP 11752 sector", "Suffolk County / ZIP 11722 sector"]
 ---
 
 **Engineering Notice for Central Islip:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

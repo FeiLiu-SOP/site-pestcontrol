@@ -11,7 +11,6 @@ lng: -73.6100
 zipSample: ["11510"]
 zipCodes: ["11510"]
 localPaths: ["Nassau County / coords 40.6500, -73.6100", "Nassau County / primary ZIP 11510", "Nassau County / elevation 26 ft band", "Nassau County / ZIP 11510 sector"]
-zillowHomeValueUsd: 714458
 ---
 
 **Engineering Notice for Baldwin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

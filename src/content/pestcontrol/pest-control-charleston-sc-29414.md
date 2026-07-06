@@ -11,7 +11,6 @@ lng: -79.9700
 zipSample: ["29412", "29492", "29413", "29401", "29417"]
 zipCodes: ["29412", "29403", "29409", "29492", "29422", "29401", "29405", "29455", "29414", "29402", "29413", "29457"]
 localPaths: ["Charleston County / elevation 0 ft band", "Charleston County / ZIP 29492 sector", "Charleston County / ZIP 29417 sector", "Charleston County / ZIP 29413 sector", "Charleston County / ZIP 29401 sector"]
-zillowHomeValueUsd: 471626
 ---
 
 **Engineering Notice for Charleston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Charleston County.

@@ -11,7 +11,6 @@ lng: -73.6500
 zipSample: ["11552"]
 zipCodes: ["11552"]
 localPaths: ["Nassau County / elevation 69 ft band", "Nassau County / coords 40.7000, -73.6500", "Nassau County / ZIP 11552 sector", "Nassau County / primary ZIP 11552"]
-zillowHomeValueUsd: 786246
 ---
 
 **Engineering Notice for West Hempstead:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

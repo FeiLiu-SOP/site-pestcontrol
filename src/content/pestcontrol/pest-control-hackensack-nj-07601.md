@@ -11,7 +11,6 @@ lng: -74.0500
 zipSample: ["07602", "07601"]
 zipCodes: ["07602", "07601"]
 localPaths: ["Bergen County / ZIP 07602 sector", "Bergen County / coords 40.8900, -74.0500", "Bergen County / ZIP 07601 sector", "Bergen County / primary ZIP 07601", "Bergen County / elevation 23 ft band"]
-zillowHomeValueUsd: 464950
 ---
 
 **Engineering Notice for Hackensack:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bergen County.

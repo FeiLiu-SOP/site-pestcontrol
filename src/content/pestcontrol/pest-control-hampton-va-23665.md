@@ -11,7 +11,6 @@ lng: -76.3600
 zipSample: ["23663", "23668", "23605", "23670", "23681"]
 zipCodes: ["23664", "23651", "23668", "23667", "23666", "23670", "23669", "23665", "23605", "23681", "23663", "23661"]
 localPaths: ["Hampton County / ZIP 23668 sector", "Hampton County / ZIP 23605 sector", "Hampton County / ZIP 23670 sector", "Hampton County / coords 37.0600, -76.3600", "Hampton County / ZIP 23681 sector"]
-zillowHomeValueUsd: 290498
 ---
 
 **Engineering Notice for Hampton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hampton County.

@@ -11,7 +11,6 @@ lng: -97.9500
 zipSample: ["73023", "73018"]
 zipCodes: ["73018", "73023"]
 localPaths: ["Grady County / coords 35.0400, -97.9500", "Grady County / ZIP 73018 sector", "Grady County / elevation 1129 ft band", "Grady County / ZIP 73023 sector", "Grady County / primary ZIP 73018"]
-zillowHomeValueUsd: 156671
 ---
 
 **Engineering Notice for Chickasha:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Grady County.

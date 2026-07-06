@@ -11,7 +11,6 @@ lng: -81.7400
 zipSample: ["32778"]
 zipCodes: ["32778"]
 localPaths: ["Lake County / ZIP 32778 sector", "Lake County / elevation 66 ft band", "Lake County / primary ZIP 32778", "Lake County / coords 28.7900, -81.7400"]
-zillowHomeValueUsd: 311858
 ---
 
 **Engineering Notice for Tavares:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

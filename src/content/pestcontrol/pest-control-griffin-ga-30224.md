@@ -11,7 +11,6 @@ lng: -84.2700
 zipSample: ["30223", "30224"]
 zipCodes: ["30223", "30224"]
 localPaths: ["Spalding County / ZIP 30224 sector", "Spalding County / ZIP 30223 sector", "Spalding County / elevation 981 ft band", "Spalding County / coords 33.2400, -84.2700", "Spalding County / primary ZIP 30224"]
-zillowHomeValueUsd: 258641
 ---
 
 **Engineering Notice for Griffin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Spalding County.

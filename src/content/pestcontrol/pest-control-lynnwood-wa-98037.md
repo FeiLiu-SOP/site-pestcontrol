@@ -11,7 +11,6 @@ lng: -122.3000
 zipSample: ["98046", "98036", "98037"]
 zipCodes: ["98036", "98037", "98046"]
 localPaths: ["Snohomish County / elevation 423 ft band", "Snohomish County / ZIP 98037 sector", "Snohomish County / ZIP 98046 sector", "Snohomish County / ZIP 98036 sector", "Snohomish County / primary ZIP 98037"]
-zillowHomeValueUsd: 806875
 ---
 
 **Engineering Notice for Lynnwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Snohomish County.

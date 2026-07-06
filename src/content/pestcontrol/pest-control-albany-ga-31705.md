@@ -11,7 +11,6 @@ lng: -84.1800
 zipSample: ["31703", "31702", "31705", "31708", "31701"]
 zipCodes: ["31721", "31702", "31701", "31706", "31708", "31707", "31705", "31703"]
 localPaths: ["Dougherty County / coords 31.5800, -84.1800", "Dougherty County / primary ZIP 31705", "Dougherty County / ZIP 31701 sector", "Dougherty County / ZIP 31702 sector", "Dougherty County / ZIP 31708 sector"]
-zillowHomeValueUsd: 91145
 ---
 
 **Engineering Notice for Albany:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dougherty County.

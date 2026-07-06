@@ -11,7 +11,6 @@ lng: -93.2000
 zipSample: ["55304"]
 zipCodes: ["55304"]
 localPaths: ["Anoka County / primary ZIP 55304", "Anoka County / ZIP 55304 sector", "Anoka County / elevation 889 ft band", "Anoka County / coords 45.2500, -93.2000"]
-zillowHomeValueUsd: 451257
 ---
 
 **Engineering Notice for Ham Lake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anoka County.

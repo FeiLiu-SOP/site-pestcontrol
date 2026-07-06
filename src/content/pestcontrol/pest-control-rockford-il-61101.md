@@ -11,7 +11,6 @@ lng: -89.0600
 zipSample: ["61107", "61110", "61114", "61126", "61101"]
 zipCodes: ["61105", "61110", "61108", "61126", "61101", "61102", "61104", "61109", "61114", "61125", "61103", "61107"]
 localPaths: ["Winnebago County / ZIP 61126 sector", "Winnebago County / coords 42.2600, -89.0600", "Winnebago County / primary ZIP 61101", "Winnebago County / ZIP 61110 sector", "Winnebago County / elevation 735 ft band"]
-zillowHomeValueUsd: 111561
 ---
 
 **Engineering Notice for Rockford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Winnebago County.

@@ -11,7 +11,6 @@ lng: -77.7200
 zipSample: ["21740", "21741", "21749", "21742", "21747"]
 zipCodes: ["21747", "21740", "21749", "21742", "21741"]
 localPaths: ["Washington County / elevation 561 ft band", "Washington County / ZIP 21742 sector", "Washington County / ZIP 21741 sector", "Washington County / primary ZIP 21742", "Washington County / coords 39.6400, -77.7200"]
-zillowHomeValueUsd: 346227
 ---
 
 **Engineering Notice for Hagerstown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.

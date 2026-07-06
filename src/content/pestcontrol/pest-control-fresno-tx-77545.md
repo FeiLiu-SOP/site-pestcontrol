@@ -11,7 +11,6 @@ lng: -95.4700
 zipSample: ["77545"]
 zipCodes: ["77545"]
 localPaths: ["Fort Bend County / coords 29.5400, -95.4700", "Fort Bend County / primary ZIP 77545", "Fort Bend County / ZIP 77545 sector", "Fort Bend County / elevation 89 ft band"]
-zillowHomeValueUsd: 280251
 ---
 
 **Engineering Notice for Fresno:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fort Bend County.

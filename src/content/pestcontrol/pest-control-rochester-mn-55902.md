@@ -11,7 +11,6 @@ lng: -92.4800
 zipSample: ["55902", "55906", "55904", "55905", "55903"]
 zipCodes: ["55901", "55904", "55902", "55905", "55906", "55903"]
 localPaths: ["Olmsted County / ZIP 55905 sector", "Olmsted County / primary ZIP 55902", "Olmsted County / ZIP 55903 sector", "Olmsted County / coords 44.0200, -92.4800", "Olmsted County / ZIP 55906 sector"]
-zillowHomeValueUsd: 468225
 ---
 
 **Engineering Notice for Rochester:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Olmsted County.

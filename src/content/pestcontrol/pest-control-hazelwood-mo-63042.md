@@ -11,7 +11,6 @@ lng: -90.3900
 zipSample: ["63042", "63031", "63044"]
 zipCodes: ["63042", "63031", "63044"]
 localPaths: ["St. Louis County / ZIP 63031 sector", "St. Louis County / primary ZIP 63042", "St. Louis County / coords 38.7900, -90.3900", "St. Louis County / ZIP 63042 sector", "St. Louis County / elevation 479 ft band"]
-zillowHomeValueUsd: 164337
 ---
 
 **Engineering Notice for Hazelwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.

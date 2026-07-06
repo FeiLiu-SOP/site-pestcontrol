@@ -11,7 +11,6 @@ lng: -84.2300
 zipSample: ["30092", "30071", "30360", "30010"]
 zipCodes: ["30071", "30010", "30092", "30360"]
 localPaths: ["Gwinnett County / ZIP 30360 sector", "Gwinnett County / ZIP 30071 sector", "Gwinnett County / primary ZIP 30071", "Gwinnett County / coords 33.9700, -84.2300", "Gwinnett County / elevation 1014 ft band"]
-zillowHomeValueUsd: 360251
 ---
 
 **Engineering Notice for Peachtree Corners:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gwinnett County.

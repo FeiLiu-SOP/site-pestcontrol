@@ -11,7 +11,6 @@ lng: -77.2100
 zipSample: ["22043", "22046"]
 zipCodes: ["22043", "22046"]
 localPaths: ["Fairfax County / coords 38.8900, -77.2100", "Fairfax County / primary ZIP 22046", "Fairfax County / ZIP 22043 sector", "Fairfax County / ZIP 22046 sector", "Fairfax County / elevation 433 ft band"]
-zillowHomeValueUsd: 1052495
 ---
 
 **Engineering Notice for Idylwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.

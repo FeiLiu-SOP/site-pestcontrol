@@ -11,7 +11,6 @@ lng: -88.1100
 zipSample: ["60189", "60187"]
 zipCodes: ["60189", "60187"]
 localPaths: ["DuPage County / elevation 761 ft band", "DuPage County / primary ZIP 60187", "DuPage County / ZIP 60187 sector", "DuPage County / coords 41.8600, -88.1100", "DuPage County / ZIP 60189 sector"]
-zillowHomeValueUsd: 490751
 ---
 
 **Engineering Notice for Wheaton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.

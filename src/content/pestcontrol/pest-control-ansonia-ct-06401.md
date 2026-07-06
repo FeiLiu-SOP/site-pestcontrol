@@ -11,7 +11,6 @@ lng: -73.0700
 zipSample: ["06401"]
 zipCodes: ["06401"]
 localPaths: ["Naugatuck Valley County / elevation 131 ft band", "Naugatuck Valley County / ZIP 06401 sector", "Naugatuck Valley County / coords 41.3400, -73.0700", "Naugatuck Valley County / primary ZIP 06401"]
-zillowHomeValueUsd: 374371
 ---
 
 **Engineering Notice for Ansonia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Naugatuck Valley County.

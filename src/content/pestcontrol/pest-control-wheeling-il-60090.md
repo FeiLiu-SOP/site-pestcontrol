@@ -11,7 +11,6 @@ lng: -87.9200
 zipSample: ["60078", "60090"]
 zipCodes: ["60090", "60078"]
 localPaths: ["Cook County / coords 42.1300, -87.9200", "Cook County / ZIP 60090 sector", "Cook County / primary ZIP 60090", "Cook County / elevation 653 ft band", "Cook County / ZIP 60078 sector"]
-zillowHomeValueUsd: 305428
 ---
 
 **Engineering Notice for Wheeling:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

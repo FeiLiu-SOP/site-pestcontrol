@@ -11,7 +11,6 @@ lng: -82.7700
 zipSample: ["43147"]
 zipCodes: ["43147"]
 localPaths: ["Fairfield County / coords 39.8900, -82.7700", "Fairfield County / primary ZIP 43147", "Fairfield County / elevation 833 ft band", "Fairfield County / ZIP 43147 sector"]
-zillowHomeValueUsd: 419470
 ---
 
 **Engineering Notice for Pickerington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfield County.

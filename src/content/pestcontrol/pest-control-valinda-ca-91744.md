@@ -11,7 +11,6 @@ lng: -117.9300
 zipSample: ["91744"]
 zipCodes: ["91744"]
 localPaths: ["Los Angeles County / elevation 390 ft band", "Los Angeles County / ZIP 91744 sector", "Los Angeles County / coords 34.0400, -117.9300", "Los Angeles County / primary ZIP 91744"]
-zillowHomeValueUsd: 740941
 ---
 
 **Engineering Notice for Valinda:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

@@ -11,7 +11,6 @@ lng: -77.3000
 zipSample: ["22030", "22037", "22031"]
 zipCodes: ["22031", "22037", "22030"]
 localPaths: ["Fairfax County / coords 38.8500, -77.3000", "Fairfax County / ZIP 22031 sector", "Fairfax County / elevation 387 ft band", "Fairfax County / primary ZIP 22031", "Fairfax County / ZIP 22030 sector"]
-zillowHomeValueUsd: 774737
 ---
 
 **Engineering Notice for Fairfax:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.

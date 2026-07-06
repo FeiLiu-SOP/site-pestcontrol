@@ -11,7 +11,6 @@ lng: -110.9800
 zipSample: ["85742", "85737", "85704", "85755"]
 zipCodes: ["85742", "85755", "85737", "85704"]
 localPaths: ["Pima County / elevation 2740 ft band", "Pima County / primary ZIP 85755", "Pima County / ZIP 85737 sector", "Pima County / ZIP 85742 sector", "Pima County / coords 32.4200, -110.9800"]
-zillowHomeValueUsd: 513215
 ---
 
 **Engineering Notice for Oro Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pima County.

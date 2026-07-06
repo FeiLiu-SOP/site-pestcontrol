@@ -11,7 +11,6 @@ lng: -122.0300
 zipSample: ["94533", "94535", "94534"]
 zipCodes: ["94535", "94533", "94534"]
 localPaths: ["Solano County / coords 38.2600, -122.0300", "Solano County / ZIP 94534 sector", "Solano County / elevation 26 ft band", "Solano County / ZIP 94533 sector", "Solano County / ZIP 94535 sector"]
-zillowHomeValueUsd: 539174
 ---
 
 **Engineering Notice for Fairfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Solano County.

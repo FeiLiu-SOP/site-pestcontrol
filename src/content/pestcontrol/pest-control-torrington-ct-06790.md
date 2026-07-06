@@ -11,7 +11,6 @@ lng: -73.1300
 zipSample: ["06790"]
 zipCodes: ["06790"]
 localPaths: ["Northwest Hills County / elevation 1043 ft band", "Northwest Hills County / primary ZIP 06790", "Northwest Hills County / ZIP 06790 sector", "Northwest Hills County / coords 41.8300, -73.1300"]
-zillowHomeValueUsd: 294915
 ---
 
 **Engineering Notice for Torrington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Northwest Hills County.

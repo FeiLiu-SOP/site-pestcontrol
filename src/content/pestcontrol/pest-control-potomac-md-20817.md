@@ -11,7 +11,6 @@ lng: -77.1900
 zipSample: ["20817", "20859", "20854", "20827"]
 zipCodes: ["20854", "20859", "20827", "20817"]
 localPaths: ["Montgomery County / ZIP 20827 sector", "Montgomery County / ZIP 20854 sector", "Montgomery County / ZIP 20859 sector", "Montgomery County / primary ZIP 20817", "Montgomery County / elevation 305 ft band"]
-zillowHomeValueUsd: 1309882
 ---
 
 **Engineering Notice for Potomac:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

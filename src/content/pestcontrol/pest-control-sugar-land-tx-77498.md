@@ -11,7 +11,6 @@ lng: -95.6400
 zipSample: ["77478", "77498", "77496", "77479", "77487"]
 zipCodes: ["77479", "77496", "77478", "77498", "77487"]
 localPaths: ["Fort Bend County / ZIP 77478 sector", "Fort Bend County / coords 29.5900, -95.6400", "Fort Bend County / ZIP 77498 sector", "Fort Bend County / primary ZIP 77498", "Fort Bend County / ZIP 77487 sector"]
-zillowHomeValueUsd: 327179
 ---
 
 **Engineering Notice for Sugar Land:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fort Bend County.

@@ -11,7 +11,6 @@ lng: -71.0200
 zipSample: ["02305", "02302", "02301", "02304", "02303"]
 zipCodes: ["02302", "02301", "02303", "02305", "02304"]
 localPaths: ["Plymouth County / ZIP 02304 sector", "Plymouth County / coords 42.0800, -71.0200", "Plymouth County / ZIP 02305 sector", "Plymouth County / ZIP 02303 sector", "Plymouth County / ZIP 02302 sector"]
-zillowHomeValueUsd: 513436
 ---
 
 **Engineering Notice for Brockton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Plymouth County.

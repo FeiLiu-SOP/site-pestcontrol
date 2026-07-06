@@ -11,7 +11,6 @@ lng: -97.8600
 zipSample: ["78641", "78646"]
 zipCodes: ["78646", "78641"]
 localPaths: ["Williamson County / primary ZIP 78641", "Williamson County / ZIP 78641 sector", "Williamson County / ZIP 78646 sector", "Williamson County / elevation 1024 ft band", "Williamson County / coords 30.5700, -97.8600"]
-zillowHomeValueUsd: 432229
 ---
 
 **Engineering Notice for Leander:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Williamson County.

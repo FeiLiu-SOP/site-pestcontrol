@@ -11,7 +11,6 @@ lng: -96.6000
 zipSample: ["66506", "66505", "66502", "66503"]
 zipCodes: ["66503", "66505", "66506", "66502"]
 localPaths: ["Riley County / ZIP 66503 sector", "Riley County / ZIP 66502 sector", "Riley County / elevation 1066 ft band", "Riley County / ZIP 66505 sector", "Riley County / primary ZIP 66506"]
-zillowHomeValueUsd: 258256
 ---
 
 **Engineering Notice for Manhattan:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riley County.

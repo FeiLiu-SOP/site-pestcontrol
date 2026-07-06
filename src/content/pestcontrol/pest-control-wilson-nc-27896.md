@@ -11,7 +11,6 @@ lng: -77.9300
 zipSample: ["27895", "27894", "27893", "27896"]
 zipCodes: ["27893", "27894", "27896", "27895"]
 localPaths: ["Wilson County / primary ZIP 27896", "Wilson County / ZIP 27893 sector", "Wilson County / elevation 135 ft band", "Wilson County / ZIP 27895 sector", "Wilson County / ZIP 27894 sector"]
-zillowHomeValueUsd: 279870
 ---
 
 **Engineering Notice for Wilson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wilson County.

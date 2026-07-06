@@ -11,7 +11,6 @@ lng: -111.8400
 zipSample: ["84322", "84321", "84341"]
 zipCodes: ["84322", "84321", "84341"]
 localPaths: ["Cache County / elevation 4514 ft band", "Cache County / coords 41.7400, -111.8400", "Cache County / ZIP 84322 sector", "Cache County / primary ZIP 84321", "Cache County / ZIP 84321 sector"]
-zillowHomeValueUsd: 421424
 ---
 
 **Engineering Notice for Logan:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cache County.

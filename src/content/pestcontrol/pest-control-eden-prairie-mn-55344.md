@@ -11,7 +11,6 @@ lng: -93.4600
 zipSample: ["55344", "55346", "55347"]
 zipCodes: ["55346", "55344", "55347"]
 localPaths: ["Hennepin County / ZIP 55346 sector", "Hennepin County / ZIP 55344 sector", "Hennepin County / coords 44.8500, -93.4600", "Hennepin County / elevation 869 ft band", "Hennepin County / ZIP 55347 sector"]
-zillowHomeValueUsd: 346998
 ---
 
 **Engineering Notice for Eden Prairie:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hennepin County.

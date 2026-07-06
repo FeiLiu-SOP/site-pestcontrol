@@ -11,7 +11,6 @@ lng: -83.6500
 zipSample: ["31099", "31088", "31005", "31093"]
 zipCodes: ["31005", "31099", "31088", "31093"]
 localPaths: ["Houston County / ZIP 31093 sector", "Houston County / primary ZIP 31088", "Houston County / coords 32.6000, -83.6500", "Houston County / elevation 423 ft band", "Houston County / ZIP 31099 sector"]
-zillowHomeValueUsd: 236308
 ---
 
 **Engineering Notice for Warner Robins:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Houston County.

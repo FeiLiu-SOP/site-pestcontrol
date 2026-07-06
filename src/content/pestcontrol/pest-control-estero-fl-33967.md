@@ -11,7 +11,6 @@ lng: -81.8000
 zipSample: ["34135", "33928", "33929", "33967"]
 zipCodes: ["33929", "34135", "33967", "33928"]
 localPaths: ["Lee County / ZIP 33967 sector", "Lee County / coords 26.4300, -81.8000", "Lee County / ZIP 33929 sector", "Lee County / ZIP 34135 sector", "Lee County / primary ZIP 33967"]
-zillowHomeValueUsd: 359345
 ---
 
 **Engineering Notice for Estero:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lee County.

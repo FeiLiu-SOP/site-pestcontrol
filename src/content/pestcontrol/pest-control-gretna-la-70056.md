@@ -11,7 +11,6 @@ lng: -90.0500
 zipSample: ["70054", "70053", "70056"]
 zipCodes: ["70056", "70053", "70054"]
 localPaths: ["Jefferson Parish / ZIP 70054 sector", "Jefferson Parish / ZIP 70056 sector", "Jefferson Parish / coords 29.9100, -90.0500", "Jefferson Parish / elevation 7 ft band", "Jefferson Parish / ZIP 70053 sector"]
-zillowHomeValueUsd: 250938
 ---
 
 **Engineering Notice for Gretna:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson Parish.

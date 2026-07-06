@@ -11,7 +11,6 @@ lng: -95.1100
 zipSample: ["77530"]
 zipCodes: ["77530"]
 localPaths: ["Harris County / ZIP 77530 sector", "Harris County / elevation 49 ft band", "Harris County / primary ZIP 77530", "Harris County / coords 29.7900, -95.1100"]
-zillowHomeValueUsd: 210958
 ---
 
 **Engineering Notice for Channelview:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harris County.

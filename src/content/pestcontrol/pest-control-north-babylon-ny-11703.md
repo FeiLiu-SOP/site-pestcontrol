@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11703"
 county: "Suffolk County"
 elevationFt: 49
-lat: 40.7300
-lng: -73.3200
+lat: 40.7405
+lng: -73.3500
 zipSample: ["11703"]
 zipCodes: ["11703"]
-localPaths: ["Suffolk County / coords 40.7300, -73.3200", "Suffolk County / primary ZIP 11703", "Suffolk County / elevation 49 ft band", "Suffolk County / ZIP 11703 sector"]
-zillowHomeValueUsd: 620965
+localPaths: ["Suffolk County / coords 40.7405, -73.3500", "Suffolk County / primary ZIP 11703", "Suffolk County / elevation 49 ft band", "Suffolk County / ZIP 11703 sector"]
 ---
 
 **Engineering Notice for North Babylon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
@@ -41,7 +40,7 @@ About us: We document conducive conditions and exclusion materials before chemic
 
 Step: record station placement maps for follow-up visits.
 
-Harbor ledger 292190: frass lane, mud-tube scan, and garage jamb gap measure filed for North Babylon, NY at 40.7300, -73.3200.
+Harbor ledger 292190: frass lane, mud-tube scan, and garage jamb gap measure filed for North Babylon, NY at 40.7405, -73.3500.
 
 Intercept log 292190: bed bug intercept count staged before North Babylon, NY interior gel zones.
 

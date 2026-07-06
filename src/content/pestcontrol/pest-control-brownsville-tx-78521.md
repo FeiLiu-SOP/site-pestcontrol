@@ -11,7 +11,6 @@ lng: -97.4600
 zipSample: ["78575", "78520", "78522", "78526", "78521"]
 zipCodes: ["78566", "78575", "78521", "78578", "78522", "78520", "78526"]
 localPaths: ["Cameron County / ZIP 78521 sector", "Cameron County / ZIP 78520 sector", "Cameron County / ZIP 78575 sector", "Cameron County / ZIP 78522 sector", "Cameron County / elevation 20 ft band"]
-zillowHomeValueUsd: 174147
 ---
 
 **Engineering Notice for Brownsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cameron County.

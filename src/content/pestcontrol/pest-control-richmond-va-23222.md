@@ -11,7 +11,6 @@ lng: -77.4800
 zipSample: ["23290", "23230", "23219", "23173", "23289"]
 zipCodes: ["23298", "23224", "23276", "23222", "23234", "23292", "23227", "23226", "23282", "23232", "23220", "23274"]
 localPaths: ["Richmond County / ZIP 23219 sector", "Richmond County / elevation 52 ft band", "Richmond County / ZIP 23290 sector", "Richmond County / ZIP 23230 sector", "Richmond County / ZIP 23289 sector"]
-zillowHomeValueUsd: 276037
 ---
 
 **Engineering Notice for Richmond:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Richmond County.

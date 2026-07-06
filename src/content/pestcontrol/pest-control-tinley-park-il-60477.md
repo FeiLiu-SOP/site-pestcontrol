@@ -11,7 +11,6 @@ lng: -87.8000
 zipSample: ["60487", "60477"]
 zipCodes: ["60477", "60487"]
 localPaths: ["Cook County / ZIP 60487 sector", "Cook County / ZIP 60477 sector", "Cook County / coords 41.5700, -87.8000", "Cook County / elevation 712 ft band", "Cook County / primary ZIP 60477"]
-zillowHomeValueUsd: 297929
 ---
 
 **Engineering Notice for Tinley Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

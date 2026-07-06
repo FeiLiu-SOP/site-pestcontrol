@@ -11,7 +11,6 @@ lng: -83.3100
 zipSample: ["48141"]
 zipCodes: ["48141"]
 localPaths: ["Wayne County / primary ZIP 48141", "Wayne County / elevation 636 ft band", "Wayne County / ZIP 48141 sector", "Wayne County / coords 42.2900, -83.3100"]
-zillowHomeValueUsd: 108026
 ---
 
 **Engineering Notice for Inkster:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wayne County.

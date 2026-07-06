@@ -11,7 +11,6 @@ lng: -76.7000
 zipSample: ["21153", "21282", "21022", "21209", "21208"]
 zipCodes: ["21153", "21209", "21022", "21208", "21282"]
 localPaths: ["Baltimore County / primary ZIP 21153", "Baltimore County / ZIP 21022 sector", "Baltimore County / ZIP 21282 sector", "Baltimore County / ZIP 21208 sector", "Baltimore County / ZIP 21209 sector"]
-zillowHomeValueUsd: 1083043
 ---
 
 **Engineering Notice for Pikesville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.

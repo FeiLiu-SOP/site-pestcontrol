@@ -11,7 +11,6 @@ lng: -82.4400
 zipSample: ["33603", "33637", "33664", "33633", "33606"]
 zipCodes: ["33608", "33602", "33614", "33677", "33619", "33686", "33621", "33613", "33603", "33630", "33620", "33647"]
 localPaths: ["Hillsborough County / ZIP 33633 sector", "Hillsborough County / ZIP 33606 sector", "Hillsborough County / ZIP 33664 sector", "Hillsborough County / primary ZIP 33637", "Hillsborough County / ZIP 33603 sector"]
-zillowHomeValueUsd: 295113
 ---
 
 **Engineering Notice for Tampa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.

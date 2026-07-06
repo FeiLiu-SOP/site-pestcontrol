@@ -11,7 +11,6 @@ lng: -121.4400
 zipSample: ["95673"]
 zipCodes: ["95673"]
 localPaths: ["Sacramento County / ZIP 95673 sector", "Sacramento County / elevation 59 ft band", "Sacramento County / coords 38.6900, -121.4400", "Sacramento County / primary ZIP 95673"]
-zillowHomeValueUsd: 453196
 ---
 
 **Engineering Notice for Rio Linda:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sacramento County.

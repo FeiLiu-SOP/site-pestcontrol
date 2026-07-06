@@ -11,7 +11,6 @@ lng: -96.5600
 zipSample: ["75454"]
 zipCodes: ["75454"]
 localPaths: ["Collin County / coords 33.2900, -96.5600", "Collin County / elevation 663 ft band", "Collin County / primary ZIP 75454", "Collin County / ZIP 75454 sector"]
-zillowHomeValueUsd: 435331
 ---
 
 **Engineering Notice for Melissa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Collin County.

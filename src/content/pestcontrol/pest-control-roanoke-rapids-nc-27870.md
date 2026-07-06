@@ -11,7 +11,6 @@ lng: -77.6500
 zipSample: ["27870"]
 zipCodes: ["27870"]
 localPaths: ["Halifax County / coords 36.4500, -77.6500", "Halifax County / ZIP 27870 sector", "Halifax County / primary ZIP 27870", "Halifax County / elevation 144 ft band"]
-zillowHomeValueUsd: 120680
 ---
 
 **Engineering Notice for Roanoke Rapids:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Halifax County.

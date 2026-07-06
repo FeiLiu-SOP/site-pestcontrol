@@ -11,7 +11,6 @@ lng: -81.6000
 zipSample: ["44125", "44105"]
 zipCodes: ["44105", "44125"]
 localPaths: ["Cuyahoga County / ZIP 44105 sector", "Cuyahoga County / ZIP 44125 sector", "Cuyahoga County / coords 41.4200, -81.6000", "Cuyahoga County / elevation 922 ft band", "Cuyahoga County / primary ZIP 44125"]
-zillowHomeValueUsd: 138969
 ---
 
 **Engineering Notice for Garfield Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cuyahoga County.

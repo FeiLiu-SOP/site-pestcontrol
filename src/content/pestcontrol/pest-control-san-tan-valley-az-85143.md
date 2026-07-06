@@ -11,7 +11,6 @@ lng: -111.5600
 zipSample: ["85144", "85143", "85142", "85140"]
 zipCodes: ["85143", "85142", "85140", "85144"]
 localPaths: ["Pinal County / primary ZIP 85143", "Pinal County / ZIP 85140 sector", "Pinal County / ZIP 85144 sector", "Pinal County / elevation 1493 ft band", "Pinal County / coords 33.1800, -111.5600"]
-zillowHomeValueUsd: 376898
 ---
 
 **Engineering Notice for San Tan Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pinal County.

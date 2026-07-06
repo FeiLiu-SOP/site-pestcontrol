@@ -11,7 +11,6 @@ lng: -84.3700
 zipSample: ["30328", "30327", "31150", "30358", "30350"]
 zipCodes: ["30327", "31156", "30358", "30328", "30342", "31150", "30350"]
 localPaths: ["Fulton County / ZIP 30327 sector", "Fulton County / coords 33.9400, -84.3700", "Fulton County / ZIP 30328 sector", "Fulton County / ZIP 30358 sector", "Fulton County / elevation 1024 ft band"]
-zillowHomeValueUsd: 547213
 ---
 
 **Engineering Notice for Sandy Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fulton County.

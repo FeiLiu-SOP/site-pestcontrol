@@ -11,7 +11,6 @@ lng: -75.6100
 zipSample: ["19382", "19383", "19380"]
 zipCodes: ["19382", "19380", "19383"]
 localPaths: ["Chester County / coords 39.9600, -75.6100", "Chester County / ZIP 19382 sector", "Chester County / elevation 472 ft band", "Chester County / ZIP 19380 sector", "Chester County / ZIP 19383 sector"]
-zillowHomeValueUsd: 647318
 ---
 
 **Engineering Notice for West Chester:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Chester County.

@@ -11,7 +11,6 @@ lng: -74.0200
 zipSample: ["07646"]
 zipCodes: ["07646"]
 localPaths: ["Bergen County / ZIP 07646 sector", "Bergen County / elevation 36 ft band", "Bergen County / primary ZIP 07646", "Bergen County / coords 40.9300, -74.0200"]
-zillowHomeValueUsd: 728330
 ---
 
 **Engineering Notice for New Milford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bergen County.

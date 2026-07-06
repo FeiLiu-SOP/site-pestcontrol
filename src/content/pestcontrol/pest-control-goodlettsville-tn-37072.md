@@ -11,7 +11,6 @@ lng: -86.7000
 zipSample: ["37070", "37072"]
 zipCodes: ["37072", "37070"]
 localPaths: ["Sumner County / elevation 482 ft band", "Sumner County / ZIP 37072 sector", "Sumner County / coords 36.3300, -86.7000", "Sumner County / primary ZIP 37072", "Sumner County / ZIP 37070 sector"]
-zillowHomeValueUsd: 404688
 ---
 
 **Engineering Notice for Goodlettsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sumner County.

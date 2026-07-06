@@ -11,7 +11,6 @@ lng: -122.1400
 zipSample: ["98223"]
 zipCodes: ["98223"]
 localPaths: ["Snohomish County / coords 48.1700, -122.1400", "Snohomish County / ZIP 98223 sector", "Snohomish County / elevation 223 ft band", "Snohomish County / primary ZIP 98223"]
-zillowHomeValueUsd: 663350
 ---
 
 **Engineering Notice for Arlington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Snohomish County.

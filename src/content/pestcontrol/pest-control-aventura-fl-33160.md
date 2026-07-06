@@ -11,7 +11,6 @@ lng: -80.1400
 zipSample: ["33180", "33160", "33163"]
 zipCodes: ["33180", "33163", "33160"]
 localPaths: ["Miami-Dade County / coords 25.9600, -80.1400", "Miami-Dade County / ZIP 33160 sector", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / ZIP 33163 sector", "Miami-Dade County / primary ZIP 33160"]
-zillowHomeValueUsd: 515976
 ---
 
 **Engineering Notice for Aventura:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

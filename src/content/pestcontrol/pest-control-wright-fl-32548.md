@@ -11,7 +11,6 @@ lng: -86.6400
 zipSample: ["32547", "32548"]
 zipCodes: ["32547", "32548"]
 localPaths: ["Okaloosa County / ZIP 32547 sector", "Okaloosa County / ZIP 32548 sector", "Okaloosa County / coords 30.4400, -86.6400", "Okaloosa County / primary ZIP 32548", "Okaloosa County / elevation 56 ft band"]
-zillowHomeValueUsd: 338670
 ---
 
 **Engineering Notice for Wright:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Okaloosa County.

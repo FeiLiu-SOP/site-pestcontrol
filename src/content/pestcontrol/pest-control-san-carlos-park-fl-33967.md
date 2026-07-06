@@ -11,7 +11,6 @@ lng: -81.8200
 zipSample: ["33967"]
 zipCodes: ["33967"]
 localPaths: ["Lee County / primary ZIP 33967", "Lee County / coords 26.4800, -81.8200", "Lee County / ZIP 33967 sector", "Lee County / elevation 33 ft band"]
-zillowHomeValueUsd: 359346
 ---
 
 **Engineering Notice for San Carlos Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lee County.

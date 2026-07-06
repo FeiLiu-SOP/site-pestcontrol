@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11767"
 county: "Suffolk County"
 elevationFt: 89
-lat: 40.8300
-lng: -73.1100
+lat: 40.8405
+lng: -73.1400
 zipSample: ["11779", "11767"]
 zipCodes: ["11779", "11767"]
-localPaths: ["Suffolk County / primary ZIP 11767", "Suffolk County / ZIP 11779 sector", "Suffolk County / elevation 89 ft band", "Suffolk County / ZIP 11767 sector", "Suffolk County / coords 40.8300, -73.1100"]
-zillowHomeValueUsd: 758735
+localPaths: ["Suffolk County / primary ZIP 11767", "Suffolk County / ZIP 11779 sector", "Suffolk County / elevation 89 ft band", "Suffolk County / ZIP 11767 sector", "Suffolk County / coords 40.8405, -73.1400"]
 ---
 
 **Engineering Notice for Lake Ronkonkoma:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
@@ -47,6 +46,6 @@ County grid Suffolk County informs routing near ZIP 11767.
 
 Zone map 960216: attic insulation disturbance trace and pantry pest source logged for Lake Ronkonkoma, NY sector 11767.
 
-**Regional Infrastructure Brief:** Elevation baseline indicates ~89 ft across the Suffolk County area. Coordinates: 40.8300, -73.1100. ZIP sample: 11779, 11767. Service perimeter note: Coverage extends through Suffolk County with dispatch centered near ZIP 11767.
+**Regional Infrastructure Brief:** Elevation baseline indicates ~89 ft across the Suffolk County area. Coordinates: 40.8405, -73.1400. ZIP sample: 11779, 11767. Service perimeter note: Coverage extends through Suffolk County with dispatch centered near ZIP 11767.
 
 Service reference: NY-11767-3ce54e4f

@@ -11,7 +11,6 @@ lng: -88.0900
 zipSample: ["60108", "60117"]
 zipCodes: ["60117", "60108"]
 localPaths: ["DuPage County / elevation 794 ft band", "DuPage County / ZIP 60108 sector", "DuPage County / primary ZIP 60108", "DuPage County / ZIP 60117 sector", "DuPage County / coords 41.9500, -88.0900"]
-zillowHomeValueUsd: 432916
 ---
 
 **Engineering Notice for Bloomingdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.

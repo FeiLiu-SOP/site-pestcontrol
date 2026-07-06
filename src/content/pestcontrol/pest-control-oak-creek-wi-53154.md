@@ -11,7 +11,6 @@ lng: -87.9000
 zipSample: ["53154"]
 zipCodes: ["53154"]
 localPaths: ["Milwaukee County / ZIP 53154 sector", "Milwaukee County / coords 42.8800, -87.9000", "Milwaukee County / elevation 676 ft band", "Milwaukee County / primary ZIP 53154"]
-zillowHomeValueUsd: 407578
 ---
 
 **Engineering Notice for Oak Creek:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Milwaukee County.

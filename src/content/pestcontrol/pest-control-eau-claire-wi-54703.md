@@ -11,7 +11,6 @@ lng: -91.4900
 zipSample: ["54703", "54702", "54701"]
 zipCodes: ["54701", "54703", "54702"]
 localPaths: ["Eau Claire County / elevation 869 ft band", "Eau Claire County / ZIP 54702 sector", "Eau Claire County / coords 44.8200, -91.4900", "Eau Claire County / primary ZIP 54703", "Eau Claire County / ZIP 54703 sector"]
-zillowHomeValueUsd: 287471
 ---
 
 **Engineering Notice for Eau Claire:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Eau Claire County.

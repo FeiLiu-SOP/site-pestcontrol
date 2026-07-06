@@ -11,7 +11,6 @@ lng: -121.8500
 zipSample: ["95113", "95193", "95124", "95116", "95160"]
 zipCodes: ["95154", "95134", "95121", "95118", "95156", "95116", "95037", "95191", "95124", "95194", "95128", "95103"]
 localPaths: ["Santa Clara County / ZIP 95160 sector", "Santa Clara County / elevation 108 ft band", "Santa Clara County / ZIP 95113 sector", "Santa Clara County / ZIP 95124 sector", "Santa Clara County / ZIP 95116 sector"]
-zillowHomeValueUsd: 1457675
 ---
 
 **Engineering Notice for San Jose:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Clara County.

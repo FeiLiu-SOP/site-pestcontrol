@@ -11,7 +11,6 @@ lng: -84.9200
 zipSample: ["30180"]
 zipCodes: ["30180"]
 localPaths: ["Carroll County / coords 33.7300, -84.9200", "Carroll County / elevation 1155 ft band", "Carroll County / ZIP 30180 sector", "Carroll County / primary ZIP 30180"]
-zillowHomeValueUsd: 311899
 ---
 
 **Engineering Notice for Villa Rica:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Carroll County.

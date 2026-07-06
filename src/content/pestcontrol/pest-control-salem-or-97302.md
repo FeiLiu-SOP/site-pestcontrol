@@ -11,7 +11,6 @@ lng: -123.0200
 zipSample: ["97314", "97309", "97317", "97306", "97301"]
 zipCodes: ["97317", "97314", "97311", "97312", "97309", "97306", "97304", "97302", "97310", "97301"]
 localPaths: ["Marion County / primary ZIP 97302", "Marion County / coords 44.9200, -123.0200", "Marion County / elevation 180 ft band", "Marion County / ZIP 97314 sector", "Marion County / ZIP 97317 sector"]
-zillowHomeValueUsd: 463304
 ---
 
 **Engineering Notice for Salem:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marion County.

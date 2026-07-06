@@ -11,7 +11,6 @@ lng: -75.5200
 zipSample: ["19460"]
 zipCodes: ["19460"]
 localPaths: ["Chester County / coords 40.1400, -75.5200", "Chester County / primary ZIP 19460", "Chester County / ZIP 19460 sector", "Chester County / elevation 131 ft band"]
-zillowHomeValueUsd: 517793
 ---
 
 **Engineering Notice for Phoenixville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Chester County.

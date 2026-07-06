@@ -11,7 +11,6 @@ lng: -82.8600
 zipSample: ["43230"]
 zipCodes: ["43230"]
 localPaths: ["Franklin County / coords 40.0300, -82.8600", "Franklin County / primary ZIP 43230", "Franklin County / ZIP 43230 sector", "Franklin County / elevation 830 ft band"]
-zillowHomeValueUsd: 343019
 ---
 
 **Engineering Notice for Gahanna:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Franklin County.

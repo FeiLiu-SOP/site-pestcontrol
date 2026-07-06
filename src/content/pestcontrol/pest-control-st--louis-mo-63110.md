@@ -11,7 +11,6 @@ lng: -90.2500
 zipSample: ["63116", "63137", "63163", "63180", "63112"]
 zipCodes: ["63104", "63188", "63137", "63177", "63163", "63107", "63169", "63157", "63158", "63179", "63156", "63101"]
 localPaths: ["St. Louis County / ZIP 63137 sector", "St. Louis County / ZIP 63180 sector", "St. Louis County / primary ZIP 63110", "St. Louis County / ZIP 63116 sector", "St. Louis County / coords 38.6400, -90.2500"]
-zillowHomeValueUsd: 294942
 ---
 
 **Engineering Notice for St. Louis:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.

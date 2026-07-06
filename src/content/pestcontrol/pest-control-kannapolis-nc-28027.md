@@ -11,7 +11,6 @@ lng: -80.6400
 zipSample: ["28027", "28081", "28083", "28082"]
 zipCodes: ["28082", "28027", "28083", "28081"]
 localPaths: ["Cabarrus County / coords 35.4800, -80.6400", "Cabarrus County / ZIP 28083 sector", "Cabarrus County / ZIP 28082 sector", "Cabarrus County / elevation 761 ft band", "Cabarrus County / ZIP 28027 sector"]
-zillowHomeValueUsd: 414964
 ---
 
 **Engineering Notice for Kannapolis:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cabarrus County.

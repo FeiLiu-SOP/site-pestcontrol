@@ -11,7 +11,6 @@ lng: -73.9200
 zipSample: ["12603", "12602", "12601"]
 zipCodes: ["12603", "12602", "12601"]
 localPaths: ["Dutchess County / coords 41.7000, -73.9200", "Dutchess County / elevation 226 ft band", "Dutchess County / ZIP 12602 sector", "Dutchess County / primary ZIP 12601", "Dutchess County / ZIP 12603 sector"]
-zillowHomeValueUsd: 384451
 ---
 
 **Engineering Notice for Poughkeepsie:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dutchess County.

@@ -11,7 +11,6 @@ lng: -90.2200
 zipSample: ["62035"]
 zipCodes: ["62035"]
 localPaths: ["Madison County / elevation 587 ft band", "Madison County / ZIP 62035 sector", "Madison County / coords 38.9600, -90.2200", "Madison County / primary ZIP 62035"]
-zillowHomeValueUsd: 213346
 ---
 
 **Engineering Notice for Godfrey:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Madison County.

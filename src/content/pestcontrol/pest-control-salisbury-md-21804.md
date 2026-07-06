@@ -11,7 +11,6 @@ lng: -75.5900
 zipSample: ["21804", "21801"]
 zipCodes: ["21804", "21801"]
 localPaths: ["Wicomico County / elevation 39 ft band", "Wicomico County / primary ZIP 21804", "Wicomico County / ZIP 21801 sector", "Wicomico County / coords 38.3800, -75.5900", "Wicomico County / ZIP 21804 sector"]
-zillowHomeValueUsd: 249326
 ---
 
 **Engineering Notice for Salisbury:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wicomico County.

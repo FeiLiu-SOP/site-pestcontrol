@@ -11,7 +11,6 @@ lng: -73.6700
 zipSample: ["11563"]
 zipCodes: ["11563"]
 localPaths: ["Nassau County / ZIP 11563 sector", "Nassau County / coords 40.6600, -73.6700", "Nassau County / primary ZIP 11563", "Nassau County / elevation 16 ft band"]
-zillowHomeValueUsd: 747992
 ---
 
 **Engineering Notice for Lynbrook:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

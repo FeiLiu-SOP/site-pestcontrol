@@ -11,7 +11,6 @@ lng: -87.9700
 zipSample: ["60559"]
 zipCodes: ["60559"]
 localPaths: ["DuPage County / primary ZIP 60559", "DuPage County / elevation 768 ft band", "DuPage County / ZIP 60559 sector", "DuPage County / coords 41.7900, -87.9700"]
-zillowHomeValueUsd: 398649
 ---
 
 **Engineering Notice for Westmont:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.

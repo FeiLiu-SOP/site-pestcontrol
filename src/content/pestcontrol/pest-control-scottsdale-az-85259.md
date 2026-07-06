@@ -11,7 +11,6 @@ lng: -111.8700
 zipSample: ["85262", "85254", "85267", "85261", "85260"]
 zipCodes: ["85258", "85259", "85251", "85262", "85271", "85254", "85267", "85261", "85255", "85260", "85257", "85250"]
 localPaths: ["Maricopa County / ZIP 85254 sector", "Maricopa County / coords 33.6900, -111.8700", "Maricopa County / elevation 2156 ft band", "Maricopa County / primary ZIP 85259", "Maricopa County / ZIP 85260 sector"]
-zillowHomeValueUsd: 1143692
 ---
 
 **Engineering Notice for Scottsdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Maricopa County.

@@ -11,7 +11,6 @@ lng: -122.4000
 zipSample: ["97060"]
 zipCodes: ["97060"]
 localPaths: ["Multnomah County / coords 45.5400, -122.4000", "Multnomah County / elevation 161 ft band", "Multnomah County / ZIP 97060 sector", "Multnomah County / primary ZIP 97060"]
-zillowHomeValueUsd: 485941
 ---
 
 **Engineering Notice for Troutdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Multnomah County.

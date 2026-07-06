@@ -11,7 +11,6 @@ lng: -118.0300
 zipSample: ["90604", "90605"]
 zipCodes: ["90605", "90604"]
 localPaths: ["Los Angeles County / coords 33.9300, -118.0300", "Los Angeles County / primary ZIP 90604", "Los Angeles County / elevation 174 ft band", "Los Angeles County / ZIP 90605 sector", "Los Angeles County / ZIP 90604 sector"]
-zillowHomeValueUsd: 828654
 ---
 
 **Engineering Notice for South Whittier:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

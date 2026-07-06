@@ -11,7 +11,6 @@ lng: -111.9600
 zipSample: ["84041", "84040"]
 zipCodes: ["84041", "84040"]
 localPaths: ["Davis County / coords 41.0800, -111.9600", "Davis County / elevation 4462 ft band", "Davis County / ZIP 84041 sector", "Davis County / ZIP 84040 sector", "Davis County / primary ZIP 84041"]
-zillowHomeValueUsd: 484862
 ---
 
 **Engineering Notice for Layton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Davis County.

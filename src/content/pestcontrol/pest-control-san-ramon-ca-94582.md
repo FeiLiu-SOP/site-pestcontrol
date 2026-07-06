@@ -11,7 +11,6 @@ lng: -121.9400
 zipSample: ["94582", "94583"]
 zipCodes: ["94583", "94582"]
 localPaths: ["Contra Costa County / coords 37.7600, -121.9400", "Contra Costa County / ZIP 94582 sector", "Contra Costa County / primary ZIP 94582", "Contra Costa County / elevation 577 ft band", "Contra Costa County / ZIP 94583 sector"]
-zillowHomeValueUsd: 1765286
 ---
 
 **Engineering Notice for San Ramon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.

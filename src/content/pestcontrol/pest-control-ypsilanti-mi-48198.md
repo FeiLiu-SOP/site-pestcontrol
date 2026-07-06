@@ -11,7 +11,6 @@ lng: -83.6200
 zipSample: ["48197", "48198"]
 zipCodes: ["48198", "48197"]
 localPaths: ["Washtenaw County / coords 42.2400, -83.6200", "Washtenaw County / primary ZIP 48198", "Washtenaw County / elevation 761 ft band", "Washtenaw County / ZIP 48198 sector", "Washtenaw County / ZIP 48197 sector"]
-zillowHomeValueUsd: 225262
 ---
 
 **Engineering Notice for Ypsilanti:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washtenaw County.

@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11754"
 county: "Suffolk County"
 elevationFt: 174
-lat: 40.8900
-lng: -73.2500
+lat: 40.9005
+lng: -73.2800
 zipSample: ["11754"]
 zipCodes: ["11754"]
-localPaths: ["Suffolk County / ZIP 11754 sector", "Suffolk County / primary ZIP 11754", "Suffolk County / elevation 174 ft band", "Suffolk County / coords 40.8900, -73.2500"]
-zillowHomeValueUsd: 737733
+localPaths: ["Suffolk County / ZIP 11754 sector", "Suffolk County / primary ZIP 11754", "Suffolk County / elevation 174 ft band", "Suffolk County / coords 40.9005, -73.2800"]
 ---
 
 **Engineering Notice for Kings Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
@@ -43,7 +42,7 @@ Step: label treatment zones for occupant re-entry timing.
 
 Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Harbor ledger 321475: frass lane, mud-tube scan, and garage jamb gap measure filed for Kings Park, NY at 40.8900, -73.2500.
+Harbor ledger 321475: frass lane, mud-tube scan, and garage jamb gap measure filed for Kings Park, NY at 40.9005, -73.2800.
 
 On-site sector marker: Suffolk County / elevation 174 ft band — logged for map parity and ZIP-corridor verification.
 

@@ -11,7 +11,6 @@ lng: -80.3900
 zipSample: ["34984", "34953", "34952", "34987", "34985"]
 zipCodes: ["34984", "34952", "34987", "34953", "34986", "34983", "34985"]
 localPaths: ["St. Lucie County / coords 27.2800, -80.3900", "St. Lucie County / primary ZIP 34986", "St. Lucie County / elevation 49 ft band", "St. Lucie County / ZIP 34984 sector", "St. Lucie County / ZIP 34987 sector"]
-zillowHomeValueUsd: 374062
 ---
 
 **Engineering Notice for Port St. Lucie:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Lucie County.

@@ -11,7 +11,6 @@ lng: -81.3900
 zipSample: ["31522"]
 zipCodes: ["31522"]
 localPaths: ["Glynn County / ZIP 31522 sector", "Glynn County / coords 31.1800, -81.3900", "Glynn County / elevation 20 ft band", "Glynn County / primary ZIP 31522"]
-zillowHomeValueUsd: 688189
 ---
 
 **Engineering Notice for St. Simons:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Glynn County.

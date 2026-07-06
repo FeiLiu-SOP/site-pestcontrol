@@ -11,7 +11,6 @@ lng: -93.3900
 zipSample: ["55428", "55427"]
 zipCodes: ["55427", "55428"]
 localPaths: ["Hennepin County / ZIP 55427 sector", "Hennepin County / primary ZIP 55427", "Hennepin County / coords 45.0400, -93.3900", "Hennepin County / ZIP 55428 sector", "Hennepin County / elevation 922 ft band"]
-zillowHomeValueUsd: 367327
 ---
 
 **Engineering Notice for New Hope:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hennepin County.

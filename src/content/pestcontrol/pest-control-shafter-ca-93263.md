@@ -11,7 +11,6 @@ lng: -119.2000
 zipSample: ["93263"]
 zipCodes: ["93263"]
 localPaths: ["Kern County / primary ZIP 93263", "Kern County / coords 35.4800, -119.2000", "Kern County / elevation 381 ft band", "Kern County / ZIP 93263 sector"]
-zillowHomeValueUsd: 382044
 ---
 
 **Engineering Notice for Shafter:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kern County.

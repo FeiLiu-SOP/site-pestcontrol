@@ -6,12 +6,11 @@ state: "FL"
 zipCode: "33073"
 county: "Broward County"
 elevationFt: 20
-lat: 26.2800
+lat: 26.3100
 lng: -80.1800
 zipSample: ["33066", "33073", "33063"]
 zipCodes: ["33073", "33063", "33066"]
-localPaths: ["Broward County / ZIP 33066 sector", "Broward County / ZIP 33073 sector", "Broward County / ZIP 33063 sector", "Broward County / primary ZIP 33073", "Broward County / coords 26.2800, -80.1800"]
-zillowHomeValueUsd: 519190
+localPaths: ["Broward County / ZIP 33066 sector", "Broward County / ZIP 33073 sector", "Broward County / ZIP 33063 sector", "Broward County / primary ZIP 33073", "Broward County / coords 26.3100, -80.1800"]
 ---
 
 **Engineering Notice for Coconut Creek:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.

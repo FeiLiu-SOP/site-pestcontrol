@@ -11,7 +11,6 @@ lng: -98.2500
 zipSample: ["78108", "78132", "78154"]
 zipCodes: ["78154", "78132", "78108"]
 localPaths: ["Bexar County / coords 29.5700, -98.2500", "Bexar County / primary ZIP 78108", "Bexar County / ZIP 78132 sector", "Bexar County / elevation 699 ft band", "Bexar County / ZIP 78108 sector"]
-zillowHomeValueUsd: 330373
 ---
 
 **Engineering Notice for Schertz:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bexar County.

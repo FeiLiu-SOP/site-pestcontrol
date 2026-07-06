@@ -11,7 +11,6 @@ lng: -117.0000
 zipSample: ["83844", "83843"]
 zipCodes: ["83844", "83843"]
 localPaths: ["Latah County / ZIP 83844 sector", "Latah County / elevation 2589 ft band", "Latah County / ZIP 83843 sector", "Latah County / primary ZIP 83843", "Latah County / coords 46.7300, -117.0000"]
-zillowHomeValueUsd: 468169
 ---
 
 **Engineering Notice for Moscow:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Latah County.

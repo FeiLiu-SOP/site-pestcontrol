@@ -11,7 +11,6 @@ lng: -122.9700
 zipSample: ["98531"]
 zipCodes: ["98531"]
 localPaths: ["Lewis County / coords 46.7200, -122.9700", "Lewis County / elevation 174 ft band", "Lewis County / ZIP 98531 sector", "Lewis County / primary ZIP 98531"]
-zillowHomeValueUsd: 396411
 ---
 
 **Engineering Notice for Centralia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lewis County.

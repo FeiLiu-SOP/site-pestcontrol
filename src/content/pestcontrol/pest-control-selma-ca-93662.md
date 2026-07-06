@@ -11,7 +11,6 @@ lng: -119.6100
 zipSample: ["93662"]
 zipCodes: ["93662"]
 localPaths: ["Fresno County / ZIP 93662 sector", "Fresno County / coords 36.5700, -119.6100", "Fresno County / elevation 331 ft band", "Fresno County / primary ZIP 93662"]
-zillowHomeValueUsd: 363994
 ---
 
 **Engineering Notice for Selma:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fresno County.

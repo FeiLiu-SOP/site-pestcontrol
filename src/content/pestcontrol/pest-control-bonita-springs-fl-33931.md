@@ -11,7 +11,6 @@ lng: -81.7900
 zipSample: ["34135", "33931", "34134"]
 zipCodes: ["33931", "34134", "34135"]
 localPaths: ["Lee County / elevation 36 ft band", "Lee County / ZIP 34134 sector", "Lee County / primary ZIP 33931", "Lee County / ZIP 34135 sector", "Lee County / coords 26.3600, -81.7900"]
-zillowHomeValueUsd: 495252
 ---
 
 **Engineering Notice for Bonita Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lee County.

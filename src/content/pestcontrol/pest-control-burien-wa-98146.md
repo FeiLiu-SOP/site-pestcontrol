@@ -11,7 +11,6 @@ lng: -122.3400
 zipSample: ["98146", "98148", "98168", "98062", "98166"]
 zipCodes: ["98148", "98146", "98166", "98168", "98062"]
 localPaths: ["King County / elevation 374 ft band", "King County / ZIP 98168 sector", "King County / coords 47.4800, -122.3400", "King County / primary ZIP 98146", "King County / ZIP 98166 sector"]
-zillowHomeValueUsd: 693805
 ---
 
 **Engineering Notice for Burien:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.

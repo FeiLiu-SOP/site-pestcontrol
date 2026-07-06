@@ -11,7 +11,6 @@ lng: -122.3400
 zipSample: ["98093", "98063", "98003", "98023"]
 zipCodes: ["98063", "98003", "98023", "98093"]
 localPaths: ["King County / ZIP 98023 sector", "King County / primary ZIP 98023", "King County / elevation 377 ft band", "King County / ZIP 98063 sector", "King County / ZIP 98003 sector"]
-zillowHomeValueUsd: 621989
 ---
 
 **Engineering Notice for Federal Way:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.

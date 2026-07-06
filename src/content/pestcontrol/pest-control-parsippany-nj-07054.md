@@ -11,7 +11,6 @@ lng: -74.4100
 zipSample: ["07005", "07054"]
 zipCodes: ["07054", "07005"]
 localPaths: ["Morris County / ZIP 07005 sector", "Morris County / elevation 302 ft band", "Morris County / coords 40.8600, -74.4100", "Morris County / primary ZIP 07054", "Morris County / ZIP 07054 sector"]
-zillowHomeValueUsd: 724325
 ---
 
 **Engineering Notice for Parsippany:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Morris County.

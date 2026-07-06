@@ -11,7 +11,6 @@ lng: -86.2200
 zipSample: ["37388"]
 zipCodes: ["37388"]
 localPaths: ["Coffee County / elevation 1060 ft band", "Coffee County / ZIP 37388 sector", "Coffee County / primary ZIP 37388", "Coffee County / coords 35.3700, -86.2200"]
-zillowHomeValueUsd: 295815
 ---
 
 **Engineering Notice for Tullahoma:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Coffee County.

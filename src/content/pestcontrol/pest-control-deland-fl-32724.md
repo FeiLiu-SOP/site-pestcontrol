@@ -11,7 +11,6 @@ lng: -81.2900
 zipSample: ["32723", "32721", "32720", "32724"]
 zipCodes: ["32720", "32723", "32721", "32724"]
 localPaths: ["Volusia County / ZIP 32721 sector", "Volusia County / primary ZIP 32724", "Volusia County / coords 29.0200, -81.2900", "Volusia County / elevation 105 ft band", "Volusia County / ZIP 32723 sector"]
-zillowHomeValueUsd: 339076
 ---
 
 **Engineering Notice for DeLand:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Volusia County.

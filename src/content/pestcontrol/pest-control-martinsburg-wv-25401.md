@@ -11,7 +11,6 @@ lng: -77.9800
 zipSample: ["25404", "25403", "25401", "25402"]
 zipCodes: ["25403", "25401", "25404", "25402"]
 localPaths: ["Berkeley County / coords 39.4600, -77.9800", "Berkeley County / primary ZIP 25401", "Berkeley County / ZIP 25401 sector", "Berkeley County / ZIP 25403 sector", "Berkeley County / ZIP 25404 sector"]
-zillowHomeValueUsd: 252581
 ---
 
 **Engineering Notice for Martinsburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Berkeley County.

@@ -11,7 +11,6 @@ lng: -84.5700
 zipSample: ["45011", "45013", "45015"]
 zipCodes: ["45013", "45015", "45011"]
 localPaths: ["Butler County / ZIP 45015 sector", "Butler County / primary ZIP 45011", "Butler County / ZIP 45011 sector", "Butler County / ZIP 45013 sector", "Butler County / elevation 594 ft band"]
-zillowHomeValueUsd: 367932
 ---
 
 **Engineering Notice for Hamilton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Butler County.

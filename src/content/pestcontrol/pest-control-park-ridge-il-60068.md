@@ -7,11 +7,10 @@ zipCode: "60068"
 county: "Cook County"
 elevationFt: 653
 lat: 42.0100
-lng: -87.8400
+lng: -87.8700
 zipSample: ["60068"]
 zipCodes: ["60068"]
-localPaths: ["Cook County / ZIP 60068 sector", "Cook County / primary ZIP 60068", "Cook County / elevation 653 ft band", "Cook County / coords 42.0100, -87.8400"]
-zillowHomeValueUsd: 566317
+localPaths: ["Cook County / ZIP 60068 sector", "Cook County / primary ZIP 60068", "Cook County / elevation 653 ft band", "Cook County / coords 42.0100, -87.8700"]
 ---
 
 **Engineering Notice for Park Ridge:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.
@@ -45,10 +44,10 @@ Attic fogging in Park Ridge, IL requires combustion appliance shutoff verificati
 
 Mud dauber nests in Park Ridge, IL porch ceilings are benign but signal prey density for spiders.
 
-Harbor ledger 177730: frass lane, mud-tube scan, and garage jamb gap measure filed for Park Ridge, IL at 42.0100, -87.8400.
+Harbor ledger 177730: frass lane, mud-tube scan, and garage jamb gap measure filed for Park Ridge, IL at 42.0100, -87.8700.
 
-Exclusion audit 177730: exclusion mesh gauge and rodent runway grease mark reviewed for Park Ridge, IL at 42.0100/-87.8400.
+Exclusion audit 177730: exclusion mesh gauge and rodent runway grease mark reviewed for Park Ridge, IL at 42.0100/-87.8700.
 
-**Regional Infrastructure Brief:** Terrain baseline indicates ~653 ft across the Cook County area. Coordinates: 42.0100, -87.8400. ZIP sample: 60068. Service perimeter note: Coverage extends through Cook County with dispatch centered near ZIP 60068.
+**Regional Infrastructure Brief:** Terrain baseline indicates ~653 ft across the Cook County area. Coordinates: 42.0100, -87.8700. ZIP sample: 60068. Service perimeter note: Coverage extends through Cook County with dispatch centered near ZIP 60068.
 
 Service reference: IL-60068-398f3cb0

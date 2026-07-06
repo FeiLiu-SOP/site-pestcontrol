@@ -11,7 +11,6 @@ lng: -96.6800
 zipSample: ["68509", "68520", "68544", "68503", "68583"]
 zipCodes: ["68588", "68520", "68521", "68526", "68544", "68524", "68506", "68504", "68508", "68528", "68529", "68502"]
 localPaths: ["Lancaster County / elevation 1224 ft band", "Lancaster County / ZIP 68544 sector", "Lancaster County / ZIP 68583 sector", "Lancaster County / ZIP 68509 sector", "Lancaster County / coords 40.8100, -96.6800"]
-zillowHomeValueUsd: 287528
 ---
 
 **Engineering Notice for Lincoln:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lancaster County.

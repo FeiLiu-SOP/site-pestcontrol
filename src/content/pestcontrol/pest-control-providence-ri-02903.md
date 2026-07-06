@@ -11,7 +11,6 @@ lng: -71.4200
 zipSample: ["02904", "02909", "02906", "02905", "02903"]
 zipCodes: ["02940", "02912", "02918", "02909", "02908", "02902", "02907", "02905", "02904", "02906", "02903", "02901"]
 localPaths: ["Providence County / ZIP 02903 sector", "Providence County / primary ZIP 02903", "Providence County / ZIP 02909 sector", "Providence County / ZIP 02904 sector", "Providence County / elevation 82 ft band"]
-zillowHomeValueUsd: 438254
 ---
 
 **Engineering Notice for Providence:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Providence County.

@@ -11,7 +11,6 @@ lng: -121.8300
 zipSample: ["95620"]
 zipCodes: ["95620"]
 localPaths: ["Solano County / coords 38.4500, -121.8300", "Solano County / ZIP 95620 sector", "Solano County / elevation 66 ft band", "Solano County / primary ZIP 95620"]
-zillowHomeValueUsd: 606798
 ---
 
 **Engineering Notice for Dixon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Solano County.

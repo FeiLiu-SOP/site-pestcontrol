@@ -11,7 +11,6 @@ lng: -76.1800
 zipSample: ["13045"]
 zipCodes: ["13045"]
 localPaths: ["Cortland County / coords 42.6000, -76.1800", "Cortland County / ZIP 13045 sector", "Cortland County / primary ZIP 13045", "Cortland County / elevation 1122 ft band"]
-zillowHomeValueUsd: 197161
 ---
 
 **Engineering Notice for Cortland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cortland County.

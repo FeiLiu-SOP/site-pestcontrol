@@ -11,7 +11,6 @@ lng: -75.1100
 zipSample: ["08028"]
 zipCodes: ["08028"]
 localPaths: ["Gloucester County / elevation 148 ft band", "Gloucester County / coords 39.7000, -75.1100", "Gloucester County / ZIP 08028 sector", "Gloucester County / primary ZIP 08028"]
-zillowHomeValueUsd: 366251
 ---
 
 **Engineering Notice for Glassboro:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gloucester County.

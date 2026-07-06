@@ -11,7 +11,6 @@ lng: -82.4400
 zipSample: ["48060", "48061"]
 zipCodes: ["48061", "48060"]
 localPaths: ["St. Clair County / ZIP 48060 sector", "St. Clair County / elevation 597 ft band", "St. Clair County / ZIP 48061 sector", "St. Clair County / coords 42.9800, -82.4400", "St. Clair County / primary ZIP 48060"]
-zillowHomeValueUsd: 170058
 ---
 
 **Engineering Notice for Port Huron:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Clair County.

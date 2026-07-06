@@ -11,7 +11,6 @@ lng: -118.3400
 zipSample: ["90307", "90305", "90304", "90301", "90303"]
 zipCodes: ["90309", "90312", "90301", "90308", "90303", "90307", "90304", "90306", "90305", "90311", "90302"]
 localPaths: ["Los Angeles County / ZIP 90301 sector", "Los Angeles County / ZIP 90304 sector", "Los Angeles County / primary ZIP 90305", "Los Angeles County / ZIP 90303 sector", "Los Angeles County / coords 33.9600, -118.3400"]
-zillowHomeValueUsd: 829116
 ---
 
 **Engineering Notice for Inglewood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

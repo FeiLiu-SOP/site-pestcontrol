@@ -11,7 +11,6 @@ lng: -83.2400
 zipSample: ["48326", "48321"]
 zipCodes: ["48326", "48321"]
 localPaths: ["Oakland County / elevation 965 ft band", "Oakland County / coords 42.6700, -83.2400", "Oakland County / ZIP 48321 sector", "Oakland County / primary ZIP 48326", "Oakland County / ZIP 48326 sector"]
-zillowHomeValueUsd: 280656
 ---
 
 **Engineering Notice for Auburn Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oakland County.

@@ -11,7 +11,6 @@ lng: -121.5600
 zipSample: ["95966", "95965", "95940"]
 zipCodes: ["95940", "95965", "95966"]
 localPaths: ["Butte County / ZIP 95940 sector", "Butte County / elevation 154 ft band", "Butte County / coords 39.5000, -121.5600", "Butte County / ZIP 95966 sector", "Butte County / ZIP 95965 sector"]
-zillowHomeValueUsd: 305123
 ---
 
 **Engineering Notice for Oroville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Butte County.

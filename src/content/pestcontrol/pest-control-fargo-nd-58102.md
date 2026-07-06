@@ -11,7 +11,6 @@ lng: -96.8300
 zipSample: ["58125", "58121", "58108", "58104", "58105"]
 zipCodes: ["58104", "58107", "58105", "58125", "58122", "58121", "58106", "58102", "58108", "58124", "58126", "58109"]
 localPaths: ["Cass County / primary ZIP 58102", "Cass County / coords 46.8700, -96.8300", "Cass County / ZIP 58108 sector", "Cass County / ZIP 58104 sector", "Cass County / elevation 902 ft band"]
-zillowHomeValueUsd: 267523
 ---
 
 **Engineering Notice for Fargo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cass County.

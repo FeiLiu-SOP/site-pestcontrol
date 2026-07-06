@@ -11,7 +11,6 @@ lng: -77.3500
 zipSample: ["22193"]
 zipCodes: ["22193"]
 localPaths: ["Prince William County / elevation 262 ft band", "Prince William County / primary ZIP 22193", "Prince William County / ZIP 22193 sector", "Prince William County / coords 38.6500, -77.3500"]
-zillowHomeValueUsd: 508670
 ---
 
 **Engineering Notice for Dale City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince William County.

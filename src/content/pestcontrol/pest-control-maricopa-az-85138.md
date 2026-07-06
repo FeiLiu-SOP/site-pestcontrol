@@ -11,7 +11,6 @@ lng: -112.0000
 zipSample: ["85138", "85139"]
 zipCodes: ["85138", "85139"]
 localPaths: ["Pinal County / coords 33.0400, -112.0000", "Pinal County / elevation 1181 ft band", "Pinal County / ZIP 85138 sector", "Pinal County / ZIP 85139 sector", "Pinal County / primary ZIP 85138"]
-zillowHomeValueUsd: 347806
 ---
 
 **Engineering Notice for Maricopa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pinal County.

@@ -11,7 +11,6 @@ lng: -122.0300
 zipSample: ["98053", "98077"]
 zipCodes: ["98053", "98077"]
 localPaths: ["King County / coords 47.6800, -122.0300", "King County / primary ZIP 98053", "King County / ZIP 98053 sector", "King County / ZIP 98077 sector", "King County / elevation 600 ft band"]
-zillowHomeValueUsd: 1470654
 ---
 
 **Engineering Notice for Union Hill-Novelty Hill:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.

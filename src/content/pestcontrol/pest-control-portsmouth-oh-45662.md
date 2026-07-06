@@ -11,7 +11,6 @@ lng: -82.9400
 zipSample: ["45662"]
 zipCodes: ["45662"]
 localPaths: ["Scioto County / coords 38.7500, -82.9400", "Scioto County / elevation 860 ft band", "Scioto County / primary ZIP 45662", "Scioto County / ZIP 45662 sector"]
-zillowHomeValueUsd: 99204
 ---
 
 **Engineering Notice for Portsmouth:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Scioto County.

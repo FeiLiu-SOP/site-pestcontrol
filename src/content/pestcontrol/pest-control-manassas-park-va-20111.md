@@ -11,7 +11,6 @@ lng: -77.4400
 zipSample: ["20111"]
 zipCodes: ["20111"]
 localPaths: ["Manassas Park County / primary ZIP 20111", "Manassas Park County / ZIP 20111 sector", "Manassas Park County / elevation 285 ft band", "Manassas Park County / coords 38.7700, -77.4400"]
-zillowHomeValueUsd: 520294
 ---
 
 **Engineering Notice for Manassas Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Manassas Park County.

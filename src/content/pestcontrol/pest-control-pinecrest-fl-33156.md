@@ -11,7 +11,6 @@ lng: -80.3000
 zipSample: ["33156"]
 zipCodes: ["33156"]
 localPaths: ["Miami-Dade County / primary ZIP 33156", "Miami-Dade County / coords 25.6600, -80.3000", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / ZIP 33156 sector"]
-zillowHomeValueUsd: 1509750
 ---
 
 **Engineering Notice for Pinecrest:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

@@ -7,11 +7,10 @@ zipCode: "49534"
 county: "Kent County"
 elevationFt: 755
 lat: 42.9900
-lng: -85.7400
+lng: -85.7100
 zipSample: ["49534", "49544"]
 zipCodes: ["49534", "49544"]
-localPaths: ["Kent County / ZIP 49534 sector", "Kent County / elevation 755 ft band", "Kent County / primary ZIP 49534", "Kent County / ZIP 49544 sector", "Kent County / coords 42.9900, -85.7400"]
-zillowHomeValueUsd: 378604
+localPaths: ["Kent County / ZIP 49534 sector", "Kent County / elevation 755 ft band", "Kent County / primary ZIP 49534", "Kent County / ZIP 49544 sector", "Kent County / coords 42.9900, -85.7100"]
 ---
 
 **Engineering Notice for Walker:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kent County.
@@ -45,6 +44,6 @@ Intercept log 427820: bed bug intercept count staged before Walker, MI interior 
 
 Seasonal cue 427820: cluster fly attic staging reviewed for Walker, MI soffit cavities.
 
-Coordinate-anchored dispatch note: center reference 42.9900, -85.7400 at elevation ~755 ft aligns with Kent County intake staging.
+Coordinate-anchored dispatch note: center reference 42.9900, -85.7100 at elevation ~755 ft aligns with Kent County intake staging.
 
 Service reference: MI-49534-677a2714

@@ -11,7 +11,6 @@ lng: -98.8200
 zipSample: ["78582"]
 zipCodes: ["78582"]
 localPaths: ["Starr County / coords 26.3800, -98.8200", "Starr County / elevation 187 ft band", "Starr County / ZIP 78582 sector", "Starr County / primary ZIP 78582"]
-zillowHomeValueUsd: 146532
 ---
 
 **Engineering Notice for Rio Grande City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Starr County.

@@ -11,7 +11,6 @@ lng: -112.0100
 zipSample: ["84005", "84013"]
 zipCodes: ["84013", "84005"]
 localPaths: ["Utah County / elevation 4885 ft band", "Utah County / primary ZIP 84013", "Utah County / ZIP 84013 sector", "Utah County / ZIP 84005 sector", "Utah County / coords 40.3100, -112.0100"]
-zillowHomeValueUsd: 538902
 ---
 
 **Engineering Notice for Eagle Mountain:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Utah County.

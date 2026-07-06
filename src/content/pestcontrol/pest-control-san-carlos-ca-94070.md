@@ -11,7 +11,6 @@ lng: -122.2700
 zipSample: ["94070"]
 zipCodes: ["94070"]
 localPaths: ["San Mateo County / primary ZIP 94070", "San Mateo County / ZIP 94070 sector", "San Mateo County / elevation 108 ft band", "San Mateo County / coords 37.5000, -122.2700"]
-zillowHomeValueUsd: 2457934
 ---
 
 **Engineering Notice for San Carlos:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Mateo County.

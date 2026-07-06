@@ -11,7 +11,6 @@ lng: -95.4300
 zipSample: ["77265", "77277", "77005"]
 zipCodes: ["77265", "77277", "77005"]
 localPaths: ["Harris County / ZIP 77277 sector", "Harris County / ZIP 77005 sector", "Harris County / primary ZIP 77005", "Harris County / elevation 72 ft band", "Harris County / coords 29.7200, -95.4300"]
-zillowHomeValueUsd: 1677619
 ---
 
 **Engineering Notice for West University Place:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harris County.

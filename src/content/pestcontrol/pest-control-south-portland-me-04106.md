@@ -11,7 +11,6 @@ lng: -70.2900
 zipSample: ["04106"]
 zipCodes: ["04106"]
 localPaths: ["Cumberland County / primary ZIP 04106", "Cumberland County / ZIP 04106 sector", "Cumberland County / elevation 33 ft band", "Cumberland County / coords 43.6300, -70.2900"]
-zillowHomeValueUsd: 518077
 ---
 
 **Engineering Notice for South Portland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cumberland County.

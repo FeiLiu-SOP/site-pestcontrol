@@ -11,7 +11,6 @@ lng: -82.6700
 zipSample: ["34677"]
 zipCodes: ["34677"]
 localPaths: ["Pinellas County / primary ZIP 34677", "Pinellas County / ZIP 34677 sector", "Pinellas County / coords 28.0500, -82.6700", "Pinellas County / elevation 39 ft band"]
-zillowHomeValueUsd: 365752
 ---
 
 **Engineering Notice for Oldsmar:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pinellas County.

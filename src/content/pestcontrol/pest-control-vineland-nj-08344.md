@@ -11,7 +11,6 @@ lng: -75.0000
 zipSample: ["08344", "08362", "08360", "08361"]
 zipCodes: ["08362", "08361", "08344", "08360"]
 localPaths: ["Cumberland County / elevation 102 ft band", "Cumberland County / ZIP 08361 sector", "Cumberland County / coords 39.4700, -75.0000", "Cumberland County / ZIP 08344 sector", "Cumberland County / ZIP 08360 sector"]
-zillowHomeValueUsd: 326759
 ---
 
 **Engineering Notice for Vineland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cumberland County.

@@ -11,7 +11,6 @@ lng: -117.5800
 zipSample: ["92880", "91752"]
 zipCodes: ["91752", "92880"]
 localPaths: ["Riverside County / primary ZIP 92880", "Riverside County / elevation 617 ft band", "Riverside County / ZIP 91752 sector", "Riverside County / ZIP 92880 sector", "Riverside County / coords 33.9600, -117.5800"]
-zillowHomeValueUsd: 954175
 ---
 
 **Engineering Notice for Eastvale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.

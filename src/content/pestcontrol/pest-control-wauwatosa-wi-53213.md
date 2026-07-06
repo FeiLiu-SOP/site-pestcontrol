@@ -11,7 +11,6 @@ lng: -88.0300
 zipSample: ["53226", "53222", "53213", "53225"]
 zipCodes: ["53222", "53213", "53226", "53225"]
 localPaths: ["Milwaukee County / ZIP 53226 sector", "Milwaukee County / ZIP 53222 sector", "Milwaukee County / ZIP 53225 sector", "Milwaukee County / primary ZIP 53213", "Milwaukee County / coords 43.0600, -88.0300"]
-zillowHomeValueUsd: 424432
 ---
 
 **Engineering Notice for Wauwatosa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Milwaukee County.

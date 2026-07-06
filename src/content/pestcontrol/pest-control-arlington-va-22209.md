@@ -11,7 +11,6 @@ lng: -77.1000
 zipSample: ["22204", "22202", "22205", "22240", "22214"]
 zipCodes: ["22204", "22350", "22206", "22244", "22240", "22226", "22243", "22246", "22205", "22201", "22215", "22202"]
 localPaths: ["Arlington County / ZIP 22240 sector", "Arlington County / ZIP 22202 sector", "Arlington County / elevation 282 ft band", "Arlington County / coords 38.8800, -77.1000", "Arlington County / primary ZIP 22209"]
-zillowHomeValueUsd: 726644
 ---
 
 **Engineering Notice for Arlington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Arlington County.

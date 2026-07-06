@@ -11,7 +11,6 @@ lng: -79.2700
 zipSample: ["27302"]
 zipCodes: ["27302"]
 localPaths: ["Alamance County / elevation 705 ft band", "Alamance County / coords 36.0900, -79.2700", "Alamance County / ZIP 27302 sector", "Alamance County / primary ZIP 27302"]
-zillowHomeValueUsd: 353191
 ---
 
 **Engineering Notice for Mebane:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alamance County.

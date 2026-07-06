@@ -11,7 +11,6 @@ lng: -94.5600
 zipSample: ["64118", "64119"]
 zipCodes: ["64118", "64119"]
 localPaths: ["Clay County / elevation 1027 ft band", "Clay County / coords 39.2100, -94.5600", "Clay County / ZIP 64118 sector", "Clay County / ZIP 64119 sector", "Clay County / primary ZIP 64118"]
-zillowHomeValueUsd: 267027
 ---
 
 **Engineering Notice for Gladstone:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clay County.

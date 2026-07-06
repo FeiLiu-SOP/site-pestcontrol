@@ -11,7 +11,6 @@ lng: -117.0400
 zipSample: ["92399"]
 zipCodes: ["92399"]
 localPaths: ["San Bernardino County / elevation 2628 ft band", "San Bernardino County / coords 34.0300, -117.0400", "San Bernardino County / primary ZIP 92399", "San Bernardino County / ZIP 92399 sector"]
-zillowHomeValueUsd: 569994
 ---
 
 **Engineering Notice for Yucaipa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.

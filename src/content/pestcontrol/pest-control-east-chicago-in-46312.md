@@ -11,7 +11,6 @@ lng: -87.4500
 zipSample: ["46312"]
 zipCodes: ["46312"]
 localPaths: ["Lake County / elevation 594 ft band", "Lake County / primary ZIP 46312", "Lake County / ZIP 46312 sector", "Lake County / coords 41.6500, -87.4500"]
-zillowHomeValueUsd: 128151
 ---
 
 **Engineering Notice for East Chicago:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

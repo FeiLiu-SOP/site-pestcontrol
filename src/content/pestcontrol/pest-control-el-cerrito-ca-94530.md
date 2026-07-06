@@ -11,7 +11,6 @@ lng: -122.3000
 zipSample: ["94530"]
 zipCodes: ["94530"]
 localPaths: ["Contra Costa County / ZIP 94530 sector", "Contra Costa County / primary ZIP 94530", "Contra Costa County / coords 37.9200, -122.3000", "Contra Costa County / elevation 194 ft band"]
-zillowHomeValueUsd: 1139671
 ---
 
 **Engineering Notice for El Cerrito:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.

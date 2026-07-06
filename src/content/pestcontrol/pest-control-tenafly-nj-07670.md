@@ -11,7 +11,6 @@ lng: -73.9500
 zipSample: ["07670"]
 zipCodes: ["07670"]
 localPaths: ["Bergen County / ZIP 07670 sector", "Bergen County / coords 40.9200, -73.9500", "Bergen County / elevation 240 ft band", "Bergen County / primary ZIP 07670"]
-zillowHomeValueUsd: 1260438
 ---
 
 **Engineering Notice for Tenafly:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bergen County.

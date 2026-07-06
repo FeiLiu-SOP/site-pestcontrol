@@ -11,7 +11,6 @@ lng: -111.3000
 zipSample: ["59406", "59401", "59405", "59404"]
 zipCodes: ["59404", "59401", "59405", "59406"]
 localPaths: ["Cascade County / elevation 3327 ft band", "Cascade County / ZIP 59405 sector", "Cascade County / ZIP 59401 sector", "Cascade County / ZIP 59404 sector", "Cascade County / ZIP 59406 sector"]
-zillowHomeValueUsd: 386901
 ---
 
 **Engineering Notice for Great Falls:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cascade County.

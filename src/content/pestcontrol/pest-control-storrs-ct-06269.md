@@ -11,8 +11,6 @@ lng: -72.2500
 zipSample: ["06269", "06268"]
 zipCodes: ["06269", "06268"]
 localPaths: ["Capitol County / ZIP 06268 sector", "Capitol County / coords 41.8100, -72.2500", "Capitol County / elevation 643 ft band", "Capitol County / ZIP 06269 sector", "Capitol County / primary ZIP 06269"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 538030
 ---
 
 **Engineering Notice for Storrs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Capitol County.

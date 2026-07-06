@@ -11,7 +11,6 @@ lng: -81.6300
 zipSample: ["25375", "25330", "25323", "25317", "25305"]
 zipCodes: ["25364", "25335", "25324", "25350", "25317", "25303", "25314", "25333", "25332", "25339", "25387", "25337"]
 localPaths: ["Kanawha County / coords 38.3500, -81.6300", "Kanawha County / primary ZIP 25387", "Kanawha County / ZIP 25305 sector", "Kanawha County / ZIP 25375 sector", "Kanawha County / ZIP 25323 sector"]
-zillowHomeValueUsd: 57426
 ---
 
 **Engineering Notice for Charleston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kanawha County.

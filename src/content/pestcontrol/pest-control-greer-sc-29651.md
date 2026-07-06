@@ -11,7 +11,6 @@ lng: -82.2300
 zipSample: ["29652", "29650", "29651"]
 zipCodes: ["29651", "29652", "29650"]
 localPaths: ["Greenville County / coords 34.9300, -82.2300", "Greenville County / ZIP 29650 sector", "Greenville County / primary ZIP 29651", "Greenville County / ZIP 29651 sector", "Greenville County / elevation 978 ft band"]
-zillowHomeValueUsd: 335367
 ---
 
 **Engineering Notice for Greer:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Greenville County.

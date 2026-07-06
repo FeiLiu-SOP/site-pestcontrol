@@ -11,7 +11,6 @@ lng: -105.0000
 zipSample: ["80221", "80263"]
 zipCodes: ["80263", "80221"]
 localPaths: ["Adams County / ZIP 80221 sector", "Adams County / coords 39.8400, -105.0000", "Adams County / primary ZIP 80221", "Adams County / ZIP 80263 sector", "Adams County / elevation 5302 ft band"]
-zillowHomeValueUsd: 456447
 ---
 
 **Engineering Notice for Sherrelwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Adams County.

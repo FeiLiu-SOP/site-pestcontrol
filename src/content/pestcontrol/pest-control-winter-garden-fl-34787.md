@@ -11,7 +11,6 @@ lng: -81.6000
 zipSample: ["34787"]
 zipCodes: ["34787"]
 localPaths: ["Orange County / primary ZIP 34787", "Orange County / coords 28.5400, -81.6000", "Orange County / ZIP 34787 sector", "Orange County / elevation 135 ft band"]
-zillowHomeValueUsd: 571209
 ---
 
 **Engineering Notice for Winter Garden:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

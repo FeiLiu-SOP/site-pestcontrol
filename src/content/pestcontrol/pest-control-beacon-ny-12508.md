@@ -11,7 +11,6 @@ lng: -73.9700
 zipSample: ["12508"]
 zipCodes: ["12508"]
 localPaths: ["Dutchess County / primary ZIP 12508", "Dutchess County / coords 41.5000, -73.9700", "Dutchess County / ZIP 12508 sector", "Dutchess County / elevation 171 ft band"]
-zillowHomeValueUsd: 533852
 ---
 
 **Engineering Notice for Beacon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dutchess County.

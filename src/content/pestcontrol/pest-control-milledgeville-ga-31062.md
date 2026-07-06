@@ -11,7 +11,6 @@ lng: -83.2400
 zipSample: ["31034", "31061", "31062"]
 zipCodes: ["31034", "31062", "31061"]
 localPaths: ["Baldwin County / ZIP 31061 sector", "Baldwin County / ZIP 31062 sector", "Baldwin County / ZIP 31034 sector", "Baldwin County / coords 33.0900, -83.2400", "Baldwin County / elevation 364 ft band"]
-zillowHomeValueUsd: 243534
 ---
 
 **Engineering Notice for Milledgeville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baldwin County.

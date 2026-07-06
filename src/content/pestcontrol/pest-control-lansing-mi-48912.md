@@ -11,7 +11,6 @@ lng: -84.5600
 zipSample: ["48919", "48916", "48901", "48911", "48951"]
 zipCodes: ["48909", "48911", "48916", "48915", "48922", "48956", "48933", "48912", "48937", "48906", "48910", "48919"]
 localPaths: ["Ingham County / ZIP 48916 sector", "Ingham County / ZIP 48911 sector", "Ingham County / coords 42.7100, -84.5600", "Ingham County / elevation 863 ft band", "Ingham County / ZIP 48951 sector"]
-zillowHomeValueUsd: 136534
 ---
 
 **Engineering Notice for Lansing:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ingham County.

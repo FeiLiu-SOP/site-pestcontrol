@@ -11,7 +11,6 @@ lng: -104.9800
 zipSample: ["80234", "80260", "80603", "80233"]
 zipCodes: ["80234", "80603", "80260", "80233"]
 localPaths: ["Adams County / primary ZIP 80260", "Adams County / ZIP 80233 sector", "Adams County / ZIP 80603 sector", "Adams County / ZIP 80234 sector", "Adams County / coords 39.9100, -104.9800"]
-zillowHomeValueUsd: 403821
 ---
 
 **Engineering Notice for Northglenn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Adams County.

@@ -11,7 +11,6 @@ lng: -80.1600
 zipSample: ["33312", "33004"]
 zipCodes: ["33004", "33312"]
 localPaths: ["Broward County / elevation 23 ft band", "Broward County / primary ZIP 33004", "Broward County / ZIP 33312 sector", "Broward County / ZIP 33004 sector", "Broward County / coords 26.0600, -80.1600"]
-zillowHomeValueUsd: 325917
 ---
 
 **Engineering Notice for Dania Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.

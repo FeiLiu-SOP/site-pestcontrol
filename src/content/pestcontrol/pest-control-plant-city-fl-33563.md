@@ -11,7 +11,6 @@ lng: -82.1200
 zipSample: ["33566", "33565", "33564", "33563"]
 zipCodes: ["33566", "33563", "33565", "33564"]
 localPaths: ["Hillsborough County / ZIP 33566 sector", "Hillsborough County / primary ZIP 33563", "Hillsborough County / ZIP 33563 sector", "Hillsborough County / coords 28.0100, -82.1200", "Hillsborough County / ZIP 33565 sector"]
-zillowHomeValueUsd: 281106
 ---
 
 **Engineering Notice for Plant City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.

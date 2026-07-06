@@ -11,7 +11,6 @@ lng: -111.8600
 zipSample: ["84020"]
 zipCodes: ["84020"]
 localPaths: ["Salt Lake County / elevation 4757 ft band", "Salt Lake County / primary ZIP 84020", "Salt Lake County / coords 40.5000, -111.8600", "Salt Lake County / ZIP 84020 sector"]
-zillowHomeValueUsd: 806277
 ---
 
 **Engineering Notice for Draper:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Salt Lake County.

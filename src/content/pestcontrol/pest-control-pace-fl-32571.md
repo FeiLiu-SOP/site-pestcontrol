@@ -11,7 +11,6 @@ lng: -87.1700
 zipSample: ["32571"]
 zipCodes: ["32571"]
 localPaths: ["Santa Rosa County / coords 30.6200, -87.1700", "Santa Rosa County / ZIP 32571 sector", "Santa Rosa County / primary ZIP 32571", "Santa Rosa County / elevation 115 ft band"]
-zillowHomeValueUsd: 325346
 ---
 
 **Engineering Notice for Pace:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Rosa County.

@@ -11,7 +11,6 @@ lng: -111.9100
 zipSample: ["84025"]
 zipCodes: ["84025"]
 localPaths: ["Davis County / elevation 4249 ft band", "Davis County / primary ZIP 84025", "Davis County / coords 40.9800, -111.9100", "Davis County / ZIP 84025 sector"]
-zillowHomeValueUsd: 692181
 ---
 
 **Engineering Notice for Farmington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Davis County.

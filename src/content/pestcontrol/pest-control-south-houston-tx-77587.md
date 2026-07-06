@@ -11,7 +11,6 @@ lng: -95.2300
 zipSample: ["77587"]
 zipCodes: ["77587"]
 localPaths: ["Harris County / elevation 43 ft band", "Harris County / coords 29.6600, -95.2300", "Harris County / primary ZIP 77587", "Harris County / ZIP 77587 sector"]
-zillowHomeValueUsd: 192419
 ---
 
 **Engineering Notice for South Houston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harris County.

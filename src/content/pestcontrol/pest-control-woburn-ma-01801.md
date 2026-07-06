@@ -11,7 +11,6 @@ lng: -71.1500
 zipSample: ["01815", "01801", "01888"]
 zipCodes: ["01801", "01815", "01888"]
 localPaths: ["Middlesex County / primary ZIP 01801", "Middlesex County / ZIP 01888 sector", "Middlesex County / ZIP 01815 sector", "Middlesex County / coords 42.4900, -71.1500", "Middlesex County / ZIP 01801 sector"]
-zillowHomeValueUsd: 758843
 ---
 
 **Engineering Notice for Woburn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.

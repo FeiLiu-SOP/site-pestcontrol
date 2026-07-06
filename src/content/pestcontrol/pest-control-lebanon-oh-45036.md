@@ -11,7 +11,6 @@ lng: -84.2100
 zipSample: ["45036"]
 zipCodes: ["45036"]
 localPaths: ["Warren County / coords 39.4300, -84.2100", "Warren County / elevation 764 ft band", "Warren County / primary ZIP 45036", "Warren County / ZIP 45036 sector"]
-zillowHomeValueUsd: 405121
 ---
 
 **Engineering Notice for Lebanon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Warren County.

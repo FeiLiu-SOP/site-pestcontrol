@@ -11,7 +11,6 @@ lng: -76.5500
 zipSample: ["21226", "21412", "21060", "21122"]
 zipCodes: ["21060", "21122", "21226", "21412"]
 localPaths: ["Anne Arundel County / coords 39.1600, -76.5500", "Anne Arundel County / ZIP 21412 sector", "Anne Arundel County / ZIP 21226 sector", "Anne Arundel County / primary ZIP 21122", "Anne Arundel County / ZIP 21060 sector"]
-zillowHomeValueUsd: 454585
 ---
 
 **Engineering Notice for Pasadena:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anne Arundel County.

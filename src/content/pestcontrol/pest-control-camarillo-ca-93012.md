@@ -11,7 +11,6 @@ lng: -119.0300
 zipSample: ["93012", "93010", "93011"]
 zipCodes: ["93012", "93010", "93011"]
 localPaths: ["Ventura County / primary ZIP 93012", "Ventura County / coords 34.2200, -119.0300", "Ventura County / ZIP 93011 sector", "Ventura County / ZIP 93010 sector", "Ventura County / elevation 164 ft band"]
-zillowHomeValueUsd: 925639
 ---
 
 **Engineering Notice for Camarillo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ventura County.

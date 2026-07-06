@@ -11,7 +11,6 @@ lng: -92.4700
 zipSample: ["71309", "71348", "71301", "71307", "71315"]
 zipCodes: ["71348", "71307", "71301", "71315", "71302", "71303", "71309"]
 localPaths: ["Rapides Parish / elevation 98 ft band", "Rapides Parish / primary ZIP 71302", "Rapides Parish / ZIP 71315 sector", "Rapides Parish / ZIP 71301 sector", "Rapides Parish / ZIP 71309 sector"]
-zillowHomeValueUsd: 89912
 ---
 
 **Engineering Notice for Alexandria:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rapides Parish.

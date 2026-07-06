@@ -11,7 +11,6 @@ lng: -76.4900
 zipSample: ["21222", "21224"]
 zipCodes: ["21224", "21222"]
 localPaths: ["Baltimore County / ZIP 21224 sector", "Baltimore County / ZIP 21222 sector", "Baltimore County / elevation 30 ft band", "Baltimore County / coords 39.2700, -76.4900", "Baltimore County / primary ZIP 21222"]
-zillowHomeValueUsd: 226630
 ---
 
 **Engineering Notice for Dundalk:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.

@@ -11,7 +11,6 @@ lng: -97.1500
 zipSample: ["57201"]
 zipCodes: ["57201"]
 localPaths: ["Codington County / coords 44.9100, -97.1500", "Codington County / primary ZIP 57201", "Codington County / ZIP 57201 sector", "Codington County / elevation 1726 ft band"]
-zillowHomeValueUsd: 319571
 ---
 
 **Engineering Notice for Watertown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Codington County.

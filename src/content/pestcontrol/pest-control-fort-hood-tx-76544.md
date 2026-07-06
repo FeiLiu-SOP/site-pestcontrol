@@ -11,8 +11,6 @@ lng: -97.7800
 zipSample: ["76544"]
 zipCodes: ["76544"]
 localPaths: ["Coryell County / primary ZIP 76544", "Coryell County / coords 31.1400, -97.7800", "Coryell County / ZIP 76544 sector", "Coryell County / elevation 925 ft band"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 311472
 ---
 
 **Engineering Notice for Fort Hood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Coryell County.

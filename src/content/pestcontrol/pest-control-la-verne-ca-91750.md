@@ -11,7 +11,6 @@ lng: -117.7700
 zipSample: ["91750"]
 zipCodes: ["91750"]
 localPaths: ["Los Angeles County / ZIP 91750 sector", "Los Angeles County / primary ZIP 91750", "Los Angeles County / elevation 1165 ft band", "Los Angeles County / coords 34.1200, -117.7700"]
-zillowHomeValueUsd: 952461
 ---
 
 **Engineering Notice for La Verne:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

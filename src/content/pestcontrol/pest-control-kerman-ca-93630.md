@@ -11,7 +11,6 @@ lng: -120.0600
 zipSample: ["93630"]
 zipCodes: ["93630"]
 localPaths: ["Fresno County / ZIP 93630 sector", "Fresno County / primary ZIP 93630", "Fresno County / elevation 236 ft band", "Fresno County / coords 36.7200, -120.0600"]
-zillowHomeValueUsd: 414669
 ---
 
 **Engineering Notice for Kerman:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fresno County.

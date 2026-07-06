@@ -11,7 +11,6 @@ lng: -93.2300
 zipSample: ["65302", "65301"]
 zipCodes: ["65301", "65302"]
 localPaths: ["Pettis County / ZIP 65301 sector", "Pettis County / ZIP 65302 sector", "Pettis County / primary ZIP 65301", "Pettis County / coords 38.7100, -93.2300", "Pettis County / elevation 912 ft band"]
-zillowHomeValueUsd: 182082
 ---
 
 **Engineering Notice for Sedalia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pettis County.

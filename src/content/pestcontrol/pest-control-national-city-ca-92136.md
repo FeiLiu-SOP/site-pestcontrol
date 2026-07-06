@@ -11,7 +11,6 @@ lng: -117.1000
 zipSample: ["91951", "91950", "92136"]
 zipCodes: ["91951", "91950", "92136"]
 localPaths: ["San Diego County / coords 32.6700, -117.1000", "San Diego County / ZIP 91951 sector", "San Diego County / ZIP 91950 sector", "San Diego County / primary ZIP 92136", "San Diego County / ZIP 92136 sector"]
-zillowHomeValueUsd: 690265
 ---
 
 **Engineering Notice for National City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.

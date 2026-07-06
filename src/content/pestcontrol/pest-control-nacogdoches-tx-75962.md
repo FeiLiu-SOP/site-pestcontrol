@@ -11,7 +11,6 @@ lng: -94.6500
 zipSample: ["75962", "75961", "75964", "75963", "75965"]
 zipCodes: ["75962", "75963", "75964", "75965", "75961"]
 localPaths: ["Nacogdoches County / elevation 338 ft band", "Nacogdoches County / ZIP 75963 sector", "Nacogdoches County / coords 31.6100, -94.6500", "Nacogdoches County / ZIP 75962 sector", "Nacogdoches County / ZIP 75965 sector"]
-zillowHomeValueUsd: 187091
 ---
 
 **Engineering Notice for Nacogdoches:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nacogdoches County.

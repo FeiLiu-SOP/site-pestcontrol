@@ -11,7 +11,6 @@ lng: -119.9800
 zipSample: ["96157", "96154", "96151", "96152", "96158"]
 zipCodes: ["96152", "96158", "96151", "96157", "96150", "96154"]
 localPaths: ["El Dorado County / ZIP 96152 sector", "El Dorado County / primary ZIP 96150", "El Dorado County / elevation 6289 ft band", "El Dorado County / ZIP 96157 sector", "El Dorado County / ZIP 96154 sector"]
-zillowHomeValueUsd: 663212
 ---
 
 **Engineering Notice for South Lake Tahoe:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: El Dorado County.

@@ -11,7 +11,6 @@ lng: -118.0600
 zipSample: ["90671", "90670"]
 zipCodes: ["90670", "90671"]
 localPaths: ["Los Angeles County / elevation 154 ft band", "Los Angeles County / ZIP 90670 sector", "Los Angeles County / coords 33.9300, -118.0600", "Los Angeles County / primary ZIP 90670", "Los Angeles County / ZIP 90671 sector"]
-zillowHomeValueUsd: 783121
 ---
 
 **Engineering Notice for Santa Fe Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

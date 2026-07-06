@@ -11,7 +11,6 @@ lng: -89.6500
 zipSample: ["62726", "62776", "62777", "62765", "62767"]
 zipCodes: ["62705", "62757", "62769", "62786", "62776", "62762", "62716", "62796", "62711", "62777", "62722", "62739"]
 localPaths: ["Sangamon County / ZIP 62726 sector", "Sangamon County / elevation 597 ft band", "Sangamon County / primary ZIP 62711", "Sangamon County / ZIP 62765 sector", "Sangamon County / ZIP 62776 sector"]
-zillowHomeValueUsd: 357435
 ---
 
 **Engineering Notice for Springfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sangamon County.

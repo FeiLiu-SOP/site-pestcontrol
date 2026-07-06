@@ -11,7 +11,6 @@ lng: -92.9800
 zipSample: ["55912"]
 zipCodes: ["55912"]
 localPaths: ["Mower County / coords 43.6700, -92.9800", "Mower County / elevation 1214 ft band", "Mower County / primary ZIP 55912", "Mower County / ZIP 55912 sector"]
-zillowHomeValueUsd: 186939
 ---
 
 **Engineering Notice for Austin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Mower County.

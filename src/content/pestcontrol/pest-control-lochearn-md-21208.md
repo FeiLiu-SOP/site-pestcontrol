@@ -11,7 +11,6 @@ lng: -76.7300
 zipSample: ["21207", "21208"]
 zipCodes: ["21207", "21208"]
 localPaths: ["Baltimore County / elevation 390 ft band", "Baltimore County / coords 39.3500, -76.7300", "Baltimore County / ZIP 21207 sector", "Baltimore County / ZIP 21208 sector", "Baltimore County / primary ZIP 21208"]
-zillowHomeValueUsd: 374177
 ---
 
 **Engineering Notice for Lochearn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.

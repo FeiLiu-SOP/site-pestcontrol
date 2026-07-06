@@ -11,7 +11,6 @@ lng: -110.9700
 zipSample: ["85614", "85629"]
 zipCodes: ["85614", "85629"]
 localPaths: ["Pima County / elevation 2749 ft band", "Pima County / coords 31.9300, -110.9700", "Pima County / ZIP 85614 sector", "Pima County / ZIP 85629 sector", "Pima County / primary ZIP 85629"]
-zillowHomeValueUsd: 338538
 ---
 
 **Engineering Notice for Sahuarita:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pima County.

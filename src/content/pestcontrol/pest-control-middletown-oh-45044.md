@@ -11,7 +11,6 @@ lng: -84.3700
 zipSample: ["45005", "45044", "45042"]
 zipCodes: ["45005", "45042", "45044"]
 localPaths: ["Butler County / ZIP 45042 sector", "Butler County / primary ZIP 45044", "Butler County / elevation 758 ft band", "Butler County / ZIP 45005 sector", "Butler County / coords 39.5000, -84.3700"]
-zillowHomeValueUsd: 259750
 ---
 
 **Engineering Notice for Middletown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Butler County.

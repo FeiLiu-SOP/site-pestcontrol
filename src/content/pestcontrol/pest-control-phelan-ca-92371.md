@@ -11,7 +11,6 @@ lng: -117.5200
 zipSample: ["92371"]
 zipCodes: ["92371"]
 localPaths: ["San Bernardino County / coords 34.4400, -117.5200", "San Bernardino County / primary ZIP 92371", "San Bernardino County / ZIP 92371 sector", "San Bernardino County / elevation 3812 ft band"]
-zillowHomeValueUsd: 465015
 ---
 
 **Engineering Notice for Phelan:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.

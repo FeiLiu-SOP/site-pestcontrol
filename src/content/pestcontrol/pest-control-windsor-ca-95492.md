@@ -11,7 +11,6 @@ lng: -122.8100
 zipSample: ["95492"]
 zipCodes: ["95492"]
 localPaths: ["Sonoma County / elevation 98 ft band", "Sonoma County / primary ZIP 95492", "Sonoma County / ZIP 95492 sector", "Sonoma County / coords 38.5400, -122.8100"]
-zillowHomeValueUsd: 806225
 ---
 
 **Engineering Notice for Windsor:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sonoma County.

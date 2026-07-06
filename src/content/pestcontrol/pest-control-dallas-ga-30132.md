@@ -11,7 +11,6 @@ lng: -84.8400
 zipSample: ["30132", "30157"]
 zipCodes: ["30132", "30157"]
 localPaths: ["Paulding County / ZIP 30132 sector", "Paulding County / ZIP 30157 sector", "Paulding County / elevation 978 ft band", "Paulding County / coords 33.9200, -84.8400", "Paulding County / primary ZIP 30132"]
-zillowHomeValueUsd: 376508
 ---
 
 **Engineering Notice for Dallas:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Paulding County.

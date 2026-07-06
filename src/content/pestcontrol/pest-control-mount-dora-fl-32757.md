@@ -11,7 +11,6 @@ lng: -81.6300
 zipSample: ["32757", "32756"]
 zipCodes: ["32756", "32757"]
 localPaths: ["Lake County / elevation 194 ft band", "Lake County / ZIP 32756 sector", "Lake County / coords 28.8100, -81.6300", "Lake County / primary ZIP 32757", "Lake County / ZIP 32757 sector"]
-zillowHomeValueUsd: 392686
 ---
 
 **Engineering Notice for Mount Dora:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

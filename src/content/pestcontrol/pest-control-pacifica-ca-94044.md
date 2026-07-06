@@ -7,11 +7,10 @@ zipCode: "94044"
 county: "San Mateo County"
 elevationFt: 210
 lat: 37.6100
-lng: -122.4800
+lng: -122.4500
 zipSample: ["94044"]
 zipCodes: ["94044"]
-localPaths: ["San Mateo County / elevation 210 ft band", "San Mateo County / primary ZIP 94044", "San Mateo County / coords 37.6100, -122.4800", "San Mateo County / ZIP 94044 sector"]
-zillowHomeValueUsd: 1284845
+localPaths: ["San Mateo County / elevation 210 ft band", "San Mateo County / primary ZIP 94044", "San Mateo County / coords 37.6100, -122.4500", "San Mateo County / ZIP 94044 sector"]
 ---
 
 **Engineering Notice for Pacifica:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Mateo County.

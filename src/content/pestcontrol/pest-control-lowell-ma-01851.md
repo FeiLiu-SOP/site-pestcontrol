@@ -11,7 +11,6 @@ lng: -71.3200
 zipSample: ["01853", "01850", "01854", "01852", "01851"]
 zipCodes: ["01850", "01852", "01851", "01853", "01854"]
 localPaths: ["Middlesex County / ZIP 01852 sector", "Middlesex County / ZIP 01851 sector", "Middlesex County / ZIP 01853 sector", "Middlesex County / ZIP 01854 sector", "Middlesex County / elevation 112 ft band"]
-zillowHomeValueUsd: 518143
 ---
 
 **Engineering Notice for Lowell:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.

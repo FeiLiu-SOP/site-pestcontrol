@@ -11,7 +11,6 @@ lng: -91.6800
 zipSample: ["52410", "52401", "52498", "52403", "52402"]
 zipCodes: ["52411", "52497", "52408", "52498", "52409", "52410", "52403", "52404", "52499", "52405", "52406", "52407"]
 localPaths: ["Linn County / primary ZIP 52404", "Linn County / ZIP 52401 sector", "Linn County / ZIP 52410 sector", "Linn County / ZIP 52403 sector", "Linn County / ZIP 52402 sector"]
-zillowHomeValueUsd: 192722
 ---
 
 **Engineering Notice for Cedar Rapids:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Linn County.

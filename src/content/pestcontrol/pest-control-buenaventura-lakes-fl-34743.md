@@ -11,7 +11,6 @@ lng: -81.3500
 zipSample: ["34743"]
 zipCodes: ["34743"]
 localPaths: ["Osceola County / elevation 89 ft band", "Osceola County / coords 28.3300, -81.3500", "Osceola County / ZIP 34743 sector", "Osceola County / primary ZIP 34743"]
-zillowHomeValueUsd: 339183
 ---
 
 **Engineering Notice for Buenaventura Lakes:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Osceola County.

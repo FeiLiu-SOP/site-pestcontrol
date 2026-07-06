@@ -11,7 +11,6 @@ lng: -103.1900
 zipSample: ["88102", "88101"]
 zipCodes: ["88101", "88102"]
 localPaths: ["Curry County / ZIP 88102 sector", "Curry County / ZIP 88101 sector", "Curry County / primary ZIP 88101", "Curry County / elevation 4311 ft band", "Curry County / coords 34.4400, -103.1900"]
-zillowHomeValueUsd: 161590
 ---
 
 **Engineering Notice for Clovis:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Curry County.

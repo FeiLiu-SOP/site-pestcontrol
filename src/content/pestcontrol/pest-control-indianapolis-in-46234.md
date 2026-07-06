@@ -11,7 +11,6 @@ lng: -86.1500
 zipSample: ["46202", "46241", "46285", "46208", "46245"]
 zipCodes: ["46239", "46218", "46113", "46225", "46235", "46220", "46241", "46240", "46298", "46288", "46245", "46282"]
 localPaths: ["Marion County / ZIP 46202 sector", "Marion County / primary ZIP 46234", "Marion County / coords 39.7800, -86.1500", "Marion County / ZIP 46245 sector", "Marion County / ZIP 46285 sector"]
-zillowHomeValueUsd: 279508
 ---
 
 **Engineering Notice for Indianapolis:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marion County.

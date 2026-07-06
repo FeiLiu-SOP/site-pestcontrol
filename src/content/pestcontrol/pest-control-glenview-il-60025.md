@@ -7,11 +7,10 @@ zipCode: "60025"
 county: "Cook County"
 elevationFt: 640
 lat: 42.0800
-lng: -87.8200
+lng: -87.8500
 zipSample: ["60026", "60025"]
 zipCodes: ["60026", "60025"]
-localPaths: ["Cook County / coords 42.0800, -87.8200", "Cook County / ZIP 60025 sector", "Cook County / primary ZIP 60025", "Cook County / elevation 640 ft band", "Cook County / ZIP 60026 sector"]
-zillowHomeValueUsd: 603580
+localPaths: ["Cook County / coords 42.0800, -87.8500", "Cook County / ZIP 60025 sector", "Cook County / primary ZIP 60025", "Cook County / elevation 640 ft band", "Cook County / ZIP 60026 sector"]
 ---
 
 **Engineering Notice for Glenview:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

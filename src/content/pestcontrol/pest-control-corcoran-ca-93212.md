@@ -11,7 +11,6 @@ lng: -119.5600
 zipSample: ["93212"]
 zipCodes: ["93212"]
 localPaths: ["Kings County / coords 36.0800, -119.5600", "Kings County / ZIP 93212 sector", "Kings County / primary ZIP 93212", "Kings County / elevation 203 ft band"]
-zillowHomeValueUsd: 268898
 ---
 
 **Engineering Notice for Corcoran:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kings County.

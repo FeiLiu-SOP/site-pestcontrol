@@ -11,7 +11,6 @@ lng: -73.9900
 zipSample: ["10956"]
 zipCodes: ["10956"]
 localPaths: ["Rockland County / primary ZIP 10956", "Rockland County / coords 41.1500, -73.9900", "Rockland County / elevation 200 ft band", "Rockland County / ZIP 10956 sector"]
-zillowHomeValueUsd: 791525
 ---
 
 **Engineering Notice for New City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rockland County.

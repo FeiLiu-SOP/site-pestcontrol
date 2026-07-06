@@ -11,7 +11,6 @@ lng: -94.0000
 zipSample: ["71854"]
 zipCodes: ["71854"]
 localPaths: ["Miller County / ZIP 71854 sector", "Miller County / coords 33.4400, -94.0000", "Miller County / primary ZIP 71854", "Miller County / elevation 387 ft band"]
-zillowHomeValueUsd: 167067
 ---
 
 **Engineering Notice for Texarkana:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miller County.

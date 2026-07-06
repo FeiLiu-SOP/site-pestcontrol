@@ -11,7 +11,6 @@ lng: -87.4800
 zipSample: ["42240", "42241", "42221"]
 zipCodes: ["42241", "42221", "42240"]
 localPaths: ["Christian County / primary ZIP 42240", "Christian County / coords 36.8400, -87.4800", "Christian County / ZIP 42241 sector", "Christian County / ZIP 42221 sector", "Christian County / ZIP 42240 sector"]
-zillowHomeValueUsd: 195547
 ---
 
 **Engineering Notice for Hopkinsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Christian County.

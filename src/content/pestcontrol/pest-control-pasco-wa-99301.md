@@ -11,7 +11,6 @@ lng: -119.1300
 zipSample: ["99301", "99302"]
 zipCodes: ["99301", "99302"]
 localPaths: ["Franklin County / ZIP 99301 sector", "Franklin County / elevation 387 ft band", "Franklin County / coords 46.2500, -119.1300", "Franklin County / ZIP 99302 sector", "Franklin County / primary ZIP 99301"]
-zillowHomeValueUsd: 418132
 ---
 
 **Engineering Notice for Pasco:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Franklin County.

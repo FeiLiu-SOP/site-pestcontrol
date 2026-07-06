@@ -11,7 +11,6 @@ lng: -122.3100
 zipSample: ["98273", "98274"]
 zipCodes: ["98273", "98274"]
 localPaths: ["Skagit County / coords 48.4200, -122.3100", "Skagit County / elevation 194 ft band", "Skagit County / primary ZIP 98274", "Skagit County / ZIP 98274 sector", "Skagit County / ZIP 98273 sector"]
-zillowHomeValueUsd: 621303
 ---
 
 **Engineering Notice for Mount Vernon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Skagit County.

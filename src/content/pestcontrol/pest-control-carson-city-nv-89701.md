@@ -11,7 +11,6 @@ lng: -119.7500
 zipSample: ["89701", "89703", "89714", "89712", "89711"]
 zipCodes: ["89703", "89706", "89713", "89701", "89711", "89714", "89712"]
 localPaths: ["Carson City County / elevation 4672 ft band", "Carson City County / ZIP 89712 sector", "Carson City County / ZIP 89701 sector", "Carson City County / coords 39.1500, -119.7500", "Carson City County / ZIP 89703 sector"]
-zillowHomeValueUsd: 475340
 ---
 
 **Engineering Notice for Carson City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Carson City County.

@@ -11,7 +11,6 @@ lng: -119.2100
 zipSample: ["93314"]
 zipCodes: ["93314"]
 localPaths: ["Kern County / primary ZIP 93314", "Kern County / elevation 354 ft band", "Kern County / coords 35.3900, -119.2100", "Kern County / ZIP 93314 sector"]
-zillowHomeValueUsd: 574295
 ---
 
 **Engineering Notice for Rosedale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kern County.

@@ -11,7 +11,6 @@ lng: -117.9200
 zipSample: ["91702", "91722"]
 zipCodes: ["91722", "91702"]
 localPaths: ["Los Angeles County / coords 34.1000, -117.9200", "Los Angeles County / ZIP 91722 sector", "Los Angeles County / elevation 463 ft band", "Los Angeles County / ZIP 91702 sector", "Los Angeles County / primary ZIP 91722"]
-zillowHomeValueUsd: 764488
 ---
 
 **Engineering Notice for Vincent:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

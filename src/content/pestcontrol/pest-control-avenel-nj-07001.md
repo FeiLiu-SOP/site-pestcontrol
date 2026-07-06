@@ -11,7 +11,6 @@ lng: -74.2700
 zipSample: ["07001"]
 zipCodes: ["07001"]
 localPaths: ["Middlesex County / elevation 56 ft band", "Middlesex County / ZIP 07001 sector", "Middlesex County / primary ZIP 07001", "Middlesex County / coords 40.5800, -74.2700"]
-zillowHomeValueUsd: 527492
 ---
 
 **Engineering Notice for Avenel:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.

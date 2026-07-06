@@ -11,7 +11,6 @@ lng: -87.0200
 zipSample: ["32563"]
 zipCodes: ["32563"]
 localPaths: ["Santa Rosa County / ZIP 32563 sector", "Santa Rosa County / primary ZIP 32563", "Santa Rosa County / elevation 0 ft band", "Santa Rosa County / coords 30.4200, -87.0200"]
-zillowHomeValueUsd: 400870
 ---
 
 **Engineering Notice for Midway:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Rosa County.

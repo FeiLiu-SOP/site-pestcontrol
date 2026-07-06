@@ -11,7 +11,6 @@ lng: -77.0700
 zipSample: ["28561", "28562", "28560"]
 zipCodes: ["28560", "28561", "28562"]
 localPaths: ["Craven County / ZIP 28561 sector", "Craven County / coords 35.1000, -77.0700", "Craven County / ZIP 28562 sector", "Craven County / elevation 16 ft band", "Craven County / ZIP 28560 sector"]
-zillowHomeValueUsd: 268063
 ---
 
 **Engineering Notice for New Bern:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Craven County.

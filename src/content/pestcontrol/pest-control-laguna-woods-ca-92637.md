@@ -11,7 +11,6 @@ lng: -117.7300
 zipSample: ["92654", "92637"]
 zipCodes: ["92654", "92637"]
 localPaths: ["Orange County / coords 33.6100, -117.7300", "Orange County / primary ZIP 92637", "Orange County / elevation 453 ft band", "Orange County / ZIP 92654 sector", "Orange County / ZIP 92637 sector"]
-zillowHomeValueUsd: 470902
 ---
 
 **Engineering Notice for Laguna Woods:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

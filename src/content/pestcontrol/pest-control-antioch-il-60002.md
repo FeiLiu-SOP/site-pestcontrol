@@ -11,7 +11,6 @@ lng: -88.0700
 zipSample: ["60002"]
 zipCodes: ["60002"]
 localPaths: ["Lake County / elevation 787 ft band", "Lake County / ZIP 60002 sector", "Lake County / coords 42.4700, -88.0700", "Lake County / primary ZIP 60002"]
-zillowHomeValueUsd: 344706
 ---
 
 **Engineering Notice for Antioch:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

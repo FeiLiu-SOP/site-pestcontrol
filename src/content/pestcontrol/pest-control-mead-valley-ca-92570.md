@@ -11,7 +11,6 @@ lng: -117.2900
 zipSample: ["92570"]
 zipCodes: ["92570"]
 localPaths: ["Riverside County / ZIP 92570 sector", "Riverside County / coords 33.8300, -117.2900", "Riverside County / primary ZIP 92570", "Riverside County / elevation 1663 ft band"]
-zillowHomeValueUsd: 580567
 ---
 
 **Engineering Notice for Mead Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.

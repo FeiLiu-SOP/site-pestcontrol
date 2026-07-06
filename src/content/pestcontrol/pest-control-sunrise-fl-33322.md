@@ -11,7 +11,6 @@ lng: -80.3000
 zipSample: ["33345", "33322", "33325", "33326", "33313"]
 zipCodes: ["33313", "33323", "33307", "33351", "33325", "33345", "33322", "33326"]
 localPaths: ["Broward County / ZIP 33313 sector", "Broward County / ZIP 33326 sector", "Broward County / coords 26.1500, -80.3000", "Broward County / ZIP 33325 sector", "Broward County / primary ZIP 33322"]
-zillowHomeValueUsd: 261527
 ---
 
 **Engineering Notice for Sunrise:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.

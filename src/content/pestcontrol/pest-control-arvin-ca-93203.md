@@ -11,7 +11,6 @@ lng: -118.8300
 zipSample: ["93203"]
 zipCodes: ["93203"]
 localPaths: ["Kern County / coords 35.1900, -118.8300", "Kern County / ZIP 93203 sector", "Kern County / primary ZIP 93203", "Kern County / elevation 417 ft band"]
-zillowHomeValueUsd: 297006
 ---
 
 **Engineering Notice for Arvin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kern County.

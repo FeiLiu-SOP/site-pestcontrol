@@ -11,7 +11,6 @@ lng: -112.0100
 zipSample: ["84118"]
 zipCodes: ["84118"]
 localPaths: ["Salt Lake County / coords 40.6500, -112.0100", "Salt Lake County / elevation 4692 ft band", "Salt Lake County / ZIP 84118 sector", "Salt Lake County / primary ZIP 84118"]
-zillowHomeValueUsd: 450857
 ---
 
 **Engineering Notice for Kearns:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Salt Lake County.

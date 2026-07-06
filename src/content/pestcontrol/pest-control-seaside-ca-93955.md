@@ -11,7 +11,6 @@ lng: -121.8200
 zipSample: ["93955"]
 zipCodes: ["93955"]
 localPaths: ["Monterey County / elevation 272 ft band", "Monterey County / primary ZIP 93955", "Monterey County / coords 36.6200, -121.8200", "Monterey County / ZIP 93955 sector"]
-zillowHomeValueUsd: 801968
 ---
 
 **Engineering Notice for Seaside:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Monterey County.

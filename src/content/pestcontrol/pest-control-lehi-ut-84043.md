@@ -11,7 +11,6 @@ lng: -111.8700
 zipSample: ["84048", "84043"]
 zipCodes: ["84043", "84048"]
 localPaths: ["Utah County / primary ZIP 84043", "Utah County / coords 40.4100, -111.8700", "Utah County / ZIP 84048 sector", "Utah County / elevation 4557 ft band", "Utah County / ZIP 84043 sector"]
-zillowHomeValueUsd: 573593
 ---
 
 **Engineering Notice for Lehi:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Utah County.

@@ -11,7 +11,6 @@ lng: -98.2200
 zipSample: ["76402", "76401"]
 zipCodes: ["76401", "76402"]
 localPaths: ["Erath County / primary ZIP 76401", "Erath County / ZIP 76401 sector", "Erath County / elevation 1362 ft band", "Erath County / coords 32.2100, -98.2200", "Erath County / ZIP 76402 sector"]
-zillowHomeValueUsd: 323634
 ---
 
 **Engineering Notice for Stephenville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Erath County.

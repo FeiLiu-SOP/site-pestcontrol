@@ -11,7 +11,6 @@ lng: -109.5400
 zipSample: ["85655", "85608", "85607"]
 zipCodes: ["85607", "85608", "85655"]
 localPaths: ["Cochise County / primary ZIP 85608", "Cochise County / ZIP 85607 sector", "Cochise County / ZIP 85655 sector", "Cochise County / elevation 4032 ft band", "Cochise County / ZIP 85608 sector"]
-zillowHomeValueUsd: 174924
 ---
 
 **Engineering Notice for Douglas:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cochise County.

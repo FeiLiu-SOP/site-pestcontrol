@@ -11,7 +11,6 @@ lng: -84.4600
 zipSample: ["30349", "30337"]
 zipCodes: ["30337", "30349"]
 localPaths: ["Fulton County / ZIP 30337 sector", "Fulton County / elevation 1050 ft band", "Fulton County / ZIP 30349 sector", "Fulton County / coords 33.6400, -84.4600", "Fulton County / primary ZIP 30337"]
-zillowHomeValueUsd: 301866
 ---
 
 **Engineering Notice for College Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fulton County.

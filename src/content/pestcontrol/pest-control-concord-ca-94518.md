@@ -11,7 +11,6 @@ lng: -122.0000
 zipSample: ["94565", "94522", "94524", "94520", "94521"]
 zipCodes: ["94518", "94524", "94565", "94522", "94520", "94527", "94521", "94519"]
 localPaths: ["Contra Costa County / elevation 161 ft band", "Contra Costa County / ZIP 94521 sector", "Contra Costa County / ZIP 94520 sector", "Contra Costa County / ZIP 94565 sector", "Contra Costa County / coords 37.9700, -122.0000"]
-zillowHomeValueUsd: 867948
 ---
 
 **Engineering Notice for Concord:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.

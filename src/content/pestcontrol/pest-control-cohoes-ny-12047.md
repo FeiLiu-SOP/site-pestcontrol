@@ -11,7 +11,6 @@ lng: -73.7100
 zipSample: ["12047"]
 zipCodes: ["12047"]
 localPaths: ["Albany County / ZIP 12047 sector", "Albany County / elevation 236 ft band", "Albany County / primary ZIP 12047", "Albany County / coords 42.7700, -73.7100"]
-zillowHomeValueUsd: 330499
 ---
 
 **Engineering Notice for Cohoes:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Albany County.

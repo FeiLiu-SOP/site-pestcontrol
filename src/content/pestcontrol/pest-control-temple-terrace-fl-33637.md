@@ -11,7 +11,6 @@ lng: -82.3800
 zipSample: ["33687", "33637", "33617"]
 zipCodes: ["33637", "33617", "33687"]
 localPaths: ["Hillsborough County / primary ZIP 33637", "Hillsborough County / ZIP 33637 sector", "Hillsborough County / elevation 85 ft band", "Hillsborough County / ZIP 33617 sector", "Hillsborough County / ZIP 33687 sector"]
-zillowHomeValueUsd: 295114
 ---
 
 **Engineering Notice for Temple Terrace:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.

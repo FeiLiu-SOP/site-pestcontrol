@@ -11,7 +11,6 @@ lng: -90.1100
 zipSample: ["70072"]
 zipCodes: ["70072"]
 localPaths: ["Jefferson Parish / primary ZIP 70072", "Jefferson Parish / coords 29.8900, -90.1100", "Jefferson Parish / ZIP 70072 sector", "Jefferson Parish / elevation 16 ft band"]
-zillowHomeValueUsd: 228740
 ---
 
 **Engineering Notice for Marrero:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson Parish.

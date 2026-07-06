@@ -11,7 +11,6 @@ lng: -121.7000
 zipSample: ["94561"]
 zipCodes: ["94561"]
 localPaths: ["Contra Costa County / primary ZIP 94561", "Contra Costa County / coords 37.9900, -121.7000", "Contra Costa County / elevation 10 ft band", "Contra Costa County / ZIP 94561 sector"]
-zillowHomeValueUsd: 665913
 ---
 
 **Engineering Notice for Oakley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.

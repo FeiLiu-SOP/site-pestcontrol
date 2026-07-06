@@ -11,7 +11,6 @@ lng: -73.5600
 zipSample: ["06927", "06903", "06914", "06904", "06926"]
 zipCodes: ["06911", "06913", "06910", "06907", "06912", "06903", "06905", "06927", "06904", "06926", "06902", "06901"]
 localPaths: ["Western Connecticut County / ZIP 06927 sector", "Western Connecticut County / ZIP 06904 sector", "Western Connecticut County / primary ZIP 06906", "Western Connecticut County / ZIP 06914 sector", "Western Connecticut County / coords 41.1000, -73.5600"]
-zillowHomeValueUsd: 630135
 ---
 
 **Engineering Notice for Stamford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Western Connecticut County.

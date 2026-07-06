@@ -11,7 +11,6 @@ lng: -73.3600
 zipSample: ["11704"]
 zipCodes: ["11704"]
 localPaths: ["Suffolk County / coords 40.7100, -73.3600", "Suffolk County / elevation 39 ft band", "Suffolk County / primary ZIP 11704", "Suffolk County / ZIP 11704 sector"]
-zillowHomeValueUsd: 614804
 ---
 
 **Engineering Notice for West Babylon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

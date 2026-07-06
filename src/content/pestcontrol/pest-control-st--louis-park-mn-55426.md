@@ -11,7 +11,6 @@ lng: -93.3600
 zipSample: ["55426", "55416"]
 zipCodes: ["55416", "55426"]
 localPaths: ["Hennepin County / ZIP 55416 sector", "Hennepin County / ZIP 55426 sector", "Hennepin County / elevation 909 ft band", "Hennepin County / coords 44.9500, -93.3600", "Hennepin County / primary ZIP 55426"]
-zillowHomeValueUsd: 370749
 ---
 
 **Engineering Notice for St. Louis Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hennepin County.

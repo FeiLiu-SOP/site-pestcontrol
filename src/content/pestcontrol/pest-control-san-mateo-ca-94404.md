@@ -11,7 +11,6 @@ lng: -122.3100
 zipSample: ["94402", "94497", "94404", "94403", "94401"]
 zipCodes: ["94401", "94497", "94403", "94402", "94404"]
 localPaths: ["San Mateo County / ZIP 94404 sector", "San Mateo County / ZIP 94402 sector", "San Mateo County / ZIP 94401 sector", "San Mateo County / ZIP 94497 sector", "San Mateo County / ZIP 94403 sector"]
-zillowHomeValueUsd: 1763677
 ---
 
 **Engineering Notice for San Mateo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Mateo County.

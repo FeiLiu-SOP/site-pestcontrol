@@ -11,7 +11,6 @@ lng: -119.0300
 zipSample: ["93308", "93388"]
 zipCodes: ["93308", "93388"]
 localPaths: ["Kern County / ZIP 93388 sector", "Kern County / elevation 531 ft band", "Kern County / ZIP 93308 sector", "Kern County / coords 35.4300, -119.0300", "Kern County / primary ZIP 93308"]
-zillowHomeValueUsd: 349346
 ---
 
 **Engineering Notice for Oildale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kern County.

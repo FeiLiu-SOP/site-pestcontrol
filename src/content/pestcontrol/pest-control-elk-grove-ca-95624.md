@@ -11,7 +11,6 @@ lng: -121.3800
 zipSample: ["95624", "95759", "95757", "95758"]
 zipCodes: ["95758", "95757", "95759", "95624"]
 localPaths: ["Sacramento County / ZIP 95758 sector", "Sacramento County / ZIP 95759 sector", "Sacramento County / elevation 43 ft band", "Sacramento County / ZIP 95757 sector", "Sacramento County / ZIP 95624 sector"]
-zillowHomeValueUsd: 641692
 ---
 
 **Engineering Notice for Elk Grove:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sacramento County.

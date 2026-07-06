@@ -11,7 +11,6 @@ lng: -121.3800
 zipSample: ["95860", "95825", "95866", "95864", "95865"]
 zipCodes: ["95821", "95866", "95825", "95864", "95860", "95865"]
 localPaths: ["Sacramento County / ZIP 95825 sector", "Sacramento County / ZIP 95865 sector", "Sacramento County / elevation 75 ft band", "Sacramento County / ZIP 95860 sector", "Sacramento County / primary ZIP 95821"]
-zillowHomeValueUsd: 498687
 ---
 
 **Engineering Notice for Arden-Arcade:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sacramento County.

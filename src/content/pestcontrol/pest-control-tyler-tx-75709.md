@@ -11,7 +11,6 @@ lng: -95.3100
 zipSample: ["75701", "75711", "75702", "75799", "75713"]
 zipCodes: ["75712", "75710", "75703", "75713", "75709", "75799", "75798", "75711", "75701", "75702"]
 localPaths: ["Smith County / ZIP 75713 sector", "Smith County / primary ZIP 75709", "Smith County / ZIP 75799 sector", "Smith County / ZIP 75702 sector", "Smith County / ZIP 75711 sector"]
-zillowHomeValueUsd: 284064
 ---
 
 **Engineering Notice for Tyler:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Smith County.

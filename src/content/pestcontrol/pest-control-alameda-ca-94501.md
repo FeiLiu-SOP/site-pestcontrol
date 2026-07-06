@@ -11,7 +11,6 @@ lng: -122.2700
 zipSample: ["94501", "94502"]
 zipCodes: ["94502", "94501"]
 localPaths: ["Alameda County / ZIP 94502 sector", "Alameda County / elevation 16 ft band", "Alameda County / coords 37.7700, -122.2700", "Alameda County / ZIP 94501 sector", "Alameda County / primary ZIP 94501"]
-zillowHomeValueUsd: 1146615
 ---
 
 **Engineering Notice for Alameda:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alameda County.

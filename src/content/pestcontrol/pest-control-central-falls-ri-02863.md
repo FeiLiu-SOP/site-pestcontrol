@@ -11,7 +11,6 @@ lng: -71.3900
 zipSample: ["02863"]
 zipCodes: ["02863"]
 localPaths: ["Providence County / ZIP 02863 sector", "Providence County / elevation 102 ft band", "Providence County / coords 41.8900, -71.3900", "Providence County / primary ZIP 02863"]
-zillowHomeValueUsd: 377663
 ---
 
 **Engineering Notice for Central Falls:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Providence County.

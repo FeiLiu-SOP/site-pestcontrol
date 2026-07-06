@@ -11,7 +11,6 @@ lng: -78.9800
 zipSample: ["28301", "28310", "28305", "28309", "28314"]
 zipCodes: ["28309", "28305", "28390", "28307", "28310", "28304", "28302", "28301", "28303", "28306", "28311", "28308"]
 localPaths: ["Cumberland County / ZIP 28310 sector", "Cumberland County / ZIP 28301 sector", "Cumberland County / ZIP 28309 sector", "Cumberland County / primary ZIP 28390", "Cumberland County / ZIP 28314 sector"]
-zillowHomeValueUsd: 248001
 ---
 
 **Engineering Notice for Fayetteville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cumberland County.

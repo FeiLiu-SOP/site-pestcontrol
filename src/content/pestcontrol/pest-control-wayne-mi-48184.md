@@ -11,7 +11,6 @@ lng: -83.3900
 zipSample: ["48184"]
 zipCodes: ["48184"]
 localPaths: ["Wayne County / ZIP 48184 sector", "Wayne County / primary ZIP 48184", "Wayne County / coords 42.2800, -83.3900", "Wayne County / elevation 669 ft band"]
-zillowHomeValueUsd: 172299
 ---
 
 **Engineering Notice for Wayne:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wayne County.

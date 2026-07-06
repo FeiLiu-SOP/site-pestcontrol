@@ -11,7 +11,6 @@ lng: -96.2900
 zipSample: ["75161", "75160"]
 zipCodes: ["75160", "75161"]
 localPaths: ["Kaufman County / primary ZIP 75160", "Kaufman County / coords 32.7300, -96.2900", "Kaufman County / ZIP 75161 sector", "Kaufman County / elevation 528 ft band", "Kaufman County / ZIP 75160 sector"]
-zillowHomeValueUsd: 261873
 ---
 
 **Engineering Notice for Terrell:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kaufman County.

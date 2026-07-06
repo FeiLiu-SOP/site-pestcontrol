@@ -11,7 +11,6 @@ lng: -82.4600
 zipSample: ["34240", "34232"]
 zipCodes: ["34232", "34240"]
 localPaths: ["Sarasota County / ZIP 34232 sector", "Sarasota County / coords 27.3300, -82.4600", "Sarasota County / ZIP 34240 sector", "Sarasota County / primary ZIP 34232", "Sarasota County / elevation 46 ft band"]
-zillowHomeValueUsd: 355857
 ---
 
 **Engineering Notice for Fruitville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sarasota County.

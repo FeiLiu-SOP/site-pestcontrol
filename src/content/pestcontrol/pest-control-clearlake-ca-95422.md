@@ -11,7 +11,6 @@ lng: -122.6300
 zipSample: ["95422", "95424"]
 zipCodes: ["95422", "95424"]
 localPaths: ["Lake County / primary ZIP 95422", "Lake County / elevation 1362 ft band", "Lake County / coords 38.9600, -122.6300", "Lake County / ZIP 95424 sector", "Lake County / ZIP 95422 sector"]
-zillowHomeValueUsd: 202419
 ---
 
 **Engineering Notice for Clearlake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

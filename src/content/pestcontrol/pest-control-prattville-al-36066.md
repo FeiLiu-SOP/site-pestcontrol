@@ -11,7 +11,6 @@ lng: -86.4600
 zipSample: ["36067", "36066", "36068"]
 zipCodes: ["36067", "36066", "36068"]
 localPaths: ["Autauga County / ZIP 36068 sector", "Autauga County / ZIP 36066 sector", "Autauga County / ZIP 36067 sector", "Autauga County / primary ZIP 36066", "Autauga County / coords 32.4600, -86.4600"]
-zillowHomeValueUsd: 288238
 ---
 
 **Engineering Notice for Prattville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Autauga County.

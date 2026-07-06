@@ -11,7 +11,6 @@ lng: -114.7100
 zipSample: ["85336", "85349", "85350"]
 zipCodes: ["85336", "85349", "85350"]
 localPaths: ["Yuma County / elevation 151 ft band", "Yuma County / ZIP 85350 sector", "Yuma County / primary ZIP 85336", "Yuma County / ZIP 85349 sector", "Yuma County / ZIP 85336 sector"]
-zillowHomeValueUsd: 250695
 ---
 
 **Engineering Notice for San Luis:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Yuma County.

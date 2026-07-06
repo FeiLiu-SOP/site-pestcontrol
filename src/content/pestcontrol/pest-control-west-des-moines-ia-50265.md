@@ -11,7 +11,6 @@ lng: -93.7800
 zipSample: ["50336", "50339", "50359", "50367", "50364"]
 zipCodes: ["50265", "50336", "50362", "50061", "50359", "50369", "50361", "50363", "50398", "50339", "50367", "50360"]
 localPaths: ["Polk County / ZIP 50359 sector", "Polk County / elevation 935 ft band", "Polk County / coords 41.5500, -93.7800", "Polk County / ZIP 50339 sector", "Polk County / ZIP 50364 sector"]
-zillowHomeValueUsd: 309777
 ---
 
 **Engineering Notice for West Des Moines:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Polk County.

@@ -11,7 +11,6 @@ lng: -81.5200
 zipSample: ["44264", "44222", "44221", "44223", "44313"]
 zipCodes: ["44221", "44222", "44264", "44223", "44313"]
 localPaths: ["Summit County / coords 41.1600, -81.5200", "Summit County / ZIP 44222 sector", "Summit County / primary ZIP 44221", "Summit County / ZIP 44221 sector", "Summit County / elevation 994 ft band"]
-zillowHomeValueUsd: 195292
 ---
 
 **Engineering Notice for Cuyahoga Falls:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Summit County.

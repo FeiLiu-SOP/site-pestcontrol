@@ -11,7 +11,6 @@ lng: -81.5700
 zipSample: ["32041", "32097"]
 zipCodes: ["32041", "32097"]
 localPaths: ["Nassau County / coords 30.6400, -81.5700", "Nassau County / ZIP 32097 sector", "Nassau County / ZIP 32041 sector", "Nassau County / primary ZIP 32097", "Nassau County / elevation 52 ft band"]
-zillowHomeValueUsd: 383685
 ---
 
 **Engineering Notice for Yulee:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

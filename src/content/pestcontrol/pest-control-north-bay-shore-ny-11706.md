@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11706"
 county: "Suffolk County"
 elevationFt: 79
-lat: 40.7600
-lng: -73.2600
+lat: 40.7705
+lng: -73.2900
 zipSample: ["11706"]
 zipCodes: ["11706"]
-localPaths: ["Suffolk County / primary ZIP 11706", "Suffolk County / ZIP 11706 sector", "Suffolk County / elevation 79 ft band", "Suffolk County / coords 40.7600, -73.2600"]
-zillowHomeValueUsd: 620300
+localPaths: ["Suffolk County / primary ZIP 11706", "Suffolk County / ZIP 11706 sector", "Suffolk County / elevation 79 ft band", "Suffolk County / coords 40.7705, -73.2900"]
 ---
 
 **Engineering Notice for North Bay Shore:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
@@ -47,6 +46,6 @@ Earwig harborages in North Bay Shore, NY meter boxes often follow drip irrigatio
 
 Zone map 507439: attic insulation disturbance trace and pantry pest source logged for North Bay Shore, NY sector 11706.
 
-On-site sector marker: Suffolk County / coords 40.7600, -73.2600 — logged for map parity and ZIP-corridor verification.
+On-site sector marker: Suffolk County / coords 40.7705, -73.2900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11706-8d2eed20

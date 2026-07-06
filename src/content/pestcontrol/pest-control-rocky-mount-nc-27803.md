@@ -11,7 +11,6 @@ lng: -77.8000
 zipSample: ["27804", "27803", "27801"]
 zipCodes: ["27803", "27804", "27801"]
 localPaths: ["Nash County / elevation 102 ft band", "Nash County / ZIP 27801 sector", "Nash County / ZIP 27804 sector", "Nash County / primary ZIP 27803", "Nash County / ZIP 27803 sector"]
-zillowHomeValueUsd: 206741
 ---
 
 **Engineering Notice for Rocky Mount:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nash County.

@@ -11,7 +11,6 @@ lng: -77.0100
 zipSample: ["20695", "20675", "20603"]
 zipCodes: ["20695", "20603", "20675"]
 localPaths: ["Charles County / ZIP 20695 sector", "Charles County / coords 38.6200, -77.0100", "Charles County / ZIP 20603 sector", "Charles County / elevation 213 ft band", "Charles County / primary ZIP 20603"]
-zillowHomeValueUsd: 483807
 ---
 
 **Engineering Notice for Bensville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Charles County.

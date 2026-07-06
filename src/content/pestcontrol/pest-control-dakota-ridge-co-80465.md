@@ -11,7 +11,6 @@ lng: -105.1300
 zipSample: ["80235", "80465", "80127"]
 zipCodes: ["80465", "80235", "80127"]
 localPaths: ["Jefferson County / ZIP 80465 sector", "Jefferson County / primary ZIP 80465", "Jefferson County / ZIP 80127 sector", "Jefferson County / elevation 5787 ft band", "Jefferson County / ZIP 80235 sector"]
-zillowHomeValueUsd: 723818
 ---
 
 **Engineering Notice for Dakota Ridge:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.

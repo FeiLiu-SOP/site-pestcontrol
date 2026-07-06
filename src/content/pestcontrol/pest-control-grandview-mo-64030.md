@@ -11,7 +11,6 @@ lng: -94.5200
 zipSample: ["64030"]
 zipCodes: ["64030"]
 localPaths: ["Jackson County / primary ZIP 64030", "Jackson County / ZIP 64030 sector", "Jackson County / coords 38.8800, -94.5200", "Jackson County / elevation 1020 ft band"]
-zillowHomeValueUsd: 216651
 ---
 
 **Engineering Notice for Grandview:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jackson County.

@@ -11,7 +11,6 @@ lng: -74.0700
 zipSample: ["07652", "07653"]
 zipCodes: ["07653", "07652"]
 localPaths: ["Bergen County / primary ZIP 07652", "Bergen County / elevation 59 ft band", "Bergen County / ZIP 07653 sector", "Bergen County / ZIP 07652 sector", "Bergen County / coords 40.9500, -74.0700"]
-zillowHomeValueUsd: 1041851
 ---
 
 **Engineering Notice for Paramus:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bergen County.

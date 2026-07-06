@@ -11,7 +11,6 @@ lng: -96.7900
 zipSample: ["57006", "57007"]
 zipCodes: ["57007", "57006"]
 localPaths: ["Brookings County / elevation 1657 ft band", "Brookings County / ZIP 57007 sector", "Brookings County / coords 44.3000, -96.7900", "Brookings County / ZIP 57006 sector", "Brookings County / primary ZIP 57007"]
-zillowHomeValueUsd: 312203
 ---
 
 **Engineering Notice for Brookings:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brookings County.

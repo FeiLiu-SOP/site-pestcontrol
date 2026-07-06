@@ -7,11 +7,10 @@ zipCode: "49301"
 county: "Kent County"
 elevationFt: 646
 lat: 42.9600
-lng: -85.4900
+lng: -85.4600
 zipSample: ["49546", "49357", "49301", "49355", "49516"]
 zipCodes: ["49356", "49357", "49355", "49301", "49516", "49546"]
 localPaths: ["Kent County / ZIP 49357 sector", "Kent County / ZIP 49516 sector", "Kent County / elevation 646 ft band", "Kent County / ZIP 49546 sector", "Kent County / ZIP 49355 sector"]
-zillowHomeValueUsd: 648963
 ---
 
 **Engineering Notice for Forest Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kent County.
@@ -43,7 +42,7 @@ Stink bug overwinter seams in Forest Hills, MI cladding service laps require exc
 
 Yellow jacket nests in Forest Hills, MI soffit cavities peak in late summer routing windows.
 
-Exclusion audit 558228: exclusion mesh gauge and rodent runway grease mark reviewed for Forest Hills, MI at 42.9600/-85.4900.
+Exclusion audit 558228: exclusion mesh gauge and rodent runway grease mark reviewed for Forest Hills, MI at 42.9600/-85.4600.
 
 On-site sector marker: Kent County / ZIP 49355 sector — logged for map parity and ZIP-corridor verification.
 

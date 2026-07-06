@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11967"
 county: "Suffolk County"
 elevationFt: 59
-lat: 40.7900
-lng: -72.8700
+lat: 40.8005
+lng: -72.9000
 zipSample: ["11967"]
 zipCodes: ["11967"]
-localPaths: ["Suffolk County / ZIP 11967 sector", "Suffolk County / elevation 59 ft band", "Suffolk County / primary ZIP 11967", "Suffolk County / coords 40.7900, -72.8700"]
-zillowHomeValueUsd: 531112
+localPaths: ["Suffolk County / ZIP 11967 sector", "Suffolk County / elevation 59 ft band", "Suffolk County / primary ZIP 11967", "Suffolk County / coords 40.8005, -72.9000"]
 ---
 
 **Engineering Notice for Shirley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
@@ -41,9 +40,9 @@ Material note: Bait matrix rotation reduces resistance in heavy German cockroach
 
 Step: verify attic access safety before insulation disturbance.
 
-Exclusion audit 659772: exclusion mesh gauge and rodent runway grease mark reviewed for Shirley, NY at 40.7900/-72.8700.
+Exclusion audit 659772: exclusion mesh gauge and rodent runway grease mark reviewed for Shirley, NY at 40.8005/-72.9000.
 
-Harbor ledger 659772: frass lane, mud-tube scan, and garage jamb gap measure filed for Shirley, NY at 40.7900, -72.8700.
+Harbor ledger 659772: frass lane, mud-tube scan, and garage jamb gap measure filed for Shirley, NY at 40.8005, -72.9000.
 
 Regional mesh label Suffolk County: moisture and logistics baselines are keyed to Shirley, NY before niche-specific work begins.
 

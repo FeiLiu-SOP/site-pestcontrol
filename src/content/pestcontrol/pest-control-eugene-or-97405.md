@@ -11,7 +11,6 @@ lng: -123.1200
 zipSample: ["97403", "97440", "97402", "97404", "97401"]
 zipCodes: ["97404", "97401", "97440", "97403", "97402", "97405"]
 localPaths: ["Lane County / ZIP 97403 sector", "Lane County / ZIP 97402 sector", "Lane County / ZIP 97440 sector", "Lane County / elevation 413 ft band", "Lane County / ZIP 97404 sector"]
-zillowHomeValueUsd: 527570
 ---
 
 **Engineering Notice for Eugene:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lane County.

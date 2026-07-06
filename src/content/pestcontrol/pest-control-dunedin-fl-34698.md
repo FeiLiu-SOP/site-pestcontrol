@@ -11,7 +11,6 @@ lng: -82.7900
 zipSample: ["34698", "34697"]
 zipCodes: ["34697", "34698"]
 localPaths: ["Pinellas County / primary ZIP 34698", "Pinellas County / ZIP 34698 sector", "Pinellas County / elevation 30 ft band", "Pinellas County / ZIP 34697 sector", "Pinellas County / coords 28.0300, -82.7900"]
-zillowHomeValueUsd: 407278
 ---
 
 **Engineering Notice for Dunedin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pinellas County.

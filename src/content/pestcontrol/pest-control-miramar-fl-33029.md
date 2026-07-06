@@ -11,7 +11,6 @@ lng: -80.3400
 zipSample: ["33027", "33025", "33029", "33023"]
 zipCodes: ["33025", "33023", "33029", "33027"]
 localPaths: ["Broward County / coords 25.9800, -80.3400", "Broward County / ZIP 33027 sector", "Broward County / elevation 16 ft band", "Broward County / ZIP 33029 sector", "Broward County / primary ZIP 33029"]
-zillowHomeValueUsd: 708643
 ---
 
 **Engineering Notice for Miramar:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.

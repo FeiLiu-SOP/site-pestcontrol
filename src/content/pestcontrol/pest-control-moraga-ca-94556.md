@@ -11,7 +11,6 @@ lng: -122.1200
 zipSample: ["94556", "94570", "94575"]
 zipCodes: ["94556", "94570", "94575"]
 localPaths: ["Contra Costa County / ZIP 94570 sector", "Contra Costa County / ZIP 94575 sector", "Contra Costa County / elevation 594 ft band", "Contra Costa County / primary ZIP 94556", "Contra Costa County / ZIP 94556 sector"]
-zillowHomeValueUsd: 1665926
 ---
 
 **Engineering Notice for Moraga:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.

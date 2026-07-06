@@ -11,7 +11,6 @@ lng: -77.4100
 zipSample: ["21705", "21702", "21709", "21701"]
 zipCodes: ["21701", "21705", "21709", "21702"]
 localPaths: ["Frederick County / elevation 348 ft band", "Frederick County / ZIP 21701 sector", "Frederick County / ZIP 21705 sector", "Frederick County / primary ZIP 21705", "Frederick County / ZIP 21702 sector"]
-zillowHomeValueUsd: 462227
 ---
 
 **Engineering Notice for Frederick:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Frederick County.

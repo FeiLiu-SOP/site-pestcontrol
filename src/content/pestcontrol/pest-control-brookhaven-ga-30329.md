@@ -11,7 +11,6 @@ lng: -84.3300
 zipSample: ["30324", "31119", "30329", "30319"]
 zipCodes: ["31119", "30319", "30329", "30324"]
 localPaths: ["DeKalb County / elevation 1024 ft band", "DeKalb County / ZIP 31119 sector", "DeKalb County / coords 33.8700, -84.3300", "DeKalb County / ZIP 30324 sector", "DeKalb County / ZIP 30329 sector"]
-zillowHomeValueUsd: 524011
 ---
 
 **Engineering Notice for Brookhaven:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeKalb County.

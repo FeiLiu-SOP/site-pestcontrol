@@ -11,7 +11,6 @@ lng: -87.7400
 zipSample: ["60803"]
 zipCodes: ["60803"]
 localPaths: ["Cook County / primary ZIP 60803", "Cook County / elevation 633 ft band", "Cook County / coords 41.6700, -87.7400", "Cook County / ZIP 60803 sector"]
-zillowHomeValueUsd: 255622
 ---
 
 **Engineering Notice for Alsip:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

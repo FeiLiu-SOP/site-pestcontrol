@@ -11,7 +11,6 @@ lng: -81.3500
 zipSample: ["32824"]
 zipCodes: ["32824"]
 localPaths: ["Orange County / elevation 79 ft band", "Orange County / coords 28.3700, -81.3500", "Orange County / ZIP 32824 sector", "Orange County / primary ZIP 32824"]
-zillowHomeValueUsd: 402658
 ---
 
 **Engineering Notice for Meadow Woods:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

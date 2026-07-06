@@ -11,7 +11,6 @@ lng: -74.9900
 zipSample: ["08021"]
 zipCodes: ["08021"]
 localPaths: ["Camden County / elevation 75 ft band", "Camden County / primary ZIP 08021", "Camden County / coords 39.8200, -74.9900", "Camden County / ZIP 08021 sector"]
-zillowHomeValueUsd: 285562
 ---
 
 **Engineering Notice for Lindenwold:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Camden County.

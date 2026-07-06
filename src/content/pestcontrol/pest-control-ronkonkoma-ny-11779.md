@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11779"
 county: "Suffolk County"
 elevationFt: 112
-lat: 40.8000
-lng: -73.1200
+lat: 40.8105
+lng: -73.1500
 zipSample: ["11779"]
 zipCodes: ["11779"]
-localPaths: ["Suffolk County / primary ZIP 11779", "Suffolk County / elevation 112 ft band", "Suffolk County / ZIP 11779 sector", "Suffolk County / coords 40.8000, -73.1200"]
-zillowHomeValueUsd: 619148
+localPaths: ["Suffolk County / primary ZIP 11779", "Suffolk County / elevation 112 ft band", "Suffolk County / ZIP 11779 sector", "Suffolk County / coords 40.8105, -73.1500"]
 ---
 
 **Engineering Notice for Ronkonkoma:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
@@ -45,6 +44,6 @@ Intercept log 860190: bed bug intercept count staged before Ronkonkoma, NY inter
 
 Species trace 860190: re-entry interval label and conducive moisture note keyed to Ronkonkoma, NY elevation 112 ft.
 
-On-site sector marker: Suffolk County / coords 40.8000, -73.1200 — logged for map parity and ZIP-corridor verification.
+On-site sector marker: Suffolk County / coords 40.8105, -73.1500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11779-f11999da

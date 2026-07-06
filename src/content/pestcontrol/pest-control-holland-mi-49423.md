@@ -7,11 +7,10 @@ zipCode: "49423"
 county: "Ottawa County"
 elevationFt: 656
 lat: 42.7700
-lng: -86.1000
+lng: -86.1300
 zipSample: ["49423", "49422"]
 zipCodes: ["49423", "49422"]
-localPaths: ["Ottawa County / ZIP 49423 sector", "Ottawa County / ZIP 49422 sector", "Ottawa County / elevation 656 ft band", "Ottawa County / coords 42.7700, -86.1000", "Ottawa County / primary ZIP 49423"]
-zillowHomeValueUsd: 347206
+localPaths: ["Ottawa County / ZIP 49423 sector", "Ottawa County / ZIP 49422 sector", "Ottawa County / elevation 656 ft band", "Ottawa County / coords 42.7700, -86.1300", "Ottawa County / primary ZIP 49423"]
 ---
 
 **Engineering Notice for Holland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ottawa County.
@@ -47,7 +46,7 @@ Mud dauber nests in Holland, MI porch ceilings are benign but signal prey densit
 
 Intercept log 526498: bed bug intercept count staged before Holland, MI interior gel zones.
 
-Exclusion audit 526498: exclusion mesh gauge and rodent runway grease mark reviewed for Holland, MI at 42.7700/-86.1000.
+Exclusion audit 526498: exclusion mesh gauge and rodent runway grease mark reviewed for Holland, MI at 42.7700/-86.1300.
 
 ZIP-corridor snapshot for Holland, MI: sampled sectors include 49423, 49422; county routing grid remains Ottawa County.
 

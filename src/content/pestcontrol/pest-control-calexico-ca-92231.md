@@ -11,7 +11,6 @@ lng: -115.4900
 zipSample: ["92232", "92231"]
 zipCodes: ["92232", "92231"]
 localPaths: ["Imperial County / ZIP 92231 sector", "Imperial County / primary ZIP 92231", "Imperial County / coords 32.6800, -115.4900", "Imperial County / elevation 0 ft band", "Imperial County / ZIP 92232 sector"]
-zillowHomeValueUsd: 391749
 ---
 
 **Engineering Notice for Calexico:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Imperial County.

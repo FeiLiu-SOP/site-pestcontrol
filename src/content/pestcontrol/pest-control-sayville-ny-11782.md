@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11782"
 county: "Suffolk County"
 elevationFt: 39
-lat: 40.7500
-lng: -73.0800
+lat: 40.7605
+lng: -73.1100
 zipSample: ["11782"]
 zipCodes: ["11782"]
-localPaths: ["Suffolk County / coords 40.7500, -73.0800", "Suffolk County / elevation 39 ft band", "Suffolk County / primary ZIP 11782", "Suffolk County / ZIP 11782 sector"]
-zillowHomeValueUsd: 745315
+localPaths: ["Suffolk County / coords 40.7605, -73.1100", "Suffolk County / elevation 39 ft band", "Suffolk County / primary ZIP 11782", "Suffolk County / ZIP 11782 sector"]
 ---
 
 **Engineering Notice for Sayville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
@@ -47,6 +46,6 @@ Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 117
 
 Species trace 339019: re-entry interval label and conducive moisture note keyed to Sayville, NY elevation 39 ft.
 
-Coordinate-anchored dispatch note: center reference 40.7500, -73.0800 at elevation ~39 ft aligns with Suffolk County intake staging.
+Coordinate-anchored dispatch note: center reference 40.7605, -73.1100 at elevation ~39 ft aligns with Suffolk County intake staging.
 
 Service reference: NY-11782-7c59acbf

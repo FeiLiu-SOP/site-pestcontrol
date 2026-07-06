@@ -11,7 +11,6 @@ lng: -116.9600
 zipSample: ["92021", "92019", "92020"]
 zipCodes: ["92021", "92020", "92019"]
 localPaths: ["San Diego County / ZIP 92020 sector", "San Diego County / elevation 430 ft band", "San Diego County / primary ZIP 92020", "San Diego County / coords 32.8000, -116.9600", "San Diego County / ZIP 92021 sector"]
-zillowHomeValueUsd: 840303
 ---
 
 **Engineering Notice for El Cajon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.

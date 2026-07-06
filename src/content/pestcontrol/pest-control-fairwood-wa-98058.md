@@ -11,7 +11,6 @@ lng: -122.1400
 zipSample: ["98058"]
 zipCodes: ["98058"]
 localPaths: ["King County / primary ZIP 98058", "King County / elevation 509 ft band", "King County / coords 47.4500, -122.1400", "King County / ZIP 98058 sector"]
-zillowHomeValueUsd: 742711
 ---
 
 **Engineering Notice for Fairwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.

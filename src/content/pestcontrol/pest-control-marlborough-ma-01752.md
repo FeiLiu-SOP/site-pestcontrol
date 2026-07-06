@@ -11,7 +11,6 @@ lng: -71.5500
 zipSample: ["01752"]
 zipCodes: ["01752"]
 localPaths: ["Middlesex County / primary ZIP 01752", "Middlesex County / coords 42.3500, -71.5500", "Middlesex County / ZIP 01752 sector", "Middlesex County / elevation 440 ft band"]
-zillowHomeValueUsd: 579212
 ---
 
 **Engineering Notice for Marlborough:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.

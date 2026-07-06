@@ -11,7 +11,6 @@ lng: -78.4900
 zipSample: ["22901", "22903", "22906", "22905", "22902"]
 zipCodes: ["22908", "22903", "22909", "22901", "22902", "22906", "22905", "22904"]
 localPaths: ["Charlottesville County / coords 38.0400, -78.4900", "Charlottesville County / primary ZIP 22908", "Charlottesville County / ZIP 22903 sector", "Charlottesville County / ZIP 22905 sector", "Charlottesville County / ZIP 22902 sector"]
-zillowHomeValueUsd: 533794
 ---
 
 **Engineering Notice for Charlottesville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Charlottesville County.

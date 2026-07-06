@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11746"
 county: "Suffolk County"
 elevationFt: 213
-lat: 40.8000
-lng: -73.3400
+lat: 40.8105
+lng: -73.3700
 zipSample: ["11746"]
 zipCodes: ["11746"]
-localPaths: ["Suffolk County / primary ZIP 11746", "Suffolk County / elevation 213 ft band", "Suffolk County / coords 40.8000, -73.3400", "Suffolk County / ZIP 11746 sector"]
-zillowHomeValueUsd: 771408
+localPaths: ["Suffolk County / primary ZIP 11746", "Suffolk County / elevation 213 ft band", "Suffolk County / coords 40.8105, -73.3700", "Suffolk County / ZIP 11746 sector"]
 ---
 
 **Engineering Notice for Dix Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
@@ -47,6 +46,6 @@ Seasonal cue 846911: cluster fly attic staging reviewed for Dix Hills, NY soffit
 
 Zone map 846911: attic insulation disturbance trace and pantry pest source logged for Dix Hills, NY sector 11746.
 
-On-site sector marker: Suffolk County / coords 40.8000, -73.3400 — logged for map parity and ZIP-corridor verification.
+On-site sector marker: Suffolk County / coords 40.8105, -73.3700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11746-b6f893cc

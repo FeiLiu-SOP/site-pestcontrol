@@ -11,7 +11,6 @@ lng: -122.9600
 zipSample: ["97132"]
 zipCodes: ["97132"]
 localPaths: ["Yamhill County / primary ZIP 97132", "Yamhill County / coords 45.3100, -122.9600", "Yamhill County / elevation 233 ft band", "Yamhill County / ZIP 97132 sector"]
-zillowHomeValueUsd: 533754
 ---
 
 **Engineering Notice for Newberg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Yamhill County.

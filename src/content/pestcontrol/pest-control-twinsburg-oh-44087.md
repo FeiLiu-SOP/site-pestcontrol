@@ -11,7 +11,6 @@ lng: -81.4500
 zipSample: ["44087"]
 zipCodes: ["44087"]
 localPaths: ["Summit County / ZIP 44087 sector", "Summit County / elevation 971 ft band", "Summit County / coords 41.3200, -81.4500", "Summit County / primary ZIP 44087"]
-zillowHomeValueUsd: 353534
 ---
 
 **Engineering Notice for Twinsburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Summit County.

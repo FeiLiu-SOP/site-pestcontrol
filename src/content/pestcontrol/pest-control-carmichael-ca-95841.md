@@ -11,7 +11,6 @@ lng: -121.3300
 zipSample: ["95608", "95841", "95628", "95609"]
 zipCodes: ["95841", "95609", "95608", "95628"]
 localPaths: ["Sacramento County / primary ZIP 95841", "Sacramento County / coords 38.6300, -121.3300", "Sacramento County / ZIP 95609 sector", "Sacramento County / ZIP 95628 sector", "Sacramento County / ZIP 95841 sector"]
-zillowHomeValueUsd: 433319
 ---
 
 **Engineering Notice for Carmichael:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sacramento County.

@@ -11,7 +11,6 @@ lng: -97.3700
 zipSample: ["76179", "76131"]
 zipCodes: ["76179", "76131"]
 localPaths: ["Tarrant County / elevation 745 ft band", "Tarrant County / ZIP 76179 sector", "Tarrant County / ZIP 76131 sector", "Tarrant County / primary ZIP 76131", "Tarrant County / coords 32.8700, -97.3700"]
-zillowHomeValueUsd: 337683
 ---
 
 **Engineering Notice for Saginaw:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tarrant County.

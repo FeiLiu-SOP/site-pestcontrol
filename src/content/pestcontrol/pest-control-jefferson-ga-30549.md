@@ -11,7 +11,6 @@ lng: -83.6000
 zipSample: ["30549"]
 zipCodes: ["30549"]
 localPaths: ["Jackson County / primary ZIP 30549", "Jackson County / coords 34.1400, -83.6000", "Jackson County / elevation 866 ft band", "Jackson County / ZIP 30549 sector"]
-zillowHomeValueUsd: 413735
 ---
 
 **Engineering Notice for Jefferson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jackson County.

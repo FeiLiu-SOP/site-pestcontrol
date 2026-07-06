@@ -11,7 +11,6 @@ lng: -78.7800
 zipSample: ["27526"]
 zipCodes: ["27526"]
 localPaths: ["Wake County / primary ZIP 27526", "Wake County / elevation 400 ft band", "Wake County / ZIP 27526 sector", "Wake County / coords 35.6000, -78.7800"]
-zillowHomeValueUsd: 443007
 ---
 
 **Engineering Notice for Fuquay-Varina:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wake County.

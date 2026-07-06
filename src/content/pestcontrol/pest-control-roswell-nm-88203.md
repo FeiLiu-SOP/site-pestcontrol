@@ -11,7 +11,6 @@ lng: -104.5300
 zipSample: ["88203", "88201"]
 zipCodes: ["88203", "88201"]
 localPaths: ["Chaves County / primary ZIP 88203", "Chaves County / elevation 3629 ft band", "Chaves County / ZIP 88203 sector", "Chaves County / coords 33.3700, -104.5300", "Chaves County / ZIP 88201 sector"]
-zillowHomeValueUsd: 141996
 ---
 
 **Engineering Notice for Roswell:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Chaves County.

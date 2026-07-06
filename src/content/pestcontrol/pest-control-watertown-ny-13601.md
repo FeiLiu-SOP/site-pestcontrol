@@ -11,7 +11,6 @@ lng: -75.9100
 zipSample: ["13601"]
 zipCodes: ["13601"]
 localPaths: ["Jefferson County / coords 43.9700, -75.9100", "Jefferson County / elevation 482 ft band", "Jefferson County / primary ZIP 13601", "Jefferson County / ZIP 13601 sector"]
-zillowHomeValueUsd: 194455
 ---
 
 **Engineering Notice for Watertown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.

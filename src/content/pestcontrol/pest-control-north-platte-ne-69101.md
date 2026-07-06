@@ -11,7 +11,6 @@ lng: -100.7600
 zipSample: ["69101", "69103"]
 zipCodes: ["69103", "69101"]
 localPaths: ["Lincoln County / ZIP 69103 sector", "Lincoln County / ZIP 69101 sector", "Lincoln County / elevation 2812 ft band", "Lincoln County / coords 41.1300, -100.7600", "Lincoln County / primary ZIP 69101"]
-zillowHomeValueUsd: 208942
 ---
 
 **Engineering Notice for North Platte:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lincoln County.

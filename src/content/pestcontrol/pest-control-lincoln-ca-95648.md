@@ -11,7 +11,6 @@ lng: -121.2900
 zipSample: ["95648"]
 zipCodes: ["95648"]
 localPaths: ["Placer County / primary ZIP 95648", "Placer County / ZIP 95648 sector", "Placer County / coords 38.8800, -121.2900", "Placer County / elevation 148 ft band"]
-zillowHomeValueUsd: 639752
 ---
 
 **Engineering Notice for Lincoln:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Placer County.

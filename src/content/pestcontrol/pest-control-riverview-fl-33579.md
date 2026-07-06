@@ -11,7 +11,6 @@ lng: -82.3000
 zipSample: ["33579", "33569", "33568", "33578"]
 zipCodes: ["33569", "33579", "33578", "33568"]
 localPaths: ["Hillsborough County / primary ZIP 33579", "Hillsborough County / ZIP 33578 sector", "Hillsborough County / elevation 85 ft band", "Hillsborough County / ZIP 33568 sector", "Hillsborough County / coords 27.8200, -82.3000"]
-zillowHomeValueUsd: 387163
 ---
 
 **Engineering Notice for Riverview:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.

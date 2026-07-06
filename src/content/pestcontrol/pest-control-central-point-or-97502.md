@@ -11,7 +11,6 @@ lng: -122.9100
 zipSample: ["97502"]
 zipCodes: ["97502"]
 localPaths: ["Jackson County / primary ZIP 97502", "Jackson County / coords 42.3800, -122.9100", "Jackson County / ZIP 97502 sector", "Jackson County / elevation 1270 ft band"]
-zillowHomeValueUsd: 420161
 ---
 
 **Engineering Notice for Central Point:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jackson County.

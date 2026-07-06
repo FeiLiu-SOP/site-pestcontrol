@@ -11,7 +11,6 @@ lng: -111.0100
 zipSample: ["85704", "85742", "85752", "85741"]
 zipCodes: ["85742", "85704", "85741", "85752"]
 localPaths: ["Pima County / ZIP 85704 sector", "Pima County / ZIP 85752 sector", "Pima County / elevation 2411 ft band", "Pima County / ZIP 85742 sector", "Pima County / ZIP 85741 sector"]
-zillowHomeValueUsd: 448224
 ---
 
 **Engineering Notice for Casas Adobes:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pima County.

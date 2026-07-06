@@ -11,7 +11,6 @@ lng: -80.9300
 zipSample: ["29910"]
 zipCodes: ["29910"]
 localPaths: ["Beaufort County / elevation 59 ft band", "Beaufort County / ZIP 29910 sector", "Beaufort County / primary ZIP 29910", "Beaufort County / coords 32.2100, -80.9300"]
-zillowHomeValueUsd: 520578
 ---
 
 **Engineering Notice for Bluffton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Beaufort County.

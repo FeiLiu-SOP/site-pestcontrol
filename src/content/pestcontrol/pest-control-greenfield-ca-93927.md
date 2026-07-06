@@ -11,7 +11,6 @@ lng: -121.2400
 zipSample: ["93927"]
 zipCodes: ["93927"]
 localPaths: ["Monterey County / primary ZIP 93927", "Monterey County / coords 36.3200, -121.2400", "Monterey County / ZIP 93927 sector", "Monterey County / elevation 285 ft band"]
-zillowHomeValueUsd: 547229
 ---
 
 **Engineering Notice for Greenfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Monterey County.

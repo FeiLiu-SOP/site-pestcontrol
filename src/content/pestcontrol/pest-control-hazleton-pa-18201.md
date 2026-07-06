@@ -11,7 +11,6 @@ lng: -75.9700
 zipSample: ["18201"]
 zipCodes: ["18201"]
 localPaths: ["Luzerne County / primary ZIP 18201", "Luzerne County / elevation 1677 ft band", "Luzerne County / coords 40.9500, -75.9700", "Luzerne County / ZIP 18201 sector"]
-zillowHomeValueUsd: 193197
 ---
 
 **Engineering Notice for Hazleton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Luzerne County.

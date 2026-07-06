@@ -11,7 +11,6 @@ lng: -75.1800
 zipSample: ["08865"]
 zipCodes: ["08865"]
 localPaths: ["Warren County / primary ZIP 08865", "Warren County / elevation 308 ft band", "Warren County / ZIP 08865 sector", "Warren County / coords 40.6900, -75.1800"]
-zillowHomeValueUsd: 336521
 ---
 
 **Engineering Notice for Phillipsburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Warren County.

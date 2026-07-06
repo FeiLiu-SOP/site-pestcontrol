@@ -11,7 +11,6 @@ lng: -77.1300
 zipSample: ["22041", "22311"]
 zipCodes: ["22311", "22041"]
 localPaths: ["Fairfax County / elevation 259 ft band", "Fairfax County / ZIP 22041 sector", "Fairfax County / coords 38.8500, -77.1300", "Fairfax County / primary ZIP 22041", "Fairfax County / ZIP 22311 sector"]
-zillowHomeValueUsd: 446599
 ---
 
 **Engineering Notice for Bailey's Crossroads:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.

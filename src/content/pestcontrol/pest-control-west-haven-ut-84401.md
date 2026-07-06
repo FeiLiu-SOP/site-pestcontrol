@@ -11,7 +11,6 @@ lng: -112.0500
 zipSample: ["84402", "84401"]
 zipCodes: ["84402", "84401"]
 localPaths: ["Weber County / coords 41.2100, -112.0500", "Weber County / ZIP 84402 sector", "Weber County / ZIP 84401 sector", "Weber County / primary ZIP 84401", "Weber County / elevation 4265 ft band"]
-zillowHomeValueUsd: 440240
 ---
 
 **Engineering Notice for West Haven:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Weber County.

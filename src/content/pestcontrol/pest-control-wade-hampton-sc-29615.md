@@ -11,7 +11,6 @@ lng: -82.3300
 zipSample: ["29615", "29687", "29606"]
 zipCodes: ["29606", "29687", "29615"]
 localPaths: ["Greenville County / ZIP 29687 sector", "Greenville County / ZIP 29615 sector", "Greenville County / primary ZIP 29615", "Greenville County / ZIP 29606 sector", "Greenville County / coords 34.8800, -82.3300"]
-zillowHomeValueUsd: 437327
 ---
 
 **Engineering Notice for Wade Hampton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Greenville County.

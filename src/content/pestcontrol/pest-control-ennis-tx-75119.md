@@ -11,7 +11,6 @@ lng: -96.6300
 zipSample: ["75120", "75119"]
 zipCodes: ["75119", "75120"]
 localPaths: ["Ellis County / primary ZIP 75119", "Ellis County / coords 32.3300, -96.6300", "Ellis County / elevation 548 ft band", "Ellis County / ZIP 75119 sector", "Ellis County / ZIP 75120 sector"]
-zillowHomeValueUsd: 265419
 ---
 
 **Engineering Notice for Ennis:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ellis County.

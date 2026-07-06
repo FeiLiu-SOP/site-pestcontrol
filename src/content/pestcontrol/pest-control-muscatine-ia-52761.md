@@ -11,7 +11,6 @@ lng: -91.0700
 zipSample: ["52761"]
 zipCodes: ["52761"]
 localPaths: ["Muscatine County / primary ZIP 52761", "Muscatine County / ZIP 52761 sector", "Muscatine County / elevation 719 ft band", "Muscatine County / coords 41.4200, -91.0700"]
-zillowHomeValueUsd: 183311
 ---
 
 **Engineering Notice for Muscatine:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Muscatine County.

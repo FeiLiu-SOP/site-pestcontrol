@@ -11,7 +11,6 @@ lng: -122.5300
 zipSample: ["98682"]
 zipCodes: ["98682"]
 localPaths: ["Clark County / primary ZIP 98682", "Clark County / coords 45.6900, -122.5300", "Clark County / ZIP 98682 sector", "Clark County / elevation 279 ft band"]
-zillowHomeValueUsd: 502131
 ---
 
 **Engineering Notice for Orchards:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.

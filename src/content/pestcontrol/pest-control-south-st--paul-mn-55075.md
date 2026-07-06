@@ -11,7 +11,6 @@ lng: -93.0400
 zipSample: ["55075"]
 zipCodes: ["55075"]
 localPaths: ["Dakota County / ZIP 55075 sector", "Dakota County / coords 44.8900, -93.0400", "Dakota County / primary ZIP 55075", "Dakota County / elevation 823 ft band"]
-zillowHomeValueUsd: 295890
 ---
 
 **Engineering Notice for South St. Paul:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dakota County.

@@ -11,7 +11,6 @@ lng: -82.0200
 zipSample: ["44039"]
 zipCodes: ["44039"]
 localPaths: ["Lorain County / elevation 728 ft band", "Lorain County / ZIP 44039 sector", "Lorain County / primary ZIP 44039", "Lorain County / coords 41.3900, -82.0200"]
-zillowHomeValueUsd: 324749
 ---
 
 **Engineering Notice for North Ridgeville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lorain County.

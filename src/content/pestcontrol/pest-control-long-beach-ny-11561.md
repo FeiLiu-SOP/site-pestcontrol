@@ -11,7 +11,6 @@ lng: -73.6700
 zipSample: ["11561"]
 zipCodes: ["11561"]
 localPaths: ["Nassau County / elevation 13 ft band", "Nassau County / coords 40.5900, -73.6700", "Nassau County / ZIP 11561 sector", "Nassau County / primary ZIP 11561"]
-zillowHomeValueUsd: 820869
 ---
 
 **Engineering Notice for Long Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

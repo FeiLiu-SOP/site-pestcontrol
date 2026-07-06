@@ -11,7 +11,6 @@ lng: -104.9500
 zipSample: ["80520", "80504"]
 zipCodes: ["80504", "80520"]
 localPaths: ["Weld County / ZIP 80520 sector", "Weld County / coords 40.1600, -104.9500", "Weld County / ZIP 80504 sector", "Weld County / primary ZIP 80520", "Weld County / elevation 4856 ft band"]
-zillowHomeValueUsd: 469178
 ---
 
 **Engineering Notice for Firestone:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Weld County.

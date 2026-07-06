@@ -11,7 +11,6 @@ lng: -87.9800
 zipSample: ["60561"]
 zipCodes: ["60561"]
 localPaths: ["DuPage County / coords 41.7400, -87.9800", "DuPage County / ZIP 60561 sector", "DuPage County / primary ZIP 60561", "DuPage County / elevation 764 ft band"]
-zillowHomeValueUsd: 449924
 ---
 
 **Engineering Notice for Darien:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.

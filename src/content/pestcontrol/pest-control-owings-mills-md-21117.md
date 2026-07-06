@@ -11,7 +11,6 @@ lng: -76.7900
 zipSample: ["21117"]
 zipCodes: ["21117"]
 localPaths: ["Baltimore County / ZIP 21117 sector", "Baltimore County / primary ZIP 21117", "Baltimore County / coords 39.4100, -76.7900", "Baltimore County / elevation 564 ft band"]
-zillowHomeValueUsd: 386406
 ---
 
 **Engineering Notice for Owings Mills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.

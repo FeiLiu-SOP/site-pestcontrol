@@ -11,7 +11,6 @@ lng: -120.4700
 zipSample: ["93436", "93438"]
 zipCodes: ["93438", "93436"]
 localPaths: ["Santa Barbara County / primary ZIP 93436", "Santa Barbara County / elevation 85 ft band", "Santa Barbara County / ZIP 93436 sector", "Santa Barbara County / ZIP 93438 sector", "Santa Barbara County / coords 34.6600, -120.4700"]
-zillowHomeValueUsd: 590072
 ---
 
 **Engineering Notice for Lompoc:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Barbara County.

@@ -7,11 +7,10 @@ zipCode: "49509"
 county: "Kent County"
 elevationFt: 663
 lat: 42.8900
-lng: -85.7100
+lng: -85.6800
 zipSample: ["49548", "49418", "49519", "49509", "49528"]
 zipCodes: ["49418", "49509", "49528", "49519", "49548"]
-localPaths: ["Kent County / ZIP 49418 sector", "Kent County / primary ZIP 49509", "Kent County / ZIP 49548 sector", "Kent County / coords 42.8900, -85.7100", "Kent County / elevation 663 ft band"]
-zillowHomeValueUsd: 257904
+localPaths: ["Kent County / ZIP 49418 sector", "Kent County / primary ZIP 49509", "Kent County / ZIP 49548 sector", "Kent County / coords 42.8900, -85.6800", "Kent County / elevation 663 ft band"]
 ---
 
 **Engineering Notice for Wyoming:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kent County.

@@ -11,7 +11,6 @@ lng: -75.2200
 zipSample: ["18042", "18043", "18044", "18045"]
 zipCodes: ["18042", "18043", "18044", "18045"]
 localPaths: ["Northampton County / ZIP 18042 sector", "Northampton County / ZIP 18043 sector", "Northampton County / elevation 367 ft band", "Northampton County / ZIP 18045 sector", "Northampton County / coords 40.6900, -75.2200"]
-zillowHomeValueUsd: 265655
 ---
 
 **Engineering Notice for Easton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Northampton County.

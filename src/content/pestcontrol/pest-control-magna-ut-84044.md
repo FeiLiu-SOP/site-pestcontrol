@@ -11,7 +11,6 @@ lng: -112.1600
 zipSample: ["84044"]
 zipCodes: ["84044"]
 localPaths: ["Salt Lake County / coords 40.7600, -112.1600", "Salt Lake County / elevation 4229 ft band", "Salt Lake County / primary ZIP 84044", "Salt Lake County / ZIP 84044 sector"]
-zillowHomeValueUsd: 448970
 ---
 
 **Engineering Notice for Magna:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Salt Lake County.

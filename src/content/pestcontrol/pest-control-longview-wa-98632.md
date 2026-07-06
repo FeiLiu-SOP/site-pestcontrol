@@ -11,7 +11,6 @@ lng: -122.9600
 zipSample: ["98632"]
 zipCodes: ["98632"]
 localPaths: ["Cowlitz County / primary ZIP 98632", "Cowlitz County / coords 46.1500, -122.9600", "Cowlitz County / ZIP 98632 sector", "Cowlitz County / elevation 16 ft band"]
-zillowHomeValueUsd: 385583
 ---
 
 **Engineering Notice for Longview:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cowlitz County.

@@ -11,7 +11,6 @@ lng: -84.2900
 zipSample: ["40403", "40404"]
 zipCodes: ["40403", "40404"]
 localPaths: ["Madison County / primary ZIP 40404", "Madison County / ZIP 40404 sector", "Madison County / elevation 961 ft band", "Madison County / ZIP 40403 sector", "Madison County / coords 37.5900, -84.2900"]
-zillowHomeValueUsd: 252770
 ---
 
 **Engineering Notice for Berea:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Madison County.

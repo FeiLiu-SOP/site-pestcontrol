@@ -11,7 +11,6 @@ lng: -122.6000
 zipSample: ["98682", "98663", "98687", "98660", "98684"]
 zipCodes: ["98665", "98683", "98664", "98661", "98684", "98682", "98663", "98662", "98660", "98687"]
 localPaths: ["Clark County / ZIP 98684 sector", "Clark County / ZIP 98663 sector", "Clark County / ZIP 98687 sector", "Clark County / primary ZIP 98684", "Clark County / elevation 180 ft band"]
-zillowHomeValueUsd: 491639
 ---
 
 **Engineering Notice for Vancouver:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.

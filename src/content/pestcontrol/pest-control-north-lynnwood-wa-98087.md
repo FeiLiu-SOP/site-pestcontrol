@@ -11,7 +11,6 @@ lng: -122.2800
 zipSample: ["98087", "98037"]
 zipCodes: ["98037", "98087"]
 localPaths: ["Snohomish County / ZIP 98087 sector", "Snohomish County / ZIP 98037 sector", "Snohomish County / primary ZIP 98087", "Snohomish County / elevation 558 ft band", "Snohomish County / coords 47.8500, -122.2800"]
-zillowHomeValueUsd: 751088
 ---
 
 **Engineering Notice for North Lynnwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Snohomish County.

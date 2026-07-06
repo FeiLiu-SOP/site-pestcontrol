@@ -11,7 +11,6 @@ lng: -75.5200
 zipSample: ["19906", "19905", "19901", "19902", "19904"]
 zipCodes: ["19902", "19906", "19904", "19901", "19905"]
 localPaths: ["Kent County / elevation 13 ft band", "Kent County / ZIP 19904 sector", "Kent County / primary ZIP 19902", "Kent County / coords 39.1600, -75.5200", "Kent County / ZIP 19902 sector"]
-zillowHomeValueUsd: 341232
 ---
 
 **Engineering Notice for Dover:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kent County.

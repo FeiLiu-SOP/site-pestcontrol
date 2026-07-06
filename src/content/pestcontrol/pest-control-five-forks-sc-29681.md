@@ -11,7 +11,6 @@ lng: -82.2300
 zipSample: ["29681"]
 zipCodes: ["29681"]
 localPaths: ["Greenville County / primary ZIP 29681", "Greenville County / coords 34.8100, -82.2300", "Greenville County / ZIP 29681 sector", "Greenville County / elevation 876 ft band"]
-zillowHomeValueUsd: 402403
 ---
 
 **Engineering Notice for Five Forks:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Greenville County.

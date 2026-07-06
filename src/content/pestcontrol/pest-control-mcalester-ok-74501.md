@@ -11,7 +11,6 @@ lng: -95.7700
 zipSample: ["74501", "74502"]
 zipCodes: ["74501", "74502"]
 localPaths: ["Pittsburg County / ZIP 74502 sector", "Pittsburg County / ZIP 74501 sector", "Pittsburg County / elevation 758 ft band", "Pittsburg County / coords 34.9300, -95.7700", "Pittsburg County / primary ZIP 74501"]
-zillowHomeValueUsd: 152289
 ---
 
 **Engineering Notice for McAlester:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pittsburg County.

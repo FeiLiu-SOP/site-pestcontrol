@@ -11,7 +11,6 @@ lng: -117.3900
 zipSample: ["92377", "92376", "92316"]
 zipCodes: ["92376", "92316", "92377"]
 localPaths: ["San Bernardino County / primary ZIP 92316", "San Bernardino County / coords 34.1200, -117.3900", "San Bernardino County / elevation 1342 ft band", "San Bernardino County / ZIP 92376 sector", "San Bernardino County / ZIP 92316 sector"]
-zillowHomeValueUsd: 564814
 ---
 
 **Engineering Notice for Rialto:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.

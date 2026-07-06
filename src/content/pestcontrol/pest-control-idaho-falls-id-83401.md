@@ -11,7 +11,6 @@ lng: -112.0400
 zipSample: ["83402", "83415", "83404", "83401"]
 zipCodes: ["83402", "83401", "83415", "83404"]
 localPaths: ["Bonneville County / ZIP 83404 sector", "Bonneville County / ZIP 83401 sector", "Bonneville County / primary ZIP 83401", "Bonneville County / elevation 4715 ft band", "Bonneville County / ZIP 83415 sector"]
-zillowHomeValueUsd: 401235
 ---
 
 **Engineering Notice for Idaho Falls:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bonneville County.

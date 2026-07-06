@@ -11,7 +11,6 @@ lng: -121.7700
 zipSample: ["95019", "95077", "95076"]
 zipCodes: ["95076", "95077", "95019"]
 localPaths: ["Santa Cruz County / ZIP 95019 sector", "Santa Cruz County / ZIP 95076 sector", "Santa Cruz County / primary ZIP 95076", "Santa Cruz County / ZIP 95077 sector", "Santa Cruz County / elevation 66 ft band"]
-zillowHomeValueUsd: 839555
 ---
 
 **Engineering Notice for Watsonville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Cruz County.

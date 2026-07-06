@@ -11,7 +11,6 @@ lng: -87.9300
 zipSample: ["60070"]
 zipCodes: ["60070"]
 localPaths: ["Cook County / elevation 659 ft band", "Cook County / coords 42.1000, -87.9300", "Cook County / primary ZIP 60070", "Cook County / ZIP 60070 sector"]
-zillowHomeValueUsd: 366137
 ---
 
 **Engineering Notice for Prospect Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

@@ -7,11 +7,10 @@ zipCode: "49401"
 county: "Ottawa County"
 elevationFt: 610
 lat: 42.9800
-lng: -85.9500
+lng: -85.9200
 zipSample: ["49401"]
 zipCodes: ["49401"]
-localPaths: ["Ottawa County / elevation 610 ft band", "Ottawa County / coords 42.9800, -85.9500", "Ottawa County / ZIP 49401 sector", "Ottawa County / primary ZIP 49401"]
-zillowHomeValueUsd: 402564
+localPaths: ["Ottawa County / elevation 610 ft band", "Ottawa County / coords 42.9800, -85.9200", "Ottawa County / ZIP 49401 sector", "Ottawa County / primary ZIP 49401"]
 ---
 
 **Engineering Notice for Allendale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ottawa County.
@@ -45,6 +44,6 @@ Species trace 378615: re-entry interval label and conducive moisture note keyed 
 
 Intercept log 378615: bed bug intercept count staged before Allendale, MI interior gel zones.
 
-**Regional Infrastructure Brief:** Grid anchor set to Ottawa County. Reference elevation: 610 ft. Primary coordinates: 42.9800, -85.9500. ZIP sample: 49401. Regional routing note: Ottawa County traffic flow is balanced around ZIP 49401 service demand.
+**Regional Infrastructure Brief:** Grid anchor set to Ottawa County. Reference elevation: 610 ft. Primary coordinates: 42.9800, -85.9200. ZIP sample: 49401. Regional routing note: Ottawa County traffic flow is balanced around ZIP 49401 service demand.
 
 Service reference: MI-49401-6676a971

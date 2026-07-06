@@ -11,7 +11,6 @@ lng: -78.5100
 zipSample: ["27587", "27588"]
 zipCodes: ["27588", "27587"]
 localPaths: ["Wake County / coords 35.9600, -78.5100", "Wake County / elevation 348 ft band", "Wake County / ZIP 27587 sector", "Wake County / primary ZIP 27587", "Wake County / ZIP 27588 sector"]
-zillowHomeValueUsd: 512245
 ---
 
 **Engineering Notice for Wake Forest:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wake County.

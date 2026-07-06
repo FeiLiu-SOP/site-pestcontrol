@@ -11,7 +11,6 @@ lng: -73.4600
 zipSample: ["12901", "12903"]
 zipCodes: ["12903", "12901"]
 localPaths: ["Clinton County / coords 44.7000, -73.4600", "Clinton County / elevation 151 ft band", "Clinton County / primary ZIP 12903", "Clinton County / ZIP 12901 sector", "Clinton County / ZIP 12903 sector"]
-zillowHomeValueUsd: 235963
 ---
 
 **Engineering Notice for Plattsburgh:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clinton County.

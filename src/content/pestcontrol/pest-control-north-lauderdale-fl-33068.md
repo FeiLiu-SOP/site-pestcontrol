@@ -6,12 +6,11 @@ state: "FL"
 zipCode: "33068"
 county: "Broward County"
 elevationFt: 20
-lat: 26.2100
+lat: 26.2400
 lng: -80.2200
 zipSample: ["33068"]
 zipCodes: ["33068"]
-localPaths: ["Broward County / primary ZIP 33068", "Broward County / coords 26.2100, -80.2200", "Broward County / elevation 20 ft band", "Broward County / ZIP 33068 sector"]
-zillowHomeValueUsd: 358215
+localPaths: ["Broward County / primary ZIP 33068", "Broward County / coords 26.2400, -80.2200", "Broward County / elevation 20 ft band", "Broward County / ZIP 33068 sector"]
 ---
 
 **Engineering Notice for North Lauderdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.
@@ -47,6 +46,6 @@ Step: record station placement maps for follow-up visits.
 
 Intercept log 202970: bed bug intercept count staged before North Lauderdale, FL interior gel zones.
 
-Coordinate-anchored dispatch note: center reference 26.2100, -80.2200 at elevation ~20 ft aligns with Broward County intake staging.
+Coordinate-anchored dispatch note: center reference 26.2400, -80.2200 at elevation ~20 ft aligns with Broward County intake staging.
 
 Service reference: FL-33068-f7c58161

@@ -11,7 +11,6 @@ lng: -105.9800
 zipSample: ["87509", "87507", "87503", "87502", "87505"]
 zipCodes: ["87501", "87502", "87507", "87509", "87503", "87505"]
 localPaths: ["Santa Fe County / ZIP 87509 sector", "Santa Fe County / coords 35.6600, -105.9800", "Santa Fe County / ZIP 87505 sector", "Santa Fe County / ZIP 87507 sector", "Santa Fe County / ZIP 87502 sector"]
-zillowHomeValueUsd: 563386
 ---
 
 **Engineering Notice for Santa Fe:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Fe County.

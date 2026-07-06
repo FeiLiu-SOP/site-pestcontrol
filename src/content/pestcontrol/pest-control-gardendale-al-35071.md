@@ -11,7 +11,6 @@ lng: -86.8100
 zipSample: ["35071", "35119"]
 zipCodes: ["35071", "35119"]
 localPaths: ["Jefferson County / ZIP 35071 sector", "Jefferson County / elevation 607 ft band", "Jefferson County / ZIP 35119 sector", "Jefferson County / primary ZIP 35071", "Jefferson County / coords 33.6700, -86.8100"]
-zillowHomeValueUsd: 271338
 ---
 
 **Engineering Notice for Gardendale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.

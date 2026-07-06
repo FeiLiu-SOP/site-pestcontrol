@@ -11,7 +11,6 @@ lng: -86.4100
 zipSample: ["37127", "37128", "37132", "37133", "37131"]
 zipCodes: ["37128", "37130", "37127", "37129", "37132", "37133", "37131"]
 localPaths: ["Rutherford County / coords 35.8500, -86.4100", "Rutherford County / ZIP 37127 sector", "Rutherford County / primary ZIP 37132", "Rutherford County / ZIP 37128 sector", "Rutherford County / elevation 574 ft band"]
-zillowHomeValueUsd: 443864
 ---
 
 **Engineering Notice for Murfreesboro:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rutherford County.

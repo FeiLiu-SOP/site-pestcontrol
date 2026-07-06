@@ -11,7 +11,6 @@ lng: -93.2100
 zipSample: ["55434", "55449", "55014"]
 zipCodes: ["55434", "55449", "55014"]
 localPaths: ["Anoka County / primary ZIP 55014", "Anoka County / elevation 902 ft band", "Anoka County / ZIP 55014 sector", "Anoka County / ZIP 55434 sector", "Anoka County / coords 45.1700, -93.2100"]
-zillowHomeValueUsd: 375756
 ---
 
 **Engineering Notice for Blaine:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anoka County.

@@ -11,7 +11,6 @@ lng: -76.5000
 zipSample: ["21403", "21404", "21411", "21401"]
 zipCodes: ["21411", "21401", "21404", "21403"]
 localPaths: ["Anne Arundel County / ZIP 21401 sector", "Anne Arundel County / elevation 20 ft band", "Anne Arundel County / ZIP 21404 sector", "Anne Arundel County / ZIP 21403 sector", "Anne Arundel County / coords 38.9700, -76.5000"]
-zillowHomeValueUsd: 625114
 ---
 
 **Engineering Notice for Annapolis:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anne Arundel County.

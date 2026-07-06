@@ -11,7 +11,6 @@ lng: -87.8800
 zipSample: ["53405", "53126", "53406", "53402", "53108"]
 zipCodes: ["53402", "53126", "53404", "53405", "53108", "53406"]
 localPaths: ["Racine County / ZIP 53402 sector", "Racine County / ZIP 53406 sector", "Racine County / ZIP 53108 sector", "Racine County / ZIP 53126 sector", "Racine County / elevation 702 ft band"]
-zillowHomeValueUsd: 227110
 ---
 
 **Engineering Notice for Caledonia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Racine County.

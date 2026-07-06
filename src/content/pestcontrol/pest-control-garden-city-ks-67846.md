@@ -11,7 +11,6 @@ lng: -100.8500
 zipSample: ["67846"]
 zipCodes: ["67846"]
 localPaths: ["Finney County / coords 37.9800, -100.8500", "Finney County / elevation 2841 ft band", "Finney County / ZIP 67846 sector", "Finney County / primary ZIP 67846"]
-zillowHomeValueUsd: 233466
 ---
 
 **Engineering Notice for Garden City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Finney County.

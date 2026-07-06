@@ -11,7 +11,6 @@ lng: -121.5900
 zipSample: ["95020"]
 zipCodes: ["95020"]
 localPaths: ["Santa Clara County / ZIP 95020 sector", "Santa Clara County / coords 37.0000, -121.5900", "Santa Clara County / primary ZIP 95020", "Santa Clara County / elevation 210 ft band"]
-zillowHomeValueUsd: 1080093
 ---
 
 **Engineering Notice for Gilroy:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Clara County.

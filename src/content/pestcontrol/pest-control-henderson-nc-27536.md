@@ -11,7 +11,6 @@ lng: -78.4200
 zipSample: ["27536"]
 zipCodes: ["27536"]
 localPaths: ["Vance County / elevation 469 ft band", "Vance County / coords 36.3300, -78.4200", "Vance County / ZIP 27536 sector", "Vance County / primary ZIP 27536"]
-zillowHomeValueUsd: 116815
 ---
 
 **Engineering Notice for Henderson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Vance County.

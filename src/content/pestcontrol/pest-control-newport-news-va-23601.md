@@ -11,7 +11,6 @@ lng: -76.5200
 zipSample: ["23628", "23608", "23601", "23612", "23606"]
 zipCodes: ["23605", "23607", "23601", "23604", "23603", "23628", "23602", "23606", "23630", "23609", "23608", "23612"]
 localPaths: ["Newport News County / ZIP 23608 sector", "Newport News County / coords 37.1100, -76.5200", "Newport News County / ZIP 23601 sector", "Newport News County / primary ZIP 23601", "Newport News County / ZIP 23606 sector"]
-zillowHomeValueUsd: 292758
 ---
 
 **Engineering Notice for Newport News:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Newport News County.

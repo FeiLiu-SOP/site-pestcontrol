@@ -11,7 +11,6 @@ lng: -86.1000
 zipSample: ["35160", "35161"]
 zipCodes: ["35161", "35160"]
 localPaths: ["Talladega County / ZIP 35160 sector", "Talladega County / ZIP 35161 sector", "Talladega County / elevation 597 ft band", "Talladega County / coords 33.4300, -86.1000", "Talladega County / primary ZIP 35160"]
-zillowHomeValueUsd: 145140
 ---
 
 **Engineering Notice for Talladega:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Talladega County.

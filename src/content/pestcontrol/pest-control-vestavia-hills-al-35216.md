@@ -11,7 +11,6 @@ lng: -86.7400
 zipSample: ["35243", "35296", "35242", "35216", "35266"]
 zipCodes: ["35243", "35296", "35288", "35216", "35242", "35266"]
 localPaths: ["Jefferson County / ZIP 35216 sector", "Jefferson County / ZIP 35242 sector", "Jefferson County / coords 33.4500, -86.7400", "Jefferson County / ZIP 35296 sector", "Jefferson County / ZIP 35243 sector"]
-zillowHomeValueUsd: 411525
 ---
 
 **Engineering Notice for Vestavia Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.

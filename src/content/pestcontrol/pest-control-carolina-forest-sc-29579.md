@@ -11,7 +11,6 @@ lng: -78.9100
 zipSample: ["29579"]
 zipCodes: ["29579"]
 localPaths: ["Horry County / primary ZIP 29579", "Horry County / coords 33.7700, -78.9100", "Horry County / elevation 30 ft band", "Horry County / ZIP 29579 sector"]
-zillowHomeValueUsd: 354995
 ---
 
 **Engineering Notice for Carolina Forest:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Horry County.

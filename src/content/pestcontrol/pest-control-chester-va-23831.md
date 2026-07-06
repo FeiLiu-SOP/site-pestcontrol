@@ -11,7 +11,6 @@ lng: -77.4300
 zipSample: ["23831"]
 zipCodes: ["23831"]
 localPaths: ["Chesterfield County / ZIP 23831 sector", "Chesterfield County / coords 37.3500, -77.4300", "Chesterfield County / primary ZIP 23831", "Chesterfield County / elevation 187 ft band"]
-zillowHomeValueUsd: 379623
 ---
 
 **Engineering Notice for Chester:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Chesterfield County.

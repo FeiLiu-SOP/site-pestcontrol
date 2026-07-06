@@ -11,7 +11,6 @@ lng: -111.6200
 zipSample: ["84663"]
 zipCodes: ["84663"]
 localPaths: ["Utah County / elevation 4554 ft band", "Utah County / ZIP 84663 sector", "Utah County / coords 40.1600, -111.6200", "Utah County / primary ZIP 84663"]
-zillowHomeValueUsd: 509285
 ---
 
 **Engineering Notice for Springville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Utah County.

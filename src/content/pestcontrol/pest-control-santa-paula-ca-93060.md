@@ -11,7 +11,6 @@ lng: -119.0700
 zipSample: ["93061", "93060"]
 zipCodes: ["93060", "93061"]
 localPaths: ["Ventura County / elevation 295 ft band", "Ventura County / primary ZIP 93060", "Ventura County / ZIP 93060 sector", "Ventura County / coords 34.3500, -119.0700", "Ventura County / ZIP 93061 sector"]
-zillowHomeValueUsd: 716931
 ---
 
 **Engineering Notice for Santa Paula:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ventura County.

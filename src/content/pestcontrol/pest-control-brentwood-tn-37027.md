@@ -11,7 +11,6 @@ lng: -86.7800
 zipSample: ["37027", "37024"]
 zipCodes: ["37024", "37027"]
 localPaths: ["Williamson County / coords 35.9900, -86.7800", "Williamson County / ZIP 37027 sector", "Williamson County / primary ZIP 37027", "Williamson County / elevation 735 ft band", "Williamson County / ZIP 37024 sector"]
-zillowHomeValueUsd: 1222853
 ---
 
 **Engineering Notice for Brentwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Williamson County.

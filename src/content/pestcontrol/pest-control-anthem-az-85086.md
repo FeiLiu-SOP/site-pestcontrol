@@ -11,7 +11,6 @@ lng: -112.1200
 zipSample: ["85086"]
 zipCodes: ["85086"]
 localPaths: ["Maricopa County / primary ZIP 85086", "Maricopa County / elevation 1860 ft band", "Maricopa County / coords 33.8600, -112.1200", "Maricopa County / ZIP 85086 sector"]
-zillowHomeValueUsd: 624718
 ---
 
 **Engineering Notice for Anthem:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Maricopa County.

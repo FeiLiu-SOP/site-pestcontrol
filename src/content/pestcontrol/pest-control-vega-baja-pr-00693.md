@@ -11,8 +11,6 @@ lng: -66.4000
 zipSample: ["00693"]
 zipCodes: ["00693"]
 localPaths: ["Vega Baja County / elevation 243 ft band", "Vega Baja County / primary ZIP 00693", "Vega Baja County / coords 18.4400, -66.4000", "Vega Baja County / ZIP 00693 sector"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 383642
 ---
 
 **Engineering Notice for Vega Baja:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Vega Baja County.

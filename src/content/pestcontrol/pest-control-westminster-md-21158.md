@@ -11,7 +11,6 @@ lng: -77.0100
 zipSample: ["21158", "21157"]
 zipCodes: ["21158", "21157"]
 localPaths: ["Carroll County / ZIP 21157 sector", "Carroll County / elevation 781 ft band", "Carroll County / ZIP 21158 sector", "Carroll County / primary ZIP 21158", "Carroll County / coords 39.5800, -77.0100"]
-zillowHomeValueUsd: 471330
 ---
 
 **Engineering Notice for Westminster:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Carroll County.

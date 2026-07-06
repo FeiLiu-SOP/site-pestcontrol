@@ -11,7 +11,6 @@ lng: -96.9800
 zipSample: ["77905", "77904", "77902", "77901", "77903"]
 zipCodes: ["77902", "77903", "77905", "77901", "77904"]
 localPaths: ["Victoria County / ZIP 77905 sector", "Victoria County / coords 28.8300, -96.9800", "Victoria County / ZIP 77904 sector", "Victoria County / primary ZIP 77901", "Victoria County / ZIP 77903 sector"]
-zillowHomeValueUsd: 142808
 ---
 
 **Engineering Notice for Victoria:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Victoria County.

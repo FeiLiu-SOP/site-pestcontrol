@@ -11,7 +11,6 @@ lng: -86.5800
 zipSample: ["35173", "35235"]
 zipCodes: ["35235", "35173"]
 localPaths: ["Jefferson County / ZIP 35235 sector", "Jefferson County / primary ZIP 35235", "Jefferson County / elevation 804 ft band", "Jefferson County / ZIP 35173 sector", "Jefferson County / coords 33.6400, -86.5800"]
-zillowHomeValueUsd: 184993
 ---
 
 **Engineering Notice for Trussville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.

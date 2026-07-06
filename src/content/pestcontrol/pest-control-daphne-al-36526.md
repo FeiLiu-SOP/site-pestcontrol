@@ -11,7 +11,6 @@ lng: -87.8800
 zipSample: ["36526"]
 zipCodes: ["36526"]
 localPaths: ["Baldwin County / ZIP 36526 sector", "Baldwin County / primary ZIP 36526", "Baldwin County / elevation 125 ft band", "Baldwin County / coords 30.6300, -87.8800"]
-zillowHomeValueUsd: 326658
 ---
 
 **Engineering Notice for Daphne:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baldwin County.

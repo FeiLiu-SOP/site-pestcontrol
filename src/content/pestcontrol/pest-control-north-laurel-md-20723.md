@@ -11,7 +11,6 @@ lng: -76.8500
 zipSample: ["20723"]
 zipCodes: ["20723"]
 localPaths: ["Howard County / elevation 302 ft band", "Howard County / primary ZIP 20723", "Howard County / coords 39.1300, -76.8500", "Howard County / ZIP 20723 sector"]
-zillowHomeValueUsd: 587695
 ---
 
 **Engineering Notice for North Laurel:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Howard County.

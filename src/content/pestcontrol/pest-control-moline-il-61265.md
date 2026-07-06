@@ -11,7 +11,6 @@ lng: -90.4900
 zipSample: ["61265", "61266"]
 zipCodes: ["61265", "61266"]
 localPaths: ["Rock Island County / ZIP 61265 sector", "Rock Island County / primary ZIP 61265", "Rock Island County / ZIP 61266 sector", "Rock Island County / elevation 682 ft band", "Rock Island County / coords 41.4800, -90.4900"]
-zillowHomeValueUsd: 144196
 ---
 
 **Engineering Notice for Moline:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rock Island County.

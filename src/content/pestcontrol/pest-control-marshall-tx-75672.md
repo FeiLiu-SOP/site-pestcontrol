@@ -11,7 +11,6 @@ lng: -94.3500
 zipSample: ["75670", "75672"]
 zipCodes: ["75670", "75672"]
 localPaths: ["Harrison County / primary ZIP 75672", "Harrison County / elevation 354 ft band", "Harrison County / ZIP 75672 sector", "Harrison County / ZIP 75670 sector", "Harrison County / coords 32.5400, -94.3500"]
-zillowHomeValueUsd: 209917
 ---
 
 **Engineering Notice for Marshall:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harrison County.

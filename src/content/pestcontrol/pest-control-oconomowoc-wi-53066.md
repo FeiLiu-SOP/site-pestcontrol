@@ -11,7 +11,6 @@ lng: -88.4900
 zipSample: ["53066"]
 zipCodes: ["53066"]
 localPaths: ["Waukesha County / coords 43.1000, -88.4900", "Waukesha County / elevation 873 ft band", "Waukesha County / primary ZIP 53066", "Waukesha County / ZIP 53066 sector"]
-zillowHomeValueUsd: 567622
 ---
 
 **Engineering Notice for Oconomowoc:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Waukesha County.

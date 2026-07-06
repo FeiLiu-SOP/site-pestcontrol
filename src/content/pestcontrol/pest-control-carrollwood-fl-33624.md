@@ -11,7 +11,6 @@ lng: -82.5100
 zipSample: ["33618", "33624", "33688"]
 zipCodes: ["33688", "33618", "33624"]
 localPaths: ["Hillsborough County / coords 28.0600, -82.5100", "Hillsborough County / elevation 69 ft band", "Hillsborough County / primary ZIP 33624", "Hillsborough County / ZIP 33618 sector", "Hillsborough County / ZIP 33688 sector"]
-zillowHomeValueUsd: 410808
 ---
 
 **Engineering Notice for Carrollwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.

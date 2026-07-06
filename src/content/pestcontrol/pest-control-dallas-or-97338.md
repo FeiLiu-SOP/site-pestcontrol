@@ -11,7 +11,6 @@ lng: -123.3100
 zipSample: ["97338"]
 zipCodes: ["97338"]
 localPaths: ["Polk County / ZIP 97338 sector", "Polk County / elevation 322 ft band", "Polk County / primary ZIP 97338", "Polk County / coords 44.9200, -123.3100"]
-zillowHomeValueUsd: 473405
 ---
 
 **Engineering Notice for Dallas:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Polk County.

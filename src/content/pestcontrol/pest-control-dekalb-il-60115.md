@@ -11,7 +11,6 @@ lng: -88.7500
 zipSample: ["60115"]
 zipCodes: ["60115"]
 localPaths: ["DeKalb County / ZIP 60115 sector", "DeKalb County / primary ZIP 60115", "DeKalb County / elevation 889 ft band", "DeKalb County / coords 41.9300, -88.7500"]
-zillowHomeValueUsd: 252754
 ---
 
 **Engineering Notice for DeKalb:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeKalb County.

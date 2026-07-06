@@ -11,7 +11,6 @@ lng: -118.1300
 zipSample: ["91104", "91001", "91003"]
 zipCodes: ["91104", "91001", "91003"]
 localPaths: ["Los Angeles County / ZIP 91104 sector", "Los Angeles County / primary ZIP 91104", "Los Angeles County / elevation 1430 ft band", "Los Angeles County / ZIP 91003 sector", "Los Angeles County / coords 34.1900, -118.1300"]
-zillowHomeValueUsd: 1226163
 ---
 
 **Engineering Notice for Altadena:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

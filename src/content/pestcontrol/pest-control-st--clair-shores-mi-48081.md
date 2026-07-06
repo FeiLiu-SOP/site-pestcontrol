@@ -11,7 +11,6 @@ lng: -82.9000
 zipSample: ["48090", "48082", "48080", "48081"]
 zipCodes: ["48081", "48080", "48090", "48082"]
 localPaths: ["Macomb County / primary ZIP 48081", "Macomb County / coords 42.4900, -82.9000", "Macomb County / ZIP 48080 sector", "Macomb County / ZIP 48090 sector", "Macomb County / elevation 597 ft band"]
-zillowHomeValueUsd: 238810
 ---
 
 **Engineering Notice for St. Clair Shores:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Macomb County.

@@ -11,7 +11,6 @@ lng: -76.9500
 zipSample: ["20781", "20788", "20782"]
 zipCodes: ["20781", "20782", "20788"]
 localPaths: ["Prince George's County / ZIP 20788 sector", "Prince George's County / elevation 148 ft band", "Prince George's County / ZIP 20782 sector", "Prince George's County / primary ZIP 20781", "Prince George's County / ZIP 20781 sector"]
-zillowHomeValueUsd: 434828
 ---
 
 **Engineering Notice for Hyattsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince George's County.

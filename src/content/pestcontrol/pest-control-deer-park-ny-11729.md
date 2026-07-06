@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11729"
 county: "Suffolk County"
 elevationFt: 82
-lat: 40.7600
-lng: -73.3200
+lat: 40.7705
+lng: -73.3500
 zipSample: ["11729"]
 zipCodes: ["11729"]
-localPaths: ["Suffolk County / coords 40.7600, -73.3200", "Suffolk County / primary ZIP 11729", "Suffolk County / elevation 82 ft band", "Suffolk County / ZIP 11729 sector"]
-zillowHomeValueUsd: 639022
+localPaths: ["Suffolk County / coords 40.7705, -73.3500", "Suffolk County / primary ZIP 11729", "Suffolk County / elevation 82 ft band", "Suffolk County / ZIP 11729 sector"]
 ---
 
 **Engineering Notice for Deer Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
@@ -43,6 +42,6 @@ Attic insulation disturbance in Deer Park, NY may indicate wildlife nesting rout
 
 Perimeter dossier 417320: bait station anchor map and mulch bridge risk flagged for Deer Park, NY county Suffolk County (ZIP 11729).
 
-On-site sector marker: Suffolk County / coords 40.7600, -73.3200 — logged for map parity and ZIP-corridor verification.
+On-site sector marker: Suffolk County / coords 40.7705, -73.3500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11729-1c96a33b

@@ -11,7 +11,6 @@ lng: -123.1100
 zipSample: ["97116"]
 zipCodes: ["97116"]
 localPaths: ["Washington County / primary ZIP 97116", "Washington County / coords 45.5200, -123.1100", "Washington County / elevation 194 ft band", "Washington County / ZIP 97116 sector"]
-zillowHomeValueUsd: 526968
 ---
 
 **Engineering Notice for Forest Grove:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.

@@ -11,7 +11,6 @@ lng: -102.7900
 zipSample: ["58602", "58601"]
 zipCodes: ["58601", "58602"]
 localPaths: ["Stark County / elevation 2467 ft band", "Stark County / ZIP 58601 sector", "Stark County / coords 46.8900, -102.7900", "Stark County / primary ZIP 58601", "Stark County / ZIP 58602 sector"]
-zillowHomeValueUsd: 319286
 ---
 
 **Engineering Notice for Dickinson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Stark County.

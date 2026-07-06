@@ -11,7 +11,6 @@ lng: -87.8600
 zipSample: ["60161", "60160"]
 zipCodes: ["60160", "60161"]
 localPaths: ["Cook County / ZIP 60161 sector", "Cook County / primary ZIP 60160", "Cook County / coords 41.9000, -87.8600", "Cook County / elevation 643 ft band", "Cook County / ZIP 60160 sector"]
-zillowHomeValueUsd: 311353
 ---
 
 **Engineering Notice for Melrose Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

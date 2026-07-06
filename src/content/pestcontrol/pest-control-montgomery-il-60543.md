@@ -11,7 +11,6 @@ lng: -88.3600
 zipSample: ["60506", "60543", "60538"]
 zipCodes: ["60506", "60538", "60543"]
 localPaths: ["Kane County / coords 41.7200, -88.3600", "Kane County / primary ZIP 60543", "Kane County / elevation 663 ft band", "Kane County / ZIP 60506 sector", "Kane County / ZIP 60543 sector"]
-zillowHomeValueUsd: 416626
 ---
 
 **Engineering Notice for Montgomery:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kane County.

@@ -11,7 +11,6 @@ lng: -97.9100
 zipSample: ["76522"]
 zipCodes: ["76522"]
 localPaths: ["Coryell County / coords 31.1200, -97.9100", "Coryell County / primary ZIP 76522", "Coryell County / ZIP 76522 sector", "Coryell County / elevation 1129 ft band"]
-zillowHomeValueUsd: 223556
 ---
 
 **Engineering Notice for Copperas Cove:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Coryell County.

@@ -11,7 +11,6 @@ lng: -82.7900
 zipSample: ["43069", "43068"]
 zipCodes: ["43068", "43069"]
 localPaths: ["Franklin County / ZIP 43068 sector", "Franklin County / ZIP 43069 sector", "Franklin County / primary ZIP 43068", "Franklin County / coords 39.9600, -82.7900", "Franklin County / elevation 892 ft band"]
-zillowHomeValueUsd: 295311
 ---
 
 **Engineering Notice for Reynoldsburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Franklin County.

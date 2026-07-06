@@ -11,7 +11,6 @@ lng: -89.7000
 zipSample: ["38027", "38017", "38139"]
 zipCodes: ["38139", "38027", "38017"]
 localPaths: ["Shelby County / ZIP 38017 sector", "Shelby County / elevation 361 ft band", "Shelby County / ZIP 38027 sector", "Shelby County / ZIP 38139 sector", "Shelby County / primary ZIP 38017"]
-zillowHomeValueUsd: 512197
 ---
 
 **Engineering Notice for Collierville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Shelby County.

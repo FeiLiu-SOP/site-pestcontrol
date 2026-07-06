@@ -11,7 +11,6 @@ lng: -76.7700
 zipSample: ["21043", "21075"]
 zipCodes: ["21043", "21075"]
 localPaths: ["Howard County / elevation 361 ft band", "Howard County / primary ZIP 21043", "Howard County / coords 39.2200, -76.7700", "Howard County / ZIP 21075 sector", "Howard County / ZIP 21043 sector"]
-zillowHomeValueUsd: 637969
 ---
 
 **Engineering Notice for Ilchester:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Howard County.

@@ -11,7 +11,6 @@ lng: -88.4100
 zipSample: ["39702", "39701", "39705"]
 zipCodes: ["39702", "39701", "39705"]
 localPaths: ["Lowndes County / elevation 180 ft band", "Lowndes County / ZIP 39701 sector", "Lowndes County / coords 33.5100, -88.4100", "Lowndes County / ZIP 39702 sector", "Lowndes County / primary ZIP 39702"]
-zillowHomeValueUsd: 173305
 ---
 
 **Engineering Notice for Columbus:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lowndes County.

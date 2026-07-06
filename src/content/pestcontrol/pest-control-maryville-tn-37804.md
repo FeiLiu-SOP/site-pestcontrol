@@ -11,7 +11,6 @@ lng: -83.9800
 zipSample: ["37801", "37803", "37802", "37804"]
 zipCodes: ["37802", "37801", "37803", "37804"]
 localPaths: ["Blount County / ZIP 37804 sector", "Blount County / ZIP 37803 sector", "Blount County / ZIP 37801 sector", "Blount County / primary ZIP 37804", "Blount County / ZIP 37802 sector"]
-zillowHomeValueUsd: 352352
 ---
 
 **Engineering Notice for Maryville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Blount County.

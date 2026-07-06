@@ -11,7 +11,6 @@ lng: -77.2600
 zipSample: ["22153", "22009", "22152", "22015"]
 zipCodes: ["22152", "22009", "22153", "22015"]
 localPaths: ["Fairfax County / ZIP 22153 sector", "Fairfax County / ZIP 22152 sector", "Fairfax County / ZIP 22015 sector", "Fairfax County / primary ZIP 22015", "Fairfax County / ZIP 22009 sector"]
-zillowHomeValueUsd: 733845
 ---
 
 **Engineering Notice for Burke:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.

@@ -7,11 +7,10 @@ zipCode: "60714"
 county: "Cook County"
 elevationFt: 653
 lat: 42.0300
-lng: -87.8100
+lng: -87.8400
 zipSample: ["60714", "60701"]
 zipCodes: ["60701", "60714"]
-localPaths: ["Cook County / elevation 653 ft band", "Cook County / ZIP 60701 sector", "Cook County / ZIP 60714 sector", "Cook County / coords 42.0300, -87.8100", "Cook County / primary ZIP 60714"]
-zillowHomeValueUsd: 398477
+localPaths: ["Cook County / elevation 653 ft band", "Cook County / ZIP 60701 sector", "Cook County / ZIP 60714 sector", "Cook County / coords 42.0300, -87.8400", "Cook County / primary ZIP 60714"]
 ---
 
 **Engineering Notice for Niles:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

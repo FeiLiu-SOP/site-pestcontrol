@@ -11,7 +11,6 @@ lng: -88.2600
 zipSample: ["54130"]
 zipCodes: ["54130"]
 localPaths: ["Outagamie County / elevation 636 ft band", "Outagamie County / primary ZIP 54130", "Outagamie County / ZIP 54130 sector", "Outagamie County / coords 44.2800, -88.2600"]
-zillowHomeValueUsd: 335243
 ---
 
 **Engineering Notice for Kaukauna:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Outagamie County.

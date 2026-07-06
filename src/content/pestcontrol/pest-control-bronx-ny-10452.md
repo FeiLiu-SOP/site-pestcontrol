@@ -11,7 +11,6 @@ lng: -73.8700
 zipSample: ["10473", "10465", "10470", "10466", "10454"]
 zipCodes: ["10459", "10461", "10465", "10458", "10453", "10463", "10455", "10454", "10456", "10451", "10460", "10457"]
 localPaths: ["Bronx County / primary ZIP 10452", "Bronx County / elevation 62 ft band", "Bronx County / coords 40.8500, -73.8700", "Bronx County / ZIP 10470 sector", "Bronx County / ZIP 10454 sector"]
-zillowHomeValueUsd: 319068
 ---
 
 **Engineering Notice for Bronx:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bronx County.

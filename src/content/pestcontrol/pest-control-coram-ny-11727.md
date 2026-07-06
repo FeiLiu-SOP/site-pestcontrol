@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11727"
 county: "Suffolk County"
 elevationFt: 108
-lat: 40.8800
-lng: -73.0100
+lat: 40.8905
+lng: -73.0400
 zipSample: ["11784", "11727", "11776"]
 zipCodes: ["11727", "11776", "11784"]
-localPaths: ["Suffolk County / primary ZIP 11727", "Suffolk County / coords 40.8800, -73.0100", "Suffolk County / ZIP 11727 sector", "Suffolk County / ZIP 11776 sector", "Suffolk County / ZIP 11784 sector"]
-zillowHomeValueUsd: 547372
+localPaths: ["Suffolk County / primary ZIP 11727", "Suffolk County / coords 40.8905, -73.0400", "Suffolk County / ZIP 11727 sector", "Suffolk County / ZIP 11776 sector", "Suffolk County / ZIP 11784 sector"]
 ---
 
 **Engineering Notice for Coram:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
@@ -47,6 +46,6 @@ Species trace 994953: re-entry interval label and conducive moisture note keyed 
 
 Intercept log 994953: bed bug intercept count staged before Coram, NY interior gel zones.
 
-**Regional Infrastructure Brief:** Terrain baseline indicates ~108 ft across the Suffolk County area. Coordinates: 40.8800, -73.0100. ZIP sample: 11727, 11776, 11784. Regional routing note: Suffolk County traffic flow is balanced around ZIP 11727 service demand.
+**Regional Infrastructure Brief:** Terrain baseline indicates ~108 ft across the Suffolk County area. Coordinates: 40.8905, -73.0400. ZIP sample: 11727, 11776, 11784. Regional routing note: Suffolk County traffic flow is balanced around ZIP 11727 service demand.
 
 Service reference: NY-11727-55f37f36

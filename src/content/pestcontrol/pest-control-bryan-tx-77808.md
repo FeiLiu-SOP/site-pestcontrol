@@ -11,7 +11,6 @@ lng: -96.3800
 zipSample: ["77801", "77803", "77805", "77802", "77808"]
 zipCodes: ["77805", "77802", "77807", "77803", "77801", "77806", "77808"]
 localPaths: ["Brazos County / ZIP 77805 sector", "Brazos County / primary ZIP 77808", "Brazos County / elevation 358 ft band", "Brazos County / ZIP 77803 sector", "Brazos County / ZIP 77802 sector"]
-zillowHomeValueUsd: 426178
 ---
 
 **Engineering Notice for Bryan:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brazos County.

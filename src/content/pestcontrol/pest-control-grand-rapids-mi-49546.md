@@ -7,11 +7,10 @@ zipCode: "49546"
 county: "Kent County"
 elevationFt: 748
 lat: 42.9600
-lng: -85.6600
+lng: -85.6300
 zipSample: ["49523", "49508", "49546", "49501", "49599"]
 zipCodes: ["49555", "49508", "49505", "49503", "49506", "49507", "49501", "49514", "49599", "49546", "49588", "49502"]
-localPaths: ["Kent County / ZIP 49546 sector", "Kent County / ZIP 49501 sector", "Kent County / ZIP 49508 sector", "Kent County / coords 42.9600, -85.6600", "Kent County / elevation 748 ft band"]
-zillowHomeValueUsd: 501042
+localPaths: ["Kent County / ZIP 49546 sector", "Kent County / ZIP 49501 sector", "Kent County / ZIP 49508 sector", "Kent County / coords 42.9600, -85.6300", "Kent County / elevation 748 ft band"]
 ---
 
 **Engineering Notice for Grand Rapids:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kent County.

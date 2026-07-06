@@ -11,7 +11,6 @@ lng: -80.7000
 zipSample: ["26003"]
 zipCodes: ["26003"]
 localPaths: ["Ohio County / ZIP 26003 sector", "Ohio County / elevation 679 ft band", "Ohio County / coords 40.0800, -80.7000", "Ohio County / primary ZIP 26003"]
-zillowHomeValueUsd: 156583
 ---
 
 **Engineering Notice for Wheeling:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ohio County.

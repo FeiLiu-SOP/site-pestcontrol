@@ -11,7 +11,6 @@ lng: -78.6200
 zipSample: ["27529", "27699", "27603"]
 zipCodes: ["27699", "27529", "27603"]
 localPaths: ["Wake County / coords 35.6900, -78.6200", "Wake County / ZIP 27529 sector", "Wake County / primary ZIP 27529", "Wake County / ZIP 27603 sector", "Wake County / ZIP 27699 sector"]
-zillowHomeValueUsd: 386806
 ---
 
 **Engineering Notice for Garner:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wake County.

@@ -11,7 +11,6 @@ lng: -100.0200
 zipSample: ["67801"]
 zipCodes: ["67801"]
 localPaths: ["Ford County / coords 37.7600, -100.0200", "Ford County / elevation 2595 ft band", "Ford County / primary ZIP 67801", "Ford County / ZIP 67801 sector"]
-zillowHomeValueUsd: 209884
 ---
 
 **Engineering Notice for Dodge City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ford County.

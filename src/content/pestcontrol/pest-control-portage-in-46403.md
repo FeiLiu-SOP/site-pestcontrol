@@ -11,7 +11,6 @@ lng: -87.1800
 zipSample: ["46403", "46368"]
 zipCodes: ["46368", "46403"]
 localPaths: ["Porter County / ZIP 46403 sector", "Porter County / ZIP 46368 sector", "Porter County / elevation 676 ft band", "Porter County / coords 41.5900, -87.1800", "Porter County / primary ZIP 46403"]
-zillowHomeValueUsd: 148337
 ---
 
 **Engineering Notice for Portage:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Porter County.

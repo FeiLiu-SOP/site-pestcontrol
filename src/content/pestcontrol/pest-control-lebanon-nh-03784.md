@@ -11,7 +11,6 @@ lng: -72.2500
 zipSample: ["03784", "03756", "03766"]
 zipCodes: ["03784", "03756", "03766"]
 localPaths: ["Grafton County / ZIP 03766 sector", "Grafton County / ZIP 03784 sector", "Grafton County / ZIP 03756 sector", "Grafton County / coords 43.6400, -72.2500", "Grafton County / elevation 607 ft band"]
-zillowHomeValueUsd: 477922
 ---
 
 **Engineering Notice for Lebanon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Grafton County.

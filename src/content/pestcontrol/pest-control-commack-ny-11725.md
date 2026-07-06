@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11725"
 county: "Suffolk County"
 elevationFt: 151
-lat: 40.8400
-lng: -73.2800
+lat: 40.8505
+lng: -73.3100
 zipSample: ["11725", "11731"]
 zipCodes: ["11725", "11731"]
-localPaths: ["Suffolk County / ZIP 11725 sector", "Suffolk County / elevation 151 ft band", "Suffolk County / ZIP 11731 sector", "Suffolk County / coords 40.8400, -73.2800", "Suffolk County / primary ZIP 11725"]
-zillowHomeValueUsd: 791877
+localPaths: ["Suffolk County / ZIP 11725 sector", "Suffolk County / elevation 151 ft band", "Suffolk County / ZIP 11731 sector", "Suffolk County / coords 40.8505, -73.3100", "Suffolk County / primary ZIP 11725"]
 ---
 
 **Engineering Notice for Commack:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

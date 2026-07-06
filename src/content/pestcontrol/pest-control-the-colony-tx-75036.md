@@ -11,7 +11,6 @@ lng: -96.9000
 zipSample: ["75036", "75056"]
 zipCodes: ["75056", "75036"]
 localPaths: ["Denton County / elevation 551 ft band", "Denton County / coords 33.0900, -96.9000", "Denton County / ZIP 75036 sector", "Denton County / primary ZIP 75036", "Denton County / ZIP 75056 sector"]
-zillowHomeValueUsd: 567500
 ---
 
 **Engineering Notice for The Colony:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Denton County.

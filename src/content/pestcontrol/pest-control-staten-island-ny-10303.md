@@ -11,7 +11,6 @@ lng: -74.1500
 zipSample: ["10306", "10301", "10305", "10311", "10304"]
 zipCodes: ["10301", "10307", "10305", "10303", "10313", "10311", "10308", "10304", "10312", "10309", "10306", "10302"]
 localPaths: ["Richmond County / primary ZIP 10303", "Richmond County / ZIP 10305 sector", "Richmond County / ZIP 10301 sector", "Richmond County / ZIP 10304 sector", "Richmond County / elevation 174 ft band"]
-zillowHomeValueUsd: 547242
 ---
 
 **Engineering Notice for Staten Island:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Richmond County.

@@ -11,7 +11,6 @@ lng: -76.6900
 zipSample: ["21113", "21054"]
 zipCodes: ["21054", "21113"]
 localPaths: ["Anne Arundel County / ZIP 21054 sector", "Anne Arundel County / primary ZIP 21054", "Anne Arundel County / elevation 240 ft band", "Anne Arundel County / ZIP 21113 sector", "Anne Arundel County / coords 39.0700, -76.6900"]
-zillowHomeValueUsd: 613028
 ---
 
 **Engineering Notice for Odenton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anne Arundel County.

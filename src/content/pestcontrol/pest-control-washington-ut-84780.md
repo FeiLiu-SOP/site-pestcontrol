@@ -11,7 +11,6 @@ lng: -113.4900
 zipSample: ["84780", "84771"]
 zipCodes: ["84771", "84780"]
 localPaths: ["Washington County / ZIP 84771 sector", "Washington County / elevation 2841 ft band", "Washington County / ZIP 84780 sector", "Washington County / primary ZIP 84780", "Washington County / coords 37.1300, -113.4900"]
-zillowHomeValueUsd: 544572
 ---
 
 **Engineering Notice for Washington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.

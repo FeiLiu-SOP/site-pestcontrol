@@ -11,7 +11,6 @@ lng: -111.6200
 zipSample: ["85142", "85140"]
 zipCodes: ["85140", "85142"]
 localPaths: ["Maricopa County / primary ZIP 85142", "Maricopa County / ZIP 85142 sector", "Maricopa County / elevation 1414 ft band", "Maricopa County / ZIP 85140 sector", "Maricopa County / coords 33.2500, -111.6200"]
-zillowHomeValueUsd: 584329
 ---
 
 **Engineering Notice for Queen Creek:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Maricopa County.

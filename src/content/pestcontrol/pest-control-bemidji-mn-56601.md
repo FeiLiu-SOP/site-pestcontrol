@@ -11,7 +11,6 @@ lng: -94.8800
 zipSample: ["56619", "56601"]
 zipCodes: ["56601", "56619"]
 localPaths: ["Beltrami County / primary ZIP 56601", "Beltrami County / ZIP 56601 sector", "Beltrami County / ZIP 56619 sector", "Beltrami County / coords 47.4800, -94.8800", "Beltrami County / elevation 1378 ft band"]
-zillowHomeValueUsd: 279402
 ---
 
 **Engineering Notice for Bemidji:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Beltrami County.

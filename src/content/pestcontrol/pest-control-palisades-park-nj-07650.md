@@ -11,7 +11,6 @@ lng: -74.0000
 zipSample: ["07650"]
 zipCodes: ["07650"]
 localPaths: ["Bergen County / ZIP 07650 sector", "Bergen County / primary ZIP 07650", "Bergen County / elevation 115 ft band", "Bergen County / coords 40.8500, -74.0000"]
-zillowHomeValueUsd: 983983
 ---
 
 **Engineering Notice for Palisades Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bergen County.

@@ -11,7 +11,6 @@ lng: -97.4200
 zipSample: ["73034", "73007", "73003", "73013"]
 zipCodes: ["73007", "73003", "73034", "73013"]
 localPaths: ["Oklahoma County / elevation 1148 ft band", "Oklahoma County / coords 35.6700, -97.4200", "Oklahoma County / ZIP 73013 sector", "Oklahoma County / primary ZIP 73013", "Oklahoma County / ZIP 73007 sector"]
-zillowHomeValueUsd: 326233
 ---
 
 **Engineering Notice for Edmond:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oklahoma County.

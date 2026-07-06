@@ -11,7 +11,6 @@ lng: -97.4800
 zipSample: ["73160", "73153"]
 zipCodes: ["73160", "73153"]
 localPaths: ["Cleveland County / primary ZIP 73160", "Cleveland County / ZIP 73153 sector", "Cleveland County / elevation 1227 ft band", "Cleveland County / ZIP 73160 sector", "Cleveland County / coords 35.3300, -97.4800"]
-zillowHomeValueUsd: 223873
 ---
 
 **Engineering Notice for Moore:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cleveland County.

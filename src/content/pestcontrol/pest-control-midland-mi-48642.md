@@ -11,7 +11,6 @@ lng: -84.2300
 zipSample: ["48667", "48642", "48686", "48670", "48640"]
 zipCodes: ["48642", "48686", "48667", "48640", "48670"]
 localPaths: ["Midland County / ZIP 48686 sector", "Midland County / ZIP 48642 sector", "Midland County / ZIP 48670 sector", "Midland County / coords 43.6200, -84.2300", "Midland County / ZIP 48667 sector"]
-zillowHomeValueUsd: 247785
 ---
 
 **Engineering Notice for Midland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Midland County.

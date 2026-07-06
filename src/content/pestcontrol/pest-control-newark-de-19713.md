@@ -11,7 +11,6 @@ lng: -75.7600
 zipSample: ["19716", "19713", "19725", "19717", "19726"]
 zipCodes: ["19725", "19713", "19716", "19715", "19711", "19717", "19726"]
 localPaths: ["New Castle County / coords 39.6800, -75.7600", "New Castle County / ZIP 19726 sector", "New Castle County / primary ZIP 19713", "New Castle County / ZIP 19717 sector", "New Castle County / elevation 141 ft band"]
-zillowHomeValueUsd: 314938
 ---
 
 **Engineering Notice for Newark:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: New Castle County.

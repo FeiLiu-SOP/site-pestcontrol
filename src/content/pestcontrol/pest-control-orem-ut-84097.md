@@ -11,7 +11,6 @@ lng: -111.7000
 zipSample: ["84058", "84097", "84059", "84057"]
 zipCodes: ["84057", "84059", "84097", "84058"]
 localPaths: ["Utah County / ZIP 84057 sector", "Utah County / coords 40.3000, -111.7000", "Utah County / primary ZIP 84097", "Utah County / ZIP 84097 sector", "Utah County / ZIP 84058 sector"]
-zillowHomeValueUsd: 596534
 ---
 
 **Engineering Notice for Orem:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Utah County.

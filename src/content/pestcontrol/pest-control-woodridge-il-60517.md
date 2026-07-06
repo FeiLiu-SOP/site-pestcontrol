@@ -11,7 +11,6 @@ lng: -88.0400
 zipSample: ["60517"]
 zipCodes: ["60517"]
 localPaths: ["DuPage County / primary ZIP 60517", "DuPage County / ZIP 60517 sector", "DuPage County / elevation 758 ft band", "DuPage County / coords 41.7400, -88.0400"]
-zillowHomeValueUsd: 405874
 ---
 
 **Engineering Notice for Woodridge:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.

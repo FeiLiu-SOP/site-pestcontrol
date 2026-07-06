@@ -11,7 +11,6 @@ lng: -80.1700
 zipSample: ["33181", "33167", "33161", "33168", "33261"]
 zipCodes: ["33181", "33161", "33261", "33167", "33168", "33160"]
 localPaths: ["Miami-Dade County / ZIP 33161 sector", "Miami-Dade County / ZIP 33168 sector", "Miami-Dade County / ZIP 33181 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / primary ZIP 33167"]
-zillowHomeValueUsd: 462266
 ---
 
 **Engineering Notice for North Miami:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

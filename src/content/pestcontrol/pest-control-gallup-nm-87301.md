@@ -11,7 +11,6 @@ lng: -108.7400
 zipSample: ["87301"]
 zipCodes: ["87301"]
 localPaths: ["McKinley County / coords 35.5200, -108.7400", "McKinley County / elevation 6647 ft band", "McKinley County / primary ZIP 87301", "McKinley County / ZIP 87301 sector"]
-zillowHomeValueUsd: 222743
 ---
 
 **Engineering Notice for Gallup:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: McKinley County.

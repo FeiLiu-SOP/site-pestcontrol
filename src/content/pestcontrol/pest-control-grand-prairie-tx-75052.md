@@ -11,7 +11,6 @@ lng: -97.0200
 zipSample: ["75054", "75052", "75050", "75265", "75053"]
 zipCodes: ["75265", "75051", "75053", "75104", "75050", "75052", "75054"]
 localPaths: ["Dallas County / ZIP 75052 sector", "Dallas County / primary ZIP 75052", "Dallas County / ZIP 75054 sector", "Dallas County / elevation 535 ft band", "Dallas County / coords 32.6900, -97.0200"]
-zillowHomeValueUsd: 324305
 ---
 
 **Engineering Notice for Grand Prairie:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.

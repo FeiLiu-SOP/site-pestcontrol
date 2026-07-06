@@ -11,7 +11,6 @@ lng: -81.4400
 zipSample: ["32860", "32810", "32703"]
 zipCodes: ["32703", "32810", "32860"]
 localPaths: ["Orange County / ZIP 32860 sector", "Orange County / primary ZIP 32703", "Orange County / coords 28.6300, -81.4400", "Orange County / ZIP 32810 sector", "Orange County / ZIP 32703 sector"]
-zillowHomeValueUsd: 357319
 ---
 
 **Engineering Notice for Lockhart:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

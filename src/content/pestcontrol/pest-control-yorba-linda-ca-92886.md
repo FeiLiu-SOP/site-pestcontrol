@@ -11,7 +11,6 @@ lng: -117.7700
 zipSample: ["92885", "92887", "92886"]
 zipCodes: ["92887", "92885", "92886"]
 localPaths: ["Orange County / elevation 554 ft band", "Orange County / primary ZIP 92886", "Orange County / ZIP 92886 sector", "Orange County / ZIP 92885 sector", "Orange County / coords 33.8900, -117.7700"]
-zillowHomeValueUsd: 1378760
 ---
 
 **Engineering Notice for Yorba Linda:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

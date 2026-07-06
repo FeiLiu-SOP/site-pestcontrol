@@ -11,7 +11,6 @@ lng: -122.9400
 zipSample: ["97006", "97124", "97123", "97129"]
 zipCodes: ["97006", "97124", "97129", "97123"]
 localPaths: ["Washington County / coords 45.5300, -122.9400", "Washington County / primary ZIP 97006", "Washington County / ZIP 97123 sector", "Washington County / ZIP 97129 sector", "Washington County / ZIP 97124 sector"]
-zillowHomeValueUsd: 500872
 ---
 
 **Engineering Notice for Hillsboro:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.

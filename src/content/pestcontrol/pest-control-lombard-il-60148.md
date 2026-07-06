@@ -11,7 +11,6 @@ lng: -88.0200
 zipSample: ["60148"]
 zipCodes: ["60148"]
 localPaths: ["DuPage County / primary ZIP 60148", "DuPage County / coords 41.8700, -88.0200", "DuPage County / elevation 748 ft band", "DuPage County / ZIP 60148 sector"]
-zillowHomeValueUsd: 381222
 ---
 
 **Engineering Notice for Lombard:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.

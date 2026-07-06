@@ -11,7 +11,6 @@ lng: -73.0400
 zipSample: ["06703", "06706", "06704", "06725", "06726"]
 zipCodes: ["06725", "06724", "06710", "06705", "06703", "06720", "06723", "06708", "06701", "06726", "06704", "06721"]
 localPaths: ["Naugatuck Valley County / elevation 338 ft band", "Naugatuck Valley County / primary ZIP 06708", "Naugatuck Valley County / ZIP 06703 sector", "Naugatuck Valley County / coords 41.5600, -73.0400", "Naugatuck Valley County / ZIP 06726 sector"]
-zillowHomeValueUsd: 297132
 ---
 
 **Engineering Notice for Waterbury:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Naugatuck Valley County.

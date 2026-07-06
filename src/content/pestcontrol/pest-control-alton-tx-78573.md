@@ -11,7 +11,6 @@ lng: -98.3100
 zipSample: ["78573"]
 zipCodes: ["78573"]
 localPaths: ["Hidalgo County / elevation 174 ft band", "Hidalgo County / coords 26.2900, -98.3100", "Hidalgo County / primary ZIP 78573", "Hidalgo County / ZIP 78573 sector"]
-zillowHomeValueUsd: 216753
 ---
 
 **Engineering Notice for Alton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hidalgo County.

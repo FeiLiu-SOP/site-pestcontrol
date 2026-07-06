@@ -11,7 +11,6 @@ lng: -84.4500
 zipSample: ["41075"]
 zipCodes: ["41075"]
 localPaths: ["Campbell County / ZIP 41075 sector", "Campbell County / elevation 830 ft band", "Campbell County / primary ZIP 41075", "Campbell County / coords 39.0800, -84.4500"]
-zillowHomeValueUsd: 370008
 ---
 
 **Engineering Notice for Fort Thomas:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Campbell County.

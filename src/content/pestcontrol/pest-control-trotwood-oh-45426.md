@@ -11,7 +11,6 @@ lng: -84.3200
 zipSample: ["45426", "45417", "45416"]
 zipCodes: ["45426", "45417", "45416"]
 localPaths: ["Montgomery County / ZIP 45417 sector", "Montgomery County / ZIP 45426 sector", "Montgomery County / elevation 853 ft band", "Montgomery County / primary ZIP 45426", "Montgomery County / ZIP 45416 sector"]
-zillowHomeValueUsd: 167529
 ---
 
 **Engineering Notice for Trotwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

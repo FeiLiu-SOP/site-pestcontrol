@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11946"
 county: "Suffolk County"
 elevationFt: 20
-lat: 40.8700
-lng: -72.5200
+lat: 40.8805
+lng: -72.5500
 zipSample: ["11946"]
 zipCodes: ["11946"]
-localPaths: ["Suffolk County / ZIP 11946 sector", "Suffolk County / elevation 20 ft band", "Suffolk County / primary ZIP 11946", "Suffolk County / coords 40.8700, -72.5200"]
-zillowHomeValueUsd: 933942
+localPaths: ["Suffolk County / ZIP 11946 sector", "Suffolk County / elevation 20 ft band", "Suffolk County / primary ZIP 11946", "Suffolk County / coords 40.8805, -72.5500"]
 ---
 
 **Engineering Notice for Hampton Bays:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
@@ -45,7 +44,7 @@ Silverfish activity in Hampton Bays, NY attics tracks cardboard storage and ridg
 
 Step: map entry points with photo logs before sealing.
 
-Harbor ledger 169867: frass lane, mud-tube scan, and garage jamb gap measure filed for Hampton Bays, NY at 40.8700, -72.5200.
+Harbor ledger 169867: frass lane, mud-tube scan, and garage jamb gap measure filed for Hampton Bays, NY at 40.8805, -72.5500.
 
 Zone map 169867: attic insulation disturbance trace and pantry pest source logged for Hampton Bays, NY sector 11946.
 

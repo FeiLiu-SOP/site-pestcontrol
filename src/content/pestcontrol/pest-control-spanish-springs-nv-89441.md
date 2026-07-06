@@ -11,7 +11,6 @@ lng: -119.6700
 zipSample: ["89441", "89436"]
 zipCodes: ["89441", "89436"]
 localPaths: ["Washoe County / coords 39.6600, -119.6700", "Washoe County / ZIP 89436 sector", "Washoe County / primary ZIP 89441", "Washoe County / elevation 4738 ft band", "Washoe County / ZIP 89441 sector"]
-zillowHomeValueUsd: 696183
 ---
 
 **Engineering Notice for Spanish Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washoe County.

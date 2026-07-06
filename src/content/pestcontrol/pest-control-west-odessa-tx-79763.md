@@ -11,7 +11,6 @@ lng: -102.5000
 zipSample: ["79763", "79764", "79760"]
 zipCodes: ["79760", "79764", "79763"]
 localPaths: ["Ector County / coords 31.8400, -102.5000", "Ector County / ZIP 79764 sector", "Ector County / ZIP 79763 sector", "Ector County / primary ZIP 79763", "Ector County / elevation 2963 ft band"]
-zillowHomeValueUsd: 215076
 ---
 
 **Engineering Notice for West Odessa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ector County.

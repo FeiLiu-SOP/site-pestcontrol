@@ -11,7 +11,6 @@ lng: -97.0800
 zipSample: ["76040", "75261", "76039"]
 zipCodes: ["76039", "75261", "76040"]
 localPaths: ["Tarrant County / ZIP 75261 sector", "Tarrant County / ZIP 76039 sector", "Tarrant County / ZIP 76040 sector", "Tarrant County / coords 32.8500, -97.0800", "Tarrant County / primary ZIP 76040"]
-zillowHomeValueUsd: 357210
 ---
 
 **Engineering Notice for Euless:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tarrant County.

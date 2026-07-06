@@ -11,7 +11,6 @@ lng: -87.1200
 zipSample: ["42301", "42304", "42303"]
 zipCodes: ["42303", "42304", "42301"]
 localPaths: ["Daviess County / ZIP 42301 sector", "Daviess County / ZIP 42303 sector", "Daviess County / primary ZIP 42301", "Daviess County / coords 37.7600, -87.1200", "Daviess County / ZIP 42304 sector"]
-zillowHomeValueUsd: 205712
 ---
 
 **Engineering Notice for Owensboro:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Daviess County.

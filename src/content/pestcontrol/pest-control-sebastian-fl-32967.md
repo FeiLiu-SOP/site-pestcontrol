@@ -11,7 +11,6 @@ lng: -80.4800
 zipSample: ["32978", "32958", "32967"]
 zipCodes: ["32967", "32958", "32978"]
 localPaths: ["Indian River County / ZIP 32958 sector", "Indian River County / primary ZIP 32967", "Indian River County / ZIP 32978 sector", "Indian River County / ZIP 32967 sector", "Indian River County / elevation 46 ft band"]
-zillowHomeValueUsd: 405604
 ---
 
 **Engineering Notice for Sebastian:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Indian River County.

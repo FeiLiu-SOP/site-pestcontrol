@@ -11,7 +11,6 @@ lng: -158.0100
 zipSample: ["96797"]
 zipCodes: ["96797"]
 localPaths: ["Honolulu County / coords 21.3900, -158.0100", "Honolulu County / elevation 43 ft band", "Honolulu County / ZIP 96797 sector", "Honolulu County / primary ZIP 96797"]
-zillowHomeValueUsd: 869112
 ---
 
 **Engineering Notice for Waipahu:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Honolulu County.

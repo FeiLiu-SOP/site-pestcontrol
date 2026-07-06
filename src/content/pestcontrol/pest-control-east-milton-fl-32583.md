@@ -11,7 +11,6 @@ lng: -86.9600
 zipSample: ["32583"]
 zipCodes: ["32583"]
 localPaths: ["Santa Rosa County / elevation 167 ft band", "Santa Rosa County / ZIP 32583 sector", "Santa Rosa County / primary ZIP 32583", "Santa Rosa County / coords 30.6200, -86.9600"]
-zillowHomeValueUsd: 288007
 ---
 
 **Engineering Notice for East Milton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Rosa County.

@@ -11,7 +11,6 @@ lng: -87.6000
 zipSample: ["60473"]
 zipCodes: ["60473"]
 localPaths: ["Cook County / elevation 614 ft band", "Cook County / ZIP 60473 sector", "Cook County / coords 41.6000, -87.6000", "Cook County / primary ZIP 60473"]
-zillowHomeValueUsd: 222996
 ---
 
 **Engineering Notice for South Holland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

@@ -11,7 +11,6 @@ lng: -100.8900
 zipSample: ["58554"]
 zipCodes: ["58554"]
 localPaths: ["Morton County / ZIP 58554 sector", "Morton County / primary ZIP 58554", "Morton County / coords 46.8300, -100.8900", "Morton County / elevation 1650 ft band"]
-zillowHomeValueUsd: 341733
 ---
 
 **Engineering Notice for Mandan:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Morton County.

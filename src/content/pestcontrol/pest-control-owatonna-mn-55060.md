@@ -11,7 +11,6 @@ lng: -93.2300
 zipSample: ["55060"]
 zipCodes: ["55060"]
 localPaths: ["Steele County / coords 44.0900, -93.2300", "Steele County / ZIP 55060 sector", "Steele County / primary ZIP 55060", "Steele County / elevation 1132 ft band"]
-zillowHomeValueUsd: 293936
 ---
 
 **Engineering Notice for Owatonna:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Steele County.

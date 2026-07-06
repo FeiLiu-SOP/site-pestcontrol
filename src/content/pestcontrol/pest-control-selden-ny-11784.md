@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11784"
 county: "Suffolk County"
 elevationFt: 121
-lat: 40.8700
-lng: -73.0500
+lat: 40.8805
+lng: -73.0800
 zipSample: ["11784"]
 zipCodes: ["11784"]
-localPaths: ["Suffolk County / elevation 121 ft band", "Suffolk County / primary ZIP 11784", "Suffolk County / ZIP 11784 sector", "Suffolk County / coords 40.8700, -73.0500"]
-zillowHomeValueUsd: 585543
+localPaths: ["Suffolk County / elevation 121 ft band", "Suffolk County / primary ZIP 11784", "Suffolk County / ZIP 11784 sector", "Suffolk County / coords 40.8805, -73.0800"]
 ---
 
 **Engineering Notice for Selden:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
@@ -43,6 +42,6 @@ About us: We pair identification, exclusion, and treatment zones with written re
 
 Perimeter dossier 181013: bait station anchor map and mulch bridge risk flagged for Selden, NY county Suffolk County (ZIP 11784).
 
-Coordinate-anchored dispatch note: center reference 40.8700, -73.0500 at elevation ~121 ft aligns with Suffolk County intake staging.
+Coordinate-anchored dispatch note: center reference 40.8805, -73.0800 at elevation ~121 ft aligns with Suffolk County intake staging.
 
 Service reference: NY-11784-41d00712

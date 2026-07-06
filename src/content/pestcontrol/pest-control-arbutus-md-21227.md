@@ -11,7 +11,6 @@ lng: -76.6900
 zipSample: ["21227"]
 zipCodes: ["21227"]
 localPaths: ["Baltimore County / primary ZIP 21227", "Baltimore County / elevation 85 ft band", "Baltimore County / ZIP 21227 sector", "Baltimore County / coords 39.2400, -76.6900"]
-zillowHomeValueUsd: 306567
 ---
 
 **Engineering Notice for Arbutus:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.

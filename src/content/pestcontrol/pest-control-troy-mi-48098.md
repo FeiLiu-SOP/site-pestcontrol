@@ -11,7 +11,6 @@ lng: -83.1500
 zipSample: ["48098", "48084", "48085", "48083", "48099"]
 zipCodes: ["48083", "48085", "48007", "48099", "48098", "48084"]
 localPaths: ["Oakland County / primary ZIP 48098", "Oakland County / elevation 689 ft band", "Oakland County / ZIP 48085 sector", "Oakland County / ZIP 48099 sector", "Oakland County / ZIP 48084 sector"]
-zillowHomeValueUsd: 583239
 ---
 
 **Engineering Notice for Troy:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oakland County.

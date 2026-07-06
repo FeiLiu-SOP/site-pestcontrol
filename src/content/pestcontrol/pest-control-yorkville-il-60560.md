@@ -11,7 +11,6 @@ lng: -88.4500
 zipSample: ["60512", "60560"]
 zipCodes: ["60560", "60512"]
 localPaths: ["Kendall County / ZIP 60512 sector", "Kendall County / primary ZIP 60560", "Kendall County / elevation 650 ft band", "Kendall County / coords 41.6600, -88.4500", "Kendall County / ZIP 60560 sector"]
-zillowHomeValueUsd: 400175
 ---
 
 **Engineering Notice for Yorkville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kendall County.

@@ -11,7 +11,6 @@ lng: -100.7700
 zipSample: ["58501", "58507", "58503", "58505", "58504"]
 zipCodes: ["58507", "58505", "58503", "58504", "58501"]
 localPaths: ["Burleigh County / primary ZIP 58505", "Burleigh County / ZIP 58504 sector", "Burleigh County / ZIP 58507 sector", "Burleigh County / elevation 1752 ft band", "Burleigh County / ZIP 58503 sector"]
-zillowHomeValueUsd: 448754
 ---
 
 **Engineering Notice for Bismarck:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Burleigh County.

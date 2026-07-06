@@ -11,7 +11,6 @@ lng: -87.4400
 zipSample: ["46307", "46375"]
 zipCodes: ["46307", "46375"]
 localPaths: ["Lake County / coords 41.4900, -87.4400", "Lake County / ZIP 46375 sector", "Lake County / ZIP 46307 sector", "Lake County / elevation 659 ft band", "Lake County / primary ZIP 46375"]
-zillowHomeValueUsd: 352719
 ---
 
 **Engineering Notice for Schererville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

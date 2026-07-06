@@ -11,7 +11,6 @@ lng: -97.6400
 zipSample: ["76548", "76513"]
 zipCodes: ["76513", "76548"]
 localPaths: ["Bell County / primary ZIP 76548", "Bell County / ZIP 76513 sector", "Bell County / elevation 830 ft band", "Bell County / ZIP 76548 sector", "Bell County / coords 31.0600, -97.6400"]
-zillowHomeValueUsd: 298941
 ---
 
 **Engineering Notice for Harker Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bell County.

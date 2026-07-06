@@ -11,7 +11,6 @@ lng: -71.4300
 zipSample: ["02888", "02887", "02886", "02818", "02889"]
 zipCodes: ["02887", "02889", "02886", "02888", "02818"]
 localPaths: ["Kent County / primary ZIP 02818", "Kent County / elevation 59 ft band", "Kent County / coords 41.7100, -71.4300", "Kent County / ZIP 02886 sector", "Kent County / ZIP 02887 sector"]
-zillowHomeValueUsd: 713193
 ---
 
 **Engineering Notice for Warwick:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kent County.

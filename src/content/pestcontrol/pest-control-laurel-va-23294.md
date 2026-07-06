@@ -11,7 +11,6 @@ lng: -77.5100
 zipSample: ["23294", "23228"]
 zipCodes: ["23228", "23294"]
 localPaths: ["Henrico County / coords 37.6400, -77.5100", "Henrico County / primary ZIP 23294", "Henrico County / ZIP 23294 sector", "Henrico County / ZIP 23228 sector", "Henrico County / elevation 233 ft band"]
-zillowHomeValueUsd: 360194
 ---
 
 **Engineering Notice for Laurel:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Henrico County.

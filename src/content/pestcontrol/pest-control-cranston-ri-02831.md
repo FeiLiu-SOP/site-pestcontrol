@@ -11,7 +11,6 @@ lng: -71.4900
 zipSample: ["02823", "02905", "02910", "02831", "02921"]
 zipCodes: ["02910", "02920", "02921", "02905", "02831", "02823"]
 localPaths: ["Providence County / primary ZIP 02831", "Providence County / elevation 157 ft band", "Providence County / ZIP 02910 sector", "Providence County / coords 41.7700, -71.4900", "Providence County / ZIP 02831 sector"]
-zillowHomeValueUsd: 571633
 ---
 
 **Engineering Notice for Cranston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Providence County.

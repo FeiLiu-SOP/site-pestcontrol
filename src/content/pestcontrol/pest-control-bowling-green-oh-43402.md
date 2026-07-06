@@ -11,7 +11,6 @@ lng: -83.6500
 zipSample: ["43403", "43402"]
 zipCodes: ["43403", "43402"]
 localPaths: ["Wood County / coords 41.3800, -83.6500", "Wood County / elevation 699 ft band", "Wood County / ZIP 43402 sector", "Wood County / primary ZIP 43402", "Wood County / ZIP 43403 sector"]
-zillowHomeValueUsd: 260866
 ---
 
 **Engineering Notice for Bowling Green:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wood County.

@@ -11,7 +11,6 @@ lng: -115.5600
 zipSample: ["92244", "92243"]
 zipCodes: ["92244", "92243"]
 localPaths: ["Imperial County / ZIP 92243 sector", "Imperial County / ZIP 92244 sector", "Imperial County / elevation -44 ft band", "Imperial County / coords 32.7900, -115.5600", "Imperial County / primary ZIP 92243"]
-zillowHomeValueUsd: 385299
 ---
 
 **Engineering Notice for El Centro:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Imperial County.

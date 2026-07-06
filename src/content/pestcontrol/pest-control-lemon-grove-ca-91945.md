@@ -11,7 +11,6 @@ lng: -117.0300
 zipSample: ["91945", "91946"]
 zipCodes: ["91945", "91946"]
 localPaths: ["San Diego County / primary ZIP 91945", "San Diego County / elevation 420 ft band", "San Diego County / ZIP 91946 sector", "San Diego County / ZIP 91945 sector", "San Diego County / coords 32.7300, -117.0300"]
-zillowHomeValueUsd: 762168
 ---
 
 **Engineering Notice for Lemon Grove:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.

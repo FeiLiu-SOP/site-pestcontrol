@@ -11,7 +11,6 @@ lng: -76.8000
 zipSample: ["21163", "21208", "21133"]
 zipCodes: ["21208", "21133", "21163"]
 localPaths: ["Baltimore County / coords 39.3700, -76.8000", "Baltimore County / elevation 591 ft band", "Baltimore County / ZIP 21133 sector", "Baltimore County / ZIP 21208 sector", "Baltimore County / ZIP 21163 sector"]
-zillowHomeValueUsd: 656620
 ---
 
 **Engineering Notice for Randallstown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.

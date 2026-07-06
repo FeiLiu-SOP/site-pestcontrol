@@ -11,7 +11,6 @@ lng: -118.0600
 zipSample: ["91780"]
 zipCodes: ["91780"]
 localPaths: ["Los Angeles County / primary ZIP 91780", "Los Angeles County / coords 34.1000, -118.0600", "Los Angeles County / elevation 387 ft band", "Los Angeles County / ZIP 91780 sector"]
-zillowHomeValueUsd: 1105313
 ---
 
 **Engineering Notice for Temple City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

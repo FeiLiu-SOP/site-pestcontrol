@@ -11,7 +11,6 @@ lng: -69.7300
 zipSample: ["04330", "04333", "04338", "04332", "04336"]
 zipCodes: ["04332", "04330", "04338", "04333", "04336"]
 localPaths: ["Kennebec County / ZIP 04338 sector", "Kennebec County / ZIP 04333 sector", "Kennebec County / ZIP 04332 sector", "Kennebec County / coords 44.3300, -69.7300", "Kennebec County / ZIP 04330 sector"]
-zillowHomeValueUsd: 285966
 ---
 
 **Engineering Notice for Augusta:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kennebec County.

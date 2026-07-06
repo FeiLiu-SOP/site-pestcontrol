@@ -11,7 +11,6 @@ lng: -114.3100
 zipSample: ["86403", "86404", "86406", "86405"]
 zipCodes: ["86405", "86404", "86406", "86403"]
 localPaths: ["Mohave County / primary ZIP 86403", "Mohave County / ZIP 86403 sector", "Mohave County / coords 34.5000, -114.3100", "Mohave County / elevation 948 ft band", "Mohave County / ZIP 86404 sector"]
-zillowHomeValueUsd: 387959
 ---
 
 **Engineering Notice for Lake Havasu City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Mohave County.

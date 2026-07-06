@@ -11,7 +11,6 @@ lng: -82.2000
 zipSample: ["34473"]
 zipCodes: ["34473"]
 localPaths: ["Marion County / ZIP 34473 sector", "Marion County / primary ZIP 34473", "Marion County / elevation 112 ft band", "Marion County / coords 29.0000, -82.2000"]
-zillowHomeValueUsd: 270127
 ---
 
 **Engineering Notice for Marion Oaks:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marion County.

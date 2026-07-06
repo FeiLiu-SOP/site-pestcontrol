@@ -11,7 +11,6 @@ lng: -117.6600
 zipSample: ["92690", "92692", "92691"]
 zipCodes: ["92690", "92692", "92691"]
 localPaths: ["Orange County / coords 33.6100, -117.6600", "Orange County / elevation 577 ft band", "Orange County / ZIP 92692 sector", "Orange County / ZIP 92691 sector", "Orange County / primary ZIP 92692"]
-zillowHomeValueUsd: 1226908
 ---
 
 **Engineering Notice for Mission Viejo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

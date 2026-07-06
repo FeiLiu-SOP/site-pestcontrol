@@ -11,7 +11,6 @@ lng: -118.2200
 zipSample: ["90255"]
 zipCodes: ["90255"]
 localPaths: ["Los Angeles County / primary ZIP 90255", "Los Angeles County / elevation 154 ft band", "Los Angeles County / coords 33.9700, -118.2200", "Los Angeles County / ZIP 90255 sector"]
-zillowHomeValueUsd: 675374
 ---
 
 **Engineering Notice for Walnut Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

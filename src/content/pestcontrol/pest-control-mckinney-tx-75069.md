@@ -11,7 +11,6 @@ lng: -96.6700
 zipSample: ["75070", "75069", "75071", "75072"]
 zipCodes: ["75070", "75071", "75069", "75072"]
 localPaths: ["Collin County / coords 33.2000, -96.6700", "Collin County / ZIP 75071 sector", "Collin County / ZIP 75070 sector", "Collin County / ZIP 75069 sector", "Collin County / primary ZIP 75069"]
-zillowHomeValueUsd: 418034
 ---
 
 **Engineering Notice for McKinney:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Collin County.

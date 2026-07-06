@@ -11,7 +11,6 @@ lng: -74.1100
 zipSample: ["07070"]
 zipCodes: ["07070"]
 localPaths: ["Bergen County / primary ZIP 07070", "Bergen County / elevation 72 ft band", "Bergen County / ZIP 07070 sector", "Bergen County / coords 40.8200, -74.1100"]
-zillowHomeValueUsd: 738679
 ---
 
 **Engineering Notice for Rutherford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bergen County.

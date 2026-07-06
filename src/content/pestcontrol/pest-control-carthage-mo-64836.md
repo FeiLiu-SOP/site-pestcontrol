@@ -11,7 +11,6 @@ lng: -94.3200
 zipSample: ["64836"]
 zipCodes: ["64836"]
 localPaths: ["Jasper County / ZIP 64836 sector", "Jasper County / primary ZIP 64836", "Jasper County / coords 37.1500, -94.3200", "Jasper County / elevation 1053 ft band"]
-zillowHomeValueUsd: 240368
 ---
 
 **Engineering Notice for Carthage:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jasper County.

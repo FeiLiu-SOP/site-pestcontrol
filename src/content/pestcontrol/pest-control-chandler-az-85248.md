@@ -11,7 +11,6 @@ lng: -111.8500
 zipSample: ["85226", "85225", "85246", "85249", "85224"]
 zipCodes: ["85246", "85225", "85286", "85248", "85226", "85249", "85224"]
 localPaths: ["Maricopa County / primary ZIP 85248", "Maricopa County / elevation 1214 ft band", "Maricopa County / ZIP 85224 sector", "Maricopa County / ZIP 85226 sector", "Maricopa County / ZIP 85246 sector"]
-zillowHomeValueUsd: 563057
 ---
 
 **Engineering Notice for Chandler:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Maricopa County.

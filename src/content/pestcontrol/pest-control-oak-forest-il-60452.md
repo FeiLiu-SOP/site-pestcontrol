@@ -11,7 +11,6 @@ lng: -87.7500
 zipSample: ["60452"]
 zipCodes: ["60452"]
 localPaths: ["Cook County / elevation 653 ft band", "Cook County / coords 41.6100, -87.7500", "Cook County / primary ZIP 60452", "Cook County / ZIP 60452 sector"]
-zillowHomeValueUsd: 287165
 ---
 
 **Engineering Notice for Oak Forest:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

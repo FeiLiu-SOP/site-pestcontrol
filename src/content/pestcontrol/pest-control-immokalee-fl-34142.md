@@ -11,7 +11,6 @@ lng: -81.4300
 zipSample: ["34142", "34143"]
 zipCodes: ["34143", "34142"]
 localPaths: ["Collier County / ZIP 34143 sector", "Collier County / primary ZIP 34142", "Collier County / coords 26.4300, -81.4300", "Collier County / ZIP 34142 sector", "Collier County / elevation 52 ft band"]
-zillowHomeValueUsd: 342516
 ---
 
 **Engineering Notice for Immokalee:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Collier County.

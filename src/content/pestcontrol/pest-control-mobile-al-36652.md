@@ -11,7 +11,6 @@ lng: -88.1200
 zipSample: ["36601", "36617", "36633", "36689", "36609"]
 zipCodes: ["36601", "36609", "36608", "36695", "36610", "36675", "36619", "36693", "36633", "36660", "36615", "36652"]
 localPaths: ["Mobile County / ZIP 36689 sector", "Mobile County / ZIP 36617 sector", "Mobile County / ZIP 36601 sector", "Mobile County / elevation 39 ft band", "Mobile County / coords 30.6800, -88.1200"]
-zillowHomeValueUsd: 275819
 ---
 
 **Engineering Notice for Mobile:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Mobile County.

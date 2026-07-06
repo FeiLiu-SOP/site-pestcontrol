@@ -11,7 +11,6 @@ lng: -93.2500
 zipSample: ["55421"]
 zipCodes: ["55421"]
 localPaths: ["Anoka County / elevation 909 ft band", "Anoka County / primary ZIP 55421", "Anoka County / ZIP 55421 sector", "Anoka County / coords 45.0500, -93.2500"]
-zillowHomeValueUsd: 297796
 ---
 
 **Engineering Notice for Columbia Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anoka County.

@@ -11,7 +11,6 @@ lng: -95.5100
 zipSample: ["77389", "77380", "77381", "77384", "77393"]
 zipCodes: ["77382", "77380", "77389", "77393", "77384", "77381"]
 localPaths: ["Montgomery County / ZIP 77393 sector", "Montgomery County / ZIP 77384 sector", "Montgomery County / elevation 194 ft band", "Montgomery County / coords 30.1700, -95.5100", "Montgomery County / ZIP 77380 sector"]
-zillowHomeValueUsd: 573742
 ---
 
 **Engineering Notice for The Woodlands:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

@@ -11,7 +11,6 @@ lng: -121.3200
 zipSample: ["95830", "95829", "95828"]
 zipCodes: ["95829", "95828", "95830"]
 localPaths: ["Sacramento County / ZIP 95828 sector", "Sacramento County / ZIP 95829 sector", "Sacramento County / primary ZIP 95830", "Sacramento County / coords 38.4700, -121.3200", "Sacramento County / ZIP 95830 sector"]
-zillowHomeValueUsd: 1011917
 ---
 
 **Engineering Notice for Vineyard:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sacramento County.

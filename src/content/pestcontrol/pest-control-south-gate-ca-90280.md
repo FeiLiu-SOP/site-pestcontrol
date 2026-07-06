@@ -11,7 +11,6 @@ lng: -118.1900
 zipSample: ["90280"]
 zipCodes: ["90280"]
 localPaths: ["Los Angeles County / ZIP 90280 sector", "Los Angeles County / primary ZIP 90280", "Los Angeles County / elevation 121 ft band", "Los Angeles County / coords 33.9400, -118.1900"]
-zillowHomeValueUsd: 700715
 ---
 
 **Engineering Notice for South Gate:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

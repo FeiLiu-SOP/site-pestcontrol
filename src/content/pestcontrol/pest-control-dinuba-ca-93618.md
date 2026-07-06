@@ -11,7 +11,6 @@ lng: -119.4000
 zipSample: ["93618"]
 zipCodes: ["93618"]
 localPaths: ["Tulare County / elevation 338 ft band", "Tulare County / coords 36.5500, -119.4000", "Tulare County / ZIP 93618 sector", "Tulare County / primary ZIP 93618"]
-zillowHomeValueUsd: 357667
 ---
 
 **Engineering Notice for Dinuba:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tulare County.

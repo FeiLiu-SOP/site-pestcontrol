@@ -11,7 +11,6 @@ lng: -87.9700
 zipSample: ["60048"]
 zipCodes: ["60048"]
 localPaths: ["Lake County / coords 42.2900, -87.9700", "Lake County / primary ZIP 60048", "Lake County / ZIP 60048 sector", "Lake County / elevation 692 ft band"]
-zillowHomeValueUsd: 608253
 ---
 
 **Engineering Notice for Libertyville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

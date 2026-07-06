@@ -11,7 +11,6 @@ lng: -74.2900
 zipSample: ["07728"]
 zipCodes: ["07728"]
 localPaths: ["Monmouth County / primary ZIP 07728", "Monmouth County / ZIP 07728 sector", "Monmouth County / coords 40.2300, -74.2900", "Monmouth County / elevation 154 ft band"]
-zillowHomeValueUsd: 635716
 ---
 
 **Engineering Notice for West Freehold:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Monmouth County.

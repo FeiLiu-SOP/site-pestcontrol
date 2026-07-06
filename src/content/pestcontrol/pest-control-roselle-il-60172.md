@@ -11,7 +11,6 @@ lng: -88.0900
 zipSample: ["60172"]
 zipCodes: ["60172"]
 localPaths: ["DuPage County / elevation 794 ft band", "DuPage County / ZIP 60172 sector", "DuPage County / primary ZIP 60172", "DuPage County / coords 41.9800, -88.0900"]
-zillowHomeValueUsd: 374400
 ---
 
 **Engineering Notice for Roselle:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.

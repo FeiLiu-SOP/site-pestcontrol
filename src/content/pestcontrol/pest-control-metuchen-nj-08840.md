@@ -11,7 +11,6 @@ lng: -74.3600
 zipSample: ["08840"]
 zipCodes: ["08840"]
 localPaths: ["Middlesex County / ZIP 08840 sector", "Middlesex County / coords 40.5400, -74.3600", "Middlesex County / primary ZIP 08840", "Middlesex County / elevation 98 ft band"]
-zillowHomeValueUsd: 682592
 ---
 
 **Engineering Notice for Metuchen:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.

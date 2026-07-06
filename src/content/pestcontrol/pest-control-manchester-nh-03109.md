@@ -11,7 +11,6 @@ lng: -71.4400
 zipSample: ["03109", "03101", "03102", "03108", "03104"]
 zipCodes: ["03109", "03103", "03105", "03104", "03102", "03108", "03101", "03111"]
 localPaths: ["Hillsborough County / ZIP 03108 sector", "Hillsborough County / ZIP 03102 sector", "Hillsborough County / ZIP 03109 sector", "Hillsborough County / coords 42.9800, -71.4400", "Hillsborough County / primary ZIP 03109"]
-zillowHomeValueUsd: 461136
 ---
 
 **Engineering Notice for Manchester:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.

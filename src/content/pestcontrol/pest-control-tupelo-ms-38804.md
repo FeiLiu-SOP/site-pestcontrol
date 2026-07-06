@@ -11,7 +11,6 @@ lng: -88.7300
 zipSample: ["38803", "38802", "38826", "38804", "38801"]
 zipCodes: ["38803", "38804", "38801", "38826", "38802"]
 localPaths: ["Lee County / ZIP 38802 sector", "Lee County / primary ZIP 38804", "Lee County / ZIP 38803 sector", "Lee County / ZIP 38801 sector", "Lee County / elevation 285 ft band"]
-zillowHomeValueUsd: 193090
 ---
 
 **Engineering Notice for Tupelo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lee County.

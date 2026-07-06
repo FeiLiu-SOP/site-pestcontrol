@@ -11,7 +11,6 @@ lng: -85.5100
 zipSample: ["46750"]
 zipCodes: ["46750"]
 localPaths: ["Huntington County / elevation 794 ft band", "Huntington County / coords 40.8800, -85.5100", "Huntington County / primary ZIP 46750", "Huntington County / ZIP 46750 sector"]
-zillowHomeValueUsd: 191597
 ---
 
 **Engineering Notice for Huntington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Huntington County.

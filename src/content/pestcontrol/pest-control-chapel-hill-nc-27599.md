@@ -11,7 +11,6 @@ lng: -79.0400
 zipSample: ["27517", "27515", "27516", "27514", "27599"]
 zipCodes: ["27517", "27516", "27514", "27515", "27599"]
 localPaths: ["Orange County / ZIP 27517 sector", "Orange County / ZIP 27516 sector", "Orange County / ZIP 27599 sector", "Orange County / coords 35.9300, -79.0400", "Orange County / ZIP 27514 sector"]
-zillowHomeValueUsd: 642687
 ---
 
 **Engineering Notice for Chapel Hill:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

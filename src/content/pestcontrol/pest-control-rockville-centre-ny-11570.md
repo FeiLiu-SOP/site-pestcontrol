@@ -11,7 +11,6 @@ lng: -73.6400
 zipSample: ["11571", "11570"]
 zipCodes: ["11570", "11571"]
 localPaths: ["Nassau County / coords 40.6600, -73.6400", "Nassau County / ZIP 11570 sector", "Nassau County / primary ZIP 11570", "Nassau County / elevation 39 ft band", "Nassau County / ZIP 11571 sector"]
-zillowHomeValueUsd: 962632
 ---
 
 **Engineering Notice for Rockville Centre:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

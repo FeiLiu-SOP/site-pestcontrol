@@ -11,7 +11,6 @@ lng: -76.5200
 zipSample: ["21234"]
 zipCodes: ["21234"]
 localPaths: ["Baltimore County / primary ZIP 21234", "Baltimore County / ZIP 21234 sector", "Baltimore County / coords 39.4100, -76.5200", "Baltimore County / elevation 466 ft band"]
-zillowHomeValueUsd: 301675
 ---
 
 **Engineering Notice for Carney:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.

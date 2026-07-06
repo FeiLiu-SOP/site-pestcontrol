@@ -11,7 +11,6 @@ lng: -78.8800
 zipSample: ["29572", "29577", "29578"]
 zipCodes: ["29577", "29572", "29578"]
 localPaths: ["Horry County / ZIP 29572 sector", "Horry County / ZIP 29578 sector", "Horry County / ZIP 29577 sector", "Horry County / coords 33.7100, -78.8800", "Horry County / primary ZIP 29572"]
-zillowHomeValueUsd: 316464
 ---
 
 **Engineering Notice for Myrtle Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Horry County.

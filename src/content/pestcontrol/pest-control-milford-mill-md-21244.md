@@ -11,7 +11,7 @@ lng: -76.7700
 zipSample: ["21244"]
 zipCodes: ["21244"]
 localPaths: ["Baltimore County / coords 39.3400, -76.7700", "Baltimore County / ZIP 21244 sector", "Baltimore County / primary ZIP 21244", "Baltimore County / elevation 518 ft band"]
-zillowHomeValueUsd: 322126
+zillowHomeValueUsd: 322120
 ---
 
 **Engineering Notice for Milford Mill:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.

@@ -11,7 +11,6 @@ lng: -77.0900
 zipSample: ["22301", "22333", "20598", "22314", "22302"]
 zipCodes: ["22311", "22314", "22333", "20598", "22304", "22305", "22332", "22302", "22301", "22331", "22334", "22320"]
 localPaths: ["Alexandria County / ZIP 22301 sector", "Alexandria County / coords 38.8200, -77.0900", "Alexandria County / primary ZIP 22302", "Alexandria County / ZIP 22314 sector", "Alexandria County / ZIP 20598 sector"]
-zillowHomeValueUsd: 441848
 ---
 
 **Engineering Notice for Alexandria:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alexandria County.

@@ -11,7 +11,6 @@ lng: -92.9600
 zipSample: ["55128"]
 zipCodes: ["55128"]
 localPaths: ["Washington County / ZIP 55128 sector", "Washington County / elevation 1056 ft band", "Washington County / coords 44.9900, -92.9600", "Washington County / primary ZIP 55128"]
-zillowHomeValueUsd: 353747
 ---
 
 **Engineering Notice for Oakdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.

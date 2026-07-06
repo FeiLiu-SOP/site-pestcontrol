@@ -11,7 +11,6 @@ lng: -79.0900
 zipSample: ["27516", "27510"]
 zipCodes: ["27510", "27516"]
 localPaths: ["Orange County / ZIP 27510 sector", "Orange County / coords 35.9300, -79.0900", "Orange County / elevation 525 ft band", "Orange County / ZIP 27516 sector", "Orange County / primary ZIP 27516"]
-zillowHomeValueUsd: 604899
 ---
 
 **Engineering Notice for Carrboro:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

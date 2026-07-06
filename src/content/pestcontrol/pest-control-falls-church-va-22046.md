@@ -11,7 +11,6 @@ lng: -77.1800
 zipSample: ["22040", "22046"]
 zipCodes: ["22046", "22040"]
 localPaths: ["Falls Church County / primary ZIP 22046", "Falls Church County / elevation 338 ft band", "Falls Church County / ZIP 22046 sector", "Falls Church County / ZIP 22040 sector", "Falls Church County / coords 38.8800, -77.1800"]
-zillowHomeValueUsd: 1052494
 ---
 
 **Engineering Notice for Falls Church:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Falls Church County.

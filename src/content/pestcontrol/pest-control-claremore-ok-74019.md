@@ -11,7 +11,6 @@ lng: -95.6100
 zipSample: ["74019", "74017", "74018"]
 zipCodes: ["74018", "74017", "74019"]
 localPaths: ["Rogers County / ZIP 74017 sector", "Rogers County / elevation 627 ft band", "Rogers County / ZIP 74019 sector", "Rogers County / ZIP 74018 sector", "Rogers County / coords 36.3100, -95.6100"]
-zillowHomeValueUsd: 283757
 ---
 
 **Engineering Notice for Claremore:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rogers County.

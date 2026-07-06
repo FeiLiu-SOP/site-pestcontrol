@@ -11,7 +11,6 @@ lng: -82.6600
 zipSample: ["34655"]
 zipCodes: ["34655"]
 localPaths: ["Pasco County / ZIP 34655 sector", "Pasco County / elevation 43 ft band", "Pasco County / coords 28.1800, -82.6600", "Pasco County / primary ZIP 34655"]
-zillowHomeValueUsd: 378317
 ---
 
 **Engineering Notice for Trinity:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pasco County.

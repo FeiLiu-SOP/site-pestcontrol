@@ -11,7 +11,6 @@ lng: -122.3100
 zipSample: ["98043"]
 zipCodes: ["98043"]
 localPaths: ["Snohomish County / coords 47.7900, -122.3100", "Snohomish County / primary ZIP 98043", "Snohomish County / ZIP 98043 sector", "Snohomish County / elevation 495 ft band"]
-zillowHomeValueUsd: 699210
 ---
 
 **Engineering Notice for Mountlake Terrace:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Snohomish County.

@@ -11,7 +11,6 @@ lng: -122.1700
 zipSample: ["94309", "94304", "94305"]
 zipCodes: ["94305", "94309", "94304"]
 localPaths: ["Santa Clara County / ZIP 94305 sector", "Santa Clara County / coords 37.4300, -122.1700", "Santa Clara County / primary ZIP 94305", "Santa Clara County / ZIP 94309 sector", "Santa Clara County / ZIP 94304 sector"]
-zillowHomeValueUsd: 3346457
 ---
 
 **Engineering Notice for Stanford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Clara County.

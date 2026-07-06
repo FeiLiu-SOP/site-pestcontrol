@@ -11,7 +11,6 @@ lng: -78.9200
 zipSample: ["15905", "15907", "15906", "15902", "15901"]
 zipCodes: ["15905", "15907", "15902", "15901", "15906"]
 localPaths: ["Cambria County / ZIP 15901 sector", "Cambria County / ZIP 15906 sector", "Cambria County / ZIP 15907 sector", "Cambria County / coords 40.3300, -78.9200", "Cambria County / ZIP 15902 sector"]
-zillowHomeValueUsd: 42878
 ---
 
 **Engineering Notice for Johnstown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cambria County.

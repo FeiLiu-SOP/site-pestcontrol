@@ -11,7 +11,6 @@ lng: -158.0700
 zipSample: ["96707"]
 zipCodes: ["96707"]
 localPaths: ["Honolulu County / primary ZIP 96707", "Honolulu County / elevation 89 ft band", "Honolulu County / ZIP 96707 sector", "Honolulu County / coords 21.3400, -158.0700"]
-zillowHomeValueUsd: 860410
 ---
 
 **Engineering Notice for Kapolei:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Honolulu County.

@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11768"
 county: "Suffolk County"
 elevationFt: 243
-lat: 40.8800
-lng: -73.3200
+lat: 40.8905
+lng: -73.3500
 zipSample: ["11731", "11768"]
 zipCodes: ["11768", "11731"]
-localPaths: ["Suffolk County / coords 40.8800, -73.3200", "Suffolk County / primary ZIP 11768", "Suffolk County / ZIP 11731 sector", "Suffolk County / ZIP 11768 sector", "Suffolk County / elevation 243 ft band"]
-zillowHomeValueUsd: 945736
+localPaths: ["Suffolk County / coords 40.8905, -73.3500", "Suffolk County / primary ZIP 11768", "Suffolk County / ZIP 11731 sector", "Suffolk County / ZIP 11768 sector", "Suffolk County / elevation 243 ft band"]
 ---
 
 **Engineering Notice for East Northport:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
@@ -41,7 +40,7 @@ Step: verify attic access safety before insulation disturbance.
 
 Cluster fly attic staging in East Northport, NY peaks on south-facing voids after sunny thaw days.
 
-Exclusion audit 357920: exclusion mesh gauge and rodent runway grease mark reviewed for East Northport, NY at 40.8800/-73.3200.
+Exclusion audit 357920: exclusion mesh gauge and rodent runway grease mark reviewed for East Northport, NY at 40.8905/-73.3500.
 
 On-site sector marker: Suffolk County / ZIP 11768 sector — logged for map parity and ZIP-corridor verification.
 

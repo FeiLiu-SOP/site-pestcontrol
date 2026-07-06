@@ -11,7 +11,6 @@ lng: -98.4200
 zipSample: ["73506", "73507", "73501", "73505", "73502"]
 zipCodes: ["73505", "73506", "73502", "73503", "73501", "73507"]
 localPaths: ["Comanche County / ZIP 73507 sector", "Comanche County / ZIP 73502 sector", "Comanche County / ZIP 73505 sector", "Comanche County / ZIP 73506 sector", "Comanche County / elevation 1158 ft band"]
-zillowHomeValueUsd: 148844
 ---
 
 **Engineering Notice for Lawton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Comanche County.

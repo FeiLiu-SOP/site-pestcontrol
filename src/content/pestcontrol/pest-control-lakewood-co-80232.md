@@ -11,7 +11,6 @@ lng: -105.1200
 zipSample: ["80232", "80214", "80201", "80226", "80228"]
 zipCodes: ["80227", "80225", "80215", "80228", "80214", "80232", "80201", "80226", "80235"]
 localPaths: ["Jefferson County / ZIP 80201 sector", "Jefferson County / ZIP 80228 sector", "Jefferson County / ZIP 80226 sector", "Jefferson County / ZIP 80214 sector", "Jefferson County / primary ZIP 80232"]
-zillowHomeValueUsd: 535181
 ---
 
 **Engineering Notice for Lakewood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.

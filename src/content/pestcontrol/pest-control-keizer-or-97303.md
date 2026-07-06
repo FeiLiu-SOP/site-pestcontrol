@@ -11,7 +11,6 @@ lng: -123.0200
 zipSample: ["97303", "97307"]
 zipCodes: ["97307", "97303"]
 localPaths: ["Marion County / primary ZIP 97303", "Marion County / coords 45.0000, -123.0200", "Marion County / ZIP 97307 sector", "Marion County / ZIP 97303 sector", "Marion County / elevation 138 ft band"]
-zillowHomeValueUsd: 450614
 ---
 
 **Engineering Notice for Keizer:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marion County.

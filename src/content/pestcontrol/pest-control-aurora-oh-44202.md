@@ -11,7 +11,6 @@ lng: -81.3400
 zipSample: ["44202"]
 zipCodes: ["44202"]
 localPaths: ["Portage County / elevation 1145 ft band", "Portage County / primary ZIP 44202", "Portage County / coords 41.3100, -81.3400", "Portage County / ZIP 44202 sector"]
-zillowHomeValueUsd: 406804
 ---
 
 **Engineering Notice for Aurora:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Portage County.

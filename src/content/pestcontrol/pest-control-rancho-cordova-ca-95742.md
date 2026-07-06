@@ -11,7 +11,6 @@ lng: -121.2500
 zipSample: ["95827", "95742", "95670", "95741"]
 zipCodes: ["95827", "95741", "95670", "95742"]
 localPaths: ["Sacramento County / primary ZIP 95742", "Sacramento County / ZIP 95741 sector", "Sacramento County / coords 38.5700, -121.2500", "Sacramento County / ZIP 95670 sector", "Sacramento County / ZIP 95827 sector"]
-zillowHomeValueUsd: 621576
 ---
 
 **Engineering Notice for Rancho Cordova:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sacramento County.

@@ -11,7 +11,6 @@ lng: -97.1200
 zipSample: ["76096", "76003", "76018", "76004", "76005"]
 zipCodes: ["76006", "76012", "76001", "76096", "76010", "76016", "76002", "76005", "76004", "76017", "76013", "76011"]
 localPaths: ["Tarrant County / ZIP 76005 sector", "Tarrant County / ZIP 76003 sector", "Tarrant County / ZIP 76018 sector", "Tarrant County / ZIP 76096 sector", "Tarrant County / primary ZIP 76011"]
-zillowHomeValueUsd: 255687
 ---
 
 **Engineering Notice for Arlington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tarrant County.

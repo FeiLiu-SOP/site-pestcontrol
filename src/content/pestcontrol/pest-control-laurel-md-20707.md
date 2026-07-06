@@ -11,7 +11,6 @@ lng: -76.8600
 zipSample: ["20707", "20725", "20797"]
 zipCodes: ["20707", "20725", "20797"]
 localPaths: ["Prince George's County / ZIP 20797 sector", "Prince George's County / ZIP 20725 sector", "Prince George's County / ZIP 20707 sector", "Prince George's County / elevation 243 ft band", "Prince George's County / primary ZIP 20707"]
-zillowHomeValueUsd: 414265
 ---
 
 **Engineering Notice for Laurel:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince George's County.

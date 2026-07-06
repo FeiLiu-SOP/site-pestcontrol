@@ -11,7 +11,6 @@ lng: -84.8000
 zipSample: ["30120", "30121"]
 zipCodes: ["30121", "30120"]
 localPaths: ["Bartow County / ZIP 30121 sector", "Bartow County / ZIP 30120 sector", "Bartow County / primary ZIP 30121", "Bartow County / elevation 771 ft band", "Bartow County / coords 34.1600, -84.8000"]
-zillowHomeValueUsd: 314401
 ---
 
 **Engineering Notice for Cartersville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bartow County.

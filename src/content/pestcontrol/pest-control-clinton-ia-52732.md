@@ -11,7 +11,6 @@ lng: -90.2400
 zipSample: ["52736", "52734", "52733", "52732"]
 zipCodes: ["52734", "52736", "52733", "52732"]
 localPaths: ["Clinton County / ZIP 52736 sector", "Clinton County / ZIP 52733 sector", "Clinton County / coords 41.8400, -90.2400", "Clinton County / elevation 663 ft band", "Clinton County / ZIP 52732 sector"]
-zillowHomeValueUsd: 127179
 ---
 
 **Engineering Notice for Clinton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clinton County.

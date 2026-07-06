@@ -11,7 +11,6 @@ lng: -90.3200
 zipSample: ["63151", "63129"]
 zipCodes: ["63129", "63151"]
 localPaths: ["St. Louis County / ZIP 63151 sector", "St. Louis County / elevation 571 ft band", "St. Louis County / ZIP 63129 sector", "St. Louis County / coords 38.4500, -90.3200", "St. Louis County / primary ZIP 63129"]
-zillowHomeValueUsd: 340000
 ---
 
 **Engineering Notice for Oakville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.

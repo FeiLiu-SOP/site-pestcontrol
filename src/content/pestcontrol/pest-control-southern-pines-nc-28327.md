@@ -11,7 +11,6 @@ lng: -79.4000
 zipSample: ["28374", "28387", "28388", "28327"]
 zipCodes: ["28374", "28387", "28388", "28327"]
 localPaths: ["Moore County / ZIP 28387 sector", "Moore County / coords 35.1900, -79.4000", "Moore County / elevation 522 ft band", "Moore County / ZIP 28327 sector", "Moore County / ZIP 28374 sector"]
-zillowHomeValueUsd: 405835
 ---
 
 **Engineering Notice for Southern Pines:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Moore County.

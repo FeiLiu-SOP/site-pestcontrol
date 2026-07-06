@@ -11,7 +11,6 @@ lng: -96.7900
 zipSample: ["75154"]
 zipCodes: ["75154"]
 localPaths: ["Ellis County / primary ZIP 75154", "Ellis County / ZIP 75154 sector", "Ellis County / coords 32.5200, -96.7900", "Ellis County / elevation 597 ft band"]
-zillowHomeValueUsd: 350918
 ---
 
 **Engineering Notice for Red Oak:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ellis County.

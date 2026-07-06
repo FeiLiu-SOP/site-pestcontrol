@@ -11,7 +11,6 @@ lng: -117.0500
 zipSample: ["92311"]
 zipCodes: ["92311"]
 localPaths: ["San Bernardino County / elevation 2680 ft band", "San Bernardino County / primary ZIP 92311", "San Bernardino County / coords 34.8700, -117.0500", "San Bernardino County / ZIP 92311 sector"]
-zillowHomeValueUsd: 263387
 ---
 
 **Engineering Notice for Barstow:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.

@@ -7,11 +7,10 @@ zipCode: "60062"
 county: "Cook County"
 elevationFt: 676
 lat: 42.1300
-lng: -87.8400
+lng: -87.8700
 zipSample: ["60062", "60082"]
 zipCodes: ["60062", "60082"]
-localPaths: ["Cook County / elevation 676 ft band", "Cook County / primary ZIP 60062", "Cook County / coords 42.1300, -87.8400", "Cook County / ZIP 60062 sector", "Cook County / ZIP 60082 sector"]
-zillowHomeValueUsd: 692669
+localPaths: ["Cook County / elevation 676 ft band", "Cook County / primary ZIP 60062", "Cook County / coords 42.1300, -87.8700", "Cook County / ZIP 60062 sector", "Cook County / ZIP 60082 sector"]
 ---
 
 **Engineering Notice for Northbrook:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

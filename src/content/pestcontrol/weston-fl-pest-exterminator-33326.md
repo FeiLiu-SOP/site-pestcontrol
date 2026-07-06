@@ -11,7 +11,7 @@ lng: -80.4054
 zipSample: ["33327", "33331", "33332", "33326"]
 zipCodes: ["33326", "33327", "33331", "33332"]
 localPaths: ["Broward County / coords 26.1006, -80.4054", "Broward County / elevation 125 ft band", "Broward County / ZIP 33326 sector", "Broward County / ZIP 33327 sector", "Broward County / primary ZIP 33326"]
-zillowHomeValueUsd: 559076
+zillowHomeValueUsd: 559067
 ---
 
 **Engineering Notice for Weston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.

@@ -11,7 +11,6 @@ lng: -81.1000
 zipSample: ["32173", "32175", "32174", "32176"]
 zipCodes: ["32176", "32173", "32175", "32174"]
 localPaths: ["Volusia County / ZIP 32173 sector", "Volusia County / primary ZIP 32174", "Volusia County / coords 29.3000, -81.1000", "Volusia County / elevation 10 ft band", "Volusia County / ZIP 32176 sector"]
-zillowHomeValueUsd: 370016
 ---
 
 **Engineering Notice for Ormond Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Volusia County.

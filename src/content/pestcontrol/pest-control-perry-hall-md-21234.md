@@ -11,7 +11,6 @@ lng: -76.4800
 zipSample: ["21236", "21128", "21234"]
 zipCodes: ["21234", "21236", "21128"]
 localPaths: ["Baltimore County / ZIP 21236 sector", "Baltimore County / primary ZIP 21234", "Baltimore County / ZIP 21234 sector", "Baltimore County / coords 39.4100, -76.4800", "Baltimore County / ZIP 21128 sector"]
-zillowHomeValueUsd: 301677
 ---
 
 **Engineering Notice for Perry Hall:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.

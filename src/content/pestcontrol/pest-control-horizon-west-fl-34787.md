@@ -11,7 +11,6 @@ lng: -81.6100
 zipSample: ["34786", "34787", "32836", "34778", "34777"]
 zipCodes: ["34778", "34787", "32836", "34786", "34777"]
 localPaths: ["Orange County / ZIP 34778 sector", "Orange County / ZIP 34786 sector", "Orange County / ZIP 34787 sector", "Orange County / ZIP 32836 sector", "Orange County / primary ZIP 34787"]
-zillowHomeValueUsd: 571208
 ---
 
 **Engineering Notice for Horizon West:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

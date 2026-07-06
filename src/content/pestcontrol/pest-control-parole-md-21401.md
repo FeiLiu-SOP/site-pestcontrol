@@ -11,7 +11,6 @@ lng: -76.5500
 zipSample: ["21401"]
 zipCodes: ["21401"]
 localPaths: ["Anne Arundel County / primary ZIP 21401", "Anne Arundel County / coords 38.9900, -76.5500", "Anne Arundel County / ZIP 21401 sector", "Anne Arundel County / elevation 95 ft band"]
-zillowHomeValueUsd: 625115
 ---
 
 **Engineering Notice for Parole:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anne Arundel County.

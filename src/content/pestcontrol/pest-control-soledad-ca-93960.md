@@ -11,7 +11,6 @@ lng: -121.3400
 zipSample: ["93960"]
 zipCodes: ["93960"]
 localPaths: ["Monterey County / ZIP 93960 sector", "Monterey County / elevation 174 ft band", "Monterey County / primary ZIP 93960", "Monterey County / coords 36.4400, -121.3400"]
-zillowHomeValueUsd: 631372
 ---
 
 **Engineering Notice for Soledad:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Monterey County.

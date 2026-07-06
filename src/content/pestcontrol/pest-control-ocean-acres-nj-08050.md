@@ -11,7 +11,6 @@ lng: -74.2800
 zipSample: ["08005", "08050"]
 zipCodes: ["08005", "08050"]
 localPaths: ["Ocean County / primary ZIP 08050", "Ocean County / coords 39.7400, -74.2800", "Ocean County / ZIP 08005 sector", "Ocean County / elevation 131 ft band", "Ocean County / ZIP 08050 sector"]
-zillowHomeValueUsd: 583781
 ---
 
 **Engineering Notice for Ocean Acres:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ocean County.

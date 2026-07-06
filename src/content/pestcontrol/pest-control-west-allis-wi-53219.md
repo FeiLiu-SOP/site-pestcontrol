@@ -11,7 +11,6 @@ lng: -88.0300
 zipSample: ["53227", "53219", "53214"]
 zipCodes: ["53214", "53219", "53227"]
 localPaths: ["Milwaukee County / coords 43.0100, -88.0300", "Milwaukee County / primary ZIP 53219", "Milwaukee County / ZIP 53219 sector", "Milwaukee County / ZIP 53227 sector", "Milwaukee County / elevation 791 ft band"]
-zillowHomeValueUsd: 266970
 ---
 
 **Engineering Notice for West Allis:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Milwaukee County.

@@ -11,7 +11,6 @@ lng: -93.3300
 zipSample: ["55304"]
 zipCodes: ["55304"]
 localPaths: ["Anoka County / elevation 876 ft band", "Anoka County / coords 45.2600, -93.3300", "Anoka County / ZIP 55304 sector", "Anoka County / primary ZIP 55304"]
-zillowHomeValueUsd: 451255
 ---
 
 **Engineering Notice for Andover:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anoka County.

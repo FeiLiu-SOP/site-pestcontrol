@@ -11,7 +11,6 @@ lng: -101.8300
 zipSample: ["79106", "79168", "79121", "79116", "79103"]
 zipCodes: ["79104", "79111", "79174", "79189", "79101", "79117", "79172", "79166", "79107", "79116", "79102", "79110"]
 localPaths: ["Potter County / ZIP 79103 sector", "Potter County / ZIP 79106 sector", "Potter County / ZIP 79116 sector", "Potter County / ZIP 79168 sector", "Potter County / coords 35.2000, -101.8300"]
-zillowHomeValueUsd: 298028
 ---
 
 **Engineering Notice for Amarillo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Potter County.

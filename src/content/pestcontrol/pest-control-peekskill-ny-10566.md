@@ -11,7 +11,6 @@ lng: -73.9200
 zipSample: ["10566"]
 zipCodes: ["10566"]
 localPaths: ["Westchester County / coords 41.2900, -73.9200", "Westchester County / primary ZIP 10566", "Westchester County / elevation 203 ft band", "Westchester County / ZIP 10566 sector"]
-zillowHomeValueUsd: 500783
 ---
 
 **Engineering Notice for Peekskill:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Westchester County.

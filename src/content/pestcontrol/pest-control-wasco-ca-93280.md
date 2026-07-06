@@ -11,7 +11,6 @@ lng: -119.3700
 zipSample: ["93280"]
 zipCodes: ["93280"]
 localPaths: ["Kern County / elevation 318 ft band", "Kern County / coords 35.5900, -119.3700", "Kern County / ZIP 93280 sector", "Kern County / primary ZIP 93280"]
-zillowHomeValueUsd: 316604
 ---
 
 **Engineering Notice for Wasco:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kern County.

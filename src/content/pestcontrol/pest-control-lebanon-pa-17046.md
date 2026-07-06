@@ -11,7 +11,6 @@ lng: -76.4200
 zipSample: ["17046", "17042"]
 zipCodes: ["17042", "17046"]
 localPaths: ["Lebanon County / primary ZIP 17046", "Lebanon County / elevation 463 ft band", "Lebanon County / ZIP 17042 sector", "Lebanon County / coords 40.3400, -76.4200", "Lebanon County / ZIP 17046 sector"]
-zillowHomeValueUsd: 258518
 ---
 
 **Engineering Notice for Lebanon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lebanon County.

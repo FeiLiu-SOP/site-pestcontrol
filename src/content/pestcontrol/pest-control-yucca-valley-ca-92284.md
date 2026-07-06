@@ -11,7 +11,6 @@ lng: -116.4200
 zipSample: ["92284"]
 zipCodes: ["92284"]
 localPaths: ["San Bernardino County / ZIP 92284 sector", "San Bernardino County / coords 34.1200, -116.4200", "San Bernardino County / primary ZIP 92284", "San Bernardino County / elevation 3271 ft band"]
-zillowHomeValueUsd: 357206
 ---
 
 **Engineering Notice for Yucca Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.

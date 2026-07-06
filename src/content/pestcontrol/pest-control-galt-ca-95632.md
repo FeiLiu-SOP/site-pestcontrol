@@ -11,7 +11,6 @@ lng: -121.3000
 zipSample: ["95632"]
 zipCodes: ["95632"]
 localPaths: ["Sacramento County / primary ZIP 95632", "Sacramento County / elevation 52 ft band", "Sacramento County / ZIP 95632 sector", "Sacramento County / coords 38.2700, -121.3000"]
-zillowHomeValueUsd: 533009
 ---
 
 **Engineering Notice for Galt:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sacramento County.

@@ -11,7 +11,6 @@ lng: -81.7300
 zipSample: ["44282", "44281"]
 zipCodes: ["44281", "44282"]
 localPaths: ["Medina County / primary ZIP 44281", "Medina County / ZIP 44282 sector", "Medina County / elevation 1168 ft band", "Medina County / coords 41.0300, -81.7300", "Medina County / ZIP 44281 sector"]
-zillowHomeValueUsd: 310155
 ---
 
 **Engineering Notice for Wadsworth:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Medina County.

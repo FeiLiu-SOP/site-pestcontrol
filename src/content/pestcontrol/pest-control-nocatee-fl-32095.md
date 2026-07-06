@@ -11,7 +11,6 @@ lng: -81.4100
 zipSample: ["32095", "32081"]
 zipCodes: ["32081", "32095"]
 localPaths: ["St. Johns County / ZIP 32095 sector", "St. Johns County / ZIP 32081 sector", "St. Johns County / elevation 30 ft band", "St. Johns County / primary ZIP 32095", "St. Johns County / coords 30.0900, -81.4100"]
-zillowHomeValueUsd: 501177
 ---
 
 **Engineering Notice for Nocatee:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Johns County.

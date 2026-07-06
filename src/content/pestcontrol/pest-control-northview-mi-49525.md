@@ -7,11 +7,10 @@ zipCode: "49525"
 county: "Kent County"
 elevationFt: 755
 lat: 43.0400
-lng: -85.6000
+lng: -85.5700
 zipSample: ["49525"]
 zipCodes: ["49525"]
-localPaths: ["Kent County / ZIP 49525 sector", "Kent County / primary ZIP 49525", "Kent County / elevation 755 ft band", "Kent County / coords 43.0400, -85.6000"]
-zillowHomeValueUsd: 378173
+localPaths: ["Kent County / ZIP 49525 sector", "Kent County / primary ZIP 49525", "Kent County / elevation 755 ft band", "Kent County / coords 43.0400, -85.5700"]
 ---
 
 **Engineering Notice for Northview:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kent County.
@@ -47,6 +46,6 @@ Mud dauber nests in Northview, MI porch ceilings are benign but signal prey dens
 
 Perimeter dossier 224732: bait station anchor map and mulch bridge risk flagged for Northview, MI county Kent County (ZIP 49525).
 
-On-site sector marker: Kent County / coords 43.0400, -85.6000 — logged for map parity and ZIP-corridor verification.
+On-site sector marker: Kent County / coords 43.0400, -85.5700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-49525-24084adb

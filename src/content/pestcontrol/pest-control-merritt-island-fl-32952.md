@@ -11,7 +11,6 @@ lng: -80.6700
 zipSample: ["32954", "32953", "32937", "32952"]
 zipCodes: ["32952", "32937", "32954", "32953"]
 localPaths: ["Brevard County / primary ZIP 32952", "Brevard County / ZIP 32953 sector", "Brevard County / ZIP 32954 sector", "Brevard County / ZIP 32952 sector", "Brevard County / elevation 0 ft band"]
-zillowHomeValueUsd: 432978
 ---
 
 **Engineering Notice for Merritt Island:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brevard County.

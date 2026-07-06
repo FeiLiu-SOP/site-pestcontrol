@@ -11,7 +11,6 @@ lng: -102.1100
 zipSample: ["79711", "79706", "79708", "79701", "79707"]
 zipCodes: ["79707", "79708", "79706", "79701", "79711", "79705", "79702", "79703"]
 localPaths: ["Midland County / ZIP 79701 sector", "Midland County / ZIP 79707 sector", "Midland County / ZIP 79708 sector", "Midland County / ZIP 79711 sector", "Midland County / coords 32.0200, -102.1100"]
-zillowHomeValueUsd: 217361
 ---
 
 **Engineering Notice for Midland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Midland County.

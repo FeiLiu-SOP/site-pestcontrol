@@ -11,7 +11,6 @@ lng: -83.1800
 zipSample: ["48146"]
 zipCodes: ["48146"]
 localPaths: ["Wayne County / ZIP 48146 sector", "Wayne County / primary ZIP 48146", "Wayne County / coords 42.2400, -83.1800", "Wayne County / elevation 587 ft band"]
-zillowHomeValueUsd: 150842
 ---
 
 **Engineering Notice for Lincoln Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wayne County.

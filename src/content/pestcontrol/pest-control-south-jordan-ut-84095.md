@@ -11,7 +11,6 @@ lng: -111.9800
 zipSample: ["84095", "84009", "84096"]
 zipCodes: ["84009", "84096", "84095"]
 localPaths: ["Salt Lake County / elevation 4672 ft band", "Salt Lake County / ZIP 84009 sector", "Salt Lake County / primary ZIP 84095", "Salt Lake County / coords 40.5600, -111.9800", "Salt Lake County / ZIP 84095 sector"]
-zillowHomeValueUsd: 759216
 ---
 
 **Engineering Notice for South Jordan:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Salt Lake County.

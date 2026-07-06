@@ -11,7 +11,6 @@ lng: -111.6400
 zipSample: ["84660"]
 zipCodes: ["84660"]
 localPaths: ["Utah County / ZIP 84660 sector", "Utah County / elevation 4682 ft band", "Utah County / coords 40.1100, -111.6400", "Utah County / primary ZIP 84660"]
-zillowHomeValueUsd: 515212
 ---
 
 **Engineering Notice for Spanish Fork:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Utah County.

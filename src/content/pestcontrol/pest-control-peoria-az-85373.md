@@ -11,7 +11,6 @@ lng: -112.3000
 zipSample: ["85380", "85345", "85383", "85324", "85373"]
 zipCodes: ["85382", "85373", "85383", "85324", "85345", "85381", "85380", "85303", "85385"]
 localPaths: ["Maricopa County / ZIP 85383 sector", "Maricopa County / primary ZIP 85373", "Maricopa County / ZIP 85373 sector", "Maricopa County / elevation 1568 ft band", "Maricopa County / ZIP 85324 sector"]
-zillowHomeValueUsd: 366458
 ---
 
 **Engineering Notice for Peoria:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Maricopa County.

@@ -11,8 +11,6 @@ lng: -158.0600
 zipSample: ["96786", "96857"]
 zipCodes: ["96786", "96857"]
 localPaths: ["Honolulu County / ZIP 96857 sector", "Honolulu County / elevation 919 ft band", "Honolulu County / coords 21.4900, -158.0600", "Honolulu County / ZIP 96786 sector", "Honolulu County / primary ZIP 96857"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 884878
 ---
 
 **Engineering Notice for Schofield Barracks:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Honolulu County.

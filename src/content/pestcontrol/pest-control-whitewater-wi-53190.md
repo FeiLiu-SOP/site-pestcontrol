@@ -11,7 +11,6 @@ lng: -88.7300
 zipSample: ["53190"]
 zipCodes: ["53190"]
 localPaths: ["Walworth County / coords 42.8400, -88.7300", "Walworth County / elevation 827 ft band", "Walworth County / ZIP 53190 sector", "Walworth County / primary ZIP 53190"]
-zillowHomeValueUsd: 362036
 ---
 
 **Engineering Notice for Whitewater:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Walworth County.

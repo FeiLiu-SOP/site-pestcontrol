@@ -11,7 +11,6 @@ lng: -73.9900
 zipSample: ["07010"]
 zipCodes: ["07010"]
 localPaths: ["Bergen County / coords 40.8200, -73.9900", "Bergen County / primary ZIP 07010", "Bergen County / elevation 285 ft band", "Bergen County / ZIP 07010 sector"]
-zillowHomeValueUsd: 645134
 ---
 
 **Engineering Notice for Cliffside Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bergen County.

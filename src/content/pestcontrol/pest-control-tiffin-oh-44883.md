@@ -11,7 +11,6 @@ lng: -83.1800
 zipSample: ["44883"]
 zipCodes: ["44883"]
 localPaths: ["Seneca County / coords 41.1200, -83.1800", "Seneca County / primary ZIP 44883", "Seneca County / ZIP 44883 sector", "Seneca County / elevation 738 ft band"]
-zillowHomeValueUsd: 186262
 ---
 
 **Engineering Notice for Tiffin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Seneca County.

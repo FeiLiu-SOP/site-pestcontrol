@@ -11,7 +11,6 @@ lng: -117.1700
 zipSample: ["92096", "92078", "92069", "92079"]
 zipCodes: ["92078", "92079", "92096", "92069"]
 localPaths: ["San Diego County / ZIP 92069 sector", "San Diego County / ZIP 92079 sector", "San Diego County / ZIP 92078 sector", "San Diego County / primary ZIP 92078", "San Diego County / ZIP 92096 sector"]
-zillowHomeValueUsd: 1025272
 ---
 
 **Engineering Notice for San Marcos:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.

@@ -11,7 +11,6 @@ lng: -90.0100
 zipSample: ["62234"]
 zipCodes: ["62234"]
 localPaths: ["Madison County / coords 38.6800, -90.0100", "Madison County / primary ZIP 62234", "Madison County / elevation 548 ft band", "Madison County / ZIP 62234 sector"]
-zillowHomeValueUsd: 192530
 ---
 
 **Engineering Notice for Collinsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Madison County.

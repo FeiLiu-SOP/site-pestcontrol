@@ -11,7 +11,6 @@ lng: -84.5100
 zipSample: ["30189", "30188"]
 zipCodes: ["30189", "30188"]
 localPaths: ["Cherokee County / elevation 919 ft band", "Cherokee County / ZIP 30188 sector", "Cherokee County / coords 34.1000, -84.5100", "Cherokee County / ZIP 30189 sector", "Cherokee County / primary ZIP 30189"]
-zillowHomeValueUsd: 453989
 ---
 
 **Engineering Notice for Woodstock:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cherokee County.

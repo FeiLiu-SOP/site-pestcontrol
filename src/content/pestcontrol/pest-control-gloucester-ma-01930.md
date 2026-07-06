@@ -11,7 +11,6 @@ lng: -70.6900
 zipSample: ["01930", "01931"]
 zipCodes: ["01931", "01930"]
 localPaths: ["Essex County / ZIP 01931 sector", "Essex County / primary ZIP 01930", "Essex County / coords 42.6300, -70.6900", "Essex County / elevation 3 ft band", "Essex County / ZIP 01930 sector"]
-zillowHomeValueUsd: 760872
 ---
 
 **Engineering Notice for Gloucester:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Essex County.

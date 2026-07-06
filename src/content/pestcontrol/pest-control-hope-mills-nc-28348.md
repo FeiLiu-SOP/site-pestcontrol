@@ -11,7 +11,6 @@ lng: -78.9600
 zipSample: ["28348", "28306"]
 zipCodes: ["28306", "28348"]
 localPaths: ["Cumberland County / elevation 164 ft band", "Cumberland County / primary ZIP 28348", "Cumberland County / ZIP 28348 sector", "Cumberland County / ZIP 28306 sector", "Cumberland County / coords 34.9700, -78.9600"]
-zillowHomeValueUsd: 265527
 ---
 
 **Engineering Notice for Hope Mills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cumberland County.

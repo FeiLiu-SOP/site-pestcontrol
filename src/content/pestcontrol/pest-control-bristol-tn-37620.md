@@ -11,7 +11,6 @@ lng: -82.2200
 zipSample: ["37625", "37620", "37621"]
 zipCodes: ["37621", "37625", "37620"]
 localPaths: ["Sullivan County / primary ZIP 37620", "Sullivan County / ZIP 37620 sector", "Sullivan County / ZIP 37625 sector", "Sullivan County / ZIP 37621 sector", "Sullivan County / elevation 1647 ft band"]
-zillowHomeValueUsd: 229880
 ---
 
 **Engineering Notice for Bristol:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sullivan County.

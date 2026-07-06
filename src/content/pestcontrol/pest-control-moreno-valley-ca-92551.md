@@ -11,7 +11,7 @@ lng: -117.2000
 zipSample: ["92552", "92556", "92554", "92555", "92553"]
 zipCodes: ["92551", "92553", "92554", "92552", "92557", "92555", "92556"]
 localPaths: ["Riverside County / ZIP 92555 sector", "Riverside County / ZIP 92554 sector", "Riverside County / primary ZIP 92551", "Riverside County / ZIP 92552 sector", "Riverside County / elevation 1634 ft band"]
-zillowHomeValueUsd: 532062
+zillowHomeValueUsd: 532059
 ---
 
 **Engineering Notice for Moreno Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.

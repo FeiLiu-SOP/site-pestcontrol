@@ -11,7 +11,6 @@ lng: -157.9900
 zipSample: ["96789"]
 zipCodes: ["96789"]
 localPaths: ["Honolulu County / primary ZIP 96789", "Honolulu County / ZIP 96789 sector", "Honolulu County / coords 21.4800, -157.9900", "Honolulu County / elevation 883 ft band"]
-zillowHomeValueUsd: 881725
 ---
 
 **Engineering Notice for Mililani Mauka:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Honolulu County.

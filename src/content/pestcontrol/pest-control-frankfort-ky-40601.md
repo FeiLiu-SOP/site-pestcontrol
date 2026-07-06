@@ -11,7 +11,6 @@ lng: -84.8600
 zipSample: ["40601", "40603", "40621", "40622", "40619"]
 zipCodes: ["40618", "40601", "40620", "40621", "40603", "40622", "40619"]
 localPaths: ["Franklin County / elevation 722 ft band", "Franklin County / ZIP 40622 sector", "Franklin County / ZIP 40601 sector", "Franklin County / ZIP 40603 sector", "Franklin County / coords 38.1900, -84.8600"]
-zillowHomeValueUsd: 240480
 ---
 
 **Engineering Notice for Frankfort:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Franklin County.

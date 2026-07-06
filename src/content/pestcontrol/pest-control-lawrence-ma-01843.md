@@ -11,7 +11,6 @@ lng: -71.1600
 zipSample: ["01843", "01842", "01841", "01840"]
 zipCodes: ["01843", "01841", "01840", "01842"]
 localPaths: ["Essex County / primary ZIP 01843", "Essex County / ZIP 01840 sector", "Essex County / coords 42.7000, -71.1600", "Essex County / elevation 66 ft band", "Essex County / ZIP 01843 sector"]
-zillowHomeValueUsd: 526423
 ---
 
 **Engineering Notice for Lawrence:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Essex County.

@@ -11,7 +11,6 @@ lng: -115.6000
 zipSample: ["89815"]
 zipCodes: ["89815"]
 localPaths: ["Elko County / ZIP 89815 sector", "Elko County / primary ZIP 89815", "Elko County / coords 40.7400, -115.6000", "Elko County / elevation 5453 ft band"]
-zillowHomeValueUsd: 400882
 ---
 
 **Engineering Notice for Spring Creek:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Elko County.

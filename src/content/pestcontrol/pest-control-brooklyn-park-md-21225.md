@@ -11,7 +11,6 @@ lng: -76.6200
 zipSample: ["21225"]
 zipCodes: ["21225"]
 localPaths: ["Anne Arundel County / elevation 171 ft band", "Anne Arundel County / ZIP 21225 sector", "Anne Arundel County / primary ZIP 21225", "Anne Arundel County / coords 39.2200, -76.6200"]
-zillowHomeValueUsd: 223521
 ---
 
 **Engineering Notice for Brooklyn Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anne Arundel County.

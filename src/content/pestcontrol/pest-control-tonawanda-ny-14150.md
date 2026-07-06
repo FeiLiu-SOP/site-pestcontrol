@@ -11,7 +11,6 @@ lng: -78.8800
 zipSample: ["14151", "14150"]
 zipCodes: ["14151", "14150"]
 localPaths: ["Erie County / coords 43.0100, -78.8800", "Erie County / ZIP 14150 sector", "Erie County / primary ZIP 14150", "Erie County / elevation 577 ft band", "Erie County / ZIP 14151 sector"]
-zillowHomeValueUsd: 251711
 ---
 
 **Engineering Notice for Tonawanda:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Erie County.

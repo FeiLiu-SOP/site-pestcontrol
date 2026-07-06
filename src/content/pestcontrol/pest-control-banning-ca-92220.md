@@ -11,7 +11,6 @@ lng: -116.9000
 zipSample: ["92220"]
 zipCodes: ["92220"]
 localPaths: ["Riverside County / elevation 2930 ft band", "Riverside County / ZIP 92220 sector", "Riverside County / primary ZIP 92220", "Riverside County / coords 33.9500, -116.9000"]
-zillowHomeValueUsd: 414144
 ---
 
 **Engineering Notice for Banning:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.

@@ -11,7 +11,6 @@ lng: -122.3400
 zipSample: ["94806"]
 zipCodes: ["94806"]
 localPaths: ["Contra Costa County / elevation 52 ft band", "Contra Costa County / coords 37.9600, -122.3400", "Contra Costa County / primary ZIP 94806", "Contra Costa County / ZIP 94806 sector"]
-zillowHomeValueUsd: 582732
 ---
 
 **Engineering Notice for San Pablo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.

@@ -11,7 +11,6 @@ lng: -103.2200
 zipSample: ["57702", "57701", "57703"]
 zipCodes: ["57703", "57702", "57701"]
 localPaths: ["Pennington County / primary ZIP 57702", "Pennington County / ZIP 57703 sector", "Pennington County / ZIP 57701 sector", "Pennington County / elevation 3379 ft band", "Pennington County / ZIP 57702 sector"]
-zillowHomeValueUsd: 448744
 ---
 
 **Engineering Notice for Rapid City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pennington County.

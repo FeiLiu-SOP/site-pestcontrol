@@ -11,7 +11,6 @@ lng: -80.1300
 zipSample: ["33412", "33407", "33417", "33405", "33411"]
 zipCodes: ["33409", "33411", "33402", "33417", "33405", "33401", "33412", "33422", "33407"]
 localPaths: ["Palm Beach County / primary ZIP 33411", "Palm Beach County / ZIP 33405 sector", "Palm Beach County / ZIP 33411 sector", "Palm Beach County / ZIP 33407 sector", "Palm Beach County / ZIP 33412 sector"]
-zillowHomeValueUsd: 465682
 ---
 
 **Engineering Notice for West Palm Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Palm Beach County.

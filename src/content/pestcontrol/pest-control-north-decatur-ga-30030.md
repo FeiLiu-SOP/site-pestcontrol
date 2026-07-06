@@ -11,7 +11,6 @@ lng: -84.2900
 zipSample: ["30030", "30033"]
 zipCodes: ["30030", "30033"]
 localPaths: ["DeKalb County / coords 33.8100, -84.2900", "DeKalb County / ZIP 30030 sector", "DeKalb County / primary ZIP 30030", "DeKalb County / elevation 955 ft band", "DeKalb County / ZIP 30033 sector"]
-zillowHomeValueUsd: 639017
 ---
 
 **Engineering Notice for North Decatur:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeKalb County.

@@ -11,7 +11,6 @@ lng: -118.0900
 zipSample: ["90661", "90660", "90662"]
 zipCodes: ["90660", "90662", "90661"]
 localPaths: ["Los Angeles County / ZIP 90661 sector", "Los Angeles County / coords 33.9900, -118.0900", "Los Angeles County / ZIP 90662 sector", "Los Angeles County / elevation 180 ft band", "Los Angeles County / primary ZIP 90660"]
-zillowHomeValueUsd: 752982
 ---
 
 **Engineering Notice for Pico Rivera:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

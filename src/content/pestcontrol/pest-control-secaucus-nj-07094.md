@@ -11,7 +11,6 @@ lng: -74.0700
 zipSample: ["07096", "07094"]
 zipCodes: ["07096", "07094"]
 localPaths: ["Hudson County / ZIP 07096 sector", "Hudson County / coords 40.7800, -74.0700", "Hudson County / ZIP 07094 sector", "Hudson County / primary ZIP 07094", "Hudson County / elevation 26 ft band"]
-zillowHomeValueUsd: 660110
 ---
 
 **Engineering Notice for Secaucus:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hudson County.

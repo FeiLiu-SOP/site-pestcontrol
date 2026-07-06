@@ -11,7 +11,6 @@ lng: -89.7800
 zipSample: ["70469", "70460", "70458", "70459"]
 zipCodes: ["70459", "70460", "70469", "70458"]
 localPaths: ["St. Tammany Parish / ZIP 70460 sector", "St. Tammany Parish / ZIP 70469 sector", "St. Tammany Parish / ZIP 70458 sector", "St. Tammany Parish / primary ZIP 70460", "St. Tammany Parish / coords 30.2900, -89.7800"]
-zillowHomeValueUsd: 190174
 ---
 
 **Engineering Notice for Slidell:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Tammany Parish.

@@ -11,7 +11,6 @@ lng: -92.9600
 zipSample: ["55025"]
 zipCodes: ["55025"]
 localPaths: ["Washington County / elevation 932 ft band", "Washington County / ZIP 55025 sector", "Washington County / coords 45.2500, -92.9600", "Washington County / primary ZIP 55025"]
-zillowHomeValueUsd: 431144
 ---
 
 **Engineering Notice for Forest Lake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.

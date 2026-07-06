@@ -11,7 +11,6 @@ lng: -92.0300
 zipSample: ["72023"]
 zipCodes: ["72023"]
 localPaths: ["Lonoke County / primary ZIP 72023", "Lonoke County / elevation 305 ft band", "Lonoke County / coords 34.9800, -92.0300", "Lonoke County / ZIP 72023 sector"]
-zillowHomeValueUsd: 251913
 ---
 
 **Engineering Notice for Cabot:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lonoke County.

@@ -11,7 +11,6 @@ lng: -78.8700
 zipSample: ["27539", "27502", "27523"]
 zipCodes: ["27523", "27539", "27502"]
 localPaths: ["Wake County / primary ZIP 27502", "Wake County / elevation 436 ft band", "Wake County / ZIP 27502 sector", "Wake County / ZIP 27539 sector", "Wake County / coords 35.7200, -78.8700"]
-zillowHomeValueUsd: 569710
 ---
 
 **Engineering Notice for Apex:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wake County.

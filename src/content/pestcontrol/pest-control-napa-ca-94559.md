@@ -11,7 +11,6 @@ lng: -122.3000
 zipSample: ["94581", "94558", "94559"]
 zipCodes: ["94581", "94559", "94558"]
 localPaths: ["Napa County / ZIP 94581 sector", "Napa County / ZIP 94558 sector", "Napa County / elevation 49 ft band", "Napa County / ZIP 94559 sector", "Napa County / primary ZIP 94559"]
-zillowHomeValueUsd: 807832
 ---
 
 **Engineering Notice for Napa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Napa County.

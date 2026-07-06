@@ -11,7 +11,6 @@ lng: -112.0700
 zipSample: ["84075"]
 zipCodes: ["84075"]
 localPaths: ["Davis County / elevation 4275 ft band", "Davis County / primary ZIP 84075", "Davis County / coords 41.0900, -112.0700", "Davis County / ZIP 84075 sector"]
-zillowHomeValueUsd: 585945
 ---
 
 **Engineering Notice for Syracuse:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Davis County.

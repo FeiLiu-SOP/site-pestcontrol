@@ -11,7 +11,6 @@ lng: -73.9900
 zipSample: ["07628"]
 zipCodes: ["07628"]
 localPaths: ["Bergen County / primary ZIP 07628", "Bergen County / elevation 112 ft band", "Bergen County / ZIP 07628 sector", "Bergen County / coords 40.9500, -73.9900"]
-zillowHomeValueUsd: 667094
 ---
 
 **Engineering Notice for Dumont:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bergen County.

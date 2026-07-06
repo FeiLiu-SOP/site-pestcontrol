@@ -11,7 +11,6 @@ lng: -79.0100
 zipSample: ["14301", "14304", "14302", "14305", "14303"]
 zipCodes: ["14304", "14305", "14301", "14303", "14302"]
 localPaths: ["Niagara County / ZIP 14304 sector", "Niagara County / ZIP 14305 sector", "Niagara County / coords 43.0900, -79.0100", "Niagara County / ZIP 14302 sector", "Niagara County / ZIP 14301 sector"]
-zillowHomeValueUsd: 103736
 ---
 
 **Engineering Notice for Niagara Falls:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Niagara County.

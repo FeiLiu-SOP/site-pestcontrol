@@ -11,7 +11,6 @@ lng: -112.6600
 zipSample: ["59750", "59707", "59748", "59727", "59711"]
 zipCodes: ["59702", "59701", "59750", "59748", "59711", "59703", "59727", "59707"]
 localPaths: ["Silver Bow County / primary ZIP 59748", "Silver Bow County / ZIP 59711 sector", "Silver Bow County / ZIP 59727 sector", "Silver Bow County / elevation 5810 ft band", "Silver Bow County / ZIP 59750 sector"]
-zillowHomeValueUsd: 276199
 ---
 
 **Engineering Notice for Butte:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Silver Bow County.

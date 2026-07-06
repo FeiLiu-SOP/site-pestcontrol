@@ -11,7 +11,6 @@ lng: -121.9000
 zipSample: ["94565"]
 zipCodes: ["94565"]
 localPaths: ["Contra Costa County / coords 38.0200, -121.9000", "Contra Costa County / ZIP 94565 sector", "Contra Costa County / primary ZIP 94565", "Contra Costa County / elevation 56 ft band"]
-zillowHomeValueUsd: 569603
 ---
 
 **Engineering Notice for Pittsburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.

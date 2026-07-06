@@ -11,7 +11,6 @@ lng: -84.2300
 zipSample: ["30281", "30253"]
 zipCodes: ["30281", "30253"]
 localPaths: ["Henry County / elevation 817 ft band", "Henry County / coords 33.5300, -84.2300", "Henry County / primary ZIP 30253", "Henry County / ZIP 30253 sector", "Henry County / ZIP 30281 sector"]
-zillowHomeValueUsd: 311533
 ---
 
 **Engineering Notice for Stockbridge:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Henry County.

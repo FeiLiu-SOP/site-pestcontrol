@@ -11,7 +11,6 @@ lng: -83.3800
 zipSample: ["48186", "48185"]
 zipCodes: ["48185", "48186"]
 localPaths: ["Wayne County / ZIP 48186 sector", "Wayne County / coords 42.3200, -83.3800", "Wayne County / ZIP 48185 sector", "Wayne County / primary ZIP 48185", "Wayne County / elevation 676 ft band"]
-zillowHomeValueUsd: 223238
 ---
 
 **Engineering Notice for Westland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wayne County.

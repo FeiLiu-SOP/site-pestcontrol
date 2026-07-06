@@ -11,7 +11,6 @@ lng: -84.5400
 zipSample: ["45014"]
 zipCodes: ["45014"]
 localPaths: ["Butler County / coords 39.3300, -84.5400", "Butler County / primary ZIP 45014", "Butler County / elevation 663 ft band", "Butler County / ZIP 45014 sector"]
-zillowHomeValueUsd: 280188
 ---
 
 **Engineering Notice for Fairfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Butler County.

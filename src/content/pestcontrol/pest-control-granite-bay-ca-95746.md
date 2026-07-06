@@ -11,7 +11,6 @@ lng: -121.1700
 zipSample: ["95746", "95650"]
 zipCodes: ["95746", "95650"]
 localPaths: ["Placer County / ZIP 95650 sector", "Placer County / ZIP 95746 sector", "Placer County / primary ZIP 95746", "Placer County / coords 38.7600, -121.1700", "Placer County / elevation 420 ft band"]
-zillowHomeValueUsd: 1153365
 ---
 
 **Engineering Notice for Granite Bay:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Placer County.

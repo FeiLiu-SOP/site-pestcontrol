@@ -11,7 +11,6 @@ lng: -97.1200
 zipSample: ["76063"]
 zipCodes: ["76063"]
 localPaths: ["Tarrant County / ZIP 76063 sector", "Tarrant County / coords 32.5700, -97.1200", "Tarrant County / primary ZIP 76063", "Tarrant County / elevation 607 ft band"]
-zillowHomeValueUsd: 439966
 ---
 
 **Engineering Notice for Mansfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tarrant County.

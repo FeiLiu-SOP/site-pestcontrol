@@ -11,7 +11,6 @@ lng: -87.2500
 zipSample: ["32505", "32503", "32520"]
 zipCodes: ["32520", "32505", "32503"]
 localPaths: ["Escambia County / elevation 125 ft band", "Escambia County / ZIP 32520 sector", "Escambia County / coords 30.4700, -87.2500", "Escambia County / primary ZIP 32503", "Escambia County / ZIP 32505 sector"]
-zillowHomeValueUsd: 294314
 ---
 
 **Engineering Notice for Brent:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Escambia County.

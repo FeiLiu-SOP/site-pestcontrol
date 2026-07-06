@@ -11,7 +11,6 @@ lng: -122.3000
 zipSample: ["98275"]
 zipCodes: ["98275"]
 localPaths: ["Snohomish County / primary ZIP 98275", "Snohomish County / ZIP 98275 sector", "Snohomish County / coords 47.9100, -122.3000", "Snohomish County / elevation 423 ft band"]
-zillowHomeValueUsd: 933718
 ---
 
 **Engineering Notice for Mukilteo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Snohomish County.

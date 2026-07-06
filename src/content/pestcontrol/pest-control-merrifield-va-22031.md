@@ -11,7 +11,6 @@ lng: -77.2400
 zipSample: ["22180", "22081", "22031", "22042", "22119"]
 zipCodes: ["22180", "22081", "22031", "22082", "22119", "22042"]
 localPaths: ["Fairfax County / ZIP 22042 sector", "Fairfax County / ZIP 22180 sector", "Fairfax County / ZIP 22119 sector", "Fairfax County / coords 38.8700, -77.2400", "Fairfax County / elevation 308 ft band"]
-zillowHomeValueUsd: 774738
 ---
 
 **Engineering Notice for Merrifield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.

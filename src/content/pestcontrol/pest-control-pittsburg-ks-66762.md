@@ -11,7 +11,6 @@ lng: -94.7000
 zipSample: ["66762"]
 zipCodes: ["66762"]
 localPaths: ["Crawford County / coords 37.4100, -94.7000", "Crawford County / elevation 928 ft band", "Crawford County / ZIP 66762 sector", "Crawford County / primary ZIP 66762"]
-zillowHomeValueUsd: 132919
 ---
 
 **Engineering Notice for Pittsburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Crawford County.

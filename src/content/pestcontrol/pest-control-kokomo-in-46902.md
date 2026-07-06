@@ -11,7 +11,6 @@ lng: -86.1300
 zipSample: ["46903", "46901", "46965", "46902"]
 zipCodes: ["46901", "46903", "46902", "46965"]
 localPaths: ["Howard County / primary ZIP 46902", "Howard County / coords 40.4600, -86.1300", "Howard County / ZIP 46902 sector", "Howard County / ZIP 46901 sector", "Howard County / ZIP 46903 sector"]
-zillowHomeValueUsd: 198894
 ---
 
 **Engineering Notice for Kokomo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Howard County.

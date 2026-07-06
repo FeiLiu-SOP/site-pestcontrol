@@ -11,7 +11,6 @@ lng: -81.2600
 zipSample: ["31322"]
 zipCodes: ["31322"]
 localPaths: ["Chatham County / coords 32.1000, -81.2600", "Chatham County / primary ZIP 31322", "Chatham County / elevation 26 ft band", "Chatham County / ZIP 31322 sector"]
-zillowHomeValueUsd: 344656
 ---
 
 **Engineering Notice for Pooler:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Chatham County.

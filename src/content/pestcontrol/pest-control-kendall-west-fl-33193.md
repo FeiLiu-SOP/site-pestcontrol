@@ -11,7 +11,6 @@ lng: -80.4400
 zipSample: ["33193", "33185"]
 zipCodes: ["33193", "33185"]
 localPaths: ["Miami-Dade County / coords 25.7100, -80.4400", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / primary ZIP 33193", "Miami-Dade County / ZIP 33193 sector", "Miami-Dade County / ZIP 33185 sector"]
-zillowHomeValueUsd: 443201
 ---
 
 **Engineering Notice for Kendall West:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

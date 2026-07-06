@@ -11,7 +11,6 @@ lng: -86.8500
 zipSample: ["37069", "37068", "37064", "37067", "37065"]
 zipCodes: ["37069", "37067", "37065", "37064", "37068"]
 localPaths: ["Williamson County / primary ZIP 37069", "Williamson County / ZIP 37068 sector", "Williamson County / elevation 659 ft band", "Williamson County / coords 35.9200, -86.8500", "Williamson County / ZIP 37069 sector"]
-zillowHomeValueUsd: 1033241
 ---
 
 **Engineering Notice for Franklin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Williamson County.

@@ -11,7 +11,6 @@ lng: -81.9000
 zipSample: ["34789", "34748", "34762", "34736", "34749"]
 zipCodes: ["34736", "34762", "34748", "34749", "34789"]
 localPaths: ["Lake County / ZIP 34748 sector", "Lake County / primary ZIP 34748", "Lake County / ZIP 34749 sector", "Lake County / elevation 69 ft band", "Lake County / ZIP 34789 sector"]
-zillowHomeValueUsd: 276553
 ---
 
 **Engineering Notice for Leesburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

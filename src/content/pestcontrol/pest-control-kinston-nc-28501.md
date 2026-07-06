@@ -11,7 +11,6 @@ lng: -77.5900
 zipSample: ["28501", "28503", "28502", "28504"]
 zipCodes: ["28504", "28501", "28502", "28503"]
 localPaths: ["Lenoir County / ZIP 28502 sector", "Lenoir County / elevation 95 ft band", "Lenoir County / primary ZIP 28501", "Lenoir County / ZIP 28501 sector", "Lenoir County / coords 35.2700, -77.5900"]
-zillowHomeValueUsd: 97092
 ---
 
 **Engineering Notice for Kinston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lenoir County.

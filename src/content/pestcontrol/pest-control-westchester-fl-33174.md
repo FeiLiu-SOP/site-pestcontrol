@@ -11,7 +11,6 @@ lng: -80.3500
 zipSample: ["33199", "33174", "33144", "33165", "33155"]
 zipCodes: ["33155", "33199", "33174", "33165", "33144"]
 localPaths: ["Miami-Dade County / ZIP 33199 sector", "Miami-Dade County / primary ZIP 33174", "Miami-Dade County / ZIP 33144 sector", "Miami-Dade County / ZIP 33174 sector", "Miami-Dade County / coords 25.7500, -80.3500"]
-zillowHomeValueUsd: 442069
 ---
 
 **Engineering Notice for Westchester:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

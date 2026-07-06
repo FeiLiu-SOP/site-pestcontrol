@@ -11,7 +11,6 @@ lng: -74.1500
 zipSample: ["07029"]
 zipCodes: ["07029"]
 localPaths: ["Hudson County / coords 40.7400, -74.1500", "Hudson County / primary ZIP 07029", "Hudson County / ZIP 07029 sector", "Hudson County / elevation 30 ft band"]
-zillowHomeValueUsd: 579709
 ---
 
 **Engineering Notice for Harrison:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hudson County.

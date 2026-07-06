@@ -11,7 +11,6 @@ lng: -84.5200
 zipSample: ["41014", "41016", "41011", "41017", "41015"]
 zipCodes: ["41014", "41015", "41011", "41016", "41017"]
 localPaths: ["Kenton County / ZIP 41017 sector", "Kenton County / ZIP 41014 sector", "Kenton County / ZIP 41016 sector", "Kenton County / coords 39.0300, -84.5200", "Kenton County / elevation 778 ft band"]
-zillowHomeValueUsd: 285326
 ---
 
 **Engineering Notice for Covington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kenton County.

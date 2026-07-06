@@ -11,7 +11,6 @@ lng: -87.0300
 zipSample: ["36703", "36702", "36701"]
 zipCodes: ["36703", "36702", "36701"]
 localPaths: ["Dallas County / primary ZIP 36703", "Dallas County / ZIP 36703 sector", "Dallas County / elevation 121 ft band", "Dallas County / ZIP 36701 sector", "Dallas County / ZIP 36702 sector"]
-zillowHomeValueUsd: 62462
 ---
 
 **Engineering Notice for Selma:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.

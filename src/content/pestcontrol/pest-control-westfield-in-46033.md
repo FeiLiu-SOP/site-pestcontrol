@@ -11,7 +11,6 @@ lng: -86.1500
 zipSample: ["46074", "46033"]
 zipCodes: ["46074", "46033"]
 localPaths: ["Hamilton County / ZIP 46033 sector", "Hamilton County / primary ZIP 46033", "Hamilton County / elevation 902 ft band", "Hamilton County / ZIP 46074 sector", "Hamilton County / coords 40.0300, -86.1500"]
-zillowHomeValueUsd: 577922
 ---
 
 **Engineering Notice for Westfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hamilton County.

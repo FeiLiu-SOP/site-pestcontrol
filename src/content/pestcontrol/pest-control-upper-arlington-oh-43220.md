@@ -11,7 +11,6 @@ lng: -83.0700
 zipSample: ["43212", "43220", "43221"]
 zipCodes: ["43221", "43220", "43212"]
 localPaths: ["Franklin County / coords 40.0300, -83.0700", "Franklin County / ZIP 43221 sector", "Franklin County / elevation 866 ft band", "Franklin County / ZIP 43212 sector", "Franklin County / primary ZIP 43220"]
-zillowHomeValueUsd: 364464
 ---
 
 **Engineering Notice for Upper Arlington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Franklin County.

@@ -11,7 +11,6 @@ lng: -87.6000
 zipSample: ["35473", "35475", "35476", "35452"]
 zipCodes: ["35473", "35475", "35476", "35452"]
 localPaths: ["Tuscaloosa County / primary ZIP 35473", "Tuscaloosa County / ZIP 35452 sector", "Tuscaloosa County / coords 33.2600, -87.6000", "Tuscaloosa County / ZIP 35475 sector", "Tuscaloosa County / ZIP 35476 sector"]
-zillowHomeValueUsd: 266460
 ---
 
 **Engineering Notice for Northport:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tuscaloosa County.

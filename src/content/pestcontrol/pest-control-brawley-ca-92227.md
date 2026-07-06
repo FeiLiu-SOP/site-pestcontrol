@@ -11,7 +11,6 @@ lng: -115.5300
 zipSample: ["92227"]
 zipCodes: ["92227"]
 localPaths: ["Imperial County / primary ZIP 92227", "Imperial County / elevation -113 ft band", "Imperial County / coords 32.9800, -115.5300", "Imperial County / ZIP 92227 sector"]
-zillowHomeValueUsd: 358608
 ---
 
 **Engineering Notice for Brawley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Imperial County.

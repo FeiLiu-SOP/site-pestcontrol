@@ -11,7 +11,6 @@ lng: -87.5500
 zipSample: ["60438"]
 zipCodes: ["60438"]
 localPaths: ["Cook County / primary ZIP 60438", "Cook County / ZIP 60438 sector", "Cook County / coords 41.5600, -87.5500", "Cook County / elevation 650 ft band"]
-zillowHomeValueUsd: 194841
 ---
 
 **Engineering Notice for Lansing:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

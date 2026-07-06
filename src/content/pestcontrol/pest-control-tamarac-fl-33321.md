@@ -6,12 +6,11 @@ state: "FL"
 zipCode: "33321"
 county: "Broward County"
 elevationFt: 20
-lat: 26.2100
+lat: 26.2400
 lng: -80.2500
 zipSample: ["33321", "33319", "33359"]
 zipCodes: ["33321", "33319", "33359"]
-localPaths: ["Broward County / ZIP 33319 sector", "Broward County / ZIP 33321 sector", "Broward County / coords 26.2100, -80.2500", "Broward County / elevation 20 ft band", "Broward County / primary ZIP 33321"]
-zillowHomeValueUsd: 296707
+localPaths: ["Broward County / ZIP 33319 sector", "Broward County / ZIP 33321 sector", "Broward County / coords 26.2400, -80.2500", "Broward County / elevation 20 ft band", "Broward County / primary ZIP 33321"]
 ---
 
 **Engineering Notice for Tamarac:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.
@@ -45,8 +44,8 @@ In Tamarac, FL, subterranean termite swarms often follow warm rain windows.
 
 Attic misting in Tamarac, FL requires combustion air clearance verified before fans restart.
 
-Harbor ledger 302597: frass lane, mud-tube scan, and garage jamb gap measure filed for Tamarac, FL at 26.2100, -80.2500.
+Harbor ledger 302597: frass lane, mud-tube scan, and garage jamb gap measure filed for Tamarac, FL at 26.2400, -80.2500.
 
-Coordinate-anchored dispatch note: center reference 26.2100, -80.2500 at elevation ~20 ft aligns with Broward County intake staging.
+Coordinate-anchored dispatch note: center reference 26.2400, -80.2500 at elevation ~20 ft aligns with Broward County intake staging.
 
 Service reference: FL-33321-06832b0b

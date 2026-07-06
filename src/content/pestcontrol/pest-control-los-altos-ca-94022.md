@@ -11,7 +11,6 @@ lng: -122.1000
 zipSample: ["94022", "94024", "94023"]
 zipCodes: ["94022", "94024", "94023"]
 localPaths: ["Santa Clara County / elevation 174 ft band", "Santa Clara County / ZIP 94023 sector", "Santa Clara County / ZIP 94022 sector", "Santa Clara County / primary ZIP 94022", "Santa Clara County / coords 37.3700, -122.1000"]
-zillowHomeValueUsd: 5191301
 ---
 
 **Engineering Notice for Los Altos:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Clara County.

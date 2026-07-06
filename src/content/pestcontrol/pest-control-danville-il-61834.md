@@ -11,7 +11,6 @@ lng: -87.6100
 zipSample: ["61832", "61834"]
 zipCodes: ["61834", "61832"]
 localPaths: ["Vermilion County / coords 40.1400, -87.6100", "Vermilion County / elevation 650 ft band", "Vermilion County / ZIP 61834 sector", "Vermilion County / ZIP 61832 sector", "Vermilion County / primary ZIP 61834"]
-zillowHomeValueUsd: 183422
 ---
 
 **Engineering Notice for Danville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Vermilion County.

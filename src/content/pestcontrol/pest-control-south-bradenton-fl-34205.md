@@ -11,7 +11,6 @@ lng: -82.5800
 zipSample: ["34210", "34205", "34207"]
 zipCodes: ["34207", "34210", "34205"]
 localPaths: ["Manatee County / ZIP 34207 sector", "Manatee County / ZIP 34205 sector", "Manatee County / ZIP 34210 sector", "Manatee County / primary ZIP 34205", "Manatee County / elevation 30 ft band"]
-zillowHomeValueUsd: 266872
 ---
 
 **Engineering Notice for South Bradenton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Manatee County.

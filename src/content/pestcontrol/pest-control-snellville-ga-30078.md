@@ -11,7 +11,6 @@ lng: -84.0000
 zipSample: ["30078"]
 zipCodes: ["30078"]
 localPaths: ["Gwinnett County / ZIP 30078 sector", "Gwinnett County / primary ZIP 30078", "Gwinnett County / coords 33.8600, -84.0000", "Gwinnett County / elevation 1037 ft band"]
-zillowHomeValueUsd: 371150
 ---
 
 **Engineering Notice for Snellville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gwinnett County.

@@ -11,7 +11,6 @@ lng: -83.3700
 zipSample: ["48154", "48153", "48152", "48151", "48150"]
 zipCodes: ["48151", "48152", "48153", "48150", "48154"]
 localPaths: ["Wayne County / ZIP 48150 sector", "Wayne County / elevation 669 ft band", "Wayne County / ZIP 48152 sector", "Wayne County / ZIP 48151 sector", "Wayne County / primary ZIP 48152"]
-zillowHomeValueUsd: 323071
 ---
 
 **Engineering Notice for Livonia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wayne County.

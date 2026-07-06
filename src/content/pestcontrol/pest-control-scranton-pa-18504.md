@@ -11,7 +11,6 @@ lng: -75.6600
 zipSample: ["18509", "18510", "18503", "18507", "18515"]
 zipCodes: ["18515", "18540", "18508", "18509", "18504", "18503", "18505", "18510", "18507"]
 localPaths: ["Lackawanna County / ZIP 18509 sector", "Lackawanna County / ZIP 18503 sector", "Lackawanna County / ZIP 18515 sector", "Lackawanna County / ZIP 18510 sector", "Lackawanna County / coords 41.4000, -75.6600"]
-zillowHomeValueUsd: 177387
 ---
 
 **Engineering Notice for Scranton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lackawanna County.

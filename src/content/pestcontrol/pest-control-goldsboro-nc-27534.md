@@ -11,7 +11,6 @@ lng: -77.9700
 zipSample: ["27534", "27533", "27530", "27531", "27532"]
 zipCodes: ["27533", "27530", "27534", "27531", "27532"]
 localPaths: ["Wayne County / ZIP 27530 sector", "Wayne County / elevation 121 ft band", "Wayne County / primary ZIP 27534", "Wayne County / ZIP 27534 sector", "Wayne County / ZIP 27532 sector"]
-zillowHomeValueUsd: 218722
 ---
 
 **Engineering Notice for Goldsboro:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wayne County.

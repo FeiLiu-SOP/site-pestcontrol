@@ -11,7 +11,6 @@ lng: -90.3800
 zipSample: ["61402", "61401"]
 zipCodes: ["61402", "61401"]
 localPaths: ["Knox County / elevation 774 ft band", "Knox County / ZIP 61401 sector", "Knox County / ZIP 61402 sector", "Knox County / coords 40.9500, -90.3800", "Knox County / primary ZIP 61401"]
-zillowHomeValueUsd: 99713
 ---
 
 **Engineering Notice for Galesburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Knox County.

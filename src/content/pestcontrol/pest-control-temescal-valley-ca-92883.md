@@ -11,7 +11,7 @@ lng: -117.4700
 zipSample: ["92883"]
 zipCodes: ["92883"]
 localPaths: ["Riverside County / elevation 1152 ft band", "Riverside County / primary ZIP 92883", "Riverside County / ZIP 92883 sector", "Riverside County / coords 33.7600, -117.4700"]
-zillowHomeValueUsd: 761444
+zillowHomeValueUsd: 761441
 ---
 
 **Engineering Notice for Temescal Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.

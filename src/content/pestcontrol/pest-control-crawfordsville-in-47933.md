@@ -11,7 +11,6 @@ lng: -86.9000
 zipSample: ["47933"]
 zipCodes: ["47933"]
 localPaths: ["Montgomery County / primary ZIP 47933", "Montgomery County / coords 40.0400, -86.9000", "Montgomery County / elevation 764 ft band", "Montgomery County / ZIP 47933 sector"]
-zillowHomeValueUsd: 223642
 ---
 
 **Engineering Notice for Crawfordsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

@@ -11,7 +11,6 @@ lng: -88.3400
 zipSample: ["60012", "60039", "60014"]
 zipCodes: ["60039", "60012", "60014"]
 localPaths: ["McHenry County / coords 42.2300, -88.3400", "McHenry County / primary ZIP 60014", "McHenry County / elevation 902 ft band", "McHenry County / ZIP 60014 sector", "McHenry County / ZIP 60039 sector"]
-zillowHomeValueUsd: 359938
 ---
 
 **Engineering Notice for Crystal Lake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: McHenry County.

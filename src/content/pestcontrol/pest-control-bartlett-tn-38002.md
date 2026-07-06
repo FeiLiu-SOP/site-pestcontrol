@@ -11,7 +11,6 @@ lng: -89.8200
 zipSample: ["38134", "38002", "38029", "38133", "38135"]
 zipCodes: ["38002", "38134", "38029", "38135", "38133"]
 localPaths: ["Shelby County / primary ZIP 38002", "Shelby County / ZIP 38135 sector", "Shelby County / ZIP 38002 sector", "Shelby County / ZIP 38133 sector", "Shelby County / elevation 338 ft band"]
-zillowHomeValueUsd: 407811
 ---
 
 **Engineering Notice for Bartlett:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Shelby County.

@@ -11,7 +11,6 @@ lng: -79.5400
 zipSample: ["15601", "15606"]
 zipCodes: ["15601", "15606"]
 localPaths: ["Westmoreland County / ZIP 15606 sector", "Westmoreland County / ZIP 15601 sector", "Westmoreland County / coords 40.3100, -79.5400", "Westmoreland County / primary ZIP 15601", "Westmoreland County / elevation 1152 ft band"]
-zillowHomeValueUsd: 239720
 ---
 
 **Engineering Notice for Greensburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Westmoreland County.

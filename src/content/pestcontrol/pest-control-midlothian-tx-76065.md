@@ -11,7 +11,6 @@ lng: -96.9900
 zipSample: ["76065"]
 zipCodes: ["76065"]
 localPaths: ["Ellis County / elevation 787 ft band", "Ellis County / ZIP 76065 sector", "Ellis County / coords 32.4700, -96.9900", "Ellis County / primary ZIP 76065"]
-zillowHomeValueUsd: 455498
 ---
 
 **Engineering Notice for Midlothian:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ellis County.

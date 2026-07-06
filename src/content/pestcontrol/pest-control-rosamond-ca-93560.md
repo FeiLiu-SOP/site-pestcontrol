@@ -11,7 +11,6 @@ lng: -118.2200
 zipSample: ["93560"]
 zipCodes: ["93560"]
 localPaths: ["Kern County / ZIP 93560 sector", "Kern County / coords 34.8700, -118.2200", "Kern County / elevation 2411 ft band", "Kern County / primary ZIP 93560"]
-zillowHomeValueUsd: 410945
 ---
 
 **Engineering Notice for Rosamond:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kern County.

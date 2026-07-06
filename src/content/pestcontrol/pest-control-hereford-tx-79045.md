@@ -11,7 +11,6 @@ lng: -102.4000
 zipSample: ["79045"]
 zipCodes: ["79045"]
 localPaths: ["Deaf Smith County / elevation 3845 ft band", "Deaf Smith County / coords 34.8200, -102.4000", "Deaf Smith County / primary ZIP 79045", "Deaf Smith County / ZIP 79045 sector"]
-zillowHomeValueUsd: 173009
 ---
 
 **Engineering Notice for Hereford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Deaf Smith County.

@@ -11,7 +11,6 @@ lng: -83.2100
 zipSample: ["48101"]
 zipCodes: ["48101"]
 localPaths: ["Wayne County / ZIP 48101 sector", "Wayne County / elevation 600 ft band", "Wayne County / coords 42.2600, -83.2100", "Wayne County / primary ZIP 48101"]
-zillowHomeValueUsd: 206300
 ---
 
 **Engineering Notice for Allen Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wayne County.

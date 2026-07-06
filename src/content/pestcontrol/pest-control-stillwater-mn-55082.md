@@ -11,7 +11,6 @@ lng: -92.8300
 zipSample: ["55082", "55083"]
 zipCodes: ["55083", "55082"]
 localPaths: ["Washington County / primary ZIP 55082", "Washington County / coords 45.0600, -92.8300", "Washington County / ZIP 55082 sector", "Washington County / ZIP 55083 sector", "Washington County / elevation 856 ft band"]
-zillowHomeValueUsd: 520482
 ---
 
 **Engineering Notice for Stillwater:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.

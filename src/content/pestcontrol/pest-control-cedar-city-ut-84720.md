@@ -11,7 +11,6 @@ lng: -113.1000
 zipSample: ["84721", "84720"]
 zipCodes: ["84720", "84721"]
 localPaths: ["Iron County / elevation 5682 ft band", "Iron County / ZIP 84721 sector", "Iron County / ZIP 84720 sector", "Iron County / primary ZIP 84720", "Iron County / coords 37.6800, -113.1000"]
-zillowHomeValueUsd: 430514
 ---
 
 **Engineering Notice for Cedar City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Iron County.

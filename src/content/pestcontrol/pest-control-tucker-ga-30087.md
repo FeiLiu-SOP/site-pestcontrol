@@ -11,7 +11,6 @@ lng: -84.2000
 zipSample: ["30084", "30085", "30083", "30087"]
 zipCodes: ["30085", "30084", "30087", "30083"]
 localPaths: ["DeKalb County / ZIP 30087 sector", "DeKalb County / coords 33.8400, -84.2000", "DeKalb County / ZIP 30084 sector", "DeKalb County / ZIP 30085 sector", "DeKalb County / primary ZIP 30087"]
-zillowHomeValueUsd: 346167
 ---
 
 **Engineering Notice for Tucker:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeKalb County.

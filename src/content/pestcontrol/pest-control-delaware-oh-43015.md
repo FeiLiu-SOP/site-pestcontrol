@@ -11,7 +11,6 @@ lng: -83.0700
 zipSample: ["43015"]
 zipCodes: ["43015"]
 localPaths: ["Delaware County / ZIP 43015 sector", "Delaware County / primary ZIP 43015", "Delaware County / elevation 915 ft band", "Delaware County / coords 40.2900, -83.0700"]
-zillowHomeValueUsd: 408686
 ---
 
 **Engineering Notice for Delaware:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Delaware County.

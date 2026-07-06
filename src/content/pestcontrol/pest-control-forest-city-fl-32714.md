@@ -11,7 +11,6 @@ lng: -81.4400
 zipSample: ["32703", "32714"]
 zipCodes: ["32703", "32714"]
 localPaths: ["Seminole County / coords 28.6600, -81.4400", "Seminole County / ZIP 32703 sector", "Seminole County / primary ZIP 32714", "Seminole County / ZIP 32714 sector", "Seminole County / elevation 128 ft band"]
-zillowHomeValueUsd: 303000
 ---
 
 **Engineering Notice for Forest City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Seminole County.

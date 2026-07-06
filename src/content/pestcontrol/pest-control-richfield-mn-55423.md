@@ -11,7 +11,6 @@ lng: -93.2800
 zipSample: ["55423"]
 zipCodes: ["55423"]
 localPaths: ["Hennepin County / ZIP 55423 sector", "Hennepin County / coords 44.8800, -93.2800", "Hennepin County / elevation 840 ft band", "Hennepin County / primary ZIP 55423"]
-zillowHomeValueUsd: 347250
 ---
 
 **Engineering Notice for Richfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hennepin County.

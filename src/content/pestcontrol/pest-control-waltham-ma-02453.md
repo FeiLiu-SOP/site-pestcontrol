@@ -11,7 +11,6 @@ lng: -71.2400
 zipSample: ["02454", "02453", "02455", "02451", "02452"]
 zipCodes: ["02451", "02452", "02454", "02455", "02453"]
 localPaths: ["Middlesex County / ZIP 02453 sector", "Middlesex County / ZIP 02451 sector", "Middlesex County / ZIP 02454 sector", "Middlesex County / primary ZIP 02453", "Middlesex County / elevation 112 ft band"]
-zillowHomeValueUsd: 814611
 ---
 
 **Engineering Notice for Waltham:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.

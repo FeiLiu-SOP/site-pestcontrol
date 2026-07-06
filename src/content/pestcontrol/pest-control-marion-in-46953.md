@@ -11,7 +11,6 @@ lng: -85.6600
 zipSample: ["46952", "46953"]
 zipCodes: ["46952", "46953"]
 localPaths: ["Grant County / ZIP 46952 sector", "Grant County / ZIP 46953 sector", "Grant County / coords 40.5500, -85.6600", "Grant County / elevation 817 ft band", "Grant County / primary ZIP 46953"]
-zillowHomeValueUsd: 107750
 ---
 
 **Engineering Notice for Marion:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Grant County.

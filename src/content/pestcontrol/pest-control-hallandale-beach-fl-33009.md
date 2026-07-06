@@ -11,7 +11,6 @@ lng: -80.1400
 zipSample: ["33008", "33009"]
 zipCodes: ["33008", "33009"]
 localPaths: ["Broward County / elevation 30 ft band", "Broward County / coords 25.9900, -80.1400", "Broward County / ZIP 33008 sector", "Broward County / primary ZIP 33009", "Broward County / ZIP 33009 sector"]
-zillowHomeValueUsd: 278991
 ---
 
 **Engineering Notice for Hallandale Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.

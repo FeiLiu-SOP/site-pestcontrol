@@ -11,7 +11,6 @@ lng: -81.4400
 zipSample: ["44236", "44237"]
 zipCodes: ["44236", "44237"]
 localPaths: ["Summit County / elevation 1073 ft band", "Summit County / primary ZIP 44236", "Summit County / coords 41.2400, -81.4400", "Summit County / ZIP 44236 sector", "Summit County / ZIP 44237 sector"]
-zillowHomeValueUsd: 532210
 ---
 
 **Engineering Notice for Hudson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Summit County.

@@ -11,7 +11,6 @@ lng: -96.7900
 zipSample: ["75078", "75009"]
 zipCodes: ["75009", "75078"]
 localPaths: ["Collin County / ZIP 75078 sector", "Collin County / primary ZIP 75009", "Collin County / ZIP 75009 sector", "Collin County / elevation 679 ft band", "Collin County / coords 33.3200, -96.7900"]
-zillowHomeValueUsd: 537556
 ---
 
 **Engineering Notice for Celina:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Collin County.

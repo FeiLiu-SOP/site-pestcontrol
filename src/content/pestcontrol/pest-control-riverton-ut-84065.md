@@ -11,7 +11,6 @@ lng: -111.9600
 zipSample: ["84065", "84096"]
 zipCodes: ["84065", "84096"]
 localPaths: ["Salt Lake County / ZIP 84065 sector", "Salt Lake County / elevation 4547 ft band", "Salt Lake County / primary ZIP 84065", "Salt Lake County / coords 40.5200, -111.9600", "Salt Lake County / ZIP 84096 sector"]
-zillowHomeValueUsd: 643115
 ---
 
 **Engineering Notice for Riverton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Salt Lake County.

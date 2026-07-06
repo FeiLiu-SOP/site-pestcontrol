@@ -11,7 +11,6 @@ lng: -117.9700
 zipSample: ["91706"]
 zipCodes: ["91706"]
 localPaths: ["Los Angeles County / primary ZIP 91706", "Los Angeles County / ZIP 91706 sector", "Los Angeles County / coords 34.0800, -117.9700", "Los Angeles County / elevation 354 ft band"]
-zillowHomeValueUsd: 723269
 ---
 
 **Engineering Notice for Baldwin Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

@@ -11,7 +11,6 @@ lng: -156.4500
 zipSample: ["96753"]
 zipCodes: ["96753"]
 localPaths: ["Maui County / coords 20.7700, -156.4500", "Maui County / primary ZIP 96753", "Maui County / elevation 75 ft band", "Maui County / ZIP 96753 sector"]
-zillowHomeValueUsd: 1012204
 ---
 
 **Engineering Notice for Kihei:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Maui County.

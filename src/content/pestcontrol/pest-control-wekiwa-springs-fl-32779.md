@@ -11,7 +11,6 @@ lng: -81.4300
 zipSample: ["32779", "32791", "32752"]
 zipCodes: ["32752", "32791", "32779"]
 localPaths: ["Seminole County / primary ZIP 32779", "Seminole County / ZIP 32779 sector", "Seminole County / ZIP 32752 sector", "Seminole County / ZIP 32791 sector", "Seminole County / elevation 79 ft band"]
-zillowHomeValueUsd: 536762
 ---
 
 **Engineering Notice for Wekiwa Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Seminole County.

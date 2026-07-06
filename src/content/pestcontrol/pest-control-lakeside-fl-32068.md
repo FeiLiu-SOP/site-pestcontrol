@@ -11,7 +11,6 @@ lng: -81.7700
 zipSample: ["32030", "32073", "32065", "32068"]
 zipCodes: ["32073", "32030", "32065", "32068"]
 localPaths: ["Clay County / ZIP 32030 sector", "Clay County / ZIP 32065 sector", "Clay County / ZIP 32068 sector", "Clay County / coords 30.1400, -81.7700", "Clay County / ZIP 32073 sector"]
-zillowHomeValueUsd: 325207
 ---
 
 **Engineering Notice for Lakeside:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clay County.

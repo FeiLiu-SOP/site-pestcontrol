@@ -11,7 +11,6 @@ lng: -116.9900
 zipSample: ["83501"]
 zipCodes: ["83501"]
 localPaths: ["Nez Perce County / ZIP 83501 sector", "Nez Perce County / elevation 1286 ft band", "Nez Perce County / coords 46.3900, -116.9900", "Nez Perce County / primary ZIP 83501"]
-zillowHomeValueUsd: 382326
 ---
 
 **Engineering Notice for Lewiston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nez Perce County.

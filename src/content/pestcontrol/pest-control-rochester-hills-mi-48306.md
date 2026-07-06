@@ -11,7 +11,6 @@ lng: -83.1600
 zipSample: ["48309", "48306", "48307"]
 zipCodes: ["48306", "48309", "48307"]
 localPaths: ["Oakland County / ZIP 48307 sector", "Oakland County / coords 42.6600, -83.1600", "Oakland County / elevation 784 ft band", "Oakland County / ZIP 48309 sector", "Oakland County / ZIP 48306 sector"]
-zillowHomeValueUsd: 589497
 ---
 
 **Engineering Notice for Rochester Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oakland County.

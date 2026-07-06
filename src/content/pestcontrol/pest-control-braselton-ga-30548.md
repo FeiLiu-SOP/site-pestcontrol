@@ -11,7 +11,6 @@ lng: -83.8100
 zipSample: ["30548", "30517"]
 zipCodes: ["30517", "30548"]
 localPaths: ["Jackson County / ZIP 30548 sector", "Jackson County / primary ZIP 30548", "Jackson County / elevation 853 ft band", "Jackson County / coords 34.1100, -83.8100", "Jackson County / ZIP 30517 sector"]
-zillowHomeValueUsd: 486257
 ---
 
 **Engineering Notice for Braselton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jackson County.

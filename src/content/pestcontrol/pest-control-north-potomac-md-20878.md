@@ -11,7 +11,6 @@ lng: -77.2400
 zipSample: ["20850", "20878"]
 zipCodes: ["20850", "20878"]
 localPaths: ["Montgomery County / elevation 394 ft band", "Montgomery County / coords 39.1000, -77.2400", "Montgomery County / ZIP 20878 sector", "Montgomery County / primary ZIP 20878", "Montgomery County / ZIP 20850 sector"]
-zillowHomeValueUsd: 703125
 ---
 
 **Engineering Notice for North Potomac:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

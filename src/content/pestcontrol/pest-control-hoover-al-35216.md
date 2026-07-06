@@ -11,7 +11,6 @@ lng: -86.8100
 zipSample: ["35236", "35216", "35260", "35242", "35244"]
 zipCodes: ["35242", "35216", "35260", "35244", "35226", "35236"]
 localPaths: ["Jefferson County / ZIP 35244 sector", "Jefferson County / elevation 492 ft band", "Jefferson County / coords 33.3800, -86.8100", "Jefferson County / primary ZIP 35216", "Jefferson County / ZIP 35260 sector"]
-zillowHomeValueUsd: 411524
 ---
 
 **Engineering Notice for Hoover:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.

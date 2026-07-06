@@ -11,7 +11,6 @@ lng: -73.5800
 zipSample: ["11575"]
 zipCodes: ["11575"]
 localPaths: ["Nassau County / ZIP 11575 sector", "Nassau County / coords 40.6800, -73.5800", "Nassau County / primary ZIP 11575", "Nassau County / elevation 43 ft band"]
-zillowHomeValueUsd: 630752
 ---
 
 **Engineering Notice for Roosevelt:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

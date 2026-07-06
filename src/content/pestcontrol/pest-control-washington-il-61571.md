@@ -11,7 +11,6 @@ lng: -89.4300
 zipSample: ["61571"]
 zipCodes: ["61571"]
 localPaths: ["Tazewell County / primary ZIP 61571", "Tazewell County / elevation 761 ft band", "Tazewell County / coords 40.7000, -89.4300", "Tazewell County / ZIP 61571 sector"]
-zillowHomeValueUsd: 226519
 ---
 
 **Engineering Notice for Washington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tazewell County.

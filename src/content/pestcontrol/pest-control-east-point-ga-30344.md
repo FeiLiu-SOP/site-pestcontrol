@@ -11,7 +11,6 @@ lng: -84.4700
 zipSample: ["30364", "30344", "30349", "30385"]
 zipCodes: ["30385", "30349", "30344", "30364"]
 localPaths: ["Fulton County / ZIP 30349 sector", "Fulton County / elevation 1001 ft band", "Fulton County / ZIP 30385 sector", "Fulton County / ZIP 30364 sector", "Fulton County / coords 33.6700, -84.4700"]
-zillowHomeValueUsd: 224688
 ---
 
 **Engineering Notice for East Point:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fulton County.

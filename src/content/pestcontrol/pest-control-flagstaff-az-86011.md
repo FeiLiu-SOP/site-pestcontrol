@@ -11,7 +11,6 @@ lng: -111.6200
 zipSample: ["86002", "86001", "86005", "86011", "86004"]
 zipCodes: ["86005", "86004", "86001", "86002", "86011"]
 localPaths: ["Coconino County / ZIP 86002 sector", "Coconino County / elevation 6837 ft band", "Coconino County / primary ZIP 86011", "Coconino County / ZIP 86005 sector", "Coconino County / coords 35.1900, -111.6200"]
-zillowHomeValueUsd: 666879
 ---
 
 **Engineering Notice for Flagstaff:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Coconino County.

@@ -11,7 +11,6 @@ lng: -73.6400
 zipSample: ["11572"]
 zipCodes: ["11572"]
 localPaths: ["Nassau County / primary ZIP 11572", "Nassau County / coords 40.6300, -73.6400", "Nassau County / ZIP 11572 sector", "Nassau County / elevation 10 ft band"]
-zillowHomeValueUsd: 774704
 ---
 
 **Engineering Notice for Oceanside:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

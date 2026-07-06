@@ -11,7 +11,6 @@ lng: -122.8400
 zipSample: ["97140"]
 zipCodes: ["97140"]
 localPaths: ["Washington County / primary ZIP 97140", "Washington County / ZIP 97140 sector", "Washington County / coords 45.3600, -122.8400", "Washington County / elevation 210 ft band"]
-zillowHomeValueUsd: 632887
 ---
 
 **Engineering Notice for Sherwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.

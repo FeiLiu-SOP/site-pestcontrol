@@ -11,7 +11,6 @@ lng: -75.4900
 zipSample: ["13440", "13308", "13441", "13442", "13449"]
 zipCodes: ["13308", "13442", "13440", "13449", "13441"]
 localPaths: ["Oneida County / primary ZIP 13441", "Oneida County / elevation 443 ft band", "Oneida County / ZIP 13440 sector", "Oneida County / ZIP 13442 sector", "Oneida County / coords 43.2300, -75.4900"]
-zillowHomeValueUsd: 201241
 ---
 
 **Engineering Notice for Rome:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oneida County.

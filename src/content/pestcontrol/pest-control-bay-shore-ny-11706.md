@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11706"
 county: "Suffolk County"
 elevationFt: 30
-lat: 40.7300
-lng: -73.2500
+lat: 40.7405
+lng: -73.2800
 zipSample: ["11706"]
 zipCodes: ["11706"]
-localPaths: ["Suffolk County / coords 40.7300, -73.2500", "Suffolk County / ZIP 11706 sector", "Suffolk County / primary ZIP 11706", "Suffolk County / elevation 30 ft band"]
-zillowHomeValueUsd: 620299
+localPaths: ["Suffolk County / coords 40.7405, -73.2800", "Suffolk County / ZIP 11706 sector", "Suffolk County / primary ZIP 11706", "Suffolk County / elevation 30 ft band"]
 ---
 
 **Engineering Notice for Bay Shore:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
@@ -47,7 +46,7 @@ Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
 Seasonal cue 243467: cluster fly attic staging reviewed for Bay Shore, NY soffit cavities.
 
-Harbor ledger 243467: frass lane, mud-tube scan, and garage jamb gap measure filed for Bay Shore, NY at 40.7300, -73.2500.
+Harbor ledger 243467: frass lane, mud-tube scan, and garage jamb gap measure filed for Bay Shore, NY at 40.7405, -73.2800.
 
 ZIP-corridor snapshot for Bay Shore, NY: sampled sectors include 11706; county routing grid remains Suffolk County.
 

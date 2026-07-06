@@ -11,7 +11,6 @@ lng: -117.7300
 zipSample: ["91709"]
 zipCodes: ["91709"]
 localPaths: ["San Bernardino County / primary ZIP 91709", "San Bernardino County / coords 33.9500, -117.7300", "San Bernardino County / elevation 965 ft band", "San Bernardino County / ZIP 91709 sector"]
-zillowHomeValueUsd: 997422
 ---
 
 **Engineering Notice for Chino Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.

@@ -11,7 +11,6 @@ lng: -117.2800
 zipSample: ["92009", "92008", "92013", "92011", "92018"]
 zipCodes: ["92011", "92018", "92010", "92008", "92013", "92009"]
 localPaths: ["San Diego County / ZIP 92009 sector", "San Diego County / elevation 305 ft band", "San Diego County / primary ZIP 92008", "San Diego County / ZIP 92013 sector", "San Diego County / ZIP 92018 sector"]
-zillowHomeValueUsd: 1309734
 ---
 
 **Engineering Notice for Carlsbad:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.

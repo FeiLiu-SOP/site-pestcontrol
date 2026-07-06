@@ -11,7 +11,6 @@ lng: -117.9100
 zipSample: ["92628", "92626", "92627"]
 zipCodes: ["92627", "92626", "92628"]
 localPaths: ["Orange County / primary ZIP 92626", "Orange County / ZIP 92626 sector", "Orange County / coords 33.6700, -117.9100", "Orange County / elevation 75 ft band", "Orange County / ZIP 92627 sector"]
-zillowHomeValueUsd: 1442408
 ---
 
 **Engineering Notice for Costa Mesa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

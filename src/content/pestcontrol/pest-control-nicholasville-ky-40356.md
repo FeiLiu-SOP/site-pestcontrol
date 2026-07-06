@@ -11,7 +11,6 @@ lng: -84.5700
 zipSample: ["40340", "40356"]
 zipCodes: ["40340", "40356"]
 localPaths: ["Jessamine County / ZIP 40356 sector", "Jessamine County / primary ZIP 40356", "Jessamine County / coords 37.8900, -84.5700", "Jessamine County / elevation 994 ft band", "Jessamine County / ZIP 40340 sector"]
-zillowHomeValueUsd: 320085
 ---
 
 **Engineering Notice for Nicholasville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jessamine County.

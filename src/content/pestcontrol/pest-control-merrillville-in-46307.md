@@ -11,7 +11,6 @@ lng: -87.3200
 zipSample: ["46410", "46401", "46307", "46411"]
 zipCodes: ["46411", "46410", "46307", "46401"]
 localPaths: ["Lake County / elevation 679 ft band", "Lake County / ZIP 46410 sector", "Lake County / ZIP 46401 sector", "Lake County / ZIP 46411 sector", "Lake County / primary ZIP 46307"]
-zillowHomeValueUsd: 353874
 ---
 
 **Engineering Notice for Merrillville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

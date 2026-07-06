@@ -11,7 +11,6 @@ lng: -88.4300
 zipSample: ["54952"]
 zipCodes: ["54952"]
 localPaths: ["Winnebago County / ZIP 54952 sector", "Winnebago County / coords 44.2100, -88.4300", "Winnebago County / primary ZIP 54952", "Winnebago County / elevation 761 ft band"]
-zillowHomeValueUsd: 277321
 ---
 
 **Engineering Notice for Menasha:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Winnebago County.

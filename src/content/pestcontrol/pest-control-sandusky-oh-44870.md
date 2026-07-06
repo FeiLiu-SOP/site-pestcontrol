@@ -11,7 +11,6 @@ lng: -82.7000
 zipSample: ["44871", "44870"]
 zipCodes: ["44870", "44871"]
 localPaths: ["Erie County / primary ZIP 44870", "Erie County / coords 41.4500, -82.7000", "Erie County / ZIP 44871 sector", "Erie County / elevation 597 ft band", "Erie County / ZIP 44870 sector"]
-zillowHomeValueUsd: 176713
 ---
 
 **Engineering Notice for Sandusky:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Erie County.

@@ -11,7 +11,6 @@ lng: -71.4800
 zipSample: ["03246"]
 zipCodes: ["03246"]
 localPaths: ["Belknap County / ZIP 03246 sector", "Belknap County / primary ZIP 03246", "Belknap County / elevation 587 ft band", "Belknap County / coords 43.5700, -71.4800"]
-zillowHomeValueUsd: 434145
 ---
 
 **Engineering Notice for Laconia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Belknap County.

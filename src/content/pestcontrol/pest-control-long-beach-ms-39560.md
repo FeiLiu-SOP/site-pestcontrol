@@ -11,7 +11,6 @@ lng: -89.1700
 zipSample: ["39560"]
 zipCodes: ["39560"]
 localPaths: ["Harrison County / elevation 13 ft band", "Harrison County / coords 30.3600, -89.1700", "Harrison County / primary ZIP 39560", "Harrison County / ZIP 39560 sector"]
-zillowHomeValueUsd: 231933
 ---
 
 **Engineering Notice for Long Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harrison County.

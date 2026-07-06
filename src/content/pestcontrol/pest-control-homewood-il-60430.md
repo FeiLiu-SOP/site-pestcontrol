@@ -11,7 +11,6 @@ lng: -87.6600
 zipSample: ["60430"]
 zipCodes: ["60430"]
 localPaths: ["Cook County / elevation 669 ft band", "Cook County / ZIP 60430 sector", "Cook County / primary ZIP 60430", "Cook County / coords 41.5600, -87.6600"]
-zillowHomeValueUsd: 243513
 ---
 
 **Engineering Notice for Homewood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

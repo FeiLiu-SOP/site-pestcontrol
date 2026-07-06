@@ -11,7 +11,6 @@ lng: -85.6900
 zipSample: ["46011", "46016", "46014", "46018", "46013"]
 zipCodes: ["46014", "46013", "46011", "46012", "46018", "46015", "46016"]
 localPaths: ["Madison County / ZIP 46014 sector", "Madison County / coords 40.0900, -85.6900", "Madison County / elevation 883 ft band", "Madison County / ZIP 46018 sector", "Madison County / ZIP 46016 sector"]
-zillowHomeValueUsd: 84927
 ---
 
 **Engineering Notice for Anderson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Madison County.

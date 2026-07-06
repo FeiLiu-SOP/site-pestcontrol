@@ -11,7 +11,6 @@ lng: -87.3000
 zipSample: ["32511", "32506", "32512", "32507", "32516"]
 zipCodes: ["32511", "32516", "32512", "32507", "32506"]
 localPaths: ["Escambia County / ZIP 32511 sector", "Escambia County / coords 30.4200, -87.3000", "Escambia County / primary ZIP 32506", "Escambia County / elevation 89 ft band", "Escambia County / ZIP 32507 sector"]
-zillowHomeValueUsd: 243648
 ---
 
 **Engineering Notice for Myrtle Grove:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Escambia County.

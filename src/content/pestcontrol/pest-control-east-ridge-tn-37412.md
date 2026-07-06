@@ -11,7 +11,6 @@ lng: -85.2300
 zipSample: ["37412"]
 zipCodes: ["37412"]
 localPaths: ["Hamilton County / ZIP 37412 sector", "Hamilton County / coords 35.0000, -85.2300", "Hamilton County / elevation 682 ft band", "Hamilton County / primary ZIP 37412"]
-zillowHomeValueUsd: 258001
 ---
 
 **Engineering Notice for East Ridge:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hamilton County.

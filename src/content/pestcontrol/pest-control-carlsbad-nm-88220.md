@@ -11,7 +11,6 @@ lng: -104.2400
 zipSample: ["88220", "88221"]
 zipCodes: ["88220", "88221"]
 localPaths: ["Eddy County / ZIP 88220 sector", "Eddy County / primary ZIP 88220", "Eddy County / elevation 3127 ft band", "Eddy County / coords 32.4000, -104.2400", "Eddy County / ZIP 88221 sector"]
-zillowHomeValueUsd: 251240
 ---
 
 **Engineering Notice for Carlsbad:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Eddy County.

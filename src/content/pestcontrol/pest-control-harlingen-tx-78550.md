@@ -11,7 +11,6 @@ lng: -97.7000
 zipSample: ["78551", "78552", "78553", "78550"]
 zipCodes: ["78551", "78553", "78552", "78550"]
 localPaths: ["Cameron County / coords 26.1900, -97.7000", "Cameron County / ZIP 78552 sector", "Cameron County / elevation 56 ft band", "Cameron County / primary ZIP 78550", "Cameron County / ZIP 78551 sector"]
-zillowHomeValueUsd: 176078
 ---
 
 **Engineering Notice for Harlingen:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cameron County.

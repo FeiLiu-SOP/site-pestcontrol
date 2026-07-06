@@ -11,7 +11,6 @@ lng: -111.7900
 zipSample: ["84655"]
 zipCodes: ["84655"]
 localPaths: ["Utah County / coords 39.9700, -111.7900", "Utah County / elevation 4997 ft band", "Utah County / ZIP 84655 sector", "Utah County / primary ZIP 84655"]
-zillowHomeValueUsd: 500592
 ---
 
 **Engineering Notice for Santaquin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Utah County.

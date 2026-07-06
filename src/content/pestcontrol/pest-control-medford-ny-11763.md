@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11763"
 county: "Suffolk County"
 elevationFt: 102
-lat: 40.8200
-lng: -72.9900
+lat: 40.8305
+lng: -73.0200
 zipSample: ["11763"]
 zipCodes: ["11763"]
-localPaths: ["Suffolk County / ZIP 11763 sector", "Suffolk County / coords 40.8200, -72.9900", "Suffolk County / elevation 102 ft band", "Suffolk County / primary ZIP 11763"]
-zillowHomeValueUsd: 596791
+localPaths: ["Suffolk County / ZIP 11763 sector", "Suffolk County / coords 40.8305, -73.0200", "Suffolk County / elevation 102 ft band", "Suffolk County / primary ZIP 11763"]
 ---
 
 **Engineering Notice for Medford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

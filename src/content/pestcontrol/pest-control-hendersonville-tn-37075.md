@@ -11,7 +11,6 @@ lng: -86.6000
 zipSample: ["37075", "37077"]
 zipCodes: ["37077", "37075"]
 localPaths: ["Sumner County / ZIP 37077 sector", "Sumner County / elevation 502 ft band", "Sumner County / ZIP 37075 sector", "Sumner County / primary ZIP 37075", "Sumner County / coords 36.3100, -86.6000"]
-zillowHomeValueUsd: 515382
 ---
 
 **Engineering Notice for Hendersonville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sumner County.

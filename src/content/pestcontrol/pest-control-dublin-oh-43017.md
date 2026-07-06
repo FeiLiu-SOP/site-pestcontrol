@@ -11,7 +11,6 @@ lng: -83.1500
 zipSample: ["43016", "43017"]
 zipCodes: ["43017", "43016"]
 localPaths: ["Franklin County / ZIP 43017 sector", "Franklin County / primary ZIP 43017", "Franklin County / ZIP 43016 sector", "Franklin County / elevation 902 ft band", "Franklin County / coords 40.1100, -83.1500"]
-zillowHomeValueUsd: 575984
 ---
 
 **Engineering Notice for Dublin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Franklin County.

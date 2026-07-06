@@ -11,7 +11,6 @@ lng: -122.4200
 zipSample: ["94083", "94080"]
 zipCodes: ["94083", "94080"]
 localPaths: ["San Mateo County / ZIP 94083 sector", "San Mateo County / ZIP 94080 sector", "San Mateo County / coords 37.6500, -122.4200", "San Mateo County / elevation 20 ft band", "San Mateo County / primary ZIP 94080"]
-zillowHomeValueUsd: 1239969
 ---
 
 **Engineering Notice for South San Francisco:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Mateo County.

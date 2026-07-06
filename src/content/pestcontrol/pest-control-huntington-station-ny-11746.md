@@ -11,7 +11,6 @@ lng: -73.4100
 zipSample: ["11746"]
 zipCodes: ["11746"]
 localPaths: ["Suffolk County / ZIP 11746 sector", "Suffolk County / elevation 184 ft band", "Suffolk County / primary ZIP 11746", "Suffolk County / coords 40.8400, -73.4100"]
-zillowHomeValueUsd: 771409
 ---
 
 **Engineering Notice for Huntington Station:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

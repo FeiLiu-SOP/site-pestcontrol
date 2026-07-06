@@ -11,7 +11,6 @@ lng: -85.0800
 zipSample: ["30118", "30116", "30117", "30109", "30112"]
 zipCodes: ["30112", "30118", "30109", "30117", "30116"]
 localPaths: ["Carroll County / elevation 1066 ft band", "Carroll County / ZIP 30109 sector", "Carroll County / ZIP 30112 sector", "Carroll County / ZIP 30116 sector", "Carroll County / coords 33.5800, -85.0800"]
-zillowHomeValueUsd: 281225
 ---
 
 **Engineering Notice for Carrollton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Carroll County.

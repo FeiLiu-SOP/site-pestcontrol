@@ -7,11 +7,10 @@ zipCode: "94901"
 county: "Marin County"
 elevationFt: 482
 lat: 37.9900
-lng: -122.5200
+lng: -122.4900
 zipSample: ["94903", "94912", "94915", "94901"]
 zipCodes: ["94915", "94901", "94903", "94912"]
-localPaths: ["Marin County / primary ZIP 94901", "Marin County / coords 37.9900, -122.5200", "Marin County / ZIP 94912 sector", "Marin County / ZIP 94901 sector", "Marin County / ZIP 94903 sector"]
-zillowHomeValueUsd: 1408577
+localPaths: ["Marin County / primary ZIP 94901", "Marin County / coords 37.9900, -122.4900", "Marin County / ZIP 94912 sector", "Marin County / ZIP 94901 sector", "Marin County / ZIP 94903 sector"]
 ---
 
 **Engineering Notice for San Rafael:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marin County.
@@ -41,7 +40,7 @@ FAQ: Can bed bugs spread room-to-room in San Rafael, CA row homes? Wall voids an
 
 Tip: Log pet access routes when bait stations are placed.
 
-Harbor ledger 175507: frass lane, mud-tube scan, and garage jamb gap measure filed for San Rafael, CA at 37.9900, -122.5200.
+Harbor ledger 175507: frass lane, mud-tube scan, and garage jamb gap measure filed for San Rafael, CA at 37.9900, -122.4900.
 
 Regional mesh label Marin County: moisture and logistics baselines are keyed to San Rafael, CA before niche-specific work begins.
 

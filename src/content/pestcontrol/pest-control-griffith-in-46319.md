@@ -11,7 +11,6 @@ lng: -87.4200
 zipSample: ["46319"]
 zipCodes: ["46319"]
 localPaths: ["Lake County / coords 41.5300, -87.4200", "Lake County / elevation 653 ft band", "Lake County / primary ZIP 46319", "Lake County / ZIP 46319 sector"]
-zillowHomeValueUsd: 247429
 ---
 
 **Engineering Notice for Griffith:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

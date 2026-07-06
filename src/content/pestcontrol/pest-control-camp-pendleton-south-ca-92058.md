@@ -11,7 +11,6 @@ lng: -117.3900
 zipSample: ["92058"]
 zipCodes: ["92058"]
 localPaths: ["San Diego County / ZIP 92058 sector", "San Diego County / elevation 33 ft band", "San Diego County / coords 33.2300, -117.3900", "San Diego County / primary ZIP 92058"]
-zillowHomeValueUsd: 780431
 ---
 
 **Engineering Notice for Camp Pendleton South:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.

@@ -11,7 +11,6 @@ lng: -76.6100
 zipSample: ["21062", "21108", "21060", "21061"]
 zipCodes: ["21108", "21062", "21060", "21061"]
 localPaths: ["Anne Arundel County / ZIP 21108 sector", "Anne Arundel County / ZIP 21060 sector", "Anne Arundel County / ZIP 21062 sector", "Anne Arundel County / primary ZIP 21060", "Anne Arundel County / coords 39.1600, -76.6100"]
-zillowHomeValueUsd: 416287
 ---
 
 **Engineering Notice for Glen Burnie:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anne Arundel County.

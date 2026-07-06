@@ -11,7 +11,6 @@ lng: -122.6900
 zipSample: ["97013"]
 zipCodes: ["97013"]
 localPaths: ["Clackamas County / coords 45.2700, -122.6900", "Clackamas County / ZIP 97013 sector", "Clackamas County / elevation 144 ft band", "Clackamas County / primary ZIP 97013"]
-zillowHomeValueUsd: 591255
 ---
 
 **Engineering Notice for Canby:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clackamas County.

@@ -11,7 +11,6 @@ lng: -92.8500
 zipSample: ["55033"]
 zipCodes: ["55033"]
 localPaths: ["Dakota County / ZIP 55033 sector", "Dakota County / elevation 801 ft band", "Dakota County / primary ZIP 55033", "Dakota County / coords 44.7300, -92.8500"]
-zillowHomeValueUsd: 380692
 ---
 
 **Engineering Notice for Hastings:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dakota County.

@@ -11,7 +11,6 @@ lng: -73.7500
 zipSample: ["10604", "10602", "10605", "10606", "10601"]
 zipCodes: ["10601", "10604", "10602", "10605", "10603", "10606"]
 localPaths: ["Westchester County / ZIP 10601 sector", "Westchester County / ZIP 10606 sector", "Westchester County / elevation 259 ft band", "Westchester County / ZIP 10604 sector", "Westchester County / coords 41.0200, -73.7500"]
-zillowHomeValueUsd: 652955
 ---
 
 **Engineering Notice for White Plains:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Westchester County.

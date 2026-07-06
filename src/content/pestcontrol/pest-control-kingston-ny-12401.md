@@ -11,7 +11,6 @@ lng: -74.0000
 zipSample: ["12401", "12402"]
 zipCodes: ["12402", "12401"]
 localPaths: ["Ulster County / primary ZIP 12401", "Ulster County / ZIP 12401 sector", "Ulster County / coords 41.9300, -74.0000", "Ulster County / ZIP 12402 sector", "Ulster County / elevation 190 ft band"]
-zillowHomeValueUsd: 380927
 ---
 
 **Engineering Notice for Kingston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ulster County.

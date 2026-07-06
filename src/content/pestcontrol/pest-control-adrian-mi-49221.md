@@ -11,7 +11,6 @@ lng: -84.0400
 zipSample: ["49221"]
 zipCodes: ["49221"]
 localPaths: ["Lenawee County / primary ZIP 49221", "Lenawee County / ZIP 49221 sector", "Lenawee County / elevation 771 ft band", "Lenawee County / coords 41.9000, -84.0400"]
-zillowHomeValueUsd: 207415
 ---
 
 **Engineering Notice for Adrian:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lenawee County.

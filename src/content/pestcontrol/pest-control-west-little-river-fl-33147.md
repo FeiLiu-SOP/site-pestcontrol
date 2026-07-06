@@ -11,7 +11,6 @@ lng: -80.2400
 zipSample: ["33150", "33147", "33247"]
 zipCodes: ["33150", "33147", "33247"]
 localPaths: ["Miami-Dade County / ZIP 33150 sector", "Miami-Dade County / ZIP 33147 sector", "Miami-Dade County / coords 25.8600, -80.2400", "Miami-Dade County / primary ZIP 33147", "Miami-Dade County / ZIP 33247 sector"]
-zillowHomeValueUsd: 434328
 ---
 
 **Engineering Notice for West Little River:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

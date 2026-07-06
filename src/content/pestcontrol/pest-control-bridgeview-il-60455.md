@@ -11,7 +11,6 @@ lng: -87.8100
 zipSample: ["60455", "60454"]
 zipCodes: ["60455", "60454"]
 localPaths: ["Cook County / primary ZIP 60455", "Cook County / ZIP 60454 sector", "Cook County / ZIP 60455 sector", "Cook County / coords 41.7400, -87.8100", "Cook County / elevation 627 ft band"]
-zillowHomeValueUsd: 302123
 ---
 
 **Engineering Notice for Bridgeview:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

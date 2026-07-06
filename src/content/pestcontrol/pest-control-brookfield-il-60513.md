@@ -11,7 +11,6 @@ lng: -87.8500
 zipSample: ["60513"]
 zipCodes: ["60513"]
 localPaths: ["Cook County / coords 41.8200, -87.8500", "Cook County / primary ZIP 60513", "Cook County / ZIP 60513 sector", "Cook County / elevation 633 ft band"]
-zillowHomeValueUsd: 345440
 ---
 
 **Engineering Notice for Brookfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

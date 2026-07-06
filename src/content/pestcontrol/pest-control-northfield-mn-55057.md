@@ -11,7 +11,6 @@ lng: -93.1700
 zipSample: ["55057"]
 zipCodes: ["55057"]
 localPaths: ["Rice County / primary ZIP 55057", "Rice County / coords 44.4500, -93.1700", "Rice County / ZIP 55057 sector", "Rice County / elevation 932 ft band"]
-zillowHomeValueUsd: 385587
 ---
 
 **Engineering Notice for Northfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rice County.

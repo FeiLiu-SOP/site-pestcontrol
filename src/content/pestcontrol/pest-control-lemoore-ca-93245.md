@@ -11,7 +11,6 @@ lng: -119.8000
 zipSample: ["93245"]
 zipCodes: ["93245"]
 localPaths: ["Kings County / primary ZIP 93245", "Kings County / ZIP 93245 sector", "Kings County / coords 36.2900, -119.8000", "Kings County / elevation 220 ft band"]
-zillowHomeValueUsd: 384334
 ---
 
 **Engineering Notice for Lemoore:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kings County.

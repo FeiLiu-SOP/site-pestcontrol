@@ -11,7 +11,6 @@ lng: -74.3400
 zipSample: ["07090"]
 zipCodes: ["07090"]
 localPaths: ["Union County / coords 40.6500, -74.3400", "Union County / elevation 121 ft band", "Union County / primary ZIP 07090", "Union County / ZIP 07090 sector"]
-zillowHomeValueUsd: 1270837
 ---
 
 **Engineering Notice for Westfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Union County.

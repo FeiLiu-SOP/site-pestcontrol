@@ -11,7 +11,6 @@ lng: -77.5100
 zipSample: ["20152"]
 zipCodes: ["20152"]
 localPaths: ["Loudoun County / ZIP 20152 sector", "Loudoun County / primary ZIP 20152", "Loudoun County / coords 38.9100, -77.5100", "Loudoun County / elevation 285 ft band"]
-zillowHomeValueUsd: 853535
 ---
 
 **Engineering Notice for South Riding:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Loudoun County.

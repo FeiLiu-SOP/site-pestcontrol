@@ -11,7 +11,6 @@ lng: -94.0000
 zipSample: ["77627"]
 zipCodes: ["77627"]
 localPaths: ["Jefferson County / primary ZIP 77627", "Jefferson County / ZIP 77627 sector", "Jefferson County / coords 29.9700, -94.0000", "Jefferson County / elevation 33 ft band"]
-zillowHomeValueUsd: 211371
 ---
 
 **Engineering Notice for Nederland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.

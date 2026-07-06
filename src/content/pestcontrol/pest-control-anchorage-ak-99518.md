@@ -11,7 +11,6 @@ lng: -149.1100
 zipSample: ["99507", "99508", "99522", "99509", "99504"]
 zipCodes: ["99517", "99520", "99501", "99587", "99530", "99510", "99511", "99577", "99514", "99599", "99567", "99529"]
 localPaths: ["Anchorage County / ZIP 99509 sector", "Anchorage County / coords 61.1500, -149.1100", "Anchorage County / primary ZIP 99518", "Anchorage County / ZIP 99507 sector", "Anchorage County / ZIP 99508 sector"]
-zillowHomeValueUsd: 332177
 ---
 
 **Engineering Notice for Anchorage:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anchorage County.

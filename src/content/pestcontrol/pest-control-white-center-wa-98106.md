@@ -11,7 +11,6 @@ lng: -122.3500
 zipSample: ["98106", "98146", "98168"]
 zipCodes: ["98168", "98106", "98146"]
 localPaths: ["King County / ZIP 98146 sector", "King County / ZIP 98106 sector", "King County / elevation 381 ft band", "King County / coords 47.5100, -122.3500", "King County / ZIP 98168 sector"]
-zillowHomeValueUsd: 673640
 ---
 
 **Engineering Notice for White Center:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.

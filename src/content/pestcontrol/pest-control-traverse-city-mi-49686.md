@@ -7,11 +7,10 @@ zipCode: "49686"
 county: "Grand Traverse County"
 elevationFt: 607
 lat: 44.7500
-lng: -85.6000
+lng: -85.5700
 zipSample: ["49684", "49686"]
 zipCodes: ["49684", "49686"]
-localPaths: ["Grand Traverse County / elevation 607 ft band", "Grand Traverse County / ZIP 49684 sector", "Grand Traverse County / primary ZIP 49686", "Grand Traverse County / ZIP 49686 sector", "Grand Traverse County / coords 44.7500, -85.6000"]
-zillowHomeValueUsd: 396351
+localPaths: ["Grand Traverse County / elevation 607 ft band", "Grand Traverse County / ZIP 49684 sector", "Grand Traverse County / primary ZIP 49686", "Grand Traverse County / ZIP 49686 sector", "Grand Traverse County / coords 44.7500, -85.5700"]
 ---
 
 **Engineering Notice for Traverse City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Grand Traverse County.

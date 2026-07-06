@@ -7,11 +7,10 @@ zipCode: "60048"
 county: "Lake County"
 elevationFt: 719
 lat: 42.3700
-lng: -87.8700
+lng: -87.9000
 zipSample: ["60087", "60048", "60079", "60085"]
 zipCodes: ["60079", "60087", "60048", "60085"]
-localPaths: ["Lake County / primary ZIP 60048", "Lake County / ZIP 60079 sector", "Lake County / ZIP 60087 sector", "Lake County / ZIP 60048 sector", "Lake County / coords 42.3700, -87.8700"]
-zillowHomeValueUsd: 608254
+localPaths: ["Lake County / primary ZIP 60048", "Lake County / ZIP 60079 sector", "Lake County / ZIP 60087 sector", "Lake County / ZIP 60048 sector", "Lake County / coords 42.3700, -87.9000"]
 ---
 
 **Engineering Notice for Waukegan:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.
@@ -43,7 +42,7 @@ Risk flag: Misidentified species can waste treatment cycles—inspection before 
 
 Technicians photograph bait station anchors before occupant re-entry clocks start.
 
-Exclusion audit 202877: exclusion mesh gauge and rodent runway grease mark reviewed for Waukegan, IL at 42.3700/-87.8700.
+Exclusion audit 202877: exclusion mesh gauge and rodent runway grease mark reviewed for Waukegan, IL at 42.3700/-87.9000.
 
 Regional mesh label Lake County: moisture and logistics baselines are keyed to Waukegan, IL before niche-specific work begins.
 

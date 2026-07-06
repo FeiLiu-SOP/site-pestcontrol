@@ -11,7 +11,6 @@ lng: -88.3100
 zipSample: ["60510", "60539"]
 zipCodes: ["60510", "60539"]
 localPaths: ["Kane County / ZIP 60539 sector", "Kane County / primary ZIP 60539", "Kane County / ZIP 60510 sector", "Kane County / elevation 709 ft band", "Kane County / coords 41.8500, -88.3100"]
-zillowHomeValueUsd: 453675
 ---
 
 **Engineering Notice for Batavia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kane County.

@@ -11,7 +11,6 @@ lng: -94.5000
 zipSample: ["64803", "64802", "64801", "64804"]
 zipCodes: ["64801", "64802", "64804", "64803"]
 localPaths: ["Jasper County / ZIP 64801 sector", "Jasper County / primary ZIP 64804", "Jasper County / elevation 1010 ft band", "Jasper County / ZIP 64804 sector", "Jasper County / coords 37.0800, -94.5000"]
-zillowHomeValueUsd: 225056
 ---
 
 **Engineering Notice for Joplin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jasper County.

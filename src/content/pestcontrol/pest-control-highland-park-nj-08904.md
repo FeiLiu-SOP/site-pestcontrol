@@ -11,7 +11,6 @@ lng: -74.4300
 zipSample: ["08904"]
 zipCodes: ["08904"]
 localPaths: ["Middlesex County / coords 40.5000, -74.4300", "Middlesex County / ZIP 08904 sector", "Middlesex County / primary ZIP 08904", "Middlesex County / elevation 85 ft band"]
-zillowHomeValueUsd: 584969
 ---
 
 **Engineering Notice for Highland Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.

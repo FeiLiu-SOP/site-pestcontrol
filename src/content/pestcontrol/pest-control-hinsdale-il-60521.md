@@ -11,7 +11,6 @@ lng: -87.9300
 zipSample: ["60521"]
 zipCodes: ["60521"]
 localPaths: ["DuPage County / elevation 728 ft band", "DuPage County / coords 41.8000, -87.9300", "DuPage County / ZIP 60521 sector", "DuPage County / primary ZIP 60521"]
-zillowHomeValueUsd: 1210406
 ---
 
 **Engineering Notice for Hinsdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.

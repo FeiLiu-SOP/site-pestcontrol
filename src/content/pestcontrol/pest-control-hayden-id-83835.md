@@ -11,7 +11,6 @@ lng: -116.8000
 zipSample: ["83835"]
 zipCodes: ["83835"]
 localPaths: ["Kootenai County / coords 47.7700, -116.8000", "Kootenai County / ZIP 83835 sector", "Kootenai County / primary ZIP 83835", "Kootenai County / elevation 2293 ft band"]
-zillowHomeValueUsd: 647067
 ---
 
 **Engineering Notice for Hayden:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kootenai County.

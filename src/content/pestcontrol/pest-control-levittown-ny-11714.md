@@ -11,7 +11,6 @@ lng: -73.5100
 zipSample: ["11714", "11756", "11783"]
 zipCodes: ["11714", "11756", "11783"]
 localPaths: ["Nassau County / elevation 92 ft band", "Nassau County / primary ZIP 11714", "Nassau County / ZIP 11783 sector", "Nassau County / ZIP 11756 sector", "Nassau County / coords 40.7200, -73.5100"]
-zillowHomeValueUsd: 771220
 ---
 
 **Engineering Notice for Levittown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

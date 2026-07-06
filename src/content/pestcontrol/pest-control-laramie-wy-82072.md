@@ -11,7 +11,6 @@ lng: -105.6100
 zipSample: ["82070", "82072"]
 zipCodes: ["82070", "82072"]
 localPaths: ["Albany County / ZIP 82072 sector", "Albany County / elevation 7149 ft band", "Albany County / primary ZIP 82072", "Albany County / ZIP 82070 sector", "Albany County / coords 41.3100, -105.6100"]
-zillowHomeValueUsd: 363845
 ---
 
 **Engineering Notice for Laramie:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Albany County.

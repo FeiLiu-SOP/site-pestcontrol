@@ -11,7 +11,6 @@ lng: -118.3400
 zipSample: ["99362"]
 zipCodes: ["99362"]
 localPaths: ["Walla Walla County / coords 46.0700, -118.3400", "Walla Walla County / ZIP 99362 sector", "Walla Walla County / primary ZIP 99362", "Walla Walla County / elevation 965 ft band"]
-zillowHomeValueUsd: 413004
 ---
 
 **Engineering Notice for Walla Walla:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Walla Walla County.

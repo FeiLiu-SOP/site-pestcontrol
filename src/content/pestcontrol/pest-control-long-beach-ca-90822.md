@@ -11,7 +11,6 @@ lng: -118.1700
 zipSample: ["90846", "90833", "90814", "90842", "90815"]
 zipCodes: ["90840", "90802", "90808", "90833", "90815", "90813", "90814", "90853", "90806", "90810", "90832", "90807"]
 localPaths: ["Los Angeles County / coords 33.8000, -118.1700", "Los Angeles County / ZIP 90842 sector", "Los Angeles County / ZIP 90846 sector", "Los Angeles County / primary ZIP 90822", "Los Angeles County / elevation 187 ft band"]
-zillowHomeValueUsd: 714536
 ---
 
 **Engineering Notice for Long Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

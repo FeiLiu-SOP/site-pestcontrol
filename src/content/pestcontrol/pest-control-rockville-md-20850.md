@@ -11,7 +11,6 @@ lng: -77.1600
 zipSample: ["20849", "20848", "20852", "20847", "20850"]
 zipCodes: ["20857", "20847", "20848", "20852", "20851", "20850", "20849"]
 localPaths: ["Montgomery County / coords 39.0800, -77.1600", "Montgomery County / ZIP 20849 sector", "Montgomery County / ZIP 20850 sector", "Montgomery County / ZIP 20847 sector", "Montgomery County / elevation 463 ft band"]
-zillowHomeValueUsd: 697007
 ---
 
 **Engineering Notice for Rockville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

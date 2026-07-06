@@ -11,7 +11,6 @@ lng: -75.3800
 zipSample: ["19406", "19484"]
 zipCodes: ["19406", "19484"]
 localPaths: ["Montgomery County / coords 40.1000, -75.3800", "Montgomery County / elevation 135 ft band", "Montgomery County / primary ZIP 19406", "Montgomery County / ZIP 19484 sector", "Montgomery County / ZIP 19406 sector"]
-zillowHomeValueUsd: 493027
 ---
 
 **Engineering Notice for King of Prussia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

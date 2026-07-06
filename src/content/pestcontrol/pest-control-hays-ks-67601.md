@@ -11,7 +11,6 @@ lng: -99.3200
 zipSample: ["67601"]
 zipCodes: ["67601"]
 localPaths: ["Ellis County / elevation 2047 ft band", "Ellis County / ZIP 67601 sector", "Ellis County / primary ZIP 67601", "Ellis County / coords 38.8800, -99.3200"]
-zillowHomeValueUsd: 254482
 ---
 
 **Engineering Notice for Hays:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ellis County.

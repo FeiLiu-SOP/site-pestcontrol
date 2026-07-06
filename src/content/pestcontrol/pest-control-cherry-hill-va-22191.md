@@ -11,7 +11,6 @@ lng: -77.2900
 zipSample: ["22026", "22191"]
 zipCodes: ["22026", "22191"]
 localPaths: ["Prince William County / coords 38.5700, -77.2900", "Prince William County / elevation 220 ft band", "Prince William County / ZIP 22191 sector", "Prince William County / primary ZIP 22191", "Prince William County / ZIP 22026 sector"]
-zillowHomeValueUsd: 489052
 ---
 
 **Engineering Notice for Cherry Hill:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince William County.

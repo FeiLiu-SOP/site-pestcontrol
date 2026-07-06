@@ -11,7 +11,6 @@ lng: -116.1400
 zipSample: ["92236"]
 zipCodes: ["92236"]
 localPaths: ["Riverside County / elevation -67 ft band", "Riverside County / primary ZIP 92236", "Riverside County / ZIP 92236 sector", "Riverside County / coords 33.6900, -116.1400"]
-zillowHomeValueUsd: 432457
 ---
 
 **Engineering Notice for Coachella:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.

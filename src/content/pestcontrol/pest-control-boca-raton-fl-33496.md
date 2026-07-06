@@ -6,12 +6,11 @@ state: "FL"
 zipCode: "33496"
 county: "Palm Beach County"
 elevationFt: 20
-lat: 26.3800
+lat: 26.4100
 lng: -80.1100
 zipSample: ["33486", "33429", "33433", "33432", "33431"]
 zipCodes: ["33496", "33429", "33499", "33427", "33432", "33434", "33431", "33481", "33487", "33486", "33433"]
 localPaths: ["Palm Beach County / ZIP 33432 sector", "Palm Beach County / ZIP 33429 sector", "Palm Beach County / primary ZIP 33496", "Palm Beach County / elevation 20 ft band", "Palm Beach County / ZIP 33431 sector"]
-zillowHomeValueUsd: 980329
 ---
 
 **Engineering Notice for Boca Raton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Palm Beach County.
@@ -43,7 +42,7 @@ Material note: Copper mesh and rigid foam differ in rodent exclusion durability 
 
 Seasonal cue 934740: cluster fly attic staging reviewed for Boca Raton, FL soffit cavities.
 
-Exclusion audit 934740: exclusion mesh gauge and rodent runway grease mark reviewed for Boca Raton, FL at 26.3800/-80.1100.
+Exclusion audit 934740: exclusion mesh gauge and rodent runway grease mark reviewed for Boca Raton, FL at 26.4100/-80.1100.
 
 On-site sector marker: Palm Beach County / primary ZIP 33496 — logged for map parity and ZIP-corridor verification.
 

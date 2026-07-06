@@ -11,7 +11,6 @@ lng: -98.7300
 zipSample: ["78006"]
 zipCodes: ["78006"]
 localPaths: ["Kendall County / coords 29.7800, -98.7300", "Kendall County / primary ZIP 78006", "Kendall County / elevation 1463 ft band", "Kendall County / ZIP 78006 sector"]
-zillowHomeValueUsd: 590463
 ---
 
 **Engineering Notice for Boerne:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kendall County.

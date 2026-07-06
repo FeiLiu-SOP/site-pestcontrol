@@ -11,7 +11,6 @@ lng: -88.1300
 zipSample: ["53150"]
 zipCodes: ["53150"]
 localPaths: ["Waukesha County / elevation 774 ft band", "Waukesha County / ZIP 53150 sector", "Waukesha County / primary ZIP 53150", "Waukesha County / coords 42.8900, -88.1300"]
-zillowHomeValueUsd: 514584
 ---
 
 **Engineering Notice for Muskego:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Waukesha County.

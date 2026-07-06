@@ -11,7 +11,6 @@ lng: -116.0000
 zipSample: ["89041", "89061", "89048", "89060"]
 zipCodes: ["89060", "89061", "89041", "89048"]
 localPaths: ["Nye County / ZIP 89048 sector", "Nye County / ZIP 89041 sector", "Nye County / coords 36.2200, -116.0000", "Nye County / ZIP 89061 sector", "Nye County / elevation 2628 ft band"]
-zillowHomeValueUsd: 371884
 ---
 
 **Engineering Notice for Pahrump:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nye County.

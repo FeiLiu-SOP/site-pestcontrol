@@ -11,7 +11,6 @@ lng: -118.7500
 zipSample: ["93094", "93062", "93063", "93099", "93065"]
 zipCodes: ["93065", "93063", "93062", "93094", "93099"]
 localPaths: ["Ventura County / primary ZIP 93063", "Ventura County / ZIP 93063 sector", "Ventura County / coords 34.2700, -118.7500", "Ventura County / ZIP 93094 sector", "Ventura County / ZIP 93062 sector"]
-zillowHomeValueUsd: 843093
 ---
 
 **Engineering Notice for Simi Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ventura County.

@@ -11,7 +11,6 @@ lng: -122.4500
 zipSample: ["98264"]
 zipCodes: ["98264"]
 localPaths: ["Whatcom County / coords 48.9500, -122.4500", "Whatcom County / ZIP 98264 sector", "Whatcom County / primary ZIP 98264", "Whatcom County / elevation 102 ft band"]
-zillowHomeValueUsd: 622652
 ---
 
 **Engineering Notice for Lynden:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Whatcom County.

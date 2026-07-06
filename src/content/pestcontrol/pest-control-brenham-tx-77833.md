@@ -11,7 +11,6 @@ lng: -96.4000
 zipSample: ["77833", "77834"]
 zipCodes: ["77834", "77833"]
 localPaths: ["Washington County / coords 30.1600, -96.4000", "Washington County / ZIP 77833 sector", "Washington County / ZIP 77834 sector", "Washington County / primary ZIP 77833", "Washington County / elevation 325 ft band"]
-zillowHomeValueUsd: 332601
 ---
 
 **Engineering Notice for Brenham:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.

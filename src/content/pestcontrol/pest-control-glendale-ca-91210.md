@@ -11,7 +11,6 @@ lng: -118.2500
 zipSample: ["91206", "91214", "91210", "91209", "91205"]
 zipCodes: ["91204", "91203", "91225", "91222", "91201", "91205", "91206", "91209", "91046", "91221", "91226", "91214"]
 localPaths: ["Los Angeles County / ZIP 91210 sector", "Los Angeles County / ZIP 91205 sector", "Los Angeles County / coords 34.1800, -118.2500", "Los Angeles County / elevation 1512 ft band", "Los Angeles County / ZIP 91206 sector"]
-zillowHomeValueUsd: 1157569
 ---
 
 **Engineering Notice for Glendale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

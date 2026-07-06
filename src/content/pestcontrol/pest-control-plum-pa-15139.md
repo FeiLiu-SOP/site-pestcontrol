@@ -11,7 +11,6 @@ lng: -79.7500
 zipSample: ["15068", "15239", "15268", "15147", "15139"]
 zipCodes: ["15139", "15147", "15268", "15239", "15068"]
 localPaths: ["Allegheny County / primary ZIP 15139", "Allegheny County / ZIP 15068 sector", "Allegheny County / ZIP 15268 sector", "Allegheny County / ZIP 15239 sector", "Allegheny County / elevation 1161 ft band"]
-zillowHomeValueUsd: 333972
 ---
 
 **Engineering Notice for Plum:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Allegheny County.

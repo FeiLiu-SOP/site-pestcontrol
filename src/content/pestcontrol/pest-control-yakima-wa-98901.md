@@ -11,7 +11,6 @@ lng: -120.5500
 zipSample: ["98903", "98901", "98907", "98904", "98902"]
 zipCodes: ["98907", "98904", "98901", "98903", "98902", "98908"]
 localPaths: ["Yakima County / coords 46.5900, -120.5500", "Yakima County / ZIP 98903 sector", "Yakima County / ZIP 98904 sector", "Yakima County / ZIP 98902 sector", "Yakima County / primary ZIP 98901"]
-zillowHomeValueUsd: 333765
 ---
 
 **Engineering Notice for Yakima:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Yakima County.

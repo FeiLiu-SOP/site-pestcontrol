@@ -11,7 +11,6 @@ lng: -80.2200
 zipSample: ["33167", "33168", "33147", "33150"]
 zipCodes: ["33167", "33147", "33150", "33168"]
 localPaths: ["Miami-Dade County / ZIP 33167 sector", "Miami-Dade County / ZIP 33147 sector", "Miami-Dade County / primary ZIP 33147", "Miami-Dade County / coords 25.8700, -80.2200", "Miami-Dade County / elevation 26 ft band"]
-zillowHomeValueUsd: 434323
 ---
 
 **Engineering Notice for Pinewood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

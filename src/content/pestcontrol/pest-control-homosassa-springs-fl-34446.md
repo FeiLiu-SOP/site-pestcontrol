@@ -11,7 +11,6 @@ lng: -82.5400
 zipSample: ["34447", "34446", "34448"]
 zipCodes: ["34448", "34447", "34446"]
 localPaths: ["Citrus County / elevation 43 ft band", "Citrus County / ZIP 34446 sector", "Citrus County / ZIP 34447 sector", "Citrus County / coords 28.8100, -82.5400", "Citrus County / ZIP 34448 sector"]
-zillowHomeValueUsd: 319383
 ---
 
 **Engineering Notice for Homosassa Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Citrus County.

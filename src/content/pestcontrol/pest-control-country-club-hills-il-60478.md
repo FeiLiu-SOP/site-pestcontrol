@@ -11,7 +11,6 @@ lng: -87.7300
 zipSample: ["60478"]
 zipCodes: ["60478"]
 localPaths: ["Cook County / primary ZIP 60478", "Cook County / elevation 689 ft band", "Cook County / ZIP 60478 sector", "Cook County / coords 41.5600, -87.7300"]
-zillowHomeValueUsd: 200155
 ---
 
 **Engineering Notice for Country Club Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

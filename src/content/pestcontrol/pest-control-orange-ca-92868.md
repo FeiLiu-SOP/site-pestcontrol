@@ -11,7 +11,6 @@ lng: -117.8200
 zipSample: ["92869", "92866", "92863", "92868", "92864"]
 zipCodes: ["92857", "92856", "92867", "92868", "92866", "92869", "92865", "92863", "92864"]
 localPaths: ["Orange County / ZIP 92869 sector", "Orange County / primary ZIP 92868", "Orange County / ZIP 92868 sector", "Orange County / ZIP 92866 sector", "Orange County / ZIP 92864 sector"]
-zillowHomeValueUsd: 907081
 ---
 
 **Engineering Notice for Orange:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

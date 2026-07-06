@@ -11,7 +11,6 @@ lng: -117.6400
 zipSample: ["92694"]
 zipCodes: ["92694"]
 localPaths: ["Orange County / coords 33.5500, -117.6400", "Orange County / primary ZIP 92694", "Orange County / ZIP 92694 sector", "Orange County / elevation 512 ft band"]
-zillowHomeValueUsd: 1275260
 ---
 
 **Engineering Notice for Ladera Ranch:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

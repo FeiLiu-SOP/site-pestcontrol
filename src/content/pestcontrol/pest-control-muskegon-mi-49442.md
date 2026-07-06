@@ -7,11 +7,10 @@ zipCode: "49442"
 county: "Muskegon County"
 elevationFt: 623
 lat: 43.2300
-lng: -86.2600
+lng: -86.2900
 zipSample: ["49441", "49442", "49440", "49443"]
 zipCodes: ["49442", "49441", "49443", "49440"]
-localPaths: ["Muskegon County / ZIP 49443 sector", "Muskegon County / primary ZIP 49442", "Muskegon County / ZIP 49440 sector", "Muskegon County / coords 43.2300, -86.2600", "Muskegon County / ZIP 49442 sector"]
-zillowHomeValueUsd: 176223
+localPaths: ["Muskegon County / ZIP 49443 sector", "Muskegon County / primary ZIP 49442", "Muskegon County / ZIP 49440 sector", "Muskegon County / coords 43.2300, -86.2900", "Muskegon County / ZIP 49442 sector"]
 ---
 
 **Engineering Notice for Muskegon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Muskegon County.
@@ -45,8 +44,8 @@ Cluster fly attic staging in Muskegon, MI peaks on south-facing voids after sunn
 
 Perimeter dossier 284713: bait station anchor map and mulch bridge risk flagged for Muskegon, MI county Muskegon County (ZIP 49442).
 
-Harbor ledger 284713: frass lane, mud-tube scan, and garage jamb gap measure filed for Muskegon, MI at 43.2300, -86.2600.
+Harbor ledger 284713: frass lane, mud-tube scan, and garage jamb gap measure filed for Muskegon, MI at 43.2300, -86.2900.
 
-**Regional Infrastructure Brief:** Terrain baseline indicates ~623 ft across the Muskegon County area. Coordinates: 43.2300, -86.2600. ZIP sample: 49440, 49443, 49441, 49442. Regional routing note: Muskegon County traffic flow is balanced around ZIP 49442 service demand.
+**Regional Infrastructure Brief:** Terrain baseline indicates ~623 ft across the Muskegon County area. Coordinates: 43.2300, -86.2900. ZIP sample: 49440, 49443, 49441, 49442. Regional routing note: Muskegon County traffic flow is balanced around ZIP 49442 service demand.
 
 Service reference: MI-49442-9502cbaf

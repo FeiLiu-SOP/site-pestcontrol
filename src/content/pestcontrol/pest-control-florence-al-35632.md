@@ -11,7 +11,6 @@ lng: -87.6700
 zipSample: ["35633", "35632", "35630", "35631"]
 zipCodes: ["35632", "35633", "35631", "35630"]
 localPaths: ["Lauderdale County / primary ZIP 35632", "Lauderdale County / ZIP 35630 sector", "Lauderdale County / ZIP 35632 sector", "Lauderdale County / ZIP 35631 sector", "Lauderdale County / elevation 610 ft band"]
-zillowHomeValueUsd: 174227
 ---
 
 **Engineering Notice for Florence:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lauderdale County.

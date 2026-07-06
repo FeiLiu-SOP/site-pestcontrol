@@ -11,7 +11,6 @@ lng: -85.5600
 zipSample: ["40047"]
 zipCodes: ["40047"]
 localPaths: ["Bullitt County / primary ZIP 40047", "Bullitt County / coords 38.0400, -85.5600", "Bullitt County / elevation 666 ft band", "Bullitt County / ZIP 40047 sector"]
-zillowHomeValueUsd: 324496
 ---
 
 **Engineering Notice for Mount Washington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bullitt County.

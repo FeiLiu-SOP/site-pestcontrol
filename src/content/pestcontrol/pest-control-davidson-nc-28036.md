@@ -11,7 +11,6 @@ lng: -80.8200
 zipSample: ["28035", "28036"]
 zipCodes: ["28036", "28035"]
 localPaths: ["Mecklenburg County / ZIP 28036 sector", "Mecklenburg County / elevation 751 ft band", "Mecklenburg County / ZIP 28035 sector", "Mecklenburg County / coords 35.4800, -80.8200", "Mecklenburg County / primary ZIP 28036"]
-zillowHomeValueUsd: 655806
 ---
 
 **Engineering Notice for Davidson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Mecklenburg County.

@@ -11,7 +11,6 @@ lng: -120.9600
 zipSample: ["95351", "95358", "95307"]
 zipCodes: ["95351", "95307", "95358"]
 localPaths: ["Stanislaus County / primary ZIP 95358", "Stanislaus County / elevation 82 ft band", "Stanislaus County / ZIP 95307 sector", "Stanislaus County / ZIP 95351 sector", "Stanislaus County / ZIP 95358 sector"]
-zillowHomeValueUsd: 434011
 ---
 
 **Engineering Notice for Ceres:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Stanislaus County.

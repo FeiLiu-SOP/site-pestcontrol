@@ -11,7 +11,6 @@ lng: -110.3200
 zipSample: ["85635", "85613", "85670", "85650"]
 zipCodes: ["85670", "85613", "85650", "85635"]
 localPaths: ["Cochise County / ZIP 85670 sector", "Cochise County / ZIP 85635 sector", "Cochise County / elevation 4649 ft band", "Cochise County / coords 31.5600, -110.3200", "Cochise County / primary ZIP 85650"]
-zillowHomeValueUsd: 359398
 ---
 
 **Engineering Notice for Sierra Vista:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cochise County.

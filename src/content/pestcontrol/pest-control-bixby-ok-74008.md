@@ -11,7 +11,6 @@ lng: -95.8800
 zipSample: ["74008"]
 zipCodes: ["74008"]
 localPaths: ["Tulsa County / ZIP 74008 sector", "Tulsa County / primary ZIP 74008", "Tulsa County / elevation 617 ft band", "Tulsa County / coords 35.9500, -95.8800"]
-zillowHomeValueUsd: 349671
 ---
 
 **Engineering Notice for Bixby:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tulsa County.

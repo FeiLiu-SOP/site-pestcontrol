@@ -11,7 +11,6 @@ lng: -74.0700
 zipSample: ["10952", "10977"]
 zipCodes: ["10952", "10977"]
 localPaths: ["Rockland County / primary ZIP 10952", "Rockland County / elevation 554 ft band", "Rockland County / ZIP 10952 sector", "Rockland County / ZIP 10977 sector", "Rockland County / coords 41.1200, -74.0700"]
-zillowHomeValueUsd: 1129889
 ---
 
 **Engineering Notice for Monsey:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rockland County.

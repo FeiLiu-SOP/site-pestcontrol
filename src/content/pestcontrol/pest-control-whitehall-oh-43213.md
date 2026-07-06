@@ -11,7 +11,6 @@ lng: -82.8800
 zipSample: ["43213", "43216"]
 zipCodes: ["43213", "43216"]
 localPaths: ["Franklin County / elevation 797 ft band", "Franklin County / ZIP 43216 sector", "Franklin County / coords 39.9700, -82.8800", "Franklin County / ZIP 43213 sector", "Franklin County / primary ZIP 43213"]
-zillowHomeValueUsd: 213931
 ---
 
 **Engineering Notice for Whitehall:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Franklin County.

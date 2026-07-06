@@ -11,7 +11,6 @@ lng: -90.0300
 zipSample: ["70056"]
 zipCodes: ["70056"]
 localPaths: ["Jefferson Parish / primary ZIP 70056", "Jefferson Parish / ZIP 70056 sector", "Jefferson Parish / coords 29.9000, -90.0300", "Jefferson Parish / elevation 7 ft band"]
-zillowHomeValueUsd: 250939
 ---
 
 **Engineering Notice for Terrytown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson Parish.

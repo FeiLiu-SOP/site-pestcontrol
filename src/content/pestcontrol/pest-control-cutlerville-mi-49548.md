@@ -7,11 +7,10 @@ zipCode: "49548"
 county: "Kent County"
 elevationFt: 676
 lat: 42.8400
-lng: -85.6700
+lng: -85.6400
 zipSample: ["49315", "49548"]
 zipCodes: ["49548", "49315"]
-localPaths: ["Kent County / primary ZIP 49548", "Kent County / ZIP 49315 sector", "Kent County / elevation 676 ft band", "Kent County / coords 42.8400, -85.6700", "Kent County / ZIP 49548 sector"]
-zillowHomeValueUsd: 250313
+localPaths: ["Kent County / primary ZIP 49548", "Kent County / ZIP 49315 sector", "Kent County / elevation 676 ft band", "Kent County / coords 42.8400, -85.6400", "Kent County / ZIP 49548 sector"]
 ---
 
 **Engineering Notice for Cutlerville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kent County.
@@ -41,7 +40,7 @@ Drain fly biofilm in Cutlerville, MI floor drains signals grease traps need serv
 
 Material note: Perimeter granules in Cutlerville, MI may need reapplication after heavy irrigation.
 
-Exclusion audit 734219: exclusion mesh gauge and rodent runway grease mark reviewed for Cutlerville, MI at 42.8400/-85.6700.
+Exclusion audit 734219: exclusion mesh gauge and rodent runway grease mark reviewed for Cutlerville, MI at 42.8400/-85.6400.
 
 On-site sector marker: Kent County / elevation 676 ft band — logged for map parity and ZIP-corridor verification.
 

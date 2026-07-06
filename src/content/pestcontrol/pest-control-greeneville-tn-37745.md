@@ -11,7 +11,6 @@ lng: -82.8200
 zipSample: ["37743", "37745", "37744"]
 zipCodes: ["37744", "37745", "37743"]
 localPaths: ["Greene County / ZIP 37744 sector", "Greene County / ZIP 37743 sector", "Greene County / ZIP 37745 sector", "Greene County / coords 36.1700, -82.8200", "Greene County / elevation 1608 ft band"]
-zillowHomeValueUsd: 254340
 ---
 
 **Engineering Notice for Greeneville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Greene County.

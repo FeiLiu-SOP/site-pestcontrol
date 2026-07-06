@@ -11,7 +11,6 @@ lng: -77.6600
 zipSample: ["17201"]
 zipCodes: ["17201"]
 localPaths: ["Franklin County / ZIP 17201 sector", "Franklin County / elevation 633 ft band", "Franklin County / primary ZIP 17201", "Franklin County / coords 39.9300, -77.6600"]
-zillowHomeValueUsd: 252491
 ---
 
 **Engineering Notice for Chambersburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Franklin County.

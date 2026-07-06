@@ -11,7 +11,6 @@ lng: -120.8400
 zipSample: ["93635"]
 zipCodes: ["93635"]
 localPaths: ["Merced County / elevation 118 ft band", "Merced County / coords 37.0600, -120.8400", "Merced County / primary ZIP 93635", "Merced County / ZIP 93635 sector"]
-zillowHomeValueUsd: 462281
 ---
 
 **Engineering Notice for Los Banos:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Merced County.

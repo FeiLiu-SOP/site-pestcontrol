@@ -11,7 +11,6 @@ lng: -97.3300
 zipSample: ["78374", "78390"]
 zipCodes: ["78374", "78390"]
 localPaths: ["San Patricio County / coords 27.8900, -97.3300", "San Patricio County / primary ZIP 78374", "San Patricio County / elevation 52 ft band", "San Patricio County / ZIP 78374 sector", "San Patricio County / ZIP 78390 sector"]
-zillowHomeValueUsd: 267385
 ---
 
 **Engineering Notice for Portland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Patricio County.

@@ -7,11 +7,10 @@ zipCode: "49001"
 county: "Kalamazoo County"
 elevationFt: 784
 lat: 42.2700
-lng: -85.5900
+lng: -85.5600
 zipSample: ["49005", "49008", "49074", "49006", "49019"]
 zipCodes: ["49074", "49019", "49007", "49001", "49005", "49008", "49006"]
 localPaths: ["Kalamazoo County / elevation 784 ft band", "Kalamazoo County / ZIP 49008 sector", "Kalamazoo County / ZIP 49019 sector", "Kalamazoo County / primary ZIP 49001", "Kalamazoo County / ZIP 49006 sector"]
-zillowHomeValueUsd: 163346
 ---
 
 **Engineering Notice for Kalamazoo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kalamazoo County.

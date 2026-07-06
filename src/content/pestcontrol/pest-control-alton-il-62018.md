@@ -11,7 +11,6 @@ lng: -90.1500
 zipSample: ["62002", "62018"]
 zipCodes: ["62002", "62018"]
 localPaths: ["Madison County / coords 38.9000, -90.1500", "Madison County / ZIP 62002 sector", "Madison County / ZIP 62018 sector", "Madison County / elevation 535 ft band", "Madison County / primary ZIP 62018"]
-zillowHomeValueUsd: 107999
 ---
 
 **Engineering Notice for Alton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Madison County.

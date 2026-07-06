@@ -11,7 +11,6 @@ lng: -84.4100
 zipSample: ["48864", "48805"]
 zipCodes: ["48864", "48805"]
 localPaths: ["Ingham County / elevation 863 ft band", "Ingham County / ZIP 48805 sector", "Ingham County / ZIP 48864 sector", "Ingham County / coords 42.7100, -84.4100", "Ingham County / primary ZIP 48864"]
-zillowHomeValueUsd: 390270
 ---
 
 **Engineering Notice for Okemos:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ingham County.

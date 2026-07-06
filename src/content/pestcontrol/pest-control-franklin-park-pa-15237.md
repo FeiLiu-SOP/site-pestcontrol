@@ -11,7 +11,6 @@ lng: -80.1000
 zipSample: ["15090", "15237", "15143"]
 zipCodes: ["15090", "15237", "15143"]
 localPaths: ["Allegheny County / elevation 1257 ft band", "Allegheny County / ZIP 15237 sector", "Allegheny County / ZIP 15090 sector", "Allegheny County / ZIP 15143 sector", "Allegheny County / coords 40.5900, -80.1000"]
-zillowHomeValueUsd: 356615
 ---
 
 **Engineering Notice for Franklin Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Allegheny County.

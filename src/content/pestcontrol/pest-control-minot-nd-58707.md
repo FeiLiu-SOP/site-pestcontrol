@@ -11,7 +11,6 @@ lng: -101.2800
 zipSample: ["58702", "58701", "58703", "58707"]
 zipCodes: ["58701", "58702", "58707", "58703"]
 localPaths: ["Ward County / ZIP 58701 sector", "Ward County / primary ZIP 58707", "Ward County / ZIP 58703 sector", "Ward County / elevation 1555 ft band", "Ward County / coords 48.2400, -101.2800"]
-zillowHomeValueUsd: 281821
 ---
 
 **Engineering Notice for Minot:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ward County.

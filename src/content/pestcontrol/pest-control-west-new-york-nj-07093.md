@@ -11,7 +11,6 @@ lng: -74.0100
 zipSample: ["07093"]
 zipCodes: ["07093"]
 localPaths: ["Hudson County / ZIP 07093 sector", "Hudson County / coords 40.7900, -74.0100", "Hudson County / primary ZIP 07093", "Hudson County / elevation 171 ft band"]
-zillowHomeValueUsd: 442368
 ---
 
 **Engineering Notice for West New York:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hudson County.

@@ -11,7 +11,6 @@ lng: -104.9900
 zipSample: ["80151", "80110", "80150", "80113"]
 zipCodes: ["80113", "80151", "80150", "80110"]
 localPaths: ["Arapahoe County / ZIP 80151 sector", "Arapahoe County / ZIP 80150 sector", "Arapahoe County / primary ZIP 80113", "Arapahoe County / ZIP 80113 sector", "Arapahoe County / ZIP 80110 sector"]
-zillowHomeValueUsd: 646669
 ---
 
 **Engineering Notice for Englewood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Arapahoe County.

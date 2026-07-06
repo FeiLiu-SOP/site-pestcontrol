@@ -11,7 +11,6 @@ lng: -97.5100
 zipSample: ["73142", "73109", "73119", "73108", "73184"]
 zipCodes: ["73149", "74857", "73159", "73178", "73125", "73154", "73145", "73143", "73078", "73151", "73147", "73064"]
 localPaths: ["Oklahoma County / coords 35.4700, -97.5100", "Oklahoma County / ZIP 73142 sector", "Oklahoma County / ZIP 73119 sector", "Oklahoma County / ZIP 73108 sector", "Oklahoma County / ZIP 73184 sector"]
-zillowHomeValueUsd: 273362
 ---
 
 **Engineering Notice for Oklahoma City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oklahoma County.

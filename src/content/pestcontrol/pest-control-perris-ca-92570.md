@@ -11,7 +11,6 @@ lng: -117.2200
 zipSample: ["92570", "92599", "92571", "92572"]
 zipCodes: ["92572", "92570", "92571", "92599"]
 localPaths: ["Riverside County / ZIP 92572 sector", "Riverside County / primary ZIP 92570", "Riverside County / ZIP 92599 sector", "Riverside County / ZIP 92570 sector", "Riverside County / coords 33.7900, -117.2200"]
-zillowHomeValueUsd: 580568
 ---
 
 **Engineering Notice for Perris:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.

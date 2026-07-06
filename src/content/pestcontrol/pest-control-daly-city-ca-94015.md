@@ -7,11 +7,10 @@ zipCode: "94015"
 county: "San Mateo County"
 elevationFt: 157
 lat: 37.6900
-lng: -122.4700
+lng: -122.4400
 zipSample: ["94017", "94014", "94015", "94016"]
 zipCodes: ["94014", "94016", "94017", "94015"]
-localPaths: ["San Mateo County / ZIP 94015 sector", "San Mateo County / coords 37.6900, -122.4700", "San Mateo County / ZIP 94017 sector", "San Mateo County / ZIP 94014 sector", "San Mateo County / primary ZIP 94015"]
-zillowHomeValueUsd: 1197130
+localPaths: ["San Mateo County / ZIP 94015 sector", "San Mateo County / coords 37.6900, -122.4400", "San Mateo County / ZIP 94017 sector", "San Mateo County / ZIP 94014 sector", "San Mateo County / primary ZIP 94015"]
 ---
 
 **Engineering Notice for Daly City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Mateo County.
@@ -47,7 +46,7 @@ Material note: Bait matrix rotation reduces resistance in heavy German cockroach
 
 Intercept log 410500: bed bug intercept count staged before Daly City, CA interior gel zones.
 
-Harbor ledger 410500: frass lane, mud-tube scan, and garage jamb gap measure filed for Daly City, CA at 37.6900, -122.4700.
+Harbor ledger 410500: frass lane, mud-tube scan, and garage jamb gap measure filed for Daly City, CA at 37.6900, -122.4400.
 
 On-site sector marker: San Mateo County / ZIP 94016 sector — logged for map parity and ZIP-corridor verification.
 

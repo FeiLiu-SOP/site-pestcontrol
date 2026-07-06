@@ -11,7 +11,6 @@ lng: -79.8400
 zipSample: ["15134", "15132"]
 zipCodes: ["15132", "15134"]
 localPaths: ["Allegheny County / primary ZIP 15132", "Allegheny County / ZIP 15134 sector", "Allegheny County / elevation 1001 ft band", "Allegheny County / ZIP 15132 sector", "Allegheny County / coords 40.3400, -79.8400"]
-zillowHomeValueUsd: 73710
 ---
 
 **Engineering Notice for McKeesport:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Allegheny County.

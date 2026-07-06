@@ -11,7 +11,6 @@ lng: -82.1100
 zipSample: ["44036", "44035"]
 zipCodes: ["44035", "44036"]
 localPaths: ["Lorain County / coords 41.3800, -82.1100", "Lorain County / primary ZIP 44035", "Lorain County / ZIP 44036 sector", "Lorain County / ZIP 44035 sector", "Lorain County / elevation 719 ft band"]
-zillowHomeValueUsd: 182802
 ---
 
 **Engineering Notice for Elyria:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lorain County.

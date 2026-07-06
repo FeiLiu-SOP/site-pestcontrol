@@ -11,7 +11,6 @@ lng: -88.0900
 zipSample: ["60047"]
 zipCodes: ["60047"]
 localPaths: ["Lake County / ZIP 60047 sector", "Lake County / primary ZIP 60047", "Lake County / elevation 892 ft band", "Lake County / coords 42.2000, -88.0900"]
-zillowHomeValueUsd: 638901
 ---
 
 **Engineering Notice for Lake Zurich:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

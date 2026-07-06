@@ -11,7 +11,6 @@ lng: -89.0300
 zipSample: ["61115"]
 zipCodes: ["61115"]
 localPaths: ["Winnebago County / elevation 735 ft band", "Winnebago County / ZIP 61115 sector", "Winnebago County / coords 42.3700, -89.0300", "Winnebago County / primary ZIP 61115"]
-zillowHomeValueUsd: 201366
 ---
 
 **Engineering Notice for Machesney Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Winnebago County.

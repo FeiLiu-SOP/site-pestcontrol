@@ -11,7 +11,6 @@ lng: -116.9400
 zipSample: ["92544"]
 zipCodes: ["92544"]
 localPaths: ["Riverside County / elevation 1686 ft band", "Riverside County / ZIP 92544 sector", "Riverside County / coords 33.7300, -116.9400", "Riverside County / primary ZIP 92544"]
-zillowHomeValueUsd: 459519
 ---
 
 **Engineering Notice for East Hemet:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.

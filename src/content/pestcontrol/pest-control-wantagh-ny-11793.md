@@ -11,7 +11,6 @@ lng: -73.5100
 zipSample: ["11793"]
 zipCodes: ["11793"]
 localPaths: ["Nassau County / primary ZIP 11793", "Nassau County / elevation 33 ft band", "Nassau County / coords 40.6700, -73.5100", "Nassau County / ZIP 11793 sector"]
-zillowHomeValueUsd: 800270
 ---
 
 **Engineering Notice for Wantagh:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

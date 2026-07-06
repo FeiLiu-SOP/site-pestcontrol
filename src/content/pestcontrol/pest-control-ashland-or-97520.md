@@ -11,7 +11,6 @@ lng: -122.7000
 zipSample: ["97520"]
 zipCodes: ["97520"]
 localPaths: ["Jackson County / ZIP 97520 sector", "Jackson County / elevation 1972 ft band", "Jackson County / coords 42.1900, -122.7000", "Jackson County / primary ZIP 97520"]
-zillowHomeValueUsd: 550588
 ---
 
 **Engineering Notice for Ashland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jackson County.

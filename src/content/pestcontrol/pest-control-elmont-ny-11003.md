@@ -11,7 +11,6 @@ lng: -73.7100
 zipSample: ["11003"]
 zipCodes: ["11003"]
 localPaths: ["Nassau County / primary ZIP 11003", "Nassau County / ZIP 11003 sector", "Nassau County / coords 40.7000, -73.7100", "Nassau County / elevation 66 ft band"]
-zillowHomeValueUsd: 726205
 ---
 
 **Engineering Notice for Elmont:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

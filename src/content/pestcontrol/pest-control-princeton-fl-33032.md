@@ -11,7 +11,6 @@ lng: -80.4000
 zipSample: ["33092", "33032"]
 zipCodes: ["33092", "33032"]
 localPaths: ["Miami-Dade County / coords 25.5400, -80.4000", "Miami-Dade County / primary ZIP 33032", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / ZIP 33032 sector", "Miami-Dade County / ZIP 33092 sector"]
-zillowHomeValueUsd: 454906
 ---
 
 **Engineering Notice for Princeton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

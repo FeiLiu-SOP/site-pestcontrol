@@ -7,11 +7,10 @@ zipCode: "94949"
 county: "Marin County"
 elevationFt: 10
 lat: 38.0900
-lng: -122.5600
+lng: -122.5300
 zipSample: ["94947", "94998", "94945", "94949"]
 zipCodes: ["94947", "94945", "94949", "94998"]
-localPaths: ["Marin County / primary ZIP 94949", "Marin County / elevation 10 ft band", "Marin County / ZIP 94945 sector", "Marin County / ZIP 94998 sector", "Marin County / coords 38.0900, -122.5600"]
-zillowHomeValueUsd: 1237184
+localPaths: ["Marin County / primary ZIP 94949", "Marin County / elevation 10 ft band", "Marin County / ZIP 94945 sector", "Marin County / ZIP 94998 sector", "Marin County / coords 38.0900, -122.5300"]
 ---
 
 **Engineering Notice for Novato:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marin County.

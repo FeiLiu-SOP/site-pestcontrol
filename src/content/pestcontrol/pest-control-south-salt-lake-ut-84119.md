@@ -11,7 +11,6 @@ lng: -111.9000
 zipSample: ["84190", "84119", "84115", "84165"]
 zipCodes: ["84190", "84115", "84165", "84119"]
 localPaths: ["Salt Lake County / ZIP 84119 sector", "Salt Lake County / coords 40.7100, -111.9000", "Salt Lake County / ZIP 84115 sector", "Salt Lake County / ZIP 84165 sector", "Salt Lake County / primary ZIP 84119"]
-zillowHomeValueUsd: 437603
 ---
 
 **Engineering Notice for South Salt Lake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Salt Lake County.

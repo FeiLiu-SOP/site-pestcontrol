@@ -11,7 +11,6 @@ lng: -87.8600
 zipSample: ["60901"]
 zipCodes: ["60901"]
 localPaths: ["Kankakee County / elevation 633 ft band", "Kankakee County / primary ZIP 60901", "Kankakee County / coords 41.1000, -87.8600", "Kankakee County / ZIP 60901 sector"]
-zillowHomeValueUsd: 154634
 ---
 
 **Engineering Notice for Kankakee:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kankakee County.

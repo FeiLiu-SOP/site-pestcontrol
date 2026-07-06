@@ -11,7 +11,6 @@ lng: -94.3700
 zipSample: ["72919", "72918", "72923", "72906", "72916"]
 zipCodes: ["72904", "72906", "72914", "72917", "72916", "72919", "72913", "72923", "72901", "72918", "72903", "72908"]
 localPaths: ["Sebastian County / ZIP 72906 sector", "Sebastian County / ZIP 72919 sector", "Sebastian County / ZIP 72923 sector", "Sebastian County / ZIP 72916 sector", "Sebastian County / coords 35.3500, -94.3700"]
-zillowHomeValueUsd: 229106
 ---
 
 **Engineering Notice for Fort Smith:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sebastian County.

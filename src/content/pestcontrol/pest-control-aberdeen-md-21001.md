@@ -11,7 +11,6 @@ lng: -76.1700
 zipSample: ["21001"]
 zipCodes: ["21001"]
 localPaths: ["Harford County / elevation 135 ft band", "Harford County / coords 39.5200, -76.1700", "Harford County / ZIP 21001 sector", "Harford County / primary ZIP 21001"]
-zillowHomeValueUsd: 345681
 ---
 
 **Engineering Notice for Aberdeen:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harford County.

@@ -11,7 +11,6 @@ lng: -80.3200
 zipSample: ["33018", "33014", "33002", "33016"]
 zipCodes: ["33002", "33018", "33016", "33014"]
 localPaths: ["Miami-Dade County / ZIP 33002 sector", "Miami-Dade County / ZIP 33018 sector", "Miami-Dade County / ZIP 33016 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / ZIP 33014 sector"]
-zillowHomeValueUsd: 440106
 ---
 
 **Engineering Notice for Miami Lakes:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

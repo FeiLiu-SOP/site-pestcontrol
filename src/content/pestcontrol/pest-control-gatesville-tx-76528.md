@@ -11,7 +11,6 @@ lng: -97.7300
 zipSample: ["76599", "76598", "76528", "76597", "76596"]
 zipCodes: ["76597", "76596", "76599", "76528", "76598"]
 localPaths: ["Coryell County / ZIP 76528 sector", "Coryell County / ZIP 76597 sector", "Coryell County / elevation 801 ft band", "Coryell County / coords 31.4400, -97.7300", "Coryell County / ZIP 76596 sector"]
-zillowHomeValueUsd: 243046
 ---
 
 **Engineering Notice for Gatesville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Coryell County.

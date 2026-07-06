@@ -11,7 +11,6 @@ lng: -88.2300
 zipSample: ["60185", "60186"]
 zipCodes: ["60185", "60186"]
 localPaths: ["DuPage County / elevation 768 ft band", "DuPage County / ZIP 60186 sector", "DuPage County / coords 41.9000, -88.2300", "DuPage County / primary ZIP 60185", "DuPage County / ZIP 60185 sector"]
-zillowHomeValueUsd: 382818
 ---
 
 **Engineering Notice for West Chicago:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.

@@ -11,7 +11,6 @@ lng: -76.8100
 zipSample: ["20724"]
 zipCodes: ["20724"]
 localPaths: ["Anne Arundel County / elevation 230 ft band", "Anne Arundel County / coords 39.1000, -76.8100", "Anne Arundel County / primary ZIP 20724", "Anne Arundel County / ZIP 20724 sector"]
-zillowHomeValueUsd: 470279
 ---
 
 **Engineering Notice for Maryland City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anne Arundel County.

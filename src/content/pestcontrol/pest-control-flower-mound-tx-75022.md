@@ -11,7 +11,6 @@ lng: -97.1100
 zipSample: ["75028", "75027", "75022"]
 zipCodes: ["75022", "75028", "75027"]
 localPaths: ["Denton County / primary ZIP 75022", "Denton County / elevation 636 ft band", "Denton County / ZIP 75022 sector", "Denton County / ZIP 75027 sector", "Denton County / coords 33.0300, -97.1100"]
-zillowHomeValueUsd: 772861
 ---
 
 **Engineering Notice for Flower Mound:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Denton County.

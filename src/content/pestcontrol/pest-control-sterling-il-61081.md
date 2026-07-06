@@ -11,7 +11,6 @@ lng: -89.7000
 zipSample: ["61081"]
 zipCodes: ["61081"]
 localPaths: ["Whiteside County / coords 41.8000, -89.7000", "Whiteside County / primary ZIP 61081", "Whiteside County / elevation 689 ft band", "Whiteside County / ZIP 61081 sector"]
-zillowHomeValueUsd: 137346
 ---
 
 **Engineering Notice for Sterling:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Whiteside County.

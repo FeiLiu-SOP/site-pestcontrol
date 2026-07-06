@@ -11,7 +11,6 @@ lng: -117.4400
 zipSample: ["92301"]
 zipCodes: ["92301"]
 localPaths: ["San Bernardino County / elevation 2877 ft band", "San Bernardino County / ZIP 92301 sector", "San Bernardino County / primary ZIP 92301", "San Bernardino County / coords 34.5800, -117.4400"]
-zillowHomeValueUsd: 397499
 ---
 
 **Engineering Notice for Adelanto:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.

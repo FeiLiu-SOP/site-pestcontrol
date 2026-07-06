@@ -6,12 +6,11 @@ state: "FL"
 zipCode: "33076"
 county: "Broward County"
 elevationFt: 23
-lat: 26.3200
+lat: 26.3500
 lng: -80.2500
 zipSample: ["33067", "33076"]
 zipCodes: ["33076", "33067"]
-localPaths: ["Broward County / ZIP 33067 sector", "Broward County / elevation 23 ft band", "Broward County / ZIP 33076 sector", "Broward County / primary ZIP 33076", "Broward County / coords 26.3200, -80.2500"]
-zillowHomeValueUsd: 873305
+localPaths: ["Broward County / ZIP 33067 sector", "Broward County / elevation 23 ft band", "Broward County / ZIP 33076 sector", "Broward County / primary ZIP 33076", "Broward County / coords 26.3500, -80.2500"]
 ---
 
 **Engineering Notice for Parkland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.

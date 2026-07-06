@@ -11,7 +11,6 @@ lng: -122.1900
 zipSample: ["98012"]
 zipCodes: ["98012"]
 localPaths: ["Snohomish County / ZIP 98012 sector", "Snohomish County / elevation 384 ft band", "Snohomish County / coords 47.8400, -122.1900", "Snohomish County / primary ZIP 98012"]
-zillowHomeValueUsd: 999068
 ---
 
 **Engineering Notice for Mill Creek East:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Snohomish County.

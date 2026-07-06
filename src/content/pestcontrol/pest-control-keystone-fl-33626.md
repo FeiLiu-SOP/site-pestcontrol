@@ -11,7 +11,6 @@ lng: -82.6000
 zipSample: ["33626", "33558", "33556"]
 zipCodes: ["33556", "33626", "33558"]
 localPaths: ["Hillsborough County / coords 28.1300, -82.6000", "Hillsborough County / ZIP 33556 sector", "Hillsborough County / ZIP 33626 sector", "Hillsborough County / elevation 66 ft band", "Hillsborough County / ZIP 33558 sector"]
-zillowHomeValueUsd: 569018
 ---
 
 **Engineering Notice for Keystone:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.

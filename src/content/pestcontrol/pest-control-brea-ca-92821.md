@@ -11,7 +11,6 @@ lng: -117.8700
 zipSample: ["92823", "92822", "92821"]
 zipCodes: ["92821", "92822", "92823"]
 localPaths: ["Orange County / ZIP 92821 sector", "Orange County / ZIP 92823 sector", "Orange County / ZIP 92822 sector", "Orange County / coords 33.9300, -117.8700", "Orange County / elevation 564 ft band"]
-zillowHomeValueUsd: 1120923
 ---
 
 **Engineering Notice for Brea:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

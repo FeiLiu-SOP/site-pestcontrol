@@ -11,7 +11,6 @@ lng: -81.9200
 zipSample: ["44070"]
 zipCodes: ["44070"]
 localPaths: ["Cuyahoga County / ZIP 44070 sector", "Cuyahoga County / coords 41.4100, -81.9200", "Cuyahoga County / primary ZIP 44070", "Cuyahoga County / elevation 768 ft band"]
-zillowHomeValueUsd: 270644
 ---
 
 **Engineering Notice for North Olmsted:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cuyahoga County.

@@ -11,7 +11,6 @@ lng: -81.4200
 zipSample: ["44278"]
 zipCodes: ["44278"]
 localPaths: ["Summit County / primary ZIP 44278", "Summit County / ZIP 44278 sector", "Summit County / elevation 1204 ft band", "Summit County / coords 41.1000, -81.4200"]
-zillowHomeValueUsd: 282372
 ---
 
 **Engineering Notice for Tallmadge:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Summit County.

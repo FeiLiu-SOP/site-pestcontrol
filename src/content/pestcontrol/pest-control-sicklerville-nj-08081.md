@@ -11,7 +11,6 @@ lng: -74.9900
 zipSample: ["08081"]
 zipCodes: ["08081"]
 localPaths: ["Camden County / primary ZIP 08081", "Camden County / coords 39.7500, -74.9900", "Camden County / ZIP 08081 sector", "Camden County / elevation 174 ft band"]
-zillowHomeValueUsd: 377883
 ---
 
 **Engineering Notice for Sicklerville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Camden County.

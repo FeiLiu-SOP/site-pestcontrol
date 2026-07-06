@@ -11,7 +11,6 @@ lng: -90.4700
 zipSample: ["63146", "63043"]
 zipCodes: ["63043", "63146"]
 localPaths: ["St. Louis County / primary ZIP 63043", "St. Louis County / elevation 535 ft band", "St. Louis County / ZIP 63146 sector", "St. Louis County / ZIP 63043 sector", "St. Louis County / coords 38.7200, -90.4700"]
-zillowHomeValueUsd: 258733
 ---
 
 **Engineering Notice for Maryland Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.

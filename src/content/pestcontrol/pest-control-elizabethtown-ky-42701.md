@@ -11,7 +11,6 @@ lng: -85.8800
 zipSample: ["42702", "42701"]
 zipCodes: ["42701", "42702"]
 localPaths: ["Hardin County / coords 37.7000, -85.8800", "Hardin County / primary ZIP 42701", "Hardin County / ZIP 42702 sector", "Hardin County / ZIP 42701 sector", "Hardin County / elevation 738 ft band"]
-zillowHomeValueUsd: 269220
 ---
 
 **Engineering Notice for Elizabethtown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hardin County.

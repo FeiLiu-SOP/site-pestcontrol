@@ -7,11 +7,10 @@ zipCode: "90304"
 county: "Los Angeles County"
 elevationFt: 82
 lat: 33.9400
-lng: -118.3600
+lng: -118.3300
 zipSample: ["90304"]
 zipCodes: ["90304"]
-localPaths: ["Los Angeles County / coords 33.9400, -118.3600", "Los Angeles County / elevation 82 ft band", "Los Angeles County / ZIP 90304 sector", "Los Angeles County / primary ZIP 90304"]
-zillowHomeValueUsd: 739007
+localPaths: ["Los Angeles County / coords 33.9400, -118.3300", "Los Angeles County / elevation 82 ft band", "Los Angeles County / ZIP 90304 sector", "Los Angeles County / primary ZIP 90304"]
 ---
 
 **Engineering Notice for Lennox:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
@@ -45,10 +44,10 @@ About us: We document conducive conditions and exclusion materials before chemic
 
 Step: identify species before selecting broadcast versus targeted gel programs.
 
-Harbor ledger 914494: frass lane, mud-tube scan, and garage jamb gap measure filed for Lennox, CA at 33.9400, -118.3600.
+Harbor ledger 914494: frass lane, mud-tube scan, and garage jamb gap measure filed for Lennox, CA at 33.9400, -118.3300.
 
 Seasonal cue 914494: cluster fly attic staging reviewed for Lennox, CA soffit cavities.
 
-On-site sector marker: Los Angeles County / coords 33.9400, -118.3600 — logged for map parity and ZIP-corridor verification.
+On-site sector marker: Los Angeles County / coords 33.9400, -118.3300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90304-fe99f365

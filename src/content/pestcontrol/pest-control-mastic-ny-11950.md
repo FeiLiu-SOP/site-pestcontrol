@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11950"
 county: "Suffolk County"
 elevationFt: 52
-lat: 40.8100
-lng: -72.8500
+lat: 40.8205
+lng: -72.8800
 zipSample: ["11949", "11950"]
 zipCodes: ["11949", "11950"]
-localPaths: ["Suffolk County / primary ZIP 11950", "Suffolk County / ZIP 11949 sector", "Suffolk County / elevation 52 ft band", "Suffolk County / coords 40.8100, -72.8500", "Suffolk County / ZIP 11950 sector"]
-zillowHomeValueUsd: 500624
+localPaths: ["Suffolk County / primary ZIP 11950", "Suffolk County / ZIP 11949 sector", "Suffolk County / elevation 52 ft band", "Suffolk County / coords 40.8205, -72.8800", "Suffolk County / ZIP 11950 sector"]
 ---
 
 **Engineering Notice for Mastic:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

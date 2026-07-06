@@ -11,7 +11,6 @@ lng: -80.7100
 zipSample: ["28106", "28105"]
 zipCodes: ["28106", "28105"]
 localPaths: ["Mecklenburg County / ZIP 28106 sector", "Mecklenburg County / elevation 745 ft band", "Mecklenburg County / ZIP 28105 sector", "Mecklenburg County / primary ZIP 28105", "Mecklenburg County / coords 35.1200, -80.7100"]
-zillowHomeValueUsd: 490610
 ---
 
 **Engineering Notice for Matthews:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Mecklenburg County.

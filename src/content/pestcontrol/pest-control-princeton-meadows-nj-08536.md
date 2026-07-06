@@ -11,7 +11,6 @@ lng: -74.5700
 zipSample: ["08536", "08512"]
 zipCodes: ["08512", "08536"]
 localPaths: ["Middlesex County / coords 40.3300, -74.5700", "Middlesex County / ZIP 08512 sector", "Middlesex County / ZIP 08536 sector", "Middlesex County / primary ZIP 08536", "Middlesex County / elevation 98 ft band"]
-zillowHomeValueUsd: 670438
 ---
 
 **Engineering Notice for Princeton Meadows:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.

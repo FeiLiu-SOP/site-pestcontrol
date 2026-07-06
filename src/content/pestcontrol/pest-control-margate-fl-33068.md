@@ -6,12 +6,11 @@ state: "FL"
 zipCode: "33068"
 county: "Broward County"
 elevationFt: 30
-lat: 26.2500
+lat: 26.2800
 lng: -80.2100
 zipSample: ["33063", "33068", "33093"]
 zipCodes: ["33068", "33063", "33093"]
-localPaths: ["Broward County / elevation 30 ft band", "Broward County / ZIP 33063 sector", "Broward County / coords 26.2500, -80.2100", "Broward County / primary ZIP 33068", "Broward County / ZIP 33068 sector"]
-zillowHomeValueUsd: 358214
+localPaths: ["Broward County / elevation 30 ft band", "Broward County / ZIP 33063 sector", "Broward County / coords 26.2800, -80.2100", "Broward County / primary ZIP 33068", "Broward County / ZIP 33068 sector"]
 ---
 
 **Engineering Notice for Margate:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.
@@ -45,6 +44,6 @@ FAQ: When is professional rotation needed? Resistance patterns often require lab
 
 Intercept log 988470: bed bug intercept count staged before Margate, FL interior gel zones.
 
-Coordinate-anchored dispatch note: center reference 26.2500, -80.2100 at elevation ~30 ft aligns with Broward County intake staging.
+Coordinate-anchored dispatch note: center reference 26.2800, -80.2100 at elevation ~30 ft aligns with Broward County intake staging.
 
 Service reference: FL-33068-86bac1d0

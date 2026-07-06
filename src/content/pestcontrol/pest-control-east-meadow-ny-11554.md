@@ -11,7 +11,6 @@ lng: -73.5600
 zipSample: ["11554"]
 zipCodes: ["11554"]
 localPaths: ["Nassau County / coords 40.7200, -73.5600", "Nassau County / ZIP 11554 sector", "Nassau County / primary ZIP 11554", "Nassau County / elevation 85 ft band"]
-zillowHomeValueUsd: 795542
 ---
 
 **Engineering Notice for East Meadow:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

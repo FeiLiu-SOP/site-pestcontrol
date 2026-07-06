@@ -11,7 +11,6 @@ lng: -117.0200
 zipSample: ["91944", "91941", "91943", "91942"]
 zipCodes: ["91941", "91944", "91942", "91943"]
 localPaths: ["San Diego County / ZIP 91941 sector", "San Diego County / coords 32.7700, -117.0200", "San Diego County / ZIP 91942 sector", "San Diego County / ZIP 91943 sector", "San Diego County / primary ZIP 91941"]
-zillowHomeValueUsd: 1030856
 ---
 
 **Engineering Notice for La Mesa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.

@@ -11,7 +11,6 @@ lng: -75.2800
 zipSample: ["19446"]
 zipCodes: ["19446"]
 localPaths: ["Montgomery County / elevation 374 ft band", "Montgomery County / coords 40.2400, -75.2800", "Montgomery County / primary ZIP 19446", "Montgomery County / ZIP 19446 sector"]
-zillowHomeValueUsd: 494532
 ---
 
 **Engineering Notice for Lansdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

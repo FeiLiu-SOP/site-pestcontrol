@@ -11,7 +11,6 @@ lng: -124.0800
 zipSample: ["95518", "95521"]
 zipCodes: ["95518", "95521"]
 localPaths: ["Humboldt County / coords 40.8600, -124.0800", "Humboldt County / primary ZIP 95521", "Humboldt County / ZIP 95518 sector", "Humboldt County / elevation 7 ft band", "Humboldt County / ZIP 95521 sector"]
-zillowHomeValueUsd: 488025
 ---
 
 **Engineering Notice for Arcata:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Humboldt County.

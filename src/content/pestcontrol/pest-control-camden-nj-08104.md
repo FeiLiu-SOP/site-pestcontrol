@@ -11,7 +11,6 @@ lng: -75.1100
 zipSample: ["08103", "08101", "08104", "08102", "08105"]
 zipCodes: ["08103", "08102", "08105", "08104", "08101"]
 localPaths: ["Camden County / ZIP 08102 sector", "Camden County / elevation 26 ft band", "Camden County / ZIP 08104 sector", "Camden County / ZIP 08101 sector", "Camden County / primary ZIP 08104"]
-zillowHomeValueUsd: 131207
 ---
 
 **Engineering Notice for Camden:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Camden County.

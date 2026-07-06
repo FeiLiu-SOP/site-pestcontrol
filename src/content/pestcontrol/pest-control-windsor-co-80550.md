@@ -11,7 +11,6 @@ lng: -104.9200
 zipSample: ["80550", "80551"]
 zipCodes: ["80550", "80551"]
 localPaths: ["Weld County / coords 40.4700, -104.9200", "Weld County / elevation 4777 ft band", "Weld County / ZIP 80550 sector", "Weld County / ZIP 80551 sector", "Weld County / primary ZIP 80550"]
-zillowHomeValueUsd: 547328
 ---
 
 **Engineering Notice for Windsor:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Weld County.

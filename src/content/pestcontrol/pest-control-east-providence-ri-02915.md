@@ -11,7 +11,6 @@ lng: -71.3600
 zipSample: ["02915", "02916", "02914"]
 zipCodes: ["02915", "02914", "02916"]
 localPaths: ["Providence County / ZIP 02916 sector", "Providence County / ZIP 02914 sector", "Providence County / primary ZIP 02915", "Providence County / coords 41.8100, -71.3600", "Providence County / elevation 92 ft band"]
-zillowHomeValueUsd: 437769
 ---
 
 **Engineering Notice for East Providence:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Providence County.

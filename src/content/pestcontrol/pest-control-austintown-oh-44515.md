@@ -11,7 +11,6 @@ lng: -80.7400
 zipSample: ["44515", "44511"]
 zipCodes: ["44515", "44511"]
 localPaths: ["Mahoning County / elevation 1125 ft band", "Mahoning County / ZIP 44511 sector", "Mahoning County / primary ZIP 44515", "Mahoning County / ZIP 44515 sector", "Mahoning County / coords 41.0900, -80.7400"]
-zillowHomeValueUsd: 182647
 ---
 
 **Engineering Notice for Austintown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Mahoning County.

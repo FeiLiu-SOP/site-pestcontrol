@@ -7,11 +7,10 @@ zipCode: "90401"
 county: "Los Angeles County"
 elevationFt: 135
 lat: 34.0200
-lng: -118.4800
+lng: -118.4500
 zipSample: ["90401", "90409", "90404", "90410", "90405"]
 zipCodes: ["90411", "90410", "90409", "90404", "90405", "90402", "90401", "90406", "90403", "90407", "90408"]
-localPaths: ["Los Angeles County / coords 34.0200, -118.4800", "Los Angeles County / ZIP 90409 sector", "Los Angeles County / elevation 135 ft band", "Los Angeles County / ZIP 90410 sector", "Los Angeles County / ZIP 90404 sector"]
-zillowHomeValueUsd: 1317898
+localPaths: ["Los Angeles County / coords 34.0200, -118.4500", "Los Angeles County / ZIP 90409 sector", "Los Angeles County / elevation 135 ft band", "Los Angeles County / ZIP 90410 sector", "Los Angeles County / ZIP 90404 sector"]
 ---
 
 **Engineering Notice for Santa Monica:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

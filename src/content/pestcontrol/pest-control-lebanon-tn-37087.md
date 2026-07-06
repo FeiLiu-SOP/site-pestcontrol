@@ -11,7 +11,6 @@ lng: -86.3500
 zipSample: ["37136", "37071", "37087", "37088", "37090"]
 zipCodes: ["37136", "37087", "37071", "37088", "37090"]
 localPaths: ["Wilson County / coords 36.2000, -86.3500", "Wilson County / primary ZIP 37087", "Wilson County / ZIP 37088 sector", "Wilson County / ZIP 37087 sector", "Wilson County / ZIP 37071 sector"]
-zillowHomeValueUsd: 439024
 ---
 
 **Engineering Notice for Lebanon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wilson County.

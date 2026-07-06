@@ -11,7 +11,6 @@ lng: -75.3000
 zipSample: ["19026"]
 zipCodes: ["19026"]
 localPaths: ["Delaware County / primary ZIP 19026", "Delaware County / ZIP 19026 sector", "Delaware County / coords 39.9500, -75.3000", "Delaware County / elevation 240 ft band"]
-zillowHomeValueUsd: 315357
 ---
 
 **Engineering Notice for Drexel Hill:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Delaware County.

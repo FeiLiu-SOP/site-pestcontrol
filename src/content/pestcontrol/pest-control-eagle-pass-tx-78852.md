@@ -11,7 +11,6 @@ lng: -100.4800
 zipSample: ["78852"]
 zipCodes: ["78852"]
 localPaths: ["Maverick County / elevation 787 ft band", "Maverick County / primary ZIP 78852", "Maverick County / ZIP 78852 sector", "Maverick County / coords 28.7100, -100.4800"]
-zillowHomeValueUsd: 230755
 ---
 
 **Engineering Notice for Eagle Pass:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Maverick County.

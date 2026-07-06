@@ -11,7 +11,6 @@ lng: -117.7200
 zipSample: ["91711"]
 zipCodes: ["91711"]
 localPaths: ["Los Angeles County / primary ZIP 91711", "Los Angeles County / coords 34.1300, -117.7200", "Los Angeles County / elevation 1483 ft band", "Los Angeles County / ZIP 91711 sector"]
-zillowHomeValueUsd: 1040665
 ---
 
 **Engineering Notice for Claremont:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

@@ -11,7 +11,6 @@ lng: -93.4500
 zipSample: ["55303"]
 zipCodes: ["55303"]
 localPaths: ["Anoka County / ZIP 55303 sector", "Anoka County / elevation 886 ft band", "Anoka County / primary ZIP 55303", "Anoka County / coords 45.2600, -93.4500"]
-zillowHomeValueUsd: 372431
 ---
 
 **Engineering Notice for Ramsey:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anoka County.

@@ -11,7 +11,6 @@ lng: -87.8800
 zipSample: ["60914"]
 zipCodes: ["60914"]
 localPaths: ["Kankakee County / primary ZIP 60914", "Kankakee County / ZIP 60914 sector", "Kankakee County / coords 41.1800, -87.8800", "Kankakee County / elevation 696 ft band"]
-zillowHomeValueUsd: 293382
 ---
 
 **Engineering Notice for Bourbonnais:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kankakee County.

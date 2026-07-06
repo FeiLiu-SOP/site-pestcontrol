@@ -11,7 +11,6 @@ lng: -77.3600
 zipSample: ["23116", "23111"]
 zipCodes: ["23111", "23116"]
 localPaths: ["Hanover County / elevation 174 ft band", "Hanover County / primary ZIP 23116", "Hanover County / coords 37.6300, -77.3600", "Hanover County / ZIP 23116 sector", "Hanover County / ZIP 23111 sector"]
-zillowHomeValueUsd: 510536
 ---
 
 **Engineering Notice for Mechanicsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hanover County.

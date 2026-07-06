@@ -11,7 +11,6 @@ lng: -82.7100
 zipSample: ["33780", "33781", "33760", "33782", "33762"]
 zipCodes: ["33760", "33782", "33780", "33781", "33773", "33762"]
 localPaths: ["Pinellas County / ZIP 33762 sector", "Pinellas County / elevation 26 ft band", "Pinellas County / ZIP 33782 sector", "Pinellas County / primary ZIP 33781", "Pinellas County / ZIP 33780 sector"]
-zillowHomeValueUsd: 300953
 ---
 
 **Engineering Notice for Pinellas Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pinellas County.

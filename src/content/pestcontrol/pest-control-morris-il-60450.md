@@ -11,7 +11,6 @@ lng: -88.4300
 zipSample: ["60450"]
 zipCodes: ["60450"]
 localPaths: ["Grundy County / elevation 538 ft band", "Grundy County / coords 41.3700, -88.4300", "Grundy County / ZIP 60450 sector", "Grundy County / primary ZIP 60450"]
-zillowHomeValueUsd: 307935
 ---
 
 **Engineering Notice for Morris:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Grundy County.

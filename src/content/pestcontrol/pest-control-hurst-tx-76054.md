@@ -11,7 +11,6 @@ lng: -97.1800
 zipSample: ["76054", "76053"]
 zipCodes: ["76054", "76053"]
 localPaths: ["Tarrant County / elevation 591 ft band", "Tarrant County / ZIP 76054 sector", "Tarrant County / ZIP 76053 sector", "Tarrant County / coords 32.8400, -97.1800", "Tarrant County / primary ZIP 76054"]
-zillowHomeValueUsd: 420969
 ---
 
 **Engineering Notice for Hurst:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tarrant County.

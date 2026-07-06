@@ -11,7 +11,6 @@ lng: -73.8700
 zipSample: ["10707", "10702", "10704", "10710", "10703"]
 zipCodes: ["10707", "10710", "10708", "10703", "10704", "10705", "10701", "10702"]
 localPaths: ["Westchester County / ZIP 10703 sector", "Westchester County / ZIP 10702 sector", "Westchester County / coords 40.9500, -73.8700", "Westchester County / ZIP 10704 sector", "Westchester County / ZIP 10707 sector"]
-zillowHomeValueUsd: 949638
 ---
 
 **Engineering Notice for Yonkers:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Westchester County.

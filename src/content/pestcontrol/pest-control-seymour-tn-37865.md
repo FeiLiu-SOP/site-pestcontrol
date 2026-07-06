@@ -11,7 +11,6 @@ lng: -83.7700
 zipSample: ["37865"]
 zipCodes: ["37865"]
 localPaths: ["Sevier County / ZIP 37865 sector", "Sevier County / primary ZIP 37865", "Sevier County / coords 35.8800, -83.7700", "Sevier County / elevation 1207 ft band"]
-zillowHomeValueUsd: 373952
 ---
 
 **Engineering Notice for Seymour:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sevier County.

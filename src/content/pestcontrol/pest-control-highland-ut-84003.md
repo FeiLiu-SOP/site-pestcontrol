@@ -11,7 +11,6 @@ lng: -111.8000
 zipSample: ["84003"]
 zipCodes: ["84003"]
 localPaths: ["Utah County / coords 40.4300, -111.8000", "Utah County / elevation 4885 ft band", "Utah County / primary ZIP 84003", "Utah County / ZIP 84003 sector"]
-zillowHomeValueUsd: 598737
 ---
 
 **Engineering Notice for Highland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Utah County.

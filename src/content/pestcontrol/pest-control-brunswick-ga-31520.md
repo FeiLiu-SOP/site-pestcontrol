@@ -11,7 +11,6 @@ lng: -81.4700
 zipSample: ["31521", "31520"]
 zipCodes: ["31521", "31520"]
 localPaths: ["Glynn County / coords 31.1400, -81.4700", "Glynn County / ZIP 31521 sector", "Glynn County / primary ZIP 31520", "Glynn County / elevation 3 ft band", "Glynn County / ZIP 31520 sector"]
-zillowHomeValueUsd: 148443
 ---
 
 **Engineering Notice for Brunswick:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Glynn County.

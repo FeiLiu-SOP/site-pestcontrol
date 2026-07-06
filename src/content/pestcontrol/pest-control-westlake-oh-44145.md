@@ -11,7 +11,6 @@ lng: -81.9300
 zipSample: ["44145"]
 zipCodes: ["44145"]
 localPaths: ["Cuyahoga County / ZIP 44145 sector", "Cuyahoga County / elevation 741 ft band", "Cuyahoga County / coords 41.4500, -81.9300", "Cuyahoga County / primary ZIP 44145"]
-zillowHomeValueUsd: 414677
 ---
 
 **Engineering Notice for Westlake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cuyahoga County.

@@ -11,7 +11,6 @@ lng: -74.4500
 zipSample: ["08404", "08405", "08401"]
 zipCodes: ["08405", "08401", "08404"]
 localPaths: ["Atlantic County / primary ZIP 08401", "Atlantic County / ZIP 08405 sector", "Atlantic County / coords 39.3800, -74.4500", "Atlantic County / elevation 7 ft band", "Atlantic County / ZIP 08401 sector"]
-zillowHomeValueUsd: 215879
 ---
 
 **Engineering Notice for Atlantic City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Atlantic County.

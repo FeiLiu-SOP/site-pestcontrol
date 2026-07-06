@@ -11,7 +11,6 @@ lng: -80.3800
 zipSample: ["33182", "33172", "33174", "33112"]
 zipCodes: ["33182", "33174", "33112", "33172"]
 localPaths: ["Miami-Dade County / coords 25.7800, -80.3800", "Miami-Dade County / primary ZIP 33172", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / ZIP 33112 sector", "Miami-Dade County / ZIP 33182 sector"]
-zillowHomeValueUsd: 300856
 ---
 
 **Engineering Notice for Sweetwater:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

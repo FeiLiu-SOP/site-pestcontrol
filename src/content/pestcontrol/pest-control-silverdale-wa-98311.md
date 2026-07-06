@@ -11,7 +11,6 @@ lng: -122.6800
 zipSample: ["98311", "98383", "98370"]
 zipCodes: ["98311", "98370", "98383"]
 localPaths: ["Kitsap County / coords 47.6700, -122.6800", "Kitsap County / ZIP 98311 sector", "Kitsap County / elevation 39 ft band", "Kitsap County / primary ZIP 98311", "Kitsap County / ZIP 98370 sector"]
-zillowHomeValueUsd: 510710
 ---
 
 **Engineering Notice for Silverdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kitsap County.

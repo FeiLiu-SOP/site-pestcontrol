@@ -11,7 +11,6 @@ lng: -83.1900
 zipSample: ["48183"]
 zipCodes: ["48183"]
 localPaths: ["Wayne County / ZIP 48183 sector", "Wayne County / primary ZIP 48183", "Wayne County / coords 42.1400, -83.1900", "Wayne County / elevation 587 ft band"]
-zillowHomeValueUsd: 253375
 ---
 
 **Engineering Notice for Trenton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wayne County.

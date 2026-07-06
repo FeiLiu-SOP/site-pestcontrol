@@ -11,7 +11,6 @@ lng: -85.9600
 zipSample: ["46515", "46516", "46517", "46514"]
 zipCodes: ["46514", "46515", "46517", "46516"]
 localPaths: ["Elkhart County / primary ZIP 46514", "Elkhart County / coords 41.6900, -85.9600", "Elkhart County / ZIP 46516 sector", "Elkhart County / elevation 751 ft band", "Elkhart County / ZIP 46515 sector"]
-zillowHomeValueUsd: 243647
 ---
 
 **Engineering Notice for Elkhart:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Elkhart County.

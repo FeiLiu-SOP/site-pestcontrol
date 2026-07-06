@@ -11,7 +11,6 @@ lng: -82.7500
 zipSample: ["34682", "34684", "34683", "34681", "34660"]
 zipCodes: ["34682", "34684", "34683", "34660", "34681"]
 localPaths: ["Pinellas County / elevation 85 ft band", "Pinellas County / ZIP 34660 sector", "Pinellas County / ZIP 34682 sector", "Pinellas County / primary ZIP 34684", "Pinellas County / ZIP 34684 sector"]
-zillowHomeValueUsd: 324160
 ---
 
 **Engineering Notice for Palm Harbor:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pinellas County.

@@ -11,7 +11,6 @@ lng: -93.0700
 zipSample: ["55068"]
 zipCodes: ["55068"]
 localPaths: ["Dakota County / coords 44.7500, -93.0700", "Dakota County / ZIP 55068 sector", "Dakota County / primary ZIP 55068", "Dakota County / elevation 922 ft band"]
-zillowHomeValueUsd: 408840
 ---
 
 **Engineering Notice for Rosemount:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dakota County.

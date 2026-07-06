@@ -11,7 +11,6 @@ lng: -80.4500
 zipSample: ["33196", "33186"]
 zipCodes: ["33186", "33196"]
 localPaths: ["Miami-Dade County / elevation 33 ft band", "Miami-Dade County / coords 25.6700, -80.4500", "Miami-Dade County / primary ZIP 33196", "Miami-Dade County / ZIP 33196 sector", "Miami-Dade County / ZIP 33186 sector"]
-zillowHomeValueUsd: 567234
 ---
 
 **Engineering Notice for The Hammocks:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

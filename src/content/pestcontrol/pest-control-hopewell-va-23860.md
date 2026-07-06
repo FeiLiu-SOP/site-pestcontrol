@@ -11,7 +11,6 @@ lng: -77.3000
 zipSample: ["23860"]
 zipCodes: ["23860"]
 localPaths: ["Hopewell County / elevation 52 ft band", "Hopewell County / coords 37.2900, -77.3000", "Hopewell County / primary ZIP 23860", "Hopewell County / ZIP 23860 sector"]
-zillowHomeValueUsd: 233405
 ---
 
 **Engineering Notice for Hopewell:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hopewell County.

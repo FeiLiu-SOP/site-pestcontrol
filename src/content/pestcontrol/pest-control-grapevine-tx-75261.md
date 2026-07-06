@@ -11,7 +11,6 @@ lng: -97.0700
 zipSample: ["76051", "76099", "75261"]
 zipCodes: ["76051", "75261", "76099"]
 localPaths: ["Tarrant County / primary ZIP 75261", "Tarrant County / ZIP 75261 sector", "Tarrant County / elevation 643 ft band", "Tarrant County / ZIP 76099 sector", "Tarrant County / coords 32.9300, -97.0700"]
-zillowHomeValueUsd: 548099
 ---
 
 **Engineering Notice for Grapevine:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tarrant County.

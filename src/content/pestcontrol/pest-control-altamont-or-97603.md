@@ -11,7 +11,6 @@ lng: -121.7200
 zipSample: ["97603"]
 zipCodes: ["97603"]
 localPaths: ["Klamath County / ZIP 97603 sector", "Klamath County / primary ZIP 97603", "Klamath County / coords 42.2000, -121.7200", "Klamath County / elevation 4140 ft band"]
-zillowHomeValueUsd: 325547
 ---
 
 **Engineering Notice for Altamont:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Klamath County.

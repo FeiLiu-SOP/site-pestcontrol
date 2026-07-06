@@ -11,7 +11,6 @@ lng: -73.9500
 zipSample: ["11233", "11230", "11210", "11212", "11249"]
 zipCodes: ["11212", "11207", "11206", "11256", "11221", "11202", "11203", "11228", "11247", "11217", "11232", "11215"]
 localPaths: ["Kings County / ZIP 11233 sector", "Kings County / ZIP 11212 sector", "Kings County / ZIP 11230 sector", "Kings County / ZIP 11210 sector", "Kings County / coords 40.6500, -73.9500"]
-zillowHomeValueUsd: 767709
 ---
 
 **Engineering Notice for Brooklyn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kings County.

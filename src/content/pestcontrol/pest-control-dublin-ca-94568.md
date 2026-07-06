@@ -11,7 +11,6 @@ lng: -121.9000
 zipSample: ["94568"]
 zipCodes: ["94568"]
 localPaths: ["Alameda County / coords 37.7200, -121.9000", "Alameda County / ZIP 94568 sector", "Alameda County / elevation 354 ft band", "Alameda County / primary ZIP 94568"]
-zillowHomeValueUsd: 1306773
 ---
 
 **Engineering Notice for Dublin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alameda County.

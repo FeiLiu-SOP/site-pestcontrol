@@ -11,7 +11,6 @@ lng: -122.9700
 zipSample: ["97305"]
 zipCodes: ["97305"]
 localPaths: ["Marion County / ZIP 97305 sector", "Marion County / coords 44.9800, -122.9700", "Marion County / elevation 190 ft band", "Marion County / primary ZIP 97305"]
-zillowHomeValueUsd: 421146
 ---
 
 **Engineering Notice for Hayesville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marion County.

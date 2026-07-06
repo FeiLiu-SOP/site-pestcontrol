@@ -11,7 +11,6 @@ lng: -121.3100
 zipSample: ["95330", "95231"]
 zipCodes: ["95231", "95330"]
 localPaths: ["San Joaquin County / coords 37.8100, -121.3100", "San Joaquin County / elevation 3 ft band", "San Joaquin County / ZIP 95330 sector", "San Joaquin County / ZIP 95231 sector", "San Joaquin County / primary ZIP 95330"]
-zillowHomeValueUsd: 645822
 ---
 
 **Engineering Notice for Lathrop:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Joaquin County.

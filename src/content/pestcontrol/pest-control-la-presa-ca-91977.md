@@ -11,7 +11,6 @@ lng: -117.0000
 zipSample: ["91977"]
 zipCodes: ["91977"]
 localPaths: ["San Diego County / coords 32.7100, -117.0000", "San Diego County / elevation 295 ft band", "San Diego County / primary ZIP 91977", "San Diego County / ZIP 91977 sector"]
-zillowHomeValueUsd: 768684
 ---
 
 **Engineering Notice for La Presa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.

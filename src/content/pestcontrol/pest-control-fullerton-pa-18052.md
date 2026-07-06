@@ -11,7 +11,6 @@ lng: -75.4800
 zipSample: ["18052"]
 zipCodes: ["18052"]
 localPaths: ["Lehigh County / ZIP 18052 sector", "Lehigh County / elevation 348 ft band", "Lehigh County / primary ZIP 18052", "Lehigh County / coords 40.6300, -75.4800"]
-zillowHomeValueUsd: 335088
 ---
 
 **Engineering Notice for Fullerton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lehigh County.

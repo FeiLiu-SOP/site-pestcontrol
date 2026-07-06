@@ -11,7 +11,6 @@ lng: -81.9300
 zipSample: ["29307", "29302", "29319", "29306", "29301"]
 zipCodes: ["29306", "29304", "29301", "29302", "29307", "29319"]
 localPaths: ["Spartanburg County / coords 34.9400, -81.9300", "Spartanburg County / ZIP 29301 sector", "Spartanburg County / primary ZIP 29302", "Spartanburg County / ZIP 29306 sector", "Spartanburg County / elevation 774 ft band"]
-zillowHomeValueUsd: 269408
 ---
 
 **Engineering Notice for Spartanburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Spartanburg County.

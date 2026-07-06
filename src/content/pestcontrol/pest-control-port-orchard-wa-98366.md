@@ -11,7 +11,6 @@ lng: -122.6600
 zipSample: ["98367", "98366"]
 zipCodes: ["98367", "98366"]
 localPaths: ["Kitsap County / primary ZIP 98366", "Kitsap County / elevation 236 ft band", "Kitsap County / coords 47.5200, -122.6600", "Kitsap County / ZIP 98367 sector", "Kitsap County / ZIP 98366 sector"]
-zillowHomeValueUsd: 503689
 ---
 
 **Engineering Notice for Port Orchard:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kitsap County.

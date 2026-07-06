@@ -11,7 +11,6 @@ lng: -117.1900
 zipSample: ["92562", "92563"]
 zipCodes: ["92562", "92563"]
 localPaths: ["Riverside County / coords 33.5700, -117.1900", "Riverside County / primary ZIP 92563", "Riverside County / elevation 1224 ft band", "Riverside County / ZIP 92563 sector", "Riverside County / ZIP 92562 sector"]
-zillowHomeValueUsd: 693245
 ---
 
 **Engineering Notice for Murrieta:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.

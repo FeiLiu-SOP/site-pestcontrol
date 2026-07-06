@@ -11,7 +11,6 @@ lng: -83.2100
 zipSample: ["48195"]
 zipCodes: ["48195"]
 localPaths: ["Wayne County / primary ZIP 48195", "Wayne County / ZIP 48195 sector", "Wayne County / coords 42.2000, -83.2100", "Wayne County / elevation 584 ft band"]
-zillowHomeValueUsd: 192315
 ---
 
 **Engineering Notice for Southgate:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wayne County.

@@ -11,7 +11,6 @@ lng: -86.4600
 zipSample: ["46052"]
 zipCodes: ["46052"]
 localPaths: ["Boone County / elevation 945 ft band", "Boone County / coords 40.0300, -86.4600", "Boone County / ZIP 46052 sector", "Boone County / primary ZIP 46052"]
-zillowHomeValueUsd: 295132
 ---
 
 **Engineering Notice for Lebanon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Boone County.

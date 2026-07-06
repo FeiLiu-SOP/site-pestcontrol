@@ -11,7 +11,6 @@ lng: -75.3400
 zipSample: ["19401", "19415", "19404", "19409"]
 zipCodes: ["19404", "19415", "19401", "19409"]
 localPaths: ["Montgomery County / coords 40.1200, -75.3400", "Montgomery County / ZIP 19415 sector", "Montgomery County / ZIP 19409 sector", "Montgomery County / elevation 141 ft band", "Montgomery County / ZIP 19401 sector"]
-zillowHomeValueUsd: 267640
 ---
 
 **Engineering Notice for Norristown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

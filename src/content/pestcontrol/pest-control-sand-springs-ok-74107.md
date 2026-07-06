@@ -11,7 +11,6 @@ lng: -96.1300
 zipSample: ["74107", "74063"]
 zipCodes: ["74063", "74107"]
 localPaths: ["Tulsa County / primary ZIP 74107", "Tulsa County / elevation 666 ft band", "Tulsa County / ZIP 74107 sector", "Tulsa County / coords 36.1400, -96.1300", "Tulsa County / ZIP 74063 sector"]
-zillowHomeValueUsd: 158154
 ---
 
 **Engineering Notice for Sand Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tulsa County.

@@ -11,7 +11,6 @@ lng: -97.7000
 zipSample: ["78627", "78626", "78633", "78628"]
 zipCodes: ["78626", "78628", "78633", "78627"]
 localPaths: ["Williamson County / ZIP 78627 sector", "Williamson County / coords 30.6700, -97.7000", "Williamson County / ZIP 78633 sector", "Williamson County / ZIP 78628 sector", "Williamson County / elevation 797 ft band"]
-zillowHomeValueUsd: 442384
 ---
 
 **Engineering Notice for Georgetown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Williamson County.

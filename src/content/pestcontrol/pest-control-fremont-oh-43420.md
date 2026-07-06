@@ -11,7 +11,6 @@ lng: -83.1100
 zipSample: ["43420"]
 zipCodes: ["43420"]
 localPaths: ["Sandusky County / coords 41.3500, -83.1100", "Sandusky County / elevation 577 ft band", "Sandusky County / primary ZIP 43420", "Sandusky County / ZIP 43420 sector"]
-zillowHomeValueUsd: 173655
 ---
 
 **Engineering Notice for Fremont:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sandusky County.

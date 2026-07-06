@@ -11,7 +11,6 @@ lng: -84.1100
 zipSample: ["45424"]
 zipCodes: ["45424"]
 localPaths: ["Montgomery County / coords 39.8600, -84.1100", "Montgomery County / ZIP 45424 sector", "Montgomery County / primary ZIP 45424", "Montgomery County / elevation 997 ft band"]
-zillowHomeValueUsd: 223802
 ---
 
 **Engineering Notice for Huber Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

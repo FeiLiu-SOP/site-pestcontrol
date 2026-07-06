@@ -11,7 +11,6 @@ lng: -88.0900
 zipSample: ["60532"]
 zipCodes: ["60532"]
 localPaths: ["DuPage County / elevation 673 ft band", "DuPage County / primary ZIP 60532", "DuPage County / coords 41.7900, -88.0900", "DuPage County / ZIP 60532 sector"]
-zillowHomeValueUsd: 425936
 ---
 
 **Engineering Notice for Lisle:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.

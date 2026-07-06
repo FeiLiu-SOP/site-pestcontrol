@@ -11,7 +11,6 @@ lng: -121.0500
 zipSample: ["95682", "95762"]
 zipCodes: ["95762", "95682"]
 localPaths: ["El Dorado County / primary ZIP 95762", "El Dorado County / coords 38.6700, -121.0500", "El Dorado County / ZIP 95762 sector", "El Dorado County / ZIP 95682 sector", "El Dorado County / elevation 1070 ft band"]
-zillowHomeValueUsd: 911281
 ---
 
 **Engineering Notice for El Dorado Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: El Dorado County.

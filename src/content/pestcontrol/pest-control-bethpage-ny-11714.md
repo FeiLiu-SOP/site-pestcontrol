@@ -11,7 +11,6 @@ lng: -73.4900
 zipSample: ["11714"]
 zipCodes: ["11714"]
 localPaths: ["Nassau County / elevation 128 ft band", "Nassau County / ZIP 11714 sector", "Nassau County / coords 40.7500, -73.4900", "Nassau County / primary ZIP 11714"]
-zillowHomeValueUsd: 771219
 ---
 
 **Engineering Notice for Bethpage:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

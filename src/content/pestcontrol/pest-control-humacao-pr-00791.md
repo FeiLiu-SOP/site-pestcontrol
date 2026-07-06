@@ -11,8 +11,6 @@ lng: -65.8200
 zipSample: ["00791", "00792"]
 zipCodes: ["00791", "00792"]
 localPaths: ["Humacao County / ZIP 00792 sector", "Humacao County / elevation 66 ft band", "Humacao County / ZIP 00791 sector", "Humacao County / coords 18.1500, -65.8200", "Humacao County / primary ZIP 00791"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 356014
 ---
 
 **Engineering Notice for Humacao:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Humacao County.

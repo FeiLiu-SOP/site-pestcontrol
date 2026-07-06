@@ -11,7 +11,6 @@ lng: -106.7800
 zipSample: ["87031"]
 zipCodes: ["87031"]
 localPaths: ["Valencia County / coords 34.8100, -106.7800", "Valencia County / primary ZIP 87031", "Valencia County / elevation 5033 ft band", "Valencia County / ZIP 87031 sector"]
-zillowHomeValueUsd: 323785
 ---
 
 **Engineering Notice for Los Lunas:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Valencia County.

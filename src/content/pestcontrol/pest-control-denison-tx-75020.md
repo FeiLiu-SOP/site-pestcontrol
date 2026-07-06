@@ -11,7 +11,6 @@ lng: -96.5800
 zipSample: ["75020"]
 zipCodes: ["75020"]
 localPaths: ["Grayson County / primary ZIP 75020", "Grayson County / elevation 823 ft band", "Grayson County / coords 33.7700, -96.5800", "Grayson County / ZIP 75020 sector"]
-zillowHomeValueUsd: 222101
 ---
 
 **Engineering Notice for Denison:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Grayson County.

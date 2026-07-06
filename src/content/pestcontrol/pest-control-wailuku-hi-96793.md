@@ -11,7 +11,6 @@ lng: -156.5100
 zipSample: ["96793"]
 zipCodes: ["96793"]
 localPaths: ["Maui County / primary ZIP 96793", "Maui County / ZIP 96793 sector", "Maui County / coords 20.8800, -156.5100", "Maui County / elevation 354 ft band"]
-zillowHomeValueUsd: 924829
 ---
 
 **Engineering Notice for Wailuku:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Maui County.

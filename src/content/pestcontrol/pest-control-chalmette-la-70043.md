@@ -11,7 +11,6 @@ lng: -89.9700
 zipSample: ["70032", "70043", "70044"]
 zipCodes: ["70032", "70043", "70044"]
 localPaths: ["St. Bernard Parish / ZIP 70044 sector", "St. Bernard Parish / primary ZIP 70043", "St. Bernard Parish / ZIP 70032 sector", "St. Bernard Parish / elevation 20 ft band", "St. Bernard Parish / ZIP 70043 sector"]
-zillowHomeValueUsd: 207613
 ---
 
 **Engineering Notice for Chalmette:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Bernard Parish.

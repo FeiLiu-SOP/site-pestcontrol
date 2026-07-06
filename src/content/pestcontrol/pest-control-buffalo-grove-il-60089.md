@@ -11,7 +11,6 @@ lng: -87.9600
 zipSample: ["60089"]
 zipCodes: ["60089"]
 localPaths: ["Lake County / elevation 689 ft band", "Lake County / primary ZIP 60089", "Lake County / coords 42.1700, -87.9600", "Lake County / ZIP 60089 sector"]
-zillowHomeValueUsd: 437952
 ---
 
 **Engineering Notice for Buffalo Grove:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

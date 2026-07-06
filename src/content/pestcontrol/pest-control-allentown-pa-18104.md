@@ -11,7 +11,6 @@ lng: -75.4800
 zipSample: ["18104", "18109", "18101", "18103", "18105"]
 zipCodes: ["18103", "18001", "18102", "18104", "18109", "18105", "18101"]
 localPaths: ["Lehigh County / coords 40.6000, -75.4800", "Lehigh County / ZIP 18104 sector", "Lehigh County / ZIP 18109 sector", "Lehigh County / primary ZIP 18104", "Lehigh County / ZIP 18101 sector"]
-zillowHomeValueUsd: 393761
 ---
 
 **Engineering Notice for Allentown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lehigh County.

@@ -11,7 +11,6 @@ lng: -85.6000
 zipSample: ["32412", "32405", "32404", "32402", "32401"]
 zipCodes: ["32402", "32401", "32405", "32412", "32404"]
 localPaths: ["Bay County / ZIP 32401 sector", "Bay County / primary ZIP 32401", "Bay County / ZIP 32402 sector", "Bay County / coords 30.2000, -85.6000", "Bay County / elevation 56 ft band"]
-zillowHomeValueUsd: 212881
 ---
 
 **Engineering Notice for Panama City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bay County.

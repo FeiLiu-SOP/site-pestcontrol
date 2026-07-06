@@ -11,7 +11,6 @@ lng: -93.2000
 zipSample: ["50402", "50401"]
 zipCodes: ["50402", "50401"]
 localPaths: ["Cerro Gordo County / elevation 1122 ft band", "Cerro Gordo County / coords 43.1500, -93.2000", "Cerro Gordo County / ZIP 50401 sector", "Cerro Gordo County / primary ZIP 50401", "Cerro Gordo County / ZIP 50402 sector"]
-zillowHomeValueUsd: 154119
 ---
 
 **Engineering Notice for Mason City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cerro Gordo County.

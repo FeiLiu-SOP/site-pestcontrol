@@ -11,7 +11,6 @@ lng: -86.5800
 zipSample: ["32536", "32539"]
 zipCodes: ["32539", "32536"]
 localPaths: ["Okaloosa County / elevation 190 ft band", "Okaloosa County / coords 30.7500, -86.5800", "Okaloosa County / primary ZIP 32536", "Okaloosa County / ZIP 32539 sector", "Okaloosa County / ZIP 32536 sector"]
-zillowHomeValueUsd: 294557
 ---
 
 **Engineering Notice for Crestview:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Okaloosa County.

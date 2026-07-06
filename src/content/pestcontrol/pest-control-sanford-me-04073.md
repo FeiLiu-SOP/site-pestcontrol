@@ -11,7 +11,6 @@ lng: -70.7600
 zipSample: ["04083", "04073"]
 zipCodes: ["04073", "04083"]
 localPaths: ["York County / ZIP 04073 sector", "York County / coords 43.4200, -70.7600", "York County / primary ZIP 04073", "York County / elevation 243 ft band", "York County / ZIP 04083 sector"]
-zillowHomeValueUsd: 367552
 ---
 
 **Engineering Notice for Sanford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: York County.

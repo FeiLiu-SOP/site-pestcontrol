@@ -11,7 +11,6 @@ lng: -112.0500
 zipSample: ["84302"]
 zipCodes: ["84302"]
 localPaths: ["Box Elder County / elevation 4232 ft band", "Box Elder County / ZIP 84302 sector", "Box Elder County / primary ZIP 84302", "Box Elder County / coords 41.5000, -112.0500"]
-zillowHomeValueUsd: 435508
 ---
 
 **Engineering Notice for Brigham City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Box Elder County.

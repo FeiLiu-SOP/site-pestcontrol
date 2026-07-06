@@ -11,7 +11,6 @@ lng: -118.8200
 zipSample: ["97801"]
 zipCodes: ["97801"]
 localPaths: ["Umatilla County / elevation 1115 ft band", "Umatilla County / primary ZIP 97801", "Umatilla County / coords 45.6800, -118.8200", "Umatilla County / ZIP 97801 sector"]
-zillowHomeValueUsd: 293535
 ---
 
 **Engineering Notice for Pendleton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Umatilla County.

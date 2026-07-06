@@ -11,7 +11,6 @@ lng: -95.7600
 zipSample: ["77450", "77494"]
 zipCodes: ["77494", "77450"]
 localPaths: ["Fort Bend County / primary ZIP 77494", "Fort Bend County / ZIP 77450 sector", "Fort Bend County / coords 29.7400, -95.7600", "Fort Bend County / ZIP 77494 sector", "Fort Bend County / elevation 125 ft band"]
-zillowHomeValueUsd: 488523
 ---
 
 **Engineering Notice for Cinco Ranch:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fort Bend County.

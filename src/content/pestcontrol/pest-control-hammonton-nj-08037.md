@@ -11,7 +11,6 @@ lng: -74.7700
 zipSample: ["08037"]
 zipCodes: ["08037"]
 localPaths: ["Atlantic County / ZIP 08037 sector", "Atlantic County / coords 39.6600, -74.7700", "Atlantic County / primary ZIP 08037", "Atlantic County / elevation 62 ft band"]
-zillowHomeValueUsd: 373379
 ---
 
 **Engineering Notice for Hammonton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Atlantic County.

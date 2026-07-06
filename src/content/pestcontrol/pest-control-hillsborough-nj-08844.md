@@ -11,7 +11,6 @@ lng: -74.6500
 zipSample: ["08844"]
 zipCodes: ["08844"]
 localPaths: ["Somerset County / elevation 115 ft band", "Somerset County / ZIP 08844 sector", "Somerset County / coords 40.5100, -74.6500", "Somerset County / primary ZIP 08844"]
-zillowHomeValueUsd: 672833
 ---
 
 **Engineering Notice for Hillsborough:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Somerset County.

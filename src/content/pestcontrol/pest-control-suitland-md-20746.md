@@ -11,7 +11,6 @@ lng: -76.9200
 zipSample: ["20752", "20746", "20747", "20790"]
 zipCodes: ["20746", "20752", "20790", "20747"]
 localPaths: ["Prince George's County / ZIP 20746 sector", "Prince George's County / elevation 282 ft band", "Prince George's County / ZIP 20747 sector", "Prince George's County / coords 38.8500, -76.9200", "Prince George's County / ZIP 20790 sector"]
-zillowHomeValueUsd: 335919
 ---
 
 **Engineering Notice for Suitland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince George's County.

@@ -11,7 +11,6 @@ lng: -80.9400
 zipSample: ["29716", "29715"]
 zipCodes: ["29715", "29716"]
 localPaths: ["York County / elevation 656 ft band", "York County / coords 35.0100, -80.9400", "York County / primary ZIP 29715", "York County / ZIP 29716 sector", "York County / ZIP 29715 sector"]
-zillowHomeValueUsd: 486329
 ---
 
 **Engineering Notice for Fort Mill:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: York County.

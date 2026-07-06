@@ -11,7 +11,6 @@ lng: -85.8700
 zipSample: ["36260", "36253", "36203"]
 zipCodes: ["36253", "36260", "36203"]
 localPaths: ["Calhoun County / ZIP 36203 sector", "Calhoun County / ZIP 36260 sector", "Calhoun County / coords 33.6000, -85.8700", "Calhoun County / primary ZIP 36260", "Calhoun County / ZIP 36253 sector"]
-zillowHomeValueUsd: 186809
 ---
 
 **Engineering Notice for Oxford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Calhoun County.

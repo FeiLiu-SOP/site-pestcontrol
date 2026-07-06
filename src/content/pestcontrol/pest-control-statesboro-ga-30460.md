@@ -11,7 +11,6 @@ lng: -81.7800
 zipSample: ["30459", "30461", "30460", "30458"]
 zipCodes: ["30460", "30458", "30461", "30459"]
 localPaths: ["Bulloch County / ZIP 30459 sector", "Bulloch County / ZIP 30458 sector", "Bulloch County / ZIP 30460 sector", "Bulloch County / coords 32.4400, -81.7800", "Bulloch County / ZIP 30461 sector"]
-zillowHomeValueUsd: 259361
 ---
 
 **Engineering Notice for Statesboro:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bulloch County.

@@ -11,7 +11,6 @@ lng: -83.8000
 zipSample: ["45504", "45506", "45505", "45503", "45501"]
 zipCodes: ["45503", "45504", "45505", "45501", "45506"]
 localPaths: ["Clark County / primary ZIP 45503", "Clark County / coords 39.9300, -83.8000", "Clark County / ZIP 45506 sector", "Clark County / ZIP 45505 sector", "Clark County / elevation 925 ft band"]
-zillowHomeValueUsd: 192809
 ---
 
 **Engineering Notice for Springfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.

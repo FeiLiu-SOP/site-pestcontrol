@@ -7,11 +7,10 @@ zipCode: "49002"
 county: "Kalamazoo County"
 elevationFt: 869
 lat: 42.2000
-lng: -85.5900
+lng: -85.5600
 zipSample: ["49081", "49024", "49002"]
 zipCodes: ["49024", "49002", "49081"]
-localPaths: ["Kalamazoo County / elevation 869 ft band", "Kalamazoo County / coords 42.2000, -85.5900", "Kalamazoo County / ZIP 49081 sector", "Kalamazoo County / ZIP 49002 sector", "Kalamazoo County / primary ZIP 49002"]
-zillowHomeValueUsd: 268935
+localPaths: ["Kalamazoo County / elevation 869 ft band", "Kalamazoo County / coords 42.2000, -85.5600", "Kalamazoo County / ZIP 49081 sector", "Kalamazoo County / ZIP 49002 sector", "Kalamazoo County / primary ZIP 49002"]
 ---
 
 **Engineering Notice for Portage:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kalamazoo County.
@@ -43,7 +42,7 @@ About us: Treatment plans separate interior harborages, exterior perimeter, and 
 
 Across Portage, MI, rodent entry points frequently track utility penetrations.
 
-Harbor ledger 646371: frass lane, mud-tube scan, and garage jamb gap measure filed for Portage, MI at 42.2000, -85.5900.
+Harbor ledger 646371: frass lane, mud-tube scan, and garage jamb gap measure filed for Portage, MI at 42.2000, -85.5600.
 
 On-site sector marker: Kalamazoo County / primary ZIP 49002 — logged for map parity and ZIP-corridor verification.
 

@@ -11,7 +11,6 @@ lng: -79.1800
 zipSample: ["27331", "27332", "27330"]
 zipCodes: ["27332", "27330", "27331"]
 localPaths: ["Lee County / elevation 354 ft band", "Lee County / primary ZIP 27330", "Lee County / ZIP 27332 sector", "Lee County / ZIP 27331 sector", "Lee County / ZIP 27330 sector"]
-zillowHomeValueUsd: 294227
 ---
 
 **Engineering Notice for Sanford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lee County.

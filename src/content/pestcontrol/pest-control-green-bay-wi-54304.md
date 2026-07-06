@@ -11,7 +11,6 @@ lng: -87.9900
 zipSample: ["54311", "54303", "54305", "54301", "54306"]
 zipCodes: ["54301", "54308", "54302", "54303", "54304", "54305", "54306", "54311"]
 localPaths: ["Brown County / primary ZIP 54304", "Brown County / ZIP 54303 sector", "Brown County / elevation 591 ft band", "Brown County / coords 44.5100, -87.9900", "Brown County / ZIP 54301 sector"]
-zillowHomeValueUsd: 289045
 ---
 
 **Engineering Notice for Green Bay:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brown County.

@@ -11,7 +11,6 @@ lng: -84.5200
 zipSample: ["30082", "30080", "30126", "30081"]
 zipCodes: ["30080", "30126", "30082", "30081"]
 localPaths: ["Cobb County / ZIP 30126 sector", "Cobb County / elevation 1040 ft band", "Cobb County / ZIP 30081 sector", "Cobb County / ZIP 30080 sector", "Cobb County / primary ZIP 30126"]
-zillowHomeValueUsd: 372298
 ---
 
 **Engineering Notice for Smyrna:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cobb County.

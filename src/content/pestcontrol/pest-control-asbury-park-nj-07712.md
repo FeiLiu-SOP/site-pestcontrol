@@ -11,7 +11,6 @@ lng: -74.0100
 zipSample: ["07712"]
 zipCodes: ["07712"]
 localPaths: ["Monmouth County / elevation 23 ft band", "Monmouth County / coords 40.2200, -74.0100", "Monmouth County / ZIP 07712 sector", "Monmouth County / primary ZIP 07712"]
-zillowHomeValueUsd: 737182
 ---
 
 **Engineering Notice for Asbury Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Monmouth County.

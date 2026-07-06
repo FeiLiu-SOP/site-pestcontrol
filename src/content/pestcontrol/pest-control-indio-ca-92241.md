@@ -11,7 +11,6 @@ lng: -116.2300
 zipSample: ["92241", "92203", "92201"]
 zipCodes: ["92201", "92241", "92203"]
 localPaths: ["Riverside County / ZIP 92203 sector", "Riverside County / primary ZIP 92241", "Riverside County / ZIP 92241 sector", "Riverside County / ZIP 92201 sector", "Riverside County / coords 33.7300, -116.2300"]
-zillowHomeValueUsd: 408009
 ---
 
 **Engineering Notice for Indio:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.

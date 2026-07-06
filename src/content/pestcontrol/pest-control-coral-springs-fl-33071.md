@@ -6,12 +6,11 @@ state: "FL"
 zipCode: "33071"
 county: "Broward County"
 elevationFt: 20
-lat: 26.2700
+lat: 26.3000
 lng: -80.2600
 zipSample: ["33077", "33075", "33065", "33076", "33067"]
 zipCodes: ["33071", "33067", "33075", "33076", "33077", "33065"]
-localPaths: ["Broward County / ZIP 33067 sector", "Broward County / primary ZIP 33071", "Broward County / elevation 20 ft band", "Broward County / ZIP 33076 sector", "Broward County / coords 26.2700, -80.2600"]
-zillowHomeValueUsd: 583576
+localPaths: ["Broward County / ZIP 33067 sector", "Broward County / primary ZIP 33071", "Broward County / elevation 20 ft band", "Broward County / ZIP 33076 sector", "Broward County / coords 26.3000, -80.2600"]
 ---
 
 **Engineering Notice for Coral Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.
@@ -47,8 +46,8 @@ Step: inspect interior harborages before exterior perimeter treatment.
 
 Species trace 294889: re-entry interval label and conducive moisture note keyed to Coral Springs, FL elevation 20 ft.
 
-Harbor ledger 294889: frass lane, mud-tube scan, and garage jamb gap measure filed for Coral Springs, FL at 26.2700, -80.2600.
+Harbor ledger 294889: frass lane, mud-tube scan, and garage jamb gap measure filed for Coral Springs, FL at 26.3000, -80.2600.
 
-Coordinate-anchored dispatch note: center reference 26.2700, -80.2600 at elevation ~20 ft aligns with Broward County intake staging.
+Coordinate-anchored dispatch note: center reference 26.3000, -80.2600 at elevation ~20 ft aligns with Broward County intake staging.
 
 Service reference: FL-33071-7a6dfc01

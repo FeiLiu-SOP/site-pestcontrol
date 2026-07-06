@@ -11,7 +11,6 @@ lng: -86.6900
 zipSample: ["35215"]
 zipCodes: ["35215"]
 localPaths: ["Jefferson County / coords 33.6400, -86.6900", "Jefferson County / elevation 853 ft band", "Jefferson County / ZIP 35215 sector", "Jefferson County / primary ZIP 35215"]
-zillowHomeValueUsd: 150971
 ---
 
 **Engineering Notice for Center Point:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Jefferson County.

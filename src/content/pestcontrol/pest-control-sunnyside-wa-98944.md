@@ -11,7 +11,6 @@ lng: -120.0100
 zipSample: ["98944"]
 zipCodes: ["98944"]
 localPaths: ["Yakima County / ZIP 98944 sector", "Yakima County / coords 46.3200, -120.0100", "Yakima County / elevation 732 ft band", "Yakima County / primary ZIP 98944"]
-zillowHomeValueUsd: 323245
 ---
 
 **Engineering Notice for Sunnyside:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Yakima County.

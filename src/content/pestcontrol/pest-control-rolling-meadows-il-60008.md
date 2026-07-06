@@ -11,7 +11,6 @@ lng: -88.0300
 zipSample: ["60008"]
 zipCodes: ["60008"]
 localPaths: ["Cook County / coords 42.0700, -88.0300", "Cook County / primary ZIP 60008", "Cook County / ZIP 60008 sector", "Cook County / elevation 722 ft band"]
-zillowHomeValueUsd: 330982
 ---
 
 **Engineering Notice for Rolling Meadows:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

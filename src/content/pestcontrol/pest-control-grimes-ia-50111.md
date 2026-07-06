@@ -11,7 +11,6 @@ lng: -93.7900
 zipSample: ["50111"]
 zipCodes: ["50111"]
 localPaths: ["Polk County / primary ZIP 50111", "Polk County / elevation 965 ft band", "Polk County / ZIP 50111 sector", "Polk County / coords 41.6800, -93.7900"]
-zillowHomeValueUsd: 346216
 ---
 
 **Engineering Notice for Grimes:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Polk County.

@@ -11,7 +11,6 @@ lng: -97.8900
 zipSample: ["78666", "78640"]
 zipCodes: ["78666", "78640"]
 localPaths: ["Hays County / primary ZIP 78666", "Hays County / ZIP 78640 sector", "Hays County / elevation 764 ft band", "Hays County / coords 29.9900, -97.8900", "Hays County / ZIP 78666 sector"]
-zillowHomeValueUsd: 313978
 ---
 
 **Engineering Notice for Kyle:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hays County.

@@ -11,7 +11,6 @@ lng: -86.9400
 zipSample: ["35640"]
 zipCodes: ["35640"]
 localPaths: ["Morgan County / elevation 659 ft band", "Morgan County / primary ZIP 35640", "Morgan County / coords 34.4400, -86.9400", "Morgan County / ZIP 35640 sector"]
-zillowHomeValueUsd: 244816
 ---
 
 **Engineering Notice for Hartselle:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Morgan County.

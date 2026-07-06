@@ -7,11 +7,10 @@ zipCode: "91301"
 county: "Los Angeles County"
 elevationFt: 965
 lat: 34.1500
-lng: -118.7600
+lng: -118.7300
 zipSample: ["91376", "91301"]
 zipCodes: ["91301", "91376"]
-localPaths: ["Los Angeles County / ZIP 91376 sector", "Los Angeles County / elevation 965 ft band", "Los Angeles County / coords 34.1500, -118.7600", "Los Angeles County / ZIP 91301 sector", "Los Angeles County / primary ZIP 91301"]
-zillowHomeValueUsd: 1248798
+localPaths: ["Los Angeles County / ZIP 91376 sector", "Los Angeles County / elevation 965 ft band", "Los Angeles County / coords 34.1500, -118.7300", "Los Angeles County / ZIP 91301 sector", "Los Angeles County / primary ZIP 91301"]
 ---
 
 **Engineering Notice for Agoura Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

@@ -11,7 +11,6 @@ lng: -97.6000
 zipSample: ["78691", "78660"]
 zipCodes: ["78660", "78691"]
 localPaths: ["Travis County / ZIP 78691 sector", "Travis County / coords 30.4500, -97.6000", "Travis County / ZIP 78660 sector", "Travis County / primary ZIP 78660", "Travis County / elevation 696 ft band"]
-zillowHomeValueUsd: 378248
 ---
 
 **Engineering Notice for Pflugerville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Travis County.

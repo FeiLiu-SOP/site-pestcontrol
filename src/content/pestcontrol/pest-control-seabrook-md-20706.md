@@ -11,7 +11,6 @@ lng: -76.8500
 zipSample: ["20703", "20706"]
 zipCodes: ["20703", "20706"]
 localPaths: ["Prince George's County / ZIP 20703 sector", "Prince George's County / elevation 210 ft band", "Prince George's County / coords 38.9800, -76.8500", "Prince George's County / primary ZIP 20706", "Prince George's County / ZIP 20706 sector"]
-zillowHomeValueUsd: 439997
 ---
 
 **Engineering Notice for Seabrook:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince George's County.

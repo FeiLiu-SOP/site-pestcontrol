@@ -11,7 +11,6 @@ lng: -120.6900
 zipSample: ["93422", "93423"]
 zipCodes: ["93422", "93423"]
 localPaths: ["San Luis Obispo County / elevation 1083 ft band", "San Luis Obispo County / coords 35.4800, -120.6900", "San Luis Obispo County / primary ZIP 93422", "San Luis Obispo County / ZIP 93422 sector", "San Luis Obispo County / ZIP 93423 sector"]
-zillowHomeValueUsd: 785548
 ---
 
 **Engineering Notice for Atascadero:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Luis Obispo County.

@@ -11,7 +11,6 @@ lng: -74.6700
 zipSample: ["08541", "08540", "08544", "08542"]
 zipCodes: ["08541", "08544", "08540", "08542"]
 localPaths: ["Mercer County / ZIP 08540 sector", "Mercer County / coords 40.3600, -74.6700", "Mercer County / ZIP 08542 sector", "Mercer County / ZIP 08544 sector", "Mercer County / elevation 148 ft band"]
-zillowHomeValueUsd: 969734
 ---
 
 **Engineering Notice for Princeton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Mercer County.

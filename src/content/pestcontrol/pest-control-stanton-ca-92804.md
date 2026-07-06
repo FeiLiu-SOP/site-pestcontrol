@@ -11,7 +11,6 @@ lng: -117.9900
 zipSample: ["92804", "90680"]
 zipCodes: ["90680", "92804"]
 localPaths: ["Orange County / coords 33.8000, -117.9900", "Orange County / primary ZIP 92804", "Orange County / ZIP 92804 sector", "Orange County / elevation 79 ft band", "Orange County / ZIP 90680 sector"]
-zillowHomeValueUsd: 940834
 ---
 
 **Engineering Notice for Stanton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

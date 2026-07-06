@@ -11,7 +11,6 @@ lng: -76.9800
 zipSample: ["20745"]
 zipCodes: ["20745"]
 localPaths: ["Prince George's County / elevation 177 ft band", "Prince George's County / primary ZIP 20745", "Prince George's County / coords 38.8200, -76.9800", "Prince George's County / ZIP 20745 sector"]
-zillowHomeValueUsd: 361926
 ---
 
 **Engineering Notice for Glassmanor:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince George's County.

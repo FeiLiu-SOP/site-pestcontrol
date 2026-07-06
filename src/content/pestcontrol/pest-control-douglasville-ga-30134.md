@@ -11,7 +11,6 @@ lng: -84.7100
 zipSample: ["30122", "30154", "30135", "30134", "30133"]
 zipCodes: ["30135", "30133", "30122", "30154", "30134"]
 localPaths: ["Douglas County / ZIP 30134 sector", "Douglas County / ZIP 30154 sector", "Douglas County / coords 33.7400, -84.7100", "Douglas County / primary ZIP 30134", "Douglas County / elevation 994 ft band"]
-zillowHomeValueUsd: 285450
 ---
 
 **Engineering Notice for Douglasville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Douglas County.

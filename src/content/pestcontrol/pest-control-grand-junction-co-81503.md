@@ -11,7 +11,6 @@ lng: -108.5700
 zipSample: ["81505", "81507", "81506", "81502", "81501"]
 zipCodes: ["81504", "81502", "81506", "81505", "81501", "81507", "81503"]
 localPaths: ["Mesa County / ZIP 81507 sector", "Mesa County / elevation 4672 ft band", "Mesa County / ZIP 81505 sector", "Mesa County / ZIP 81502 sector", "Mesa County / ZIP 81506 sector"]
-zillowHomeValueUsd: 401113
 ---
 
 **Engineering Notice for Grand Junction:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Mesa County.

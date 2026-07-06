@@ -11,7 +11,6 @@ lng: -72.9400
 zipSample: ["06011", "06010"]
 zipCodes: ["06010", "06011"]
 localPaths: ["Naugatuck Valley County / primary ZIP 06010", "Naugatuck Valley County / elevation 427 ft band", "Naugatuck Valley County / ZIP 06011 sector", "Naugatuck Valley County / coords 41.6800, -72.9400", "Naugatuck Valley County / ZIP 06010 sector"]
-zillowHomeValueUsd: 338748
 ---
 
 **Engineering Notice for Bristol:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Naugatuck Valley County.

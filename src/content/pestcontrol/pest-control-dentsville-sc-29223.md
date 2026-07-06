@@ -11,7 +11,6 @@ lng: -80.9500
 zipSample: ["29223"]
 zipCodes: ["29223"]
 localPaths: ["Richland County / coords 34.0800, -80.9500", "Richland County / ZIP 29223 sector", "Richland County / primary ZIP 29223", "Richland County / elevation 262 ft band"]
-zillowHomeValueUsd: 221557
 ---
 
 **Engineering Notice for Dentsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Richland County.

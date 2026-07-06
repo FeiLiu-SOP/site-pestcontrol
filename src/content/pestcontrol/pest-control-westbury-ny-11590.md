@@ -11,7 +11,6 @@ lng: -73.5900
 zipSample: ["11590"]
 zipCodes: ["11590"]
 localPaths: ["Nassau County / ZIP 11590 sector", "Nassau County / coords 40.7600, -73.5900", "Nassau County / primary ZIP 11590", "Nassau County / elevation 121 ft band"]
-zillowHomeValueUsd: 787181
 ---
 
 **Engineering Notice for Westbury:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

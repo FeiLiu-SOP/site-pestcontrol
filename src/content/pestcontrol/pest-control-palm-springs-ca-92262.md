@@ -11,7 +11,6 @@ lng: -116.5400
 zipSample: ["92263", "92262", "92258", "92282", "92264"]
 zipCodes: ["92258", "92263", "92264", "92262", "92282"]
 localPaths: ["Riverside County / ZIP 92264 sector", "Riverside County / ZIP 92262 sector", "Riverside County / ZIP 92258 sector", "Riverside County / primary ZIP 92262", "Riverside County / coords 33.8000, -116.5400"]
-zillowHomeValueUsd: 645746
 ---
 
 **Engineering Notice for Palm Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.

@@ -11,7 +11,6 @@ lng: -76.7400
 zipSample: ["21250", "21228"]
 zipCodes: ["21228", "21250"]
 localPaths: ["Baltimore County / ZIP 21228 sector", "Baltimore County / coords 39.2600, -76.7400", "Baltimore County / ZIP 21250 sector", "Baltimore County / elevation 482 ft band", "Baltimore County / primary ZIP 21250"]
-zillowHomeValueUsd: 425883
 ---
 
 **Engineering Notice for Catonsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.

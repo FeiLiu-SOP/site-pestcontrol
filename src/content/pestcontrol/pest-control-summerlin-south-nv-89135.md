@@ -11,7 +11,6 @@ lng: -115.3300
 zipSample: ["89135"]
 zipCodes: ["89135"]
 localPaths: ["Clark County / elevation 2887 ft band", "Clark County / primary ZIP 89135", "Clark County / ZIP 89135 sector", "Clark County / coords 36.1200, -115.3300"]
-zillowHomeValueUsd: 720067
 ---
 
 **Engineering Notice for Summerlin South:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.

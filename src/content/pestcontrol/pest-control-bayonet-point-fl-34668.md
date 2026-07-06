@@ -11,7 +11,6 @@ lng: -82.6800
 zipSample: ["34668", "34667"]
 zipCodes: ["34667", "34668"]
 localPaths: ["Pasco County / primary ZIP 34668", "Pasco County / elevation 33 ft band", "Pasco County / ZIP 34667 sector", "Pasco County / coords 28.3300, -82.6800", "Pasco County / ZIP 34668 sector"]
-zillowHomeValueUsd: 227533
 ---
 
 **Engineering Notice for Bayonet Point:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pasco County.

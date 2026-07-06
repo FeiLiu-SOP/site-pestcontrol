@@ -11,7 +11,6 @@ lng: -84.4600
 zipSample: ["40550", "40588", "40577", "40579", "40522"]
 zipCodes: ["40536", "40555", "40508", "40517", "40588", "40591", "40598", "40516", "40576", "40583", "40505", "40533"]
 localPaths: ["Fayette County / coords 38.0400, -84.4600", "Fayette County / ZIP 40588 sector", "Fayette County / elevation 1056 ft band", "Fayette County / ZIP 40577 sector", "Fayette County / ZIP 40550 sector"]
-zillowHomeValueUsd: 398582
 ---
 
 **Engineering Notice for Lexington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fayette County.

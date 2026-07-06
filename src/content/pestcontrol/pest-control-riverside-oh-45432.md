@@ -11,7 +11,6 @@ lng: -84.1200
 zipSample: ["45432", "45437", "45404", "45424", "45431"]
 zipCodes: ["45404", "45432", "45431", "45424", "45437"]
 localPaths: ["Montgomery County / primary ZIP 45432", "Montgomery County / elevation 771 ft band", "Montgomery County / ZIP 45431 sector", "Montgomery County / coords 39.7800, -84.1200", "Montgomery County / ZIP 45404 sector"]
-zillowHomeValueUsd: 224612
 ---
 
 **Engineering Notice for Riverside:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

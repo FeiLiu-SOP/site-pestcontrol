@@ -11,7 +11,6 @@ lng: -111.1600
 zipSample: ["85740", "85653", "85741", "85658", "85743"]
 zipCodes: ["85653", "85658", "85743", "85741", "85742", "85740", "85652"]
 localPaths: ["Pima County / ZIP 85658 sector", "Pima County / ZIP 85740 sector", "Pima County / elevation 2067 ft band", "Pima County / coords 32.4400, -111.1600", "Pima County / ZIP 85743 sector"]
-zillowHomeValueUsd: 386441
 ---
 
 **Engineering Notice for Marana:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pima County.

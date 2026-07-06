@@ -11,7 +11,6 @@ lng: -71.0600
 zipSample: ["02148"]
 zipCodes: ["02148"]
 localPaths: ["Middlesex County / primary ZIP 02148", "Middlesex County / ZIP 02148 sector", "Middlesex County / coords 42.4300, -71.0600", "Middlesex County / elevation 39 ft band"]
-zillowHomeValueUsd: 682977
 ---
 
 **Engineering Notice for Malden:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.

@@ -11,7 +11,6 @@ lng: -98.5200
 zipSample: ["78259", "78299", "78268", "78256", "78252"]
 zipCodes: ["78201", "78219", "78073", "78245", "78269", "78023", "78250", "78231", "78254", "78251", "78279", "78112"]
 localPaths: ["Bexar County / ZIP 78252 sector", "Bexar County / primary ZIP 78112", "Bexar County / elevation 732 ft band", "Bexar County / ZIP 78268 sector", "Bexar County / ZIP 78299 sector"]
-zillowHomeValueUsd: 233956
 ---
 
 **Engineering Notice for San Antonio:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bexar County.

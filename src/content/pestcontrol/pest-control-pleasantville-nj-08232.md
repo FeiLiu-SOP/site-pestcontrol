@@ -11,7 +11,6 @@ lng: -74.5200
 zipSample: ["08232"]
 zipCodes: ["08232"]
 localPaths: ["Atlantic County / elevation 10 ft band", "Atlantic County / ZIP 08232 sector", "Atlantic County / coords 39.3900, -74.5200", "Atlantic County / primary ZIP 08232"]
-zillowHomeValueUsd: 239821
 ---
 
 **Engineering Notice for Pleasantville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Atlantic County.

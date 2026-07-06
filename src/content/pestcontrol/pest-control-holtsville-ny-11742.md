@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11742"
 county: "Suffolk County"
 elevationFt: 98
-lat: 40.8100
-lng: -73.0400
+lat: 40.8205
+lng: -73.0700
 zipSample: ["00544", "00501", "11742"]
 zipCodes: ["00544", "11742", "00501"]
-localPaths: ["Suffolk County / primary ZIP 11742", "Suffolk County / ZIP 00501 sector", "Suffolk County / ZIP 11742 sector", "Suffolk County / coords 40.8100, -73.0400", "Suffolk County / ZIP 00544 sector"]
-zillowHomeValueUsd: 630842
+localPaths: ["Suffolk County / primary ZIP 11742", "Suffolk County / ZIP 00501 sector", "Suffolk County / ZIP 11742 sector", "Suffolk County / coords 40.8205, -73.0700", "Suffolk County / ZIP 00544 sector"]
 ---
 
 **Engineering Notice for Holtsville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
@@ -41,7 +40,7 @@ Tip: Remove leaf litter from weep holes before quarterly perimeter service in Ho
 
 FAQ: Are baits safe around pets? Product labels and zone maps govern timing in Holtsville, NY.
 
-Exclusion audit 865768: exclusion mesh gauge and rodent runway grease mark reviewed for Holtsville, NY at 40.8100/-73.0400.
+Exclusion audit 865768: exclusion mesh gauge and rodent runway grease mark reviewed for Holtsville, NY at 40.8205/-73.0700.
 
 Zone map 865768: attic insulation disturbance trace and pantry pest source logged for Holtsville, NY sector 11742.
 

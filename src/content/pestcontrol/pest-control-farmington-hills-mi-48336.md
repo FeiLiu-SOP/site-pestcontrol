@@ -11,7 +11,6 @@ lng: -83.3800
 zipSample: ["48335", "48331", "48336", "48334"]
 zipCodes: ["48334", "48331", "48335", "48336"]
 localPaths: ["Oakland County / ZIP 48336 sector", "Oakland County / elevation 866 ft band", "Oakland County / coords 42.4900, -83.3800", "Oakland County / primary ZIP 48336", "Oakland County / ZIP 48331 sector"]
-zillowHomeValueUsd: 300816
 ---
 
 **Engineering Notice for Farmington Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oakland County.

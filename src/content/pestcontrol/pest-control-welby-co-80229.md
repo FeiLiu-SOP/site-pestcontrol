@@ -11,7 +11,6 @@ lng: -104.9700
 zipSample: ["80229"]
 zipCodes: ["80229"]
 localPaths: ["Adams County / elevation 5194 ft band", "Adams County / coords 39.8400, -104.9700", "Adams County / ZIP 80229 sector", "Adams County / primary ZIP 80229"]
-zillowHomeValueUsd: 425768
 ---
 
 **Engineering Notice for Welby:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Adams County.

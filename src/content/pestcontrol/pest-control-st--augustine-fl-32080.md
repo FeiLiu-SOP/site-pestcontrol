@@ -11,7 +11,6 @@ lng: -81.3100
 zipSample: ["32080", "32084", "32095"]
 zipCodes: ["32084", "32095", "32080"]
 localPaths: ["St. Johns County / primary ZIP 32080", "St. Johns County / coords 29.9000, -81.3100", "St. Johns County / elevation 0 ft band", "St. Johns County / ZIP 32084 sector", "St. Johns County / ZIP 32095 sector"]
-zillowHomeValueUsd: 538463
 ---
 
 **Engineering Notice for St. Augustine:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Johns County.

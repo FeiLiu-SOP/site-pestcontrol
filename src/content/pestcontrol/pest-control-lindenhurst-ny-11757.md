@@ -11,7 +11,6 @@ lng: -73.3700
 zipSample: ["11757"]
 zipCodes: ["11757"]
 localPaths: ["Suffolk County / ZIP 11757 sector", "Suffolk County / coords 40.6900, -73.3700", "Suffolk County / elevation 30 ft band", "Suffolk County / primary ZIP 11757"]
-zillowHomeValueUsd: 600976
 ---
 
 **Engineering Notice for Lindenhurst:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

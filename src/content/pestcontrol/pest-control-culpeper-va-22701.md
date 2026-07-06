@@ -11,7 +11,6 @@ lng: -78.0000
 zipSample: ["22701"]
 zipCodes: ["22701"]
 localPaths: ["Culpeper County / primary ZIP 22701", "Culpeper County / coords 38.4700, -78.0000", "Culpeper County / ZIP 22701 sector", "Culpeper County / elevation 433 ft band"]
-zillowHomeValueUsd: 450314
 ---
 
 **Engineering Notice for Culpeper:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Culpeper County.

@@ -11,7 +11,6 @@ lng: -93.1500
 zipSample: ["55113"]
 zipCodes: ["55113"]
 localPaths: ["Ramsey County / elevation 912 ft band", "Ramsey County / primary ZIP 55113", "Ramsey County / ZIP 55113 sector", "Ramsey County / coords 45.0200, -93.1500"]
-zillowHomeValueUsd: 375029
 ---
 
 **Engineering Notice for Roseville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ramsey County.

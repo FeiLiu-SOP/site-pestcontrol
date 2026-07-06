@@ -11,7 +11,6 @@ lng: -93.4800
 zipSample: ["55379"]
 zipCodes: ["55379"]
 localPaths: ["Scott County / elevation 794 ft band", "Scott County / ZIP 55379 sector", "Scott County / primary ZIP 55379", "Scott County / coords 44.7700, -93.4800"]
-zillowHomeValueUsd: 404200
 ---
 
 **Engineering Notice for Shakopee:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Scott County.

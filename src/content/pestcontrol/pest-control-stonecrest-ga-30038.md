@@ -11,7 +11,6 @@ lng: -84.1400
 zipSample: ["30058", "30035", "30038"]
 zipCodes: ["30035", "30038", "30058"]
 localPaths: ["DeKalb County / coords 33.6800, -84.1400", "DeKalb County / ZIP 30058 sector", "DeKalb County / ZIP 30038 sector", "DeKalb County / ZIP 30035 sector", "DeKalb County / elevation 856 ft band"]
-zillowHomeValueUsd: 253923
 ---
 
 **Engineering Notice for Stonecrest:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeKalb County.

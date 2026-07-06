@@ -11,7 +11,6 @@ lng: -114.6200
 zipSample: ["92226", "92225"]
 zipCodes: ["92225", "92226"]
 localPaths: ["Riverside County / ZIP 92225 sector", "Riverside County / ZIP 92226 sector", "Riverside County / elevation 269 ft band", "Riverside County / coords 33.6200, -114.6200", "Riverside County / primary ZIP 92225"]
-zillowHomeValueUsd: 221378
 ---
 
 **Engineering Notice for Blythe:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.

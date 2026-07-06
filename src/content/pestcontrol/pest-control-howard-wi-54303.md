@@ -11,7 +11,6 @@ lng: -88.0900
 zipSample: ["54303", "54313"]
 zipCodes: ["54313", "54303"]
 localPaths: ["Brown County / elevation 653 ft band", "Brown County / ZIP 54313 sector", "Brown County / ZIP 54303 sector", "Brown County / primary ZIP 54303", "Brown County / coords 44.5700, -88.0900"]
-zillowHomeValueUsd: 244106
 ---
 
 **Engineering Notice for Howard:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brown County.

@@ -11,7 +11,6 @@ lng: -85.7700
 zipSample: ["47172", "47129"]
 zipCodes: ["47172", "47129"]
 localPaths: ["Clark County / primary ZIP 47129", "Clark County / coords 38.3200, -85.7700", "Clark County / elevation 472 ft band", "Clark County / ZIP 47172 sector", "Clark County / ZIP 47129 sector"]
-zillowHomeValueUsd: 203426
 ---
 
 **Engineering Notice for Clarksville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.

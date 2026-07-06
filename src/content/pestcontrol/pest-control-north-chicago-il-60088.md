@@ -7,11 +7,10 @@ zipCode: "60088"
 county: "Lake County"
 elevationFt: 705
 lat: 42.3200
-lng: -87.8600
+lng: -87.8900
 zipSample: ["60088", "60086", "60064"]
 zipCodes: ["60086", "60064", "60088"]
-localPaths: ["Lake County / ZIP 60088 sector", "Lake County / ZIP 60086 sector", "Lake County / coords 42.3200, -87.8600", "Lake County / elevation 705 ft band", "Lake County / primary ZIP 60088"]
-zillowHomeValueUsd: 209935
+localPaths: ["Lake County / ZIP 60088 sector", "Lake County / ZIP 60086 sector", "Lake County / coords 42.3200, -87.8900", "Lake County / elevation 705 ft band", "Lake County / primary ZIP 60088"]
 ---
 
 **Engineering Notice for North Chicago:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.
@@ -43,8 +42,8 @@ Earwig harborages in North Chicago, IL meter boxes often follow drip irrigation 
 
 Seasonal cue 119238: cluster fly attic staging reviewed for North Chicago, IL soffit cavities.
 
-Exclusion audit 119238: exclusion mesh gauge and rodent runway grease mark reviewed for North Chicago, IL at 42.3200/-87.8600.
+Exclusion audit 119238: exclusion mesh gauge and rodent runway grease mark reviewed for North Chicago, IL at 42.3200/-87.8900.
 
-On-site sector marker: Lake County / coords 42.3200, -87.8600 — logged for map parity and ZIP-corridor verification.
+On-site sector marker: Lake County / coords 42.3200, -87.8900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60088-947bce41

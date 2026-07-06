@@ -11,7 +11,6 @@ lng: -80.2700
 zipSample: ["27294", "27292", "27295"]
 zipCodes: ["27292", "27294", "27295"]
 localPaths: ["Davidson County / ZIP 27295 sector", "Davidson County / ZIP 27294 sector", "Davidson County / elevation 735 ft band", "Davidson County / primary ZIP 27292", "Davidson County / ZIP 27292 sector"]
-zillowHomeValueUsd: 251152
 ---
 
 **Engineering Notice for Lexington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Davidson County.

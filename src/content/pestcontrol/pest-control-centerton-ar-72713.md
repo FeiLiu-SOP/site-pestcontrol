@@ -11,7 +11,6 @@ lng: -94.3000
 zipSample: ["72719", "72713"]
 zipCodes: ["72713", "72719"]
 localPaths: ["Benton County / elevation 1309 ft band", "Benton County / ZIP 72719 sector", "Benton County / ZIP 72713 sector", "Benton County / primary ZIP 72713", "Benton County / coords 36.3600, -94.3000"]
-zillowHomeValueUsd: 454904
 ---
 
 **Engineering Notice for Centerton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Benton County.

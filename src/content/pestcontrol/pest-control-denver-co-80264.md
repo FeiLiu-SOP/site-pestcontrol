@@ -11,7 +11,6 @@ lng: -104.8800
 zipSample: ["80246", "80219", "80281", "80210", "80221"]
 zipCodes: ["80123", "80207", "80246", "80205", "80222", "80257", "80221", "80231", "80230", "80208", "80210", "80219"]
 localPaths: ["Denver County / elevation 5285 ft band", "Denver County / coords 39.7600, -104.8800", "Denver County / ZIP 80221 sector", "Denver County / ZIP 80219 sector", "Denver County / primary ZIP 80264"]
-zillowHomeValueUsd: 427014
 ---
 
 **Engineering Notice for Denver:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Denver County.

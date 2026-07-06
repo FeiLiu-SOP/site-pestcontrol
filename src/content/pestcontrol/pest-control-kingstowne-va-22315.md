@@ -11,7 +11,6 @@ lng: -77.1400
 zipSample: ["22315"]
 zipCodes: ["22315"]
 localPaths: ["Fairfax County / coords 38.7600, -77.1400", "Fairfax County / elevation 220 ft band", "Fairfax County / ZIP 22315 sector", "Fairfax County / primary ZIP 22315"]
-zillowHomeValueUsd: 676479
 ---
 
 **Engineering Notice for Kingstowne:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.

@@ -11,7 +11,6 @@ lng: -87.7900
 zipSample: ["60402"]
 zipCodes: ["60402"]
 localPaths: ["Cook County / primary ZIP 60402", "Cook County / elevation 614 ft band", "Cook County / coords 41.8400, -87.7900", "Cook County / ZIP 60402 sector"]
-zillowHomeValueUsd: 303487
 ---
 
 **Engineering Notice for Berwyn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

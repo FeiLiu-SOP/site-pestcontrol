@@ -11,7 +11,6 @@ lng: -87.9400
 zipSample: ["60056"]
 zipCodes: ["60056"]
 localPaths: ["Cook County / primary ZIP 60056", "Cook County / ZIP 60056 sector", "Cook County / elevation 676 ft band", "Cook County / coords 42.0600, -87.9400"]
-zillowHomeValueUsd: 434434
 ---
 
 **Engineering Notice for Mount Prospect:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

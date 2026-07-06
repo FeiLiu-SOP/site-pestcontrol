@@ -11,7 +11,6 @@ lng: -83.9000
 zipSample: ["30052"]
 zipCodes: ["30052"]
 localPaths: ["Walton County / elevation 984 ft band", "Walton County / coords 33.8400, -83.9000", "Walton County / ZIP 30052 sector", "Walton County / primary ZIP 30052"]
-zillowHomeValueUsd: 392746
 ---
 
 **Engineering Notice for Loganville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Walton County.

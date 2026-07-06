@@ -11,7 +11,6 @@ lng: -87.8200
 zipSample: ["60706"]
 zipCodes: ["60706"]
 localPaths: ["Cook County / coords 41.9600, -87.8200", "Cook County / ZIP 60706 sector", "Cook County / elevation 650 ft band", "Cook County / primary ZIP 60706"]
-zillowHomeValueUsd: 396745
 ---
 
 **Engineering Notice for Norridge:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

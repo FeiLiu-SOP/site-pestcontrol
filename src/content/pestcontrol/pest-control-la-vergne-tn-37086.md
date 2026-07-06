@@ -11,7 +11,6 @@ lng: -86.5600
 zipSample: ["37086", "37089"]
 zipCodes: ["37089", "37086"]
 localPaths: ["Rutherford County / coords 36.0200, -86.5600", "Rutherford County / ZIP 37089 sector", "Rutherford County / ZIP 37086 sector", "Rutherford County / primary ZIP 37086", "Rutherford County / elevation 587 ft band"]
-zillowHomeValueUsd: 343278
 ---
 
 **Engineering Notice for La Vergne:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rutherford County.

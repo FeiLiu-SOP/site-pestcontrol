@@ -11,7 +11,6 @@ lng: -80.2100
 zipSample: ["33169", "33161", "33168", "33162"]
 zipCodes: ["33161", "33168", "33162", "33169"]
 localPaths: ["Miami-Dade County / ZIP 33169 sector", "Miami-Dade County / coords 25.9100, -80.2100", "Miami-Dade County / ZIP 33162 sector", "Miami-Dade County / ZIP 33161 sector", "Miami-Dade County / ZIP 33168 sector"]
-zillowHomeValueUsd: 463884
 ---
 
 **Engineering Notice for Biscayne Gardens:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

@@ -11,7 +11,6 @@ lng: -81.3000
 zipSample: ["32857", "32807", "32822"]
 zipCodes: ["32822", "32857", "32807"]
 localPaths: ["Orange County / elevation 108 ft band", "Orange County / ZIP 32807 sector", "Orange County / ZIP 32822 sector", "Orange County / coords 28.5500, -81.3000", "Orange County / ZIP 32857 sector"]
-zillowHomeValueUsd: 263042
 ---
 
 **Engineering Notice for Azalea Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

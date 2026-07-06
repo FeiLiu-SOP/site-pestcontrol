@@ -11,7 +11,6 @@ lng: -84.4000
 zipSample: ["48823", "48840"]
 zipCodes: ["48840", "48823"]
 localPaths: ["Ingham County / coords 42.7500, -84.4000", "Ingham County / ZIP 48823 sector", "Ingham County / ZIP 48840 sector", "Ingham County / primary ZIP 48840", "Ingham County / elevation 846 ft band"]
-zillowHomeValueUsd: 305860
 ---
 
 **Engineering Notice for Haslett:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ingham County.

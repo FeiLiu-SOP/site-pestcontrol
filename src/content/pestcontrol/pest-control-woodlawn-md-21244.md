@@ -11,7 +11,6 @@ lng: -76.7500
 zipSample: ["21228", "21244", "21241", "21207", "21235"]
 zipCodes: ["21244", "21235", "21241", "21228", "21207", "21289"]
 localPaths: ["Baltimore County / ZIP 21244 sector", "Baltimore County / primary ZIP 21244", "Baltimore County / ZIP 21207 sector", "Baltimore County / ZIP 21241 sector", "Baltimore County / ZIP 21235 sector"]
-zillowHomeValueUsd: 322127
 ---
 
 **Engineering Notice for Woodlawn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.

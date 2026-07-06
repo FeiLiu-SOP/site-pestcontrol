@@ -11,7 +11,6 @@ lng: -80.3800
 zipSample: ["32962"]
 zipCodes: ["32962"]
 localPaths: ["Indian River County / coords 27.5800, -80.3800", "Indian River County / primary ZIP 32962", "Indian River County / elevation 39 ft band", "Indian River County / ZIP 32962 sector"]
-zillowHomeValueUsd: 258868
 ---
 
 **Engineering Notice for Florida Ridge:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Indian River County.

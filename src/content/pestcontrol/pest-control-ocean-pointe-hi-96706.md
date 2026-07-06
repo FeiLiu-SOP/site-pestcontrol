@@ -11,7 +11,6 @@ lng: -158.0300
 zipSample: ["96706"]
 zipCodes: ["96706"]
 localPaths: ["Honolulu County / coords 21.3100, -158.0300", "Honolulu County / elevation 30 ft band", "Honolulu County / ZIP 96706 sector", "Honolulu County / primary ZIP 96706"]
-zillowHomeValueUsd: 830543
 ---
 
 **Engineering Notice for Ocean Pointe:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Honolulu County.

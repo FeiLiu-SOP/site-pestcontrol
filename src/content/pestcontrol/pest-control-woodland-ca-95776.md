@@ -11,7 +11,6 @@ lng: -121.7500
 zipSample: ["95776", "95695"]
 zipCodes: ["95695", "95776"]
 localPaths: ["Yolo County / primary ZIP 95776", "Yolo County / ZIP 95776 sector", "Yolo County / ZIP 95695 sector", "Yolo County / coords 38.6700, -121.7500", "Yolo County / elevation 36 ft band"]
-zillowHomeValueUsd: 601663
 ---
 
 **Engineering Notice for Woodland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Yolo County.

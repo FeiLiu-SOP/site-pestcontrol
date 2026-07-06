@@ -11,7 +11,6 @@ lng: -96.1900
 zipSample: ["66801"]
 zipCodes: ["66801"]
 localPaths: ["Lyon County / primary ZIP 66801", "Lyon County / ZIP 66801 sector", "Lyon County / elevation 1145 ft band", "Lyon County / coords 38.4000, -96.1900"]
-zillowHomeValueUsd: 168945
 ---
 
 **Engineering Notice for Emporia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lyon County.

@@ -11,7 +11,6 @@ lng: -84.9700
 zipSample: ["30721", "30719", "30722", "30720"]
 zipCodes: ["30719", "30722", "30720", "30721"]
 localPaths: ["Whitfield County / ZIP 30722 sector", "Whitfield County / ZIP 30721 sector", "Whitfield County / ZIP 30720 sector", "Whitfield County / primary ZIP 30721", "Whitfield County / ZIP 30719 sector"]
-zillowHomeValueUsd: 235162
 ---
 
 **Engineering Notice for Dalton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Whitfield County.

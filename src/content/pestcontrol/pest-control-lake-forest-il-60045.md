@@ -7,11 +7,10 @@ zipCode: "60045"
 county: "Lake County"
 elevationFt: 689
 lat: 42.2400
-lng: -87.8600
+lng: -87.8900
 zipSample: ["60045", "60065"]
 zipCodes: ["60045", "60065"]
-localPaths: ["Lake County / ZIP 60045 sector", "Lake County / coords 42.2400, -87.8600", "Lake County / elevation 689 ft band", "Lake County / primary ZIP 60045", "Lake County / ZIP 60065 sector"]
-zillowHomeValueUsd: 1139134
+localPaths: ["Lake County / ZIP 60045 sector", "Lake County / coords 42.2400, -87.8900", "Lake County / elevation 689 ft band", "Lake County / primary ZIP 60045", "Lake County / ZIP 60065 sector"]
 ---
 
 **Engineering Notice for Lake Forest:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.
@@ -41,7 +40,7 @@ IGR packets for Lake Forest, IL roach cycles should be dated on station lids.
 
 Clover mite staining on Lake Forest, IL exterior cladding follows foundation mulch against brick ledges.
 
-Exclusion audit 541418: exclusion mesh gauge and rodent runway grease mark reviewed for Lake Forest, IL at 42.2400/-87.8600.
+Exclusion audit 541418: exclusion mesh gauge and rodent runway grease mark reviewed for Lake Forest, IL at 42.2400/-87.8900.
 
 On-site sector marker: Lake County / primary ZIP 60045 — logged for map parity and ZIP-corridor verification.
 

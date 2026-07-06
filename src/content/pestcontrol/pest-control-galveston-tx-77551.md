@@ -11,7 +11,6 @@ lng: -94.8900
 zipSample: ["77553", "77555", "77554", "77551", "77552"]
 zipCodes: ["77554", "77550", "77551", "77552", "77553", "77555"]
 localPaths: ["Galveston County / ZIP 77555 sector", "Galveston County / coords 29.2500, -94.8900", "Galveston County / elevation 10 ft band", "Galveston County / ZIP 77551 sector", "Galveston County / ZIP 77554 sector"]
-zillowHomeValueUsd: 246029
 ---
 
 **Engineering Notice for Galveston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Galveston County.

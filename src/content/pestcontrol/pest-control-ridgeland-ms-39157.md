@@ -11,7 +11,6 @@ lng: -90.1500
 zipSample: ["39158", "39157"]
 zipCodes: ["39157", "39158"]
 localPaths: ["Madison County / primary ZIP 39157", "Madison County / elevation 351 ft band", "Madison County / coords 32.4200, -90.1500", "Madison County / ZIP 39157 sector", "Madison County / ZIP 39158 sector"]
-zillowHomeValueUsd: 286468
 ---
 
 **Engineering Notice for Ridgeland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Madison County.

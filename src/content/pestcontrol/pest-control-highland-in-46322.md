@@ -11,7 +11,6 @@ lng: -87.4600
 zipSample: ["46322"]
 zipCodes: ["46322"]
 localPaths: ["Lake County / elevation 627 ft band", "Lake County / ZIP 46322 sector", "Lake County / primary ZIP 46322", "Lake County / coords 41.5500, -87.4600"]
-zillowHomeValueUsd: 263912
 ---
 
 **Engineering Notice for Highland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

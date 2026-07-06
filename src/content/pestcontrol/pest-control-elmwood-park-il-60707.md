@@ -11,7 +11,6 @@ lng: -87.8200
 zipSample: ["60707"]
 zipCodes: ["60707"]
 localPaths: ["Cook County / primary ZIP 60707", "Cook County / elevation 636 ft band", "Cook County / ZIP 60707 sector", "Cook County / coords 41.9200, -87.8200"]
-zillowHomeValueUsd: 334746
 ---
 
 **Engineering Notice for Elmwood Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

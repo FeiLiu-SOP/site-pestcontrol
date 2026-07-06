@@ -11,7 +11,6 @@ lng: -87.2700
 zipSample: ["46342", "46410"]
 zipCodes: ["46342", "46410"]
 localPaths: ["Lake County / ZIP 46342 sector", "Lake County / primary ZIP 46342", "Lake County / elevation 636 ft band", "Lake County / ZIP 46410 sector", "Lake County / coords 41.5100, -87.2700"]
-zillowHomeValueUsd: 234713
 ---
 
 **Engineering Notice for Hobart:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

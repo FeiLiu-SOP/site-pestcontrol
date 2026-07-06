@@ -11,7 +11,6 @@ lng: -76.8900
 zipSample: ["20768", "20770"]
 zipCodes: ["20768", "20770"]
 localPaths: ["Prince George's County / coords 39.0000, -76.8900", "Prince George's County / ZIP 20768 sector", "Prince George's County / ZIP 20770 sector", "Prince George's County / primary ZIP 20770", "Prince George's County / elevation 167 ft band"]
-zillowHomeValueUsd: 278907
 ---
 
 **Engineering Notice for Greenbelt:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince George's County.

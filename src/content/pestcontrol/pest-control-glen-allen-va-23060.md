@@ -11,7 +11,6 @@ lng: -77.4800
 zipSample: ["23059", "23060", "23058"]
 zipCodes: ["23059", "23060", "23058"]
 localPaths: ["Henrico County / ZIP 23060 sector", "Henrico County / ZIP 23059 sector", "Henrico County / coords 37.6700, -77.4800", "Henrico County / ZIP 23058 sector", "Henrico County / primary ZIP 23060"]
-zillowHomeValueUsd: 451256
 ---
 
 **Engineering Notice for Glen Allen:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Henrico County.

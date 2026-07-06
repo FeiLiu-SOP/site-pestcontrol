@@ -11,7 +11,6 @@ lng: -77.3000
 zipSample: ["22102", "22066"]
 zipCodes: ["22102", "22066"]
 localPaths: ["Fairfax County / elevation 394 ft band", "Fairfax County / ZIP 22102 sector", "Fairfax County / ZIP 22066 sector", "Fairfax County / primary ZIP 22066", "Fairfax County / coords 39.0100, -77.3000"]
-zillowHomeValueUsd: 1681469
 ---
 
 **Engineering Notice for Great Falls:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fairfax County.

@@ -11,7 +11,6 @@ lng: -90.3000
 zipSample: ["63135", "63136"]
 zipCodes: ["63136", "63135"]
 localPaths: ["St. Louis County / elevation 574 ft band", "St. Louis County / ZIP 63136 sector", "St. Louis County / coords 38.7500, -90.3000", "St. Louis County / primary ZIP 63136", "St. Louis County / ZIP 63135 sector"]
-zillowHomeValueUsd: 85924
 ---
 
 **Engineering Notice for Ferguson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.

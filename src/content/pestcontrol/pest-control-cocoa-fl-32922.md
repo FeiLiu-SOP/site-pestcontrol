@@ -11,7 +11,6 @@ lng: -80.7700
 zipSample: ["32926", "32922"]
 zipCodes: ["32922", "32926"]
 localPaths: ["Brevard County / ZIP 32922 sector", "Brevard County / primary ZIP 32922", "Brevard County / elevation 39 ft band", "Brevard County / coords 28.3800, -80.7700", "Brevard County / ZIP 32926 sector"]
-zillowHomeValueUsd: 199942
 ---
 
 **Engineering Notice for Cocoa:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Brevard County.

@@ -11,7 +11,6 @@ lng: -115.1400
 zipSample: ["89111", "89193", "89121", "89177", "89120"]
 zipCodes: ["89136", "89154", "89193", "89157", "89103", "89132", "89119", "89109", "89170", "89121", "89177", "89120"]
 localPaths: ["Clark County / coords 36.0900, -115.1400", "Clark County / ZIP 89121 sector", "Clark County / ZIP 89177 sector", "Clark County / primary ZIP 89103", "Clark County / ZIP 89111 sector"]
-zillowHomeValueUsd: 265056
 ---
 
 **Engineering Notice for Paradise:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.

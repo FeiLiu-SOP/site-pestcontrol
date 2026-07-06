@@ -11,7 +11,6 @@ lng: -110.9900
 zipSample: ["85640", "85648"]
 zipCodes: ["85648", "85640"]
 localPaths: ["Santa Cruz County / elevation 3461 ft band", "Santa Cruz County / ZIP 85648 sector", "Santa Cruz County / ZIP 85640 sector", "Santa Cruz County / coords 31.5000, -110.9900", "Santa Cruz County / primary ZIP 85640"]
-zillowHomeValueUsd: 408339
 ---
 
 **Engineering Notice for Rio Rico:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Cruz County.

@@ -7,11 +7,10 @@ zipCode: "90266"
 county: "Los Angeles County"
 elevationFt: 135
 lat: 33.8900
-lng: -118.4000
+lng: -118.3700
 zipSample: ["90267", "90266"]
 zipCodes: ["90266", "90267"]
-localPaths: ["Los Angeles County / primary ZIP 90266", "Los Angeles County / ZIP 90266 sector", "Los Angeles County / coords 33.8900, -118.4000", "Los Angeles County / ZIP 90267 sector", "Los Angeles County / elevation 135 ft band"]
-zillowHomeValueUsd: 3229605
+localPaths: ["Los Angeles County / primary ZIP 90266", "Los Angeles County / ZIP 90266 sector", "Los Angeles County / coords 33.8900, -118.3700", "Los Angeles County / ZIP 90267 sector", "Los Angeles County / elevation 135 ft band"]
 ---
 
 **Engineering Notice for Manhattan Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

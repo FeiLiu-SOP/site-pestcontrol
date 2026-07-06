@@ -11,7 +11,6 @@ lng: -93.5600
 zipSample: ["55317", "55331", "55318"]
 zipCodes: ["55331", "55318", "55317"]
 localPaths: ["Carver County / primary ZIP 55331", "Carver County / coords 44.8500, -93.5600", "Carver County / ZIP 55317 sector", "Carver County / ZIP 55318 sector", "Carver County / ZIP 55331 sector"]
-zillowHomeValueUsd: 810176
 ---
 
 **Engineering Notice for Chanhassen:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Carver County.

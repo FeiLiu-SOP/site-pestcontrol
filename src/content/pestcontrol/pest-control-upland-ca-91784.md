@@ -11,7 +11,6 @@ lng: -117.6600
 zipSample: ["91786", "91785", "91784"]
 zipCodes: ["91785", "91784", "91786"]
 localPaths: ["San Bernardino County / ZIP 91785 sector", "San Bernardino County / ZIP 91786 sector", "San Bernardino County / ZIP 91784 sector", "San Bernardino County / elevation 1483 ft band", "San Bernardino County / coords 34.1200, -117.6600"]
-zillowHomeValueUsd: 986164
 ---
 
 **Engineering Notice for Upland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.

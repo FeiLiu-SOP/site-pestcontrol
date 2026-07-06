@@ -11,7 +11,6 @@ lng: -122.4200
 zipSample: ["98445", "98387"]
 zipCodes: ["98445", "98387"]
 localPaths: ["Pierce County / coords 47.1000, -122.4200", "Pierce County / ZIP 98387 sector", "Pierce County / primary ZIP 98387", "Pierce County / elevation 374 ft band", "Pierce County / ZIP 98445 sector"]
-zillowHomeValueUsd: 509427
 ---
 
 **Engineering Notice for Spanaway:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pierce County.

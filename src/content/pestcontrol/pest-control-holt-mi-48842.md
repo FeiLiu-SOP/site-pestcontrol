@@ -11,7 +11,6 @@ lng: -84.5300
 zipSample: ["48911", "48842"]
 zipCodes: ["48842", "48911"]
 localPaths: ["Ingham County / primary ZIP 48842", "Ingham County / ZIP 48911 sector", "Ingham County / coords 42.6400, -84.5300", "Ingham County / elevation 896 ft band", "Ingham County / ZIP 48842 sector"]
-zillowHomeValueUsd: 270383
 ---
 
 **Engineering Notice for Holt:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ingham County.

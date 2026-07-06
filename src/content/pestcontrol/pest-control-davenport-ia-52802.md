@@ -11,7 +11,6 @@ lng: -90.6100
 zipSample: ["52806", "52803", "52809", "52804", "52801"]
 zipCodes: ["52805", "52803", "52802", "52809", "52801", "52807", "52804", "52808", "52806"]
 localPaths: ["Scott County / primary ZIP 52802", "Scott County / ZIP 52806 sector", "Scott County / ZIP 52803 sector", "Scott County / ZIP 52809 sector", "Scott County / ZIP 52801 sector"]
-zillowHomeValueUsd: 107015
 ---
 
 **Engineering Notice for Davenport:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Scott County.

@@ -11,7 +11,6 @@ lng: -73.7800
 zipSample: ["10583"]
 zipCodes: ["10583"]
 localPaths: ["Westchester County / ZIP 10583 sector", "Westchester County / primary ZIP 10583", "Westchester County / elevation 289 ft band", "Westchester County / coords 40.9900, -73.7800"]
-zillowHomeValueUsd: 1499875
 ---
 
 **Engineering Notice for Scarsdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Westchester County.

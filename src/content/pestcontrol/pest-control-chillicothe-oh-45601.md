@@ -11,7 +11,6 @@ lng: -82.9900
 zipSample: ["45601"]
 zipCodes: ["45601"]
 localPaths: ["Ross County / coords 39.3400, -82.9900", "Ross County / elevation 640 ft band", "Ross County / ZIP 45601 sector", "Ross County / primary ZIP 45601"]
-zillowHomeValueUsd: 196924
 ---
 
 **Engineering Notice for Chillicothe:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ross County.

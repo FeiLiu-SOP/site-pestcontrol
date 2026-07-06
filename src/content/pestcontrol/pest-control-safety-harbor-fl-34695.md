@@ -11,7 +11,6 @@ lng: -82.7000
 zipSample: ["34695"]
 zipCodes: ["34695"]
 localPaths: ["Pinellas County / ZIP 34695 sector", "Pinellas County / primary ZIP 34695", "Pinellas County / coords 28.0100, -82.7000", "Pinellas County / elevation 39 ft band"]
-zillowHomeValueUsd: 496221
 ---
 
 **Engineering Notice for Safety Harbor:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pinellas County.

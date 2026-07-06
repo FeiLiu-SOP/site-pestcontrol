@@ -11,7 +11,6 @@ lng: -86.3500
 zipSample: ["46947"]
 zipCodes: ["46947"]
 localPaths: ["Cass County / primary ZIP 46947", "Cass County / coords 40.7500, -86.3500", "Cass County / elevation 614 ft band", "Cass County / ZIP 46947 sector"]
-zillowHomeValueUsd: 154627
 ---
 
 **Engineering Notice for Logansport:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cass County.

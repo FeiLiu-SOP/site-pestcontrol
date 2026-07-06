@@ -11,7 +11,6 @@ lng: -82.3000
 zipSample: ["29607", "29662", "29681"]
 zipCodes: ["29607", "29662", "29681"]
 localPaths: ["Greenville County / ZIP 29662 sector", "Greenville County / coords 34.7800, -82.3000", "Greenville County / primary ZIP 29662", "Greenville County / ZIP 29607 sector", "Greenville County / elevation 912 ft band"]
-zillowHomeValueUsd: 295517
 ---
 
 **Engineering Notice for Mauldin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Greenville County.

@@ -11,7 +11,6 @@ lng: -117.7000
 zipSample: ["92629", "92624"]
 zipCodes: ["92624", "92629"]
 localPaths: ["Orange County / ZIP 92629 sector", "Orange County / coords 33.4700, -117.7000", "Orange County / elevation 285 ft band", "Orange County / ZIP 92624 sector", "Orange County / primary ZIP 92629"]
-zillowHomeValueUsd: 1753669
 ---
 
 **Engineering Notice for Dana Point:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

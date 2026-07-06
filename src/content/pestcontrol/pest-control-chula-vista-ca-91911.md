@@ -11,7 +11,6 @@ lng: -117.0100
 zipSample: ["91921", "91912", "91914", "91910", "91908"]
 zipCodes: ["91912", "91911", "91909", "91913", "91908", "91915", "91910", "91902", "91921", "91914"]
 localPaths: ["San Diego County / ZIP 91921 sector", "San Diego County / elevation 459 ft band", "San Diego County / ZIP 91910 sector", "San Diego County / ZIP 91914 sector", "San Diego County / ZIP 91912 sector"]
-zillowHomeValueUsd: 771259
 ---
 
 **Engineering Notice for Chula Vista:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.

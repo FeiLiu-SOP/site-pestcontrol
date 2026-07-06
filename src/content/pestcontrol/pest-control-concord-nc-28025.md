@@ -11,7 +11,6 @@ lng: -80.6400
 zipSample: ["28027", "28025", "28026"]
 zipCodes: ["28027", "28025", "28026"]
 localPaths: ["Cabarrus County / ZIP 28025 sector", "Cabarrus County / elevation 646 ft band", "Cabarrus County / ZIP 28027 sector", "Cabarrus County / primary ZIP 28025", "Cabarrus County / coords 35.3900, -80.6400"]
-zillowHomeValueUsd: 342344
 ---
 
 **Engineering Notice for Concord:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cabarrus County.

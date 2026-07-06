@@ -11,7 +11,6 @@ lng: -81.6200
 zipSample: ["33837", "33844", "33845"]
 zipCodes: ["33845", "33844", "33837"]
 localPaths: ["Polk County / coords 28.1100, -81.6200", "Polk County / ZIP 33845 sector", "Polk County / primary ZIP 33844", "Polk County / ZIP 33837 sector", "Polk County / ZIP 33844 sector"]
-zillowHomeValueUsd: 295966
 ---
 
 **Engineering Notice for Haines City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Polk County.

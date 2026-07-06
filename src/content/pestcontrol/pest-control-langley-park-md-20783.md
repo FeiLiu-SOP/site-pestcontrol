@@ -11,7 +11,6 @@ lng: -76.9800
 zipSample: ["20783", "20903"]
 zipCodes: ["20783", "20903"]
 localPaths: ["Prince George's County / ZIP 20903 sector", "Prince George's County / ZIP 20783 sector", "Prince George's County / primary ZIP 20783", "Prince George's County / coords 38.9900, -76.9800", "Prince George's County / elevation 157 ft band"]
-zillowHomeValueUsd: 405938
 ---
 
 **Engineering Notice for Langley Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince George's County.

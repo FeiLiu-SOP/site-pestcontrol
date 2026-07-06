@@ -11,7 +11,6 @@ lng: -96.8200
 zipSample: ["75034", "75033", "75036", "75035"]
 zipCodes: ["75034", "75033", "75035", "75036"]
 localPaths: ["Collin County / ZIP 75036 sector", "Collin County / ZIP 75034 sector", "Collin County / primary ZIP 75034", "Collin County / ZIP 75033 sector", "Collin County / ZIP 75035 sector"]
-zillowHomeValueUsd: 676158
 ---
 
 **Engineering Notice for Frisco:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Collin County.

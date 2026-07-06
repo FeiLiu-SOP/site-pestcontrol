@@ -11,7 +11,6 @@ lng: -105.1400
 zipSample: ["80027"]
 zipCodes: ["80027"]
 localPaths: ["Boulder County / elevation 5407 ft band", "Boulder County / ZIP 80027 sector", "Boulder County / coords 39.9700, -105.1400", "Boulder County / primary ZIP 80027"]
-zillowHomeValueUsd: 837465
 ---
 
 **Engineering Notice for Louisville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Boulder County.

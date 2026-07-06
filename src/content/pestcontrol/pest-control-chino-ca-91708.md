@@ -11,7 +11,6 @@ lng: -117.6700
 zipSample: ["91708", "91710"]
 zipCodes: ["91710", "91708"]
 localPaths: ["San Bernardino County / ZIP 91708 sector", "San Bernardino County / elevation 620 ft band", "San Bernardino County / ZIP 91710 sector", "San Bernardino County / primary ZIP 91708", "San Bernardino County / coords 33.9800, -117.6700"]
-zillowHomeValueUsd: 726243
 ---
 
 **Engineering Notice for Chino:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.

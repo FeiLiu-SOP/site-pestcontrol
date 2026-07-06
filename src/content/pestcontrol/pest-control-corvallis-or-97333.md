@@ -11,7 +11,6 @@ lng: -123.2800
 zipSample: ["97333", "97330", "97331", "97339"]
 zipCodes: ["97333", "97330", "97331", "97339"]
 localPaths: ["Benton County / primary ZIP 97333", "Benton County / elevation 259 ft band", "Benton County / coords 44.5700, -123.2800", "Benton County / ZIP 97339 sector", "Benton County / ZIP 97333 sector"]
-zillowHomeValueUsd: 523689
 ---
 
 **Engineering Notice for Corvallis:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Benton County.

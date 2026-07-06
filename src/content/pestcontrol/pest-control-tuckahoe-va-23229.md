@@ -11,7 +11,6 @@ lng: -77.5900
 zipSample: ["23238", "23229", "23288", "23255"]
 zipCodes: ["23255", "23288", "23229", "23238"]
 localPaths: ["Henrico County / primary ZIP 23229", "Henrico County / coords 37.5900, -77.5900", "Henrico County / ZIP 23229 sector", "Henrico County / ZIP 23238 sector", "Henrico County / ZIP 23288 sector"]
-zillowHomeValueUsd: 514435
 ---
 
 **Engineering Notice for Tuckahoe:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Henrico County.

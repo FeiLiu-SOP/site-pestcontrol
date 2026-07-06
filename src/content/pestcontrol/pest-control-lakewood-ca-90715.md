@@ -11,7 +11,6 @@ lng: -118.1200
 zipSample: ["90714", "90713", "90715", "90712", "90711"]
 zipCodes: ["90715", "90714", "90713", "90712", "90711"]
 localPaths: ["Los Angeles County / primary ZIP 90715", "Los Angeles County / ZIP 90712 sector", "Los Angeles County / ZIP 90714 sector", "Los Angeles County / ZIP 90713 sector", "Los Angeles County / coords 33.8500, -118.1200"]
-zillowHomeValueUsd: 822568
 ---
 
 **Engineering Notice for Lakewood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

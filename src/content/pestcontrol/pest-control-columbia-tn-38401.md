@@ -11,7 +11,6 @@ lng: -87.0500
 zipSample: ["38402", "38401"]
 zipCodes: ["38402", "38401"]
 localPaths: ["Maury County / primary ZIP 38401", "Maury County / coords 35.6200, -87.0500", "Maury County / elevation 745 ft band", "Maury County / ZIP 38402 sector", "Maury County / ZIP 38401 sector"]
-zillowHomeValueUsd: 374982
 ---
 
 **Engineering Notice for Columbia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Maury County.

@@ -11,7 +11,6 @@ lng: -111.5300
 zipSample: ["85194", "85191", "85128"]
 zipCodes: ["85194", "85191", "85128"]
 localPaths: ["Pinal County / coords 32.9400, -111.5300", "Pinal County / elevation 1414 ft band", "Pinal County / primary ZIP 85194", "Pinal County / ZIP 85194 sector", "Pinal County / ZIP 85191 sector"]
-zillowHomeValueUsd: 362237
 ---
 
 **Engineering Notice for Coolidge:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pinal County.

@@ -11,7 +11,6 @@ lng: -82.4700
 zipSample: ["29617", "29611"]
 zipCodes: ["29617", "29611"]
 localPaths: ["Greenville County / coords 34.8800, -82.4700", "Greenville County / ZIP 29611 sector", "Greenville County / elevation 1073 ft band", "Greenville County / primary ZIP 29617", "Greenville County / ZIP 29617 sector"]
-zillowHomeValueUsd: 264622
 ---
 
 **Engineering Notice for Berea:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Greenville County.

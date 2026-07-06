@@ -11,7 +11,6 @@ lng: -98.0600
 zipSample: ["78537"]
 zipCodes: ["78537"]
 localPaths: ["Hidalgo County / coords 26.1500, -98.0600", "Hidalgo County / primary ZIP 78537", "Hidalgo County / ZIP 78537 sector", "Hidalgo County / elevation 105 ft band"]
-zillowHomeValueUsd: 152935
 ---
 
 **Engineering Notice for Donna:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hidalgo County.

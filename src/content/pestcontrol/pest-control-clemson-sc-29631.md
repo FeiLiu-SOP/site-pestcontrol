@@ -11,7 +11,6 @@ lng: -82.8100
 zipSample: ["29630", "29632", "29631"]
 zipCodes: ["29630", "29631", "29632"]
 localPaths: ["Pickens County / elevation 804 ft band", "Pickens County / primary ZIP 29631", "Pickens County / ZIP 29630 sector", "Pickens County / ZIP 29631 sector", "Pickens County / ZIP 29632 sector"]
-zillowHomeValueUsd: 397808
 ---
 
 **Engineering Notice for Clemson:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pickens County.

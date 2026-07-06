@@ -11,7 +11,6 @@ lng: -73.7000
 zipSample: ["11002", "11001"]
 zipCodes: ["11002", "11001"]
 localPaths: ["Nassau County / ZIP 11001 sector", "Nassau County / elevation 92 ft band", "Nassau County / ZIP 11002 sector", "Nassau County / coords 40.7200, -73.7000", "Nassau County / primary ZIP 11001"]
-zillowHomeValueUsd: 850830
 ---
 
 **Engineering Notice for Floral Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

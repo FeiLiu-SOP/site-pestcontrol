@@ -11,7 +11,6 @@ lng: -80.9700
 zipSample: ["32169", "32168", "32170"]
 zipCodes: ["32169", "32170", "32168"]
 localPaths: ["Volusia County / elevation 36 ft band", "Volusia County / primary ZIP 32169", "Volusia County / coords 29.0200, -80.9700", "Volusia County / ZIP 32169 sector", "Volusia County / ZIP 32170 sector"]
-zillowHomeValueUsd: 544108
 ---
 
 **Engineering Notice for New Smyrna Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Volusia County.

@@ -11,7 +11,6 @@ lng: -88.4300
 zipSample: ["60142"]
 zipCodes: ["60142"]
 localPaths: ["McHenry County / coords 42.1600, -88.4300", "McHenry County / elevation 869 ft band", "McHenry County / primary ZIP 60142", "McHenry County / ZIP 60142 sector"]
-zillowHomeValueUsd: 417925
 ---
 
 **Engineering Notice for Huntley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: McHenry County.

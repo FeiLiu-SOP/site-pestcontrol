@@ -11,7 +11,6 @@ lng: -118.0800
 zipSample: ["90701", "90702"]
 zipCodes: ["90701", "90702"]
 localPaths: ["Los Angeles County / ZIP 90701 sector", "Los Angeles County / elevation 66 ft band", "Los Angeles County / coords 33.8700, -118.0800", "Los Angeles County / primary ZIP 90701", "Los Angeles County / ZIP 90702 sector"]
-zillowHomeValueUsd: 873721
 ---
 
 **Engineering Notice for Artesia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

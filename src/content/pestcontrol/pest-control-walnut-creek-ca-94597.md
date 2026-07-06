@@ -11,7 +11,6 @@ lng: -122.0400
 zipSample: ["94596", "94598", "94597", "94595"]
 zipCodes: ["94595", "94598", "94597", "94596"]
 localPaths: ["Contra Costa County / elevation 210 ft band", "Contra Costa County / ZIP 94598 sector", "Contra Costa County / coords 37.9000, -122.0400", "Contra Costa County / primary ZIP 94597", "Contra Costa County / ZIP 94597 sector"]
-zillowHomeValueUsd: 1004215
 ---
 
 **Engineering Notice for Walnut Creek:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.

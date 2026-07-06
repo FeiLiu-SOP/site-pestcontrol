@@ -11,7 +11,6 @@ lng: -85.3700
 zipSample: ["47362"]
 zipCodes: ["47362"]
 localPaths: ["Henry County / elevation 1063 ft band", "Henry County / primary ZIP 47362", "Henry County / ZIP 47362 sector", "Henry County / coords 39.9200, -85.3700"]
-zillowHomeValueUsd: 165968
 ---
 
 **Engineering Notice for New Castle:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Henry County.

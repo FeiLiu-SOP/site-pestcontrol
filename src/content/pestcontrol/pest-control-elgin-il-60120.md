@@ -11,7 +11,6 @@ lng: -88.3200
 zipSample: ["60123", "60124", "60121", "60122", "60120"]
 zipCodes: ["60123", "60122", "60124", "60120", "60121"]
 localPaths: ["Kane County / ZIP 60121 sector", "Kane County / ZIP 60122 sector", "Kane County / ZIP 60120 sector", "Kane County / coords 42.0400, -88.3200", "Kane County / ZIP 60123 sector"]
-zillowHomeValueUsd: 293658
 ---
 
 **Engineering Notice for Elgin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kane County.

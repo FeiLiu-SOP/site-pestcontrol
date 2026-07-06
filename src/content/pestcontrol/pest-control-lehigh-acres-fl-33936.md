@@ -11,7 +11,6 @@ lng: -81.6400
 zipSample: ["33973", "33970", "33974", "33936", "33972"]
 zipCodes: ["33974", "33971", "33936", "33972", "33973", "33970", "33976"]
 localPaths: ["Lee County / primary ZIP 33936", "Lee County / elevation 43 ft band", "Lee County / coords 26.6100, -81.6400", "Lee County / ZIP 33974 sector", "Lee County / ZIP 33972 sector"]
-zillowHomeValueUsd: 242991
 ---
 
 **Engineering Notice for Lehigh Acres:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lee County.

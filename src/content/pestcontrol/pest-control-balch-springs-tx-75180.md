@@ -11,7 +11,6 @@ lng: -96.6200
 zipSample: ["75180", "75181"]
 zipCodes: ["75180", "75181"]
 localPaths: ["Dallas County / elevation 495 ft band", "Dallas County / coords 32.7200, -96.6200", "Dallas County / primary ZIP 75180", "Dallas County / ZIP 75181 sector", "Dallas County / ZIP 75180 sector"]
-zillowHomeValueUsd: 220727
 ---
 
 **Engineering Notice for Balch Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.

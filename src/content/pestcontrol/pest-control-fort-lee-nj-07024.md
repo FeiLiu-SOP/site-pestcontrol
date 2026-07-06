@@ -11,7 +11,6 @@ lng: -73.9700
 zipSample: ["07024"]
 zipCodes: ["07024"]
 localPaths: ["Bergen County / elevation 299 ft band", "Bergen County / primary ZIP 07024", "Bergen County / ZIP 07024 sector", "Bergen County / coords 40.8500, -73.9700"]
-zillowHomeValueUsd: 587694
 ---
 
 **Engineering Notice for Fort Lee:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bergen County.

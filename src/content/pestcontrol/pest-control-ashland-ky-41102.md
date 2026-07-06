@@ -11,7 +11,6 @@ lng: -82.6400
 zipSample: ["41101", "41102", "41114"]
 zipCodes: ["41114", "41102", "41101"]
 localPaths: ["Boyd County / elevation 676 ft band", "Boyd County / ZIP 41114 sector", "Boyd County / coords 38.4600, -82.6400", "Boyd County / ZIP 41102 sector", "Boyd County / primary ZIP 41102"]
-zillowHomeValueUsd: 150171
 ---
 
 **Engineering Notice for Ashland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Boyd County.

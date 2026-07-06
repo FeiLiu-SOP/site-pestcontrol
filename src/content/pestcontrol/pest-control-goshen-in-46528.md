@@ -11,7 +11,6 @@ lng: -85.8300
 zipSample: ["46526", "46528", "46527"]
 zipCodes: ["46526", "46527", "46528"]
 localPaths: ["Elkhart County / elevation 804 ft band", "Elkhart County / ZIP 46527 sector", "Elkhart County / ZIP 46526 sector", "Elkhart County / primary ZIP 46528", "Elkhart County / ZIP 46528 sector"]
-zillowHomeValueUsd: 303718
 ---
 
 **Engineering Notice for Goshen:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Elkhart County.

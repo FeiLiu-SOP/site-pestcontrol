@@ -11,7 +11,6 @@ lng: -121.7200
 zipSample: ["94513"]
 zipCodes: ["94513"]
 localPaths: ["Contra Costa County / coords 37.9400, -121.7200", "Contra Costa County / elevation 85 ft band", "Contra Costa County / primary ZIP 94513", "Contra Costa County / ZIP 94513 sector"]
-zillowHomeValueUsd: 805377
 ---
 
 **Engineering Notice for Brentwood:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.

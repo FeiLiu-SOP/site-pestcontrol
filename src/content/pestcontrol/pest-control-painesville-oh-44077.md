@@ -11,7 +11,6 @@ lng: -81.2500
 zipSample: ["44077"]
 zipCodes: ["44077"]
 localPaths: ["Lake County / coords 41.7200, -81.2500", "Lake County / primary ZIP 44077", "Lake County / elevation 650 ft band", "Lake County / ZIP 44077 sector"]
-zillowHomeValueUsd: 252695
 ---
 
 **Engineering Notice for Painesville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

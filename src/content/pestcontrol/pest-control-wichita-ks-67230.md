@@ -11,7 +11,6 @@ lng: -97.3400
 zipSample: ["67204", "67276", "67218", "67206", "67235"]
 zipCodes: ["67277", "67205", "67220", "67219", "67226", "67215", "67216", "67210", "67217", "67276", "67206", "67203"]
 localPaths: ["Sedgwick County / ZIP 67204 sector", "Sedgwick County / ZIP 67235 sector", "Sedgwick County / ZIP 67206 sector", "Sedgwick County / primary ZIP 67230", "Sedgwick County / coords 37.6900, -97.3400"]
-zillowHomeValueUsd: 436597
 ---
 
 **Engineering Notice for Wichita:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sedgwick County.

@@ -11,7 +11,6 @@ lng: -81.0900
 zipSample: ["29169", "29171", "29170"]
 zipCodes: ["29169", "29171", "29170"]
 localPaths: ["Lexington County / ZIP 29170 sector", "Lexington County / ZIP 29171 sector", "Lexington County / primary ZIP 29170", "Lexington County / elevation 276 ft band", "Lexington County / ZIP 29169 sector"]
-zillowHomeValueUsd: 245175
 ---
 
 **Engineering Notice for West Columbia:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lexington County.

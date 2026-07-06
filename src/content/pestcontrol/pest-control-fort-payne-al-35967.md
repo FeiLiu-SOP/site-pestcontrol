@@ -11,7 +11,6 @@ lng: -85.7000
 zipSample: ["35967", "35968"]
 zipCodes: ["35967", "35968"]
 localPaths: ["DeKalb County / ZIP 35968 sector", "DeKalb County / elevation 1122 ft band", "DeKalb County / ZIP 35967 sector", "DeKalb County / primary ZIP 35967", "DeKalb County / coords 34.4600, -85.7000"]
-zillowHomeValueUsd: 196189
 ---
 
 **Engineering Notice for Fort Payne:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: DeKalb County.

@@ -11,7 +11,6 @@ lng: -122.5400
 zipSample: ["98061", "98110"]
 zipCodes: ["98110", "98061"]
 localPaths: ["Kitsap County / coords 47.6400, -122.5400", "Kitsap County / ZIP 98061 sector", "Kitsap County / ZIP 98110 sector", "Kitsap County / elevation 220 ft band", "Kitsap County / primary ZIP 98110"]
-zillowHomeValueUsd: 1175761
 ---
 
 **Engineering Notice for Bainbridge Island:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kitsap County.

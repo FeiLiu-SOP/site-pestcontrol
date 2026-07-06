@@ -11,7 +11,6 @@ lng: -86.7600
 zipSample: ["35124"]
 zipCodes: ["35124"]
 localPaths: ["Shelby County / elevation 883 ft band", "Shelby County / primary ZIP 35124", "Shelby County / coords 33.3100, -86.7600", "Shelby County / ZIP 35124 sector"]
-zillowHomeValueUsd: 348409
 ---
 
 **Engineering Notice for Pelham:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Shelby County.

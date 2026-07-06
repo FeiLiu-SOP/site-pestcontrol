@@ -11,7 +11,6 @@ lng: -117.0200
 zipSample: ["92074", "92064"]
 zipCodes: ["92064", "92074"]
 localPaths: ["San Diego County / coords 32.9900, -117.0200", "San Diego County / elevation 705 ft band", "San Diego County / primary ZIP 92064", "San Diego County / ZIP 92064 sector", "San Diego County / ZIP 92074 sector"]
-zillowHomeValueUsd: 1234994
 ---
 
 **Engineering Notice for Poway:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.

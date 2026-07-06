@@ -11,7 +11,6 @@ lng: -81.7000
 zipSample: ["33883", "33884", "33888", "33880", "33885"]
 zipCodes: ["33883", "33884", "33888", "33885", "33881", "33880"]
 localPaths: ["Polk County / ZIP 33888 sector", "Polk County / ZIP 33884 sector", "Polk County / ZIP 33885 sector", "Polk County / ZIP 33883 sector", "Polk County / elevation 157 ft band"]
-zillowHomeValueUsd: 264738
 ---
 
 **Engineering Notice for Winter Haven:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Polk County.

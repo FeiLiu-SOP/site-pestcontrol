@@ -11,7 +11,6 @@ lng: -105.1000
 zipSample: ["80026"]
 zipCodes: ["80026"]
 localPaths: ["Boulder County / ZIP 80026 sector", "Boulder County / primary ZIP 80026", "Boulder County / coords 39.9900, -105.1000", "Boulder County / elevation 5276 ft band"]
-zillowHomeValueUsd: 674677
 ---
 
 **Engineering Notice for Lafayette:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Boulder County.

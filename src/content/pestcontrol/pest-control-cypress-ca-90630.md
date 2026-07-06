@@ -11,7 +11,6 @@ lng: -118.0400
 zipSample: ["90630"]
 zipCodes: ["90630"]
 localPaths: ["Orange County / ZIP 90630 sector", "Orange County / primary ZIP 90630", "Orange County / coords 33.8200, -118.0400", "Orange County / elevation 52 ft band"]
-zillowHomeValueUsd: 1086086
 ---
 
 **Engineering Notice for Cypress:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Orange County.

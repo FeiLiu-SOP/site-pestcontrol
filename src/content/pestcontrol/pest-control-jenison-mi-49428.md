@@ -7,11 +7,10 @@ zipCode: "49428"
 county: "Ottawa County"
 elevationFt: 659
 lat: 42.9100
-lng: -85.8300
+lng: -85.8000
 zipSample: ["49429", "49428"]
 zipCodes: ["49428", "49429"]
-localPaths: ["Ottawa County / ZIP 49428 sector", "Ottawa County / ZIP 49429 sector", "Ottawa County / primary ZIP 49428", "Ottawa County / coords 42.9100, -85.8300", "Ottawa County / elevation 659 ft band"]
-zillowHomeValueUsd: 360137
+localPaths: ["Ottawa County / ZIP 49428 sector", "Ottawa County / ZIP 49429 sector", "Ottawa County / primary ZIP 49428", "Ottawa County / coords 42.9100, -85.8000", "Ottawa County / elevation 659 ft band"]
 ---
 
 **Engineering Notice for Jenison:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ottawa County.
@@ -45,7 +44,7 @@ Carpenter ant frass in Jenison, MI window sills may indicate moisture-softened f
 
 Intercept log 566866: bed bug intercept count staged before Jenison, MI interior gel zones.
 
-Exclusion audit 566866: exclusion mesh gauge and rodent runway grease mark reviewed for Jenison, MI at 42.9100/-85.8300.
+Exclusion audit 566866: exclusion mesh gauge and rodent runway grease mark reviewed for Jenison, MI at 42.9100/-85.8000.
 
 ZIP-corridor snapshot for Jenison, MI: sampled sectors include 49428, 49429; county routing grid remains Ottawa County.
 

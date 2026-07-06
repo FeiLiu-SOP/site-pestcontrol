@@ -11,7 +11,6 @@ lng: -88.1200
 zipSample: ["53051", "53052"]
 zipCodes: ["53051", "53052"]
 localPaths: ["Waukesha County / ZIP 53051 sector", "Waukesha County / primary ZIP 53051", "Waukesha County / coords 43.1500, -88.1200", "Waukesha County / elevation 860 ft band", "Waukesha County / ZIP 53052 sector"]
-zillowHomeValueUsd: 431066
 ---
 
 **Engineering Notice for Menomonee Falls:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Waukesha County.

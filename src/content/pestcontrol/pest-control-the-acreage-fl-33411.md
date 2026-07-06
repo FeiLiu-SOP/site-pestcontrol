@@ -11,7 +11,7 @@ lng: -80.2800
 zipSample: ["33470", "33412", "33411"]
 zipCodes: ["33470", "33411", "33412"]
 localPaths: ["Palm Beach County / elevation 43 ft band", "Palm Beach County / ZIP 33470 sector", "Palm Beach County / primary ZIP 33411", "Palm Beach County / coords 26.7700, -80.2800", "Palm Beach County / ZIP 33411 sector"]
-zillowHomeValueUsd: 465681
+zillowHomeValueUsd: 465672
 ---
 
 **Engineering Notice for The Acreage:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Palm Beach County.

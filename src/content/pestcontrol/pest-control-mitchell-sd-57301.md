@@ -11,7 +11,6 @@ lng: -98.0300
 zipSample: ["57301"]
 zipCodes: ["57301"]
 localPaths: ["Davison County / ZIP 57301 sector", "Davison County / coords 43.7300, -98.0300", "Davison County / elevation 1289 ft band", "Davison County / primary ZIP 57301"]
-zillowHomeValueUsd: 247421
 ---
 
 **Engineering Notice for Mitchell:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Davison County.

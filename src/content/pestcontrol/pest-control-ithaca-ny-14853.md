@@ -11,7 +11,6 @@ lng: -76.5000
 zipSample: ["14851", "14853", "14850"]
 zipCodes: ["14850", "14853", "14851"]
 localPaths: ["Tompkins County / primary ZIP 14853", "Tompkins County / ZIP 14850 sector", "Tompkins County / ZIP 14851 sector", "Tompkins County / ZIP 14853 sector", "Tompkins County / elevation 404 ft band"]
-zillowHomeValueUsd: 404544
 ---
 
 **Engineering Notice for Ithaca:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tompkins County.

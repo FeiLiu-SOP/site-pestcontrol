@@ -11,7 +11,6 @@ lng: -95.2700
 zipSample: ["77347", "77338", "77396"]
 zipCodes: ["77347", "77396", "77338"]
 localPaths: ["Harris County / coords 29.9900, -95.2700", "Harris County / ZIP 77347 sector", "Harris County / elevation 112 ft band", "Harris County / ZIP 77338 sector", "Harris County / ZIP 77396 sector"]
-zillowHomeValueUsd: 230797
 ---
 
 **Engineering Notice for Humble:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harris County.

@@ -11,7 +11,6 @@ lng: -111.9600
 zipSample: ["84405", "84403"]
 zipCodes: ["84405", "84403"]
 localPaths: ["Weber County / elevation 4688 ft band", "Weber County / coords 41.1700, -111.9600", "Weber County / primary ZIP 84405", "Weber County / ZIP 84403 sector", "Weber County / ZIP 84405 sector"]
-zillowHomeValueUsd: 460481
 ---
 
 **Engineering Notice for South Ogden:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Weber County.

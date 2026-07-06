@@ -11,7 +11,6 @@ lng: -83.1900
 zipSample: ["48072"]
 zipCodes: ["48072"]
 localPaths: ["Oakland County / primary ZIP 48072", "Oakland County / coords 42.5000, -83.1900", "Oakland County / ZIP 48072 sector", "Oakland County / elevation 696 ft band"]
-zillowHomeValueUsd: 314758
 ---
 
 **Engineering Notice for Berkley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oakland County.

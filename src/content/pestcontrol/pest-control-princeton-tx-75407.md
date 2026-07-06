@@ -11,7 +11,6 @@ lng: -96.5000
 zipSample: ["75407"]
 zipCodes: ["75407"]
 localPaths: ["Collin County / elevation 558 ft band", "Collin County / coords 33.1800, -96.5000", "Collin County / primary ZIP 75407", "Collin County / ZIP 75407 sector"]
-zillowHomeValueUsd: 293536
 ---
 
 **Engineering Notice for Princeton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Collin County.

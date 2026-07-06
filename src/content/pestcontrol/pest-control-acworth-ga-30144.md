@@ -11,7 +11,6 @@ lng: -84.6700
 zipSample: ["30101", "30144"]
 zipCodes: ["30101", "30144"]
 localPaths: ["Cobb County / coords 34.0600, -84.6700", "Cobb County / ZIP 30144 sector", "Cobb County / primary ZIP 30144", "Cobb County / elevation 866 ft band", "Cobb County / ZIP 30101 sector"]
-zillowHomeValueUsd: 382600
 ---
 
 **Engineering Notice for Acworth:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cobb County.

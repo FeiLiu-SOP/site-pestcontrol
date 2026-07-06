@@ -11,7 +11,6 @@ lng: -117.5500
 zipSample: ["92860"]
 zipCodes: ["92860"]
 localPaths: ["Riverside County / elevation 643 ft band", "Riverside County / primary ZIP 92860", "Riverside County / ZIP 92860 sector", "Riverside County / coords 33.9300, -117.5500"]
-zillowHomeValueUsd: 917448
 ---
 
 **Engineering Notice for Norco:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Riverside County.

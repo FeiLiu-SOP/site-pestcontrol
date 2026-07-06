@@ -11,7 +11,6 @@ lng: -93.2800
 zipSample: ["55021"]
 zipCodes: ["55021"]
 localPaths: ["Rice County / ZIP 55021 sector", "Rice County / elevation 981 ft band", "Rice County / primary ZIP 55021", "Rice County / coords 44.3000, -93.2800"]
-zillowHomeValueUsd: 296082
 ---
 
 **Engineering Notice for Faribault:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rice County.

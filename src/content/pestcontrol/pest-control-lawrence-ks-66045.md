@@ -11,7 +11,6 @@ lng: -95.2600
 zipSample: ["66049", "66047", "66044", "66045", "66046"]
 zipCodes: ["66047", "66044", "66046", "66049", "66045"]
 localPaths: ["Douglas County / ZIP 66047 sector", "Douglas County / ZIP 66045 sector", "Douglas County / ZIP 66044 sector", "Douglas County / primary ZIP 66045", "Douglas County / ZIP 66046 sector"]
-zillowHomeValueUsd: 391698
 ---
 
 **Engineering Notice for Lawrence:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Douglas County.

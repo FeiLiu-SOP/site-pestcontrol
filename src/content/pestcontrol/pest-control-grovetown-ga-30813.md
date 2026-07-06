@@ -11,7 +11,6 @@ lng: -82.2100
 zipSample: ["30813"]
 zipCodes: ["30813"]
 localPaths: ["Columbia County / elevation 499 ft band", "Columbia County / ZIP 30813 sector", "Columbia County / coords 33.4500, -82.2100", "Columbia County / primary ZIP 30813"]
-zillowHomeValueUsd: 305935
 ---
 
 **Engineering Notice for Grovetown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Columbia County.

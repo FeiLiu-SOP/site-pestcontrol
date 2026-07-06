@@ -11,7 +11,6 @@ lng: -77.0400
 zipSample: ["17705", "17701", "17703"]
 zipCodes: ["17701", "17705", "17703"]
 localPaths: ["Lycoming County / ZIP 17705 sector", "Lycoming County / primary ZIP 17701", "Lycoming County / coords 41.2400, -77.0400", "Lycoming County / elevation 541 ft band", "Lycoming County / ZIP 17701 sector"]
-zillowHomeValueUsd: 194598
 ---
 
 **Engineering Notice for Williamsport:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lycoming County.

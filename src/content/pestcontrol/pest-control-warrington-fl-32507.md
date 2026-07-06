@@ -11,7 +11,6 @@ lng: -87.2900
 zipSample: ["32521", "32507"]
 zipCodes: ["32521", "32507"]
 localPaths: ["Escambia County / ZIP 32507 sector", "Escambia County / primary ZIP 32507", "Escambia County / ZIP 32521 sector", "Escambia County / elevation 39 ft band", "Escambia County / coords 30.3800, -87.2900"]
-zillowHomeValueUsd: 363116
 ---
 
 **Engineering Notice for Warrington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Escambia County.

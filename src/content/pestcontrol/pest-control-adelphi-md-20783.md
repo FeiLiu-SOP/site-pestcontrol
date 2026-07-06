@@ -11,7 +11,6 @@ lng: -76.9600
 zipSample: ["20783", "20787"]
 zipCodes: ["20787", "20783"]
 localPaths: ["Prince George's County / coords 39.0000, -76.9600", "Prince George's County / elevation 203 ft band", "Prince George's County / primary ZIP 20783", "Prince George's County / ZIP 20783 sector", "Prince George's County / ZIP 20787 sector"]
-zillowHomeValueUsd: 405936
 ---
 
 **Engineering Notice for Adelphi:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince George's County.

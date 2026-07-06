@@ -11,7 +11,6 @@ lng: -87.7600
 zipSample: ["60804"]
 zipCodes: ["60804"]
 localPaths: ["Cook County / elevation 614 ft band", "Cook County / coords 41.8400, -87.7600", "Cook County / ZIP 60804 sector", "Cook County / primary ZIP 60804"]
-zillowHomeValueUsd: 264522
 ---
 
 **Engineering Notice for Cicero:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

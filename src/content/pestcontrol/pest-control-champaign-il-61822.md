@@ -11,7 +11,6 @@ lng: -88.2700
 zipSample: ["61824", "61822", "61825", "61820", "61826"]
 zipCodes: ["61826", "61822", "61824", "61825", "61820", "61821"]
 localPaths: ["Champaign County / coords 40.1100, -88.2700", "Champaign County / primary ZIP 61822", "Champaign County / ZIP 61820 sector", "Champaign County / ZIP 61825 sector", "Champaign County / ZIP 61826 sector"]
-zillowHomeValueUsd: 324852
 ---
 
 **Engineering Notice for Champaign:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Champaign County.

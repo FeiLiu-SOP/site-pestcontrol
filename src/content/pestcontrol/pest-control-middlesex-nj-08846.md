@@ -11,7 +11,6 @@ lng: -74.5000
 zipSample: ["08846"]
 zipCodes: ["08846"]
 localPaths: ["Middlesex County / ZIP 08846 sector", "Middlesex County / primary ZIP 08846", "Middlesex County / elevation 52 ft band", "Middlesex County / coords 40.5700, -74.5000"]
-zillowHomeValueUsd: 537803
 ---
 
 **Engineering Notice for Middlesex:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.

@@ -11,7 +11,6 @@ lng: -82.3200
 zipSample: ["44805"]
 zipCodes: ["44805"]
 localPaths: ["Ashland County / ZIP 44805 sector", "Ashland County / primary ZIP 44805", "Ashland County / elevation 1073 ft band", "Ashland County / coords 40.8700, -82.3200"]
-zillowHomeValueUsd: 226901
 ---
 
 **Engineering Notice for Ashland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ashland County.

@@ -11,7 +11,7 @@ lng: -80.1128
 zipSample: ["33468", "33458", "33477"]
 zipCodes: ["33468", "33458", "33477"]
 localPaths: ["Palm Beach County / elevation 345 ft band", "Palm Beach County / primary ZIP 33477", "Palm Beach County / ZIP 33468 sector", "Palm Beach County / coords 26.9200, -80.1128", "Palm Beach County / ZIP 33458 sector"]
-zillowHomeValueUsd: 676963
+zillowHomeValueUsd: 676954
 ---
 
 **Engineering Notice for Jupiter:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Palm Beach County.

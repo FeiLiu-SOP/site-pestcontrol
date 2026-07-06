@@ -11,7 +11,6 @@ lng: -96.6700
 zipSample: ["74821", "74820"]
 zipCodes: ["74820", "74821"]
 localPaths: ["Pontotoc County / elevation 1010 ft band", "Pontotoc County / coords 34.7700, -96.6700", "Pontotoc County / ZIP 74821 sector", "Pontotoc County / ZIP 74820 sector", "Pontotoc County / primary ZIP 74820"]
-zillowHomeValueUsd: 184075
 ---
 
 **Engineering Notice for Ada:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pontotoc County.

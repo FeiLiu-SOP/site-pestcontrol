@@ -7,11 +7,10 @@ zipCode: "60035"
 county: "Lake County"
 elevationFt: 659
 lat: 42.1800
-lng: -87.8100
+lng: -87.8400
 zipSample: ["60035", "60037"]
 zipCodes: ["60035", "60037"]
-localPaths: ["Lake County / coords 42.1800, -87.8100", "Lake County / ZIP 60035 sector", "Lake County / elevation 659 ft band", "Lake County / ZIP 60037 sector", "Lake County / primary ZIP 60035"]
-zillowHomeValueUsd: 751142
+localPaths: ["Lake County / coords 42.1800, -87.8400", "Lake County / ZIP 60035 sector", "Lake County / elevation 659 ft band", "Lake County / ZIP 60037 sector", "Lake County / primary ZIP 60035"]
 ---
 
 **Engineering Notice for Highland Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.
@@ -45,7 +44,7 @@ Mud dauber nests in Highland Park, IL porch ceilings are benign but signal prey 
 
 Drain fly biofilm in Highland Park, IL floor drains signals grease traps need service before gel baits.
 
-Exclusion audit 831789: exclusion mesh gauge and rodent runway grease mark reviewed for Highland Park, IL at 42.1800/-87.8100.
+Exclusion audit 831789: exclusion mesh gauge and rodent runway grease mark reviewed for Highland Park, IL at 42.1800/-87.8400.
 
 Primary postal anchor 60035 with multi-ZIP overlap in Highland Park; field packets tag Lake County for county-grid reconciliation.
 

@@ -11,7 +11,6 @@ lng: -82.1500
 zipSample: ["34483", "34474", "34478", "34477", "34471"]
 zipCodes: ["34478", "34483", "34474", "34471", "34470", "34477", "34475"]
 localPaths: ["Marion County / ZIP 34483 sector", "Marion County / elevation 85 ft band", "Marion County / ZIP 34477 sector", "Marion County / ZIP 34478 sector", "Marion County / coords 29.1800, -82.1500"]
-zillowHomeValueUsd: 209950
 ---
 
 **Engineering Notice for Ocala:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Marion County.

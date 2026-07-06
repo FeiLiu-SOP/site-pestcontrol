@@ -11,7 +11,6 @@ lng: -97.9700
 zipSample: ["73014", "73022", "73036"]
 zipCodes: ["73022", "73014", "73036"]
 localPaths: ["Canadian County / elevation 1342 ft band", "Canadian County / primary ZIP 73014", "Canadian County / ZIP 73014 sector", "Canadian County / coords 35.5400, -97.9700", "Canadian County / ZIP 73022 sector"]
-zillowHomeValueUsd: 267703
 ---
 
 **Engineering Notice for El Reno:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Canadian County.

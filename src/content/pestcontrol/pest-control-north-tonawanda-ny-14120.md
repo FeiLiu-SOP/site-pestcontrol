@@ -11,7 +11,6 @@ lng: -78.8700
 zipSample: ["14120"]
 zipCodes: ["14120"]
 localPaths: ["Niagara County / ZIP 14120 sector", "Niagara County / elevation 581 ft band", "Niagara County / primary ZIP 14120", "Niagara County / coords 43.0500, -78.8700"]
-zillowHomeValueUsd: 273930
 ---
 
 **Engineering Notice for North Tonawanda:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Niagara County.

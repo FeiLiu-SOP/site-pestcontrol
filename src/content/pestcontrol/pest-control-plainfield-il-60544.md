@@ -11,7 +11,6 @@ lng: -88.2300
 zipSample: ["60586", "60585", "60544"]
 zipCodes: ["60586", "60544", "60585"]
 localPaths: ["Will County / ZIP 60585 sector", "Will County / ZIP 60544 sector", "Will County / elevation 627 ft band", "Will County / ZIP 60586 sector", "Will County / coords 41.6200, -88.2300"]
-zillowHomeValueUsd: 383362
 ---
 
 **Engineering Notice for Plainfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Will County.

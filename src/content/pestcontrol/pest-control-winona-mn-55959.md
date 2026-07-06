@@ -11,7 +11,6 @@ lng: -91.6700
 zipSample: ["55987", "55959"]
 zipCodes: ["55959", "55987"]
 localPaths: ["Winona County / elevation 666 ft band", "Winona County / ZIP 55987 sector", "Winona County / ZIP 55959 sector", "Winona County / primary ZIP 55959", "Winona County / coords 44.0500, -91.6700"]
-zillowHomeValueUsd: 300716
 ---
 
 **Engineering Notice for Winona:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Winona County.

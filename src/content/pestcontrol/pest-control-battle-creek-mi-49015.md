@@ -7,11 +7,10 @@ zipCode: "49015"
 county: "Calhoun County"
 elevationFt: 935
 lat: 42.3000
-lng: -85.2300
+lng: -85.2000
 zipSample: ["49015", "49037", "49016"]
 zipCodes: ["49016", "49037", "49015"]
-localPaths: ["Calhoun County / ZIP 49015 sector", "Calhoun County / coords 42.3000, -85.2300", "Calhoun County / ZIP 49016 sector", "Calhoun County / ZIP 49037 sector", "Calhoun County / primary ZIP 49015"]
-zillowHomeValueUsd: 206306
+localPaths: ["Calhoun County / ZIP 49015 sector", "Calhoun County / coords 42.3000, -85.2000", "Calhoun County / ZIP 49016 sector", "Calhoun County / ZIP 49037 sector", "Calhoun County / primary ZIP 49015"]
 ---
 
 **Engineering Notice for Battle Creek:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Calhoun County.
@@ -41,9 +40,9 @@ Fire ant mounds in Battle Creek, MI drive seams need granule rotation after irri
 
 Tip: Log pet access routes when bait stations are placed.
 
-Exclusion audit 797180: exclusion mesh gauge and rodent runway grease mark reviewed for Battle Creek, MI at 42.3000/-85.2300.
+Exclusion audit 797180: exclusion mesh gauge and rodent runway grease mark reviewed for Battle Creek, MI at 42.3000/-85.2000.
 
-Harbor ledger 797180: frass lane, mud-tube scan, and garage jamb gap measure filed for Battle Creek, MI at 42.3000, -85.2300.
+Harbor ledger 797180: frass lane, mud-tube scan, and garage jamb gap measure filed for Battle Creek, MI at 42.3000, -85.2000.
 
 On-site sector marker: Calhoun County / ZIP 49037 sector — logged for map parity and ZIP-corridor verification.
 

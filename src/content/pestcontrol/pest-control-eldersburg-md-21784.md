@@ -11,7 +11,6 @@ lng: -76.9500
 zipSample: ["21784", "21104"]
 zipCodes: ["21104", "21784"]
 localPaths: ["Carroll County / primary ZIP 21784", "Carroll County / ZIP 21784 sector", "Carroll County / ZIP 21104 sector", "Carroll County / elevation 646 ft band", "Carroll County / coords 39.4000, -76.9500"]
-zillowHomeValueUsd: 559043
 ---
 
 **Engineering Notice for Eldersburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Carroll County.

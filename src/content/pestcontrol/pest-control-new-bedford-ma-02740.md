@@ -11,7 +11,6 @@ lng: -70.9400
 zipSample: ["02742", "02744", "02740", "02746", "02741"]
 zipCodes: ["02746", "02740", "02745", "02741", "02744", "02742"]
 localPaths: ["Bristol County / ZIP 02742 sector", "Bristol County / primary ZIP 02740", "Bristol County / elevation 85 ft band", "Bristol County / ZIP 02741 sector", "Bristol County / ZIP 02744 sector"]
-zillowHomeValueUsd: 419943
 ---
 
 **Engineering Notice for New Bedford:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bristol County.

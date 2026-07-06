@@ -11,7 +11,6 @@ lng: -81.7900
 zipSample: ["34105", "34102", "34101", "34106", "34104"]
 zipCodes: ["34105", "34104", "34106", "34103", "34101", "34102"]
 localPaths: ["Collier County / coords 26.1500, -81.7900", "Collier County / ZIP 34105 sector", "Collier County / ZIP 34104 sector", "Collier County / elevation 20 ft band", "Collier County / primary ZIP 34103"]
-zillowHomeValueUsd: 1108360
 ---
 
 **Engineering Notice for Naples:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Collier County.

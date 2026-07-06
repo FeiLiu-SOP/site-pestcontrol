@@ -11,7 +11,6 @@ lng: -122.3200
 zipSample: ["98114", "98195", "98174", "98122", "98103"]
 zipCodes: ["98111", "98165", "98178", "98119", "98122", "98170", "98185", "98103", "98112", "98177", "98118", "98127"]
 localPaths: ["King County / ZIP 98195 sector", "King County / coords 47.6200, -122.3200", "King County / elevation 305 ft band", "King County / ZIP 98103 sector", "King County / ZIP 98122 sector"]
-zillowHomeValueUsd: 758202
 ---
 
 **Engineering Notice for Seattle:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.

@@ -11,7 +11,6 @@ lng: -81.6000
 zipSample: ["44203"]
 zipCodes: ["44203"]
 localPaths: ["Summit County / ZIP 44203 sector", "Summit County / primary ZIP 44203", "Summit County / elevation 955 ft band", "Summit County / coords 41.0100, -81.6000"]
-zillowHomeValueUsd: 179040
 ---
 
 **Engineering Notice for Barberton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Summit County.

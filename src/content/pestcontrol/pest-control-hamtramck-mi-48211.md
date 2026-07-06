@@ -11,7 +11,6 @@ lng: -83.0600
 zipSample: ["48212", "48211"]
 zipCodes: ["48211", "48212"]
 localPaths: ["Wayne County / ZIP 48212 sector", "Wayne County / coords 42.4000, -83.0600", "Wayne County / ZIP 48211 sector", "Wayne County / elevation 636 ft band", "Wayne County / primary ZIP 48211"]
-zillowHomeValueUsd: 56321
 ---
 
 **Engineering Notice for Hamtramck:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wayne County.

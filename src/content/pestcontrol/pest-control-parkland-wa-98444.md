@@ -11,7 +11,6 @@ lng: -122.4400
 zipSample: ["98444", "98445", "98447"]
 zipCodes: ["98445", "98447", "98444"]
 localPaths: ["Pierce County / primary ZIP 98444", "Pierce County / ZIP 98447 sector", "Pierce County / elevation 292 ft band", "Pierce County / coords 47.1400, -122.4400", "Pierce County / ZIP 98445 sector"]
-zillowHomeValueUsd: 447006
 ---
 
 **Engineering Notice for Parkland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pierce County.

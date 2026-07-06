@@ -11,7 +11,6 @@ lng: -84.2300
 zipSample: ["45066"]
 zipCodes: ["45066"]
 localPaths: ["Warren County / coords 39.5600, -84.2300", "Warren County / elevation 804 ft band", "Warren County / primary ZIP 45066", "Warren County / ZIP 45066 sector"]
-zillowHomeValueUsd: 428382
 ---
 
 **Engineering Notice for Springboro:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Warren County.

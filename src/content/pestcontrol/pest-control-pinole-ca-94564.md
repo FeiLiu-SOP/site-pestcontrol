@@ -11,7 +11,6 @@ lng: -122.2800
 zipSample: ["94564"]
 zipCodes: ["94564"]
 localPaths: ["Contra Costa County / primary ZIP 94564", "Contra Costa County / coords 37.9900, -122.2800", "Contra Costa County / elevation 82 ft band", "Contra Costa County / ZIP 94564 sector"]
-zillowHomeValueUsd: 730713
 ---
 
 **Engineering Notice for Pinole:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Contra Costa County.

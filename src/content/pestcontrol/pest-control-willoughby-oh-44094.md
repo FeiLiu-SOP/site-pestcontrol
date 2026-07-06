@@ -11,7 +11,6 @@ lng: -81.4100
 zipSample: ["44096", "44094"]
 zipCodes: ["44096", "44094"]
 localPaths: ["Lake County / ZIP 44096 sector", "Lake County / coords 41.6500, -81.4100", "Lake County / elevation 640 ft band", "Lake County / primary ZIP 44094", "Lake County / ZIP 44094 sector"]
-zillowHomeValueUsd: 284651
 ---
 
 **Engineering Notice for Willoughby:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

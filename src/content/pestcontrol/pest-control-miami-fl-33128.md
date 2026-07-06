@@ -11,7 +11,6 @@ lng: -80.2100
 zipSample: ["33130", "33144", "33255", "33109", "33129"]
 zipCodes: ["33127", "33101", "33149", "33128", "33222", "33195", "33144", "33150", "33125", "33126", "33135", "33255"]
 localPaths: ["Miami-Dade County / ZIP 33130 sector", "Miami-Dade County / ZIP 33129 sector", "Miami-Dade County / elevation 36 ft band", "Miami-Dade County / ZIP 33144 sector", "Miami-Dade County / ZIP 33255 sector"]
-zillowHomeValueUsd: 430579
 ---
 
 **Engineering Notice for Miami:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

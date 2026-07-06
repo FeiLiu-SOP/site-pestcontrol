@@ -11,7 +11,6 @@ lng: -76.5500
 zipSample: ["21234"]
 zipCodes: ["21234"]
 localPaths: ["Baltimore County / coords 39.3800, -76.5500", "Baltimore County / primary ZIP 21234", "Baltimore County / elevation 351 ft band", "Baltimore County / ZIP 21234 sector"]
-zillowHomeValueUsd: 301676
 ---
 
 **Engineering Notice for Parkville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baltimore County.

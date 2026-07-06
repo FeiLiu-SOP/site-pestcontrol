@@ -11,7 +11,6 @@ lng: -78.7000
 zipSample: ["14043"]
 zipCodes: ["14043"]
 localPaths: ["Erie County / elevation 679 ft band", "Erie County / coords 42.9100, -78.7000", "Erie County / primary ZIP 14043", "Erie County / ZIP 14043 sector"]
-zillowHomeValueUsd: 260976
 ---
 
 **Engineering Notice for Depew:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Erie County.

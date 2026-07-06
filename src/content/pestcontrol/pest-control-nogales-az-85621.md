@@ -11,7 +11,6 @@ lng: -110.9300
 zipSample: ["85621"]
 zipCodes: ["85621"]
 localPaths: ["Santa Cruz County / elevation 3770 ft band", "Santa Cruz County / ZIP 85621 sector", "Santa Cruz County / primary ZIP 85621", "Santa Cruz County / coords 31.3600, -110.9300"]
-zillowHomeValueUsd: 220972
 ---
 
 **Engineering Notice for Nogales:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Cruz County.

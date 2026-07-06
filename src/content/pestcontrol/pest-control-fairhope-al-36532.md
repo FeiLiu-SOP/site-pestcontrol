@@ -11,7 +11,6 @@ lng: -87.8800
 zipSample: ["36532", "36559"]
 zipCodes: ["36559", "36532"]
 localPaths: ["Baldwin County / ZIP 36532 sector", "Baldwin County / elevation 128 ft band", "Baldwin County / primary ZIP 36532", "Baldwin County / coords 30.5200, -87.8800", "Baldwin County / ZIP 36559 sector"]
-zillowHomeValueUsd: 459823
 ---
 
 **Engineering Notice for Fairhope:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Baldwin County.

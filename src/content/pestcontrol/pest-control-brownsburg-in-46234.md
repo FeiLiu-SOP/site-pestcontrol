@@ -11,7 +11,6 @@ lng: -86.3800
 zipSample: ["46112", "46234"]
 zipCodes: ["46112", "46234"]
 localPaths: ["Hendricks County / elevation 883 ft band", "Hendricks County / coords 39.8300, -86.3800", "Hendricks County / ZIP 46112 sector", "Hendricks County / primary ZIP 46234", "Hendricks County / ZIP 46234 sector"]
-zillowHomeValueUsd: 279507
 ---
 
 **Engineering Notice for Brownsburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hendricks County.

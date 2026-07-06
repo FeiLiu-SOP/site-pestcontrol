@@ -11,7 +11,6 @@ lng: -99.4900
 zipSample: ["78040", "78042", "78043", "78046", "78045"]
 zipCodes: ["78040", "78046", "78042", "78041", "78043", "78045"]
 localPaths: ["Webb County / ZIP 78040 sector", "Webb County / ZIP 78042 sector", "Webb County / ZIP 78045 sector", "Webb County / ZIP 78043 sector", "Webb County / elevation 512 ft band"]
-zillowHomeValueUsd: 192578
 ---
 
 **Engineering Notice for Laredo:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Webb County.

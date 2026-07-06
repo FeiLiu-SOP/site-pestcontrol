@@ -11,7 +11,6 @@ lng: -74.1600
 zipSample: ["07506"]
 zipCodes: ["07506"]
 localPaths: ["Passaic County / ZIP 07506 sector", "Passaic County / elevation 89 ft band", "Passaic County / primary ZIP 07506", "Passaic County / coords 40.9600, -74.1600"]
-zillowHomeValueUsd: 628598
 ---
 
 **Engineering Notice for Hawthorne:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Passaic County.

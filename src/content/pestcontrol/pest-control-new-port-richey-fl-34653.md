@@ -11,7 +11,6 @@ lng: -82.7200
 zipSample: ["34652", "34653", "34656"]
 zipCodes: ["34653", "34652", "34656"]
 localPaths: ["Pasco County / ZIP 34653 sector", "Pasco County / coords 28.2500, -82.7200", "Pasco County / primary ZIP 34653", "Pasco County / ZIP 34652 sector", "Pasco County / ZIP 34656 sector"]
-zillowHomeValueUsd: 249430
 ---
 
 **Engineering Notice for New Port Richey:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pasco County.

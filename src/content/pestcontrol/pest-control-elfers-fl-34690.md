@@ -11,7 +11,6 @@ lng: -82.7200
 zipSample: ["34653", "34680", "34690", "34652"]
 zipCodes: ["34680", "34690", "34653", "34652"]
 localPaths: ["Pasco County / primary ZIP 34690", "Pasco County / elevation 39 ft band", "Pasco County / ZIP 34680 sector", "Pasco County / ZIP 34652 sector", "Pasco County / coords 28.2100, -82.7200"]
-zillowHomeValueUsd: 219530
 ---
 
 **Engineering Notice for Elfers:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pasco County.

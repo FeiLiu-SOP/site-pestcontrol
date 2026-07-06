@@ -11,7 +11,6 @@ lng: -90.4800
 zipSample: ["52722"]
 zipCodes: ["52722"]
 localPaths: ["Scott County / elevation 673 ft band", "Scott County / ZIP 52722 sector", "Scott County / primary ZIP 52722", "Scott County / coords 41.5700, -90.4800"]
-zillowHomeValueUsd: 328971
 ---
 
 **Engineering Notice for Bettendorf:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Scott County.

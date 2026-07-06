@@ -11,7 +11,6 @@ lng: -81.3500
 zipSample: ["44241"]
 zipCodes: ["44241"]
 localPaths: ["Portage County / coords 41.2400, -81.3500", "Portage County / ZIP 44241 sector", "Portage County / primary ZIP 44241", "Portage County / elevation 1129 ft band"]
-zillowHomeValueUsd: 279247
 ---
 
 **Engineering Notice for Streetsboro:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Portage County.

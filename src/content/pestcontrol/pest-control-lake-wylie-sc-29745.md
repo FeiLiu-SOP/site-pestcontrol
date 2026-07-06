@@ -11,7 +11,6 @@ lng: -81.0700
 zipSample: ["29710", "29745"]
 zipCodes: ["29710", "29745"]
 localPaths: ["York County / ZIP 29710 sector", "York County / ZIP 29745 sector", "York County / coords 35.1000, -81.0700", "York County / elevation 594 ft band", "York County / primary ZIP 29745"]
-zillowHomeValueUsd: 353972
 ---
 
 **Engineering Notice for Lake Wylie:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: York County.

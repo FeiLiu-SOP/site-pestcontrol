@@ -11,7 +11,6 @@ lng: -83.3800
 zipSample: ["48161", "48162"]
 zipCodes: ["48162", "48161"]
 localPaths: ["Monroe County / ZIP 48162 sector", "Monroe County / elevation 581 ft band", "Monroe County / ZIP 48161 sector", "Monroe County / coords 41.9200, -83.3800", "Monroe County / primary ZIP 48162"]
-zillowHomeValueUsd: 231450
 ---
 
 **Engineering Notice for Monroe:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Monroe County.

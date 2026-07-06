@@ -11,7 +11,6 @@ lng: -71.5000
 zipSample: ["02895"]
 zipCodes: ["02895"]
 localPaths: ["Providence County / coords 42.0000, -71.5000", "Providence County / primary ZIP 02895", "Providence County / ZIP 02895 sector", "Providence County / elevation 144 ft band"]
-zillowHomeValueUsd: 381055
 ---
 
 **Engineering Notice for Woonsocket:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Providence County.

@@ -11,7 +11,6 @@ lng: -87.0500
 zipSample: ["46383", "46384", "46385"]
 zipCodes: ["46384", "46385", "46383"]
 localPaths: ["Porter County / primary ZIP 46385", "Porter County / coords 41.4800, -87.0500", "Porter County / ZIP 46383 sector", "Porter County / ZIP 46384 sector", "Porter County / ZIP 46385 sector"]
-zillowHomeValueUsd: 368877
 ---
 
 **Engineering Notice for Valparaiso:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Porter County.

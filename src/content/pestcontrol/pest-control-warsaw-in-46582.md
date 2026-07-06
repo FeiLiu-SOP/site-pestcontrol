@@ -11,7 +11,6 @@ lng: -85.8500
 zipSample: ["46582", "46580", "46581"]
 zipCodes: ["46581", "46580", "46582"]
 localPaths: ["Kosciusko County / ZIP 46582 sector", "Kosciusko County / ZIP 46581 sector", "Kosciusko County / elevation 817 ft band", "Kosciusko County / primary ZIP 46582", "Kosciusko County / ZIP 46580 sector"]
-zillowHomeValueUsd: 304459
 ---
 
 **Engineering Notice for Warsaw:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Kosciusko County.

@@ -11,7 +11,6 @@ lng: -84.3700
 zipSample: ["43512"]
 zipCodes: ["43512"]
 localPaths: ["Defiance County / elevation 705 ft band", "Defiance County / ZIP 43512 sector", "Defiance County / coords 41.2800, -84.3700", "Defiance County / primary ZIP 43512"]
-zillowHomeValueUsd: 180987
 ---
 
 **Engineering Notice for Defiance:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Defiance County.

@@ -11,7 +11,6 @@ lng: -80.7500
 zipSample: ["44446"]
 zipCodes: ["44446"]
 localPaths: ["Trumbull County / coords 41.1900, -80.7500", "Trumbull County / primary ZIP 44446", "Trumbull County / elevation 902 ft band", "Trumbull County / ZIP 44446 sector"]
-zillowHomeValueUsd: 130858
 ---
 
 **Engineering Notice for Niles:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Trumbull County.

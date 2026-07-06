@@ -11,7 +11,6 @@ lng: -79.7900
 zipSample: ["29506", "29503", "29505", "29501", "29504"]
 zipCodes: ["29501", "29505", "29502", "29506", "29504", "29503"]
 localPaths: ["Florence County / primary ZIP 29505", "Florence County / ZIP 29504 sector", "Florence County / elevation 125 ft band", "Florence County / ZIP 29501 sector", "Florence County / ZIP 29506 sector"]
-zillowHomeValueUsd: 230679
 ---
 
 **Engineering Notice for Florence:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Florence County.

@@ -11,7 +11,6 @@ lng: -98.3100
 zipSample: ["78109"]
 zipCodes: ["78109"]
 localPaths: ["Bexar County / primary ZIP 78109", "Bexar County / coords 29.5100, -98.3100", "Bexar County / elevation 686 ft band", "Bexar County / ZIP 78109 sector"]
-zillowHomeValueUsd: 246228
 ---
 
 **Engineering Notice for Converse:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bexar County.

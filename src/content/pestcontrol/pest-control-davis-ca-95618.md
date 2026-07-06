@@ -11,7 +11,6 @@ lng: -121.7400
 zipSample: ["95616", "95618", "95617"]
 zipCodes: ["95616", "95618", "95617"]
 localPaths: ["Yolo County / ZIP 95618 sector", "Yolo County / coords 38.5600, -121.7400", "Yolo County / ZIP 95617 sector", "Yolo County / elevation 43 ft band", "Yolo County / primary ZIP 95618"]
-zillowHomeValueUsd: 846414
 ---
 
 **Engineering Notice for Davis:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Yolo County.

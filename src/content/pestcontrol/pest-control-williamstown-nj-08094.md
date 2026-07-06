@@ -11,7 +11,6 @@ lng: -74.9800
 zipSample: ["08094"]
 zipCodes: ["08094"]
 localPaths: ["Gloucester County / ZIP 08094 sector", "Gloucester County / primary ZIP 08094", "Gloucester County / elevation 164 ft band", "Gloucester County / coords 39.6900, -74.9800"]
-zillowHomeValueUsd: 365703
 ---
 
 **Engineering Notice for Williamstown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Gloucester County.

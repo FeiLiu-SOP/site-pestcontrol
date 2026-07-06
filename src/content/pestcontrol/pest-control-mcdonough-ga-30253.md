@@ -11,7 +11,6 @@ lng: -84.1500
 zipSample: ["30253", "30252"]
 zipCodes: ["30252", "30253"]
 localPaths: ["Henry County / ZIP 30252 sector", "Henry County / primary ZIP 30253", "Henry County / elevation 889 ft band", "Henry County / ZIP 30253 sector", "Henry County / coords 33.4400, -84.1500"]
-zillowHomeValueUsd: 311532
 ---
 
 **Engineering Notice for McDonough:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Henry County.

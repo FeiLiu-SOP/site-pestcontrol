@@ -11,7 +11,6 @@ lng: -74.1100
 zipSample: ["07026"]
 zipCodes: ["07026"]
 localPaths: ["Bergen County / primary ZIP 07026", "Bergen County / coords 40.8800, -74.1100", "Bergen County / ZIP 07026 sector", "Bergen County / elevation 112 ft band"]
-zillowHomeValueUsd: 579890
 ---
 
 **Engineering Notice for Garfield:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bergen County.

@@ -11,7 +11,6 @@ lng: -93.8000
 zipSample: ["55362"]
 zipCodes: ["55362"]
 localPaths: ["Wright County / primary ZIP 55362", "Wright County / ZIP 55362 sector", "Wright County / elevation 948 ft band", "Wright County / coords 45.3000, -93.8000"]
-zillowHomeValueUsd: 353439
 ---
 
 **Engineering Notice for Monticello:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wright County.

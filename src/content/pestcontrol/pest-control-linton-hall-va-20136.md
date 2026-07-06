@@ -11,7 +11,6 @@ lng: -77.5800
 zipSample: ["20155", "20136", "20181"]
 zipCodes: ["20136", "20181", "20155"]
 localPaths: ["Prince William County / primary ZIP 20136", "Prince William County / coords 38.7600, -77.5800", "Prince William County / ZIP 20181 sector", "Prince William County / ZIP 20136 sector", "Prince William County / elevation 279 ft band"]
-zillowHomeValueUsd: 745765
 ---
 
 **Engineering Notice for Linton Hall:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince William County.

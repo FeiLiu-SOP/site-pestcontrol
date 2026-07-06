@@ -11,7 +11,6 @@ lng: -93.4600
 zipSample: ["55369", "55311"]
 zipCodes: ["55369", "55311"]
 localPaths: ["Hennepin County / ZIP 55369 sector", "Hennepin County / elevation 873 ft band", "Hennepin County / primary ZIP 55369", "Hennepin County / ZIP 55311 sector", "Hennepin County / coords 45.1100, -93.4600"]
-zillowHomeValueUsd: 393097
 ---
 
 **Engineering Notice for Maple Grove:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hennepin County.

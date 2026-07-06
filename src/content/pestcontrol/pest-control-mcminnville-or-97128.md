@@ -11,7 +11,6 @@ lng: -123.1900
 zipSample: ["97128"]
 zipCodes: ["97128"]
 localPaths: ["Yamhill County / coords 45.2100, -123.1900", "Yamhill County / ZIP 97128 sector", "Yamhill County / primary ZIP 97128", "Yamhill County / elevation 164 ft band"]
-zillowHomeValueUsd: 485280
 ---
 
 **Engineering Notice for McMinnville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Yamhill County.

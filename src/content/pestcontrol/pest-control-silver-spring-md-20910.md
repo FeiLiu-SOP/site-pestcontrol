@@ -11,7 +11,6 @@ lng: -77.0200
 zipSample: ["20997", "20911", "20903", "20910", "20912"]
 zipCodes: ["20910", "20911", "20997", "20907", "20903", "20901", "20912"]
 localPaths: ["Montgomery County / coords 39.0000, -77.0200", "Montgomery County / elevation 292 ft band", "Montgomery County / ZIP 20903 sector", "Montgomery County / ZIP 20911 sector", "Montgomery County / ZIP 20997 sector"]
-zillowHomeValueUsd: 655250
 ---
 
 **Engineering Notice for Silver Spring:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

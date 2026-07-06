@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11720"
 county: "Suffolk County"
 elevationFt: 102
-lat: 40.8700
-lng: -73.0800
+lat: 40.8805
+lng: -73.1100
 zipSample: ["11720"]
 zipCodes: ["11720"]
-localPaths: ["Suffolk County / coords 40.8700, -73.0800", "Suffolk County / primary ZIP 11720", "Suffolk County / ZIP 11720 sector", "Suffolk County / elevation 102 ft band"]
-zillowHomeValueUsd: 640376
+localPaths: ["Suffolk County / coords 40.8805, -73.1100", "Suffolk County / primary ZIP 11720", "Suffolk County / ZIP 11720 sector", "Suffolk County / elevation 102 ft band"]
 ---
 
 **Engineering Notice for Centereach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.

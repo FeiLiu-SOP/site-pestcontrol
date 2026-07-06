@@ -11,7 +11,6 @@ lng: -120.9400
 zipSample: ["95367", "95357"]
 zipCodes: ["95357", "95367"]
 localPaths: ["Stanislaus County / ZIP 95367 sector", "Stanislaus County / coords 37.7300, -120.9400", "Stanislaus County / elevation 141 ft band", "Stanislaus County / ZIP 95357 sector", "Stanislaus County / primary ZIP 95367"]
-zillowHomeValueUsd: 486969
 ---
 
 **Engineering Notice for Riverbank:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Stanislaus County.

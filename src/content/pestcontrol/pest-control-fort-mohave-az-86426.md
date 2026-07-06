@@ -11,7 +11,6 @@ lng: -114.5700
 zipSample: ["86427", "86426"]
 zipCodes: ["86427", "86426"]
 localPaths: ["Mohave County / ZIP 86427 sector", "Mohave County / coords 35.0000, -114.5700", "Mohave County / elevation 627 ft band", "Mohave County / primary ZIP 86426", "Mohave County / ZIP 86426 sector"]
-zillowHomeValueUsd: 332438
 ---
 
 **Engineering Notice for Fort Mohave:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Mohave County.

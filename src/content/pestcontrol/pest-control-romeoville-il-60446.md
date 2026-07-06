@@ -11,7 +11,6 @@ lng: -88.1000
 zipSample: ["60446"]
 zipCodes: ["60446"]
 localPaths: ["Will County / ZIP 60446 sector", "Will County / primary ZIP 60446", "Will County / coords 41.6300, -88.1000", "Will County / elevation 682 ft band"]
-zillowHomeValueUsd: 313688
 ---
 
 **Engineering Notice for Romeoville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Will County.

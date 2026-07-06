@@ -11,7 +11,6 @@ lng: -87.4900
 zipSample: ["46323", "46327", "46325", "46394", "46324"]
 zipCodes: ["46324", "46327", "46320", "46325", "46394", "46323"]
 localPaths: ["Lake County / ZIP 46323 sector", "Lake County / elevation 597 ft band", "Lake County / primary ZIP 46394", "Lake County / coords 41.6200, -87.4900", "Lake County / ZIP 46394 sector"]
-zillowHomeValueUsd: 200643
 ---
 
 **Engineering Notice for Hammond:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

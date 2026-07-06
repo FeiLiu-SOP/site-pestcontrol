@@ -11,7 +11,6 @@ lng: -88.6400
 zipSample: ["42001", "42003", "42002"]
 zipCodes: ["42001", "42003", "42002"]
 localPaths: ["McCracken County / elevation 387 ft band", "McCracken County / coords 37.0700, -88.6400", "McCracken County / ZIP 42002 sector", "McCracken County / primary ZIP 42003", "McCracken County / ZIP 42003 sector"]
-zillowHomeValueUsd: 161226
 ---
 
 **Engineering Notice for Paducah:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: McCracken County.

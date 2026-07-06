@@ -11,7 +11,6 @@ lng: -122.2100
 zipSample: ["98002", "98001", "98092"]
 zipCodes: ["98001", "98002", "98092"]
 localPaths: ["King County / elevation 92 ft band", "King County / ZIP 98002 sector", "King County / coords 47.3000, -122.2100", "King County / primary ZIP 98001", "King County / ZIP 98092 sector"]
-zillowHomeValueUsd: 640539
 ---
 
 **Engineering Notice for Auburn:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.

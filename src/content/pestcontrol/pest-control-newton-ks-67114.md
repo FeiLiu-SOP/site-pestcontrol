@@ -11,7 +11,6 @@ lng: -97.3400
 zipSample: ["67114"]
 zipCodes: ["67114"]
 localPaths: ["Harvey County / primary ZIP 67114", "Harvey County / ZIP 67114 sector", "Harvey County / elevation 1453 ft band", "Harvey County / coords 38.0400, -97.3400"]
-zillowHomeValueUsd: 170190
 ---
 
 **Engineering Notice for Newton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harvey County.

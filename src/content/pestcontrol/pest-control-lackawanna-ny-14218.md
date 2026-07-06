@@ -11,7 +11,6 @@ lng: -78.8300
 zipSample: ["14218"]
 zipCodes: ["14218"]
 localPaths: ["Erie County / coords 42.8200, -78.8300", "Erie County / primary ZIP 14218", "Erie County / ZIP 14218 sector", "Erie County / elevation 591 ft band"]
-zillowHomeValueUsd: 212851
 ---
 
 **Engineering Notice for Lackawanna:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Erie County.

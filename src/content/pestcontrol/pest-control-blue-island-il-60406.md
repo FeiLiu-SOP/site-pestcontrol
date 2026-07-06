@@ -11,7 +11,6 @@ lng: -87.6800
 zipSample: ["60406"]
 zipCodes: ["60406"]
 localPaths: ["Cook County / coords 41.6600, -87.6800", "Cook County / ZIP 60406 sector", "Cook County / elevation 646 ft band", "Cook County / primary ZIP 60406"]
-zillowHomeValueUsd: 195281
 ---
 
 **Engineering Notice for Blue Island:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

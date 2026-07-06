@@ -11,7 +11,6 @@ lng: -76.8100
 zipSample: ["17177", "17112", "17109"]
 zipCodes: ["17109", "17112", "17177"]
 localPaths: ["Dauphin County / elevation 528 ft band", "Dauphin County / ZIP 17177 sector", "Dauphin County / ZIP 17112 sector", "Dauphin County / coords 40.3000, -76.8100", "Dauphin County / ZIP 17109 sector"]
-zillowHomeValueUsd: 261205
 ---
 
 **Engineering Notice for Colonial Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dauphin County.

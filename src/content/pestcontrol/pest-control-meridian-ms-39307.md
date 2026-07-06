@@ -11,7 +11,6 @@ lng: -88.6900
 zipSample: ["39305", "39303", "39307", "39302", "39301"]
 zipCodes: ["39303", "39302", "39304", "39305", "39301", "39307"]
 localPaths: ["Lauderdale County / ZIP 39307 sector", "Lauderdale County / elevation 420 ft band", "Lauderdale County / ZIP 39303 sector", "Lauderdale County / ZIP 39302 sector", "Lauderdale County / ZIP 39301 sector"]
-zillowHomeValueUsd: 63404
 ---
 
 **Engineering Notice for Meridian:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lauderdale County.

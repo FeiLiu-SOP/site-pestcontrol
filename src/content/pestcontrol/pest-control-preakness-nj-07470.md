@@ -11,7 +11,6 @@ lng: -74.2200
 zipSample: ["07470"]
 zipCodes: ["07470"]
 localPaths: ["Passaic County / coords 40.9400, -74.2200", "Passaic County / elevation 223 ft band", "Passaic County / primary ZIP 07470", "Passaic County / ZIP 07470 sector"]
-zillowHomeValueUsd: 742812
 ---
 
 **Engineering Notice for Preakness:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Passaic County.

@@ -11,7 +11,6 @@ lng: -149.6300
 zipSample: ["99654", "99623"]
 zipCodes: ["99654", "99623"]
 localPaths: ["Matanuska-Susitna County / primary ZIP 99623", "Matanuska-Susitna County / elevation 0 ft band", "Matanuska-Susitna County / ZIP 99623 sector", "Matanuska-Susitna County / coords 61.5100, -149.6300", "Matanuska-Susitna County / ZIP 99654 sector"]
-zillowHomeValueUsd: 366919
 ---
 
 **Engineering Notice for Knik-Fairview:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Matanuska-Susitna County.

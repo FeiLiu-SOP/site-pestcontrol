@@ -11,7 +11,6 @@ lng: -116.9000
 zipSample: ["92021", "92040"]
 zipCodes: ["92021", "92040"]
 localPaths: ["San Diego County / ZIP 92040 sector", "San Diego County / coords 32.8600, -116.9000", "San Diego County / elevation 463 ft band", "San Diego County / primary ZIP 92021", "San Diego County / ZIP 92021 sector"]
-zillowHomeValueUsd: 770750
 ---
 
 **Engineering Notice for Lakeside:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.

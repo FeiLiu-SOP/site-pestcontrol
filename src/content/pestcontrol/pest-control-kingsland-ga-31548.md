@@ -11,7 +11,6 @@ lng: -81.7200
 zipSample: ["31548"]
 zipCodes: ["31548"]
 localPaths: ["Camden County / ZIP 31548 sector", "Camden County / primary ZIP 31548", "Camden County / coords 30.8200, -81.7200", "Camden County / elevation 62 ft band"]
-zillowHomeValueUsd: 297350
 ---
 
 **Engineering Notice for Kingsland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Camden County.

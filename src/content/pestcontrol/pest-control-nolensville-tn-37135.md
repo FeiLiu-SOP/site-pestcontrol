@@ -11,7 +11,6 @@ lng: -86.6700
 zipSample: ["37135"]
 zipCodes: ["37135"]
 localPaths: ["Williamson County / elevation 597 ft band", "Williamson County / coords 35.9600, -86.6700", "Williamson County / ZIP 37135 sector", "Williamson County / primary ZIP 37135"]
-zillowHomeValueUsd: 819038
 ---
 
 **Engineering Notice for Nolensville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Williamson County.

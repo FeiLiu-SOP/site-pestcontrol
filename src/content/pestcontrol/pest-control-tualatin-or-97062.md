@@ -11,7 +11,6 @@ lng: -122.7700
 zipSample: ["97062"]
 zipCodes: ["97062"]
 localPaths: ["Washington County / primary ZIP 97062", "Washington County / coords 45.3800, -122.7700", "Washington County / ZIP 97062 sector", "Washington County / elevation 164 ft band"]
-zillowHomeValueUsd: 640355
 ---
 
 **Engineering Notice for Tualatin:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.

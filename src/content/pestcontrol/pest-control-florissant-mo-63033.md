@@ -11,7 +11,6 @@ lng: -90.3300
 zipSample: ["63033", "63031", "63032"]
 zipCodes: ["63031", "63033", "63032"]
 localPaths: ["St. Louis County / coords 38.8000, -90.3300", "St. Louis County / elevation 535 ft band", "St. Louis County / primary ZIP 63033", "St. Louis County / ZIP 63033 sector", "St. Louis County / ZIP 63031 sector"]
-zillowHomeValueUsd: 196443
 ---
 
 **Engineering Notice for Florissant:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Louis County.

@@ -11,7 +11,6 @@ lng: -82.3000
 zipSample: ["33598"]
 zipCodes: ["33598"]
 localPaths: ["Hillsborough County / coords 27.7000, -82.3000", "Hillsborough County / ZIP 33598 sector", "Hillsborough County / primary ZIP 33598", "Hillsborough County / elevation 79 ft band"]
-zillowHomeValueUsd: 350178
 ---
 
 **Engineering Notice for Wimauma:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.

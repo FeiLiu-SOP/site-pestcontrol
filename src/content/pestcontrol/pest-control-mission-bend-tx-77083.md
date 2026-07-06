@@ -11,7 +11,6 @@ lng: -95.6700
 zipSample: ["77083"]
 zipCodes: ["77083"]
 localPaths: ["Fort Bend County / primary ZIP 77083", "Fort Bend County / ZIP 77083 sector", "Fort Bend County / elevation 98 ft band", "Fort Bend County / coords 29.6900, -95.6700"]
-zillowHomeValueUsd: 262918
 ---
 
 **Engineering Notice for Mission Bend:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fort Bend County.

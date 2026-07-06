@@ -6,12 +6,11 @@ state: "FL"
 zipCode: "33442"
 county: "Broward County"
 elevationFt: 36
-lat: 26.3000
+lat: 26.3300
 lng: -80.1300
 zipSample: ["33442", "33441", "33064", "33443"]
 zipCodes: ["33441", "33064", "33442", "33443"]
-localPaths: ["Broward County / coords 26.3000, -80.1300", "Broward County / elevation 36 ft band", "Broward County / primary ZIP 33442", "Broward County / ZIP 33443 sector", "Broward County / ZIP 33441 sector"]
-zillowHomeValueUsd: 185200
+localPaths: ["Broward County / coords 26.3300, -80.1300", "Broward County / elevation 36 ft band", "Broward County / primary ZIP 33442", "Broward County / ZIP 33443 sector", "Broward County / ZIP 33441 sector"]
 ---
 
 **Engineering Notice for Deerfield Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.
@@ -47,6 +46,6 @@ Yellow jacket nests in Deerfield Beach, FL soffit cavities peak in late summer r
 
 Perimeter dossier 808881: bait station anchor map and mulch bridge risk flagged for Deerfield Beach, FL county Broward County (ZIP 33442).
 
-**Regional Infrastructure Brief:** Response coverage aligns with Broward County and primary ZIP 33442. Terrain reference: 36 ft. Center point: 26.3000, -80.1300. ZIP sample: 33442, 33443, 33441, 33064. Regional routing note: Broward County traffic flow is balanced around ZIP 33442 service demand.
+**Regional Infrastructure Brief:** Response coverage aligns with Broward County and primary ZIP 33442. Terrain reference: 36 ft. Center point: 26.3300, -80.1300. ZIP sample: 33442, 33443, 33441, 33064. Regional routing note: Broward County traffic flow is balanced around ZIP 33442 service demand.
 
 Service reference: FL-33442-4fff68af

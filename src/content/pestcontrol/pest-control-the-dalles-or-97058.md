@@ -11,7 +11,6 @@ lng: -121.1800
 zipSample: ["97058"]
 zipCodes: ["97058"]
 localPaths: ["Wasco County / primary ZIP 97058", "Wasco County / ZIP 97058 sector", "Wasco County / elevation 75 ft band", "Wasco County / coords 45.6100, -121.1800"]
-zillowHomeValueUsd: 388190
 ---
 
 **Engineering Notice for The Dalles:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wasco County.

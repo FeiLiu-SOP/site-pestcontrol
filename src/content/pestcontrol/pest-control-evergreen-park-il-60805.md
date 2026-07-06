@@ -11,7 +11,6 @@ lng: -87.7000
 zipSample: ["60805"]
 zipCodes: ["60805"]
 localPaths: ["Cook County / primary ZIP 60805", "Cook County / elevation 630 ft band", "Cook County / coords 41.7200, -87.7000", "Cook County / ZIP 60805 sector"]
-zillowHomeValueUsd: 281373
 ---
 
 **Engineering Notice for Evergreen Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.

@@ -11,7 +11,6 @@ lng: -75.6400
 zipSample: ["19464"]
 zipCodes: ["19464"]
 localPaths: ["Montgomery County / ZIP 19464 sector", "Montgomery County / coords 40.2500, -75.6400", "Montgomery County / primary ZIP 19464", "Montgomery County / elevation 190 ft band"]
-zillowHomeValueUsd: 306427
 ---
 
 **Engineering Notice for Pottstown:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

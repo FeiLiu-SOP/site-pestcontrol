@@ -11,7 +11,6 @@ lng: -96.5500
 zipSample: ["75159"]
 zipCodes: ["75159"]
 localPaths: ["Dallas County / ZIP 75159 sector", "Dallas County / primary ZIP 75159", "Dallas County / coords 32.6500, -96.5500", "Dallas County / elevation 456 ft band"]
-zillowHomeValueUsd: 281029
 ---
 
 **Engineering Notice for Seagoville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.

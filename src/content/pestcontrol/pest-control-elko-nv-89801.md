@@ -11,7 +11,6 @@ lng: -115.7700
 zipSample: ["89801"]
 zipCodes: ["89801"]
 localPaths: ["Elko County / ZIP 89801 sector", "Elko County / coords 40.8400, -115.7700", "Elko County / elevation 5121 ft band", "Elko County / primary ZIP 89801"]
-zillowHomeValueUsd: 365329
 ---
 
 **Engineering Notice for Elko:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Elko County.

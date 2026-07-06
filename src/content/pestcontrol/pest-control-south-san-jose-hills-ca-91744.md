@@ -11,7 +11,6 @@ lng: -117.9000
 zipSample: ["91744"]
 zipCodes: ["91744"]
 localPaths: ["Los Angeles County / primary ZIP 91744", "Los Angeles County / elevation 420 ft band", "Los Angeles County / ZIP 91744 sector", "Los Angeles County / coords 34.0100, -117.9000"]
-zillowHomeValueUsd: 740940
 ---
 
 **Engineering Notice for South San Jose Hills:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

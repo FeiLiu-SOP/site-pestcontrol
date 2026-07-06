@@ -11,7 +11,6 @@ lng: -82.3500
 zipSample: ["32603", "32610", "32609", "32604", "32612"]
 zipCodes: ["32607", "32603", "32614", "32653", "32609", "32608", "32604", "32612", "32627", "32605", "32610", "32601"]
 localPaths: ["Alachua County / ZIP 32609 sector", "Alachua County / coords 29.6800, -82.3500", "Alachua County / ZIP 32612 sector", "Alachua County / ZIP 32603 sector", "Alachua County / elevation 180 ft band"]
-zillowHomeValueUsd: 337045
 ---
 
 **Engineering Notice for Gainesville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alachua County.

@@ -11,7 +11,6 @@ lng: -95.3900
 zipSample: ["77216", "77213", "77263", "77098", "77011"]
 zipCodes: ["77038", "77289", "77270", "77057", "77287", "77273", "77090", "77274", "77489", "77221", "77058", "77234"]
 localPaths: ["Harris County / ZIP 77216 sector", "Harris County / ZIP 77263 sector", "Harris County / coords 29.7900, -95.3900", "Harris County / primary ZIP 77069", "Harris County / elevation 69 ft band"]
-zillowHomeValueUsd: 330500
 ---
 
 **Engineering Notice for Houston:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Harris County.

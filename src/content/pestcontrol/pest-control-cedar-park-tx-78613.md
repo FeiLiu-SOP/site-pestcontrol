@@ -11,7 +11,6 @@ lng: -97.8200
 zipSample: ["78630", "78613"]
 zipCodes: ["78630", "78613"]
 localPaths: ["Williamson County / elevation 951 ft band", "Williamson County / ZIP 78613 sector", "Williamson County / ZIP 78630 sector", "Williamson County / coords 30.5100, -97.8200", "Williamson County / primary ZIP 78613"]
-zillowHomeValueUsd: 466172
 ---
 
 **Engineering Notice for Cedar Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Williamson County.

@@ -11,7 +11,6 @@ lng: -83.1300
 zipSample: ["48220"]
 zipCodes: ["48220"]
 localPaths: ["Oakland County / elevation 650 ft band", "Oakland County / coords 42.4600, -83.1300", "Oakland County / primary ZIP 48220", "Oakland County / ZIP 48220 sector"]
-zillowHomeValueUsd: 245128
 ---
 
 **Engineering Notice for Ferndale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Oakland County.

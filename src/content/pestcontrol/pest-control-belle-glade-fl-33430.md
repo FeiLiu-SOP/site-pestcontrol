@@ -11,7 +11,6 @@ lng: -80.6700
 zipSample: ["33430"]
 zipCodes: ["33430"]
 localPaths: ["Palm Beach County / elevation 30 ft band", "Palm Beach County / coords 26.6900, -80.6700", "Palm Beach County / primary ZIP 33430", "Palm Beach County / ZIP 33430 sector"]
-zillowHomeValueUsd: 285370
 ---
 
 **Engineering Notice for Belle Glade:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Palm Beach County.

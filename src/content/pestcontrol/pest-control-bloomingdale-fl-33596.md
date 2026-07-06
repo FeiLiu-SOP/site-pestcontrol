@@ -11,7 +11,6 @@ lng: -82.2600
 zipSample: ["33511", "33596"]
 zipCodes: ["33596", "33511"]
 localPaths: ["Hillsborough County / elevation 75 ft band", "Hillsborough County / ZIP 33511 sector", "Hillsborough County / primary ZIP 33596", "Hillsborough County / ZIP 33596 sector", "Hillsborough County / coords 27.8800, -82.2600"]
-zillowHomeValueUsd: 460044
 ---
 
 **Engineering Notice for Bloomingdale:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.

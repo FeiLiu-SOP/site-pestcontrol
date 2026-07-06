@@ -11,7 +11,6 @@ lng: -88.3900
 zipSample: ["54913", "54914", "54919", "54911", "54912"]
 zipCodes: ["54913", "54912", "54919", "54911", "54915", "54914"]
 localPaths: ["Outagamie County / ZIP 54913 sector", "Outagamie County / ZIP 54914 sector", "Outagamie County / elevation 791 ft band", "Outagamie County / ZIP 54919 sector", "Outagamie County / primary ZIP 54914"]
-zillowHomeValueUsd: 303656
 ---
 
 **Engineering Notice for Appleton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Outagamie County.

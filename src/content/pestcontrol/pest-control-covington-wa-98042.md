@@ -11,7 +11,6 @@ lng: -122.1000
 zipSample: ["98042"]
 zipCodes: ["98042"]
 localPaths: ["King County / primary ZIP 98042", "King County / elevation 390 ft band", "King County / ZIP 98042 sector", "King County / coords 47.3700, -122.1000"]
-zillowHomeValueUsd: 710154
 ---
 
 **Engineering Notice for Covington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: King County.

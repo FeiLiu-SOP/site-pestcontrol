@@ -11,7 +11,6 @@ lng: -70.4600
 zipSample: ["04072"]
 zipCodes: ["04072"]
 localPaths: ["York County / coords 43.5400, -70.4600", "York County / ZIP 04072 sector", "York County / elevation 151 ft band", "York County / primary ZIP 04072"]
-zillowHomeValueUsd: 520342
 ---
 
 **Engineering Notice for Saco:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: York County.

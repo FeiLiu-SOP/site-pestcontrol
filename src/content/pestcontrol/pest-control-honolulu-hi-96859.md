@@ -11,7 +11,6 @@ lng: -157.8500
 zipSample: ["96838", "96840", "96837", "96818", "96839"]
 zipCodes: ["96813", "96828", "96806", "96802", "96816", "96848", "96847", "96826", "96801", "96839", "96859", "96850"]
 localPaths: ["Honolulu County / ZIP 96839 sector", "Honolulu County / ZIP 96840 sector", "Honolulu County / ZIP 96838 sector", "Honolulu County / ZIP 96837 sector", "Honolulu County / primary ZIP 96859"]
-zillowHomeValueUsd: 530517
 ---
 
 **Engineering Notice for Honolulu:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Honolulu County.

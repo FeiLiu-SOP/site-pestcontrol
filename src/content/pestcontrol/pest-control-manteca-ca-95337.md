@@ -11,7 +11,6 @@ lng: -121.2300
 zipSample: ["95336", "95337"]
 zipCodes: ["95336", "95337"]
 localPaths: ["San Joaquin County / primary ZIP 95337", "San Joaquin County / ZIP 95337 sector", "San Joaquin County / ZIP 95336 sector", "San Joaquin County / coords 37.7900, -121.2300", "San Joaquin County / elevation 30 ft band"]
-zillowHomeValueUsd: 646764
 ---
 
 **Engineering Notice for Manteca:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Joaquin County.

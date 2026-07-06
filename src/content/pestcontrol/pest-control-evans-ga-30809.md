@@ -11,7 +11,6 @@ lng: -82.1400
 zipSample: ["30809"]
 zipCodes: ["30809"]
 localPaths: ["Columbia County / elevation 364 ft band", "Columbia County / coords 33.5600, -82.1400", "Columbia County / ZIP 30809 sector", "Columbia County / primary ZIP 30809"]
-zillowHomeValueUsd: 403972
 ---
 
 **Engineering Notice for Evans:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Columbia County.

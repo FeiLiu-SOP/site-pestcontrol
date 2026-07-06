@@ -11,7 +11,6 @@ lng: -157.7200
 zipSample: ["96825", "96821", "96824"]
 zipCodes: ["96825", "96824", "96821"]
 localPaths: ["Honolulu County / primary ZIP 96821", "Honolulu County / ZIP 96824 sector", "Honolulu County / ZIP 96825 sector", "Honolulu County / ZIP 96821 sector", "Honolulu County / elevation 531 ft band"]
-zillowHomeValueUsd: 1812015
 ---
 
 **Engineering Notice for East Honolulu:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Honolulu County.

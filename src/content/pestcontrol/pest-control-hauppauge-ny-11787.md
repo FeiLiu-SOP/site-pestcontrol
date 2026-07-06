@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11787"
 county: "Suffolk County"
 elevationFt: 82
-lat: 40.8200
-lng: -73.2100
+lat: 40.8305
+lng: -73.2400
 zipSample: ["11787", "11760", "11788"]
 zipCodes: ["11787", "11760", "11788"]
-localPaths: ["Suffolk County / coords 40.8200, -73.2100", "Suffolk County / primary ZIP 11787", "Suffolk County / ZIP 11787 sector", "Suffolk County / elevation 82 ft band", "Suffolk County / ZIP 11760 sector"]
-zillowHomeValueUsd: 794494
+localPaths: ["Suffolk County / coords 40.8305, -73.2400", "Suffolk County / primary ZIP 11787", "Suffolk County / ZIP 11787 sector", "Suffolk County / elevation 82 ft band", "Suffolk County / ZIP 11760 sector"]
 ---
 
 **Engineering Notice for Hauppauge:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
@@ -45,7 +44,7 @@ Book exclusion and interior zones as separate scope lines. Serving ZIP Code: 117
 
 Wildlife odors in Hauppauge, NY crawlspaces may attract secondary pest activity.
 
-Exclusion audit 840118: exclusion mesh gauge and rodent runway grease mark reviewed for Hauppauge, NY at 40.8200/-73.2100.
+Exclusion audit 840118: exclusion mesh gauge and rodent runway grease mark reviewed for Hauppauge, NY at 40.8305/-73.2400.
 
 On-site sector marker: Suffolk County / ZIP 11788 sector — logged for map parity and ZIP-corridor verification.
 

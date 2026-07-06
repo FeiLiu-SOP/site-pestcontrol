@@ -11,7 +11,6 @@ lng: -73.6400
 zipSample: ["11530", "11531", "11599"]
 zipCodes: ["11531", "11599", "11530"]
 localPaths: ["Nassau County / ZIP 11531 sector", "Nassau County / primary ZIP 11530", "Nassau County / coords 40.7300, -73.6400", "Nassau County / ZIP 11599 sector", "Nassau County / elevation 95 ft band"]
-zillowHomeValueUsd: 1281221
 ---
 
 **Engineering Notice for Garden City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Nassau County.

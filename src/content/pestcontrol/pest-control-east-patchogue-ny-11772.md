@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11772"
 county: "Suffolk County"
 elevationFt: 36
-lat: 40.7700
-lng: -72.9800
+lat: 40.7805
+lng: -73.0100
 zipSample: ["11772"]
 zipCodes: ["11772"]
-localPaths: ["Suffolk County / elevation 36 ft band", "Suffolk County / coords 40.7700, -72.9800", "Suffolk County / ZIP 11772 sector", "Suffolk County / primary ZIP 11772"]
-zillowHomeValueUsd: 585756
+localPaths: ["Suffolk County / elevation 36 ft band", "Suffolk County / coords 40.7805, -73.0100", "Suffolk County / ZIP 11772 sector", "Suffolk County / primary ZIP 11772"]
 ---
 
 **Engineering Notice for East Patchogue:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
@@ -45,7 +44,7 @@ Tip: Photograph frass patterns before vacuuming—they help confirm species.
 
 Intercept log 598868: bed bug intercept count staged before East Patchogue, NY interior gel zones.
 
-Exclusion audit 598868: exclusion mesh gauge and rodent runway grease mark reviewed for East Patchogue, NY at 40.7700/-72.9800.
+Exclusion audit 598868: exclusion mesh gauge and rodent runway grease mark reviewed for East Patchogue, NY at 40.7805/-73.0100.
 
 On-site sector marker: Suffolk County / primary ZIP 11772 — logged for map parity and ZIP-corridor verification.
 

@@ -11,7 +11,6 @@ lng: -121.9500
 zipSample: ["95009", "95008", "95011"]
 zipCodes: ["95011", "95008", "95009"]
 localPaths: ["Santa Clara County / ZIP 95009 sector", "Santa Clara County / ZIP 95008 sector", "Santa Clara County / elevation 200 ft band", "Santa Clara County / coords 37.2800, -121.9500", "Santa Clara County / primary ZIP 95008"]
-zillowHomeValueUsd: 1942092
 ---
 
 **Engineering Notice for Campbell:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Santa Clara County.

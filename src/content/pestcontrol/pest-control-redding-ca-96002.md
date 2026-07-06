@@ -11,7 +11,6 @@ lng: -122.3600
 zipSample: ["96002", "96001", "96003"]
 zipCodes: ["96003", "96002", "96001"]
 localPaths: ["Shasta County / primary ZIP 96002", "Shasta County / ZIP 96001 sector", "Shasta County / elevation 541 ft band", "Shasta County / coords 40.5700, -122.3600", "Shasta County / ZIP 96002 sector"]
-zillowHomeValueUsd: 376013
 ---
 
 **Engineering Notice for Redding:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Shasta County.

@@ -11,7 +11,6 @@ lng: -122.5100
 zipSample: ["97086", "97089", "97015"]
 zipCodes: ["97089", "97086", "97015"]
 localPaths: ["Clackamas County / ZIP 97086 sector", "Clackamas County / coords 45.4400, -122.5100", "Clackamas County / elevation 659 ft band", "Clackamas County / primary ZIP 97015", "Clackamas County / ZIP 97089 sector"]
-zillowHomeValueUsd: 587746
 ---
 
 **Engineering Notice for Happy Valley:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clackamas County.

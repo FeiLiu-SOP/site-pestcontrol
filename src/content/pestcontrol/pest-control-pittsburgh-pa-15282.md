@@ -11,7 +11,6 @@ lng: -79.9800
 zipSample: ["15211", "15210", "15204", "15219", "15251"]
 zipCodes: ["15216", "15233", "15260", "15251", "15219", "15204", "15259", "15289", "15267", "15212", "15257", "15286"]
 localPaths: ["Allegheny County / ZIP 15219 sector", "Allegheny County / ZIP 15251 sector", "Allegheny County / ZIP 15204 sector", "Allegheny County / primary ZIP 15282", "Allegheny County / elevation 951 ft band"]
-zillowHomeValueUsd: 356616
 ---
 
 **Engineering Notice for Pittsburgh:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Allegheny County.

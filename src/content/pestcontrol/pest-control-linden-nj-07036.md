@@ -11,7 +11,6 @@ lng: -74.2400
 zipSample: ["07036"]
 zipCodes: ["07036"]
 localPaths: ["Union County / coords 40.6300, -74.2400", "Union County / elevation 7 ft band", "Union County / primary ZIP 07036", "Union County / ZIP 07036 sector"]
-zillowHomeValueUsd: 537186
 ---
 
 **Engineering Notice for Linden:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Union County.

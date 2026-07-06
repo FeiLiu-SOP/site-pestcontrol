@@ -11,7 +11,6 @@ lng: -83.8900
 zipSample: ["48708", "48706"]
 zipCodes: ["48708", "48706"]
 localPaths: ["Bay County / ZIP 48708 sector", "Bay County / coords 43.5900, -83.8900", "Bay County / ZIP 48706 sector", "Bay County / primary ZIP 48706", "Bay County / elevation 600 ft band"]
-zillowHomeValueUsd: 184975
 ---
 
 **Engineering Notice for Bay City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bay County.

@@ -11,7 +11,6 @@ lng: -90.4300
 zipSample: ["63640"]
 zipCodes: ["63640"]
 localPaths: ["St. Francois County / coords 37.7800, -90.4300", "St. Francois County / elevation 961 ft band", "St. Francois County / primary ZIP 63640", "St. Francois County / ZIP 63640 sector"]
-zillowHomeValueUsd: 254763
 ---
 
 **Engineering Notice for Farmington:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: St. Francois County.

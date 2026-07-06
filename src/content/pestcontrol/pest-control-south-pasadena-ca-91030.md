@@ -11,7 +11,6 @@ lng: -118.1600
 zipSample: ["91030", "91031"]
 zipCodes: ["91031", "91030"]
 localPaths: ["Los Angeles County / elevation 653 ft band", "Los Angeles County / primary ZIP 91030", "Los Angeles County / ZIP 91030 sector", "Los Angeles County / coords 34.1100, -118.1600", "Los Angeles County / ZIP 91031 sector"]
-zillowHomeValueUsd: 1693541
 ---
 
 **Engineering Notice for South Pasadena:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

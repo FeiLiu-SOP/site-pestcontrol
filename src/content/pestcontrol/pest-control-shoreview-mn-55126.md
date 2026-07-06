@@ -11,7 +11,6 @@ lng: -93.1400
 zipSample: ["55126"]
 zipCodes: ["55126"]
 localPaths: ["Ramsey County / ZIP 55126 sector", "Ramsey County / elevation 899 ft band", "Ramsey County / primary ZIP 55126", "Ramsey County / coords 45.0800, -93.1400"]
-zillowHomeValueUsd: 411296
 ---
 
 **Engineering Notice for Shoreview:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Ramsey County.

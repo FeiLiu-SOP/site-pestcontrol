@@ -11,7 +11,6 @@ lng: -94.1700
 zipSample: ["72703", "72702", "72701", "72704"]
 zipCodes: ["72701", "72704", "72703", "72702"]
 localPaths: ["Washington County / primary ZIP 72704", "Washington County / ZIP 72702 sector", "Washington County / elevation 1398 ft band", "Washington County / ZIP 72704 sector", "Washington County / ZIP 72701 sector"]
-zillowHomeValueUsd: 361932
 ---
 
 **Engineering Notice for Fayetteville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.

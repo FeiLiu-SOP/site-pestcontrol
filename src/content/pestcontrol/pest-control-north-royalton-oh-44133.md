@@ -11,7 +11,6 @@ lng: -81.7500
 zipSample: ["44133"]
 zipCodes: ["44133"]
 localPaths: ["Cuyahoga County / elevation 1037 ft band", "Cuyahoga County / ZIP 44133 sector", "Cuyahoga County / primary ZIP 44133", "Cuyahoga County / coords 41.3100, -81.7500"]
-zillowHomeValueUsd: 335096
 ---
 
 **Engineering Notice for North Royalton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cuyahoga County.

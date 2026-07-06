@@ -11,7 +11,6 @@ lng: -70.8800
 zipSample: ["03821", "03820"]
 zipCodes: ["03821", "03820"]
 localPaths: ["Strafford County / ZIP 03820 sector", "Strafford County / coords 43.1900, -70.8800", "Strafford County / ZIP 03821 sector", "Strafford County / elevation 125 ft band", "Strafford County / primary ZIP 03820"]
-zillowHomeValueUsd: 537685
 ---
 
 **Engineering Notice for Dover:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Strafford County.

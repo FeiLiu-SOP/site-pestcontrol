@@ -11,7 +11,6 @@ lng: -84.1500
 zipSample: ["45420", "45440", "45409", "45419", "45479"]
 zipCodes: ["45479", "45419", "45440", "45429", "45409", "45420"]
 localPaths: ["Montgomery County / primary ZIP 45440", "Montgomery County / ZIP 45479 sector", "Montgomery County / ZIP 45420 sector", "Montgomery County / ZIP 45409 sector", "Montgomery County / coords 39.7000, -84.1500"]
-zillowHomeValueUsd: 315782
 ---
 
 **Engineering Notice for Kettering:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

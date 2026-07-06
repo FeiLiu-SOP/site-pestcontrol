@@ -11,7 +11,6 @@ lng: -81.5500
 zipSample: ["28151", "28150", "28152"]
 zipCodes: ["28150", "28151", "28152"]
 localPaths: ["Cleveland County / elevation 883 ft band", "Cleveland County / ZIP 28152 sector", "Cleveland County / coords 35.2900, -81.5500", "Cleveland County / ZIP 28151 sector", "Cleveland County / primary ZIP 28150"]
-zillowHomeValueUsd: 201086
 ---
 
 **Engineering Notice for Shelby:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cleveland County.

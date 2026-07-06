@@ -11,7 +11,6 @@ lng: -76.9900
 zipSample: ["20904", "20903", "20901"]
 zipCodes: ["20903", "20904", "20901"]
 localPaths: ["Montgomery County / coords 39.0500, -76.9900", "Montgomery County / elevation 404 ft band", "Montgomery County / ZIP 20901 sector", "Montgomery County / ZIP 20904 sector", "Montgomery County / ZIP 20903 sector"]
-zillowHomeValueUsd: 592831
 ---
 
 **Engineering Notice for White Oak:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

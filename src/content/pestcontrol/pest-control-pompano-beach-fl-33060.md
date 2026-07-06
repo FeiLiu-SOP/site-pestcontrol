@@ -6,12 +6,11 @@ state: "FL"
 zipCode: "33060"
 county: "Broward County"
 elevationFt: 33
-lat: 26.2400
+lat: 26.2700
 lng: -80.1300
 zipSample: ["33064", "33069", "33097", "33060", "33061"]
 zipCodes: ["33097", "33069", "33074", "33061", "33064", "33062", "33060"]
 localPaths: ["Broward County / elevation 33 ft band", "Broward County / ZIP 33097 sector", "Broward County / ZIP 33069 sector", "Broward County / ZIP 33064 sector", "Broward County / primary ZIP 33060"]
-zillowHomeValueUsd: 430570
 ---
 
 **Engineering Notice for Pompano Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Broward County.

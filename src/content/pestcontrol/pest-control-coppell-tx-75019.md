@@ -11,7 +11,6 @@ lng: -96.9900
 zipSample: ["75019", "75099"]
 zipCodes: ["75019", "75099"]
 localPaths: ["Dallas County / elevation 528 ft band", "Dallas County / coords 32.9600, -96.9900", "Dallas County / ZIP 75019 sector", "Dallas County / ZIP 75099 sector", "Dallas County / primary ZIP 75019"]
-zillowHomeValueUsd: 622334
 ---
 
 **Engineering Notice for Coppell:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.

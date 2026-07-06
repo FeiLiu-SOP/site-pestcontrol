@@ -11,7 +11,6 @@ lng: -78.7600
 zipSample: ["21505", "21503", "21504", "21502", "21501"]
 zipCodes: ["21501", "21504", "21502", "21503", "21505"]
 localPaths: ["Allegany County / ZIP 21503 sector", "Allegany County / ZIP 21502 sector", "Allegany County / ZIP 21505 sector", "Allegany County / elevation 636 ft band", "Allegany County / primary ZIP 21502"]
-zillowHomeValueUsd: 151217
 ---
 
 **Engineering Notice for Cumberland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Allegany County.

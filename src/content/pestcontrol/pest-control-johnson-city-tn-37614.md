@@ -11,7 +11,6 @@ lng: -82.3800
 zipSample: ["37601", "37604", "37605", "37684", "37602"]
 zipCodes: ["37602", "37615", "37601", "37605", "37684", "37614", "37604"]
 localPaths: ["Washington County / ZIP 37604 sector", "Washington County / ZIP 37602 sector", "Washington County / ZIP 37601 sector", "Washington County / ZIP 37684 sector", "Washington County / coords 36.3400, -82.3800"]
-zillowHomeValueUsd: 280259
 ---
 
 **Engineering Notice for Johnson City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.

@@ -11,7 +11,6 @@ lng: -85.0400
 zipSample: ["30241", "30240"]
 zipCodes: ["30241", "30240"]
 localPaths: ["Troup County / coords 33.0300, -85.0400", "Troup County / ZIP 30240 sector", "Troup County / ZIP 30241 sector", "Troup County / primary ZIP 30240", "Troup County / elevation 751 ft band"]
-zillowHomeValueUsd: 249639
 ---
 
 **Engineering Notice for LaGrange:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Troup County.

@@ -11,7 +11,6 @@ lng: -85.2500
 zipSample: ["37410", "37343", "37351", "37424", "37415"]
 zipCodes: ["37415", "37403", "37343", "37450", "37401", "37421", "37414", "37419", "37404", "37351", "37407", "37409"]
 localPaths: ["Hamilton County / ZIP 37410 sector", "Hamilton County / coords 35.0700, -85.2500", "Hamilton County / ZIP 37343 sector", "Hamilton County / ZIP 37424 sector", "Hamilton County / ZIP 37351 sector"]
-zillowHomeValueUsd: 330288
 ---
 
 **Engineering Notice for Chattanooga:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hamilton County.

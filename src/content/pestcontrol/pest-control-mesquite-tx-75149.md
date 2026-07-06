@@ -11,7 +11,6 @@ lng: -96.5900
 zipSample: ["75126", "75181", "75187", "75149", "75150"]
 zipCodes: ["75181", "75150", "75149", "75185", "75126", "75187"]
 localPaths: ["Dallas County / ZIP 75149 sector", "Dallas County / ZIP 75181 sector", "Dallas County / coords 32.7600, -96.5900", "Dallas County / ZIP 75126 sector", "Dallas County / ZIP 75187 sector"]
-zillowHomeValueUsd: 238889
 ---
 
 **Engineering Notice for Mesquite:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Dallas County.

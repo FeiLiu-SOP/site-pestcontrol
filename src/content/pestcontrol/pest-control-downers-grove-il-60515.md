@@ -11,7 +11,6 @@ lng: -88.0200
 zipSample: ["60516", "60515"]
 zipCodes: ["60515", "60516"]
 localPaths: ["DuPage County / coords 41.7900, -88.0200", "DuPage County / primary ZIP 60515", "DuPage County / ZIP 60516 sector", "DuPage County / ZIP 60515 sector", "DuPage County / elevation 732 ft band"]
-zillowHomeValueUsd: 497646
 ---
 
 **Engineering Notice for Downers Grove:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: DuPage County.

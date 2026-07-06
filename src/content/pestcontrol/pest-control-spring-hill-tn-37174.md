@@ -11,7 +11,6 @@ lng: -86.9100
 zipSample: ["37179", "37174"]
 zipCodes: ["37174", "37179"]
 localPaths: ["Maury County / ZIP 37174 sector", "Maury County / coords 35.7400, -86.9100", "Maury County / ZIP 37179 sector", "Maury County / elevation 771 ft band", "Maury County / primary ZIP 37174"]
-zillowHomeValueUsd: 517918
 ---
 
 **Engineering Notice for Spring Hill:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Maury County.

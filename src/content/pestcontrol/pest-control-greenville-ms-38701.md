@@ -11,7 +11,6 @@ lng: -91.0500
 zipSample: ["38702", "38701", "38703", "38704"]
 zipCodes: ["38701", "38704", "38703", "38702"]
 localPaths: ["Washington County / elevation 138 ft band", "Washington County / ZIP 38701 sector", "Washington County / coords 33.3800, -91.0500", "Washington County / ZIP 38702 sector", "Washington County / primary ZIP 38701"]
-zillowHomeValueUsd: 65686
 ---
 
 **Engineering Notice for Greenville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Washington County.

@@ -11,7 +11,6 @@ lng: -111.0500
 zipSample: ["85757", "85746"]
 zipCodes: ["85757", "85746"]
 localPaths: ["Pima County / ZIP 85757 sector", "Pima County / elevation 2664 ft band", "Pima County / primary ZIP 85757", "Pima County / ZIP 85746 sector", "Pima County / coords 32.1500, -111.0500"]
-zillowHomeValueUsd: 324445
 ---
 
 **Engineering Notice for Drexel Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pima County.

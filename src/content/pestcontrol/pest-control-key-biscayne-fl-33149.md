@@ -11,7 +11,6 @@ lng: -80.1700
 zipSample: ["33149"]
 zipCodes: ["33149"]
 localPaths: ["Miami-Dade County / coords 25.6900, -80.1700", "Miami-Dade County / ZIP 33149 sector", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / primary ZIP 33149"]
-zillowHomeValueUsd: 1654594
 ---
 
 **Engineering Notice for Key Biscayne:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

@@ -11,7 +11,6 @@ lng: -81.9300
 zipSample: ["32158", "32159"]
 zipCodes: ["32159", "32158"]
 localPaths: ["Lake County / ZIP 32158 sector", "Lake County / elevation 105 ft band", "Lake County / ZIP 32159 sector", "Lake County / primary ZIP 32159", "Lake County / coords 28.9200, -81.9300"]
-zillowHomeValueUsd: 318734
 ---
 
 **Engineering Notice for Lady Lake:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lake County.

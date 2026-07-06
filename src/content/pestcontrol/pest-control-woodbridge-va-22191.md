@@ -11,7 +11,6 @@ lng: -77.2600
 zipSample: ["22191", "22195", "22194"]
 zipCodes: ["22191", "22194", "22195"]
 localPaths: ["Prince William County / ZIP 22191 sector", "Prince William County / ZIP 22194 sector", "Prince William County / ZIP 22195 sector", "Prince William County / coords 38.6400, -77.2600", "Prince William County / primary ZIP 22191"]
-zillowHomeValueUsd: 489053
 ---
 
 **Engineering Notice for Woodbridge:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Prince William County.

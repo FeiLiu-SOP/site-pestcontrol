@@ -11,7 +11,6 @@ lng: -93.2100
 zipSample: ["70601", "70612", "70629", "70605", "70602"]
 zipCodes: ["70602", "70609", "70629", "70605", "70607", "70616", "70612", "70615", "70601", "70606"]
 localPaths: ["Calcasieu Parish / coords 30.2000, -93.2100", "Calcasieu Parish / ZIP 70612 sector", "Calcasieu Parish / primary ZIP 70605", "Calcasieu Parish / elevation 26 ft band", "Calcasieu Parish / ZIP 70601 sector"]
-zillowHomeValueUsd: 263726
 ---
 
 **Engineering Notice for Lake Charles:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Calcasieu Parish.

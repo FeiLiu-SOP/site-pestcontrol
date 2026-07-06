@@ -11,7 +11,6 @@ lng: -118.1300
 zipSample: ["90707", "90706"]
 zipCodes: ["90707", "90706"]
 localPaths: ["Los Angeles County / ZIP 90706 sector", "Los Angeles County / elevation 85 ft band", "Los Angeles County / ZIP 90707 sector", "Los Angeles County / coords 33.8900, -118.1300", "Los Angeles County / primary ZIP 90706"]
-zillowHomeValueUsd: 801979
 ---
 
 **Engineering Notice for Bellflower:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

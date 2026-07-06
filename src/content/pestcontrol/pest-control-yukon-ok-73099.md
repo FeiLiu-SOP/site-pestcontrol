@@ -11,7 +11,6 @@ lng: -97.7600
 zipSample: ["73099", "73085"]
 zipCodes: ["73099", "73085"]
 localPaths: ["Canadian County / elevation 1286 ft band", "Canadian County / ZIP 73099 sector", "Canadian County / primary ZIP 73099", "Canadian County / ZIP 73085 sector", "Canadian County / coords 35.5200, -97.7600"]
-zillowHomeValueUsd: 273363
 ---
 
 **Engineering Notice for Yukon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Canadian County.

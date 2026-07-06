@@ -11,7 +11,6 @@ lng: -105.0600
 zipSample: ["80539", "80537", "80538"]
 zipCodes: ["80538", "80539", "80537"]
 localPaths: ["Larimer County / elevation 5003 ft band", "Larimer County / ZIP 80539 sector", "Larimer County / ZIP 80538 sector", "Larimer County / ZIP 80537 sector", "Larimer County / primary ZIP 80537"]
-zillowHomeValueUsd: 497687
 ---
 
 **Engineering Notice for Loveland:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Larimer County.

@@ -11,7 +11,6 @@ lng: -97.0600
 zipSample: ["75077"]
 zipCodes: ["75077"]
 localPaths: ["Denton County / coords 33.0900, -97.0600", "Denton County / primary ZIP 75077", "Denton County / ZIP 75077 sector", "Denton County / elevation 561 ft band"]
-zillowHomeValueUsd: 489719
 ---
 
 **Engineering Notice for Highland Village:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Denton County.

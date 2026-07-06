@@ -11,7 +11,6 @@ lng: -88.1300
 zipSample: ["36610", "36613", "36612", "36663"]
 zipCodes: ["36612", "36663", "36610", "36613"]
 localPaths: ["Mobile County / elevation 62 ft band", "Mobile County / coords 30.7700, -88.1300", "Mobile County / ZIP 36613 sector", "Mobile County / ZIP 36612 sector", "Mobile County / primary ZIP 36663"]
-zillowHomeValueUsd: 147098
 ---
 
 **Engineering Notice for Prichard:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Mobile County.

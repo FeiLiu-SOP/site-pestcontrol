@@ -11,7 +11,6 @@ lng: -82.6800
 zipSample: ["33709", "33784", "33714", "33702"]
 zipCodes: ["33784", "33709", "33702", "33714"]
 localPaths: ["Pinellas County / ZIP 33714 sector", "Pinellas County / primary ZIP 33702", "Pinellas County / ZIP 33702 sector", "Pinellas County / ZIP 33709 sector", "Pinellas County / elevation 59 ft band"]
-zillowHomeValueUsd: 298487
 ---
 
 **Engineering Notice for Lealman:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pinellas County.

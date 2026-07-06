@@ -11,7 +11,6 @@ lng: -115.0500
 zipSample: ["89121", "89162", "89115", "89122", "89104"]
 zipCodes: ["89121", "89115", "89142", "89104", "89162", "89122", "89180", "89156", "89110"]
 localPaths: ["Clark County / primary ZIP 89104", "Clark County / ZIP 89121 sector", "Clark County / ZIP 89115 sector", "Clark County / elevation 1778 ft band", "Clark County / coords 36.1800, -115.0500"]
-zillowHomeValueUsd: 361723
 ---
 
 **Engineering Notice for Sunrise Manor:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clark County.

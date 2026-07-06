@@ -11,7 +11,6 @@ lng: -80.1000
 zipSample: ["33461", "33406"]
 zipCodes: ["33461", "33406"]
 localPaths: ["Palm Beach County / primary ZIP 33406", "Palm Beach County / ZIP 33461 sector", "Palm Beach County / ZIP 33406 sector", "Palm Beach County / coords 26.6300, -80.1000", "Palm Beach County / elevation 36 ft band"]
-zillowHomeValueUsd: 422240
 ---
 
 **Engineering Notice for Palm Springs:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Palm Beach County.

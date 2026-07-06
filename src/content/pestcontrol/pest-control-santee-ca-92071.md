@@ -11,7 +11,6 @@ lng: -116.9900
 zipSample: ["92040", "92071"]
 zipCodes: ["92071", "92040"]
 localPaths: ["San Diego County / primary ZIP 92071", "San Diego County / coords 32.8600, -116.9900", "San Diego County / ZIP 92071 sector", "San Diego County / ZIP 92040 sector", "San Diego County / elevation 472 ft band"]
-zillowHomeValueUsd: 808587
 ---
 
 **Engineering Notice for Santee:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Diego County.

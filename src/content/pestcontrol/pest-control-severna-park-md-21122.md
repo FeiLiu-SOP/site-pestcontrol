@@ -11,7 +11,6 @@ lng: -76.5700
 zipSample: ["21146", "21122", "21123", "21108"]
 zipCodes: ["21122", "21108", "21123", "21146"]
 localPaths: ["Anne Arundel County / ZIP 21122 sector", "Anne Arundel County / coords 39.0900, -76.5700", "Anne Arundel County / ZIP 21146 sector", "Anne Arundel County / elevation 82 ft band", "Anne Arundel County / ZIP 21108 sector"]
-zillowHomeValueUsd: 454586
 ---
 
 **Engineering Notice for Severna Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Anne Arundel County.

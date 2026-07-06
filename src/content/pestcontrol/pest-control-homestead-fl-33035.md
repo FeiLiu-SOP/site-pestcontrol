@@ -11,7 +11,6 @@ lng: -80.4500
 zipSample: ["33030", "33033", "33035"]
 zipCodes: ["33030", "33035", "33033"]
 localPaths: ["Miami-Dade County / ZIP 33033 sector", "Miami-Dade County / coords 25.4700, -80.4500", "Miami-Dade County / primary ZIP 33035", "Miami-Dade County / ZIP 33030 sector", "Miami-Dade County / elevation 20 ft band"]
-zillowHomeValueUsd: 338335
 ---
 
 **Engineering Notice for Homestead:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Miami-Dade County.

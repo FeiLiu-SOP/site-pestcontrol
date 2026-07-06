@@ -7,11 +7,10 @@ zipCode: "91302"
 county: "Los Angeles County"
 elevationFt: 1430
 lat: 34.1400
-lng: -118.6700
+lng: -118.6400
 zipSample: ["91372", "91302"]
 zipCodes: ["91372", "91302"]
-localPaths: ["Los Angeles County / ZIP 91372 sector", "Los Angeles County / coords 34.1400, -118.6700", "Los Angeles County / ZIP 91302 sector", "Los Angeles County / elevation 1430 ft band", "Los Angeles County / primary ZIP 91302"]
-zillowHomeValueUsd: 1958279
+localPaths: ["Los Angeles County / ZIP 91372 sector", "Los Angeles County / coords 34.1400, -118.6400", "Los Angeles County / ZIP 91302 sector", "Los Angeles County / elevation 1430 ft band", "Los Angeles County / primary ZIP 91302"]
 ---
 
 **Engineering Notice for Calabasas:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
@@ -47,7 +46,7 @@ FAQ: Do ultrasonic devices replace exclusion? No—mesh gauge and door sweep gap
 
 Perimeter dossier 402174: bait station anchor map and mulch bridge risk flagged for Calabasas, CA county Los Angeles County (ZIP 91302).
 
-Exclusion audit 402174: exclusion mesh gauge and rodent runway grease mark reviewed for Calabasas, CA at 34.1400/-118.6700.
+Exclusion audit 402174: exclusion mesh gauge and rodent runway grease mark reviewed for Calabasas, CA at 34.1400/-118.6400.
 
 On-site sector marker: Los Angeles County / ZIP 91372 sector — logged for map parity and ZIP-corridor verification.
 

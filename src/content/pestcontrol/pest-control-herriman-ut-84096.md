@@ -11,7 +11,6 @@ lng: -112.0200
 zipSample: ["84096"]
 zipCodes: ["84096"]
 localPaths: ["Salt Lake County / elevation 5007 ft band", "Salt Lake County / ZIP 84096 sector", "Salt Lake County / coords 40.4900, -112.0200", "Salt Lake County / primary ZIP 84096"]
-zillowHomeValueUsd: 604129
 ---
 
 **Engineering Notice for Herriman:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: Salt Lake County.

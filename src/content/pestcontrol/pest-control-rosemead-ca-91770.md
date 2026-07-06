@@ -11,7 +11,6 @@ lng: -118.0800
 zipSample: ["91770", "91772", "91771"]
 zipCodes: ["91772", "91771", "91770"]
 localPaths: ["Los Angeles County / ZIP 91771 sector", "Los Angeles County / coords 34.0700, -118.0800", "Los Angeles County / elevation 285 ft band", "Los Angeles County / ZIP 91770 sector", "Los Angeles County / ZIP 91772 sector"]
-zillowHomeValueUsd: 912816
 ---
 
 **Engineering Notice for Rosemead:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

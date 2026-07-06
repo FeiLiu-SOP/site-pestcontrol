@@ -11,7 +11,6 @@ lng: -97.1400
 zipSample: ["76206", "76209", "76202", "76208", "76201"]
 zipCodes: ["76206", "76202", "76203", "76204", "76208", "76201", "76226", "76207", "76209", "76205", "76210"]
 localPaths: ["Denton County / ZIP 76201 sector", "Denton County / ZIP 76202 sector", "Denton County / ZIP 76206 sector", "Denton County / ZIP 76209 sector", "Denton County / elevation 686 ft band"]
-zillowHomeValueUsd: 356040
 ---
 
 **Engineering Notice for Denton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Denton County.

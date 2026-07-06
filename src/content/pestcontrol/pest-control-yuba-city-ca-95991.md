@@ -11,7 +11,6 @@ lng: -121.6400
 zipSample: ["95993", "95991"]
 zipCodes: ["95991", "95993"]
 localPaths: ["Sutter County / elevation 59 ft band", "Sutter County / coords 39.1400, -121.6400", "Sutter County / primary ZIP 95991", "Sutter County / ZIP 95993 sector", "Sutter County / ZIP 95991 sector"]
-zillowHomeValueUsd: 404848
 ---
 
 **Engineering Notice for Yuba City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Sutter County.

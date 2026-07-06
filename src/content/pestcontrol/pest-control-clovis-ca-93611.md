@@ -11,7 +11,6 @@ lng: -119.6800
 zipSample: ["93747", "93612", "93619", "93613", "93611"]
 zipCodes: ["93612", "93611", "93747", "93619", "93613"]
 localPaths: ["Fresno County / ZIP 93619 sector", "Fresno County / ZIP 93747 sector", "Fresno County / coords 36.8300, -119.6800", "Fresno County / ZIP 93611 sector", "Fresno County / ZIP 93612 sector"]
-zillowHomeValueUsd: 499412
 ---
 
 **Engineering Notice for Clovis:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fresno County.

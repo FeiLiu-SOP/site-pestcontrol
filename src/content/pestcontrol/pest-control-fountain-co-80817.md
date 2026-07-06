@@ -11,7 +11,6 @@ lng: -104.6800
 zipSample: ["80817"]
 zipCodes: ["80817"]
 localPaths: ["El Paso County / primary ZIP 80817", "El Paso County / elevation 5564 ft band", "El Paso County / ZIP 80817 sector", "El Paso County / coords 38.6900, -104.6800"]
-zillowHomeValueUsd: 395931
 ---
 
 **Engineering Notice for Fountain:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 3/10), and perimeter bait-station staging discipline. Regional dispatch grid: El Paso County.

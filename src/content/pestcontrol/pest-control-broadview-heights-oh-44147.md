@@ -11,7 +11,6 @@ lng: -81.6800
 zipSample: ["44147"]
 zipCodes: ["44147"]
 localPaths: ["Cuyahoga County / coords 41.3200, -81.6800", "Cuyahoga County / elevation 1181 ft band", "Cuyahoga County / ZIP 44147 sector", "Cuyahoga County / primary ZIP 44147"]
-zillowHomeValueUsd: 366151
 ---
 
 **Engineering Notice for Broadview Heights:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cuyahoga County.

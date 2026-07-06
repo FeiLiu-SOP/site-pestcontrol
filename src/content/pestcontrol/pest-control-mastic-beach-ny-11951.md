@@ -6,12 +6,11 @@ state: "NY"
 zipCode: "11951"
 county: "Suffolk County"
 elevationFt: 23
-lat: 40.7700
-lng: -72.8400
+lat: 40.7805
+lng: -72.8700
 zipSample: ["11951"]
 zipCodes: ["11951"]
-localPaths: ["Suffolk County / ZIP 11951 sector", "Suffolk County / primary ZIP 11951", "Suffolk County / elevation 23 ft band", "Suffolk County / coords 40.7700, -72.8400"]
-zillowHomeValueUsd: 470347
+localPaths: ["Suffolk County / ZIP 11951 sector", "Suffolk County / primary ZIP 11951", "Suffolk County / elevation 23 ft band", "Suffolk County / coords 40.7805, -72.8700"]
 ---
 
 **Engineering Notice for Mastic Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Suffolk County.
@@ -45,6 +44,6 @@ FAQ: How long until re-entry? Product labels and zone maps govern timing in Mast
 
 Zone map 808994: attic insulation disturbance trace and pantry pest source logged for Mastic Beach, NY sector 11951.
 
-On-site sector marker: Suffolk County / coords 40.7700, -72.8400 — logged for map parity and ZIP-corridor verification.
+On-site sector marker: Suffolk County / coords 40.7805, -72.8700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11951-8d6d202c

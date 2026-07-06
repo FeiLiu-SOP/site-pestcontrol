@@ -11,7 +11,6 @@ lng: -84.3700
 zipSample: ["45044", "45050", "45036"]
 zipCodes: ["45044", "45036", "45050"]
 localPaths: ["Butler County / coords 39.4500, -84.3700", "Butler County / ZIP 45044 sector", "Butler County / ZIP 45036 sector", "Butler County / primary ZIP 45050", "Butler County / elevation 830 ft band"]
-zillowHomeValueUsd: 351637
 ---
 
 **Engineering Notice for Monroe:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Butler County.

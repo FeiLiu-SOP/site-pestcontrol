@@ -7,11 +7,10 @@ zipCode: "90254"
 county: "Los Angeles County"
 elevationFt: 59
 lat: 33.8700
-lng: -118.4000
+lng: -118.3700
 zipSample: ["90254"]
 zipCodes: ["90254"]
-localPaths: ["Los Angeles County / primary ZIP 90254", "Los Angeles County / elevation 59 ft band", "Los Angeles County / coords 33.8700, -118.4000", "Los Angeles County / ZIP 90254 sector"]
-zillowHomeValueUsd: 2237787
+localPaths: ["Los Angeles County / primary ZIP 90254", "Los Angeles County / elevation 59 ft band", "Los Angeles County / coords 33.8700, -118.3700", "Los Angeles County / ZIP 90254 sector"]
 ---
 
 **Engineering Notice for Hermosa Beach:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.
@@ -43,7 +42,7 @@ Label note: Applications must follow EPA product labels for occupant notificatio
 
 Mud dauber nests in Hermosa Beach, CA porch ceilings are benign but signal prey density for spiders.
 
-Harbor ledger 171104: frass lane, mud-tube scan, and garage jamb gap measure filed for Hermosa Beach, CA at 33.8700, -118.4000.
+Harbor ledger 171104: frass lane, mud-tube scan, and garage jamb gap measure filed for Hermosa Beach, CA at 33.8700, -118.3700.
 
 Zone map 171104: attic insulation disturbance trace and pantry pest source logged for Hermosa Beach, CA sector 90254.
 

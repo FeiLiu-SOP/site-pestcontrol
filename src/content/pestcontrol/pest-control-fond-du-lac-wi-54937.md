@@ -11,7 +11,6 @@ lng: -88.4400
 zipSample: ["54935", "54936", "54937"]
 zipCodes: ["54937", "54935", "54936"]
 localPaths: ["Fond du Lac County / coords 43.7700, -88.4400", "Fond du Lac County / ZIP 54936 sector", "Fond du Lac County / primary ZIP 54937", "Fond du Lac County / ZIP 54935 sector", "Fond du Lac County / elevation 768 ft band"]
-zillowHomeValueUsd: 338898
 ---
 
 **Engineering Notice for Fond du Lac:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fond du Lac County.

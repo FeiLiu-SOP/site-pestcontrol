@@ -11,7 +11,6 @@ lng: -74.3200
 zipSample: ["08879", "08871", "08872", "08859"]
 zipCodes: ["08859", "08879", "08872", "08871"]
 localPaths: ["Middlesex County / primary ZIP 08872", "Middlesex County / coords 40.4700, -74.3200", "Middlesex County / elevation 30 ft band", "Middlesex County / ZIP 08879 sector", "Middlesex County / ZIP 08871 sector"]
-zillowHomeValueUsd: 538505
 ---
 
 **Engineering Notice for Sayreville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Middlesex County.

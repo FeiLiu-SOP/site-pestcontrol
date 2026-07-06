@@ -11,7 +11,6 @@ lng: -112.0700
 zipSample: ["84015"]
 zipCodes: ["84015"]
 localPaths: ["Davis County / primary ZIP 84015", "Davis County / coords 41.1400, -112.0700", "Davis County / ZIP 84015 sector", "Davis County / elevation 4341 ft band"]
-zillowHomeValueUsd: 465984
 ---
 
 **Engineering Notice for Clinton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Davis County.

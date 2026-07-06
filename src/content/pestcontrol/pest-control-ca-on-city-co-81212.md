@@ -11,7 +11,6 @@ lng: -105.2200
 zipSample: ["81212", "81215"]
 zipCodes: ["81212", "81215"]
 localPaths: ["Fremont County / elevation 5315 ft band", "Fremont County / ZIP 81212 sector", "Fremont County / primary ZIP 81212", "Fremont County / ZIP 81215 sector", "Fremont County / coords 38.4400, -105.2200"]
-zillowHomeValueUsd: 329655
 ---
 
 **Engineering Notice for Cañon City:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Fremont County.

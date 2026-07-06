@@ -11,7 +11,6 @@ lng: -92.2400
 zipSample: ["72190", "72115", "72118", "72113", "72214"]
 zipCodes: ["72214", "72116", "72117", "72113", "72115", "72190", "72114", "72118", "72124"]
 localPaths: ["Pulaski County / primary ZIP 72113", "Pulaski County / ZIP 72190 sector", "Pulaski County / elevation 299 ft band", "Pulaski County / ZIP 72115 sector", "Pulaski County / ZIP 72214 sector"]
-zillowHomeValueUsd: 303747
 ---
 
 **Engineering Notice for North Little Rock:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Pulaski County.

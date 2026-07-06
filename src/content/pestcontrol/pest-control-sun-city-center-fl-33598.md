@@ -11,7 +11,6 @@ lng: -82.3600
 zipSample: ["33598", "33573"]
 zipCodes: ["33598", "33573"]
 localPaths: ["Hillsborough County / coords 27.7100, -82.3600", "Hillsborough County / ZIP 33573 sector", "Hillsborough County / ZIP 33598 sector", "Hillsborough County / primary ZIP 33598", "Hillsborough County / elevation 49 ft band"]
-zillowHomeValueUsd: 350177
 ---
 
 **Engineering Notice for Sun City Center:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.

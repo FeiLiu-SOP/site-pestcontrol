@@ -11,7 +11,6 @@ lng: -81.4300
 zipSample: ["44224"]
 zipCodes: ["44224"]
 localPaths: ["Summit County / primary ZIP 44224", "Summit County / coords 41.1800, -81.4300", "Summit County / ZIP 44224 sector", "Summit County / elevation 1152 ft band"]
-zillowHomeValueUsd: 293489
 ---
 
 **Engineering Notice for Stow:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Summit County.

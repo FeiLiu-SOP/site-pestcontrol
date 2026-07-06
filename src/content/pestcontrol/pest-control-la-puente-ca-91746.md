@@ -11,7 +11,6 @@ lng: -117.9500
 zipSample: ["91746", "91749", "91747", "91744"]
 zipCodes: ["91746", "91749", "91744", "91747"]
 localPaths: ["Los Angeles County / primary ZIP 91746", "Los Angeles County / ZIP 91746 sector", "Los Angeles County / ZIP 91747 sector", "Los Angeles County / coords 34.0300, -117.9500", "Los Angeles County / ZIP 91744 sector"]
-zillowHomeValueUsd: 763979
 ---
 
 **Engineering Notice for La Puente:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Los Angeles County.

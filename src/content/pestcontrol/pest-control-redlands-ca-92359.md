@@ -11,7 +11,6 @@ lng: -117.1700
 zipSample: ["92346", "92375", "92359", "92374", "92373"]
 zipCodes: ["92374", "92373", "92375", "92359", "92346"]
 localPaths: ["San Bernardino County / ZIP 92374 sector", "San Bernardino County / ZIP 92346 sector", "San Bernardino County / primary ZIP 92359", "San Bernardino County / coords 34.0500, -117.1700", "San Bernardino County / ZIP 92375 sector"]
-zillowHomeValueUsd: 511495
 ---
 
 **Engineering Notice for Redlands:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: San Bernardino County.

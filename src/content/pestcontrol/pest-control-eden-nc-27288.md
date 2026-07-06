@@ -11,7 +11,6 @@ lng: -79.7400
 zipSample: ["27289", "27288"]
 zipCodes: ["27288", "27289"]
 localPaths: ["Rockingham County / elevation 643 ft band", "Rockingham County / ZIP 27288 sector", "Rockingham County / ZIP 27289 sector", "Rockingham County / primary ZIP 27288", "Rockingham County / coords 36.5000, -79.7400"]
-zillowHomeValueUsd: 149511
 ---
 
 **Engineering Notice for Eden:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Rockingham County.

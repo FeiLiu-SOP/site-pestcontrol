@@ -11,7 +11,6 @@ lng: -121.8800
 zipSample: ["94588", "94566"]
 zipCodes: ["94588", "94566"]
 localPaths: ["Alameda County / ZIP 94588 sector", "Alameda County / elevation 341 ft band", "Alameda County / coords 37.6700, -121.8800", "Alameda County / ZIP 94566 sector", "Alameda County / primary ZIP 94566"]
-zillowHomeValueUsd: 1746571
 ---
 
 **Engineering Notice for Pleasanton:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alameda County.

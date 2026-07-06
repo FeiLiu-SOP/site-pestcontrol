@@ -11,7 +11,6 @@ lng: -94.4200
 zipSample: ["64068", "64069"]
 zipCodes: ["64068", "64069"]
 localPaths: ["Clay County / coords 39.2400, -94.4200", "Clay County / ZIP 64069 sector", "Clay County / elevation 876 ft band", "Clay County / primary ZIP 64068", "Clay County / ZIP 64068 sector"]
-zillowHomeValueUsd: 326535
 ---
 
 **Engineering Notice for Liberty:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Clay County.

@@ -11,7 +11,6 @@ lng: -97.1500
 zipSample: ["76034"]
 zipCodes: ["76034"]
 localPaths: ["Tarrant County / ZIP 76034 sector", "Tarrant County / coords 32.8900, -97.1500", "Tarrant County / elevation 653 ft band", "Tarrant County / primary ZIP 76034"]
-zillowHomeValueUsd: 912153
 ---
 
 **Engineering Notice for Colleyville:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Tarrant County.

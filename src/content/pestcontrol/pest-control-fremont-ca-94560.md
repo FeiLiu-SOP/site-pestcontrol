@@ -11,7 +11,6 @@ lng: -121.9800
 zipSample: ["94538", "94555", "94536", "94560", "94537"]
 zipCodes: ["94555", "94538", "94539", "94537", "94536", "94560"]
 localPaths: ["Alameda County / ZIP 94555 sector", "Alameda County / ZIP 94560 sector", "Alameda County / ZIP 94537 sector", "Alameda County / ZIP 94538 sector", "Alameda County / coords 37.5300, -121.9800"]
-zillowHomeValueUsd: 1260656
 ---
 
 **Engineering Notice for Fremont:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 10/10), and perimeter bait-station staging discipline. Regional dispatch grid: Alameda County.

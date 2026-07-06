@@ -11,7 +11,6 @@ lng: -82.5600
 zipSample: ["33556", "33625"]
 zipCodes: ["33556", "33625"]
 localPaths: ["Hillsborough County / coords 28.0700, -82.5600", "Hillsborough County / ZIP 33625 sector", "Hillsborough County / ZIP 33556 sector", "Hillsborough County / elevation 56 ft band", "Hillsborough County / primary ZIP 33625"]
-zillowHomeValueUsd: 426962
 ---
 
 **Engineering Notice for Citrus Park:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Hillsborough County.

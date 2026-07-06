@@ -11,7 +11,6 @@ lng: -90.8100
 zipSample: ["70310", "70301"]
 zipCodes: ["70301", "70310"]
 localPaths: ["Lafourche Parish / coords 29.7900, -90.8100", "Lafourche Parish / ZIP 70301 sector", "Lafourche Parish / elevation 33 ft band", "Lafourche Parish / primary ZIP 70301", "Lafourche Parish / ZIP 70310 sector"]
-zillowHomeValueUsd: 224510
 ---
 
 **Engineering Notice for Thibodaux:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 9/10), and perimeter bait-station staging discipline. Regional dispatch grid: Lafourche Parish.

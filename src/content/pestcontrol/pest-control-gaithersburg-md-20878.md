@@ -11,7 +11,6 @@ lng: -77.2100
 zipSample: ["20884", "20899", "20885", "20879", "20898"]
 zipCodes: ["20877", "20884", "20898", "20878", "20885", "20879", "20899"]
 localPaths: ["Montgomery County / ZIP 20898 sector", "Montgomery County / ZIP 20899 sector", "Montgomery County / elevation 466 ft band", "Montgomery County / ZIP 20879 sector", "Montgomery County / coords 39.1300, -77.2100"]
-zillowHomeValueUsd: 703124
 ---
 
 **Engineering Notice for Gaithersburg:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Montgomery County.

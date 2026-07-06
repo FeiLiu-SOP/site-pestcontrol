@@ -11,7 +11,6 @@ lng: -122.9100
 zipSample: ["97355"]
 zipCodes: ["97355"]
 localPaths: ["Linn County / coords 44.5300, -122.9100", "Linn County / primary ZIP 97355", "Linn County / elevation 348 ft band", "Linn County / ZIP 97355 sector"]
-zillowHomeValueUsd: 390846
 ---
 
 **Engineering Notice for Lebanon:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 5/10), and perimeter bait-station staging discipline. Regional dispatch grid: Linn County.

@@ -11,7 +11,6 @@ lng: -78.6400
 zipSample: ["27698", "27676", "27675", "27636", "27619"]
 zipCodes: ["27604", "27656", "27658", "27616", "27608", "27640", "27614", "27603", "27626", "27634", "27607", "27676"]
 localPaths: ["Wake County / ZIP 27698 sector", "Wake County / ZIP 27675 sector", "Wake County / ZIP 27676 sector", "Wake County / ZIP 27619 sector", "Wake County / elevation 344 ft band"]
-zillowHomeValueUsd: 443657
 ---
 
 **Engineering Notice for Raleigh:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Wake County.

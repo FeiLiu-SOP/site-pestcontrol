@@ -7,11 +7,10 @@ zipCode: "60053"
 county: "Cook County"
 elevationFt: 643
 lat: 42.0400
-lng: -87.7900
+lng: -87.8200
 zipSample: ["60053"]
 zipCodes: ["60053"]
-localPaths: ["Cook County / elevation 643 ft band", "Cook County / ZIP 60053 sector", "Cook County / primary ZIP 60053", "Cook County / coords 42.0400, -87.7900"]
-zillowHomeValueUsd: 430733
+localPaths: ["Cook County / elevation 643 ft band", "Cook County / ZIP 60053 sector", "Cook County / primary ZIP 60053", "Cook County / coords 42.0400, -87.8200"]
 ---
 
 **Engineering Notice for Morton Grove:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 8/10), and perimeter bait-station staging discipline. Regional dispatch grid: Cook County.
@@ -45,7 +44,7 @@ Material note: Perimeter granules in Morton Grove, IL may need reapplication aft
 
 Species trace 901470: re-entry interval label and conducive moisture note keyed to Morton Grove, IL elevation 643 ft.
 
-Exclusion audit 901470: exclusion mesh gauge and rodent runway grease mark reviewed for Morton Grove, IL at 42.0400/-87.7900.
+Exclusion audit 901470: exclusion mesh gauge and rodent runway grease mark reviewed for Morton Grove, IL at 42.0400/-87.8200.
 
 Primary postal anchor 60053 with multi-ZIP overlap in Morton Grove; field packets tag Cook County for county-grid reconciliation.
 

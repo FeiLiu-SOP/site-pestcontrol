@@ -11,7 +11,6 @@ lng: -73.9300
 zipSample: ["12307", "12325", "12345", "12308", "12301"]
 zipCodes: ["12307", "12345", "12308", "12309", "12325", "12305", "12304", "12301"]
 localPaths: ["Schenectady County / ZIP 12307 sector", "Schenectady County / ZIP 12308 sector", "Schenectady County / ZIP 12345 sector", "Schenectady County / ZIP 12301 sector", "Schenectady County / coords 42.8000, -73.9300"]
-zillowHomeValueUsd: 281382
 ---
 
 **Engineering Notice for Schenectady:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 4/10), and perimeter bait-station staging discipline. Regional dispatch grid: Schenectady County.

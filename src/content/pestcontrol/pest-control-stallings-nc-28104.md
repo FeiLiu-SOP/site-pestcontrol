@@ -11,7 +11,6 @@ lng: -80.6600
 zipSample: ["28104"]
 zipCodes: ["28104"]
 localPaths: ["Union County / coords 35.1100, -80.6600", "Union County / elevation 679 ft band", "Union County / ZIP 28104 sector", "Union County / primary ZIP 28104"]
-zillowHomeValueUsd: 594919
 ---
 
 **Engineering Notice for Stallings:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 6/10), and perimeter bait-station staging discipline. Regional dispatch grid: Union County.

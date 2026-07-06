@@ -11,7 +11,6 @@ lng: -74.0000
 zipSample: ["07022"]
 zipCodes: ["07022"]
 localPaths: ["Bergen County / primary ZIP 07022", "Bergen County / elevation 262 ft band", "Bergen County / coords 40.8200, -74.0000", "Bergen County / ZIP 07022 sector"]
-zillowHomeValueUsd: 654981
 ---
 
 **Engineering Notice for Fairview:** Integrated pest management intake emphasizes exterior exclusion geometry, vent/soffit access survey (score 7/10), and perimeter bait-station staging discipline. Regional dispatch grid: Bergen County.
